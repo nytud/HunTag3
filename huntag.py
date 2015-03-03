@@ -33,9 +33,15 @@ def main_train(featureSet, options, inputStream=sys.stdin):
         trainer.getEventsFromFile(options.inFeatFileName)
     else:
         trainer.getEvents(inputStream, options.outFeatFileName)
-    trainer.cutoffFeats()
-    trainer.train()
-    trainer.save()
+    if optionsDict['task'] == 'most-informative-features':
+        trainer.mostInformativeFeatures()
+    elif options.toCRFsuite:
+        trainer.cutoffFeats()
+        trainer.toCRFsuite()
+    else:
+        trainer.cutoffFeats()
+        trainer.train()
+        trainer.save()
 
 
 def main_tag(featureSet, options):
@@ -51,6 +57,12 @@ def main_tag(featureSet, options):
         tagger_func = lambda: tagger.tag_dir(options.io_dirs[0])
         writer_func = lambda s, c: writeSentence(s, out=open(join(options.io_dirs[1],
             '{0}.tagged'.format(c)), 'a', encoding='UTF-8'))
+    elif options.toCRFsuite:
+        tagger_func = lambda: tagger.toCRFsuite(sys.stdin)
+        writer_func = lambda s, c: None
+    elif options.printWeights is not None:
+        tagger_func = lambda: tagger.print_weights(options.printWeights)
+        writer_func = lambda s, c: None
     else:
         tagger_func = lambda: tagger.tag_corp(sys.stdin)
         writer_func = lambda s, c: writeSentence(s, comment=c)
@@ -105,8 +117,8 @@ def validDir(input_dir):
 def parse_args():
     parser = argparse.ArgumentParser()
 
-    parser.add_argument('task', choices=['bigram-train', 'train', 'tag'],
-                        help='avaliable tasks: bigram-train, train, tag')
+    parser.add_argument('task', choices=['bigram-train', 'most-informative-features', 'train', 'tag'],
+                        help='avaliable tasks: bigram-train, most-informative-features, train, tag')
 
     parser.add_argument('-c', '--config-file', dest='cfgFile',
                         help='read feature configuration from FILE',
@@ -167,6 +179,12 @@ def parse_args():
                         help='specify FIELD containing the labels to build models from',
                         metavar='FIELD')
 
+    parser.add_argument('--toCRFsuite', dest='toCRFsuite', action='store_true', default=False,
+                        help='convert input to CRFsuite format to STDOUT')
+
+    parser.add_argument('--printWeights', dest='printWeights', type=int,
+                        help='print model weights instead of tagging')
+
     return parser.parse_args()
 
 
@@ -181,15 +199,16 @@ def main():
     options.labelCounterFileName = '{0}{1}'.format(options.modelName, options.labelNumbersExt)
 
     # Data sizes across the program (training and tagging). Check manuals for other sizes
-    options.dataSizes = {'rows': 'Q', 'rowsNP': np.uint64,     # Really big...
-                         'cols': 'Q', 'colsNP': np.uint64,     # ...enough for indices
-                         'data': 'B', 'dataNP': np.uint8,      # Currently data = {0, 1}
-                         'labels': 'B', 'labelsNP': np.uint16  # Currently labels > 256...
-                        }                                      # ...for safety
+    options.dataSizes = {'rows': 'Q', 'rowsNP': np.uint64,       # Really big...
+                         'cols': 'Q', 'colsNP': np.uint64,       # ...enough for indices
+                         'data': 'B', 'dataNP': np.uint8,        # Currently data = {0, 1}
+                         'labels': 'B', 'labelsNP': np.uint16,   # Currently labels > 256...
+                         'sentEnd': 'Q', 'sentEndNP': np.uint64  # Sentence Ends in rowIndex
+                        }                                        # ...for safety
 
     if options.task == 'bigram-train':
         main_bigramTrain(options, sys.stdin)
-    elif options.task == 'train':
+    elif options.task == 'train' or options.task == 'most-informative-features':
         featureSet = getFeatureSet(options.cfgFile)
         main_train(featureSet, options)
     elif options.task == 'tag':

@@ -19,10 +19,24 @@ class Tagger():
         print('loading transition model...', end='', file=sys.stderr, flush=True)
         self._transProbs = Bigram.getModelFromFile(options['bigramModelFileName'])
         print('done\nloading observation model...', end='', file=sys.stderr, flush=True)
-        self._model = joblib.load('{0}.model'.format(options['modelFileName']))
+        self._model = joblib.load('{0}'.format(options['modelFileName']))
         self._labelCounter = options['labelCounter']
         self._featCounter = options['featCounter']
-        print('done\n', file=sys.stderr, flush=True)
+        print('done', file=sys.stderr, flush=True)
+
+    def print_weights(self, n=100):
+        coefs = self._model.coef_
+        labelNoToName = self._labelCounter.noToName
+        featNoToName = self._featCounter.noToName
+        sortedFeats = sorted(featNoToName.items())
+        for i, label in sorted(labelNoToName.items()):
+            # Best
+            columns = ['{0}:{1}'.format(w, feat) for w, (no, feat) in
+                       sorted(zip(coefs[i, :], sortedFeats), reverse=True)]
+            print('{0}\t{1}'.format(label, '\t'.join(columns[:n])))
+            # Worst -> Negative correlation
+            print('{0}\t{1}'.format(label, '\t'.join(sorted(columns[-n:], reverse=True))))
+        return []
 
     def tag_features(self, file_name):
         sen_feats = []
@@ -65,7 +79,7 @@ class Tagger():
         # Get Sentence Features translated to numbers and contexts in two steps
         featNumbers = [set([self._featCounter.getNoTag(feat) for feat in feats])
                        for feats in senFeats]
-        invalidFeatNo = self._featCounter.featNumNotFound
+        invalidFeatNo = self._featCounter.numNotFound
 
         rows = []
         cols = []
@@ -77,12 +91,31 @@ class Tagger():
                     cols.append(featNum)
                     data.append(1)
         contexts = csr_matrix((data, (rows, cols)),
-                              shape=(len(featNumbers), self._featCounter.numOfFeats()),
+                              shape=(len(featNumbers), self._featCounter.numOfNames()),
                               dtype=self._dataSizes['dataNP'])
-        logTagProbsByPos = [dict([(self._labelCounter.noToFeat[i], prob)
+        logTagProbsByPos = [dict([(self._labelCounter.noToName[i], prob)
                    for i, prob in enumerate(probDist)])
                    for probDist in self._model.predict_log_proba(contexts)]
         return logTagProbsByPos
+
+    def toCRFsuite(self, inputStream):
+        senCount = 0
+        invalidFeatNo = self._featCounter.numNotFound
+        featnoToName = self._featCounter.noToName
+        for sen, comment in sentenceIterator(inputStream):
+            senCount += 1
+            senFeats = featurizeSentence(sen, self._features)
+            # Get Sentence Features translated to numbers and contexts in two steps
+            featNumbers = [set([self._featCounter.getNoTag(feat) for feat in feats])
+                           for feats in senFeats]
+            for featNumberSet in featNumbers:
+                print('\t'.join([featnoToName[featNum].replace(':', 'colon')
+                                 for featNum in featNumberSet if featNum > invalidFeatNo]))
+            print()  # Sentence separator blank line
+            if senCount % 1000 == 0:
+                print('{0}...'.format(str(senCount)), end='', file=sys.stderr, flush=True)
+        print('{0}...done'.format(str(senCount)), file=sys.stderr, flush=True)
+        return []
 
     def _tag_sen_feats(self, sen_feats):
         logTagProbsByPos = self._getLogTagProbsByPos(sen_feats)

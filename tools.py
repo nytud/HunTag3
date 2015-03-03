@@ -52,57 +52,68 @@ def featurizeSentence(sen, features):
             sentenceFeats[c] += feats
     return sentenceFeats
 
+def index(arr, start, elem):
+    ind = -1
+    for i, e in enumerate(arr[start:]):
+        if e <= elem:
+            ind = start + i
+        else:
+            break
+    return ind
 
-# Keeps Feature-Number translation maps, for faster computations
+# Keeps Feature/Label-Number translation maps, for faster computations
 class BookKeeper():
     def __init__(self):
-        self._featCounter = defaultdict(int)
-        self._featToNo = {}
-        self.noToFeat = {}  # This is built only uppon reading back from file
-        self._nextFeatNo = 0
-        self.featNumNotFound = self._nextFeatNo - 1
+        self._counter = defaultdict(int)
+        self._nameToNo = {}
+        self.noToName = {}  # This is built only uppon reading back from file
+        self._nextNo = 0
+        self.numNotFound = self._nextNo - 1
 
-    def numOfFeats(self):
-        return len(self._featToNo)
+    def numOfNames(self):
+        return len(self._nameToNo)
+
+    def makenoToName(self):
+        self.noToName = {v: k for k, v in self._nameToNo.items()}
 
     def cutoff(self, cutoff):
         toDelete = set()
-        for feat, count in self._featCounter.items():
+        for name, count in self._counter.items():
             if count < cutoff:
-                toDelete.add(self._featToNo[feat])
-                self._featToNo.pop(feat)
-        newFeatNo = dict(((feat, i) for i, (feat, no) in
-                          enumerate(sorted(self._featToNo.items(), key=itemgetter(1)))))
-        del self._featCounter
-        del self._featToNo
-        self._featToNo = newFeatNo
+                toDelete.add(self._nameToNo[name])
+                self._nameToNo.pop(name)
+        newNameNo = dict(((name, i) for i, (name, no) in
+                          enumerate(sorted(self._nameToNo.items(), key=itemgetter(1)))))
+        del self._counter
+        del self._nameToNo
+        self._nameToNo = newNameNo
         return toDelete
 
-    def getNoTag(self, feat):
-        if not feat in self._featToNo:
-            return self.featNumNotFound
-        return self._featToNo[feat]
+    def getNoTag(self, name):
+        if not name in self._nameToNo:
+            return self.numNotFound
+        return self._nameToNo[name]
 
-    def getNoTrain(self, feat):
-        self._featCounter[feat] += 1
-        if not feat in self._featToNo:
-            self._featToNo[feat] = self._nextFeatNo
-            self._nextFeatNo += 1
-        return self._featToNo[feat]
+    def getNoTrain(self, name):
+        self._counter[name] += 1
+        if not name in self._nameToNo:
+            self._nameToNo[name] = self._nextNo
+            self._nextNo += 1
+        return self._nameToNo[name]
 
     def saveToFile(self, fileName):
         f = open(fileName, 'w', encoding='UTF-8')
-        for feat, no in sorted(self._featToNo.items(), key=itemgetter(1)):
-            f.write('{0}\t{1}\n'.format(feat, str(no)))
+        for name, no in sorted(self._nameToNo.items(), key=itemgetter(1)):
+            f.write('{0}\t{1}\n'.format(name, str(no)))
         f.close()
 
     def readFromFile(self, fileName):
-        self._featToNo = {}
-        self.noToFeat = {}
+        self._nameToNo = {}
+        self.noToName = {}
         for line in open(fileName, encoding='UTF-8'):
             l = line.strip().split()
-            feat, no = l[0], int(l[1])
-            self._featToNo[feat] = no
-            self.noToFeat[no] = feat
+            name, no = l[0], int(l[1])
+            self._nameToNo[name] = no
+            self.noToName[no] = name
             # This isn't used currently
-            self._nextFeatNo = no + 1
+            self._nextNo = no + 1

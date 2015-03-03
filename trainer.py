@@ -6,13 +6,15 @@ trainer.py is a module of HunTag and is used to train maxent models
 """
 
 import sys
+from operator import itemgetter
+from collections import Counter, defaultdict
 from sklearn.externals import joblib
 from scipy.sparse import csr_matrix
 import numpy as np
 from array import array
 from sklearn.linear_model import LogisticRegression
 
-from tools import BookKeeper, sentenceIterator, featurizeSentence
+from tools import BookKeeper, sentenceIterator, featurizeSentence, index
 
 
 class Trainer():
@@ -37,6 +39,7 @@ class Trainer():
         self._cols = array(self._dataSizes['cols'])
         self._data = array(self._dataSizes['data'])
         self._labels = array(self._dataSizes['labels'])
+        self._sentEnd = array(self._dataSizes['sentEnd'])  # Keep track of sentence boundaries
         self._matrix = None
 
         self._featCounter = BookKeeper()
@@ -48,11 +51,21 @@ class Trainer():
 
     def save(self):
         print('saving model...', end='', file=sys.stderr, flush=True)
-        joblib.dump(self._model, '{0}.model'.format(self._modelFileName))
+        joblib.dump(self._model, '{0}'.format(self._modelFileName))
         print('done\nsaving feature and label lists...', end='', file=sys.stderr, flush=True)
         self._featCounter.saveToFile(self._featCounterFileName)
         self._labelCounter.saveToFile(self._labelCounterFileName)
         print('done', file=sys.stderr, flush=True)
+
+    def _updateSentEnd(self, sentEnds, rowNums):
+        newEnds = array(self._dataSizes['sentEnd'])
+        vbeg = 0
+        for end in sentEnds:
+            vend = index(rowNums, vbeg, end)
+            if vend > 0:
+                newEnds.append(vend)
+                vbeg = vend + 1
+        return newEnds
 
     def _convertToNPArray(self):
         rowsNP = np.array(self._rows, dtype=self._dataSizes['rowsNP'])
@@ -80,7 +93,7 @@ class Trainer():
 
     def cutoffFeats(self):
         self._convertToNPArray()
-        colNum = self._featCounter.numOfFeats()
+        colNum = self._featCounter.numOfNames()
         if self._cutoff < 2:
             self._matrix = self._makeSparseArray(self._tokCount, colNum)
         else:
@@ -96,14 +109,17 @@ class Trainer():
                                        dtype=self._dataSizes['cols'])
             del toDelete
 
+            # Reduce cols
             colsNPNew = self._cols[indicesToKeepNP]
             del self._cols
             self._cols = colsNPNew
 
+            # Reduce data
             dataNPNew = self._data[indicesToKeepNP]
             del self._data
             self._data = dataNPNew
 
+            # Reduce rows
             rowsNPNew = self._rows[indicesToKeepNP]
             rowNumKeep = np.unique(rowsNPNew)
             rowNum = rowNumKeep.shape[0]
@@ -112,9 +128,15 @@ class Trainer():
             self._rows = rowsNPNew
             del indicesToKeepNP
 
+            # Reduce labels
             labelsNPNew = self._labels[rowNumKeep]
             del self._labels
             self._labels = labelsNPNew
+
+            # Update sentence end markers
+            newEnd = self._updateSentEnd(self._sentEnd, rowNumKeep)
+            del self._sentEnd
+            self._sentEnd = newEnd
             del rowNumKeep
 
             print('done!', file=sys.stderr, flush=True)
@@ -154,6 +176,7 @@ class Trainer():
                     out_file.write('{0}\t{1}\n'.format(tok[self._tagField],
                                                        ' '.join(tokFeats)))
                 self._addContext(tokFeats, tok[self._tagField], tokIndex)
+            self._sentEnd.append(tokIndex)
             if out_file_name:
                 out_file.write('\n')
             if senCount % 1000 == 0:
@@ -171,6 +194,7 @@ class Trainer():
                 l = line.split()
                 label, feats = l[0], l[1:]
                 self._addContext(feats, label, tokIndex)
+            self._sentEnd.append(tokIndex)
         self._tokCount = tokIndex + 1
 
     def _addContext(self, tokFeats, label, curTok):
@@ -187,6 +211,53 @@ class Trainer():
             dataAppend(1)
 
         self._labels.append(self._labelCounter.getNoTrain(label))
+
+    def mostInformativeFeatures(self):
+        self._featCounter.makenoToName()
+        self._labelCounter.makenoToName()
+        featnoToName = self._featCounter.noToName
+        labelnoToName = self._labelCounter.noToName
+        rows = self._rows
+        cols = self._cols
+        labels = self._labels
+        featSorted = defaultdict(Counter)
+        for ind, rowNum in enumerate(rows):
+            featSorted[cols[ind]][labels[rowNum]] += 1
+
+        ranking = []
+        for featNum, occurences in sorted(featSorted.items()):
+            sumOccurences = 0
+            labels_counts = []
+            for label, count in sorted(occurences.items(), key=itemgetter(1), reverse=True):
+                sumOccurences += count
+                labels_counts.append((labelnoToName[label], count))
+
+            maximum = labels_counts[0][1] / sumOccurences  # Because it's sorted reverse
+            labels_counts_prob = []
+            for label, count in occurences.items():
+                labels_counts_prob.append((labelnoToName[label], count / sumOccurences))
+            featData = '{0}\t{1}\t{2}\t{3}'.format(featnoToName[featNum], sumOccurences,
+                                                   '/'.join(['{0}:{1}'.format(l, c) for l, c in labels_counts]),
+                                                   '/'.join(['{0}:{1}'.format(l, p) for l, p in labels_counts_prob]))
+            ranking.append((maximum, sumOccurences, featData))
+        for _, _, text in sorted(ranking, reverse=True):
+            print(text)
+
+    def toCRFsuite(self):
+        self._featCounter.makenoToName()
+        self._labelCounter.makenoToName()
+        featnoToName = self._featCounter.noToName
+        labelnoToName = self._labelCounter.noToName
+        sentEnd = self._sentEnd
+        matrix = self._matrix.tocsr()
+        labels = self._labels
+        beg = 0
+        for end in sentEnd:
+            for row in range(beg, end + 1):
+                columns = [featnoToName[col].replace(':', 'colon') for col in matrix[row, :].nonzero()[1]]
+                print('{0}\t{1}'.format(labelnoToName[labels[row]], '\t'.join(columns)))
+            print()  # Sentence separator blank line
+            beg = end + 1
 
     def train(self):
         print('training with option(s) "{0}"...'.format(
