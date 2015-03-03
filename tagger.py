@@ -1,26 +1,27 @@
 #!/usr/bin/python3
 # -*- coding: utf-8, vim: expandtab:ts=4 -*-
 
-import math
 import sys
 import os
+from sklearn.externals import joblib
+from scipy.sparse import csr_matrix
+
 
 from bigram import Bigram, viterbi
-from liblinearutil import load_model, predict
 from tools import sentenceIterator, featurizeSentence
 
 
 class Tagger():
     def __init__(self, features, options):
-        self.features = features
-        self.params = '-b 1'  # Order Liblinear to predict probability estimates
-        self.lmw = options['lmw']
+        self._features = features
+        self._dataSizes = options['dataSizes']
+        self._lmw = options['lmw']
         print('loading transition model...', end='', file=sys.stderr, flush=True)
-        self.transProbs = Bigram.getModelFromFile(options['bigramModelFileName'])
+        self._transProbs = Bigram.getModelFromFile(options['bigramModelFileName'])
         print('done\nloading observation model...', end='', file=sys.stderr, flush=True)
-        self.model = load_model(options['modelFileName'].encode('UTF-8'))
-        self.labelCounter = options['labelCounter']
-        self.featCounter = options['featCounter']
+        self._model = joblib.load('{0}.model'.format(options['modelFileName']))
+        self._labelCounter = options['labelCounter']
+        self._featCounter = options['featCounter']
         print('done\n', file=sys.stderr, flush=True)
 
     def tag_features(self, file_name):
@@ -30,7 +31,7 @@ class Tagger():
             line = line.strip()
             if len(line) == 0:
                 senCount += 1
-                tagging = self.tag_sen_feats(sen_feats)
+                tagging = self._tag_sen_feats(sen_feats)
                 yield [[tag] for tag in tagging]
                 sen_feats = []
                 if senCount % 1000 == 0:
@@ -51,8 +52,8 @@ class Tagger():
         senCount = 0
         for sen, comment in sentenceIterator(inputStream):
             senCount += 1
-            senFeats = featurizeSentence(sen, self.features)
-            bestTagging = self.tag_sen_feats(senFeats)
+            senFeats = featurizeSentence(sen, self._features)
+            bestTagging = self._tag_sen_feats(senFeats)
             # Add tagging to sentence
             taggedSen = [tok + [bestTagging[c]] for c, tok in enumerate(sen)]
             yield taggedSen, comment
@@ -60,28 +61,31 @@ class Tagger():
                 print('{0}...'.format(str(senCount)), end='', file=sys.stderr, flush=True)
         print('{0}...done'.format(str(senCount)), file=sys.stderr, flush=True)
 
-    def getLogTagProbsByPos(self, senFeats):
-        # XXX We might add features, that are not in the training set
-        # Get Sentence Features translated to numbers and contexts simultaneity
-        contexts = [dict([(self.featCounter.getNo(feat), 1) for feat in feats])
-                    for feats in senFeats]
+    def _getLogTagProbsByPos(self, senFeats):
+        # Get Sentence Features translated to numbers and contexts in two steps
+        featNumbers = [set([self._featCounter.getNoTag(feat) for feat in feats])
+                       for feats in senFeats]
+        invalidFeatNo = self._featCounter.featNumNotFound
 
-        # This is liblinear dependent
-        dummyOutcomes = [1 for _ in contexts]
-        # pred_labels, ACC, pred_values
-        _, _, probDistsByPos = predict(dummyOutcomes, contexts,
-                                       self.model, self.params)
-
-        # Apply math.log() to probDist's elements
-        logTagProbsByPos = [dict([(self.labelCounter.noToFeat[i + 1],
-                                   math.log(prob))
-                                  for i, prob in enumerate(probDist)])
-                            for probDist in probDistsByPos]
-
+        rows = []
+        cols = []
+        data = []
+        for rownum, featNumberSet in enumerate(featNumbers):
+            for featNum in featNumberSet:
+                if featNum > invalidFeatNo:
+                    rows.append(rownum)
+                    cols.append(featNum)
+                    data.append(1)
+        contexts = csr_matrix((data, (rows, cols)),
+                              shape=(len(featNumbers), self._featCounter.numOfFeats()),
+                              dtype=self._dataSizes['dataNP'])
+        logTagProbsByPos = [dict([(self._labelCounter.noToFeat[i], prob)
+                   for i, prob in enumerate(probDist)])
+                   for probDist in self._model.predict_log_proba(contexts)]
         return logTagProbsByPos
 
-    def tag_sen_feats(self, sen_feats):
-        logTagProbsByPos = self.getLogTagProbsByPos(sen_feats)
-        _, bestTagging = viterbi(self.transProbs, logTagProbsByPos,
-                                 self.lmw)
+    def _tag_sen_feats(self, sen_feats):
+        logTagProbsByPos = self._getLogTagProbsByPos(sen_feats)
+        _, bestTagging = viterbi(self._transProbs, logTagProbsByPos,
+                                 self._lmw)
         return bestTagging

@@ -1,6 +1,8 @@
 #!/usr/bin/python3
 # -*- coding: utf-8, vim: expandtab:ts=4 -*-
 # Miscellaneous tools for HunTag
+
+from operator import itemgetter
 from collections import defaultdict
 import sys
 
@@ -56,31 +58,41 @@ class BookKeeper():
     def __init__(self):
         self._featCounter = defaultdict(int)
         self._featToNo = {}
-        self.noToFeat = {}
-        # XXX Liblinear segfaults if indices start from 0
-        self._nextFeatNo = 1
+        self.noToFeat = {}  # This is built only uppon reading back from file
+        self._nextFeatNo = 0
+        self.featNumNotFound = self._nextFeatNo - 1
+
+    def numOfFeats(self):
+        return len(self._featToNo)
 
     def cutoff(self, cutoff):
         toDelete = set()
         for feat, count in self._featCounter.items():
             if count < cutoff:
-                toDelete.add(feat)
-        for feat in toDelete:
-            self._featCounter.pop(feat)
-            self.noToFeat.pop(self._featToNo[feat])
-            self._featToNo.pop(feat)
+                toDelete.add(self._featToNo[feat])
+                self._featToNo.pop(feat)
+        newFeatNo = dict(((feat, i) for i, (feat, no) in
+                          enumerate(sorted(self._featToNo.items(), key=itemgetter(1)))))
+        del self._featCounter
+        del self._featToNo
+        self._featToNo = newFeatNo
+        return toDelete
 
-    def getNo(self, feat):
+    def getNoTag(self, feat):
+        if not feat in self._featToNo:
+            return self.featNumNotFound
+        return self._featToNo[feat]
+
+    def getNoTrain(self, feat):
         self._featCounter[feat] += 1
         if not feat in self._featToNo:
             self._featToNo[feat] = self._nextFeatNo
-            self.noToFeat[self._nextFeatNo] = feat
             self._nextFeatNo += 1
         return self._featToNo[feat]
 
     def saveToFile(self, fileName):
         f = open(fileName, 'w', encoding='UTF-8')
-        for feat, no in self._featToNo.items():
+        for feat, no in sorted(self._featToNo.items(), key=itemgetter(1)):
             f.write('{0}\t{1}\n'.format(feat, str(no)))
         f.close()
 
@@ -89,9 +101,8 @@ class BookKeeper():
         self.noToFeat = {}
         for line in open(fileName, encoding='UTF-8'):
             l = line.strip().split()
-            # Feats not sorted by their numbers!
             feat, no = l[0], int(l[1])
             self._featToNo[feat] = no
             self.noToFeat[no] = feat
-            # XXX This is wrong and not used currently
+            # This isn't used currently
             self._nextFeatNo = no + 1

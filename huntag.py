@@ -6,6 +6,7 @@ import argparse
 from os.path import isdir, join
 import sys
 import os
+import numpy as np
 
 from feature import Feature
 from trainer import Trainer
@@ -136,7 +137,7 @@ def parse_args():
                         help='set relative weight of the language model to L',
                         metavar='L')
 
-    parser.add_argument('-o', '--cutoff', dest='cutoff', type=int, default=1,
+    parser.add_argument('-o', '--cutoff', dest='cutoff', type=int, default=2,
                         help='set global cutoff to C',
                         metavar='C')
 
@@ -178,6 +179,13 @@ def main():
     options.bigramModelFileName = '{0}{1}'.format(options.modelName, options.bigramModelExt)
     options.featCounterFileName = '{0}{1}'.format(options.modelName, options.featureNumbersExt)
     options.labelCounterFileName = '{0}{1}'.format(options.modelName, options.labelNumbersExt)
+
+    # Data sizes across the program (training and tagging). Check manuals for other sizes
+    options.dataSizes = {'rows': 'Q', 'rowsNP': np.uint64,     # Really big...
+                         'cols': 'Q', 'colsNP': np.uint64,     # ...enough for indices
+                         'data': 'B', 'dataNP': np.uint8,      # Currently data = {0, 1}
+                         'labels': 'B', 'labelsNP': np.uint16  # Currently labels > 256...
+                        }                                      # ...for safety
 
     if options.task == 'bigram-train':
         main_bigramTrain(options, sys.stdin)
