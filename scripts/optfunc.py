@@ -1,7 +1,14 @@
+#!/usr/bin/python
+# -*- coding: utf-8, vim: expandtab:ts=4 -*-
+
 from optparse import OptionParser, make_option
-import sys, inspect, re
+import sys
+import inspect
+import re
+
 
 single_char_prefix_re = re.compile('^[a-zA-Z0-9]_')
+
 
 class ErrorCollectingOptionParser(OptionParser):
     def __init__(self, *args, **kwargs):
@@ -9,10 +16,10 @@ class ErrorCollectingOptionParser(OptionParser):
         self._custom_names = {}
         # can't use super() because OptionParser is an old style class
         OptionParser.__init__(self, *args, **kwargs)
-    
+
     def parse_args(self, argv):
         options, args = OptionParser.parse_args(self, argv)
-        for k,v in options.__dict__.iteritems():
+        for k, v in options.__dict__.iteritems():
             if k in self._custom_names:
                 options.__dict__[self._custom_names[k]] = v
                 del options.__dict__[k]
@@ -20,6 +27,7 @@ class ErrorCollectingOptionParser(OptionParser):
 
     def error(self, msg):
         self._errors.append(msg)
+
 
 def func_to_optionparser(func):
     args, varargs, varkw, defaultvals = inspect.getargspec(func)
@@ -32,14 +40,14 @@ def func_to_optionparser(func):
         required_args = args[argstart:-len(defaultvals)]
     else:
         required_args = args[argstart:]
-    
+
     # Build the OptionParser:
-    opt = ErrorCollectingOptionParser(usage = func.__doc__)
-    
+    opt = ErrorCollectingOptionParser(usage=func.__doc__)
+
     helpdict = getattr(func, 'optfunc_arghelp', {})
-    
+
     # Add the options, automatically detecting their -short and --long names
-    shortnames = set(['h'])
+    shortnames = {'h'}
     for funcname, example in options.items():
         # They either explicitly set the short with x_blah...
         name = funcname
@@ -52,7 +60,7 @@ def func_to_optionparser(func):
             for short in name:
                 if short not in shortnames:
                     break
-        
+
         shortnames.add(short)
         short_name = '-%s' % short
         long_name = '--%s' % name.replace('_', '-')
@@ -62,41 +70,41 @@ def func_to_optionparser(func):
             action = 'store'
         opt.add_option(make_option(
             short_name, long_name, action=action, dest=name, default=example,
-            help = helpdict.get(funcname, '')
+            help=helpdict.get(funcname, '')
         ))
-    
+
     return opt, required_args
+
 
 def resolve_args(func, argv):
     parser, required_args = func_to_optionparser(func)
     options, args = parser.parse_args(argv)
-    
+
     # Special case for stdin/stdout/stderr
     for pipe in ('stdin', 'stdout', 'stderr'):
         if pipe in required_args:
             required_args.remove(pipe)
             setattr(options, 'optfunc_use_%s' % pipe, True)
-    
+
     # Do we have correct number af required args?
     if len(required_args) != len(args):
         if not hasattr(func, 'optfunc_notstrict'):
             parser._errors.append('Required %d arguments, got %d' % (
                 len(required_args), len(args)
             ))
-    
+
     # Ensure there are enough arguments even if some are missing
     args += [None] * (len(required_args) - len(args))
     for i, name in enumerate(required_args):
         setattr(options, name, args[i])
-    
+
     return options.__dict__, parser._errors
 
-def run(
-        func, argv=None, stdin=sys.stdin, stdout=sys.stdout, stderr=sys.stderr
-    ):
+
+def run(func, argv=None, stdin=sys.stdin, stdout=sys.stdout, stderr=sys.stderr):
     argv = argv or sys.argv[1:]
     include_func_name_in_errors = True
-    
+
     # Handle multiple functions
     if isinstance(func, (tuple, list)):
         funcs = dict([
@@ -125,21 +133,21 @@ def run(
             resolved, errors = {}, []
     else:
         raise TypeError('arg is not a Python function or class')
-    
+
     # Special case for stdin/stdout/stderr
     for pipe in ('stdin', 'stdout', 'stderr'):
         if resolved.pop('optfunc_use_%s' % pipe, False):
             resolved[pipe] = locals()[pipe]
-    
+
     if not errors:
         try:
-          return func(**resolved)
-        
+            return func(**resolved)
+
         except Exception, e:
             import traceback
             traceback.print_exc(file=sys.stderr)
             sys.exit(-1)
-            
+
             """
             if include_func_name_in_errors:
                 stderr.write('%s: ' % func.__name__)
@@ -150,17 +158,20 @@ def run(
             stderr.write('%s: ' % func.__name__)
         stderr.write("%s\n" % '\n'.join(errors))
 
+
 def main(*args, **kwargs):
     prev_frame = inspect.stack()[-1][0]
     mod = inspect.getmodule(prev_frame)
     if mod is not None and mod.__name__ == '__main__':
         run(*args, **kwargs)
-    return args[0] # So it won't break anything if used as a decorator
+    return args[0]  # So it won't break anything if used as a decorator
+
 
 # Decorators
 def notstrict(fn):
     fn.optfunc_notstrict = True
     return fn
+
 
 def arghelp(name, help):
     def inner(fn):

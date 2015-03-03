@@ -1,4 +1,8 @@
+#!/usr/bin/python
+# -*- coding: utf-8, vim: expandtab:ts=4 -*-
+
 import sys
+
 in_phrase = False
 for line in sys.stdin:
     if line == '\n':

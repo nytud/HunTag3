@@ -1,79 +1,128 @@
-#feature.py is a module of HunTag. The Feature class is used for representing a feature type and calculating its value for some input. Feature instances are created by the getFeatureSet function in huntag.py.
-from lexicon import Lexicon
+#!/usr/bin/python
+# -*- coding: utf-8, vim: expandtab:ts=4 -*-
+"""
+feature.py is a module of HunTag. The Feature class is used for representing
+a feature type and calculating its value for some input. Feature instances are
+created by the getFeatureSet function in huntag.py.
+"""
+
 import sys
 
 import features
 
+
 class Feature():
-    def __init__(self, kind, name, actionName, fields, radius, cutoff, options ) :
-        self.name = name
+    def __init__(self, kind, name, actionName, fields, radius, cutoff,
+                 options):
         self.kind = kind
+        self.name = name
         self.actionName = actionName
         self.fields = fields
+        if self.kind == 'lex' and len(self.fields) != 1:
+            sys.stderr.write('Error: Feature "{0}" field count must be\
+            one not {1}!'.format(self.name, self.fields))
+            sys.exit(1)
         self.radius = int(radius)
         self.cutoff = int(cutoff)
         self.options = options
-        if kind=="lex" :
-            if self.options != {}:
+        if kind == 'lex':
+            if len(self.options) > 0:
                 sys.stderr.write('Lexicon features do not yet support options')
-                sys.exit(-1)
-            self.lexicon = Lexicon(actionName)
-        elif kind in ("token","sentence") :
+                sys.exit(1)
+            self.lexicon = Lexicon(actionName)  # Load input file
+        elif kind in ('token', 'sentence'):
             if actionName not in features.__dict__:
-                sys.stderr.write( "Unknown operator named "+actionName+"\n" )
-                sys.exit(-1)
+                sys.stderr.write('Unknown operator named {0}\n'.format(actionName))
+                sys.exit(1)
             self.function = features.__dict__[actionName]
-        else :
-            assert False
+        else:
+            sys.stderr.write('Unknown kind named {0}\n'.format(kind))
+            sys.exit(1)
 
-    def evalSentence_Token(self, sentence) :
+    def evalSentence_Token(self, sentence):
         featVec = []
-        for pos,word in enumerate(sentence) :
-            fieldVec = [ word[field] for field in self.fields ]
-            if self.options!={}:
-                fieldVec += [self.options]
-            feat = self.function( *fieldVec )
-            featVec.append(feat)
+        for word in sentence:
+            # Pick the relevant fields (label can be not just the last field)
+            fieldVec = [word[field] for field in self.fields]
+            if len(self.options) > 0:
+                # Options dict if there is any
+                fieldVec.append(self.options)
+            # Unpack argument list for function, then append the result
+            featVec.append(self.function(*fieldVec))
         return featVec
 
-    def evalSentence_Lex(self, sentence) :
-        
-        assert len(self.fields)==1
-        field = self.fields[0]
-        
-        wordList = [ word[field] for word in sentence ] 
-        
+    # Word will be substituted by its features from the Lexicon
+    # self.fields denote the column of the word
+    def evalSentence_Lex(self, sentence):
+        wordList = [word[self.fields[0]] for word in sentence]
         return self.lexicon.lexEvalSentence(wordList)
-        
-    def evalSentence_Sentence(self, sentence) :
-        if self.options == {}:
-            return self.function( sentence, self.fields )        
+
+    def evalSentence_Sentence(self, sentence):
+        # XXX Should be better to make function signatures more strict
+        if len(self.options) > 0:
+            return self.function(sentence, self.fields, self.options)
         else:
-            #print; '@'
-            return self.function( sentence, self.fields, self.options )        
+            return self.function(sentence, self.fields)
 
-    def evalSentence(self, sentence) :
-        if self.kind=="token" :
+    def evalSentence(self, sentence):
+        if self.kind == 'token':
             featVec = self.evalSentence_Token(sentence)
-        elif self.kind=="lex" :
+        elif self.kind == 'lex':
             featVec = self.evalSentence_Lex(sentence)
-        elif self.kind=="sentence" :
+        elif self.kind == 'sentence':
             featVec = self.evalSentence_Sentence(sentence)
-
+        else:
+            sys.stderr.write('evalSentence: Unknown kind named {0}\n'.format(self.kind))
+            sys.exit(1)
         return self.multiplyFeatures(sentence, featVec)
 
     def multiplyFeatures(self, sentence, featVec):
         multipliedFeatVec = []
-        for c,word in enumerate(sentence):
+        sentenceLen = len(sentence)
+        for c in range(sentenceLen):
             multipliedFeatVec.append([])
-            for i in range (-self.radius, self.radius+1):
-                pos = c+i
-                if pos<0 or pos>len(sentence)-1 :
-            	    continue
-                
-                currentWordFeatures = [feat for feat in featVec[pos] if feat!=0]
-                for feat in currentWordFeatures :
-                    multipliedFeatVec[c].append(str(i)+'_'+self.name+'='+str(feat))
-                        
+            # Iterate the radius, but keep the bounds of the list!
+            for pos in range(max(c - self.radius, 0),
+                             min(c + self.radius + 1, sentenceLen)):
+                for feat in featVec[pos]:
+                    if feat != 0:
+                        multipliedFeatVec[c].append('{0}_{1}={2}'.format(
+                            str(pos - c), self.name, str(feat)))
         return multipliedFeatVec
 
+
+"""
+the Lexicon class generates so-called lexicon features
+an instance of Lexicon() should be initialized for each lexicon file
+"""
+class Lexicon():
+    def __init__(self, inputFile):
+        self.phraseList = set()
+        self.endParts = set()
+        self.midParts = set()
+        self.startParts = set()
+        for line in open(inputFile):
+            phrase = line.strip()
+            self.phraseList.add(phrase)
+            words = phrase.split()
+            if len(words) > 1:
+                self.endParts.add(words[-1])
+                self.startParts.add(words[0])
+                if len(words) > 2:
+                    for w in words[1:-1]:
+                        self.midParts.add(w)
+
+    def getWordFeats(self, word):
+        wordFeats = []
+        if word in self.phraseList:
+            wordFeats.append('lone')
+        if word in self.endParts:
+            wordFeats.append('end')
+        if word in self.startParts:
+            wordFeats.append('start')
+        if word in self.midParts:
+            wordFeats.append('mid')
+        return wordFeats
+
+    def lexEvalSentence(self, sentence):
+        return [self.getWordFeats(word) for word in sentence]
