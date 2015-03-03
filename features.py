@@ -1,5 +1,5 @@
-#!/usr/bin/python
-# -*- coding: iso8859-2, vim: expandtab:ts=4 -*-
+#!/usr/bin/python3
+# -*- coding: utf-8, vim: expandtab:ts=4 -*-
 """
 features.py stores implementations of inidvidual feature types for use with
 HunTag. Feel free to add your own features but please add comments to describe
@@ -112,8 +112,8 @@ def sentenceEnd(surfaceformVector):
     return featureVector
 
 # GLOBAL DECLARATION BEGIN
-smallcase = 'aábcdeéfghiíjklmnoóöõpqrstuúüûvwxyz'
-bigcase = 'AÁBCDEÉFGHIÍJKLMNOÓÖÕPQRSTUÚÜÛVWXYZ'
+smallcase = 'aÃ¡bcdeÃ©fghiÃ­jklmnoÃ³Ã¶Å‘pqrstuÃºÃ¼Å±vwxyz'
+bigcase = 'AÃBCDEÃ‰FGHIÃJKLMNOÃ“Ã–ÅPQRSTUÃšÃœÅ°VWXYZ'
 big2small = {}
 for i, _ in enumerate(bigcase):
     big2small[bigcase[i]] = smallcase[i]
@@ -163,7 +163,7 @@ def scase(word):
 
 
 def isInRangeWithSmallCase(word):
-    # sys.stderr.write(word+'\n')
+    # print(word, file=sys.stderr, flush=True)
     checkedRange = 30
     if word[0] in smallcase:
         return 'n/a'
@@ -347,8 +347,9 @@ def capsPattern_test():
 def isBetweenSameCases(sentence, fields, maxDist=6):
     featVec = [[] for _ in sentence]
     if len(fields) > 1:
-        sys.stderr.write('Error: "isBetweenSameCases" function\'s "fields" \
-                    argument\'s length must be one not {0}'.format(len(fields)))
+        print('Error: "isBetweenSameCases" function\'s "fields" argument\'s\
+            length must be one not {0}'.format(len(fields)), file=sys.stderr,
+              flush=True)
         sys.exit(1)
 
     krVec = [token[fields[0]] for token in sentence]
@@ -358,7 +359,7 @@ def isBetweenSameCases(sentence, fields, maxDist=6):
 
     for c, kr in enumerate(krVec):
         if 'CAS' not in kr:
-        #if 'NOUN' not in kr:
+            # if 'NOUN' not in kr:
             continue
         cases = casCode.findall(kr)
         if not cases:
@@ -430,28 +431,28 @@ def krPatts(sen, fields, options, fullKr=False):
         krVec = [tok[f][0] for tok in sen]
 
     assert len(krVec) == len(sen)
-    # sys.stderr.write(str(len(sen))+'words\n')
+    # print(str(len(sen))+'words', file=sys.stderr, flush=True)
     krVecLen = len(krVec)
     for c in range(krVecLen):
-        # print '@'
-        # sys.stderr.write('word '+str(c)+'\n')
+        # print('@')
+        # print('word '+str(c), file=sys.stderr, flush=True)
 
         # XXX SHOULD LIMIT RADIUS TO THE BOUNDS!!!!
         for k in range(-rad, rad):
             for j in range(-rad + 1, rad + 2):
-                # sys.stderr.write(str(i)+' '+str(j))
+                # print(str(i)+' '+str(j), end='', file=sys.stderr, flush=True)
                 a = c + k
                 b = c + j
 
                 # if b-a == 3:
-                # sys.stderr.write(str(c)+'\t'+str(i)+' '+str(j)+'\n')
+                # print(str(c)+'\t'+str(i)+' '+str(j), file=sys.stderr, flush=True)
 
                 if a >= 0 and b <= krVecLen and minLength <= b - a <= maxLength:
-                    # sys.stderr.write('*')
+                    # print('*', end='', file=sys.stderr, flush=True)
                     value = '+'.join([krVec[x] for x in range(a, b)])
                     feat = '_'.join((str(k), str(j), value))
                     featVec[c].append(feat)
-                    # sys.stderr.write('\n')
+                    # print('', file=sys.stderr, flush=True)
     return featVec
 
 
@@ -476,7 +477,7 @@ def getNpPart(partchunkTag):
 
 # from Bikel et al. (1999)
 def CapPeriodOperator(form):
-    return [int(bool(re.match(ur'[A-Z]\.$', form)))]
+    return [int(bool(re.match(r'[A-Z]\.$', form)))]
 
 
 def isDigitOperator(form):

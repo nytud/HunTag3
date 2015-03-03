@@ -1,4 +1,4 @@
-#!/usr/bin/python
+#!/usr/bin/python3
 # -*- coding: utf-8, vim: expandtab:ts=4 -*-
 
 import numpy as np
@@ -237,4 +237,4 @@ if __name__ == '__main__':
     topFeats = largest_weighted_features(featCounter, labelCounter, model,
                                          int(sys.argv[2]))
     for weight, name, label in topFeats:
-        print weight, name, label
+        print(weight, name, label)

@@ -1,4 +1,4 @@
-#!/usr/bin/python
+#!/usr/bin/python3
 # -*- coding: utf-8, vim: expandtab:ts=4 -*-
 """
 eval.py comes with HunTag and is capable of evaluating precision and
@@ -22,7 +22,7 @@ def getChunksFromCorp(taggedFile, goldField, autoField, mode, strict):
 
 
 def printError(lineNum):
-    print 'illicit tag in line {0}'.format(lineNum)
+    print('illicit tag in line {0}'.format(lineNum))
     sys.exit(1)
 
 
@@ -39,7 +39,8 @@ def getChunksFromColumn(taggedFile, field, mode, strict):
         if len(line.split()) > field:
             tag = line.split()[field]
         else:
-            sys.stderr.write('\ninvalid number of fields in line {0}\n{1}'.format(c, line))
+            print('\ninvalid number of fields in line {0}\n{1}'.format(c, line),
+                  file=sys.stderr, flush=True)
             sys.exit(1)
 
         if tag[0] == 'B':
@@ -192,13 +193,13 @@ def printResults(results):
     rec = results['All'][1]
     fb = results['All'][2]
 
-    sys.stdout.write('processed {0:.0f} tokens with {1:.0f} phrases;'.format(tok, phras))
-    sys.stdout.write('found: {0:.0f} phrases; correct: {1:.0f}.\n'.format(found, corr))
+    print('processed {0:.0f} tokens with {1:.0f} phrases;'.format(tok, phras), end='')
+    print('found: {0:.0f} phrases; correct: {1:.0f}.\n'.format(found, corr), end='')
     
-    sys.stdout.write('accuracy: {0:6.2f}%; precision: {1:6.2f}%;'.format(acc, prec))
-    print 'recall: {0:6.2f}%; FB1: {1:6.2f}'.format(rec, fb)
+    print('accuracy: {0:6.2f}%; precision: {1:6.2f}%;'.format(acc, prec), end='')
+    print('recall: {0:6.2f}%; FB1: {1:6.2f}'.format(rec, fb))
 
-    sortedTypes = results.keys()
+    sortedTypes = list(results.keys())
     sortedTypes.sort()
 
     for stype in sortedTypes:
@@ -210,10 +211,10 @@ def printResults(results):
             fb = results[stype][2]
             found = int(results[stype][3])
 
-            sys.stdout.write('{0:>17}:'.format(stype))
-            sys.stdout.write('precision: {0:6.2f}%;'.format(prec))
-            sys.stdout.write('recall: {0:6.2f}%;'.format(rec))
-            print 'FB1: {0:6.2f}\t{1:.0f}'.format(fb, found)
+            print('{0:>17}:'.format(stype), end='')
+            print('precision: {0:6.2f}%;'.format(prec), end='')
+            print('recall: {0:6.2f}%;'.format(rec), end='')
+            print('FB1: {0:6.2f}\t{1:.0f}'.format(fb, found), end='')
 
 
 def analyzeErrors(chunks):
@@ -290,12 +291,12 @@ def getNearestChunk(chunk, gCh):
 
 def printErrorTypes(errorTypes):
     for etype in errorTypes:
-        print etype + ':\t' + str(errorTypes[etype])
+        print(etype + ':\t' + str(errorTypes[etype]))
 
 
 def getChunkPatterns(taggedFile, goldField, autoField, mode):
     if mode != 'BIE1':
-        sys.stderr.write('extracting chunk patterns is currently not available in \'BI\' mode!')
+        print('extracting chunk patterns is currently not available in \'BI\' mode!', file=sys.stderr, flush=True)
         sys.exit(1)
 
     patternCount = defaultdict(int)
@@ -370,7 +371,7 @@ def getChunkPatterns(taggedFile, goldField, autoField, mode):
 
 def printPatterns(patternCount):
 
-    # sys.stderr.write('1')
+    # print('1', end='', file=sys.stderr, flush=True)
 
     pall = 0.0
     patterns = []
@@ -395,7 +396,7 @@ def printPatterns(patternCount):
     patterns.reverse()
     for patt in patterns:
         percent = (patternCount[patt[1]] / pall) * 100
-        print '{0}%\t{1}\n{2}'.format(str(percent)[:6], patt[1], patternsToAscii(patt[1]))
+        print('{0}%\t{1}\n{2}'.format(str(percent)[:6], patt[1], patternsToAscii(patt[1])))
 
 
 def patternsToAscii(patt):
@@ -446,10 +447,10 @@ def countToks(taggedFile, goldField, autoField):
 
 
 def printConfMatrix(wrongCategory):
-    pairs = wrongCategory.keys()
+    pairs = list(wrongCategory.keys())
     pairs.sort()
     for pair in pairs:
-        print '%s --> %s %.0f' % (pair[0], pair[1], wrongCategory[pair])
+        print('%s --> %s %.0f' % (pair[0], pair[1], wrongCategory[pair]))
 
 
 def leaveInternalBs(corp):
@@ -494,7 +495,7 @@ def getSenPrec(corp):
         else:
             if line.split()[-2] != line.split()[-1]:
                 thisSen = False
-    print 'sentence precision:{0}%'.format(str((corrSen / allSen) * 100)[:5])
+    print('sentence precision:{0}%'.format(str((corrSen / allSen) * 100)[:5]))
 
 
 def runEval(stdin, goldField='-2', autoField='-1', mode='BI', conll=False,
@@ -507,8 +508,8 @@ def runEval(stdin, goldField='-2', autoField='-1', mode='BI', conll=False,
         mode = sys.argv[3]
         assert mode in ('BI', 'BIE1')
     except:
-        sys.stderr.write( 'usage: eval.py <gold field> <auto field> <mode>\n' )
-        sys.exit(-1)
+        print('usage: {0} <gold field> <auto field> <mode>'.format(sys.argv[0]), file=sys.stderr, flush=True)
+        sys.exit(1)
     """
 
     tF = stdin.readlines()
@@ -600,7 +601,7 @@ def parse_args():
 if __name__ == '__main__':
     options = parse_args()
     if len(sys.argv) == 1:
-        sys.stderr.write('usage: {0} <gold field> <auto field> <mode>\n'.format(sys.argv[0]))
+        print('usage: {0} <gold field> <auto field> <mode>'.format(sys.argv[0]), file=sys.stderr, flush=True)
         sys.exit(1)
     if not options.inputFile:
         options.inputFile = sys.stdin

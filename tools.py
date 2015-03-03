@@ -1,4 +1,4 @@
-#!/usr/bin/python
+#!/usr/bin/python3
 # -*- coding: utf-8, vim: expandtab:ts=4 -*-
 # Miscellaneous tools for HunTag
 from collections import defaultdict
@@ -15,8 +15,8 @@ def sentenceIterator(inputStream):
             if len(currSen) == 0:  # Comment before sentence
                 currComment = line
             else:  # Error: Comment in the middle of sentence
-                sys.stderr.write('ERROR: \
-                    comments are only allowed before a sentence!\n')
+                print('ERROR: comments are only allowed before a sentence!',
+                      file=sys.stderr, flush=True)
                 sys.exit(1)
         # Blank line handling
         elif len(line) == 0:
@@ -25,9 +25,8 @@ def sentenceIterator(inputStream):
                 currSen = []
                 currComment = None
             else:  # Error: Multiple blank line
-                sys.stderr.write('ERROR: \
-                    wrong formatted sentences, \
-                    only one blank line allowed!\n')
+                print('ERROR: wrong formatted sentences, only one blank line allowed!',
+                      file=sys.stderr, flush=True)
                 sys.exit(1)
         else:
             currSen.append(line.split())
@@ -63,7 +62,7 @@ class BookKeeper():
 
     def cutoff(self, cutoff):
         toDelete = set()
-        for feat, count in self._featCounter.iteritems():
+        for feat, count in self._featCounter.items():
             if count < cutoff:
                 toDelete.add(feat)
         for feat in toDelete:
@@ -80,15 +79,15 @@ class BookKeeper():
         return self._featToNo[feat]
 
     def saveToFile(self, fileName):
-        f = open(fileName, 'w')
-        for feat, no in self._featToNo.iteritems():
+        f = open(fileName, 'w', encoding='UTF-8')
+        for feat, no in self._featToNo.items():
             f.write('{0}\t{1}\n'.format(feat, str(no)))
         f.close()
 
     def readFromFile(self, fileName):
         self._featToNo = {}
         self.noToFeat = {}
-        for line in open(fileName):
+        for line in open(fileName, encoding='UTF-8'):
             l = line.strip().split()
             # Feats not sorted by their numbers!
             feat, no = l[0], int(l[1])

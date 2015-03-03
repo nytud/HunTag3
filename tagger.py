@@ -1,4 +1,4 @@
-#!/usr/bin/python
+#!/usr/bin/python3
 # -*- coding: utf-8, vim: expandtab:ts=4 -*-
 
 import math
@@ -15,18 +15,18 @@ class Tagger():
         self.features = features
         self.params = '-b 1'  # Order Liblinear to predict probability estimates
         self.lmw = options['lmw']
-        sys.stderr.write('loading transition model...')
+        print('loading transition model...', end='', file=sys.stderr, flush=True)
         self.transProbs = Bigram.getModelFromFile(options['bigramModelFileName'])
-        sys.stderr.write('done\nloading observation model...')
-        self.model = load_model(options['modelFileName'])
+        print('done\nloading observation model...', end='', file=sys.stderr, flush=True)
+        self.model = load_model(options['modelFileName'].encode('UTF-8'))
         self.labelCounter = options['labelCounter']
         self.featCounter = options['featCounter']
-        sys.stderr.write('done\n')
+        print('done\n', file=sys.stderr, flush=True)
 
     def tag_features(self, file_name):
         sen_feats = []
         senCount = 0
-        for line in open(file_name):
+        for line in open(file_name, encoding='UTF-8'):
             line = line.strip()
             if len(line) == 0:
                 senCount += 1
@@ -34,18 +34,18 @@ class Tagger():
                 yield [[tag] for tag in tagging]
                 sen_feats = []
                 if senCount % 1000 == 0:
-                    sys.stderr.write('{0}...'.format(str(senCount)))
+                    print('{0}...'.format(str(senCount)), end='', file=sys.stderr, flush=True)
             sen_feats.append(line.split())
-        sys.stderr.write('{0}...done\n'.format(str(senCount)))
+        print('{0}...done'.format(str(senCount)), file=sys.stderr, flush=True)
 
     def tag_dir(self, dir_name):
         for fn in os.listdir(dir_name):
-            sys.stderr.write('processing file {0}...'.format(fn))
+            print('processing file {0}...'.format(fn), end='', file=sys.stderr, flush=True)
             try:
-                for sen, _ in self.tag_corp(open(os.path.join(dir_name, fn))):
+                for sen, _ in self.tag_corp(open(os.path.join(dir_name, fn), encoding='UTF-8')):
                     yield sen, fn
             except:
-                sys.stderr.write('error in file {0}\n'.format(fn))
+                print('error in file {0}'.format(fn), file=sys.stderr, flush=True)
 
     def tag_corp(self, inputStream):
         senCount = 0
@@ -57,8 +57,8 @@ class Tagger():
             taggedSen = [tok + [bestTagging[c]] for c, tok in enumerate(sen)]
             yield taggedSen, comment
             if senCount % 1000 == 0:
-                sys.stderr.write('{0}...'.format(str(senCount)))
-        sys.stderr.write('{0}...done\n'.format(str(senCount)))
+                print('{0}...'.format(str(senCount)), end='', file=sys.stderr, flush=True)
+        print('{0}...done'.format(str(senCount)), file=sys.stderr, flush=True)
 
     def getLogTagProbsByPos(self, senFeats):
         # XXX We might add features, that are not in the training set

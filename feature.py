@@ -1,4 +1,4 @@
-#!/usr/bin/python
+#!/usr/bin/python3
 # -*- coding: utf-8, vim: expandtab:ts=4 -*-
 """
 feature.py is a module of HunTag. The Feature class is used for representing
@@ -19,24 +19,27 @@ class Feature():
         self.actionName = actionName
         self.fields = fields
         if self.kind == 'lex' and len(self.fields) != 1:
-            sys.stderr.write('Error: Feature "{0}" field count must be\
-            one not {1}!'.format(self.name, self.fields))
+            print('Error: Feature "{0}" field count must be\
+            one not {1}!'.format(self.name, self.fields), file=sys.stderr, flush=True)
             sys.exit(1)
         self.radius = int(radius)
         self.cutoff = int(cutoff)
         self.options = options
         if kind == 'lex':
             if len(self.options) > 0:
-                sys.stderr.write('Lexicon features do not yet support options')
+                print('Lexicon features do not yet support options',
+                      file=sys.stderr, flush=True)
                 sys.exit(1)
             self.lexicon = Lexicon(actionName)  # Load input file
         elif kind in ('token', 'sentence'):
             if actionName not in features.__dict__:
-                sys.stderr.write('Unknown operator named {0}\n'.format(actionName))
+                print('Unknown operator named {0}\n'.format(actionName),
+                      file=sys.stderr, flush=True)
                 sys.exit(1)
             self.function = features.__dict__[actionName]
         else:
-            sys.stderr.write('Unknown kind named {0}\n'.format(kind))
+            print('Unknown kind named {0}'.format(kind), file=sys.stderr,
+                  flush=True)
             sys.exit(1)
 
     def evalSentence_Token(self, sentence):
@@ -72,7 +75,8 @@ class Feature():
         elif self.kind == 'sentence':
             featVec = self.evalSentence_Sentence(sentence)
         else:
-            sys.stderr.write('evalSentence: Unknown kind named {0}\n'.format(self.kind))
+            print('evalSentence: Unknown kind named {0}'.format(self.kind),
+                  file=sys.stderr, flush=True)
             sys.exit(1)
         return self.multiplyFeatures(sentence, featVec)
 
@@ -101,7 +105,7 @@ class Lexicon():
         self.endParts = set()
         self.midParts = set()
         self.startParts = set()
-        for line in open(inputFile):
+        for line in open(inputFile, encoding='UTF-8'):
             phrase = line.strip()
             self.phraseList.add(phrase)
             words = phrase.split()

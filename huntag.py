@@ -1,4 +1,4 @@
-#!/usr/bin/python
+#!/usr/bin/python3
 # -*- coding: utf-8, vim: expandtab:ts=4 -*-
 
 from collections import defaultdict
@@ -26,7 +26,7 @@ def main_bigramTrain(options, inputStream):
 def main_train(featureSet, options, inputStream=sys.stdin):
     optionsDict = vars(options)
     if options.usedFeats:
-        optionsDict['usedFeats'] = open(options.usedFeats)
+        optionsDict['usedFeats'] = open(options.usedFeats, encoding='UTF-8')
     trainer = Trainer(featureSet, optionsDict)
     if options.inFeatFileName:
         trainer.getEventsFromFile(options.inFeatFileName)
@@ -48,8 +48,8 @@ def main_tag(featureSet, options):
         writer_func = lambda s, c: writeSentence(s, comment=c)
     elif options.io_dirs:
         tagger_func = lambda: tagger.tag_dir(options.io_dirs[0])
-        writer_func = lambda s, c: writeSentence(
-            s, out=open(join(options.io_dirs[1], '{0}.tagged'.format(c)), 'a'))
+        writer_func = lambda s, c: writeSentence(s, out=open(join(options.io_dirs[1],
+            '{0}.tagged'.format(c)), 'a', encoding='UTF-8'))
     else:
         tagger_func = lambda: tagger.tag_corp(sys.stdin)
         writer_func = lambda s, c: writeSentence(s, comment=c)
@@ -63,7 +63,7 @@ def getFeatureSet(cfgFile):
     optsByFeature = defaultdict(dict)
     defaultRadius = -1
     defaultCutoff = 1
-    for line in open(cfgFile):
+    for line in open(cfgFile, encoding='UTF-8'):
         line = line.strip()
         if len(line) == 0 or line[0] == '#':
             continue
@@ -172,7 +172,7 @@ def parse_args():
 def main():
     options = parse_args()
     if not options.modelName:
-        sys.stderr.write('Error: Model name must be specified! Please see --help!')
+        print('Error: Model name must be specified! Please see --help!', file=sys.stderr, flush=True)
         sys.exit(1)
     options.modelFileName = '{0}{1}'.format(options.modelName, options.modelExt)
     options.bigramModelFileName = '{0}{1}'.format(options.modelName, options.bigramModelExt)
@@ -191,7 +191,7 @@ def main():
             featureSet = getFeatureSet(options.cfgFile)
         main_tag(featureSet, options)
     else:
-        sys.stderr.write('Error: Task name must be specified! Please see --help!')
+        print('Error: Task name must be specified! Please see --help!', file=sys.stderr, flush=True)
         sys.exit(1)
 
 if __name__ == '__main__':

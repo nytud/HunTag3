@@ -1,4 +1,4 @@
-#!/usr/bin/python
+#!/usr/bin/python3
 # -*- coding: utf-8, vim: expandtab:ts=4 -*-
 """
 bigram.py contains the Bigram class which implements a simple bigram model
@@ -24,7 +24,7 @@ class Bigram:
         self._smooth = smooth
         self._logSmooth = math.log(self._smooth)
         self._updateWarning = 'WARNING: Probabilities have not been \
-                              recalculated since last input!\n'
+                              recalculated since last input!'
         self.tags = set()
 
     def reset(self):
@@ -68,7 +68,7 @@ class Bigram:
 
     def logProb(self, first, second):
         if not self.updated:
-            sys.stderr.write(self._updateWarning)
+            print(self._updateWarning, file=sys.stderr, flush=True)
 
         if (first, second) in self.bigramLogProb:
             return self.bigramLogProb[(first, second)]
@@ -79,7 +79,7 @@ class Bigram:
         return math.exp(self.logProb(first, second))
 
     def writeToFile(self, fileName):
-        f = open(fileName, 'w')
+        f = open(fileName, 'w', encoding='UTF-8')
         f.write('{0}\n'.format(str(self._smooth)))
         tagProbs = ['{0}:{1}'.format(tag, str(self.unigramLogProb[tag]))
                     for tag in self.tags if tag != self._boundarySymbol]
@@ -93,7 +93,7 @@ class Bigram:
 
     @staticmethod
     def getModelFromFile(fileName):
-        modelFile = open(fileName)
+        modelFile = open(fileName, encoding='UTF-8')
         smooth = float(modelFile.readline())
         model = Bigram(smooth)
         tagProbs = modelFile.readline().split()
