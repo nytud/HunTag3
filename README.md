@@ -1,62 +1,65 @@
-Huntag - a sequential tagger for NLP combining the linear classificator Liblinear and Hidden Markov Models
-Based on training data, Huntag can perform any kind of sequential sentence
+HunTag3 - A sequential tagger for NLP combining the linear classificator Scikit-learn/LinearRegressionClassifier and Hidden Markov Models
+Based on training data, HunTag3 can perform any kind of sequential sentence
 tagging and has been used for NP chunking and Named Entity Recognition.
 
-#Requirements
-HunTag uses the Liblinear package, which can be downloaded from:
+# Differences between HunTag3 and HunTag
+HunTag has numerous features, that has been replaced in multiple steps (see commits). These are:
+- Latin-2 encoding -> UTF-8
+- Python2 -> Python3
+- cType -> NumPy/SciPy arrays
+- Liblinear -> Scikit-learn/LinearRegressionClassifier
+- Performance: memory comnsumption is 25% less, training time 22% greater
 
-http://www.csie.ntu.edu.tw/~cjlin/liblinear/
+However, there exist transitional versions, they are not supported! In this repository the following transitional versions can be found:
 
-In order for HunTag to work, Liblinear should be compiled with python bindings and the directory containing the python files `liblinearutil.py' and `liblinear.py' should be added to the environment variable PYTHONPATH.
+- Code cleanup: Latin-2 + Python2 + cType + Liblinear
+- Convert to Python3-UTF-8: UTF-8 + Python3 + cType + Liblinear
+- Convert to Scikit-learn-NumPy/SciPy: UTF-8 + Python3 + NumPy/SciPy + Scikit-learn
+- Add features (Stable): This version introduces numerous extra features over the original HunTag
 
-IMPORTANT: after installing Liblinear, the python bindings must be patched by cd-ing to the python subdirectory of your liblinear installation and running
-patch < (*path-to-HunTag*)/liblinear.patch
-This allows liblinear to handle the more memory-efficient cType input used by HunTag
+# Requirements
 
-#Data format
+- For the Python3 + Liblinear version: Liblinear=1.94, no additional patch required
+- For later versions: NumPy, SciPy, Scikit-learn
+- Optional: CRFsuite
 
-Input data must be a tab-separated file with one word per line and an empty
-line to mark sentence boundaries. Each line must contain the same number of
-fields and the last field must contain the correct tag for the word, which
-may be in the BI format used at CoNLL shared tasks (e. g. B-NP to mark the
-first word of a noun phrase, I-NP to mark the rest and O to mark words
-outside an NP) or in the so-called BIE1 format which has a seperate symbol
-for words constituting a chunk themselves (1-NP) and one for the last words
-of multi-word phrases (E-NP). The first two characters of answer tags
-should always conform to one of these two conventions, the rest may be any
-string describing the category. 
+# Data format
 
-#Features
+- Input data must be a tab-separated file with one word per line
+- An empty line to mark sentence boundaries
+- Each line must contain the same number of fields
+- The conventionally last field must contain the correct label for the word (One can use other field, but must set the apropriate command line argument respectively)
+    - The label may be in the BI format used at CoNLL shared tasks (e. g. B-NP to mark the first word of a noun phrase, I-NP to mark the rest and O to mark words outside an NP)
+    - Or in the so-called BIE1 format which has a seperate symbol for words constituting a chunk themselves (1-NP) and one for the last words of multi-word phrases (E-NP)
+    - The first two characters of labels should always conform to one of these two conventions, the rest may be any string describing the category
 
-The flexibility of Huntag comes from the fact that it will generate any kind
-of features from the input data given the appropriate python functions.
-Several dozens of features used regularly in NLP tasks are already
-implemented in the file features.py, however the user is encouraged to add
-any number of her own.
+# Features
 
-Once the desired features are implemented, a data set and a configuration
-file containing the list of feature functions to be used are all Huntag
-needs to perform training and tagging.
+The flexibility of Huntag comes from the fact that it will generate any kind of features from the input data given the **appropriate python functions** (please refer to features.py and the config files).
+Several dozens of features used regularly in NLP tasks are already implemented in the file features.py, however the user is encouraged to add any number of her own.
 
-#Config file
+Once the desired features are implemented, a data set and a configuration file containing the list of feature functions to be used are all HunTag needs to perform training and tagging.
+
+# Config file
 The configuration file lists the features that are to be used for a given task. The feature file may start with a command specifying the default radius for features. This is non-mandatory. Example:
-!defaultRadius 5
+
+    !defaultRadius 5
 
 Next, it can give values to variables that shall be used by the featurizing methods.
-For example, the following three lines set the parameters of the feature called krpatt
+For example, the following three lines set the parameters of the feature called *krpatt*
 
-let krpatt minLength 2
-let krpatt maxLength 99
-let krpatt lang hu
+    let krpatt minLength 2
+    let krpatt maxLength 99
+    let krpatt lang hu
 
 The second field specifies the name of the feature, the third a key, the fourth a numeric value. The dictionary of key-value pairs will be passed to the feature.
 
-After this come the actual assignments of feture names to features. Examples:
+After this come the actual assignments of feature names to features. Examples:
 
-token ngr ngrams 0
-sentence bwsamecases isBetweenSameCases 1
-lex street hunner/lex/streetname.lex 0
-token lemmalowered lemmaLowered 0,2
+    token ngr ngrams 0
+    sentence bwsamecases isBetweenSameCases 1
+    lex street hunner/lex/streetname.lex 0
+    token lemmalowered lemmaLowered 0,2
 
 The first keyword can have three values, token, lex and sentence. For example, in the first example line above, the feature name ngr will be assigned to the python function ngrams() that returns a feature string for the given token. The third argument is a column or comma-separated list of columns. It specifies which fields of the input should be passed to the feature function. Counting starts from zero.
 
@@ -65,64 +68,115 @@ For sentence features, the input is aggregated sentence-wise into a list, and th
 For lex features, the second argument specifies a lexicon file rather than a python function name. The specified token field is matched against this lexicon file.
 
 
-#Usage
-HunTag may be run in any of the following three modes:
+# Usage
+HunTag may be run in any of the following modes (see startHuntag.sh for overview and *huntag.py --help* for details):
 
-##train
-used to train a Liblinear model given a training corpus and a set of feature functions. When run in TRAIN mode, HunTag creates three files, one containing the liblinear mode and two listing features and labels and the integers they are mapped to when passed to liblinear. With the --model option set to NAME, the three files will be stored under NAME.model, NAME.featureNumbers and NAME.labelNumbers respectively.
+## train
+Used to train a model given a training corpus and a set of feature functions. When run in TRAIN mode, HunTag creates three files, one containing the model and two listing features and labels and the integers they are mapped to when passed to the learner. With the --model option set to NAME, the three files will be stored under NAME.model, NAME.featureNumbers and NAME.labelNumbers respectively.
 
-cat TRAINING_DATA | python huntag.py train OPTIONS
-
-Mandatory options:
-    -c FILE, --config-file=FILE
-        read feature configuration from FILE
-    -m NAME, --model=NAME
-        name of liblinear model and lists
-    -p PARAMS --parameters=PARAMS
-        pass PARAMS to liblinear trainer
-
-Non-mandatory options:    
-    -f FILE, --feature-file=FILE
-        write training events to FILE
-
-
-##bigram-train
-Used to train a bigram language model using a given field of the training data
-
-cat TRAINING_DATA | python huntag.py bigram-train OPTIONS
+    cat TRAINING_DATA | python3 huntag.py train OPTIONS
 
 Mandatory options:
-    -b FILE, --bigram-model=FILE
-        name of bigram model file to be written
-    -t FIELD, --tag-field=FIELD
-        specify FIELD containing the tags to build bigram
-
-##tag
-Used to tag input. Given a maxent model providing the value P(t|w) for all tags t and words (set of feature values) w, and a bigram language model supplying P(t|t0) for all pairs of tags, HunTag will assign to each sentence the most likely tag sequence.
-
-cat INPUT | python huntag.py tag OPTIONS
-
-Mandatory options:
-    -m NAME, --model=NAME
-        name of liblinear model file and lists
-    -b FILE, --bigram-model=FILE
-        name of bigram model file
-    -c FILE, --config-file=FILE
-        read feature configuration from FILE
+- -c FILE, --config-file=FILE
+    - read feature configuration from FILE
+- -m NAME, --model=NAME
+    - name of model and lists
 
 Non-mandatory options:
-    -l L, --language-model-weight=L
-        set weight of the language model to L (default is 1)
+- -f FILE, --feature-file=FILE
+    - write training events to FILE
 
-#Authors
+## bigram-train
+Used to train a bigram language model using a given field of the training data
 
-Huntag was created by Gábor Recski and Dániel Varga. It is a reimplementation and generalization of a Named Entity Recognizer built by Dániel Varga and Eszter Simon.
+    cat TRAINING_DATA | python3 huntag.py bigram-train OPTIONS
 
-#License
+Mandatory options:
+- -m NAME, --model=NAME
+    - name of model file and lists
 
-Huntag is made available under the GNU Lesser General Public License v3.0. If you received Huntag in a package that also contain the Hungarian training corpora for Named Entity Recoginition and chunking task, then please note that these corpora are derivative works based on the Szeged Treebank, and they are made available under the same restrictions that apply to the original Szeged Treebank
+## tag
+Used to tag input. Given a maxent model providing the value P(l|w) for all labels l and words (set of feature values) w, and a bigram language model supplying P(l|l0) for all pairs of labels, HunTag will assign to each sentence the most likely label sequence.
 
-#Reference
+    cat INPUT | python3 huntag.py tag OPTIONS
+
+Mandatory options:
+- -m NAME, --model=NAME
+    - name of model file and lists
+- -c FILE, --config-file=FILE
+    - read feature configuration from FILE
+
+Non-mandatory options:
+- -l L, --language-model-weight=L
+    - set weight of the language model to L (default is 1)
+
+## most-informative-features
+Generates a feature ranking by counting label probabilities (for each label) and  frequency per feature and sort them in decreasing order of confidence and frequency. This output is usefull for inspecting features quality.
+
+    cat TRAINING_DATA | python3 huntag.py most-informative-features OPTIONS > modelName.mostInformativeFeatures
+
+Mandatory options:
+- -m NAME, --model=NAME
+    - name of model file and lists
+- -c FILE, --config-file=FILE
+    - read feature configuration from FILE
+
+## tag --printWeights N
+Usefull for inspecting feature weights (per label) assigned by the MaxEnt learner. (As name suggests, training must happen before tagging.)
+Negative weights mean negative correlation, which is also usefull.
+
+    python3 huntag.py tag --printWeights N OPTIONS > modelName.modelWeights
+
+Mandatory options:
+- N is the number of features to print (default: 100)
+- -m NAME, --model=NAME
+    - name of model file and lists
+- -c FILE, --config-file=FILE
+    - read feature configuration from FILE
+
+## --toCRFsuite
+This option generates suitable input for CRFsuite from training and tagging data. Model name is required as the features and labels are translated to numbers and back. CRFsuite use its own bigram model.
+
+# Usage examples
+
+## train-tag
+
+    # train
+    cat input.txt | python3 huntag.py train --model=modelName --config-file=configs/hunchunk.krPatt.cfg
+    # bigram-train
+    cat input.txt | python3 huntag.py bigram-train --model=modelName
+    # tag
+    cat input.txt | python3 huntag.py tag --model=modelName --config-file=configs/hunchunk.krPatt.cfg
+
+## CRFsuite usage
+
+    # train toCRFsuite
+    cat input.txt | python3 huntag.py train --toCRFsuite --model=modelName --config-file=configs/hunchunk.krPatt.cfg > modelName.CRFsuite.train
+    # tag toCRFsuite
+    cat input.txt | python3 huntag.py tag --toCRFsuite --model=modelName --config-file=configs/hunchunk.krPatt.cfg > modelName.CRFsuite.tag
+
+## Debug features
+
+    # train
+    cat input.txt | python3 huntag.py train --model=modelName --config-file=configs/hunchunk.krPatt.cfg
+    # most-informative-features
+    cat input.txt | python3 huntag.py most-informative-features --model=modelName --config-file=configs/hunchunk.krPatt.cfg > modelName.mostInformativeFeatures
+    # tag FeatureWeights
+    cat input.txt | python3 huntag.py tag --printWeights 100 --model=modelName --config-file=configs/hunchunk.krPatt.cfg > modelNam.modelWeights
+
+
+
+# Authors
+
+HunTag3 is a massive overhaul and some functional extension of the original HunTag codebase by Balázs Indig
+
+HunTag was created by Gábor Recski and Dániel Varga. It is a reimplementation and generalization of a Named Entity Recognizer built by Dániel Varga and Eszter Simon.
+
+# License
+
+HunTag is made available under the GNU Lesser General Public License v3.0. If you received HunTag in a package that also contain the Hungarian training corpora for Named Entity Recoginition and chunking task, then please note that these corpora are derivative works based on the Szeged Treebank, and they are made available under the same restrictions that apply to the original Szeged Treebank
+
+# Reference
 
 If you use the tool, please cite the following paper:
 
@@ -135,7 +189,7 @@ Gábor Recski, Dániel Varga (2009): A Hungarian NP-chunker In: *The Odd Yearboo
    journal = {The Odd Yearbook. ELTE SEAS Undergraduate Papers in Linguistics},
    publisher = {ELTE {S}chool of {E}nglish and {A}merican {S}tudies},
    city = {Budapest},
-   pages= {87--93}, 
+   pages= {87--93},
    year={2009}
 }
 ```

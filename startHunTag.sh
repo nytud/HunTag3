@@ -16,7 +16,7 @@ cat input.txt | python3 huntag.py bigram-train --model=modelName
 cat input.txt | python3 huntag.py tag --model=modelName --config-file=configs/hunchunk.krPatt.cfg
 
 #tag toCRFsuite
-cat input.txt | python3 huntag.py tag --toCRFsuite --model=modelName --config-file=configs/hunchunk.krPatt.cfg > modelNam.CRFsuite.tag
+cat input.txt | python3 huntag.py tag --toCRFsuite --model=modelName --config-file=configs/hunchunk.krPatt.cfg > modelName.CRFsuite.tag
 
 #tag FeatureWeights
-cat input.txt | python3 huntag.py tag --printWeights 100 --model=modelName --config-file=configs/hunchunk.krPatt.cfg > modelNam.modelWeights
+cat input.txt | python3 huntag.py tag --printWeights 100 --model=modelName --config-file=configs/hunchunk.krPatt.cfg > modelName.modelWeights
