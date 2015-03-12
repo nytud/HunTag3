@@ -1,16 +1,20 @@
-HunTag3 - A sequential tagger for NLP combining the linear classificator Scikit-learn/LinearRegressionClassifier and Hidden Markov Models
+HunTag3 - A sequential tagger for NLP combining the Scikit-learn/LinearRegressionClassifier linear classifier and Hidden Markov Models.
+
 Based on training data, HunTag3 can perform any kind of sequential sentence
 tagging and has been used for NP chunking and Named Entity Recognition.
 
+HungTag3 is a fork of the HunTag (https://github.com/recski/HunTag) project.
+
 # Differences between HunTag3 and HunTag
-HunTag has numerous features, that has been replaced in multiple steps (see commits). These are:
-- Latin-2 encoding -> UTF-8
+HunTag has numerous features that have been replaced in multiple steps (see commits). These are:
+- Latin-2 encoding -> UTF-8 encoding
 - Python2 -> Python3
 - cType -> NumPy/SciPy arrays
 - Liblinear -> Scikit-learn/LinearRegressionClassifier
-- Performance: memory comnsumption is 25% less, training time 22% greater
+- Performance: memory comnsumption is 25% lower, training time is 22% higher 
+  (measured on the Szeged TreeBank NP chunker task)
 
-However, there exist transitional versions, they are not supported! In this repository the following transitional versions can be found:
+Some transitional versions also exist, but they are not supported. In this repository the following transitional versions (commits) can be found:
 
 - Code cleanup: Latin-2 + Python2 + cType + Liblinear
 - Convert to Python3-UTF-8: UTF-8 + Python3 + cType + Liblinear
@@ -28,7 +32,7 @@ However, there exist transitional versions, they are not supported! In this repo
 - Input data must be a tab-separated file with one word per line
 - An empty line to mark sentence boundaries
 - Each line must contain the same number of fields
-- The conventionally last field must contain the correct label for the word (One can use other field, but must set the apropriate command line argument respectively)
+- Conventionally the last field must contain the correct label for the word (it is possible to use other fields for the label, but it must be set using the apropriate command line arguments).
     - The label may be in the BI format used at CoNLL shared tasks (e. g. B-NP to mark the first word of a noun phrase, I-NP to mark the rest and O to mark words outside an NP)
     - Or in the so-called BIE1 format which has a seperate symbol for words constituting a chunk themselves (1-NP) and one for the last words of multi-word phrases (E-NP)
     - The first two characters of labels should always conform to one of these two conventions, the rest may be any string describing the category
@@ -168,7 +172,7 @@ This option generates suitable input for CRFsuite from training and tagging data
 
 # Authors
 
-HunTag3 is a massive overhaul and some functional extension of the original HunTag codebase by Balázs Indig
+HunTag3 is a massive overhaul and functional extension of the original HunTag codebase. HunTag3 was created by Balázs Indig.
 
 HunTag was created by Gábor Recski and Dániel Varga. It is a reimplementation and generalization of a Named Entity Recognizer built by Dániel Varga and Eszter Simon.
 
