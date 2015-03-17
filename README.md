@@ -11,7 +11,7 @@ HunTag has numerous features that have been replaced in multiple steps (see comm
 - Python2 -> Python3
 - cType -> NumPy/SciPy arrays
 - Liblinear -> Scikit-learn/LinearRegressionClassifier
-- Performance: memory comnsumption is 25% lower, training time is 22% higher 
+- Performance: memory consumption is 25% lower, training time is 22% higher
   (measured on the Szeged TreeBank NP chunker task)
 
 Some transitional versions also exist, but they are not supported. In this repository the following transitional versions (commits) can be found:
@@ -175,6 +175,8 @@ This option generates suitable input for CRFsuite from training and tagging data
 HunTag3 is a massive overhaul and functional extension of the original HunTag codebase. HunTag3 was created by Balázs Indig.
 
 HunTag was created by Gábor Recski and Dániel Varga. It is a reimplementation and generalization of a Named Entity Recognizer built by Dániel Varga and Eszter Simon.
+
+The patch for Liblinear (to lower memory usage) was created by Attila Zséder. See link for deatils: http://www.csie.ntu.edu.tw/~cjlin/liblinear/faqfiles/python_datastructures.html
 
 # License
 
