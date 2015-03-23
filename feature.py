@@ -42,7 +42,7 @@ class Feature():
                   flush=True)
             sys.exit(1)
 
-    def evalSentence_Token(self, sentence):
+    def evalSentenceToken(self, sentence):
         featVec = []
         for word in sentence:
             # Pick the relevant fields (label can be not just the last field)
@@ -56,11 +56,11 @@ class Feature():
 
     # Word will be substituted by its features from the Lexicon
     # self.fields denote the column of the word
-    def evalSentence_Lex(self, sentence):
+    def evalSentenceLex(self, sentence):
         wordList = [word[self.fields[0]] for word in sentence]
         return self.lexicon.lexEvalSentence(wordList)
 
-    def evalSentence_Sentence(self, sentence):
+    def evalSentenceSentence(self, sentence):
         # XXX Should be better to make function signatures more strict
         if len(self.options) > 0:
             return self.function(sentence, self.fields, self.options)
@@ -69,11 +69,11 @@ class Feature():
 
     def evalSentence(self, sentence):
         if self.kind == 'token':
-            featVec = self.evalSentence_Token(sentence)
+            featVec = self.evalSentenceToken(sentence)
         elif self.kind == 'lex':
-            featVec = self.evalSentence_Lex(sentence)
+            featVec = self.evalSentenceLex(sentence)
         elif self.kind == 'sentence':
-            featVec = self.evalSentence_Sentence(sentence)
+            featVec = self.evalSentenceSentence(sentence)
         else:
             print('evalSentence: Unknown kind named {0}'.format(self.kind),
                   file=sys.stderr, flush=True)

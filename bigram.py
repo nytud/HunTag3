@@ -10,9 +10,11 @@ import sys
 import math
 from collections import defaultdict
 
+from tools import sentenceIterator
+
 
 class Bigram:
-    def __init__(self, smooth):
+    def __init__(self, tagField=-1, smooth=0.000000000000001, boundarySymbol='S', lmw=1.0):
         self._bigramCount = defaultdict(int)
         self.bigramLogProb = {}
         self._unigramCount = defaultdict(float)
@@ -20,8 +22,10 @@ class Bigram:
         self._obsCount = 0
         self.updated = True
         self.reset()
-        self._boundarySymbol = 'S'
-        self._smooth = smooth
+        self._tagField = tagField
+        self._smooth = float(smooth)
+        self._languageModelWeight = float(lmw)
+        self._boundarySymbol = boundarySymbol
         self._logSmooth = math.log(self._smooth)
         self._updateWarning = 'WARNING: Probabilities have not been \
                               recalculated since last input!'
@@ -35,6 +39,13 @@ class Bigram:
         self._obsCount = 0
         self.updated = True
 
+    # Train a Stream
+    def train(self, inputStream):
+        for sen, _ in sentenceIterator(inputStream):
+            tags = [tok[self._tagField] for tok in sen]
+            self.obsSequence(tags)
+
+    # Train a Sentence
     def obsSequence(self, tagSequence):
         last = self._boundarySymbol
         for tag in tagSequence:
@@ -43,12 +54,14 @@ class Bigram:
         # XXX Maybe we should make explicit difference between sentence begin sentence end
         self.obs(last, self._boundarySymbol)
 
+    # Train a Bigram
     def obs(self, first, second):
         self._bigramCount[(first, second)] += 1
         self._unigramCount[second] += 1
         self._obsCount += 1
         self.updated = False
 
+    # Close model after (incremental) training
     def count(self):
         self.tags = set()
         self.bigramLogProb = {}
@@ -80,7 +93,8 @@ class Bigram:
 
     def writeToFile(self, fileName):
         f = open(fileName, 'w', encoding='UTF-8')
-        f.write('{0}\n'.format(str(self._smooth)))
+        f.write('{0}\n{1}\n{2}\n'.format(self._smooth, self._boundarySymbol,
+                                         self._languageModelWeight))
         tagProbs = ['{0}:{1}'.format(tag, str(self.unigramLogProb[tag]))
                     for tag in self.tags if tag != self._boundarySymbol]
         f.write('{0}\n'.format(' '.join(tagProbs)))
@@ -95,7 +109,9 @@ class Bigram:
     def getModelFromFile(fileName):
         modelFile = open(fileName, encoding='UTF-8')
         smooth = float(modelFile.readline())
-        model = Bigram(smooth)
+        boundarySymbol = modelFile.readline().strip()
+        lmw = float(modelFile.readline())
+        model = Bigram(smooth=smooth, boundarySymbol=boundarySymbol, lmw=lmw)
         tagProbs = modelFile.readline().split()
         for tagAndProb in tagProbs:
             tag, prob = tagAndProb.split(':')
@@ -107,65 +123,65 @@ class Bigram:
             model.bigramLogProb[(t1, t2)] = logProb
         return model
 
-
-"""
-source: http://en.wikipedia.org/wiki/Viterbi_algorithm
-The code has been modified to match our Bigram models:
-- models are dictionaries with tuples as keys
-- starting probabilities are not separate and end probabilities are also
-taken into consideration
-- transProbs should be a Bigram instance
-- tagProbsByPos should be a list containing, for each position,
-  the probability distribution over tags as returned by the maxent model
-- all probabilities are expected to be in log space
-"""
-
-
-def viterbi(transProbs, tagProbsByPos, languageModelWeight,
-            boundarySymbol='S'):
-    V = [{}]
-    path = {}
-    states = transProbs.tags
-    # Initialize base cases (t == 0)
-    for y in states:
-        trProb = transProbs.logProb(boundarySymbol, y)
-        tagProb = tagProbsByPos[0][y]
-        unigrProb = transProbs.unigramLogProb[y]
-        V[0][y] = trProb + tagProb - unigrProb
-        path[y] = [y]
-
-    # Run Viterbi for t > 0
-    for t in range(1, len(tagProbsByPos)):
-        V.append({})
-        newpath = {}
-
+    """
+    source: http://en.wikipedia.org/wiki/Viterbi_algorithm
+    The code has been modified to match our Bigram models:
+    - models are dictionaries with tuples as keys
+    - starting probabilities are not separate and end probabilities are also
+    taken into consideration
+    - transProbs should be a Bigram instance
+    - tagProbsByPos should be a list containing, for each position,
+      the probability distribution over tags as returned by the maxent model
+    - all probabilities are expected to be in log space
+    """
+    def viterbi(self, tagProbsByPos):
+        # Make logprob from probs...
+        tagProbsByPos = [dict([(key, math.log(val))
+                               for key, val in probDist.items()])
+                         for probDist in tagProbsByPos]
+        V = [{}]
+        path = {}
+        states = self.tags
+        # Initialize base cases (t == 0)
         for y in states:
-            if t == len(tagProbsByPos):
-                (prob, state) = max([languageModelWeight *
-                                     transProbs.logProb(y, boundarySymbol) +
-                                     (V[t - 1][y0] +
-                                      languageModelWeight *
-                                      transProbs.logProb(y0, y) +
-                                      tagProbsByPos[t][y] -
-                                      # dividing by a priori probability so as
-                                      # not to count it twice
-                                      transProbs.unigramLogProb[y],
-                                      y0) for y0 in states])
-            else:
-                (prob, state) = max([(V[t - 1][y0] +
-                                      languageModelWeight *
-                                      transProbs.logProb(y0, y) +
-                                      tagProbsByPos[t][y] -
-                                      # dividing by a priori probability so as
-                                      # not to count it twice
-                                      languageModelWeight *
-                                      transProbs.unigramLogProb[y],
-                                      y0) for y0 in states])
-            V[t][y] = prob
-            newpath[y] = path[state] + [y]
+            trProb = self.logProb(self._boundarySymbol, y)
+            tagProb = tagProbsByPos[0][y]
+            unigrProb = self.unigramLogProb[y]
+            V[0][y] = trProb + tagProb - unigrProb
+            path[y] = [y]
 
-        # Don't need to remember the old paths
-        path = newpath
+        # Run Viterbi for t > 0
+        for t in range(1, len(tagProbsByPos)):
+            V.append({})
+            newpath = {}
 
-    (prob, state) = max([(V[len(tagProbsByPos) - 1][y], y) for y in states])
-    return prob, path[state]
+            for y in states:
+                if t == len(tagProbsByPos):
+                    (prob, state) = max([self._languageModelWeight *
+                                         self.logProb(y, self._boundarySymbol) +
+                                         (V[t - 1][y0] +
+                                          self._languageModelWeight *
+                                          self.logProb(y0, y) +
+                                          tagProbsByPos[t][y] -
+                                          # dividing by a priori probability so as
+                                          # not to count it twice
+                                          self.unigramLogProb[y],
+                                          y0) for y0 in states])
+                else:
+                    (prob, state) = max([(V[t - 1][y0] +
+                                          self._languageModelWeight *
+                                          self.logProb(y0, y) +
+                                          tagProbsByPos[t][y] -
+                                          # dividing by a priori probability so as
+                                          # not to count it twice
+                                          self._languageModelWeight *
+                                          self.unigramLogProb[y],
+                                          y0) for y0 in states])
+                V[t][y] = prob
+                newpath[y] = path[state] + [y]
+
+            # Don't need to remember the old paths
+            path = newpath
+
+        (prob, state) = max([(V[len(tagProbsByPos) - 1][y], y) for y in states])
+        return prob, path[state]

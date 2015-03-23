@@ -37,14 +37,6 @@ def sentenceIterator(inputStream):
         yield currSen, currComment
 
 
-def writeSentence(sen, out=sys.stdout, comment=None):
-    if comment:
-        out.write('{0}\n'.format(comment))
-    for tok in sen:
-        out.write('{0}\n'.format('\t'.join(tok)))
-    out.write('\n')
-
-
 def featurizeSentence(sen, features):
     sentenceFeats = [[] for _ in sen]
     for feature in features.values():
@@ -52,14 +44,6 @@ def featurizeSentence(sen, features):
             sentenceFeats[c] += feats
     return sentenceFeats
 
-def index(arr, start, elem):
-    ind = -1
-    for i, e in enumerate(arr[start:]):
-        if e <= elem:
-            ind = start + i
-        else:
-            break
-    return ind
 
 # Keeps Feature/Label-Number translation maps, for faster computations
 class BookKeeper():

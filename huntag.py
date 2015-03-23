@@ -12,30 +12,28 @@ from feature import Feature
 from trainer import Trainer
 from tagger import Tagger
 from bigram import Bigram
-from tools import BookKeeper, writeSentence, sentenceIterator
 
 
-def main_bigramTrain(options, inputStream):
-    bigramModel = Bigram(0.000000000000001)
-    for sen, _ in sentenceIterator(inputStream):
-        tags = [tok[options.tagField] for tok in sen]
-        bigramModel.obsSequence(tags)
+def mainBigramTrain(options, inputStream=sys.stdin):
+    bigramModel = Bigram(options['tagField'], lmw=options['lmw'])
+    bigramModel.train(inputStream)
     bigramModel.count()
-    bigramModel.writeToFile(options.bigramModelFileName)
+    bigramModel.writeToFile(options['bigramModelFileName'])
 
 
-def main_train(featureSet, options, inputStream=sys.stdin):
-    optionsDict = vars(options)
-    if options.usedFeats:
-        optionsDict['usedFeats'] = open(options.usedFeats, encoding='UTF-8')
-    trainer = Trainer(featureSet, optionsDict)
-    if options.inFeatFileName:
-        trainer.getEventsFromFile(options.inFeatFileName)
+def mainTrain(featureSet, options, inputStream=sys.stdin):
+    trainer = Trainer(featureSet, options)
+
+    if 'inFeatFile' in options and options['inFeatFile']:
+        # Use with featurized input
+        trainer.getEventsFromFile(options['inFeatFile'])
     else:
-        trainer.getEvents(inputStream, options.outFeatFileName)
-    if optionsDict['task'] == 'most-informative-features':
+        # Use with raw input
+        trainer.getEvents(inputStream)
+
+    if options['task'] == 'most-informative-features':
         trainer.mostInformativeFeatures()
-    elif options.toCRFsuite:
+    elif 'toCRFsuite' in options and options['toCRFsuite']:
         trainer.cutoffFeats()
         trainer.toCRFsuite()
     else:
@@ -44,31 +42,40 @@ def main_train(featureSet, options, inputStream=sys.stdin):
         trainer.save()
 
 
-def main_tag(featureSet, options):
-    optionsDict = vars(options)
-    optionsDict['labelCounter'], optionsDict['featCounter'] = BookKeeper(), BookKeeper()
-    optionsDict['labelCounter'].readFromFile(optionsDict['labelCounterFileName'])
-    optionsDict['featCounter'].readFromFile(optionsDict['featCounterFileName'])
-    tagger = Tagger(featureSet, optionsDict)
-    if options.inFeatFileName:
-        tagger_func = lambda: tagger.tag_features(options.inFeatFileName)
-        writer_func = lambda s, c: writeSentence(s, comment=c)
-    elif options.io_dirs:
-        tagger_func = lambda: tagger.tag_dir(options.io_dirs[0])
-        writer_func = lambda s, c: writeSentence(s, out=open(join(options.io_dirs[1],
+def mainTag(featureSet, options, inputStream=sys.stdin):
+    tagger = Tagger(featureSet, options)
+    if 'inFeatFile' in options and options['inFeatFile']:
+        # Tag a featurized file to to STDOUT
+        taggerFunc = lambda: tagger.tagFeatures(options['inFeatFile'])
+        writerFunc = lambda s, c: writeSentence(s, comment=c)
+    elif 'ioDirs' in options and options['ioDirs']:
+        # Tag all files in a directory file to to fileName.tagged
+        taggerFunc = lambda: tagger.tagDir(options['ioDirs'][0])
+        writerFunc = lambda s, c: writeSentence(s, out=open(join(options['ioDirs'][1],
             '{0}.tagged'.format(c)), 'a', encoding='UTF-8'))
-    elif options.toCRFsuite:
-        tagger_func = lambda: tagger.toCRFsuite(sys.stdin)
-        writer_func = lambda s, c: None
-    elif options.printWeights is not None:
-        tagger_func = lambda: tagger.print_weights(options.printWeights)
-        writer_func = lambda s, c: None
+    elif 'toCRFsuite' in options and options['toCRFsuite']:
+        # Make CRFsuite format to STDOUT for tagging
+        taggerFunc = lambda: tagger.toCRFsuite(inputStream)
+        writerFunc = lambda s, c: None
+    elif 'printWeights' in options and options['printWeights']:
+        # Print MaxEnt weights to STDOUT
+        taggerFunc = lambda: tagger.printWeights(options['printWeights'])
+        writerFunc = lambda s, c: None
     else:
-        tagger_func = lambda: tagger.tag_corp(sys.stdin)
-        writer_func = lambda s, c: writeSentence(s, comment=c)
+        # Tag STDIN to STDOUT
+        taggerFunc = lambda: tagger.tagCorp(inputStream)
+        writerFunc = lambda s, c: writeSentence(s, comment=c)
 
-    for sen, other in tagger_func():
-        writer_func(sen, other)
+    for sen, other in taggerFunc():
+        writerFunc(sen, other)
+
+
+def writeSentence(sen, out=sys.stdout, comment=None):
+    if comment:
+        out.write('{0}\n'.format(comment))
+    for tok in sen:
+        out.write('{0}\n'.format('\t'.join(tok)))
+    out.write('\n')
 
 
 def getFeatureSet(cfgFile):
@@ -106,15 +113,15 @@ def getFeatureSet(cfgFile):
     return features
 
 
-def validDir(input_dir):
-    if not isdir(input_dir):
-        raise argparse.ArgumentTypeError('"{0}" must be a directory!'.format(input_dir))
-    out_dir = '{0}_out'.format(input_dir)
-    os.mkdir(out_dir)
-    return input_dir, out_dir
+def validDir(inputDir):
+    if not isdir(inputDir):
+        raise argparse.ArgumentTypeError('"{0}" must be a directory!'.format(inputDir))
+    outDir = '{0}_out'.format(inputDir)
+    os.mkdir(outDir)
+    return inputDir, outDir
 
 
-def parse_args():
+def parseArgs():
     parser = argparse.ArgumentParser()
 
     parser.add_argument('task', choices=['bigram-train', 'most-informative-features', 'train', 'tag'],
@@ -163,16 +170,16 @@ def parse_args():
 
     group = parser.add_mutually_exclusive_group()
 
-    group.add_argument('-d', '--input-dir', dest='io_dirs', type=validDir,
+    group.add_argument('-d', '--input-dir', dest='ioDirs', type=validDir,
                        help='process all files in DIR (instead of stdin)',
                        metavar='DIR')
 
     group.add_argument('-i', '--input-feature-file', dest='inFeatFileName',
-                       help='use training events in FILE',
+                       help='use training events in FILE (already featurized input, see --toCRFsuite)',
                        metavar='FILE')
 
     parser.add_argument('-f', '--feature-file', dest='outFeatFileName',
-                        help='write training events to FILE',
+                        help='write training events to FILE (deprecated, use --toCRFsuite instead)',
                         metavar='FILE')
 
     parser.add_argument('-t', '--tag-field', dest='tagField', type=int, default=-1,
@@ -189,7 +196,12 @@ def parse_args():
 
 
 def main():
-    options = parse_args()
+    options = parseArgs()
+    if options.outFeatFileName:
+        print('Error: Argument --feature-file is deprecated! Use --toCRFsuite instead!',
+              file=sys.stderr, flush=True)
+        sys.exit(1)
+
     if not options.modelName:
         print('Error: Model name must be specified! Please see --help!', file=sys.stderr, flush=True)
         sys.exit(1)
@@ -206,17 +218,19 @@ def main():
                          'sentEnd': 'Q', 'sentEndNP': np.uint64  # Sentence Ends in rowIndex
                         }                                        # ...for safety
 
-    if options.task == 'bigram-train':
-        main_bigramTrain(options, sys.stdin)
-    elif options.task == 'train' or options.task == 'most-informative-features':
-        featureSet = getFeatureSet(options.cfgFile)
-        main_train(featureSet, options)
-    elif options.task == 'tag':
-        if options.inFeatFileName:
+    optionsDict = vars(options)
+    if optionsDict['task'] == 'bigram-train':
+        mainBigramTrain(optionsDict)
+    elif optionsDict['task'] == 'train' or optionsDict['task'] == 'most-informative-features':
+        featureSet = getFeatureSet(optionsDict['cfgFile'])
+        mainTrain(featureSet, optionsDict)
+    elif optionsDict['task'] == 'tag':
+        if optionsDict['inFeatFileName']:
             featureSet = None
+            optionsDict['inFeatFile'] = open(optionsDict['inFeatFileName'], encoding='UTF-8')
         else:
-            featureSet = getFeatureSet(options.cfgFile)
-        main_tag(featureSet, options)
+            featureSet = getFeatureSet(optionsDict['cfgFile'])
+        mainTag(featureSet, optionsDict)
     else:
         print('Error: Task name must be specified! Please see --help!', file=sys.stderr, flush=True)
         sys.exit(1)

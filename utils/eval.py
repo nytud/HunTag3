@@ -211,10 +211,10 @@ def printResults(results):
             fb = results[stype][2]
             found = int(results[stype][3])
 
-            print('{0:>17}:'.format(stype), end='')
+            print('{0:>18}:'.format(stype), end='')
             print('precision: {0:6.2f}%;'.format(prec), end='')
-            print('recall: {0:6.2f}%;'.format(rec), end='')
-            print('FB1: {0:6.2f}\t{1:.0f}'.format(fb, found), end='')
+            print('recall: {0:6.2f}%; '.format(rec), end='')
+            print('FB1: {0:6.2f}\t{1:.0f}'.format(fb, found))
 
 
 def analyzeErrors(chunks):

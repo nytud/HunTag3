@@ -14,7 +14,7 @@ import numpy as np
 from array import array
 from sklearn.linear_model import LogisticRegression
 
-from tools import BookKeeper, sentenceIterator, featurizeSentence, index
+from tools import BookKeeper, sentenceIterator, featurizeSentence
 
 
 class Trainer():
@@ -45,9 +45,9 @@ class Trainer():
         self._featCounter = BookKeeper()
         self._labelCounter = BookKeeper()
         self._usedFeats = None
-        if options['usedFeats']:
+        if 'usedFeats' in options and options['usedFeats']:
             self._usedFeats = set([line.strip()
-                                  for line in options['usedFeats']])
+                                  for line in open(options['usedFeats'], encoding='UTF-8')])
 
     def save(self):
         print('saving model...', end='', file=sys.stderr, flush=True)
@@ -57,11 +57,20 @@ class Trainer():
         self._labelCounter.saveToFile(self._labelCounterFileName)
         print('done', file=sys.stderr, flush=True)
 
+    def _index(self, arr, start, elem):
+        ind = -1
+        for i, e in enumerate(arr[start:]):
+            if e <= elem:
+                ind = start + i
+            else:
+                break
+        return ind
+
     def _updateSentEnd(self, sentEnds, rowNums):
         newEnds = array(self._dataSizes['sentEnd'])
         vbeg = 0
         for end in sentEnds:
-            vend = index(rowNums, vbeg, end)
+            vend = self._index(rowNums, vbeg, end)
             if vend > 0:
                 newEnds.append(vend)
                 vbeg = vend + 1
@@ -157,10 +166,9 @@ class Trainer():
 
             print('done!', file=sys.stderr, flush=True)
 
-    def getEvents(self, data, out_file_name=None):
+    # Input need featurizing
+    def getEvents(self, data):
         print('featurizing sentences...', end='', file=sys.stderr, flush=True)
-        if out_file_name:
-            out_file = open(out_file_name, 'w', encoding='UTF-8')
         senCount = 0
         tokIndex = -1  # Index starts from 0
         for sen, _ in sentenceIterator(data):
@@ -172,22 +180,18 @@ class Trainer():
                 if self._usedFeats:
                     tokFeats = [feat for feat in tokFeats
                                 if feat in self._usedFeats]
-                if out_file_name:
-                    out_file.write('{0}\t{1}\n'.format(tok[self._tagField],
-                                                       ' '.join(tokFeats)))
                 self._addContext(tokFeats, tok[self._tagField], tokIndex)
             self._sentEnd.append(tokIndex)
-            if out_file_name:
-                out_file.write('\n')
             if senCount % 1000 == 0:
                 print('{0}...'.format(str(senCount)), end='', file=sys.stderr, flush=True)
 
         self._tokCount = tokIndex + 1
         print('{0}...done!'.format(str(senCount)), file=sys.stderr, flush=True)
 
-    def getEventsFromFile(self, fileName):
+    # Already featurized input
+    def getEventsFromFile(self, data):
         tokIndex = -1  # Index starts from 0
-        for line in open(fileName, encoding='UTF-8'):
+        for line in data:
             line = line.strip()
             if len(line) > 0:
                 tokIndex += 1
@@ -227,18 +231,18 @@ class Trainer():
         ranking = []
         for featNum, occurences in sorted(featSorted.items()):
             sumOccurences = 0
-            labels_counts = []
+            labelCounts = []
             for label, count in sorted(occurences.items(), key=itemgetter(1), reverse=True):
                 sumOccurences += count
-                labels_counts.append((labelnoToName[label], count))
+                labelCounts.append((labelnoToName[label], count))
 
-            maximum = labels_counts[0][1] / sumOccurences  # Because it's sorted reverse
-            labels_counts_prob = []
+            maximum = labelCounts[0][1] / sumOccurences  # Because it's sorted reverse
+            labelCountsProb = []
             for label, count in occurences.items():
-                labels_counts_prob.append((labelnoToName[label], count / sumOccurences))
+                labelCountsProb.append((labelnoToName[label], count / sumOccurences))
             featData = '{0}\t{1}\t{2}\t{3}'.format(featnoToName[featNum], sumOccurences,
-                                                   '/'.join(['{0}:{1}'.format(l, c) for l, c in labels_counts]),
-                                                   '/'.join(['{0}:{1}'.format(l, p) for l, p in labels_counts_prob]))
+                                                   '/'.join(['{0}:{1}'.format(l, c) for l, c in labelCounts]),
+                                                   '/'.join(['{0}:{1}'.format(l, p) for l, p in labelCountsProb]))
             ranking.append((maximum, sumOccurences, featData))
         for _, _, text in sorted(ranking, reverse=True):
             print(text)
