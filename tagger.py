@@ -6,7 +6,7 @@ import os
 from sklearn.externals import joblib
 from scipy.sparse import csr_matrix
 
-from bigram import Bigram
+from bigram import TransModel
 from tools import sentenceIterator, featurizeSentence, BookKeeper
 
 
@@ -16,7 +16,7 @@ class Tagger():
         self._dataSizes = options['dataSizes']
         if not (options['printWeights'] or options['toCRFsuite']):
             print('loading transition model...', end='', file=sys.stderr, flush=True)
-            self._transProbs = Bigram.getModelFromFile(options['bigramModelFileName'])
+            self._transProbs = TransModel.getModelFromFile(options['bigramModelFileName'])
             print('done', file=sys.stderr, flush=True)
         print('loading observation model...', end='', file=sys.stderr, flush=True)
         self._model = joblib.load('{0}'.format(options['modelFileName']))
@@ -120,4 +120,4 @@ class Tagger():
         return []
 
     def _tagSenFeats(self, senFeats):
-        return self._transProbs.viterbi(self._getTagProbsByPos(senFeats))[1]
+        return self._transProbs.tagSent(self._getTagProbsByPos(senFeats))

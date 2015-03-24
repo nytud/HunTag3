@@ -11,12 +11,14 @@ import numpy as np
 from feature import Feature
 from trainer import Trainer
 from tagger import Tagger
-from bigram import Bigram
+from bigram import TransModel
 
 
 def mainBigramTrain(options, inputStream=sys.stdin):
-    bigramModel = Bigram(options['tagField'], lmw=options['lmw'])
+    bigramModel = TransModel(options['tagField'], lmw=options['lmw'])
+    # It's possible to train multiple times incrementally...
     bigramModel.train(inputStream)
+    # Close training, compute probabilities
     bigramModel.count()
     bigramModel.writeToFile(options['bigramModelFileName'])
 

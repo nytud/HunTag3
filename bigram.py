@@ -13,7 +13,8 @@ from collections import defaultdict
 from tools import sentenceIterator
 
 
-class Bigram:
+# Bigram transition model
+class TransModel:
     def __init__(self, tagField=-1, smooth=0.000000000000001, boundarySymbol='S', lmw=1.0):
         self._bigramCount = defaultdict(int)
         self.bigramLogProb = {}
@@ -39,6 +40,10 @@ class Bigram:
         self._obsCount = 0
         self.updated = True
 
+    # Tag a sentence given the probability dists. of words
+    def tagSent(self, tagProbsByPos):
+        return self.viterbi(tagProbsByPos)[1]
+
     # Train a Stream
     def train(self, inputStream):
         for sen, _ in sentenceIterator(inputStream):
@@ -61,21 +66,24 @@ class Bigram:
         self._obsCount += 1
         self.updated = False
 
-    # Close model after (incremental) training
+    # Close model, and compute probabilities after (possibly incremental) training
     def count(self):
         self.tags = set()
         self.bigramLogProb = {}
         self.unigramLogProb = {}
-        for pair, count in self._bigramCount.items():  # log(Bigram / Unigram)
-            self.bigramLogProb[pair] = math.log(count) - math.log(self._unigramCount[pair[0]])
-            # print(pair, count, self._unigramCount[first],
-            #       count / self._unigramCount[first],
-            #       math.log(count) - math.log(self._unigramCount[first]))
-
+        # Compute unigram probs: P(t_n) = C(t_n)/sum_i(C(t_i))
         for tag, count in self._unigramCount.items():
             # if tag != self._boundarySymbol:
             self.tags.add(tag)
-            self.unigramLogProb[tag] = math.log(count / self._obsCount)
+            self.unigramLogProb[tag] = math.log(count) - math.log(self._obsCount)
+
+        # Compute bigram probs (conditional probability using joint probabilities):
+        # Unigram prob: P(t_n-1) = C(t_n)/sum_i(C(t_i)) = self.unigramLogProb[tag]
+        # Joint prob: P(t_n-1, t_n) = C(t_n-1, t_n)/C(T_n-1) = bigramJointLogProb
+        # Conditional prob: P(t_n|t_n-1) = P(t_n-1, t_n)/P(t_n-1) = bigramJointLogProb(tag1,tag2) - self.unigramLogProb[tag1]
+        for pair, count in self._bigramCount.items():  # log(Bigram / Unigram)
+            bigramJointLogProb = math.log(count) - math.log(self._unigramCount[pair[0]])
+            self.bigramLogProb[pair] = bigramJointLogProb - self.unigramLogProb[pair[0]]
 
         self.updated = True
 
@@ -111,7 +119,7 @@ class Bigram:
         smooth = float(modelFile.readline())
         boundarySymbol = modelFile.readline().strip()
         lmw = float(modelFile.readline())
-        model = Bigram(smooth=smooth, boundarySymbol=boundarySymbol, lmw=lmw)
+        model = TransModel(smooth=smooth, boundarySymbol=boundarySymbol, lmw=lmw)
         tagProbs = modelFile.readline().split()
         for tagAndProb in tagProbs:
             tag, prob = tagAndProb.split(':')
@@ -144,10 +152,9 @@ class Bigram:
         states = self.tags
         # Initialize base cases (t == 0)
         for y in states:
-            trProb = self.logProb(self._boundarySymbol, y)
-            tagProb = tagProbsByPos[0][y]
-            unigrProb = self.unigramLogProb[y]
-            V[0][y] = trProb + tagProb - unigrProb
+            V[0][y] = (self._languageModelWeight *
+                       self.logProb(self._boundarySymbol, y) +
+                       tagProbsByPos[0][y])
             path[y] = [y]
 
         # Run Viterbi for t > 0
@@ -156,27 +163,11 @@ class Bigram:
             newpath = {}
 
             for y in states:
-                if t == len(tagProbsByPos):
-                    (prob, state) = max([self._languageModelWeight *
-                                         self.logProb(y, self._boundarySymbol) +
-                                         (V[t - 1][y0] +
-                                          self._languageModelWeight *
-                                          self.logProb(y0, y) +
-                                          tagProbsByPos[t][y] -
-                                          # dividing by a priori probability so as
-                                          # not to count it twice
-                                          self.unigramLogProb[y],
-                                          y0) for y0 in states])
-                else:
-                    (prob, state) = max([(V[t - 1][y0] +
-                                          self._languageModelWeight *
-                                          self.logProb(y0, y) +
-                                          tagProbsByPos[t][y] -
-                                          # dividing by a priori probability so as
-                                          # not to count it twice
-                                          self._languageModelWeight *
-                                          self.unigramLogProb[y],
-                                          y0) for y0 in states])
+                (prob, state) = max([(V[t - 1][y0] +
+                                      self._languageModelWeight *
+                                      self.logProb(y0, y) +
+                                      tagProbsByPos[t][y],
+                                      y0) for y0 in states])
                 V[t][y] = prob
                 newpath[y] = path[state] + [y]
 
