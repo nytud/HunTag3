@@ -53,7 +53,10 @@ def isAllcapsOperator(form):
 
 # The first letter is lower, the others has, but not all uppercase...
 def isCamelOperator(form):
-    return [int(form[1].islower() and not form[1:].isupper() and not form[1:].islower())]
+    if isAllcapsOperator(form):
+        return [int(False)]
+    else:
+        return [int(form[1:].lower() != form[1:])]
 
 
 def threeCaps(form):
@@ -456,6 +459,10 @@ def krPatts(sen, fields, options, fullKr=False):
     return featVec
 
 
+def krPlural(tag):
+        return [int('NOUN<PLUR' in tag)]
+
+
 def getTagType(tag):
     return tag[2:]
 
@@ -508,23 +515,23 @@ def isPunctuationOperator(form):
 
 # from Bikel et al. (1999)
 def containsDigitAndDashOperator(form):
-    return [int(re.match('[0-9]+-[0-9]+', form))]
+    return [int(bool(re.match('[0-9]+-[0-9]+', form)))]
 
 
 # from Bikel et al. (1999)
 def containsDigitAndSlashOperator(form):
-    return [int(re.match('[0-9]+/[0-9]+', form))]
+    return [int(bool(re.match('[0-9]+/[0-9]+', form)))]
 
 
 # from Bikel et al. (1999)
 def containsDigitAndCommaOperator(form):
-    return [int(re.match('[0-9]+[,.][0-9]+', form))]
+    return [int(bool(re.match('[0-9]+[,.][0-9]+', form)))]
 
 
 # from Zhou and Su (2002)
 def YearDecadeOperator(form):
-    return [int(re.match('[0-9][0-9]s$', form) or
-                re.match('[0-9][0-9][0-9][0-9]s$', form))]
+    return [int(bool(re.match('[0-9][0-9]s$', form) or
+                re.match('[0-9][0-9][0-9][0-9]s$', form)))]
 
 
 # XXX I wonder the original author wanted...
@@ -551,6 +558,10 @@ def newSentenceEnd(sen, _):
 
 def OOV(lemma):
     return [int('OOV' in lemma)]
+
+
+def unknown(word):
+    return [int('UNKNOWN' in word or 'OOV' in word)]
 
 
 def getKrLemma(lemma):
@@ -581,6 +592,10 @@ def getPennTags(tag):
 
 def plural(tag):
     return [int(tag == 'NNS' or tag == 'NNPS')]
+
+
+def HumorPlural(tag):
+    return [int('PL' in tag)]
 
 
 def getBNCtag(tag):
