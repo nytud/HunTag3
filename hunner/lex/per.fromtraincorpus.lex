@@ -1,70 +1,70 @@
-Wolf L·szlÛ
+Wolf L√°szl√≥
 Sam DiPiazza
 Dick Cheney
 Cheney
-Horv·th Gergely
+Horv√°th Gergely
 Kondor Imre
-Bartha Andr·s
-Gr·nicz J·nos
+Bartha Andr√°s
+Gr√°nicz J√°nos
 Aris Bogdanerist
-Horv·th Zsolt
-Cs·nyi S·ndor
-Horv·th Zsolt
-Teimel GÈz·nÈ
-MÈsz·ros J·nost
+Horv√°th Zsolt
+Cs√°nyi S√°ndor
+Horv√°th Zsolt
+Teimel G√©z√°n√©
+M√©sz√°ros J√°nost
 Heinz Sundt
 Johannes Dietz
 Heinz Sundt
 Ron Sommer
-Katona K·lm·n
-FaragÛ Csab·tÛl
-FaragÛ Csaba
-Katona K·lm·n
-Nyers Rezsı
-Z·dori J·nos
+Katona K√°lm√°n
+Farag√≥ Csab√°t√≥l
+Farag√≥ Csaba
+Katona K√°lm√°n
+Nyers Rezs≈ë
+Z√°dori J√°nos
 Lakatos Antal
-Erdei Tam·s
-Jean Francois CarriÈre
-Kov·cs Zsolt
-Bogn·r Gyula
+Erdei Tam√°s
+Jean Francois Carri√©re
+Kov√°cs Zsolt
+Bogn√°r Gyula
 Staffan Pehrson
-Fodor Istv·n
+Fodor Istv√°n
 Fodor
-Szathm·ri GÈza
-Bittera MiklÛs
-TÌm·r Gyula
-Fischer BÈla
-Bartus P·l
-Szivi L·szlÛ
-PetykÛ Zolt·n
+Szathm√°ri G√©za
+Bittera Mikl√≥s
+T√≠m√°r Gyula
+Fischer B√©la
+Bartus P√°l
+Szivi L√°szl√≥
+Petyk√≥ Zolt√°n
 Kim Small
 Bill Gates
-Csintalan S·ndornak
+Csintalan S√°ndornak
 Csintalan
-Fˆldi L·szlÛtÛl
+F√∂ldi L√°szl√≥t√≥l
 Csintalan
 Streitmann Norbert
-P·rk·nyi Zolt·n
-Szomi Iv·n
-Rejtı E Tibor
+P√°rk√°nyi Zolt√°n
+Szomi Iv√°n
+Rejt≈ë E Tibor
 Andreas Treichl
 Dieter Ammer
-Debreczeni K·lm·n
-Debreczeni K·lm·n
-Brigita Schmˆgnerov·
-Cs·nyi S·ndor
-Wolf L·szlÛ
-Hoffmann L·szlÛ
-Hern·di Zsolt
+Debreczeni K√°lm√°n
+Debreczeni K√°lm√°n
+Brigita Schm√∂gnerov√°
+Cs√°nyi S√°ndor
+Wolf L√°szl√≥
+Hoffmann L√°szl√≥
+Hern√°di Zsolt
 Hidasi Emese
 Matthias Kunsch
-Nagy Istv·n
-M·ria Machov·
-Baranyay L·szlÛ
-Cs·nyi S·ndor
-Hoffmann L·szlÛ
-HoffmannÈ MarkÛ Judit
-BorÛkai G·bor
+Nagy Istv√°n
+M√°ria Machov√°
+Baranyay L√°szl√≥
+Cs√°nyi S√°ndor
+Hoffmann L√°szl√≥
+Hoffmann√© Mark√≥ Judit
+Bor√≥kai G√°bor
 Straub Elek
 Walter Hewlett
 Jiri Rusnok
@@ -73,21 +73,21 @@ Jozef Kojda
 Mihail Hodorkovszkij
 Nagy Imre
 Tolnay Lajos
-PÛrffy Andr·s
-Csillag Istv·n
-Mur·nyi Ferenc
-Piry L·szlÛ
-Fischer BÈla
-Pol·nyi S·ndor
+P√≥rffy Andr√°s
+Csillag Istv√°n
+Mur√°nyi Ferenc
+Piry L√°szl√≥
+Fischer B√©la
+Pol√°nyi S√°ndor
 Esther Dyson
 Edgar Bronfman
-D·vid ZsÛfia
-F˚zesi Attila
-Rafay J·nos
+D√°vid Zs√≥fia
+F≈±zesi Attila
+Rafay J√°nos
 Tolvaly Ferenc
 Paolo Fresco
 Fresco
-Pataki K·roly
+Pataki K√°roly
 Alan Greenspannek
 Mladjan Dinkic
 Hans-Joachim Ziems
@@ -95,125 +95,125 @@ Noreen Doyle
 Maria Luisa Cicognani
 Michal Frackowiak
 Marek Gutowskit
-Gyıri Istv·nt
-Miszori Istv·n
+Gy≈ëri Istv√°nt
+Miszori Istv√°n
 Szendrei Attila
-Legeza PÈter
-Barthelt S·ndor
+Legeza P√©ter
+Barthelt S√°ndor
 Werner Seifert
 Auth Henriket
-Adamecz PÈtert
-CsurgÛ OttÛ
+Adamecz P√©tert
+Csurg√≥ Ott√≥
 Megyeri Zsolt
-G·ti Tam·s
-HÌdvÈgi Marianna
-BathÛ EndrÈt
-Zdeborsky Gyˆrgynek
-SoÛs Tibornak
+G√°ti Tam√°s
+H√≠dv√©gi Marianna
+Bath√≥ Endr√©t
+Zdeborsky Gy√∂rgynek
+So√≥s Tibornak
 Giampiero Auletta-Armenise
-Kishalmi OttÌlia
-Dˆlle ¡kos
+Kishalmi Ott√≠lia
+D√∂lle √Åkos
 Simicska Lajos
-T·trai Bernadettet
-Schleicher …va
-Dunavˆlgyi M·ria
-Sur·nyi Gyˆrgy
-Sur·nyi Gyˆrgy
-SzabÛ Gabriella
-PalotainÈ Varga Beatrix
+T√°trai Bernadettet
+Schleicher √âva
+Dunav√∂lgyi M√°ria
+Sur√°nyi Gy√∂rgy
+Sur√°nyi Gy√∂rgy
+Szab√≥ Gabriella
+Palotain√© Varga Beatrix
 Olivier Joyeux
-Baranyay L·szlÛ
+Baranyay L√°szl√≥
 Draskovics Tibor
 Lawrence I Geneen
-KissnÈ Lad·nyi …v·t
-S·ndor Gyˆrgyˆt
-Szemmelveisz Zolt·n
-FaragÛ Csaba
-FaragÛ Csaba
-FaragÛ
-Kereszty G·bor
+Kissn√© Lad√°nyi √âv√°t
+S√°ndor Gy√∂rgy√∂t
+Szemmelveisz Zolt√°n
+Farag√≥ Csaba
+Farag√≥ Csaba
+Farag√≥
+Kereszty G√°bor
 Tolvaly Ferenc
-Horv·th Istv·n
-B·lint Gyˆrgy
-Horv·th
-K·lm·n Andr·s
-Horv·th Istv·n
-HÛnig PÈter
-Horv·th Istv·n
-JancsÛ PÈter
-Bur·ny S·ndor
-JancsÛ PÈter
-FehÈrv·ri L·szlÛ
-SiklÛs Csab·t
-Bjˆrn J Flakstad
+Horv√°th Istv√°n
+B√°lint Gy√∂rgy
+Horv√°th
+K√°lm√°n Andr√°s
+Horv√°th Istv√°n
+H√≥nig P√©ter
+Horv√°th Istv√°n
+Jancs√≥ P√©ter
+Bur√°ny S√°ndor
+Jancs√≥ P√©ter
+Feh√©rv√°ri L√°szl√≥
+Sikl√≥s Csab√°t
+Bj√∂rn J Flakstad
 Klaus Holgaar Rasmussen
 Flakstad
-JancsÛ PÈter
-JancsÛt
-MÛnus ¡gnestıl
-JancsÛ
-L·szlÛ Csaba
-Kalm·r Istv·nt
-L·szlÛ
-Szivi L·szlÛt
-L·szlÛ Csaba
-Kalm·r Istv·nt
-Gansperger Gyul·t
+Jancs√≥ P√©ter
+Jancs√≥t
+M√≥nus √Ågnest≈ël
+Jancs√≥
+L√°szl√≥ Csaba
+Kalm√°r Istv√°nt
+L√°szl√≥
+Szivi L√°szl√≥t
+L√°szl√≥ Csaba
+Kalm√°r Istv√°nt
+Gansperger Gyul√°t
 Gansperger
-Kukely M·rton
-Csillag Istv·n
+Kukely M√°rton
+Csillag Istv√°n
 Tompa Ferenc
-Rubint Dezsı
+Rubint Dezs≈ë
 Tompa Ferenc
-Korcsog Gyˆrgy
-DankÛ L·szlÛt
+Korcsog Gy√∂rgy
+Dank√≥ L√°szl√≥t
 Vidus Tibor
-Cs·ki Gyˆrgy
-SzabÛ P·l
+Cs√°ki Gy√∂rgy
+Szab√≥ P√°l
 Nagy Frigyest
-Lengyel Gyul·t
-P·l L·szlÛt
-Katona K·lm·n
-HÛnig PÈter
+Lengyel Gyul√°t
+P√°l L√°szl√≥t
+Katona K√°lm√°n
+H√≥nig P√©ter
 Stewart Oldroyd
-Huszty Andr·st
-L·szlÛ GÈza
-LÈvay ÷rsˆt
-Szak·cs L·szlÛ
-Csillag Istv·n
-M·ndoki Zolt·nt
-Tak·cs K·roly
-Horny·k Istv·nt
-Szentai Gyˆrgyˆt
-Szalai J·nost
-Szigethy Istv·nt
-TÛth Ervint
-Sz·ntÛ Istv·nt
-Vas L·szlÛt
-HÛnig PÈter
-Karik·s Gyˆrgy
-P·l L·szlÛt
-Braun PÈter
+Huszty Andr√°st
+L√°szl√≥ G√©za
+L√©vay √ñrs√∂t
+Szak√°cs L√°szl√≥
+Csillag Istv√°n
+M√°ndoki Zolt√°nt
+Tak√°cs K√°roly
+Horny√°k Istv√°nt
+Szentai Gy√∂rgy√∂t
+Szalai J√°nost
+Szigethy Istv√°nt
+T√≥th Ervint
+Sz√°nt√≥ Istv√°nt
+Vas L√°szl√≥t
+H√≥nig P√©ter
+Karik√°s Gy√∂rgy
+P√°l L√°szl√≥t
+Braun P√©ter
 Zimay Judit
-Mihalszky AnikÛt
-Patyi S·ndor
+Mihalszky Anik√≥t
+Patyi S√°ndor
 Jean Paul Van Keirsbilck
 Tony Martint
-Fekete J·nos
+Fekete J√°nos
 Auth Henrik
-J·rai Zsigmond
-Urb·n Zolt·n
-M·di Zolt·n
+J√°rai Zsigmond
+Urb√°n Zolt√°n
+M√°di Zolt√°n
 Jurij Lvov
 Vlagyimir Putyin
 Ion Ghica
-Magyar Istv·n
+Magyar Istv√°n
 Daniel O'Connor
-Heged˚s Gyula
-Pongr·cz Antalt
-Cs·nyi S·ndor
-Legeza PÈter
-Urb·n Zolt·n
+Heged≈±s Gyula
+Pongr√°cz Antalt
+Cs√°nyi S√°ndor
+Legeza P√©ter
+Urb√°n Zolt√°n
 Jean-Marie Messiernek
 Bernard Ebbers
 Paolo Cantarella
@@ -221,7 +221,7 @@ Cantarella
 Paolo Fresco
 Nagy Eleket
 Nagyot
-Csegezi L·szlÛ
+Csegezi L√°szl√≥
 Csegezi
 Dennis Kozlowski
 Kozlowski
@@ -258,7 +258,7 @@ Paolo Fresco
 Scott Sulivant
 Joseph Nacchiot
 Jean-Marie Messier
-Jean-RenÈ Fourtou-t
+Jean-Ren√© Fourtou-t
 Fourtou
 Jean-Rene Fourtou
 Jacques Espinasse
@@ -272,11 +272,11 @@ Ron Sommer
 Ron Sommer
 Gerd Tenzer
 Ron Sommer
-R¸diger Schultze
+R√ºdiger Schultze
 Ron Sommer
 Sommert
 Ron Sommer
-Ferdinand PiÎch
+Ferdinand Pi√´ch
 Donal Geaney
 Thomas Lynch
 Thomas Middelhoff
@@ -290,215 +290,215 @@ John Sidgmore
 Jonathan Miller
 Miller
 Barry Schuler
-Beck Gyˆrgy
-Braun RÛbert
+Beck Gy√∂rgy
+Braun R√≥bert
 Braun
-Horv·th MiklÛst Herman MiklÛs
-Fodor Istv·n
+Horv√°th Mikl√≥st Herman Mikl√≥s
+Fodor Istv√°n
 Staffan Pehrson
-Csintalan S·ndort
-Csintalan S·ndor
-Csintalan Fˆldi L·szlÛ
-Orosz S·ndor
-Csintalan S·ndort
-Csintalan S·ndort
-Pusk·s Attil·t
-Albert J·nos
-Lendvai J·nos
-Bord·s Gyˆrgy
-Tert·k ElemÈr
-SzabÛ Istv·n
-Filep GÈza
-Wolf L·szlÛ
-AczÈl G·bor
-Cs·nyi S·ndor
-Benczik BÈla
-Gˆblyˆs Istv·n
-Halmos G·bor
-M·ri·s Gyˆrgy
-Medgyessy PÈter
+Csintalan S√°ndort
+Csintalan S√°ndor
+Csintalan F√∂ldi L√°szl√≥
+Orosz S√°ndor
+Csintalan S√°ndort
+Csintalan S√°ndort
+Pusk√°s Attil√°t
+Albert J√°nos
+Lendvai J√°nos
+Bord√°s Gy√∂rgy
+Tert√°k Elem√©r
+Szab√≥ Istv√°n
+Filep G√©za
+Wolf L√°szl√≥
+Acz√©l G√°bor
+Cs√°nyi S√°ndor
+Benczik B√©la
+G√∂bly√∂s Istv√°n
+Halmos G√°bor
+M√°ri√°s Gy√∂rgy
+Medgyessy P√©ter
 Jeffrey R Immelt-et
 Mitaraj Fudzsio
-Rigler Zolt·n
-De·k Imre
+Rigler Zolt√°n
+De√°k Imre
 Patrick Chocat
-Hars·nyi Zsolt
-FehÈrv·ri L·szlÛ
-TarnÛczi Tibor
-Benkı ¡gnes
+Hars√°nyi Zsolt
+Feh√©rv√°ri L√°szl√≥
+Tarn√≥czi Tibor
+Benk≈ë √Ågnes
 Doron Grossman
 Balogh Tibor
-G·ti Tam·s
-Csics·ky PÈter
+G√°ti Tam√°s
+Csics√°ky P√©ter
 Michael Hughes
 Rolf Breuer
-TÛth Tam·s
-Szepesi Gyˆrgy
-’ri Andr·s
-SpÈder Zolt·n
-MÈsz·ros Gyˆrgy
+T√≥th Tam√°s
+Szepesi Gy√∂rgy
+≈êri Andr√°s
+Sp√©der Zolt√°n
+M√©sz√°ros Gy√∂rgy
 Craig Barrett
 Henning Kagermann
 Seamus Blackley
 Blackley
 Blackley
-Kurt Hellstrˆm
+Kurt Hellstr√∂m
 Klaudia Martini
 Francesco Mengozzi
 Cso Fudzsio
 Stefan Gurszky
-Pol·nyi S·ndor
-V·radi JÛzsef
+Pol√°nyi S√°ndor
+V√°radi J√≥zsef
 Steve Varcoe
-Geszti L·szlÛ
+Geszti L√°szl√≥
 Straub Elek
-Imre Istv·n
+Imre Istv√°n
 Velentzei Vladimir
-Tak·cs G·bor
-Tak·cs
-Gerendai K·rollyal
-M¸ller PÈter Szi·mival
-Tak·cs
-Turai S·ndor
+Tak√°cs G√°bor
+Tak√°cs
+Gerendai K√°rollyal
+M√ºller P√©ter Szi√°mival
+Tak√°cs
+Turai S√°ndor
 Hans Porst
-Gerhard Schrˆder
-Schrˆder
+Gerhard Schr√∂der
+Schr√∂der
 Edmund Stoiberrel
 John Sidgmore
 Livio Rossi
-Demj·n S·ndor
-Demj·n
-Kepecs G·bor
-Kisbenedek PÈter
-Rejtı E Tibor
-V·mosi-Nagy Szabolcs
-CsurgÛ OttÛ
+Demj√°n S√°ndor
+Demj√°n
+Kepecs G√°bor
+Kisbenedek P√©ter
+Rejt≈ë E Tibor
+V√°mosi-Nagy Szabolcs
+Csurg√≥ Ott√≥
 Samuel Palmisano
-Bˆrˆcz Istv·n
-Elek Istv·n
+B√∂r√∂cz Istv√°n
+Elek Istv√°n
 Elek
-CzikÛ G·bor
-Sug·r Andr·s
-MÈsz·ros J·nos
-Marosffy L·szlÛ
-MÈsz·ros J·nos
-Sz·sz Katalin
-Rockenbauer Zolt·n
+Czik√≥ G√°bor
+Sug√°r Andr√°s
+M√©sz√°ros J√°nos
+Marosffy L√°szl√≥
+M√©sz√°ros J√°nos
+Sz√°sz Katalin
+Rockenbauer Zolt√°n
 Peter Munch
-Orb·n Viktor
-Szita K·roly
-Kalm·r Istv·n
-Lovas Tam·s
-Lovas PÈter
+Orb√°n Viktor
+Szita K√°roly
+Kalm√°r Istv√°n
+Lovas Tam√°s
+Lovas P√©ter
 Lovas
 Erich Hampel
 Reinhard Ortner
 Klaus Thalhammer
 Tony Fekete
-Brigita Schmˆgnerov·
-Cs·nyi S·ndor
+Brigita Schm√∂gnerov√°
+Cs√°nyi S√°ndor
 Marek Polan
 Steve Ballmernek
 Cserhalmi Zsolt
-Zim·nyi Tibor
-VÈcsey Kl·ra
-Pap GÈza
+Zim√°nyi Tibor
+V√©csey Kl√°ra
+Pap G√©za
 Csepi Lajos
-SpÈder Zolt·n
-Cs·nyi S·ndor
-SpÈder Zolt·nnak
-Balogh Andr·s
-TÛbi·s J·nos
-Lenk GÈza
-SzÈpk˙ti L·szlÛ
-VÈcsey Kl·ra
-Temesfıi Istv·n
-ValkÛ BÈla
-Dob·knÈ Psen·k AngÈla
-Jaksity Gyˆrgy
-P·rk·nyi Zolt·n
-VÈcsei Kl·ra
-Pap Gyul·nak
+Sp√©der Zolt√°n
+Cs√°nyi S√°ndor
+Sp√©der Zolt√°nnak
+Balogh Andr√°s
+T√≥bi√°s J√°nos
+Lenk G√©za
+Sz√©pk√∫ti L√°szl√≥
+V√©csey Kl√°ra
+Temesf≈ëi Istv√°n
+Valk√≥ B√©la
+Dob√°kn√© Psen√°k Ang√©la
+Jaksity Gy√∂rgy
+P√°rk√°nyi Zolt√°n
+V√©csei Kl√°ra
+Pap Gyul√°nak
 Streitmann Norbert
-Borda G·bor
-Somfai RÛbert
-Vad·sz Guszt·v
-BÌrÛ Tibornak
+Borda G√°bor
+Somfai R√≥bert
+Vad√°sz Guszt√°v
+B√≠r√≥ Tibornak
 Ferber Ferenc
-GyulainÈ ZsakÛ ZsÛfia
-Cs·nyi S·ndor
-Borda G·bor
+Gyulain√© Zsak√≥ Zs√≥fia
+Cs√°nyi S√°ndor
+Borda G√°bor
 Cserhalmi Zsolt
-BÌrÛ Tibor
-Tak·ts PÈter
+B√≠r√≥ Tibor
+Tak√°ts P√©ter
 Michael Frenzel
-Pol·nyi S·ndor
-Pol·nyi
-Pol·nyi
-Pol·nyi
-TÌm·r Gyula
-PintÈr Zolt·n
-Dˆgei S·ndor
-R·cz Ernı
-Szobonya Csaba Zolt·n
-Horv·th PÈtert
-Gul·csy Ferenc
-Stanga Gyul·t
-Sz·sz K·roly
+Pol√°nyi S√°ndor
+Pol√°nyi
+Pol√°nyi
+Pol√°nyi
+T√≠m√°r Gyula
+Pint√©r Zolt√°n
+D√∂gei S√°ndor
+R√°cz Ern≈ë
+Szobonya Csaba Zolt√°n
+Horv√°th P√©tert
+Gul√°csy Ferenc
+Stanga Gyul√°t
+Sz√°sz K√°roly
 Simicska Lajos
-Civin J·nos
-Lenk GÈz·t
+Civin J√°nos
+Lenk G√©z√°t
 Jean-Paul Le Roy
 Stuart George Wyatt-Ingramot
-H·rskuti J·nos
-G·ti Tam·s
+H√°rskuti J√°nos
+G√°ti Tam√°s
 Maarten de Jong
-RÛzsahegyi Zsolt
-Moln·r Lajos
+R√≥zsahegyi Zsolt
+Moln√°r Lajos
 Leo Kirch
 Rolf Breuert
-BorÛkai L·szlÛ
-BorÛkai G·bor
-Horv·th Iv·n
+Bor√≥kai L√°szl√≥
+Bor√≥kai G√°bor
+Horv√°th Iv√°n
 Gergely
-Horv·th
-Horv·th
+Horv√°th
+Horv√°th
 Gergely
-Halbauer J·nos
-VÌgnÈ Szalontai Katalin
-Hidasi Istv·n
+Halbauer J√°nos
+V√≠gn√© Szalontai Katalin
+Hidasi Istv√°n
 Hidasi
-Moln·r Zolt·n
-Gergely Istv·n
+Moln√°r Zolt√°n
+Gergely Istv√°n
 Gergelynek
 Gergely
 Gergely
-Lırincz L·szlÛ
+L≈ërincz L√°szl√≥
 Gergely
-Gergely IrÈn
-Halbauer J·nos
-Lırincz L·szlÛ
+Gergely Ir√©n
+Halbauer J√°nos
+L≈ërincz L√°szl√≥
 Gergelyt
 Gergely
-Lırincz
+L≈ërincz
 Gergely
-BorÛkai
-Lıriczen
-Farkas OttÛ
-Guly·s L·szlÛ
-DÈnes J·nos
-Lakatos BÈla
-Skod·k
-Lıriczet
-VÈr Iv·n
-TarnÛczy L·szlÛ
+Bor√≥kai
+L≈ëriczen
+Farkas Ott√≥
+Guly√°s L√°szl√≥
+D√©nes J√°nos
+Lakatos B√©la
+Skod√°k
+L≈ëriczet
+V√©r Iv√°n
+Tarn√≥czy L√°szl√≥
 Richard Lambertet
 Andrew Gowers
-H¸lvely Krisztina
-Dancsecs Tam·s
-Koll·th Gyˆrgy
-Koll·th Gyˆrgy
-Koll·th Gyˆrgy
+H√ºlvely Krisztina
+Dancsecs Tam√°s
+Koll√°th Gy√∂rgy
+Koll√°th Gy√∂rgy
+Koll√°th Gy√∂rgy
 Abby Joseph Cohen
 Vagit Alekperov
 Corrado Passera
@@ -511,68 +511,68 @@ Ron Sommer
 Warren Buffett
 Anatolij Csubajsz
 Mihail Hodorkovszkij
-J¸rgen Schrempp
+J√ºrgen Schrempp
 Michael Eisner
 Helmut Panke
-Szepessy KornÈl
-Z·dori J·nos
-Nagy M·ria
-MÈsz·ros K·lm·n
+Szepessy Korn√©l
+Z√°dori J√°nos
+Nagy M√°ria
+M√©sz√°ros K√°lm√°n
 Mark Robinson
-SzabÛ L·szlÛ
-NoÎl Forgeard
-Tihanyi Tam·s
-Bjˆrn J Flakstad
+Szab√≥ L√°szl√≥
+No√´l Forgeard
+Tihanyi Tam√°s
+Bj√∂rn J Flakstad
 Somody Imre
 Somody Imre
 Somody Imre
 Bariska Zsolt
-TızsÈr Tam·s
+T≈ëzs√©r Tam√°s
 Somody
 Somody Imre
-FutÛ PÈter
-Debreczeni K·lm·n
+Fut√≥ P√©ter
+Debreczeni K√°lm√°n
 Witold Symanski
-Kalm·r Istv·n
-Glattfelder BÈla
+Kalm√°r Istv√°n
+Glattfelder B√©la
 Jacques Chirac
-Schmidt L·szlÛ
-SebestyÈn PÈter
-Somorai L·szlÛ
-Matolcsy Gyˆrgy
-DobÛczky Andr·s
-Uhlmann Attil·tÛl
+Schmidt L√°szl√≥
+Sebesty√©n P√©ter
+Somorai L√°szl√≥
+Matolcsy Gy√∂rgy
+Dob√≥czky Andr√°s
+Uhlmann Attil√°t√≥l
 Uhlmann
 Viliam Vaskovic
-Kalm·r Istv·n
+Kalm√°r Istv√°n
 Wieslaw Kaczmarek
 Wieslaw Kaczmarek
 Wieslaw Kaczmarek
 Leonyid Kucsma
 Leonyid Kucsma
-SzÈles RÛbert
+Sz√©les R√≥bert
 Ovidiu Musetescu
 Lubomir Harach
-V·rady Zolt·n
+V√°rady Zolt√°n
 Straub Elek
 Wieslaw Kaczmarek
 Kaczmarek
 Wieslaw Kaczmarek
 Bohuslav Sobotka
 Anatolij Kinah
-Baranyay L·szlÛ
+Baranyay L√°szl√≥
 Jean-Marie Messier
 Messier
 Carlos Ghosn
 Thomas Hecker
-Glattfelder BÈla
-Baka …v·tÛl
-Felcsuti PÈter
-Erdei Tam·s
+Glattfelder B√©la
+Baka √âv√°t√≥l
+Felcsuti P√©ter
+Erdei Tam√°s
 Gerhardt Ferenc
 Richard Pelly
-FaragÛ Csaba
-SkultÈti Vilmos
+Farag√≥ Csaba
+Skult√©ti Vilmos
 Nicholas Scheele
 Paolo Fresco
 Larry Ellison
@@ -581,76 +581,76 @@ Richard Branson
 Lindsay Owen-Jones
 Scott McNealy
 Stephen McGowan
-FerrÛ Imre
+Ferr√≥ Imre
 Szaxon Attila
 Szaxon
-Bogn·r Gyula
-Civin J·nos
-Hal·sz S·ndor
+Bogn√°r Gyula
+Civin J√°nos
+Hal√°sz S√°ndor
 Ase Lindskog
 Takaja Takasi
 Alekszandr Braverman
 Jan Kulczyk
-ErdÈlyi L·szlÛ Attila
+Erd√©lyi L√°szl√≥ Attila
 Nagy Imre
-Cs·ki Gyˆrgy
-Borda G·bor
+Cs√°ki Gy√∂rgy
+Borda G√°bor
 Pap Gyula
-Borda G·bor
-Kor·nyi Tam·s
-Jaksity Gyˆrgy
-Jaksity Gyˆrgy
+Borda G√°bor
+Kor√°nyi Tam√°s
+Jaksity Gy√∂rgy
+Jaksity Gy√∂rgy
 Ulrich Hartmann
 Otto Schily
 German Gref
 Duisenberg
 Michael Jackson
 Joe Jacksonnak
-Matolcsy Gyˆrgy
+Matolcsy Gy√∂rgy
 Niall FitzGerald
-Glattfelder BÈla
+Glattfelder B√©la
 Jean-Claude Trichet
 Anatolij Kinah
 Ivan Pljuscsnak
 Anatolij Kinah
 Julian Berengaut-ot
-Varga Mih·ly
-Benkı Kiss ¡rp·d
-Matolcsy Gyˆrgy
-KÈkkıi Zolt·n
-Bal·s PÈter
-…der Tam·s
+Varga Mih√°ly
+Benk≈ë Kiss √Årp√°d
+Matolcsy Gy√∂rgy
+K√©kk≈ëi Zolt√°n
+Bal√°s P√©ter
+√âder Tam√°s
 Karl-Heinz Grasser
-Dobos Andr·s
+Dobos Andr√°s
 Herpai Laura
 Slobodan Milosevic
 Janez Drnovsek
 Antonio Marzano
-Martonyi J·nos
+Martonyi J√°nos
 Artur Balazs
-Bal·s PÈter
+Bal√°s P√©ter
 Boros Imre
-Budai Zolt·n
+Budai Zolt√°n
 Wolfgang Scheremet
-Varga Mih·ly
-Koji L·szlÛ
-CsÈfalvay Zolt·n
+Varga Mih√°ly
+Koji L√°szl√≥
+Cs√©falvay Zolt√°n
 Laurent Fabius
-Orb·n Viktor
+Orb√°n Viktor
 Mihai Lungu
 Gordon Brown
 Olekszandr Bondar
 Oszama bin Laden
-Mohos Andr·s
+Mohos Andr√°s
 Gordon Brown
 Gordon Brown
-Matolcsy Gyˆrgy
+Matolcsy Gy√∂rgy
 German Gref
 Kurt Biedenkopf
-Vonza Andr·s
-BakosnÈ Nagy …va
+Vonza Andr√°s
+Bakosn√© Nagy √âva
 Paul O'Neil
-GyimÛthy GÈza
+Gyim√≥thy G√©za
 Szaid Barkat
 Viktor Gerascsenko
 Christian Noyer
@@ -658,146 +658,146 @@ Joseph Stiglitz
 Donald Evans
 German Gref
 Olekszandr Bondar
-SzabÛ OttÛ
+Szab√≥ Ott√≥
 Szarvas Ferenc
-SzabÛ G·bor
+Szab√≥ G√°bor
 Gordon Brown
 Giovan Battista Verderame
 Simon Watts
-Turi-Kov·cs BÈla
-Martonyi J·nos
+Turi-Kov√°cs B√©la
+Martonyi J√°nos
 Viktor Juscsenko
 Charles Frank
-Bogn·r PÈter
-Tomaj DÈnes
+Bogn√°r P√©ter
+Tomaj D√©nes
 Andrew Leongot
 Hans Eichel
-VavrÛ Istv·n
-J·rai Zsigmond
+Vavr√≥ Istv√°n
+J√°rai Zsigmond
 Christoph Leitl
-SzÈkely Judit
+Sz√©kely Judit
 Norbert Walter
 Walter
 Vlagyimir Putyin
 Domingo Cavallo
 Milton Friedman
-Gerhard Schrˆder
+Gerhard Schr√∂der
 Vlagyimir Putyin
 Hermann Remspergerre
 Andrej Saronov
-Orb·n Viktor
+Orb√°n Viktor
 Ivica Racannal
-SzalÛ PÈter
-ErdÈlyi Katalin
-Orb·n Viktor
-Varga Mih·ly
+Szal√≥ P√©ter
+Erd√©lyi Katalin
+Orb√°n Viktor
+Varga Mih√°ly
 Giuliano Amato
-Geszti L·szlÛ
+Geszti L√°szl√≥
 Ernst Welteke
-Martonyi J·nos
-Martonyi J·nos
+Martonyi J√°nos
+Martonyi J√°nos
 Vaszil Rohovij
-Varga Mih·ly
-Rog·n Antal
-Bur·ny S·ndor
-Felkai Gyˆrgy
-Sibelka Gyˆrgy
+Varga Mih√°ly
+Rog√°n Antal
+Bur√°ny S√°ndor
+Felkai Gy√∂rgy
+Sibelka Gy√∂rgy
 George W Bush
-DaskÛ Csilla
-Zˆld S·ndor
-Matolcsy Gyˆrgy
-Felkai Gyˆrgy
+Dask√≥ Csilla
+Z√∂ld S√°ndor
+Matolcsy Gy√∂rgy
+Felkai Gy√∂rgy
 David Byrne
 Wim Duisenberg
 Romano Prodi
-Varga Mih·ly
+Varga Mih√°ly
 Michael Wakolbinger
-Laufer Tam·s
-Sz˚cs G·bor
-Lipovecz Iv·n
+Laufer Tam√°s
+Sz≈±cs G√°bor
+Lipovecz Iv√°n
 Tadashi Kondo
-Ciranovski J·nos
-Janesch PÈter
-Halmai G·bor
-L·z·r MÛzes
-L·z·r MÛzest
-Mandur L·szlÛ
-Kˆrmendy-…kes Judit
+Ciranovski J√°nos
+Janesch P√©ter
+Halmai G√°bor
+L√°z√°r M√≥zes
+L√°z√°r M√≥zest
+Mandur L√°szl√≥
+K√∂rmendy-√âkes Judit
 Schumacher
-Kov·cs K·lm·n
-VÈcsei Istv·n
-Csernai G·bor
-Katona K·lm·n
+Kov√°cs K√°lm√°n
+V√©csei Istv√°n
+Csernai G√°bor
+Katona K√°lm√°n
 Barbara Brill
-Csisz·r Jenı
-Nov·k PÈter
+Csisz√°r Jen≈ë
+Nov√°k P√©ter
 Vitai Attila
-W·berer Gyˆrgy
-Cseh·k Judit
-MÈsz·ros Tam·snak
-Pek·r Istv·n
-Medgyessy PÈternek
-Pol·nyi S·ndor
-Bokker S·ndor
-Bokker S·ndor
-Sv·by Andr·s
-PintÈr Dezsı
-Medgyessy PÈter
-Tombor AntaltÛl
-Prokopp DÛra
-Feledi Gyˆrgy
-Csillag Istv·n
-Post·nÈ dr. Vellai Gyˆrgyike
-Vajda L·szlÛ
-Csillag Istv·n
+W√°berer Gy√∂rgy
+Cseh√°k Judit
+M√©sz√°ros Tam√°snak
+Pek√°r Istv√°n
+Medgyessy P√©ternek
+Pol√°nyi S√°ndor
+Bokker S√°ndor
+Bokker S√°ndor
+Sv√°by Andr√°s
+Pint√©r Dezs≈ë
+Medgyessy P√©ter
+Tombor Antalt√≥l
+Prokopp D√≥ra
+Feledi Gy√∂rgy
+Csillag Istv√°n
+Post√°n√© dr. Vellai Gy√∂rgyike
+Vajda L√°szl√≥
+Csillag Istv√°n
 Csillag
 V I Reszin
-Csabai L·szlÛnÈ
+Csabai L√°szl√≥n√©
 Fekete Tibor
 Tolvaly Ferenc
 Tolvaly
-Sz˚cs G·bor
-Sz˚cs
-Varga Mih·ly
-Komornik FerencnÈ
+Sz≈±cs G√°bor
+Sz≈±cs
+Varga Mih√°ly
+Komornik Ferencn√©
 Jean Lemiere
-”dor Ferenc
-Burill·k Attila
-Oszl·nyi Zsolt
-Horv·th Zsolt
-Zara L·szlÛ
+√ìdor Ferenc
+Burill√°k Attila
+Oszl√°nyi Zsolt
+Horv√°th Zsolt
+Zara L√°szl√≥
 Kossuth Lajos
 Bosse Ringholm
-Varga Mih·ly
+Varga Mih√°ly
 Jean Lemiere
-Torgy·n
-Vida IldikÛnak
+Torgy√°n
+Vida Ildik√≥nak
 Vlagyimir Putyin
 Jean Lemierre
-BathÛ Ferenc
+Bath√≥ Ferenc
 Wim Duisenberg
-Kov·cs ¡lmos
-J·rai Zsigmond
+Kov√°cs √Ålmos
+J√°rai Zsigmond
 Slobodan Milosevic
-Orb·n Viktor
+Orb√°n Viktor
 David Oakes
 Alekszej Kudrin
-Varga Mih·ly
-Dunavˆlgyi M·ria
-Tert·k ElemÈr
-Zsoldos J·nos
-J·rai Zsigmond
+Varga Mih√°ly
+Dunav√∂lgyi M√°ria
+Tert√°k Elem√©r
+Zsoldos J√°nos
+J√°rai Zsigmond
 Hanna Gronkiewicz-Waltz
 Kwasniewski
 Aleksander Kwasniewski
 Rodolfo Frigeri
-Kesj·r J·nos
+Kesj√°r J√°nos
 Eduardo Duhelde
-J·rai Zsigmond
-Varga Mih·ly
+J√°rai Zsigmond
+Varga Mih√°ly
 Oszama bin Laden
 Mladjan Dinkic
-’ri Andr·s
+≈êri Andr√°s
 Putyin
 Hans Niessl
 Ivanics Ferencnek
@@ -805,11 +805,11 @@ Mladjan Dinkic
 Didier Reynders
 Aleksander Kwasniewski
 Marek Belka
-Dzubay L·szlÛ
-Somorai L·szlÛ
+Dzubay L√°szl√≥
+Somorai L√°szl√≥
 Jean Lemierre
 Wim Duisenberg
-Gartner PÈter
+Gartner P√©ter
 Wieslaw Kaczmarek
 Bokros Lajos
 Luca Barbone
@@ -817,66 +817,66 @@ Auth Henrik
 Bokros Lajos
 Luca Barbone
 Vaszil Rohovij
-Balogh Andr·s
-J·kfalvi Zolt·n
+Balogh Andr√°s
+J√°kfalvi Zolt√°n
 Grasser
 Oszama bin Laden
-T·bor ViktornÈt
-Toman RÛbert
-V·rkonyi Edit
-Varga Mih·ly
+T√°bor Viktorn√©t
+Toman R√≥bert
+V√°rkonyi Edit
+Varga Mih√°ly
 Leszek Miller
 Szendrei Csaba
 Erich Obersteiner
 Mladjan Dinkic
 Andrew Seton
-Marek Belk·nak
-Varga ¡rp·d
-Osv·th Piroska
+Marek Belk√°nak
+Varga √Årp√°d
+Osv√°th Piroska
 Szerhij Jaremenko
-Soros Gyˆrgy
-Szent Istv·n
-RadÛ ¡kos
+Soros Gy√∂rgy
+Szent Istv√°n
+Rad√≥ √Åkos
 Aleksander Kwasniewski
-Varga Mih·ly
-Horv·th Zsolt
-Dieter Bˆhmdorfer
+Varga Mih√°ly
+Horv√°th Zsolt
+Dieter B√∂hmdorfer
 Erich Hamplell-el
 Auth Henriknek
-J·rai Zsigmond
+J√°rai Zsigmond
 Wim Duisenberg
-MÈsz·ros K·lm·n
+M√©sz√°ros K√°lm√°n
 Wim Duisenberg
-P·link·snÈ Bal·zs Eszter
-BathÛ Ferenc
+P√°link√°sn√© Bal√°zs Eszter
+Bath√≥ Ferenc
 Neven Mates
-K·d·r BÈla
-Nagy Barnab·s
-Missura G·bor
-Kornai J·nos
-Hegyes M·ria
-Gul·csi Ferenc
+K√°d√°r B√©la
+Nagy Barnab√°s
+Missura G√°bor
+Kornai J√°nos
+Hegyes M√°ria
+Gul√°csi Ferenc
 Julian Berengaut
 Anatolij Kinah
-Varga Mih·ly
-Varga Mih·ly
-Wolf L·szlÛ
+Varga Mih√°ly
+Varga Mih√°ly
+Wolf L√°szl√≥
 Jean Lamierre
 Anatolij Kinah
-B˙z·s L·szlÛ
-B˙z·s
-Wolf L·szlÛ
+B√∫z√°s L√°szl√≥
+B√∫z√°s
+Wolf L√°szl√≥
 Mihail Kaszjanov
 Pap Gyula
-J·rai Zsigmond
+J√°rai Zsigmond
 Ernst Welteke
-J·rai Zsigmond
+J√°rai Zsigmond
 George Bush
 Anatolij Kinah
 Luca Barbone
 George Bush
-DarÛczi Andor
-Bencze JÛzsef
+Dar√≥czi Andor
+Bencze J√≥zsef
 Christian Popa
 Jean-Claude Trichet
 Szerhij Jaremenko
@@ -887,46 +887,46 @@ Mario Blejer
 Szerhij Jaremenko
 Hans Eichel
 Jean Lemierre
-RadÛ ¡kos
+Rad√≥ √Åkos
 Anatolij Kinah
 Tony Blair
-Dunavˆlgyi M·ria
-J·rai Zsigmond
-J·rai Zsigmond
-J·rai Zsigmond
+Dunav√∂lgyi M√°ria
+J√°rai Zsigmond
+J√°rai Zsigmond
+J√°rai Zsigmond
 Alan Greenspan
 Alan Greenspan
-SzalaynÈ Ostorh·zi M·ri·t
-Mandz·k L·szlÛ
+Szalayn√© Ostorh√°zi M√°ri√°t
+Mandz√°k L√°szl√≥
 Silvio Berlusconi
-’ry JenınÈ
+≈êry Jen≈ën√©
 John Major
 John Major
-Papp Istv·n
-Kelemen L·szlÛ
+Papp Istv√°n
+Kelemen L√°szl√≥
 Mijadzava Kiicsi
-V·mosi Nagy Szabolcs
-V·mosi Nagy Szabolcs
+V√°mosi Nagy Szabolcs
+V√°mosi Nagy Szabolcs
 Leszek Balcerowicz
-J·rai Zsigmond
+J√°rai Zsigmond
 Luca Barbone
-Sz·sz K·roly
-Sz·sz K·roly
-Szap·ry Gyˆrgy
-T·llai Andr·s
-AszÛdi P·llal
+Sz√°sz K√°roly
+Sz√°sz K√°roly
+Szap√°ry Gy√∂rgy
+T√°llai Andr√°s
+Asz√≥di P√°llal
 Wieslaw Rozlucki
 Wieslaw Rozlucki
-Papp Istv·n
-GyulainÈ ZsakÛ ZsÛfia
+Papp Istv√°n
+Gyulain√© Zsak√≥ Zs√≥fia
 Roberto Marzanati
 Vlagyimir Putyin
 Auth Henrik
-J·rai Zsigmond
-J·rai Zsigmond
-J·rai Zsigmond
+J√°rai Zsigmond
+J√°rai Zsigmond
+J√°rai Zsigmond
 Kudrinnal
-J·rai Zsigmond
-Dunavˆlgyi M·ria
-Missura G·bor
+J√°rai Zsigmond
+Dunav√∂lgyi M√°ria
+Missura G√°bor
 Karl-Heinz Grasser

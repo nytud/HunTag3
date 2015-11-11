@@ -1,6 +1,6 @@
 1. sz.
 4
-4 Ász
+4 Ãsz
 4 D
 4 M
 4 N
@@ -16,7 +16,7 @@
 7
 7 B
 7 D
-7 Dimenzió
+7 DimenziÃ³
 7 E
 7 F
 7 L
@@ -39,7 +39,7 @@
 91
 96
 99-es
-999 Aprócikk
+999 AprÃ³cikk
 9B
 9B-Inform
 9F
@@ -58,18 +58,18 @@ A + A
 A + C
 A + J
 A 1
-A Két
+A KÃ©t
 A and M
-A és A
-A és M
-A és V
+A Ã©s A
+A Ã©s M
+A Ã©s V
 A+B
 A+E
-A-Cél
+A-CÃ©l
 A-Lap
 A-Z
 A-Z Topker
-A-tól Z-ig
+A-tÃ³l Z-ig
 A. C. S.
 A. D.
 A. F. Marcotec
@@ -79,84 +79,84 @@ A. S.
 A. S. I.
 A. T.
 A. T. T.
-Á és D
-Á és G
-Á'la Nature Reform
-Á-Dent
-ÁFÉSZ
-ÁFÉSZ Fogyasztási
-ÁFÉSZ Fogyasztási és Értékesítési
-ÁGM
-ÁP
-ÁVI
-Ábel
-Ábrahám
-Ácom
-Ács
-Ács-Állványozó
-Ács-Ép
-Ács-Kapocs
-Ádám
-Ádám-Béla
-Ádám-Számadó
-Áfész
-Ág-Ker
-Ágens
-Ági
-Ágnes
-Ágoston
-Álláskeresõk
-Államháztartási
-Állami
-Állami Gazdaság
-Állami Népegészségügyi és Tisztiorvosi
-Állami Tangazdaság
-Állami Vagyonügynökség
-Állampusztai
-Állategészségügyi
-Állategészségügyi és Élelmiszer-ellenõrzõ
-Állatforgalmi és Húsipari
-Állatgyógyászati
-Állatifehérje Takarmányokat Elõállító
-Állatkert
-Állatklinika
-Állatkórház
-Állatorvos
-Állatorvosi
-Állatotthon
-Állatpatika
-Állattenyésztési Teljesítményvizsgáló
-Állomás
-Állvány
-Általános
-Általános Mûvelõdési
-Általános és Zeneiskola
-Ámbitus
-Ámla
-Ámor
-Ápolási
-Ápoló-Gondozó
-Ár-Ma
-Áramszolgáltató
-Árgus
-Árindex
-Árkád
-Árkádia
-Árkus
-Árnika
-Árnyas
-Árpád
-Árpád Fejedelem
-Áruház
-Árvácska
-Árvai
-Árvízvédelmi
-Ász
-Ászári
-Ászok
-Átrium
-Ázsia
-Ázsió
+Ã Ã©s D
+Ã Ã©s G
+Ã'la Nature Reform
+Ã-Dent
+ÃFÃ‰SZ
+ÃFÃ‰SZ FogyasztÃ¡si
+ÃFÃ‰SZ FogyasztÃ¡si Ã©s Ã‰rtÃ©kesÃ­tÃ©si
+ÃGM
+ÃP
+ÃVI
+Ãbel
+ÃbrahÃ¡m
+Ãcom
+Ãcs
+Ãcs-ÃllvÃ¡nyozÃ³
+Ãcs-Ã‰p
+Ãcs-Kapocs
+ÃdÃ¡m
+ÃdÃ¡m-BÃ©la
+ÃdÃ¡m-SzÃ¡madÃ³
+ÃfÃ©sz
+Ãg-Ker
+Ãgens
+Ãgi
+Ãgnes
+Ãgoston
+ÃllÃ¡skeresÅ‘k
+ÃllamhÃ¡ztartÃ¡si
+Ãllami
+Ãllami GazdasÃ¡g
+Ãllami NÃ©pegÃ©szsÃ©gÃ¼gyi Ã©s Tisztiorvosi
+Ãllami TangazdasÃ¡g
+Ãllami VagyonÃ¼gynÃ¶ksÃ©g
+Ãllampusztai
+ÃllategÃ©szsÃ©gÃ¼gyi
+ÃllategÃ©szsÃ©gÃ¼gyi Ã©s Ã‰lelmiszer-ellenÅ‘rzÅ‘
+Ãllatforgalmi Ã©s HÃºsipari
+ÃllatgyÃ³gyÃ¡szati
+ÃllatifehÃ©rje TakarmÃ¡nyokat ElÅ‘Ã¡llÃ­tÃ³
+Ãllatkert
+Ãllatklinika
+ÃllatkÃ³rhÃ¡z
+Ãllatorvos
+Ãllatorvosi
+Ãllatotthon
+Ãllatpatika
+ÃllattenyÃ©sztÃ©si TeljesÃ­tmÃ©nyvizsgÃ¡lÃ³
+ÃllomÃ¡s
+ÃllvÃ¡ny
+ÃltalÃ¡nos
+ÃltalÃ¡nos MÅ±velÅ‘dÃ©si
+ÃltalÃ¡nos Ã©s Zeneiskola
+Ãmbitus
+Ãmla
+Ãmor
+ÃpolÃ¡si
+ÃpolÃ³-GondozÃ³
+Ãr-Ma
+ÃramszolgÃ¡ltatÃ³
+Ãrgus
+Ãrindex
+ÃrkÃ¡d
+ÃrkÃ¡dia
+Ãrkus
+Ãrnika
+Ãrnyas
+ÃrpÃ¡d
+ÃrpÃ¡d Fejedelem
+ÃruhÃ¡z
+ÃrvÃ¡cska
+Ãrvai
+ÃrvÃ­zvÃ©delmi
+Ãsz
+ÃszÃ¡ri
+Ãszok
+Ãtrium
+Ãzsia
+ÃzsiÃ³
 A9
 AAA
 AACS
@@ -171,7 +171,7 @@ ABN
 ABN AMRO (Magyar) Bank
 ABR
 ABS
-ABT Hungária
+ABT HungÃ¡ria
 ABT-Consulting
 AC
 AD
@@ -197,7 +197,7 @@ AMT
 ANA
 ANNO
 AP
-APEH Bûnügyi
+APEH BÅ±nÃ¼gyi
 AQUA
 AQUATERV
 AR
@@ -217,7 +217,7 @@ ATL
 ATT
 AVS
 AXA
-AXA Biztosító
+AXA BiztosÃ­tÃ³
 AXEL
 AXIO
 AXIS
@@ -225,13 +225,13 @@ Ab Imo Pectore
 Aba
 Abacus
 Abakusz
-Abaúj
-Abaújtej Közös
+AbaÃºj
+AbaÃºjtej KÃ¶zÃ¶s
 Abax
-Abbázia
-Abbázia Apartman
+AbbÃ¡zia
+AbbÃ¡zia Apartman
 Abies
-Abigél
+AbigÃ©l
 Abit
 Ablak
 Ablak-Bau
@@ -248,10 +248,10 @@ Acco
 Accord
 Account
 Accunting
-Acél
-Acéling
-Acélker
-Acélpajzs
+AcÃ©l
+AcÃ©ling
+AcÃ©lker
+AcÃ©lpajzs
 Acer
 Acme
 Acotec
@@ -264,10 +264,10 @@ Actor
 Actros
 Ad Astra
 Ad Rem
-Ad-Mü
+Ad-MÃ¼
 Ad-Vesz
 Ada
-Adagár
+AdagÃ¡r
 Adam
 Adamas
 Adamit
@@ -275,44 +275,44 @@ Adatker
 Adda
 Addenda
 Addetur
-Adekó
+AdekÃ³
 Adeptus
 Adhesive
 Adi
 Adidas
 Adix-Trade
 Adler
-Admirál
-Admirális
+AdmirÃ¡l
+AdmirÃ¡lis
 Admiral
-Adó
-Adó- és Ellenõrzési (APEH)
-Adó-Szerviz
-Adó-Terv
-Adó-Trade
-Adócenter
-Adófelügyelõség
-Adógaras
-Adópraktika
+AdÃ³
+AdÃ³- Ã©s EllenÅ‘rzÃ©si (APEH)
+AdÃ³-Szerviz
+AdÃ³-Terv
+AdÃ³-Trade
+AdÃ³center
+AdÃ³felÃ¼gyelÅ‘sÃ©g
+AdÃ³garas
+AdÃ³praktika
 Adoma
 Adomik
 Adomix
 Adonis
-Adorján
+AdorjÃ¡n
 Adrenalin
 Adria
-Adria Fürdõszoba
+Adria FÃ¼rdÅ‘szoba
 Adria Kon Tiki
 Adrianus
 Adu
 Advance
 Advent
-Adventista Egyház
+Adventista EgyhÃ¡z
 Advert
 Advocatus
 Adware
 Ady
-Ady Endre Mûvelõdési
+Ady Endre MÅ±velÅ‘dÃ©si
 Aero
 Aeroviva
 Aesculap
@@ -326,15 +326,15 @@ Ages
 Agilis
 Agis
 Agliero
-Agócs
+AgÃ³cs
 Agora
-Agrár
-Agrár Információs
-Agrárgazdaság
-Agráripari
-Agrárkamara
-Agrármarketing
-Agrárszövetkezet
+AgrÃ¡r
+AgrÃ¡r InformÃ¡ciÃ³s
+AgrÃ¡rgazdasÃ¡g
+AgrÃ¡ripari
+AgrÃ¡rkamara
+AgrÃ¡rmarketing
+AgrÃ¡rszÃ¶vetkezet
 Agragent
 Agri-Pharma
 Agria
@@ -346,7 +346,7 @@ Agro
 Agro Industria
 Agro-Alba
 Agro-Alfa
-Agro-Centrál
+Agro-CentrÃ¡l
 Agro-Hobby
 Agro-Pack
 Agro-Sat
@@ -354,15 +354,15 @@ Agro-Star
 Agrober
 Agrobix
 Agrobonus
-Agrobróker
+AgrobrÃ³ker
 Agrocom
 Agrofood
 Agroforg
-Agrogál
-Agrogép
+AgrogÃ¡l
+AgrogÃ©p
 Agroinform
-Agrokémia
-Agrokémiai
+AgrokÃ©mia
+AgrokÃ©miai
 Agroker
 Agrokomplex
 Agroland
@@ -370,7 +370,7 @@ Agromark
 Agromarkt
 Agromechanika
 Agromed
-Agrometál
+AgrometÃ¡l
 Agromix
 Agrona
 Agropoint
@@ -392,51 +392,51 @@ Air
 Air Contact
 Airflyt
 Airport
-Airvent Légtechnikai
-Ajándék
-Ajándékbolt
+Airvent LÃ©gtechnikai
+AjÃ¡ndÃ©k
+AjÃ¡ndÃ©kbolt
 Ajax
 Ajkai
-Ajtó-Ablak
+AjtÃ³-Ablak
 Aka
-Akác
-Akácos
-Akadémia
-Akadémiai
+AkÃ¡c
+AkÃ¡cos
+AkadÃ©mia
+AkadÃ©miai
 Akadimpex
 Akantusz
 Akaprint
-Akció
-Akciós
+AkciÃ³
+AkciÃ³s
 Akela
 Akire
 Akkad
 Akksi
 Akku
-Akkumulátor
+AkkumulÃ¡tor
 Akling
-Akó
+AkÃ³
 Akribia
 Akro
 Akropolisz
 Akta
-Aktív
-Aktuál
-Aktuális
-Aktuárius
+AktÃ­v
+AktuÃ¡l
+AktuÃ¡lis
+AktuÃ¡rius
 Aktuell
 Akusztika
-Akvirál
+AkvirÃ¡l
 Akvizitor
 Ala
-Alabárdos
-Alabástrom
+AlabÃ¡rdos
+AlabÃ¡strom
 Alabass
 Aladdin
 Aladin
 Alap
-Alapfokú
-Alapkõ
+AlapfokÃº
+AlapkÅ‘
 Alarm
 Alaszka
 Alba
@@ -464,8 +464,8 @@ Alfa-Trade
 Alfa-Vox
 Alfadat
 Alfaprint
-Alföld
-Alföldi
+AlfÃ¶ld
+AlfÃ¶ldi
 Alga
 Algor
 Alia
@@ -476,52 +476,52 @@ Alisca
 Aliter
 Alius
 Aliz
-Alkatrész
+AlkatrÃ©sz
 Alker
 Alko
-Alkotás
-Alkotás Építõ-Szakipari
+AlkotÃ¡s
+AlkotÃ¡s Ã‰pÃ­tÅ‘-Szakipari
 Alkotex
-Alkotó
-Alkotóház
+AlkotÃ³
+AlkotÃ³hÃ¡z
 Alku
 All-Risks
 Alla
 Allegro
-Allen és Overy
+Allen Ã©s Overy
 Allergia
 Alliance Francaise
-Allianz Hungária Biztosító
-Alligátor
+Allianz HungÃ¡ria BiztosÃ­tÃ³
+AlligÃ¡tor
 Allium
 Allround
 Alltech
 Alma
-Almárium
-Almási
-Almáskert
+AlmÃ¡rium
+AlmÃ¡si
+AlmÃ¡skert
 Almajam
-Almavirág
+AlmavirÃ¡g
 Alois+Sissy Petra Szuchar
 Alox
 Alpes
 Alpesi
 AlphaNexus
 Alpimor
-Alpine Európai
+Alpine EurÃ³pai
 Alpiszig
 Alpok
 Alpok-Adria
 Alpokalja
-Alsó-Duna-Völgyi Vízügyi
-Alsófokú
-Alsótekeresi Faiskola
-Alsóvárosi
+AlsÃ³-Duna-VÃ¶lgyi VÃ­zÃ¼gyi
+AlsÃ³fokÃº
+AlsÃ³tekeresi Faiskola
+AlsÃ³vÃ¡rosi
 Alsys
 Alt
 Altair
 Altak
-Alternatív
+AlternatÃ­v
 Alternativ
 Altero
 Alterra
@@ -544,12 +544,12 @@ Amazon
 Amazon Fitness
 Amazonas
 Ambeer
-Ambíció
+AmbÃ­ciÃ³
 Ambitus
-Ambrózia
+AmbrÃ³zia
 Ambrus
 Amco
-Améta
+AmÃ©ta
 Ameco
 Amega
 Amelita
@@ -561,7 +561,7 @@ Amice
 Amicus
 Amiex
 Amigo
-Amigó
+AmigÃ³
 Ammer
 Amon
 Amoon
@@ -571,7 +571,7 @@ Amtek
 Amulett
 An-Ker
 Anakonda
-Analízis
+AnalÃ­zis
 Analizis
 Anas
 Anbona
@@ -581,28 +581,28 @@ Andez
 Andezit
 Andi
 Andics
-Andóra
+AndÃ³ra
 Andok
-Andrási
-Andrássy
-André
+AndrÃ¡si
+AndrÃ¡ssy
+AndrÃ©
 Andrea
 Andreas
 Andreas Stihl
 Andrella
-Androméda
-Andruskó
+AndromÃ©da
+AndruskÃ³
 Anemo
 Anest
 Anett
 Anex
-Angéla
+AngÃ©la
 Angeli
 Angelicus
 Angie
 Angyal
-Angyalföldi
-Anikó
+AngyalfÃ¶ldi
+AnikÃ³
 Anil
 Anima
 Animal
@@ -612,7 +612,7 @@ Anita
 Anixter
 Anker
 Anna
-Anna Virág
+Anna VirÃ¡g
 Annata
 Annex
 Anni
@@ -627,21 +627,21 @@ Antalffy
 Antares
 Antarktisz
 Antenna
-Antenna Pihenõ
+Antenna PihenÅ‘
 Anteus
 Antik
 Antikea
-Antikvár
-Antikvárium
+AntikvÃ¡r
+AntikvÃ¡rium
 Antilla
-Antók
-Antológia
+AntÃ³k
+AntolÃ³gia
 Anubis
-Anya és Gyermekvédelmi
-Anya- és Gyermekvédelmi
+Anya Ã©s GyermekvÃ©delmi
+Anya- Ã©s GyermekvÃ©delmi
 Anzo
 Anzsu
-Apáti
+ApÃ¡ti
 Apacs
 Apartman
 Aperto
@@ -650,15 +650,15 @@ Apex
 Apex MM
 Aphrodite
 Apollo
-Apolló
-Apollónia
+ApollÃ³
+ApollÃ³nia
 Apollon
 Apor Vilmos
 Apostol
 Appaloosa
 Apple
-Apród
-Apropó
+AprÃ³d
+ApropÃ³
 Apszis
 Aqua
 Aquacom
@@ -674,80 +674,80 @@ Aradi
 Aragonit
 Aramis
 Arany
-Arany Ászok
-Arany Elefánt
-Arany Holló
-Arany János
+Arany Ãszok
+Arany ElefÃ¡nt
+Arany HollÃ³
+Arany JÃ¡nos
 Arany Korona
-Arany Nílus
-Arany Õsz
-Arany Oroszlán
+Arany NÃ­lus
+Arany Åsz
+Arany OroszlÃ¡n
 Arany Sas
 Arany Strucc
 Arany Szarvas
 Aranyalma
-Aranybárány
+AranybÃ¡rÃ¡ny
 Aranybika
 Aranyecset
-Aranyesõ
-Aranyfácán
-Aranyfüggõ
-Aranyfüst
+AranyesÅ‘
+AranyfÃ¡cÃ¡n
+AranyfÃ¼ggÅ‘
+AranyfÃ¼st
 Aranygaluska
-Aranyhajó
+AranyhajÃ³
 Aranyhal
 Aranyhegyi
-Aranyhíd
-Aranyhíd-Coop
-Aranyhordó
+AranyhÃ­d
+AranyhÃ­d-Coop
+AranyhordÃ³
 Aranykakas
-Aranykalász
-Aranykéz
+AranykalÃ¡sz
+AranykÃ©z
 Aranykehely
 Aranykereszt
-Aranykígyó
+AranykÃ­gyÃ³
 Aranykor
-Aranykor Idõskorúak
+Aranykor IdÅ‘skorÃºak
 Aranykorona
 Aranykulcs
-Aranymérleg
-Aranymezõ
-Aranymosó
+AranymÃ©rleg
+AranymezÅ‘
+AranymosÃ³
 Aranypart
 Aranypatak
-Aranypatkó
-Aranysárkány
+AranypatkÃ³
+AranysÃ¡rkÃ¡ny
 Aranysas
 Aranyszarka
 Aranyszarvas
-Aranytallér
-Aranytölcsér
+AranytallÃ©r
+AranytÃ¶lcsÃ©r
 Aranytoll
-Aranytû
-Ararát
-Arató
-Arató Szakambulancia
+AranytÅ±
+ArarÃ¡t
+AratÃ³
+AratÃ³ Szakambulancia
 Arbor
 Arbor Vitae
-Arboréter
-Arborétum
+ArborÃ©ter
+ArborÃ©tum
 Arburg
 Arc
 Arc-Tex
 Arcadom
 Archi-Med
 Archimedes
-Archión
+ArchiÃ³n
 Architekt
 Arco
 Arcon
 Arculat
-Arculatmûhely
+ArculatmÅ±hely
 Arcus
-Aréna
+ArÃ©na
 Areco
 Arena
-Areté
+AretÃ©
 Argento
 Argentum
 Argo
@@ -758,10 +758,10 @@ Ariel
 Aries
 Arinex
 Ariston
-Arizóna
+ArizÃ³na
 Arizona
-Arkánum
-Arkánum Szellemi
+ArkÃ¡num
+ArkÃ¡num Szellemi
 Arktisz
 Arma
 Armaco
@@ -773,16 +773,16 @@ Armon
 Arnold
 Aroma
 Arrabona
-Arrivál
+ArrivÃ¡l
 Arsenal
 Art
-Art Café
+Art CafÃ©
 Art's Harmony
 Art-Com
 Art-Ker
 Art-Tech
 Arte Legis
-Artézis
+ArtÃ©zis
 Artel
 Artemis
 Artep
@@ -795,9 +795,9 @@ Artisthus
 Artner
 Arton
 Artrad
-Artúr
+ArtÃºr
 Artur
-Arzenál
+ArzenÃ¡l
 As
 Asco
 Asco-Tech
@@ -816,7 +816,7 @@ Astra
 AstraZeneca
 Astro
 Astrum
-Aszódi
+AszÃ³di
 Aszpik
 Asztalitenisz
 Asztalos
@@ -827,21 +827,21 @@ Atelier Eiring
 Atex
 Ati
 Atilia-V
-Atillás
+AtillÃ¡s
 Atka
 Atlant
 Atlanta
-Atlanti-Szerszám
+Atlanti-SzerszÃ¡m
 Atlantic
 Atlantic Star
 Atlantis
 Atlantisz
 Atlas
 Atlasz
-Atlétikai
+AtlÃ©tikai
 Atom
 Atra
-Atrám
+AtrÃ¡m
 Atro
 Atrox
 Atta
@@ -857,52 +857,52 @@ Audiofon
 Audit
 Auditax
 Auditor
-Auer és Auer
+Auer Ã©s Auer
 Auguszt
 Aula
 Aura
-Auróra
+AurÃ³ra
 Aurum
 Autark
 Autent
 Autex
 Auth
-Autista Segítõ
+Autista SegÃ­tÅ‘
 Auto
 Auto-Mega
-Autó
-Autó-Agria
-Autó-Center
-Autó-Fitt
-Autó-Szinkron
-Autó-Top
-Autóalkatrész
-Autóalkatrészbolt
-Autóbontó
-Autócenter
-Autófesték
-Autógáz
-Autógenerál
-Autójavító
-Autóker
-Autóklub
-Autóközlekedési Tanintézet
-Autókomplex
-Autólámpa
-Autómentés
-Autómentõ
-Autómosó
-Autós
-Autósbolt
-Autósiskola
-Autószervíz
-Autószerviz
-Autótechnika
-Autóth
-Autóüveg
-Autóvillamossági
+AutÃ³
+AutÃ³-Agria
+AutÃ³-Center
+AutÃ³-Fitt
+AutÃ³-Szinkron
+AutÃ³-Top
+AutÃ³alkatrÃ©sz
+AutÃ³alkatrÃ©szbolt
+AutÃ³bontÃ³
+AutÃ³center
+AutÃ³festÃ©k
+AutÃ³gÃ¡z
+AutÃ³generÃ¡l
+AutÃ³javÃ­tÃ³
+AutÃ³ker
+AutÃ³klub
+AutÃ³kÃ¶zlekedÃ©si TanintÃ©zet
+AutÃ³komplex
+AutÃ³lÃ¡mpa
+AutÃ³mentÃ©s
+AutÃ³mentÅ‘
+AutÃ³mosÃ³
+AutÃ³s
+AutÃ³sbolt
+AutÃ³siskola
+AutÃ³szervÃ­z
+AutÃ³szerviz
+AutÃ³technika
+AutÃ³th
+AutÃ³Ã¼veg
+AutÃ³villamossÃ¡gi
 Autoelektro
-Autogén
+AutogÃ©n
 Autokontroll
 Autoland
 Autoliv
@@ -924,8 +924,8 @@ Avicenna
 Avital
 Avus
 Axel
-Axent és Nyelvi
-Axiál
+Axent Ã©s Nyelvi
+AxiÃ¡l
 Axial
 Axicont
 Axioma
@@ -933,8 +933,8 @@ Axion
 Axis
 Axon
 Azimex
-Azúr
-Azurró
+AzÃºr
+AzurrÃ³
 B
 B & B
 B & E
@@ -954,12 +954,12 @@ B + V
 B and B
 B and K
 B and M
-B és B
-B és D
-B és G
-B és K
-B és P
-B és S
+B Ã©s B
+B Ã©s D
+B Ã©s G
+B Ã©s K
+B Ã©s P
+B Ã©s S
 B+B
 B+E
 B-Coop
@@ -969,7 +969,7 @@ B-S
 B-Tech
 B-Toni
 B-Trade
-B-Trió
+B-TriÃ³
 B.
 B. B.
 B. B. K.
@@ -997,7 +997,7 @@ BCI
 BCS
 BDI
 BE-CO
-BÉVISZ
+BÃ‰VISZ
 BEKO
 BERIV Ruhaipari
 BERTA
@@ -1008,21 +1008,21 @@ BHD
 BHV
 BIL
 BIT
-BITT Vízgazdálkodási
+BITT VÃ­zgazdÃ¡lkodÃ¡si
 BK Kadex
 BL
 BLB
-BLONDER Sörfõzde
+BLONDER SÃ¶rfÅ‘zde
 BLX
 BM
-BM Katasztrófavédelmi
+BM KatasztrÃ³favÃ©delmi
 BMA
 BMB
 BMC
 BMP
 BMT
 BNB Bibliothek
-BOROSTYÁN
+BOROSTYÃN
 BP
 BS
 BSB
@@ -1034,62 +1034,62 @@ BTK
 BTP
 BUILD
 Ba-Lu
-Bába
-Bábakalács
-Bábel
-Bábolna
-Bábolna Szendrõi Gazdaság
-Bács-Minerál
-Bácska
-Báder
-Bádogos
-Bákatex
-Bákonyi
-Bálint
-Bálint és Sárai
-Bálintfy
-Bálintker
-Bálintné
-Bálvány
-Bálványos
-Bán
-Bánfi
-Bánhidi
-Bánki
-Bányász
-Bányászati
-Bányai
-Bányai Panoráma
-Bányató
-Bárándi
-Bárány
-Bárdi
-Bárdos
-Bárka
-Báró
-Bársony
-Bársonykalapács
-Bártfa
-Bártfai
-Bástya
-Bát-Keram
-Báthori
-Báthory
-Báti
-Bátor
-Bátori
-Bázis
+BÃ¡ba
+BÃ¡bakalÃ¡cs
+BÃ¡bel
+BÃ¡bolna
+BÃ¡bolna SzendrÅ‘i GazdasÃ¡g
+BÃ¡cs-MinerÃ¡l
+BÃ¡cska
+BÃ¡der
+BÃ¡dogos
+BÃ¡katex
+BÃ¡konyi
+BÃ¡lint
+BÃ¡lint Ã©s SÃ¡rai
+BÃ¡lintfy
+BÃ¡lintker
+BÃ¡lintnÃ©
+BÃ¡lvÃ¡ny
+BÃ¡lvÃ¡nyos
+BÃ¡n
+BÃ¡nfi
+BÃ¡nhidi
+BÃ¡nki
+BÃ¡nyÃ¡sz
+BÃ¡nyÃ¡szati
+BÃ¡nyai
+BÃ¡nyai PanorÃ¡ma
+BÃ¡nyatÃ³
+BÃ¡rÃ¡ndi
+BÃ¡rÃ¡ny
+BÃ¡rdi
+BÃ¡rdos
+BÃ¡rka
+BÃ¡rÃ³
+BÃ¡rsony
+BÃ¡rsonykalapÃ¡cs
+BÃ¡rtfa
+BÃ¡rtfai
+BÃ¡stya
+BÃ¡t-Keram
+BÃ¡thori
+BÃ¡thory
+BÃ¡ti
+BÃ¡tor
+BÃ¡tori
+BÃ¡zis
 Baba
-Babaház
+BabahÃ¡z
 Babai
 Babatex
 Babati
 Babi
 Babics
 Babilon
-Babirád
+BabirÃ¡d
 Babits
-Babó
+BabÃ³
 Babos
 Babud
 Babus
@@ -1097,37 +1097,37 @@ Baby
 Baby Bell
 Babylon
 Bacchus
-Bach és Bach
+Bach Ã©s Bach
 Bacher
-Backó
-Bacsó
+BackÃ³
+BacsÃ³
 Badacsony
 Badacsonyi
-Bagaméri
+BagamÃ©ri
 Bagatell
 Bagger
 Bagi
 Bagira
-Bagó
-Bagócs
+BagÃ³
+BagÃ³cs
 Bagoly
-Bagolyné
-Bagolyvár
+BagolynÃ©
+BagolyvÃ¡r
 Bahama
 Bahia
 Bai
 Baja
 Bajai
 Bajkai
-Bajkó
+BajkÃ³
 Bajnok
-Bajnok Hármas
+Bajnok HÃ¡rmas
 Bajor
 Bajor Sarok
 Bakator
-Bakó
+BakÃ³
 Bakony
-Bakony Füszért
+Bakony FÃ¼szÃ©rt
 Bakony Gaszt
 Bakony Kert
 Bakony-Coop
@@ -1135,87 +1135,87 @@ Bakonyi
 Bakos
 Baksa
 Baksai
-Bakterház
-Balázs
-Balázs és Balázs
+BakterhÃ¡z
+BalÃ¡zs
+BalÃ¡zs Ã©s BalÃ¡zs
 Balance
 Balansz
 Balassa
 Balassagyarmati
 Balaton
-Balaton Felvidéki Nemzeti
-Balaton Volán
+Balaton FelvidÃ©ki Nemzeti
+Balaton VolÃ¡n
 Balaton West
 Balatoni
-Balatoni Hajózási
+Balatoni HajÃ³zÃ¡si
 Balatontourist
 Balett
 Balex
 Bali
-Balikó
+BalikÃ³
 Balla
-Balla és Balla
+Balla Ã©s Balla
 Ballai
 Balluff
-Ballusztrád
+BallusztrÃ¡d
 Balmaz-Comp
 Balog
 Balogh
-Balogh és Balogh
-Balogh és Németh
-Baltavári
+Balogh Ã©s Balogh
+Balogh Ã©s NÃ©meth
+BaltavÃ¡ri
 Baltic
 Balu
-Balusztrád
+BalusztrÃ¡d
 Balzsam
 Bama
 Bambi
-Banádi
-Banán
+BanÃ¡di
+BanÃ¡n
 Bank
 Bankinfo
-Bankó
+BankÃ³
 Bankok
 Banya
 Banya-Tanya
-Baptista Gyülekezet
+Baptista GyÃ¼lekezet
 Bar-Bau
 Bara
-Barát
-Baráth
-Baráti Kör
-Barátság
-Barabás
+BarÃ¡t
+BarÃ¡th
+BarÃ¡ti KÃ¶r
+BarÃ¡tsÃ¡g
+BarabÃ¡s
 Baraka
-Barangoló
-Baranya-Tégla
-Baranyák Bútorgyártó
+BarangolÃ³
+Baranya-TÃ©gla
+BaranyÃ¡k BÃºtorgyÃ¡rtÃ³
 Baranyai
 Baranyi
-Barbakán
+BarbakÃ¡n
 Barbara
 Barbi
 Barbo
 Barcsik
 Barcza
 Barczi
-Bardács
+BardÃ¡cs
 Bargesz
 Bari
 Bariton
 Barka
-Barkács
-Barkácsbolt
+BarkÃ¡cs
+BarkÃ¡csbolt
 Barker
-Barkóczi
+BarkÃ³czi
 Barlang
 Barna
 Barna &
-Barnácz
-Baróka
+BarnÃ¡cz
+BarÃ³ka
 Baromfi
-Baromfifeldolgozó
-Baromfikeltetõ
+BaromfifeldolgozÃ³
+BaromfikeltetÅ‘
 Baromfiudvar
 Baroni
 Baross
@@ -1228,14 +1228,14 @@ Bartel
 Barter
 Bartex
 Bartha
-Bartók
-Bartók Béla
-Bartók Béla Mûvelõdési
+BartÃ³k
+BartÃ³k BÃ©la
+BartÃ³k BÃ©la MÅ±velÅ‘dÃ©si
 Bartos
 Bartus
 Basic
 Bata
-Bathó
+BathÃ³
 Batta
 Bau
 Bau Welt
@@ -1270,26 +1270,26 @@ Bautak
 Bavaria
 Bayer
 Bazalt
-Bazsó
-Bébi
-Bécs
-Bécsi
-Bédi
-Béke
-Békési
-Békefi
-Béla
-Bélafa
-Bélik
-Bélkõ
-Bélyegzõ
-Bérc
-Bérces
-Béres
-Béres Egészségtár
-Béta
-Béta-Q
-Bévi
+BazsÃ³
+BÃ©bi
+BÃ©cs
+BÃ©csi
+BÃ©di
+BÃ©ke
+BÃ©kÃ©si
+BÃ©kefi
+BÃ©la
+BÃ©lafa
+BÃ©lik
+BÃ©lkÅ‘
+BÃ©lyegzÅ‘
+BÃ©rc
+BÃ©rces
+BÃ©res
+BÃ©res EgÃ©szsÃ©gtÃ¡r
+BÃ©ta
+BÃ©ta-Q
+BÃ©vi
 Bea
 Beach
 Bearings
@@ -1302,7 +1302,7 @@ Beck
 Becker
 Becketts
 Beckham
-Bedõ
+BedÅ‘
 Befag
 Beke
 Bekk
@@ -1315,28 +1315,28 @@ Belga
 Belka
 Bell
 Bella
-Bella Itália
+Bella ItÃ¡lia
 Bella Italia
-Bellária
+BellÃ¡ria
 Bellart
 Bellis
 Belloni
 Bellovits
-Belsõ
-Belsõnyírszög
-Belsõtér
+BelsÅ‘
+BelsÅ‘nyÃ­rszÃ¶g
+BelsÅ‘tÃ©r
 Belt
 Beluga
-Belváros
-Belvárosi
-Belvárosi Irodaház
+BelvÃ¡ros
+BelvÃ¡rosi
+BelvÃ¡rosi IrodahÃ¡z
 Bence
-Bencés
+BencÃ©s
 Bencsik
 Bencze
-Benczúr
+BenczÃºr
 Bend
-Bendegúz
+BendegÃºz
 Bendi
 Bendix
 Bene
@@ -1349,19 +1349,19 @@ Benet
 Benetton
 Benex
 Benke
-Benkó
-Benkõ
+BenkÃ³
+BenkÅ‘
 Bensa
 Benta
 Bentax
 Bento
 Benyovszki
-Benzinkút
+BenzinkÃºt
 Benzol
 Bepa 7
-Bercsényi
-Berdó
-Berényi
+BercsÃ©nyi
+BerdÃ³
+BerÃ©nyi
 Berecz
 Bereczki
 Bereg
@@ -1380,18 +1380,18 @@ Berki
 Berlin
 Berliner
 Bermuda
-Bernát
-Bernáth
+BernÃ¡t
+BernÃ¡th
 Bernecker
 Berner
 Berta
 Bertalan
 Berti
 Berto
-Beruházási
+BeruhÃ¡zÃ¡si
 Beryl
 Bes-Net
-Besenyszögi
+BesenyszÃ¶gi
 Best
 Best Comp
 Best Plaza
@@ -1399,41 +1399,41 @@ Best Point
 Bester Bauer
 Beston
 Beszt
-Beszterczey Alapfokú Magániskola
+Beszterczey AlapfokÃº MagÃ¡niskola
 Bet
 Beta
-Betánia
+BetÃ¡nia
 Betafes
 Betekints
 Betex '9000
 Bethesda
 Bethlen
 Beton
-Beton-Ép
+Beton-Ã‰p
 Betonelem
 Betonservice
-Betonút
+BetonÃºt
 Betti
 Bettina
 Betty
-Betûvetõ
-Bevándorlási és Állampolgársági
+BetÅ±vetÅ‘
+BevÃ¡ndorlÃ¡si Ã©s ÃllampolgÃ¡rsÃ¡gi
 Bewa
 Bezo
 Bezzeg
-Bíbor
-Bíró
-Bíró és Bíró
-Bíróság
+BÃ­bor
+BÃ­rÃ³
+BÃ­rÃ³ Ã©s BÃ­rÃ³
+BÃ­rÃ³sÃ¡g
 Bianca
 Bianco
 Bianka
 Biblia
 Bibliofil
-Bibó
+BibÃ³
 Bibor
 Bicaj
-Biczó
+BiczÃ³
 Bier
 Big
 Big Ben
@@ -1446,16 +1446,16 @@ Bil
 Bila
 Bilance
 Bilanz
-Bild és Fekete
-Biliárd
+Bild Ã©s Fekete
+BiliÃ¡rd
 Biliczki
 Billboard
 Bilux
-Bimbó
+BimbÃ³
 Bin
 Biner
 Binexim
-Bingó
+BingÃ³
 Binom
 Bio
 Bio-Bau
@@ -1471,28 +1471,28 @@ Bionika
 Biota
 Biotop
 Biovet
-Biovitál
+BiovitÃ¡l
 Bipress
 Bird
-Birkás
-Birner Autóalkatrész
-Biró
+BirkÃ¡s
+Birner AutÃ³alkatrÃ©sz
+BirÃ³
 Bischof
 Bit
 Bitex
 Bittner
-Bizánc
+BizÃ¡nc
 Bizalom
 Bizarr
 Biznisz
-Bizományi
+BizomÃ¡nyi
 Bizonylat
 Bizti
-Biztonság
-Biztonság Értékpapír
-Biztonságtechnikai
+BiztonsÃ¡g
+BiztonsÃ¡g Ã‰rtÃ©kpapÃ­r
+BiztonsÃ¡gtechnikai
 Biztos
-Blázi
+BlÃ¡zi
 Black
 Black & White
 Black Panther
@@ -1501,8 +1501,8 @@ Black Rose
 Blanche
 Blanka
 Blasius
-Blaskó
-Blaskovics Kerékpár
+BlaskÃ³
+Blaskovics KerÃ©kpÃ¡r
 Blau
 Blende
 Bliss
@@ -1516,28 +1516,28 @@ Blue Light
 Blue Sky
 Blue and White
 Blum
-Bóbita
-Bódi
-Bódis
-Bódis Testvérek
-Bónus
-Bónusz
-Bóra
-Bóta
-Bödi Cukrászati
-Böhm
-Bölcs Bagoly
-Bölcsõde
-Bölcsõdék
-Böröcz
-Börzsöny
-Bõr- és Nemibeteg-Gondozó
-Bõrdíszmû
-Bõripari
-Bõrrelief
-Bõrtex
-Bõség
-Bõsz
+BÃ³bita
+BÃ³di
+BÃ³dis
+BÃ³dis TestvÃ©rek
+BÃ³nus
+BÃ³nusz
+BÃ³ra
+BÃ³ta
+BÃ¶di CukrÃ¡szati
+BÃ¶hm
+BÃ¶lcs Bagoly
+BÃ¶lcsÅ‘de
+BÃ¶lcsÅ‘dÃ©k
+BÃ¶rÃ¶cz
+BÃ¶rzsÃ¶ny
+BÅ‘r- Ã©s Nemibeteg-GondozÃ³
+BÅ‘rdÃ­szmÅ±
+BÅ‘ripari
+BÅ‘rrelief
+BÅ‘rtex
+BÅ‘sÃ©g
+BÅ‘sz
 Boa
 Bobo
 Boby
@@ -1548,47 +1548,47 @@ Bocskay
 Bocz
 Boda
 Bodex
-Bodnár
-Bodó
+BodnÃ¡r
+BodÃ³
 Bodor
 Bodovics
 Bodrog
 Bodrogi
-Bodrogköz
+BodrogkÃ¶z
 Body
 Body Fitness
 Bog
-Bogáncs
-Bogár
-Bogáti
+BogÃ¡ncs
+BogÃ¡r
+BogÃ¡ti
 Bogarasi
-Bogdán
-Bogdán és Bogdán
-Bogép
+BogdÃ¡n
+BogdÃ¡n Ã©s BogdÃ¡n
+BogÃ©p
 Bogi
-Boglárka
-Bognár
+BoglÃ¡rka
+BognÃ¡r
 Bogner
 Bogos
-Bogrács
-Bohák
-Bohémélet
+BogrÃ¡cs
+BohÃ¡k
+BohÃ©mÃ©let
 Bohus
-Bojtár
-Bojtorján
+BojtÃ¡r
+BojtorjÃ¡n
 Boker
 Bokor
 Bola
-Boldizsár
+BoldizsÃ¡r
 Boldog
 Boldogasszony
 Bolero
 Bolex
-Bolgár
+BolgÃ¡r
 Bolla
 Bolsoft
 Bolt
-Boltív
+BoltÃ­v
 Bolyai
 Bolza
 Boma
@@ -1597,45 +1597,45 @@ Bon
 Bon-Bon
 Bona
 Bona Fide
-Bonbonettó
-Boncsér
+BonbonettÃ³
+BoncsÃ©r
 Bonex
-Bonifác
-Bonitás
+BonifÃ¡c
+BonitÃ¡s
 Bonitas
 Bonsai
 Bonus
 Bonus Teher
 Bony
-Bonyhád
+BonyhÃ¡d
 Bookland
 Bor
-Bor-Bár
-Borászati
-Borbála
-Borbás
-Borbély
+Bor-BÃ¡r
+BorÃ¡szati
+BorbÃ¡la
+BorbÃ¡s
+BorbÃ©ly
 Borbolya
-Bordány-Fruct
+BordÃ¡ny-Fruct
 Bordav
-Borház
-Borharapó
+BorhÃ¡z
+BorharapÃ³
 Bori
 Borics
 Boris
 Borka
-Borkombinát
+BorkombinÃ¡t
 Bornus
-Boróka
+BorÃ³ka
 Borona
 Borongics
 Boros
-Boros Istvánné
-Boros és Boros
-Borostyán
-Borostyánkõ
-Boroszlán
-Borozó
+Boros IstvÃ¡nnÃ©
+Boros Ã©s Boros
+BorostyÃ¡n
+BorostyÃ¡nkÅ‘
+BoroszlÃ¡n
+BorozÃ³
 Borpatika
 Bors
 Borsi
@@ -1643,29 +1643,29 @@ Borsod
 Borsodchem
 Borsodelektro
 Borsodi
-Borsodi Sörgyár
-Borvirág
+Borsodi SÃ¶rgyÃ¡r
+BorvirÃ¡g
 Borza
-Bosák
+BosÃ¡k
 Bosch
 Bosla
-Bosnyák
+BosnyÃ¡k
 Boss
 Boston
-Boszorkánykonyha
+BoszorkÃ¡nykonyha
 Boszporusz
 Boti
 Botka
 Botond
 Botos
-Bottyán
+BottyÃ¡n
 Bovill
 Bowden
 Bowling
 Box
 Boxi
 Boy
-Bozsér
+BozsÃ©r
 Bozsi
 Bozsik
 Brachmann
@@ -1682,8 +1682,8 @@ Brenner
 Brenntag
 Breuer
 Brevis
-Breznyán
-Bricostore Hungária Barkácsáruház
+BreznyÃ¡n
+Bricostore HungÃ¡ria BarkÃ¡csÃ¡ruhÃ¡z
 Brill
 Brillant
 Bringa
@@ -1703,26 +1703,26 @@ Broyler
 Bruder
 Brunner
 Brunswick
-Búfelejtõ
-Bútor
-Bútorász
-Bútorbolt
-Bútordiszkont
-Bútoripari
-Bútorszalon
-Búvár
-Búzás
-Búzavirág
-Büfé
-Büki
-Bükk
-Bükkalja
-Bükki Nemzeti
-Bükköspatak
-Büntetés-végrehajtási
-Büntetés-végrehajtó
-Bürger
-Büro
+BÃºfelejtÅ‘
+BÃºtor
+BÃºtorÃ¡sz
+BÃºtorbolt
+BÃºtordiszkont
+BÃºtoripari
+BÃºtorszalon
+BÃºvÃ¡r
+BÃºzÃ¡s
+BÃºzavirÃ¡g
+BÃ¼fÃ©
+BÃ¼ki
+BÃ¼kk
+BÃ¼kkalja
+BÃ¼kki Nemzeti
+BÃ¼kkÃ¶spatak
+BÃ¼ntetÃ©s-vÃ©grehajtÃ¡si
+BÃ¼ntetÃ©s-vÃ©grehajtÃ³
+BÃ¼rger
+BÃ¼ro
 Buba
 Bucher
 Buci
@@ -1731,51 +1731,51 @@ Buda
 Buda Sign
 Budaber
 Budafer
-Budafesték
-Budafok-Tétény Mûvelõdési
-Budagant Kesztyûs
-Budagyöngye
+BudafestÃ©k
+Budafok-TÃ©tÃ©ny MÅ±velÅ‘dÃ©si
+Budagant KesztyÅ±s
+BudagyÃ¶ngye
 Budai
-Budai Tégla
+Budai TÃ©gla
 Budai Villany
-Budakontúr
+BudakontÃºr
 Budalakk Konzorcium
-Budaörsi
-Budaörsi Háttéripari
-Budaörsi Repülõtér
+BudaÃ¶rsi
+BudaÃ¶rsi HÃ¡ttÃ©ripari
+BudaÃ¶rsi RepÃ¼lÅ‘tÃ©r
 Budapest
 Budapesti
-Budapesti Fesztiválzenekar
-Budapesti Fõiskola
+Budapesti FesztivÃ¡lzenekar
+Budapesti FÅ‘iskola
 Budapesti Iparkamara
-Budapesti Közlekedési
+Budapesti KÃ¶zlekedÃ©si
 Budapesti Piac
 Budaszer
-Budatáj
+BudatÃ¡j
 Budatrade
 Budatrans
-Budavári
+BudavÃ¡ri
 Budaventura
 Budavill
-Budavölgy
+BudavÃ¶lgy
 Budazug Ingatlaniroda
 Budenz
 Budmil
 Budosport
 Budvill
 Bugac
-Buják
-Bujdosó
+BujÃ¡k
+BujdosÃ³
 Bujtos
 Buju
-Bukéta
-Buldózer
+BukÃ©ta
+BuldÃ³zer
 Bull
 Bulldog
 Bureau
 Burg
 Burger
-Burián
+BuriÃ¡n
 Burker
 Burkoland
 Burkolat
@@ -1788,13 +1788,13 @@ Busz
 BuszSped
 Butex
 Buxus
-Buzgó
+BuzgÃ³
 Buzna
 Bypol
 C & C
-C és C
-C és F
-C és T
+C Ã©s C
+C Ã©s F
+C Ã©s T
 C+C
 C+H
 C+K
@@ -1807,15 +1807,15 @@ C7
 CAE
 CBA
 CBA Budafok-City
-CBA Élelmiszer
+CBA Ã‰lelmiszer
 CCS
 CD
 CDC
-CÉH
-CEGÉP
+CÃ‰H
+CEGÃ‰P
 CF
 CHN
-CHT Biztosítási
+CHT BiztosÃ­tÃ¡si
 CK
 CMA
 CMB
@@ -1828,10 +1828,10 @@ CRC
 CS
 CS & A
 CS & CS
-CSÁTEX Textilgyártó
+CSÃTEX TextilgyÃ¡rtÃ³
 CSC
 CTS
-Cápa
+CÃ¡pa
 Cabrio SL
 Cache
 Cactus
@@ -1839,7 +1839,7 @@ Cad
 Cad+Inform
 Cadillac
 Cafe Piazza
-Café Rolling Rock
+CafÃ© Rolling Rock
 Caflisch
 Caissa
 Calculus
@@ -1853,7 +1853,7 @@ Calligraphic
 Callisto
 Callnet
 Calmet
-Calória
+CalÃ³ria
 Caloris
 Calyces
 Calypso
@@ -1873,7 +1873,7 @@ Captain
 Car
 Car-Color
 Car-Glass
-Caraván
+CaravÃ¡n
 Caravan Camping
 Carbon
 Cardinal
@@ -1882,7 +1882,7 @@ Cardware
 Carexon
 Cargill
 Cargo
-Cargó
+CargÃ³
 Caribic
 Caritas Collectio
 Carlo
@@ -1893,7 +1893,7 @@ Carmo
 Carneol
 Carnet
 Carpe Diem
-Carriére
+CarriÃ©re
 Carrier
 Carton
 Casablanca
@@ -1906,35 +1906,35 @@ Casino
 Casio
 Castanea
 Castello
-Castello és Gomez
+Castello Ã©s Gomez
 Castellum
 Castrum
 Castrum Camping
 Catering
 Cato
-Cédrus
-Cég
-Cégbíróság
-Cégér
-Cégtárs
-Céh
-Céh Beruházó
-Cél
-Célpont
-Célsped
-Cézé
+CÃ©drus
+CÃ©g
+CÃ©gbÃ­rÃ³sÃ¡g
+CÃ©gÃ©r
+CÃ©gtÃ¡rs
+CÃ©h
+CÃ©h BeruhÃ¡zÃ³
+CÃ©l
+CÃ©lpont
+CÃ©lsped
+CÃ©zÃ©
 Ceba
-Ceglédi
+CeglÃ©di
 Celladam
 Celsius
-Celsus Természetgyógyász
+Celsus TermÃ©szetgyÃ³gyÃ¡sz
 Cement
 Center
 Centi
-Centrál
-Centrális
+CentrÃ¡l
+CentrÃ¡lis
 Central
-Centrifugálöntõ
+CentrifugÃ¡lÃ¶ntÅ‘
 Centro
 Centrum
 Centurion
@@ -1958,30 +1958,30 @@ Chris
 Christine
 Chudi
 Ci-Ma
-Cívis
+CÃ­vis
 Ciao
 Ciao Amico
 Cibakert
 Ciber
 Cibere
-Ciceró
+CicerÃ³
 Ciemme
 Cifra
-Cigány Kisebbségi
-Cigánykisebbségi
-Cikádor
-Cikász
-Ciklámen
+CigÃ¡ny KisebbsÃ©gi
+CigÃ¡nykisebbsÃ©gi
+CikÃ¡dor
+CikÃ¡sz
+CiklÃ¡men
 Ciklo
 Ciklon
-Ciklon Festék és Vegyiáru
+Ciklon FestÃ©k Ã©s VegyiÃ¡ru
 Cilinder
 Cinderella
 Cinema
-Cipõbolt
-Cipõgyár
-Cipõipari
-Cipõkellék
+CipÅ‘bolt
+CipÅ‘gyÃ¡r
+CipÅ‘ipari
+CipÅ‘kellÃ©k
 Ciprus
 Citadella
 Citellus
@@ -2004,7 +2004,7 @@ Clean
 Clean Sound
 Clear
 Clemens-Film
-Cleopátra
+CleopÃ¡tra
 Click On
 Client
 Clifton
@@ -2047,7 +2047,7 @@ Comex
 Comfort
 Commander
 Commenda
-Comp-Padlás
+Comp-PadlÃ¡s
 Compaq
 Compart
 Compass
@@ -2062,13 +2062,13 @@ Comptech
 Compu-Trans
 Computer
 Computer Net
-Computer Panoráma
+Computer PanorÃ¡ma
 Computronic
 Comtech
 Concord
 Concorde
 Concordia
-Concordia Közraktár
+Concordia KÃ¶zraktÃ¡r
 Condor
 Conflex
 Coning
@@ -2134,7 +2134,7 @@ Cortes
 Cortex
 Corti
 Corvin
-Corvin Köz
+Corvin KÃ¶z
 Corvina
 Corvinia
 Corvinus
@@ -2162,45 +2162,45 @@ Crystal
 Cs
 Cs & Cs
 Cs and Cs
-Cs és Cs
-Csák
-Csáki
-Csákvári
-Csányi
-Csányi-Elektro
-Csárda
-Csárdás
-Császár
+Cs Ã©s Cs
+CsÃ¡k
+CsÃ¡ki
+CsÃ¡kvÃ¡ri
+CsÃ¡nyi
+CsÃ¡nyi-Elektro
+CsÃ¡rda
+CsÃ¡rdÃ¡s
+CsÃ¡szÃ¡r
 Csaba
-Csaba Csehó
+Csaba CsehÃ³
 Csabai
-Család és Nõvédelmi
-Családi
-Családsegítõ
-Családsegítõ - Gyermekjóléti
-Családsegítõ és Gondozási
-Családsegítõ és Gondozó
-Családsegítõ és Gyermekjóléti
+CsalÃ¡d Ã©s NÅ‘vÃ©delmi
+CsalÃ¡di
+CsalÃ¡dsegÃ­tÅ‘
+CsalÃ¡dsegÃ­tÅ‘ - GyermekjÃ³lÃ©ti
+CsalÃ¡dsegÃ­tÅ‘ Ã©s GondozÃ¡si
+CsalÃ¡dsegÃ­tÅ‘ Ã©s GondozÃ³
+CsalÃ¡dsegÃ­tÅ‘ Ã©s GyermekjÃ³lÃ©ti
 Csali
 Csalitos
-Csalogány
-Csanád
-Csapágy
-Csapágy és SKF
-Csapágyház
-Csapláros
-Csapó
+CsalogÃ¡ny
+CsanÃ¡d
+CsapÃ¡gy
+CsapÃ¡gy Ã©s SKF
+CsapÃ¡gyhÃ¡z
+CsaplÃ¡ros
+CsapÃ³
 Csarnok
-Csatári
-Csató
-Csatornázási
-Csatornamû
+CsatÃ¡ri
+CsatÃ³
+CsatornÃ¡zÃ¡si
+CsatornamÅ±
 Csavar
 Csavarbolt
 Csavarker
-Csépe
-Csecsemõ- és Gyermekotthon
-Csecsemõotthon
+CsÃ©pe
+CsecsemÅ‘- Ã©s Gyermekotthon
+CsecsemÅ‘otthon
 Cseh
 Csejtei
 Cseke
@@ -2213,62 +2213,62 @@ Csendes
 Csenger
 Csengeri
 Csengery
-Csengõ
+CsengÅ‘
 Csepel
 Csepel Ipartelepi
 Csepeli
-Csepeli Piért
+Csepeli PiÃ©rt
 Csepregi
 Cser
 Cser + Gy
 Cser-Fa
 Csere
-Cserépkályha
+CserÃ©pkÃ¡lyha
 Cserepes
-Cserhát
-Cserháti
+CserhÃ¡t
+CserhÃ¡ti
 Csermely
 Cserna
-Csernák
+CsernÃ¡k
 Csernus
 Csernyik
 Cserta
 Csi-Ko
-Csík
+CsÃ­k
 Csiba
 Csibe
 Csibi
 Csiga
-Csigó
+CsigÃ³
 Csiki
-Csikós
+CsikÃ³s
 Csikos
 Csilla
-Csillám
+CsillÃ¡m
 Csillag
 Csillag Csemege
 Csillaghegy
 Csillaghegyi
-Csillagvár
-Csillagvizsgáló
+CsillagvÃ¡r
+CsillagvizsgÃ¡lÃ³
 Csilli
 Csintalan
 Csipet
-Csiszár
+CsiszÃ¡r
 Csiszer
 Csizmadia
 Csizmarik
-Csóka
-Csónakház
-Csörgõ
-Csörsz
-Csövi
-Csõke
-Csõsz
-Csõszer
-Csõszer Berendezéseket
-Csõszerelõ
-Csob-Oktatás
+CsÃ³ka
+CsÃ³nakhÃ¡z
+CsÃ¶rgÅ‘
+CsÃ¶rsz
+CsÃ¶vi
+CsÅ‘ke
+CsÅ‘sz
+CsÅ‘szer
+CsÅ‘szer BerendezÃ©seket
+CsÅ‘szerelÅ‘
+Csob-OktatÃ¡s
 Csobi
 Csoki
 Csokona
@@ -2277,30 +2277,30 @@ Csokonya
 Csoma
 Csombordi
 Csongor
-Csongrádi
+CsongrÃ¡di
 Csonka
-Csonka János Gépgyár
+Csonka JÃ¡nos GÃ©pgyÃ¡r
 Csontos
-Csontváry
+CsontvÃ¡ry
 Csopak
 Csorba
-Csordás
-Csúcs
-Csüllög
-Csülök
+CsordÃ¡s
+CsÃºcs
+CsÃ¼llÃ¶g
+CsÃ¼lÃ¶k
 Csuka
-Csuka Virágkertészeti
-Csukás
+Csuka VirÃ¡gkertÃ©szeti
+CsukÃ¡s
 Csupor
-Csurgói
-Csurgói 40
+CsurgÃ³i
+CsurgÃ³i 40
 Csutak
 Csuti
 Csutora
 Cuki
-Cukorgyár
-Cukrász
-Cukrászüzem
+CukorgyÃ¡r
+CukrÃ¡sz
+CukrÃ¡szÃ¼zem
 Cummins Diesel
 Cunningham Cesco
 Cvikker
@@ -2309,16 +2309,16 @@ Cygnet
 Cystal
 CzM
 Czagiker
-Czakó
-Czeglédi
+CzakÃ³
+CzeglÃ©di
 Czifra
 Czinagro
 Czinege
-Czirják
+CzirjÃ¡k
 Czirok
-Czövek
+CzÃ¶vek
 Czotter
-Czvetkó
+CzvetkÃ³
 D
 D & D
 D & K
@@ -2329,29 +2329,29 @@ D & V
 D + D
 D + L
 D and D
-D és D
-D és F
-D és K
-D'Angelo Cipõipari
+D Ã©s D
+D Ã©s F
+D Ã©s K
+D'Angelo CipÅ‘ipari
 D'Art
 D+D
-D-T Lízing
+D-T LÃ­zing
 D-Team
 D. F.
 D. K. M.
 D. M.
 D. M. Edison
 D. S.
-D7 Vizuális
-DÁG-TRANS
+D7 VizuÃ¡lis
+DÃG-TRANS
 DALERD
 DBB
 DC
-DÉDÁSZ
-DÉGÁZ
-DÉGÁZ Délalföldi Gázszolgáltató
-DÉLIA
-DEBMÚT
+DÃ‰DÃSZ
+DÃ‰GÃZ
+DÃ‰GÃZ DÃ©lalfÃ¶ldi GÃ¡zszolgÃ¡ltatÃ³
+DÃ‰LIA
+DEBMÃšT
 DESIGN
 DF
 DH
@@ -2362,7 +2362,7 @@ DKS
 DLS-5
 DM
 DMS
-DND Telecom Hírközléstechnikai
+DND Telecom HÃ­rkÃ¶zlÃ©stechnikai
 DNS
 DP
 DRUK-KER
@@ -2375,25 +2375,25 @@ DT
 DTK
 DTV
 DVM
-Dá-Ni
-Dália
-Dám
-Dáma
-Dámfi Energy Save
-Dámó
-Dán
-Dániel
-Dánielfilm
-Dávid
+DÃ¡-Ni
+DÃ¡lia
+DÃ¡m
+DÃ¡ma
+DÃ¡mfi Energy Save
+DÃ¡mÃ³
+DÃ¡n
+DÃ¡niel
+DÃ¡nielfilm
+DÃ¡vid
 Dac
 Dach
 Daewoo
-Daewoo Márkakereskedés
+Daewoo MÃ¡rkakereskedÃ©s
 Daihatsu
 Dajka
 Dal
 Dali
-Dali Család
+Dali CsalÃ¡d
 Dallas
 Dallos
 Dalnoki
@@ -2408,7 +2408,7 @@ Dani
 Daniella
 Danimpex
 Danka
-Dankó
+DankÃ³
 Dante
 Danubiana
 Danubius
@@ -2417,10 +2417,10 @@ Danycon
 Danyi
 Daphne
 Dar
-Darányi
-Darázs
+DarÃ¡nyi
+DarÃ¡zs
 Darida
-Daróczi
+DarÃ³czi
 Daru
 Darukontroll
 Darvas
@@ -2434,30 +2434,30 @@ Daten-Kontor
 Datex
 De Facto
 De-Fatex
-Dékány
-Dél-Dunántúli
-Dél-Dunántúli Regionális
-Dél-Pesti
-Délépítõ
-Déli
-Délibáb
-Dénes
-Dénes és Dénes
-Déri
-Déry
-Dévényi
-Deák
-Deák és Deák
-Deákvár
-Deákvári
+DÃ©kÃ¡ny
+DÃ©l-DunÃ¡ntÃºli
+DÃ©l-DunÃ¡ntÃºli RegionÃ¡lis
+DÃ©l-Pesti
+DÃ©lÃ©pÃ­tÅ‘
+DÃ©li
+DÃ©libÃ¡b
+DÃ©nes
+DÃ©nes Ã©s DÃ©nes
+DÃ©ri
+DÃ©ry
+DÃ©vÃ©nyi
+DeÃ¡k
+DeÃ¡k Ã©s DeÃ¡k
+DeÃ¡kvÃ¡r
+DeÃ¡kvÃ¡ri
 Dealer
 Debrecen
 Debreceni
-Debreceni Ruhagyár
+Debreceni RuhagyÃ¡r
 Debreczeni
-Debrõ
+DebrÅ‘
 Deco
-Decsi Pék
+Decsi PÃ©k
 Defence
 Defend
 Defender
@@ -2469,14 +2469,14 @@ Deka-Design
 Dekadent
 Deko
 Dekor
-Dekor Dekorációs
-Dekorációs
+Dekor DekorÃ¡ciÃ³s
+DekorÃ¡ciÃ³s
 Delanta
 Delco Remy
 Delfin
 Deli
-Delikát
-Delikátesz
+DelikÃ¡t
+DelikÃ¡tesz
 Deloitte & Touche
 Delphino
 Delta
@@ -2489,7 +2489,7 @@ Demax
 Deme
 Demeter
 Demi
-Demjén
+DemjÃ©n
 Demmler
 Den Hartogh
 Deni
@@ -2497,7 +2497,7 @@ Dent
 Dent-Art
 Dent-In
 Denta-Sped
-Dentál
+DentÃ¡l
 Dental
 Dentisoft
 Dentist
@@ -2505,7 +2505,7 @@ Denver
 Depo
 Dera
 Derby
-Derczó
+DerczÃ³
 Derkovits Gyula Terem
 Derma
 Desidea
@@ -2514,7 +2514,7 @@ Design-R
 Designer
 Dessin
 Detect
-Detektív-Security
+DetektÃ­v-Security
 Detre
 Detrich
 Detto
@@ -2523,38 +2523,38 @@ Dexi
 Dexter
 Dextett
 Dezamics
-Dezsõ
-Díszállat
-Díszállat kereskedés
-Díszfaiskola
-Díszkert
-Díva
-Diákotthon
-Diákotthonok
-Diáksport Tanács
-Diána
-Diás
+DezsÅ‘
+DÃ­szÃ¡llat
+DÃ­szÃ¡llat kereskedÃ©s
+DÃ­szfaiskola
+DÃ­szkert
+DÃ­va
+DiÃ¡kotthon
+DiÃ¡kotthonok
+DiÃ¡ksport TanÃ¡cs
+DiÃ¡na
+DiÃ¡s
 Diablo
-Diaboló
+DiabolÃ³
 Diadal
-Diadém
-Diagnózis
+DiadÃ©m
+DiagnÃ³zis
 Diagnosztika
-Diagonál
+DiagonÃ¡l
 Dialex
-Dialóg
+DialÃ³g
 Diamant
 Diamant Exclusiv
 Diamar
 Diamit
 Diamond
-Diamond Zálog
-Diamond Zálogház
+Diamond ZÃ¡log
+Diamond ZÃ¡loghÃ¡z
 Diana
-Dicentra Multimédia
+Dicentra MultimÃ©dia
 Dictalift
 Diego
-Diegó
+DiegÃ³
 Diesel
 Dietrich
 Difa
@@ -2563,18 +2563,18 @@ Difo
 Digi
 Digisat
 Digit
-Digitális
+DigitÃ¡lis
 Digital
 Digitron
 Dillon
 Dim
 Dima
 Dimacon
-Dimenzió
+DimenziÃ³
 Dimer
 Dimitrisz
 Dina
-Dinám
+DinÃ¡m
 Dinamic
 Dinamica
 Dinamik
@@ -2582,19 +2582,19 @@ Dinamika
 Dinamika 7
 Dinasztia
 Dino
-Dinó
-Dióda
-Diófa
-Diós
-Diósárok
-Diósgyõri
-Diószegi
+DinÃ³
+DiÃ³da
+DiÃ³fa
+DiÃ³s
+DiÃ³sÃ¡rok
+DiÃ³sgyÅ‘ri
+DiÃ³szegi
 Dione
 Diorit
 Dipol
 Dir-Con
 Direkt
-Direkt-Pólus
+Direkt-PÃ³lus
 Dirni
 Discoland
 Discos
@@ -2604,28 +2604,28 @@ Diszkont
 Diszkont 1500
 Ditom
 Divat
-Divatáru
-Divatékszer
+DivatÃ¡ru
+DivatÃ©kszer
 Divicon
 Divinus Numerus
-Divizió
-Dóczi
-Dóczy
-Dóka
-Dóm
-Dóm Szeged
-Dóra
-Dósa
-Dózsa
-Dödi
-Döme
-Dömi
-Dömös
-Dömötör
-Dömper
+DiviziÃ³
+DÃ³czi
+DÃ³czy
+DÃ³ka
+DÃ³m
+DÃ³m Szeged
+DÃ³ra
+DÃ³sa
+DÃ³zsa
+DÃ¶di
+DÃ¶me
+DÃ¶mi
+DÃ¶mÃ¶s
+DÃ¶mÃ¶tÃ¶r
+DÃ¶mper
 Dobai
 Dobay
-Dobó
+DobÃ³
 Dobos
 Doboz
 Dobozi
@@ -2633,8 +2633,8 @@ Dobszai
 Docta
 Dodi
 Dodo
-Dohány
-Dohány-Ajándék
+DohÃ¡ny
+DohÃ¡ny-AjÃ¡ndÃ©k
 Doherty
 Dokument
 Dokumentum
@@ -2644,27 +2644,27 @@ Dolomit
 Dolphin
 Dom
 Doma
-Domán
-Domaép
+DomÃ¡n
+DomaÃ©p
 Dombai
 Dombi
 Domby
 Domet
-Dometál
+DometÃ¡l
 Domi
 Domina
 Dominant
-Domingó
+DomingÃ³
 Dominik
 Dominium
 Domino
-Dominó
-Domján
+DominÃ³
+DomjÃ¡n
 Domo
 Domokos
 Domonkos
 Domus
-Domus-Lánc
+Domus-LÃ¡nc
 Don
 Don Pepe
 Donau-Ker
@@ -2679,111 +2679,111 @@ Dorex
 Doris
 Dorka
 Dorma
-Dormán
+DormÃ¡n
 Dorner
 Dorogi
 Dorottya
 Dorozsmai
 Doszpod
-Dotán
+DotÃ¡n
 Dover
 Dovipet
 Down
 Dr.
-Dr. Asztalos Dezsõ
+Dr. Asztalos DezsÅ‘
 Dr. B & K
 Dr. Balogh
 Dr. Bartha
-Dr. Béldi
-Dr. Béres
+Dr. BÃ©ldi
+Dr. BÃ©res
 Dr. Benedek
 Dr. Blasius Labor
-Dr. Bodnár
+Dr. BodnÃ¡r
 Dr. Boros
 Dr. Csillag
-Dr. Dégi
-Dr. Dénes
+Dr. DÃ©gi
+Dr. DÃ©nes
 Dr. Egri
-Dr. Ekler Munkatárs
+Dr. Ekler MunkatÃ¡rs
 Dr. Erdei
-Dr. Eszter Családorvosi
-Dr. Fábián
-Dr. Faragó
+Dr. Eszter CsalÃ¡dorvosi
+Dr. FÃ¡biÃ¡n
+Dr. FaragÃ³
 Dr. Farkas
 Dr. Fekete
 Dr. Ferencz
 Dr. Ferenczi
-Dr. Gál
-Dr. Gelencsér
+Dr. GÃ¡l
+Dr. GelencsÃ©r
 Dr. Gyarmathy
 Dr. Haller
 Dr. Hamar
 Dr. Hapek
-Dr. Hegedûs
-Dr. Horváth
+Dr. HegedÅ±s
+Dr. HorvÃ¡th
 Dr. J. T.
 Dr. Jakab
 Dr. Jancsovics
-Dr. Juhász
-Dr. Juhász Ildikó
-Dr. Kató
-Dr. Kelecsényi
+Dr. JuhÃ¡sz
+Dr. JuhÃ¡sz IldikÃ³
+Dr. KatÃ³
+Dr. KelecsÃ©nyi
 Dr. Kelemen
 Dr. Kiss
-Dr. Kósa
-Dr. Komlósi
-Dr. Kovács
+Dr. KÃ³sa
+Dr. KomlÃ³si
+Dr. KovÃ¡cs
 Dr. Kozma
 Dr. Lascsik
-Dr. Lukács
+Dr. LukÃ¡cs
 Dr. Magyar
 Dr. Megyesi
-Dr. Möbel
+Dr. MÃ¶bel
 Dr. Mohr
-Dr. Molnár
+Dr. MolnÃ¡r
 Dr. Nagy
 Dr. Nagy Endre
-Dr. Nagy Mária
-Dr. Németh
-Dr. Pásztor
+Dr. Nagy MÃ¡ria
+Dr. NÃ©meth
+Dr. PÃ¡sztor
 Dr. Papp
 Dr. Petrovics
-Dr. Pintér
+Dr. PintÃ©r
 Dr. Poligon
-Dr. Sándor
+Dr. SÃ¡ndor
 Dr. Sallai
 Dr. Schmidt
-Dr. Schreiner Mária
+Dr. Schreiner MÃ¡ria
 Dr. Simon
-Dr. Soltész
+Dr. SoltÃ©sz
 Dr. Somogyi
 Dr. Spring
 Dr. Stange
 Dr. Stierbach
-Dr. Szász
+Dr. SzÃ¡sz
 Dr. Szalai
-Dr. Szilágyi
+Dr. SzilÃ¡gyi
 Dr. Szolnoki-Dr. Varga
-Dr. Takács
-Dr. Tamás
+Dr. TakÃ¡cs
+Dr. TamÃ¡s
 Dr. Tens
-Dr. Tímár
+Dr. TÃ­mÃ¡r
 Dr. Tihanyi
-Dr. Váradi
+Dr. VÃ¡radi
 Dr. Vajda
 Dr. Varga
-Dr. Vörös
+Dr. VÃ¶rÃ¶s
 Dr. Weigert
 Dr. Zsuzsanna
-Dr. és Dr. Müller
-Dráva
-Dráva-Coop
-DrávaNet
+Dr. Ã©s Dr. MÃ¼ller
+DrÃ¡va
+DrÃ¡va-Coop
+DrÃ¡vaNet
 Drager
 Dragon
 Dralbo
 Draxi
-Dréher
+DrÃ©her
 Dream
 Dressy
 Drexler
@@ -2792,39 +2792,39 @@ Drinker
 Drive
 Drog
 Drogambulancia
-Drogéria
-Drogprevenciós
+DrogÃ©ria
+DrogprevenciÃ³s
 Drop
 Druck-Ker
 Du-Plan
-Dünamisz
-Duál
+DÃ¼namisz
+DuÃ¡l
 Dual
 Dual-Plus
 Duci
-Dudás
+DudÃ¡s
 Duett
 Dulay
-Dun és Bradstreet
+Dun Ã©s Bradstreet
 Duna
 Duna Fleur
-Duna Szálloda
-Duna-Dráva Nemzeti
+Duna SzÃ¡lloda
+Duna-DrÃ¡va Nemzeti
 Duna-Ipoly Nemzeti
 Duna-Villamos Labor
-Dunántúli Sertéstenyésztõ
+DunÃ¡ntÃºli SertÃ©stenyÃ©sztÅ‘
 Dunaauditing
 Dunabau 47
 Dunaferr
 Dunaferr Portolan
-Dunagáz
+DunagÃ¡z
 Dunagent
 Dunaholding
 Dunai
-Dunai Repülõgépgyár
+Dunai RepÃ¼lÅ‘gÃ©pgyÃ¡r
 Dunaimpex
 Dunakanyar
-Dunakenyér
+DunakenyÃ©r
 Dunamenti
 Dunapack
 Dunapart
@@ -2832,14 +2832,14 @@ Dunaparti
 Dunaparty
 Dunasecurity
 Dunaszer
-Dunatáj
+DunatÃ¡j
 Dunatex
-Dunaújvárosi
-Dunavecse Kikötõ
+DunaÃºjvÃ¡rosi
+Dunavecse KikÃ¶tÅ‘
 Dundi
-Duniverzál
+DuniverzÃ¡l
 Duo
-Duó
+DuÃ³
 Duola
 Duotone
 Dupla-Sz
@@ -2855,94 +2855,94 @@ E & A
 E & G
 E & P
 E + V
-E és H
+E Ã©s H
 E-Consult
 E-Copy
 E.
 E. M. S.
 E. T.
 E. T. C.
-É + M
-ÉDÁSZ
-ÉGÁZ
-ÉKKO Építõipari Közszolgáltató
-ÉPFU
-ÉPTERV
-ÉPTÜ
-ÉVA
-Ében
-Ébenfa
-Éberhardt
-Ébner
-Éden
-Édenkert
-Éder
-Édes
-Édességbolt
-Édesvíz
-Égbolt
-Ékszer
-Élelmiszer
-Élelmiszer Kiskereskedelmi
-Élelmiszer-Vegyeskereskedés
-Élelmiszerboltok
-Élelmiszerkereskedelmi
-Éles
-Életkép
-Életmód
-Élettér
-Életút
-Élgépszer
-Ép-Ker
-Épfu-Ügyvitel
-Épgép
-Épgépszer
-Építésügyi Minõségellenõrzõ Innovációs
-Építész
-Építészeti
-Építészmester
-Építkezõk
-Építõ
-Építõ-Szépítõ
-Építõ-Társak
-Építõanyag
-Építõipari
-Építõk
-Építõmester
-Épkar
-Épker
-Épkoplast
-Épszak
-Épszer
-Épszolg
-Éptech
-Éptek
-Épületgépész
-Épületgépészet
-Épületgépészeti
-Éra
-Érc- és Ásványbányák
-Érdi
-Érsek
-Érték
-Értelmi Fogyatékosok
-Értelmi Fogyatékosok és Segítõik Országos Érdekvédelmi
-Észak-Balatoni
-Észak-Budai
-Észak-Dunántúli Sört
-Észak-Magyarországi Regionális
-Északtel
-Éta
-Étek
-Étkezde
-Étterem
-Éva
-Éva és Éva
-Éva-Tours
-Évadó
-Évi
-Évitex
-Ézsiás
+Ã‰ + M
+Ã‰DÃSZ
+Ã‰GÃZ
+Ã‰KKO Ã‰pÃ­tÅ‘ipari KÃ¶zszolgÃ¡ltatÃ³
+Ã‰PFU
+Ã‰PTERV
+Ã‰PTÃœ
+Ã‰VA
+Ã‰ben
+Ã‰benfa
+Ã‰berhardt
+Ã‰bner
+Ã‰den
+Ã‰denkert
+Ã‰der
+Ã‰des
+Ã‰dessÃ©gbolt
+Ã‰desvÃ­z
+Ã‰gbolt
+Ã‰kszer
+Ã‰lelmiszer
+Ã‰lelmiszer Kiskereskedelmi
+Ã‰lelmiszer-VegyeskereskedÃ©s
+Ã‰lelmiszerboltok
+Ã‰lelmiszerkereskedelmi
+Ã‰les
+Ã‰letkÃ©p
+Ã‰letmÃ³d
+Ã‰lettÃ©r
+Ã‰letÃºt
+Ã‰lgÃ©pszer
+Ã‰p-Ker
+Ã‰pfu-Ãœgyvitel
+Ã‰pgÃ©p
+Ã‰pgÃ©pszer
+Ã‰pÃ­tÃ©sÃ¼gyi MinÅ‘sÃ©gellenÅ‘rzÅ‘ InnovÃ¡ciÃ³s
+Ã‰pÃ­tÃ©sz
+Ã‰pÃ­tÃ©szeti
+Ã‰pÃ­tÃ©szmester
+Ã‰pÃ­tkezÅ‘k
+Ã‰pÃ­tÅ‘
+Ã‰pÃ­tÅ‘-SzÃ©pÃ­tÅ‘
+Ã‰pÃ­tÅ‘-TÃ¡rsak
+Ã‰pÃ­tÅ‘anyag
+Ã‰pÃ­tÅ‘ipari
+Ã‰pÃ­tÅ‘k
+Ã‰pÃ­tÅ‘mester
+Ã‰pkar
+Ã‰pker
+Ã‰pkoplast
+Ã‰pszak
+Ã‰pszer
+Ã‰pszolg
+Ã‰ptech
+Ã‰ptek
+Ã‰pÃ¼letgÃ©pÃ©sz
+Ã‰pÃ¼letgÃ©pÃ©szet
+Ã‰pÃ¼letgÃ©pÃ©szeti
+Ã‰ra
+Ã‰rc- Ã©s ÃsvÃ¡nybÃ¡nyÃ¡k
+Ã‰rdi
+Ã‰rsek
+Ã‰rtÃ©k
+Ã‰rtelmi FogyatÃ©kosok
+Ã‰rtelmi FogyatÃ©kosok Ã©s SegÃ­tÅ‘ik OrszÃ¡gos Ã‰rdekvÃ©delmi
+Ã‰szak-Balatoni
+Ã‰szak-Budai
+Ã‰szak-DunÃ¡ntÃºli SÃ¶rt
+Ã‰szak-MagyarorszÃ¡gi RegionÃ¡lis
+Ã‰szaktel
+Ã‰ta
+Ã‰tek
+Ã‰tkezde
+Ã‰tterem
+Ã‰va
+Ã‰va Ã©s Ã‰va
+Ã‰va-Tours
+Ã‰vadÃ³
+Ã‰vi
+Ã‰vitex
+Ã‰zsiÃ¡s
 EC
 EC.
 ECJ
@@ -2967,7 +2967,7 @@ ERBA
 ERKA
 ES
 ESC
-ESVÉ
+ESVÃ‰
 ETA
 ETC
 ETL
@@ -2979,7 +2979,7 @@ Eastbrokers
 Eastern
 Eastern Wood Bridge
 Eba
-Ebtenyésztõk Országos
+EbtenyÃ©sztÅ‘k OrszÃ¡gos
 Ecco
 Eccovil
 Echo
@@ -3009,19 +3009,19 @@ Editor
 Effect
 Effekt
 Efo
-Egészség
-Egészségbiztosítási Pénztár
-Egészségért
-Egészséges Városért
-Egészségház
-Egészségügyi
-Egészségügyi Alapellátási
-Egészségügyi Alapellátó
-Egészségügyi Gyermekotthon
+EgÃ©szsÃ©g
+EgÃ©szsÃ©gbiztosÃ­tÃ¡si PÃ©nztÃ¡r
+EgÃ©szsÃ©gÃ©rt
+EgÃ©szsÃ©ges VÃ¡rosÃ©rt
+EgÃ©szsÃ©ghÃ¡z
+EgÃ©szsÃ©gÃ¼gyi
+EgÃ©szsÃ©gÃ¼gyi AlapellÃ¡tÃ¡si
+EgÃ©szsÃ©gÃ¼gyi AlapellÃ¡tÃ³
+EgÃ©szsÃ©gÃ¼gyi Gyermekotthon
 Eger
 Egercopy
 Egerszegi
-Egervári
+EgervÃ¡ri
 Ego
 Egresits
 Egressy
@@ -3029,23 +3029,23 @@ Egri
 Egy
 Egyed
 Egyenleg
-Egyesített Közmûvelõdési
-Egyesített Szociális
-Egyesült
-Egyetértés
+EgyesÃ­tett KÃ¶zmÅ±velÅ‘dÃ©si
+EgyesÃ­tett SzociÃ¡lis
+EgyesÃ¼lt
+EgyetÃ©rtÃ©s
 Egyetem
 Egyetemek
 Egyetemi
-Egyházmegyei
+EgyhÃ¡zmegyei
 Egzakt
 Egzisztencia
 Eho
 Eisele
 Eka
 Ekker
-Ekológia
+EkolÃ³gia
 Ela
-Elán
+ElÃ¡n
 Elaforg
 Elan
 Elastic
@@ -3055,12 +3055,12 @@ Elco
 Elco-Trade
 Elcomp
 Elcoteq
-Eldorádó
+EldorÃ¡dÃ³
 Electraplan
 Electro World
 Electro-Cord
 Electronic
-Elefánt
+ElefÃ¡nt
 Elegancia
 Elegant Mode
 Elek
@@ -3078,8 +3078,8 @@ Elektro-Coop
 Elektro-M
 Elektrocentrum
 Elektrofil
-Elektrogép
-Elektroház
+ElektrogÃ©p
+ElektrohÃ¡z
 Elektrokontroll
 Elektromert
 Elektromobil
@@ -3089,7 +3089,7 @@ Elektronet
 Elektronik
 Elektronika
 Elektronikai
-Elektronikai és Mechanikai
+Elektronikai Ã©s Mechanikai
 Elektropower
 Elektroszer
 Elektroszerviz
@@ -3099,7 +3099,7 @@ Elektrotrade
 Elektrovill
 Elektrovill 89
 Elender
-Elevátor
+ElevÃ¡tor
 Elevator
 Elex
 Elfi
@@ -3113,19 +3113,19 @@ Elit
 Elita
 Elite
 Elix
-Elixír
+ElixÃ­r
 Elka
-Elméleti
+ElmÃ©leti
 Elor
-Elsõ
-Elsõ Mészáros
-Elszöv
+ElsÅ‘
+ElsÅ‘ MÃ©szÃ¡ros
+ElszÃ¶v
 Elvis
 Elza
-Emág
+EmÃ¡g
 Ember
 Eme
-Emelõgép
+EmelÅ‘gÃ©p
 Emerix
 Emese
 Emi
@@ -3134,20 +3134,20 @@ Eminens
 Emitronic
 Emke
 Emmebi
-Empátia
+EmpÃ¡tia
 Empire
 Emporium
-Encián
-Enciklopédia
+EnciÃ¡n
+EnciklopÃ©dia
 Encon
 Encotrade
 Endresz
-Endrõdi
+EndrÅ‘di
 Energetikai
 Energia
 Energia Control
-Energiagazdálkodási
-Energiahíd
+EnergiagazdÃ¡lkodÃ¡si
+EnergiahÃ­d
 Energie
 Energo
 Energo-Tours
@@ -3156,70 +3156,70 @@ Energy
 Energy Fitness
 Engel
 Enigma
-Enikõ
+EnikÅ‘
 Enola
 Enrico
 Enter
 Envi
 Envicom
 Enzo
-Eördögh
-Eörsi
-Eötvös Loránd Tudományegyetem
+EÃ¶rdÃ¶gh
+EÃ¶rsi
+EÃ¶tvÃ¶s LorÃ¡nd TudomÃ¡nyegyetem
 Epi
 Epione
 Epszilon
 Equinox
 Erb
 Ercoal
-Erdély
-Erdélyi
-Erdész
-Erdészet
-Erdészeti
-Erdészeti Tudományos
+ErdÃ©ly
+ErdÃ©lyi
+ErdÃ©sz
+ErdÃ©szet
+ErdÃ©szeti
+ErdÃ©szeti TudomÃ¡nyos
 Erdei
-Erdõ- és Vadgazdaság
-Erdõalja
-Erdõbirtokossági
-Erdõfelügyelõség
-Erdõgazdaság
-Erdõgép
-Erdõhát
-Erdõmester
-Erdõs
-Erdõsi
-Erényi
+ErdÅ‘- Ã©s VadgazdasÃ¡g
+ErdÅ‘alja
+ErdÅ‘birtokossÃ¡gi
+ErdÅ‘felÃ¼gyelÅ‘sÃ©g
+ErdÅ‘gazdasÃ¡g
+ErdÅ‘gÃ©p
+ErdÅ‘hÃ¡t
+ErdÅ‘mester
+ErdÅ‘s
+ErdÅ‘si
+ErÃ©nyi
 Eredet
 Erex
 Erfolg
 Erfu
 Ergofer
-Ergoline Szolárium
+Ergoline SzolÃ¡rium
 Ergon
 Erika
 Erla
 Ernst & Young
-Erõforrás
-Erõkar
-Erõmû
-Erõs
-Erõss
+ErÅ‘forrÃ¡s
+ErÅ‘kar
+ErÅ‘mÅ±
+ErÅ‘s
+ErÅ‘ss
 Erste Bank
 Ertex
 Eryx
-Erzsébet
-Erzsébet Királyné
-Erzsébetvárosi
+ErzsÃ©bet
+ErzsÃ©bet KirÃ¡lynÃ©
+ErzsÃ©betvÃ¡rosi
 Escort
-Escort Védelmi
-Esély
-Esélyegyenlõség
+Escort VÃ©delmi
+EsÃ©ly
+EsÃ©lyegyenlÅ‘sÃ©g
 Eska
 Esprit
 Essel
 Est
-Estée Lauder
+EstÃ©e Lauder
 Esthajnal
 Estike
 Estol
@@ -3228,17 +3228,17 @@ Estrich
 Eszes
 Eszik
 Esznor
-Eszperantó
-Eszpresszó
+EszperantÃ³
+EszpresszÃ³
 Eszter
 Etalon
 Etele
 Eternit
 Etikett
-Etilén
+EtilÃ©n
 Etler
 Etna
-Etter és Etter
+Etter Ã©s Etter
 Eurasia
 Euro
 Euro-Concept
@@ -3250,9 +3250,9 @@ Euro-Profil
 Euro-Start
 Euro-System
 Euro-Tech
-Európa
-Európa Biztosító
-Európa Mentõszolgálat
+EurÃ³pa
+EurÃ³pa BiztosÃ­tÃ³
+EurÃ³pa MentÅ‘szolgÃ¡lat
 EuroCare
 EuroTrend
 Euroart
@@ -3261,7 +3261,7 @@ Eurocamion
 Eurocast
 Eurocat
 Eurochange Hungary
-Euroép
+EuroÃ©p
 Euroexpert
 Eurofarm
 Eurofest
@@ -3305,17 +3305,17 @@ Eurotrend
 Eurovill
 Eurovit Ingatlanforgalmi
 Eva
-Evangélikus Egyház
-Evangélikus Egyházközösség
-Evangélikus Egyházközség
-Evangélikus Egyházközség Lelkészi
+EvangÃ©likus EgyhÃ¡z
+EvangÃ©likus EgyhÃ¡zkÃ¶zÃ¶ssÃ©g
+EvangÃ©likus EgyhÃ¡zkÃ¶zsÃ©g
+EvangÃ©likus EgyhÃ¡zkÃ¶zsÃ©g LelkÃ©szi
 Event
 Eventum
 Eventus
 Everest
 Evergreen
 Every-Ware
-Evezõs
+EvezÅ‘s
 Evidencia
 Evinvest
 Evolut
@@ -3338,7 +3338,7 @@ Exedra
 Exergia
 Exim
 Exist
-Exkluzív
+ExkluzÃ­v
 Exko
 Exor
 Exorg
@@ -3358,27 +3358,27 @@ Extel
 Exter
 Externet
 Extra
-Extrém
+ExtrÃ©m
 Extreme
 Extreme-Sun
 Ez
 Ezermester
 Ezersziget
-Ezséki
-Ezüst
-Ezüst Kehely
-Ezüstfenyõ
-Ezüsthárs
-Ezüsthegy
-Ezüstkalász
-Ezüstkehely
+EzsÃ©ki
+EzÃ¼st
+EzÃ¼st Kehely
+EzÃ¼stfenyÅ‘
+EzÃ¼sthÃ¡rs
+EzÃ¼sthegy
+EzÃ¼stkalÃ¡sz
+EzÃ¼stkehely
 F
 F & F
 F & T
 F + F
 F + H
-F és B
-F és F
+F Ã©s B
+F Ã©s F
 F. G.
 F. T. S.
 F1
@@ -3387,7 +3387,7 @@ F9 Komplex
 FAX
 FB
 FBI
-FÉG
+FÃ‰G
 FEBA
 FER
 FER-MI
@@ -3400,7 +3400,7 @@ FK
 FM
 FM Vas
 FMC
-FMC Dialízis
+FMC DialÃ­zis
 FMK
 FOL
 FOMA
@@ -3414,17 +3414,17 @@ Fa-
 Fa-Go
 Fa-Ri
 Fa-Ter
-Fábafém
-Fábián
-Fábik
-Fábri
-Fáklya
-Fáma
-Fáni
-Fárosz
-Fáskerti
-Fázis
-Faáru
+FÃ¡bafÃ©m
+FÃ¡biÃ¡n
+FÃ¡bik
+FÃ¡bri
+FÃ¡klya
+FÃ¡ma
+FÃ¡ni
+FÃ¡rosz
+FÃ¡skerti
+FÃ¡zis
+FaÃ¡ru
 Fabatka
 Faber
 Fabi
@@ -3438,8 +3438,8 @@ Fagaras
 Fagor
 Fagus
 Fagusz
-Fagyöngy
-Faház
+FagyÃ¶ngy
+FahÃ¡z
 Fail Safe
 Fain
 Faipari
@@ -3450,25 +3450,25 @@ Fair-Coop
 Fair-Deko
 Fair-Team
 Faiskola
-Fajtakísérleti
-Fakanál
-Fakopács
-Faktótum
+FajtakÃ­sÃ©rleti
+FakanÃ¡l
+FakopÃ¡cs
+FaktÃ³tum
 Faktor
 Faktor-Bonus
 Faktum
-Falatozó
+FalatozÃ³
 Falco
 Falcon
 Falu-Bau
 Faludi
-Falugazdász
-Falugondnokság
-Faluház
-Falukönyv-Ciceró
+FalugazdÃ¡sz
+FalugondnoksÃ¡g
+FaluhÃ¡z
+FalukÃ¶nyv-CicerÃ³
 Falusi
-Família
-Famíves
+FamÃ­lia
+FamÃ­ves
 Famidok
 Famili
 Familia
@@ -3476,23 +3476,23 @@ Family
 Famulus
 Fan
 Fanni
-Fantázia
+FantÃ¡zia
 Fantom
 Farad
-Faragó
-Faragó és Bíró
+FaragÃ³
+FaragÃ³ Ã©s BÃ­rÃ³
 Farbe
 Farkas
 Farkas Villker
-Farkasné
-Farkasréti
+FarkasnÃ©
+FarkasrÃ©ti
 Farm
 Farm-Ker
 Farm-Sped
 Farmer
 Farmer Gazdabolt
 Farmerparadicsom
-Farmgép
+FarmgÃ©p
 Farmmix
 Farsang
 Fashion Station
@@ -3508,80 +3508,80 @@ Faunus
 Favor
 Favorit
 Fazekas
-Féda
-Fédra
-Fék
-Félix
-Félúton
-Fém
-Fém-Fék
-Fémépszer
-Fémfeldolgozó és Organizációs
-Fémforgácsoló
-Fémipari
-Fémixo
-Fémker
-Fémszer
-Fémszerkezet
-Fémtechnika
-Fémtermék
-Fény
-Fényes
-Fényjel
-Fényképész
-Fényképészet
-Férfi
-Fészek
-Fészekrakó
+FÃ©da
+FÃ©dra
+FÃ©k
+FÃ©lix
+FÃ©lÃºton
+FÃ©m
+FÃ©m-FÃ©k
+FÃ©mÃ©pszer
+FÃ©mfeldolgozÃ³ Ã©s OrganizÃ¡ciÃ³s
+FÃ©mforgÃ¡csolÃ³
+FÃ©mipari
+FÃ©mixo
+FÃ©mker
+FÃ©mszer
+FÃ©mszerkezet
+FÃ©mtechnika
+FÃ©mtermÃ©k
+FÃ©ny
+FÃ©nyes
+FÃ©nyjel
+FÃ©nykÃ©pÃ©sz
+FÃ©nykÃ©pÃ©szet
+FÃ©rfi
+FÃ©szek
+FÃ©szekrakÃ³
 Febo
 Fecske
-Fecskefészek
-Fedél
+FecskefÃ©szek
+FedÃ©l
 Fedor
 Fefe
 Fefo
-Fegyház és Börtön
-Fehér
-Fehér Akác
-Fehér Egér
-Fehér Flamingó
-Fehér Holló
-Fehér Kereszt
-Fehér Kígyó
-Fehér és Fehér
-Fehérné
-Fehérnemû
-Fehérvár
-Fehérvári
+FegyhÃ¡z Ã©s BÃ¶rtÃ¶n
+FehÃ©r
+FehÃ©r AkÃ¡c
+FehÃ©r EgÃ©r
+FehÃ©r FlamingÃ³
+FehÃ©r HollÃ³
+FehÃ©r Kereszt
+FehÃ©r KÃ­gyÃ³
+FehÃ©r Ã©s FehÃ©r
+FehÃ©rnÃ©
+FehÃ©rnemÅ±
+FehÃ©rvÃ¡r
+FehÃ©rvÃ¡ri
 Fejes
 Fekete
-Fekete Bárány
+Fekete BÃ¡rÃ¡ny
 Fekete Farkas
-Fekete Gyémánt
-Fekete Holló
+Fekete GyÃ©mÃ¡nt
+Fekete HollÃ³
 Fekete Macska
-Fekete Rózsa
+Fekete RÃ³zsa
 Fekete Sas
-Fekete Tulipán
-Feketevár
+Fekete TulipÃ¡n
+FeketevÃ¡r
 Felaxy-9000
-Felföldi
+FelfÃ¶ldi
 Felicitas
 Felirat
 Fellegi
-Felsál Húsfeldolgozó
-Felsõ-Tisza Vidéki Vízügyi
+FelsÃ¡l HÃºsfeldolgozÃ³
+FelsÅ‘-Tisza VidÃ©ki VÃ­zÃ¼gyi
 Felszegi
-Felvonó
+FelvonÃ³
 Fema
 Femina
 Fenestra
-Fenomén
+FenomÃ©n
 Fenster
 Fenstherm
-Fenstherm Nyílászárógyártó
-Fenyõ
-Fenyõfa
+Fenstherm NyÃ­lÃ¡szÃ¡rÃ³gyÃ¡rtÃ³
+FenyÅ‘
+FenyÅ‘fa
 Fenyves
 Fenyvesi
 Fer
@@ -3591,9 +3591,9 @@ Fer-Ko
 FerBa
 Ferbeton
 Ferbi
-Ferép
+FerÃ©p
 Ferenci
-Ferencvárosi Mûvelõdési
+FerencvÃ¡rosi MÅ±velÅ‘dÃ©si
 Ferencz
 Ferenczi
 Ferenczy
@@ -3622,21 +3622,21 @@ Ferrum-Plast
 Ferrumino
 Fersped
 Fertig
-Fertõdi
+FertÅ‘di
 Fes
-Feskõ
+FeskÅ‘
 Fess
 Fess'N
-Festék
-Fesztivál
+FestÃ©k
+FesztivÃ¡l
 Feti
 Fetter
 Fezo
-Fezõr
+FezÅ‘r
 Fi-Vill
-Fiastyúk
+FiastyÃºk
 Fiat
-Fiat Márkakereskedés
+Fiat MÃ¡rkakereskedÃ©s
 FiberNet
 Fiddler
 Fidibusz
@@ -3647,11 +3647,11 @@ Figura
 Fila
 Filadelfia
 Filia
-Fillér Delikát
+FillÃ©r DelikÃ¡t
 Film
 Filmenter
-Filmvilág
-Filó
+FilmvilÃ¡g
+FilÃ³
 Filofax
 Filt-Mix
 Filter
@@ -3662,15 +3662,15 @@ Fini-Ker
 Fininvest
 Finis
 Finomat
-Finommechanikai és Elektronikus Mûszergyártó
+Finommechanikai Ã©s Elektronikus MÅ±szergyÃ¡rtÃ³
 Finta
-Fintex Rövidáru
+Fintex RÃ¶vidÃ¡ru
 Fiorini
 Fiorito
 Firenze
 Fireplace
 Firka
-Firkász
+FirkÃ¡sz
 First
 Firtos
 Fischer
@@ -3678,7 +3678,7 @@ Fisli
 Fister
 Fit-Forma
 Fitness
-Fitotéka
+FitotÃ©ka
 Fitt
 Fitt Forma
 Fitting
@@ -3694,7 +3694,7 @@ Flamand
 Flamex
 Flaming
 Flamingo
-Flamingó
+FlamingÃ³
 Flash
 Flash-Trade
 Flaska
@@ -3703,13 +3703,13 @@ Flexibil
 Flexio
 Flexo
 Flipper
-Flóra
-Flórián
+FlÃ³ra
+FlÃ³riÃ¡n
 Flogiston
 Floorball
 Flora
 Florance
-Floreál
+FloreÃ¡l
 Florentin
 Florenz
 Florett
@@ -3720,51 +3720,51 @@ Flott
 Flott-Invest
 Fluxus
 Fo-Ton
-Fókusz
-Fónai
-Fóris
-Fórizs
-Fórum
-Fórum Épber
-Fótipker
-Földes
-Földesi
-Földgép
-Földházi
-Földhivatal
-Földi
-Földmérõ
-Földmûvelésügyi
-Földvári
-Förhécz
-Fõ Konzult
-Fõfotó
-Fõiskola
-Fõkönyv
-Fõnix
-Fõvárosi
-Fõvárosi Gázmûvek
+FÃ³kusz
+FÃ³nai
+FÃ³ris
+FÃ³rizs
+FÃ³rum
+FÃ³rum Ã‰pber
+FÃ³tipker
+FÃ¶ldes
+FÃ¶ldesi
+FÃ¶ldgÃ©p
+FÃ¶ldhÃ¡zi
+FÃ¶ldhivatal
+FÃ¶ldi
+FÃ¶ldmÃ©rÅ‘
+FÃ¶ldmÅ±velÃ©sÃ¼gyi
+FÃ¶ldvÃ¡ri
+FÃ¶rhÃ©cz
+FÅ‘ Konzult
+FÅ‘fotÃ³
+FÅ‘iskola
+FÅ‘kÃ¶nyv
+FÅ‘nix
+FÅ‘vÃ¡rosi
+FÅ‘vÃ¡rosi GÃ¡zmÅ±vek
 Foci
 Focus
 Fodor
-Fodorbán
-Fodrász
-Fodrász és Kozmetikai
-Fodrászat
-Fodrászcikk
-Fodrászipari
-Fog-Ász
-Fogászat
-Fogászati
+FodorbÃ¡n
+FodrÃ¡sz
+FodrÃ¡sz Ã©s Kozmetikai
+FodrÃ¡szat
+FodrÃ¡szcikk
+FodrÃ¡szipari
+Fog-Ãsz
+FogÃ¡szat
+FogÃ¡szati
 Fogaras
 Fogarasi
 Foglalat
-Foglalkoztatási
-Fogmíves
+FoglalkoztatÃ¡si
+FogmÃ­ves
 Fogorvosi
 Fogtechnikai
-Fogyasztóvédelmi Felügyelõség
-Fogyatékosok
+FogyasztÃ³vÃ©delmi FelÃ¼gyelÅ‘sÃ©g
+FogyatÃ©kosok
 Folder
 Folk-Art
 Folkart
@@ -3782,9 +3782,9 @@ Forcon
 Forcont
 Ford
 Fordan
-Fordító
+FordÃ­tÃ³
 Fordulat
-Forduló
+FordulÃ³
 Forecast
 Foreland
 Forenviron
@@ -3793,8 +3793,8 @@ Forester
 Forever Living Products
 Forex
 Forfa
-Forgács
-Forgó
+ForgÃ¡cs
+ForgÃ³
 Forker
 Forma
 Forma 1
@@ -3805,23 +3805,23 @@ Formont
 Fornax
 Fornet
 Forr
-Forrás
-Forró
+ForrÃ¡s
+ForrÃ³
 Forsz
 Fortax
 Forte
 Fortrans
 Fortuna
-Fortunátó
+FortunÃ¡tÃ³
 Forward
 Forza
 Fotex
 Foto
-Foto Kovács
+Foto KovÃ¡cs
 Foto Porst
 Foto-Optika
 Foto-Video
-Fotó
+FotÃ³
 Fotoland
 Foton
 Four Sale
@@ -3835,12 +3835,12 @@ Frangula
 Frank
 Franke
 Franko
-Frankó
-Fraternité
+FrankÃ³
+FraternitÃ©
 Fraxinus
-Fraxinus Manufaktúra
-Frédo
-Frézia
+Fraxinus ManufaktÃºra
+FrÃ©do
+FrÃ©zia
 Free
 Free Style Entertainment
 Freedom
@@ -3855,67 +3855,67 @@ Fresenius Medical Care
 Fresh
 Frid-Car
 Fridolin
-Friedl és Varga
+Friedl Ã©s Varga
 Friedmann
 Friedrich
 Frigidoor
 Frigo
 Frigo-Partner
-Frigória
+FrigÃ³ria
 Frigyes
 Friss
 Fritz
 Friz
 Frizura
-Fröhlich
+FrÃ¶hlich
 Front
 Frutta
 Fruzsi
-Fúzió
-Független
-Füle
-Fülemüle
-Füles
-Fülöp
-Fülöpné
-Fürdõ
-Fürdõszoba
-Füred
-Füredi
-Füves
-Füzes
-Fûrészüzem
-Fûszer Csemege
-Fûtéstechnikai
-Fûtõker
-Fûtõmû
-Fûvészkert
-Fûzfa
-Fûzfõ-Terv
+FÃºziÃ³
+FÃ¼ggetlen
+FÃ¼le
+FÃ¼lemÃ¼le
+FÃ¼les
+FÃ¼lÃ¶p
+FÃ¼lÃ¶pnÃ©
+FÃ¼rdÅ‘
+FÃ¼rdÅ‘szoba
+FÃ¼red
+FÃ¼redi
+FÃ¼ves
+FÃ¼zes
+FÅ±rÃ©szÃ¼zem
+FÅ±szer Csemege
+FÅ±tÃ©stechnikai
+FÅ±tÅ‘ker
+FÅ±tÅ‘mÅ±
+FÅ±vÃ©szkert
+FÅ±zfa
+FÅ±zfÅ‘-Terv
 Fuga
 Fuji
 Fuli
 Full
 Full Contact
-Full-Extrém
+Full-ExtrÃ©m
 Fun
 Fundament
 Fundamenta
 Fundamentum
 Fundus
-Funkció
+FunkciÃ³
 Funny
-Furák
+FurÃ¡k
 Furgon
 Furik
-Futár
-Futó
+FutÃ¡r
+FutÃ³
 Futur
 Futura
 Future
 Futureal
 Fuvar
-Fuvarozó
+FuvarozÃ³
 Fux
 G
 G & B
@@ -3928,21 +3928,21 @@ G + M
 G + T
 G and A
 G and G
-G és A
-G és G
+G Ã©s A
+G Ã©s G
 G+G
 G+M
 G+S
 G-Art
 G-Bau
 G.
-G. Á. L.
+G. Ã. L.
 G. S.
 G. Terv
 G. Y. T.
 GAMESZ
-GAMESZ Ellátó Szervezet
-GAMESZ Gazdasági-Mûszaki Ellátó Szervezet
+GAMESZ EllÃ¡tÃ³ Szervezet
+GAMESZ GazdasÃ¡gi-MÅ±szaki EllÃ¡tÃ³ Szervezet
 GATE
 GDP
 GENESIS
@@ -3952,7 +3952,7 @@ GG
 GH
 GIG
 GM
-GM Üvegezõk
+GM ÃœvegezÅ‘k
 GMA
 GMAC
 GMF
@@ -3970,54 +3970,54 @@ GTO-M
 GTS
 GYITOSZ
 Ga-Kamin
-Gá-La
-Gábor
-Gábor Dénes Fõiskola
-Gáborfer
-Gábos
-Gábriel
-Gábris
-Gács
-Gál
-Gál Fakereskedés
-Gál-Trans
-Gála
-Gálffy
-Gáll
-Gárdonyi
-Gárdonyi Géza
-Gárdos
-Gárdos és Gárdos
-Gáspár
-Gáti
-Gáz
-Gáz- és Olajszállító
-Gázcentrum
-Gázcseretelep
-Gázipari
-Gázkészülék
-Gázkészülék és Alkatrész
-Gázmester
-Gázmûvek
-Gázszer
-Gázszerviz
-Gázszolgáltató
-Gaál
+GÃ¡-La
+GÃ¡bor
+GÃ¡bor DÃ©nes FÅ‘iskola
+GÃ¡borfer
+GÃ¡bos
+GÃ¡briel
+GÃ¡bris
+GÃ¡cs
+GÃ¡l
+GÃ¡l FakereskedÃ©s
+GÃ¡l-Trans
+GÃ¡la
+GÃ¡lffy
+GÃ¡ll
+GÃ¡rdonyi
+GÃ¡rdonyi GÃ©za
+GÃ¡rdos
+GÃ¡rdos Ã©s GÃ¡rdos
+GÃ¡spÃ¡r
+GÃ¡ti
+GÃ¡z
+GÃ¡z- Ã©s OlajszÃ¡llÃ­tÃ³
+GÃ¡zcentrum
+GÃ¡zcseretelep
+GÃ¡zipari
+GÃ¡zkÃ©szÃ¼lÃ©k
+GÃ¡zkÃ©szÃ¼lÃ©k Ã©s AlkatrÃ©sz
+GÃ¡zmester
+GÃ¡zmÅ±vek
+GÃ¡zszer
+GÃ¡zszerviz
+GÃ¡zszolgÃ¡ltatÃ³
+GaÃ¡l
 Gabardine
 Gabbiano
 Gabella
 Gabi
-Gabján
+GabjÃ¡n
 Gabo
 Gabona
 Gabonaforgalmi
-Gabonaforgalmi és Malomipari
-Gabonatermesztési Kutató
+Gabonaforgalmi Ã©s Malomipari
+GabonatermesztÃ©si KutatÃ³
 Gabriel
 Gabriella
 Gabula
 Gaia
-Gajdár
+GajdÃ¡r
 Gal-Ko
 Gala
 Galaktika
@@ -4031,50 +4031,50 @@ Galaxy
 Galaxy Fitness
 Galban
 Galdele
-Galéria
+GalÃ©ria
 Galenus
 Galga
-Galgóczi
+GalgÃ³czi
 Gali
 Galilei
 Gall
 Galla
-Galóca
-Galván
-Galvanizáló
-Galvanizáló és Felületkezelõ
+GalÃ³ca
+GalvÃ¡n
+GalvanizÃ¡lÃ³
+GalvanizÃ¡lÃ³ Ã©s FelÃ¼letkezelÅ‘
 Gama
 Gamax
 Gambro
 Gamesz
 Gamma
 Gammel
-Gandalf Rendszerház
+Gandalf RendszerhÃ¡z
 Gang
-Ganz Acélszerkezet
+Ganz AcÃ©lszerkezet
 Ganz Danubius
-Ganz Gépgyár
+Ganz GÃ©pgyÃ¡r
 Ganzler
 Gara
-Garádics
-Garázs
-Garázskapu
-Garabonciás
+GarÃ¡dics
+GarÃ¡zs
+GarÃ¡zskapu
+GarabonciÃ¡s
 Garafarm
 Garage
 Garai
 Garami
-Garamvölgyiné
+GaramvÃ¶lgyinÃ©
 Garancia
 Garancsi
 Garas
 Garay
 Garbo
-Garbó
-Garbóczi
+GarbÃ³
+GarbÃ³czi
 Garda
-Gardénia
-Gardénia Függöny
+GardÃ©nia
+GardÃ©nia FÃ¼ggÃ¶ny
 Garden
 Gardinia
 Garmond
@@ -4082,11 +4082,11 @@ Garten
 Garuda
 Garzo
 Garzon
-Garzon Irodabútor
-Garzon-Hús
+Garzon IrodabÃºtor
+Garzon-HÃºs
 Gas
 Gas-Oils
-Gaskó
+GaskÃ³
 Gasparics
 Gast
 Gaston
@@ -4094,7 +4094,7 @@ Gastrade
 Gastro
 Gastron
 Gasztroker
-Gasztronómia
+GasztronÃ³mia
 Gatex
 Gatter
 Gatti
@@ -4104,65 +4104,65 @@ Gaudium
 Gauss
 Gaut
 Gazda
-Gazdálkodók Szövetkezete
-Gazdász
+GazdÃ¡lkodÃ³k SzÃ¶vetkezete
+GazdÃ¡sz
 Gazdabolt
-Gazdagréti
-Gazdaház
-Gazdakör
-Gazdasági
-Gazdasági Ellátó Szervezet
-Gazdasági-Mûszaki Ellátó Szervezet
-Gazdaszövetkezet
+GazdagrÃ©ti
+GazdahÃ¡z
+GazdakÃ¶r
+GazdasÃ¡gi
+GazdasÃ¡gi EllÃ¡tÃ³ Szervezet
+GazdasÃ¡gi-MÅ±szaki EllÃ¡tÃ³ Szervezet
+GazdaszÃ¶vetkezet
 Gazdi
 Gazella
 Ge-Ko
-Géczi
-Gég
-Géma
-Gémes
-Gémeskút
-Génius
-Géniusz
-Gépász
-Gépész
-Gépjármûjavító
-Gépjármûszakértõ
-Gépjármûvezetõ-Képzõ Munkaközösség
-Gépjavító
-Gépker
-Gépkölcsönzõ
-Gépszer
-Gésa
+GÃ©czi
+GÃ©g
+GÃ©ma
+GÃ©mes
+GÃ©meskÃºt
+GÃ©nius
+GÃ©niusz
+GÃ©pÃ¡sz
+GÃ©pÃ©sz
+GÃ©pjÃ¡rmÅ±javÃ­tÃ³
+GÃ©pjÃ¡rmÅ±szakÃ©rtÅ‘
+GÃ©pjÃ¡rmÅ±vezetÅ‘-KÃ©pzÅ‘ MunkakÃ¶zÃ¶ssÃ©g
+GÃ©pjavÃ­tÃ³
+GÃ©pker
+GÃ©pkÃ¶lcsÃ¶nzÅ‘
+GÃ©pszer
+GÃ©sa
 Gebotech
 Gecse
 Gecze
 Gedai
 Gedeon
-Geers Hallókészülék
+Geers HallÃ³kÃ©szÃ¼lÃ©k
 Geiger
 Geizer
-Gejzír
+GejzÃ­r
 Geko
-Gelencsér
+GelencsÃ©r
 Geli
 Gelka
-Gellér
-Gellért
+GellÃ©r
+GellÃ©rt
 Gemba
 Gemini
 Gemma
 Gencsi
-Generál
-Generálbau
-Generátor
+GenerÃ¡l
+GenerÃ¡lbau
+GenerÃ¡tor
 General
 Generalbau
 Generalwest
 Genesis
 Genius
 Genova
-Genplán
+GenplÃ¡n
 Gentervill
 Gentil
 Gentlemen
@@ -4171,38 +4171,38 @@ Geo-Injekt
 Geochip
 Geoconsult
 Geod
-Geodép
-Geodézia
-Geodézia és Térképészeti
-Geodéziai és Térképészeti
+GeodÃ©p
+GeodÃ©zia
+GeodÃ©zia Ã©s TÃ©rkÃ©pÃ©szeti
+GeodÃ©ziai Ã©s TÃ©rkÃ©pÃ©szeti
 Geofizikai
 Geoinform
-Geomédia
+GeomÃ©dia
 Geometer
 Geonet
-Geoplán
+GeoplÃ¡n
 Georg
 Georgikon
 Georgina
 Geotechnika
 Geoterv
 Geotop
-Geotorr Szolgáltatások
+Geotorr SzolgÃ¡ltatÃ¡sok
 Geoview Systems
-Gepárd
+GepÃ¡rd
 Geppetto
 Ger-Ker
 Gera
 Gerber
 Gere
 Gerecse
-Gerencsér
-Gerendás
+GerencsÃ©r
+GerendÃ¡s
 Gergely
-Germán
-Gerner Autóügynökség
-Gerõ
-Gerõcs Kerámia
+GermÃ¡n
+Gerner AutÃ³Ã¼gynÃ¶ksÃ©g
+GerÅ‘
+GerÅ‘cs KerÃ¡mia
 Gerosa
 Gerse
 GeryCo
@@ -4211,8 +4211,8 @@ Gestor
 Geszler
 Gesztelyi
 Gesztenye
-Gesztenyés
-Gesztenyés Kastély
+GesztenyÃ©s
+GesztenyÃ©s KastÃ©ly
 Gesztor
 Gevi
 Giacomelli
@@ -4225,7 +4225,7 @@ Gilbert
 Gilde
 Gima
 Gimesi
-Gimnázium
+GimnÃ¡zium
 Gina
 Gipsz Trend
 Gira
@@ -4237,13 +4237,13 @@ Giulio
 Gizella
 Glamour
 Glass
-Gléda
+GlÃ©da
 Glemba
-Glóbus
-Glóbusz
-Glória
+GlÃ³bus
+GlÃ³busz
+GlÃ³ria
 Glob
-Globál
+GlobÃ¡l
 Global
 Global 900
 Globalex
@@ -4254,42 +4254,42 @@ Globus
 Glorex
 Go
 Go-Car
-Góbé
-Gódi
-Gódor
-Gól
-Góliát
-Gólya
-Gólya Bizi
-Gólyafészek
-Gólyahír
-Gótika
-Göcsej
-Gödöllõ
-Gödör
-Gömb
-Gönci
-Göncöl
-Göncz
-Göncz Csapágy
-Gönczi
-Gönczy
-Görbe
-Gördülõ
-Görög
-Görög Katolikus Egyházközség
-Görögkatolikus Egyház
-Gösser
-Götz
-Götz-Babagyár
-Gõzerõ
+GÃ³bÃ©
+GÃ³di
+GÃ³dor
+GÃ³l
+GÃ³liÃ¡t
+GÃ³lya
+GÃ³lya Bizi
+GÃ³lyafÃ©szek
+GÃ³lyahÃ­r
+GÃ³tika
+GÃ¶csej
+GÃ¶dÃ¶llÅ‘
+GÃ¶dÃ¶r
+GÃ¶mb
+GÃ¶nci
+GÃ¶ncÃ¶l
+GÃ¶ncz
+GÃ¶ncz CsapÃ¡gy
+GÃ¶nczi
+GÃ¶nczy
+GÃ¶rbe
+GÃ¶rdÃ¼lÅ‘
+GÃ¶rÃ¶g
+GÃ¶rÃ¶g Katolikus EgyhÃ¡zkÃ¶zsÃ©g
+GÃ¶rÃ¶gkatolikus EgyhÃ¡z
+GÃ¶sser
+GÃ¶tz
+GÃ¶tz-BabagyÃ¡r
+GÅ‘zerÅ‘
 Gobelin
 Goda
-Godagáz
-Godó
+GodagÃ¡z
+GodÃ³
 Gold
 Gold Sun
-Gold Sun Szolárium
+Gold Sun SzolÃ¡rium
 Gold-Active
 Gold-Mix
 Gold-Typo
@@ -4311,17 +4311,17 @@ Golf
 Golub
 Gomb
 Gomba
-Gombás
-Gombkötõ
+GombÃ¡s
+GombkÃ¶tÅ‘
 Gombos
 Gondola
-Gondoldó
-Gondos Mintakészítõ
-Gondoskodás
-Gondozási
-Gondozási Központok
-Gondûzõ
-Gondviselés
+GondoldÃ³
+Gondos MintakÃ©szÃ­tÅ‘
+GondoskodÃ¡s
+GondozÃ¡si
+GondozÃ¡si KÃ¶zpontok
+GondÅ±zÅ‘
+GondviselÃ©s
 Good
 Goodwill
 Gordius
@@ -4329,19 +4329,19 @@ Gordiusholding
 Gordiusz
 Gordon
 Gosztonyi
-Gothárd
+GothÃ¡rd
 Gottwald
 Gourmand
 Gra-Fitt
-Grácia
-Grácia Fodrász
-Grádusz
-Gráf
-Gráff
-Gránátalma
-Gránit
-Gránum Befektetõ
-Grátisz
+GrÃ¡cia
+GrÃ¡cia FodrÃ¡sz
+GrÃ¡dusz
+GrÃ¡f
+GrÃ¡ff
+GrÃ¡nÃ¡talma
+GrÃ¡nit
+GrÃ¡num BefektetÅ‘
+GrÃ¡tisz
 Grace
 Gradus
 Graf
@@ -4352,7 +4352,7 @@ Grafikai
 Grafimat
 Grafit
 Grafker
-Grafológiai
+GrafolÃ³giai
 Gramer
 Gramex
 Grand
@@ -4360,10 +4360,10 @@ Grand-Vill
 Grant
 Graphic
 Graphix
-Gravír
-Gravitáció
-Gravitál
-Gréta
+GravÃ­r
+GravitÃ¡ciÃ³
+GravitÃ¡l
+GrÃ©ta
 Greco
 Green
 Green Home
@@ -4377,114 +4377,114 @@ Griff
 Griffo
 Grill
 Grip
-Gróf
-Grót
+GrÃ³f
+GrÃ³t
 Grohe
 Grotta
-Grünewald
-Grünport
+GrÃ¼newald
+GrÃ¼nport
 Gruber
 Grund
 Grundfos
 Gt
-Gúla
+GÃºla
 Gubacs
 Gubek
 Guest
 Gulf Technika
-Gulipán
+GulipÃ¡n
 Gulliver
 Gulya
-Gulyás
-Gulyás-Gumi
+GulyÃ¡s
+GulyÃ¡s-Gumi
 Gumi
 Gumiabroncs
 Gumicentrum
 Gumidiszkont
-Gumiérd
+GumiÃ©rd
 Gumiipari
 Gumiker
-Gumiszervíz
+GumiszervÃ­z
 Gumitrade
 Gura
 Gurken
 Guszti
 Gutenberg
 Guti
-Gyámhivatal
-Gyárfás
+GyÃ¡mhivatal
+GyÃ¡rfÃ¡s
 Gyalu
-Gyapjúmosó
+GyapjÃºmosÃ³
 Gyarmat
 Gyarmati
-Gyémánt
+GyÃ©mÃ¡nt
 Gyekis
 Gyenis
-Gyermek Rehabilitációs
-Gyermek és Ifjúsági
-Gyermek és Ifjúságvédõ
-Gyermek- és Ifjúságvédõ
-Gyermekélelmezési
-Gyermekeinkért
+Gyermek RehabilitÃ¡ciÃ³s
+Gyermek Ã©s IfjÃºsÃ¡gi
+Gyermek Ã©s IfjÃºsÃ¡gvÃ©dÅ‘
+Gyermek- Ã©s IfjÃºsÃ¡gvÃ©dÅ‘
+GyermekÃ©lelmezÃ©si
+GyermekeinkÃ©rt
 Gyermekek
-Gyermekfalu Hálózat
-Gyermekjóléti
-Gyermekjóléti és Családsegítõ
+Gyermekfalu HÃ¡lÃ³zat
+GyermekjÃ³lÃ©ti
+GyermekjÃ³lÃ©ti Ã©s CsalÃ¡dsegÃ­tÅ‘
 Gyermekorvosi
 Gyermekotthon
-Gyermekotthonok Igazgatósága
-Gyermektábor
-Gyermekvédelmi
-Gyermekvédelmi Szakszolgálat és Gyermekotthon
-Gyermekvilág
+Gyermekotthonok IgazgatÃ³sÃ¡ga
+GyermektÃ¡bor
+GyermekvÃ©delmi
+GyermekvÃ©delmi SzakszolgÃ¡lat Ã©s Gyermekotthon
+GyermekvilÃ¡g
 Gyermely
 Gyermelyi
-Gyertyaláng Kegyeleti
+GyertyalÃ¡ng Kegyeleti
 Gyimes
 Gyimesi
-Gyógyászati Segédeszköz
-Gyógyászati Segédeszközök
-Gyógyfürdõ
-Gyógygödör
-Gyógyír
-Gyógyítás
-Gyógynövény
-Gyógyszerészeti
-Gyógyszerkutató
-Gyógyszertár
-Gyökér
-Gyömrõ és Térsége Víziközmû
-Gyöngy
-Gyöngyép
-Gyöngyház
-Gyöngyös
-Gyöngyösi
-Gyöngyszem
-Gyöngyvirág
-Györe
-György
-Györgyi
-Györgyike
-Györkei
-Györök
-Gyõr
-Gyõr Plaza
-Gyõr-Sopron-Ebenfurti Vasút GYSEV
-Gyõrffy
-Gyõrfi
-Gyõri
+GyÃ³gyÃ¡szati SegÃ©deszkÃ¶z
+GyÃ³gyÃ¡szati SegÃ©deszkÃ¶zÃ¶k
+GyÃ³gyfÃ¼rdÅ‘
+GyÃ³gygÃ¶dÃ¶r
+GyÃ³gyÃ­r
+GyÃ³gyÃ­tÃ¡s
+GyÃ³gynÃ¶vÃ©ny
+GyÃ³gyszerÃ©szeti
+GyÃ³gyszerkutatÃ³
+GyÃ³gyszertÃ¡r
+GyÃ¶kÃ©r
+GyÃ¶mrÅ‘ Ã©s TÃ©rsÃ©ge VÃ­zikÃ¶zmÅ±
+GyÃ¶ngy
+GyÃ¶ngyÃ©p
+GyÃ¶ngyhÃ¡z
+GyÃ¶ngyÃ¶s
+GyÃ¶ngyÃ¶si
+GyÃ¶ngyszem
+GyÃ¶ngyvirÃ¡g
+GyÃ¶re
+GyÃ¶rgy
+GyÃ¶rgyi
+GyÃ¶rgyike
+GyÃ¶rkei
+GyÃ¶rÃ¶k
+GyÅ‘r
+GyÅ‘r Plaza
+GyÅ‘r-Sopron-Ebenfurti VasÃºt GYSEV
+GyÅ‘rffy
+GyÅ‘rfi
+GyÅ‘ri
 Gyolai
-Gyopár
+GyopÃ¡r
 Gyors
-Gyorsszolgálat
+GyorsszolgÃ¡lat
 Gyta
-Gyülvészi
-Gyüre
+GyÃ¼lvÃ©szi
+GyÃ¼re
 Gyula
 Gyulai
 Gyulassy
 Gyuricza
-Gyurkó
+GyurkÃ³
 Gyurkovics
 Gyurtex
 H
@@ -4496,17 +4496,17 @@ H + H Komplex
 H + S
 H and B
 H and H
-H és H
-H és L
-H és M
-H és P
-H és T
+H Ã©s H
+H Ã©s L
+H Ã©s M
+H Ã©s P
+H Ã©s T
 H+B
 H-Design
 H-Elektroship
-H-Kósza
+H-KÃ³sza
 H-Komplex
-H-Wéber
+H-WÃ©ber
 H. B.
 H. B. T.
 H. L.
@@ -4514,7 +4514,7 @@ H. N. A.
 H. T.
 H. Trotinetta
 H1
-HÁZ
+HÃZ
 HB
 HBB
 HBC
@@ -4532,120 +4532,120 @@ HF
 HFH
 HG
 HGR
-HÍD-COOP
+HÃD-COOP
 HM
 HM EI Logisztikai
-HM Honvéd
-HM Honvéd Kultúrális
+HM HonvÃ©d
+HM HonvÃ©d KultÃºrÃ¡lis
 HMB
 HMK
 HNH
 HNK
 HO GO
 HOFFMANN
-HORVÁTH
+HORVÃTH
 HP
 HQ
-HQD és Menedzsment
+HQD Ã©s Menedzsment
 HR
 HRC
 HS
 HSI
-HT és HP
+HT Ã©s HP
 HTM
 HTS
-HUNÉP Universal
+HUNÃ‰P Universal
 HVB
 HVG
 HVH
 Ha-Ho
-Háber
-Háló
-Hálózat
-Hámor
-Hámori
-Hápi-Duó
-Hári
-Három Híd
-Három-T
-Háromkõ
-Háromszög
-Háros
-Hárs
-Hársfa
-Háry
-Hász
-Háttér
-Ház
-Ház-Váz
-Házépítõk
-Házi
-Házi Piros Paprika
-Háziipari
-Háziorvosi
-Háztáji Baromfi
-Háztartási
-Háztartási Gépjavító
-Háztartásigép
-Háztartástechnika
+HÃ¡ber
+HÃ¡lÃ³
+HÃ¡lÃ³zat
+HÃ¡mor
+HÃ¡mori
+HÃ¡pi-DuÃ³
+HÃ¡ri
+HÃ¡rom HÃ­d
+HÃ¡rom-T
+HÃ¡romkÅ‘
+HÃ¡romszÃ¶g
+HÃ¡ros
+HÃ¡rs
+HÃ¡rsfa
+HÃ¡ry
+HÃ¡sz
+HÃ¡ttÃ©r
+HÃ¡z
+HÃ¡z-VÃ¡z
+HÃ¡zÃ©pÃ­tÅ‘k
+HÃ¡zi
+HÃ¡zi Piros Paprika
+HÃ¡ziipari
+HÃ¡ziorvosi
+HÃ¡ztÃ¡ji Baromfi
+HÃ¡ztartÃ¡si
+HÃ¡ztartÃ¡si GÃ©pjavÃ­tÃ³
+HÃ¡ztartÃ¡sigÃ©p
+HÃ¡ztartÃ¡stechnika
 Haas
 Habi
-Habilitációs
+HabilitÃ¡ciÃ³s
 Habitat
-Hableány
+HableÃ¡ny
 Habos
 Habselyem
 Hacker
-Hadházi
-Hadkiegészítõ Parancsnokság
+HadhÃ¡zi
+HadkiegÃ©szÃ­tÅ‘ ParancsnoksÃ¡g
 Hadrianus
 Haffner
 Hager
 Hahn
 Hajas
 Hajdu
-Hajdú
-Hajdú Volán
-Hajdú-Glass
-Hajdú-Papír
-Hajdúsági
-Hajdúsági Sütödék
-Hajdútourist
-Hajlék
-Hajléktalanok
+HajdÃº
+HajdÃº VolÃ¡n
+HajdÃº-Glass
+HajdÃº-PapÃ­r
+HajdÃºsÃ¡gi
+HajdÃºsÃ¡gi SÃ¼tÃ¶dÃ©k
+HajdÃºtourist
+HajlÃ©k
+HajlÃ©ktalanok
 Hajnal
 Hajnalka
-Hajós
-Hajtós
+HajÃ³s
+HajtÃ³s
 Hajzer
 Haker
 Hal
-Halász
-Halászati
-Halászcsárda
-Halászkert
-Halásztanya
-Haladás
-Haladás-Coop
+HalÃ¡sz
+HalÃ¡szati
+HalÃ¡szcsÃ¡rda
+HalÃ¡szkert
+HalÃ¡sztanya
+HaladÃ¡s
+HaladÃ¡s-Coop
 Halas
 Halasi
 Halbo mce
 Halbolt
-Halértékesítõ
-Halgazdaság
-Halihó
-Hallássérültek Országos
+HalÃ©rtÃ©kesÃ­tÅ‘
+HalgazdasÃ¡g
+HalihÃ³
+HallÃ¡ssÃ©rÃ¼ltek OrszÃ¡gos
 Haller
-Halló
+HallÃ³
 Halmai
 Halmi
 Halmos
-Halmosi és Jenei
+Halmosi Ã©s Jenei
 Hamar
 Hamburger
 Hami
 Hammer
-Hanák
+HanÃ¡k
 Hand
 Hand In Hand
 Handel
@@ -4654,8 +4654,8 @@ Handschuh
 Hanex
 Hang
 Hanga
-Hangácsi
-Hangszóró
+HangÃ¡csi
+HangszÃ³rÃ³
 Hangulat
 Hangya
 Hanicon
@@ -4663,7 +4663,7 @@ Hanker
 Hanna
 Hanoi
 Hansa
-Hanság
+HansÃ¡g
 Hantos
 Hanza
 Happy
@@ -4671,8 +4671,8 @@ Happy Crew Company
 Happy Home
 Happy-Dent
 Harangi
-Harangláb
-Harangozó
+HaranglÃ¡b
+HarangozÃ³
 Haraszti
 Harasztosi Gabona
 Harcsa
@@ -4690,68 +4690,68 @@ Harley-Davidson
 Harmat
 Harmath
 Harmatpont
-Harmónia
+HarmÃ³nia
 Harmonia
 Harnos
 Harrer
 Harris
-Harsányi
+HarsÃ¡nyi
 Hart
 Hartel
 Hartmann
 Hartmann-Rico
-Használt
-Használtcikk
-Használtruha
+HasznÃ¡lt
+HasznÃ¡ltcikk
+HasznÃ¡ltruha
 Hat
-Határ
-Határ-T
-Határcsárda
-Határkõ
-Határkõ-Rent
-Határõr
+HatÃ¡r
+HatÃ¡r-T
+HatÃ¡rcsÃ¡rda
+HatÃ¡rkÅ‘
+HatÃ¡rkÅ‘-Rent
+HatÃ¡rÅ‘r
 Hatos
-Hattyú
+HattyÃº
 Hatvani
 Hauk
 Hauraton
-Havária
-Havancsák
+HavÃ¡ria
+HavancsÃ¡k
 Havanna
 Havas
 Havasi
 Havilah
 Hawk
 He-Ma
-Hé-Mi
-Héliosz
-Hélium
-Hélix
-Héra
-Hérics Neon
-Hét Vezér
-Hétforrás
-Hétforrás Füszért
-Hétmérföld
-Hétszínvirág
-Hétvezér-Étterem
-Hév
-Hévíz
-Hévizi
-Hegedüs
-Hegedûs
+HÃ©-Mi
+HÃ©liosz
+HÃ©lium
+HÃ©lix
+HÃ©ra
+HÃ©rics Neon
+HÃ©t VezÃ©r
+HÃ©tforrÃ¡s
+HÃ©tforrÃ¡s FÃ¼szÃ©rt
+HÃ©tmÃ©rfÃ¶ld
+HÃ©tszÃ­nvirÃ¡g
+HÃ©tvezÃ©r-Ã‰tterem
+HÃ©v
+HÃ©vÃ­z
+HÃ©vizi
+HegedÃ¼s
+HegedÅ±s
 Hegesz-Tech
-Hegesztéstechnikai
+HegesztÃ©stechnikai
 Hegyalja
 Hegyesi
 Hegyi
 Hegyisport
-Hegyközség
-Hegyvidék
+HegykÃ¶zsÃ©g
+HegyvidÃ©k
 Heim
 Hekra
 Hekrund
-Helén
+HelÃ©n
 Heli
 Helianthus
 Helikon
@@ -4763,9 +4763,9 @@ Heller
 Hello
 Help
 Heltai
-Helvécia
-Helyiipari és Városgazdasági Dolgozók Szakszervezete
-Helyközi Távközlési
+HelvÃ©cia
+Helyiipari Ã©s VÃ¡rosgazdasÃ¡gi DolgozÃ³k Szakszervezete
+HelykÃ¶zi TÃ¡vkÃ¶zlÃ©si
 Hemex
 Hemorex
 Henelit
@@ -4776,26 +4776,26 @@ Henter
 Henzer
 Hepa
 Herba
-Herbály
-Herbária
-Herbária Gyógynövény
-Herbária Gyógynövényfeldolgozó
+HerbÃ¡ly
+HerbÃ¡ria
+HerbÃ¡ria GyÃ³gynÃ¶vÃ©ny
+HerbÃ¡ria GyÃ³gynÃ¶vÃ©nyfeldolgozÃ³
 Herceg
-Herceghalmi Kisérleti Gazdaság
+Herceghalmi KisÃ©rleti GazdasÃ¡g
 Hercules
 Herczeg
 Herczog
-Herédi
+HerÃ©di
 Hering
 Herke
 Herkules
-Hermán
+HermÃ¡n
 Hermann
-Hermész
+HermÃ©sz
 Hermes
-Hernád
-Hernádi
-Hernádvölgyi
+HernÃ¡d
+HernÃ¡di
+HernÃ¡dvÃ¶lgyi
 Herold
 Herta
 Herter
@@ -4803,50 +4803,50 @@ Hertz
 Herz
 Hess
 Hesztia
-Hetényi
+HetÃ©nyi
 Hetech Trend
 Hetes
 Heti
-Heti Válasz
-Heuréka
+Heti VÃ¡lasz
+HeurÃ©ka
 Heva
 Hevesi
 Hex
 Hexa
 Hexagon
 Hexe
-Híd
-Hír
-Hír-Ker
-Híradástechnika
-Híradástechnikai
-Hírfa
-Hírforrás
-Hírközlési Felügyelet
-Hírmadár
-Hírös
-Hírös Piért
-Hírpack
-Hírvilág
+HÃ­d
+HÃ­r
+HÃ­r-Ker
+HÃ­radÃ¡stechnika
+HÃ­radÃ¡stechnikai
+HÃ­rfa
+HÃ­rforrÃ¡s
+HÃ­rkÃ¶zlÃ©si FelÃ¼gyelet
+HÃ­rmadÃ¡r
+HÃ­rÃ¶s
+HÃ­rÃ¶s PiÃ©rt
+HÃ­rpack
+HÃ­rvilÃ¡g
 Hidas
 Hidasi
 Hidegkonyha
-Hidegkúti
+HidegkÃºti
 Hidi
 Hidra
 Hidraulika
 Hidro
 Hidro Grafika
 Hidro-Elem
-Hidrokultúra
+HidrokultÃºra
 Hidroszer
 Hidroterv
-Hidvégi
+HidvÃ©gi
 Hieroglif
 High
 High-Tech
-Higiénia
-Hikádi
+HigiÃ©nia
+HikÃ¡di
 Hil
 Hilcz
 Hiller
@@ -4856,35 +4856,35 @@ Hipako
 Hipp
 Hippokrates
 Hir-Boy
-Hirdetõ
+HirdetÅ‘
 Hirsch
-História
-História Kert
+HistÃ³ria
+HistÃ³ria Kert
 Hisztor Szakipari
-Hit Gyülekezete
+Hit GyÃ¼lekezete
 Hitec
 Hiteles
 Hits
-Hivatásos Önkormányzati Tûzoltóság
+HivatÃ¡sos Ã–nkormÃ¡nyzati TÅ±zoltÃ³sÃ¡g
 Ho-Go
 Ho-Ka
 Ho-Va
-Hóbagoly
-Hód
-Hódi
-Hódossy
-Hódút
-Hófehérke
-Hókristály
-Hóman
-Hórusz
-Hóvirág
-Hõforrás
-Hõszer
-Hõszig
-Hõszolgáltató
-Hõtechnika
-Hõtransz
+HÃ³bagoly
+HÃ³d
+HÃ³di
+HÃ³dossy
+HÃ³dÃºt
+HÃ³fehÃ©rke
+HÃ³kristÃ¡ly
+HÃ³man
+HÃ³rusz
+HÃ³virÃ¡g
+HÅ‘forrÃ¡s
+HÅ‘szer
+HÅ‘szig
+HÅ‘szolgÃ¡ltatÃ³
+HÅ‘technika
+HÅ‘transz
 Hoang
 Hobbi
 Hobby
@@ -4897,10 +4897,10 @@ Hofi
 Hofmann
 Holczer
 Hold
-Hold-Metál
+Hold-MetÃ¡l
 Holden
 Holdex
-Holdfény
+HoldfÃ©ny
 Holes
 Holiday
 Holimed
@@ -4911,14 +4911,14 @@ Holker
 Holland
 Holland Alma
 Hollik
-Holló
-Hollóházi Porcelángyár
-Hollós
-Hollósi
-Hollósy
+HollÃ³
+HollÃ³hÃ¡zi PorcelÃ¡ngyÃ¡r
+HollÃ³s
+HollÃ³si
+HollÃ³sy
 Hollywood
 Holnap
-Hombár
+HombÃ¡r
 Home
 Home-Made
 Home-Med
@@ -4935,21 +4935,21 @@ Honett
 Hong-Kong
 Honi
 Honti
-Hontvári
-Honvéd
-Honvédség
+HontvÃ¡ri
+HonvÃ©d
+HonvÃ©dsÃ©g
 Hopeful
-Hoppál
+HoppÃ¡l
 Hor
 Hor-Span
-Hordó
-Hordós
+HordÃ³
+HordÃ³s
 Horetten
 Horex
-Horgász
-Horgászbolt
-Horgászcikk
-Horgásztanya
+HorgÃ¡sz
+HorgÃ¡szbolt
+HorgÃ¡szcikk
+HorgÃ¡sztanya
 Hori
 Horizon
 Horizont
@@ -4957,60 +4957,60 @@ Horker
 Horn
 Hornimpex
 Hornung
-Hornyák
+HornyÃ¡k
 Horog
-Hortobágy
-Hortobágy Természetvédelmi
-Hortobágyi
-Hortobágyi Nemzeti
+HortobÃ¡gy
+HortobÃ¡gy TermÃ©szetvÃ©delmi
+HortobÃ¡gyi
+HortobÃ¡gyi Nemzeti
 Horva
-Horvát
-Horváth
-Horváth Ferenc
-Horváth Gumi
-Horváth József
-Horváth és Horváth
-Horváthné Lévay Anna
+HorvÃ¡t
+HorvÃ¡th
+HorvÃ¡th Ferenc
+HorvÃ¡th Gumi
+HorvÃ¡th JÃ³zsef
+HorvÃ¡th Ã©s HorvÃ¡th
+HorvÃ¡thnÃ© LÃ©vay Anna
 HospNet
 Hospi
-Hosszú
+HosszÃº
 Hostess
 Hotel
 Hotel Balaton
-Hotel Európa
+Hotel EurÃ³pa
 Hotel Fortuna
 Hotel Garden
 Hotel Gloria
 Hotel Korona
-Hotel Kristály
+Hotel KristÃ¡ly
 Hotel Maroni
-Hotel Napfény
-Hotel Panoráma
+Hotel NapfÃ©ny
+Hotel PanorÃ¡ma
 Hotel Piroska
 Hotel Queen Mary
 Hotel Tisza
 Hotel Villa Rosa
 Hozam
 Htsart
-Hús
-Hús- és Hentesáru
-Húsáruház
-Húsáruházak
-Húsbolt
-Húscentrum
-Húscsarnok
-Húsfeldolgozó
-Húsipari
-Húskombinát
-Húsüzem
-Hünnebeck
-Hüse
-Hüsi
-Hûtõ
-Hûtõ-Klíma
-Hûtõház
-Hûtõipari
-Hûvösvölgyi
+HÃºs
+HÃºs- Ã©s HentesÃ¡ru
+HÃºsÃ¡ruhÃ¡z
+HÃºsÃ¡ruhÃ¡zak
+HÃºsbolt
+HÃºscentrum
+HÃºscsarnok
+HÃºsfeldolgozÃ³
+HÃºsipari
+HÃºskombinÃ¡t
+HÃºsÃ¼zem
+HÃ¼nnebeck
+HÃ¼se
+HÃ¼si
+HÅ±tÅ‘
+HÅ±tÅ‘-KlÃ­ma
+HÅ±tÅ‘hÃ¡z
+HÅ±tÅ‘ipari
+HÅ±vÃ¶svÃ¶lgyi
 Hua Ling
 Hubai
 Hubay
@@ -5018,13 +5018,13 @@ Huber
 Hubert
 Hubertus
 Hulita
-Hullám
-Humán
-Humán Telex
-Humánum
+HullÃ¡m
+HumÃ¡n
+HumÃ¡n Telex
+HumÃ¡num
 Human
 Human Telex
-Humanitás
+HumanitÃ¡s
 Humanitas
 Humanity
 Hummel
@@ -5033,13 +5033,13 @@ Hun-Bau
 Hun-Ita
 Hunaudit
 Hunder
-Hunép
+HunÃ©p
 Hunex
-Hungária
-Hungária Biztosító
-Hungária Decor
-Hungária Szálloda
-Hungária Szuperinfó
+HungÃ¡ria
+HungÃ¡ria BiztosÃ­tÃ³
+HungÃ¡ria Decor
+HungÃ¡ria SzÃ¡lloda
+HungÃ¡ria SzuperinfÃ³
 Hungarian
 Hungaro
 Hungaro-Diesel
@@ -5051,7 +5051,7 @@ Hungarodeal
 Hungarofer
 Hungarofruct
 Hungaroholding
-Hungaroméh
+HungaromÃ©h
 Hungaronafta
 Hungaropack
 Hungaropro
@@ -5067,29 +5067,29 @@ Huniplast
 Hunivent
 Hunnia
 Hunor
-Hunor Divatkesztyû
-Hunor Sportkesztyû
+Hunor DivatkesztyÅ±
+Hunor SportkesztyÅ±
 Hunorigo
 Huntraco
 Hunyadi
-Hunyadi Mátyás
+Hunyadi MÃ¡tyÃ¡s
 Husqvarna
-Huszár
+HuszÃ¡r
 Huszics
 Huszti
 Hydea
 Hydra
 Hydro
 Hydropont
-Hyundai Autószalon
+Hyundai AutÃ³szalon
 I + G
 I+G
 I. C. A.
 I. C. S.
 I. M. S.
 I. S.
-Ír
-Írókéz
+Ãr
+ÃrÃ³kÃ©z
 IAC
 IBA
 IBC
@@ -5109,8 +5109,8 @@ IFS
 IFT
 IGA
 IGO
-II. Rákóczi Ferenc
-IKR Termelésfejlesztési
+II. RÃ¡kÃ³czi Ferenc
+IKR TermelÃ©sfejlesztÃ©si
 ILS
 IM
 IMC
@@ -5142,27 +5142,27 @@ Icon-H7
 Idea
 Ideal
 Idegenforgalmi
-Ideggondozó
-Idõsek
-Idõsek Gondozó
-Idõsek Gondozóháza
-Idõsek Klubja
-Idõskorúak
-Idõskorúak Szociális
+IdeggondozÃ³
+IdÅ‘sek
+IdÅ‘sek GondozÃ³
+IdÅ‘sek GondozÃ³hÃ¡za
+IdÅ‘sek Klubja
+IdÅ‘skorÃºak
+IdÅ‘skorÃºak SzociÃ¡lis
 Idomok
-Ifj. Malárik
-Ifjúsági
-Ifjúsági Információs
-Ifjúsági Lakásépítõ és Fenntartó
-Ifjúsági Tábor
+Ifj. MalÃ¡rik
+IfjÃºsÃ¡gi
+IfjÃºsÃ¡gi InformÃ¡ciÃ³s
+IfjÃºsÃ¡gi LakÃ¡sÃ©pÃ­tÅ‘ Ã©s FenntartÃ³
+IfjÃºsÃ¡gi TÃ¡bor
 Igaz
-Igazgyöngy
-Igazságügyi Orvosszakértõi
-Igazságügyi Szakértõi
+IgazgyÃ¶ngy
+IgazsÃ¡gÃ¼gyi OrvosszakÃ©rtÅ‘i
+IgazsÃ¡gÃ¼gyi SzakÃ©rtÅ‘i
 Igen
-Ignácz
-Iguána
-Ihász
+IgnÃ¡cz
+IguÃ¡na
+IhÃ¡sz
 Ikarosz
 Ike
 Iker
@@ -5170,17 +5170,17 @@ Iko Production
 Ikon
 Ikrek
 Ikva
-Ilár
-Ildikó
+IlÃ¡r
+IldikÃ³
 Ilex
 Ilka
 Illatszer
-Illés
-Illés és Ádám
-Illyés
+IllÃ©s
+IllÃ©s Ã©s ÃdÃ¡m
+IllyÃ©s
 Ilona
 Ilonka
-Imázs
+ImÃ¡zs
 Image
 Imageset
 Imago
@@ -5198,7 +5198,7 @@ Immowest
 Imola
 Impac
 Impazo-Gold
-Imperiál
+ImperiÃ¡l
 Imperial
 Implom
 Impressio
@@ -5208,13 +5208,13 @@ Imre
 In-Kal
 In-Line
 In-Situ
-Incognitó
+IncognitÃ³
 Ind
 Inda
 Independent
 Index
 Indigo
-Indigó
+IndigÃ³
 Indra
 Inductor
 Industria
@@ -5225,28 +5225,28 @@ Inferno
 Infinity
 Info
 Info-M
-Infó
+InfÃ³
 Infocomp
 Infopark
 Infoplan
 Infoprint
 Inforg
 Inform
-Információs
+InformÃ¡ciÃ³s
 Informatika
 Informatikai
-Infotéka
+InfotÃ©ka
 Infotech
 Infra
-Infra Épületgépész
+Infra Ã‰pÃ¼letgÃ©pÃ©sz
 Infraconsult
 Inga
 Ingatlan
-Ingatlanforgalmazó
-Ingatlankezelõ
-Ingatlanközvetítõ
+IngatlanforgalmazÃ³
+IngatlankezelÅ‘
+IngatlankÃ¶zvetÃ­tÅ‘
 Ingenium
-Iniciál
+IniciÃ¡l
 Inker
 Inkurrencia
 Inner
@@ -5256,42 +5256,42 @@ Innonet
 Innor
 Innosec-B
 Innoterv
-Innováció
+InnovÃ¡ciÃ³
 InnovaSter
 Innovariant
-Innovatív
+InnovatÃ­v
 Innovex
 Inox
 Insert
 Inside
-Installáció
+InstallÃ¡ciÃ³
 Instrument
 Insure
 Intarzia
 Integra
-Integrál
-Integrál-H
-Integrál-M
-Integrátor
+IntegrÃ¡l
+IntegrÃ¡l-H
+IntegrÃ¡l-M
+IntegrÃ¡tor
 Integrate
 Integrity
 Intel
 Intelcom
-Intenzív
+IntenzÃ­v
 Inter
 Inter PC
-Inter Régió
-Inter-Ász
+Inter RÃ©giÃ³
+Inter-Ãsz
 Inter-Ili
 Inter-Immo
 Inter-Produkt
 Inter-Service
 Inter-Tram
 InterWare
-Interág
+InterÃ¡g
 Interag
 Interagro
-Interaktív
+InteraktÃ­v
 Interalfa-Complex
 Interart
 Interat
@@ -5316,10 +5316,10 @@ Interinvest
 Interit-Invest
 Interjet
 Interker
-Interkerám
+InterkerÃ¡m
 Interlift
 Interlog
-Intermédia
+IntermÃ©dia
 Intermed
 Intermobil
 Intermol
@@ -5359,7 +5359,7 @@ Intim
 Intra
 Intram
 Intranszmas
-Invenció
+InvenciÃ³
 Invent
 Inverter
 Invest
@@ -5373,69 +5373,69 @@ Inyenc
 Ipap-Fa
 Iparcikk
 Ipari
-Iparszövetség
+IparszÃ¶vetsÃ©g
 Ipartelep
-Ipartestület
+IpartestÃ¼let
 Ipoly
-Ipoly Erdõ
+Ipoly ErdÅ‘
 Ir-Ma
-Iratmásoló
+IratmÃ¡solÃ³
 Iridium
 Irina
-Iringó
+IringÃ³
 Iris
 Irish
 Irisz
 Irka-Firka
-Irókéz
+IrÃ³kÃ©z
 Irocomp
 Iroda
-Irodagép
-Irodagépjavító
+IrodagÃ©p
+IrodagÃ©pjavÃ­tÃ³
 Irodaker
 Irodatechnika
 Irodatechnikai
 Iron
-Iron-Fém
-Irottkõ
+Iron-FÃ©m
+IrottkÅ‘
 Isako
 Isis
 Iskola
-Iskolák
+IskolÃ¡k
 Iso
 Iso-Coop
 Iso-Focus
 Isola
 Isoplan
 Istenes
-Isteni Gondviselés
+Isteni GondviselÃ©s
 Ister
-István
-István Király
+IstvÃ¡n
+IstvÃ¡n KirÃ¡ly
 Istyu
 Itako
 Ital
 Italdiszkont
 Italia Bella
-Italkereskedõ-Ház
+ItalkereskedÅ‘-HÃ¡z
 Italsped
 Itelligence Hungary
 Ithaka
 Iva
-Iván
+IvÃ¡n
 Ivanics
 Izabell
-Izsák
-Izsó
+IzsÃ¡k
+IzsÃ³
 J
 J & E
 J & J
 J & T
 J + J
-J és A
-J és B
-J és J
-J és V
+J Ã©s A
+J Ã©s B
+J Ã©s J
+J Ã©s V
 J+V
 J. B.
 J. H.
@@ -5447,88 +5447,88 @@ JOKER
 JTP
 JTT
 JVN
-Jáde
-Jáger
-Jági
-Jáki
-Jámbor
-Jánky és Kovács
-János
-Jánosi
-Jánoska
-Járgány
-Jármûalkatrész
-Jász
-Jász-Kar-Ker
-Jászapáti
-Jávorszky
-Jázmin
+JÃ¡de
+JÃ¡ger
+JÃ¡gi
+JÃ¡ki
+JÃ¡mbor
+JÃ¡nky Ã©s KovÃ¡cs
+JÃ¡nos
+JÃ¡nosi
+JÃ¡noska
+JÃ¡rgÃ¡ny
+JÃ¡rmÅ±alkatrÃ©sz
+JÃ¡sz
+JÃ¡sz-Kar-Ker
+JÃ¡szapÃ¡ti
+JÃ¡vorszky
+JÃ¡zmin
 Ja2ger
 Jackpot
 Jade
 Jager
 Jagerbau
-Jaguár
+JaguÃ¡r
 Jaja
 Jakab
 Jakabfi
-Jakó
+JakÃ³
 Jaksa
 Jam
 Jana
 Jancsek
-Jancsó
+JancsÃ³
 Janette
 Janik
 Janis
-Jankó
+JankÃ³
 Jankovics
 Janus
-Japán
+JapÃ¡n
 Jaquette
 Jata
 Jazz Garden
-Jégkuckó
-Jégkunyhó
-Jeanette Konfekcióipari
+JÃ©gkuckÃ³
+JÃ©gkunyhÃ³
+Jeanette KonfekciÃ³ipari
 Jeans Trend
 Jegenye
 Jeges
-Jehova Tanui Egyház
+Jehova Tanui EgyhÃ¡z
 Jekota
 Jel
 Jelenkor
 Jeli
 Jenei
 Jenny
-Jeskó
+JeskÃ³
 Jessy
 Jeszenszki
-Jó Kedvû
-Jó-Ba
-Jó-Év
-Jóbarát
-Jóbarátok
-Jóhír
-Jókai
-Jóker
-Jókönyv
-Jóléti
-Jóna
-Jónás
-Józan
-Józsa
-József
-József Attila
-József Attila Kollégium
-József Attila Mûvelõdési
-Józsefvárosi
-Józsi
-Jövõkép
+JÃ³ KedvÅ±
+JÃ³-Ba
+JÃ³-Ã‰v
+JÃ³barÃ¡t
+JÃ³barÃ¡tok
+JÃ³hÃ­r
+JÃ³kai
+JÃ³ker
+JÃ³kÃ¶nyv
+JÃ³lÃ©ti
+JÃ³na
+JÃ³nÃ¡s
+JÃ³zan
+JÃ³zsa
+JÃ³zsef
+JÃ³zsef Attila
+JÃ³zsef Attila KollÃ©gium
+JÃ³zsef Attila MÅ±velÅ‘dÃ©si
+JÃ³zsefvÃ¡rosi
+JÃ³zsi
+JÃ¶vÅ‘kÃ©p
 Job
 Jobb Mint
-Jobbágy
-Jocó
+JobbÃ¡gy
+JocÃ³
 Jogi
 Johanna
 Johatex
@@ -5536,32 +5536,32 @@ John Bull
 Joiner
 Joker
 Jolly
-Joó
-Jordán
+JoÃ³
+JordÃ¡n
 Joy
 Jozefa
-Jozsó
+JozsÃ³
 Ju-Go
 Ju-Ko
 Ju-Ve
-Júlia
+JÃºlia
 Juan
 Jubileum
 Judit
-Judit Folklór
+Judit FolklÃ³r
 Judy
-Juhász
-Juhász Barkács
-Juhász és Juhász
-Juhász-T
-Juhász-Trans
+JuhÃ¡sz
+JuhÃ¡sz BarkÃ¡cs
+JuhÃ¡sz Ã©s JuhÃ¡sz
+JuhÃ¡sz-T
+JuhÃ¡sz-Trans
 Juhar
 Juko
 Julianus
 Julius
 Juma
 Jumbo
-Jumbó
+JumbÃ³
 Jumix
 Jumo
 Jumper
@@ -5570,18 +5570,18 @@ Juni
 Junik
 Junior
 Juno
-Jupát
+JupÃ¡t
 Jupiter
 Jura
 Jurex
 Jurimpex
 Juris
-Jurisich Miklós
+Jurisich MiklÃ³s
 Juro
 Jurotissu
 Jurta
 Juss
-Jután
+JutÃ¡n
 Jutec
 Jutka
 Juventus
@@ -5602,14 +5602,14 @@ K + M
 K + T
 K + Z
 K and M
-K és G
-K és K
-K és L
-K és M
-K és O
-K és T
-K és T Csapágy
-K és V
+K Ã©s G
+K Ã©s K
+K Ã©s L
+K Ã©s M
+K Ã©s O
+K Ã©s T
+K Ã©s T CsapÃ¡gy
+K Ã©s V
 K+K
 K+M
 K+S
@@ -5627,16 +5627,16 @@ K. T.
 K. U. K.
 K. Z. M.
 K9
-KÁ-VÉ
+KÃ-VÃ‰
 KB
-KÉSZ
+KÃ‰SZ
 KER
 KEVE
 KEVI
 KFK
 KG
 KIM
-KIRÁLY
+KIRÃLY
 KIS
 KISKUN
 KKR
@@ -5646,7 +5646,7 @@ KMB
 KNK
 KO-BO 17
 KO-RA
-KÓD
+KÃ“D
 KONT
 KOT
 KRIS-DO
@@ -5660,56 +5660,56 @@ KT
 KVA
 KZM
 KZS
-Ká-Té
-Kábel
-Kábelduó
-Kábeltelevízió
-Kádár
-Kádas
-Kádencia
-Káka
-Kákos
-Kála
-Káldy
-Káli
-Kállai
-Kállay
-Kálmán
-Kálmándy
-Kálnai
-Kálnoki
-Kálvária
-Kálvin
-Kánaán
-Kántás
-Kántor
-Kánya
-Káplár
-Káposzta
-Káptalan
-Kárász
-Káró
-Károlyi
-Kárpát
-Kárpát-Hús
-Kárpáti
-Kárpátia
-Kárpit
-Kárrendezési
-Kása
-Káta
-Kátai
-Kátai-Press
-Káté
-Káva
-Kávéház
-Kaáli
+KÃ¡-TÃ©
+KÃ¡bel
+KÃ¡belduÃ³
+KÃ¡beltelevÃ­ziÃ³
+KÃ¡dÃ¡r
+KÃ¡das
+KÃ¡dencia
+KÃ¡ka
+KÃ¡kos
+KÃ¡la
+KÃ¡ldy
+KÃ¡li
+KÃ¡llai
+KÃ¡llay
+KÃ¡lmÃ¡n
+KÃ¡lmÃ¡ndy
+KÃ¡lnai
+KÃ¡lnoki
+KÃ¡lvÃ¡ria
+KÃ¡lvin
+KÃ¡naÃ¡n
+KÃ¡ntÃ¡s
+KÃ¡ntor
+KÃ¡nya
+KÃ¡plÃ¡r
+KÃ¡poszta
+KÃ¡ptalan
+KÃ¡rÃ¡sz
+KÃ¡rÃ³
+KÃ¡rolyi
+KÃ¡rpÃ¡t
+KÃ¡rpÃ¡t-HÃºs
+KÃ¡rpÃ¡ti
+KÃ¡rpÃ¡tia
+KÃ¡rpit
+KÃ¡rrendezÃ©si
+KÃ¡sa
+KÃ¡ta
+KÃ¡tai
+KÃ¡tai-Press
+KÃ¡tÃ©
+KÃ¡va
+KÃ¡vÃ©hÃ¡z
+KaÃ¡li
 Kaba-Elzett
 Kabai
 Kabala
 Kabinet
 Kacsa
-Kacsó
+KacsÃ³
 Kadett
 Kadia
 Kadlecsik
@@ -5722,83 +5722,83 @@ Kajak-Kenu
 Kakas
 Kaktusz
 Kakukk
-Kalács
-Kalácska
-Kalász
-Kalamáris
+KalÃ¡cs
+KalÃ¡cska
+KalÃ¡sz
+KalamÃ¡ris
 Kalauz
-Kaleidoszkóp
-Kaligráf
+KaleidoszkÃ³p
+KaligrÃ¡f
 Kalkulus
-Kallós
-Kalmár
-Kalória
+KallÃ³s
+KalmÃ¡r
+KalÃ³ria
 Kalocsa
 Kalocsai
 Kaloprint
 Kalotherm
-Kaltenberg Bajor Királyi
-Kamarás
+Kaltenberg Bajor KirÃ¡lyi
+KamarÃ¡s
 Kambium
-Kaméleon
-Kamélia
+KamÃ©leon
+KamÃ©lia
 Kamilla
 Kamillakert
-Kamilló
+KamillÃ³
 Kanada
 Kanalas
-Kancellár
+KancellÃ¡r
 Kanczler
-Kandalló
+KandallÃ³
 Kandi
 Kanga
 Kanizsa
 Kanizsa Plaza
 Kanizsatel
 Kanizsatex
-Kanyó
-Kapacitás
+KanyÃ³
+KapacitÃ¡s
 Kapcsolat
 Kapcsolatok
-Kapcsoló
-Kapitány
-Kapitány Épületgépész
+KapcsolÃ³
+KapitÃ¡ny
+KapitÃ¡ny Ã‰pÃ¼letgÃ©pÃ©sz
 Kapocs
 Kapos
 Kapos Hidro
 Kapos Ternero
 Kaposi
-Kaposvári
-Kaposvári Villamossági Gyár
-Kaptár
+KaposvÃ¡ri
+KaposvÃ¡ri VillamossÃ¡gi GyÃ¡r
+KaptÃ¡r
 Kapu
 Kapusi
 Kaputelefon
-Kapuvári
+KapuvÃ¡ri
 Kar
-Kar-Társ
-Karácsony
-Karádi
-Karát
+Kar-TÃ¡rs
+KarÃ¡csony
+KarÃ¡di
+KarÃ¡t
 Karabiner
 Karabuka
 Karakai
-Karakó
+KarakÃ³
 Karakter
 Karamell
-Karancs-Épker
-Karaván
+Karancs-Ã‰pker
+KaravÃ¡n
 Karb-Tech
-Karbantartó
+KarbantartÃ³
 Kard
-Kardán
-Kardiológiai
+KardÃ¡n
+KardiolÃ³giai
 Kardos
-Kardos Uszoda- és Víztechnika
+Kardos Uszoda- Ã©s VÃ­ztechnika
 Karenowa
 Kariatida
 Karinthy
-Karitász
+KaritÃ¡sz
 Karma
 Karmin
 Karmopol
@@ -5811,22 +5811,22 @@ Karton
 Karus
 Kas
 Kasker
-Kassák
+KassÃ¡k
 Kassai
 Kast Ottmar
-Kastély
-Kastélyszálló
+KastÃ©ly
+KastÃ©lyszÃ¡llÃ³
 Kasza
-Kaszás
+KaszÃ¡s
 Kasztner
 Kat-Ker
 Kata
 Katalin
-Katalizátor
-Katasztrófavédelmi
+KatalizÃ¡tor
+KatasztrÃ³favÃ©delmi
 Katedra
 Katex
-Kathi-Cserkúti
+Kathi-CserkÃºti
 Kathrein Antenna
 Kati
 Katica
@@ -5841,81 +5841,81 @@ Kauker
 Kauri
 Kavics
 Kavics Union
-Kazán
+KazÃ¡n
 Kazai
 Kazamata
 Kazincbarcikai
 Ke-Pa
 Ke-Ve
-Kék
-Kék Balaton
-Kék Csillag
-Kék Duna
-Kék Galamb
-Kék Hold
-Kék Kereszt
-Kék Madár
-Kék Öböl
-Kék Pont
-Kék Sziget
-Kék Világ
-Kékacél
-Kékedi
-Kékes
-Kékesi
-Kéki
-Kékszakáll
-Kémény
-Kéményseprõ
-Kéményseprõ és Tüzeléstechnikai
-Kéménytechnika
-Kényelem
-Képcsarnok
-Képes
-Képes Újság
-Képesbolt
-Képíró
-Képtár
-Képviselõtestület
-Képzõmûvészeti
-Kéri
-Kérügma
-Késmárki
-Késza
-Készpénz
-Két
-Két J
-Két Rigó
-Két-Coll
-Kézenfogva
-Kézilabda
-Kézimunka
-Kéziszövõk Szövetkezete
-Kézmûves
-Kézsmárki
-Kecskés
-Kecskeméti
-Keczán Bútorszalon
+KÃ©k
+KÃ©k Balaton
+KÃ©k Csillag
+KÃ©k Duna
+KÃ©k Galamb
+KÃ©k Hold
+KÃ©k Kereszt
+KÃ©k MadÃ¡r
+KÃ©k Ã–bÃ¶l
+KÃ©k Pont
+KÃ©k Sziget
+KÃ©k VilÃ¡g
+KÃ©kacÃ©l
+KÃ©kedi
+KÃ©kes
+KÃ©kesi
+KÃ©ki
+KÃ©kszakÃ¡ll
+KÃ©mÃ©ny
+KÃ©mÃ©nyseprÅ‘
+KÃ©mÃ©nyseprÅ‘ Ã©s TÃ¼zelÃ©stechnikai
+KÃ©mÃ©nytechnika
+KÃ©nyelem
+KÃ©pcsarnok
+KÃ©pes
+KÃ©pes ÃšjsÃ¡g
+KÃ©pesbolt
+KÃ©pÃ­rÃ³
+KÃ©ptÃ¡r
+KÃ©pviselÅ‘testÃ¼let
+KÃ©pzÅ‘mÅ±vÃ©szeti
+KÃ©ri
+KÃ©rÃ¼gma
+KÃ©smÃ¡rki
+KÃ©sza
+KÃ©szpÃ©nz
+KÃ©t
+KÃ©t J
+KÃ©t RigÃ³
+KÃ©t-Coll
+KÃ©zenfogva
+KÃ©zilabda
+KÃ©zimunka
+KÃ©ziszÃ¶vÅ‘k SzÃ¶vetkezete
+KÃ©zmÅ±ves
+KÃ©zsmÃ¡rki
+KecskÃ©s
+KecskemÃ©ti
+KeczÃ¡n BÃºtorszalon
 Kedvenc
 Kedves
 Keeper
-Kegyelet Temetkezési
+Kegyelet TemetkezÃ©si
 Kegyeleti
-Kegyeleti Temetkezési
+Kegyeleti TemetkezÃ©si
 Kehely
 Keki
 Kelamed
 Kele
-Kelényi
+KelÃ©nyi
 Kelemen
 Kelemen &
-Kelemen és Deák
+Kelemen Ã©s DeÃ¡k
 Kelen
 Kelet
-Kelet-Európa Misszió
+Kelet-EurÃ³pa MissziÃ³
 Kelet-Food
 Kelet-Holding
-Kelet-Magyarországi
+Kelet-MagyarorszÃ¡gi
 Kelet-Pesti
 Kelet-Speeck
 Keleti
@@ -5923,17 +5923,17 @@ Keleti Piac
 Keletker
 Keletronic
 Keller
-Keller és Mayer
+Keller Ã©s Mayer
 Kellner
 Kelly
-Keltír
+KeltÃ­r
 Kem-Inter
-Kemény
-Kemény és Kemény
+KemÃ©ny
+KemÃ©ny Ã©s KemÃ©ny
 Kemence
-Kemencés
+KemencÃ©s
 Kemfort
-Kemikál Építõanyagipari
+KemikÃ¡l Ã‰pÃ­tÅ‘anyagipari
 Kemos
 Kempf
 Kemping
@@ -5942,7 +5942,7 @@ Kende
 Kenderes
 Kenesei
 Kenguru
-Kenõanyag
+KenÅ‘anyag
 Kentaur
 Kentech
 Kenter
@@ -5950,16 +5950,16 @@ Kepes
 Ker-Ker
 Ker-Mix
 Kera
-Kerámia
+KerÃ¡mia
 Keramitech
 Keramo
 Kerbau
 Kerchner
-Kerék
-Kerékpár
-Kerékpárjavító
-Kerékpárszerviz
-Kerényi
+KerÃ©k
+KerÃ©kpÃ¡r
+KerÃ©kpÃ¡rjavÃ­tÃ³
+KerÃ©kpÃ¡rszerviz
+KerÃ©nyi
 Kerek
 Kerek Perec
 Kerek-Perec
@@ -5969,16 +5969,16 @@ Kereki
 Kereknap
 Kereskedelmi
 Kereskedelmi Szakszervezetek
-Kereskedelmi és Elektromos
-Kereskedelmi és Iparkamara
-Kereskedelmi és Továbbképzõ
-Kereskedõ
-Kereskedõház
-Kereslet és Kínálat
-Keresztény
-Keresztény Élet
+Kereskedelmi Ã©s Elektromos
+Kereskedelmi Ã©s Iparkamara
+Kereskedelmi Ã©s TovÃ¡bbkÃ©pzÅ‘
+KereskedÅ‘
+KereskedÅ‘hÃ¡z
+Kereslet Ã©s KÃ­nÃ¡lat
+KeresztÃ©ny
+KeresztÃ©ny Ã‰let
 Keresztes
-Keresztúri
+KeresztÃºri
 Keri
 Kerimpex
 Kerling
@@ -5986,27 +5986,27 @@ Kern
 Kern Communications Systems
 Kerry
 Kert
-Kert-Harmónia
+Kert-HarmÃ³nia
 Kertai
-Kertész
-Kertészeti
-Kertészeti és Erdészeti
+KertÃ©sz
+KertÃ©szeti
+KertÃ©szeti Ã©s ErdÃ©szeti
 Kertes
 Kerti
 Kerti's
 Kertiker
 Kerttrade
-Kertvárosi
-Kertvárosi Új
+KertvÃ¡rosi
+KertvÃ¡rosi Ãšj
 Kes
 Kesco
-Keserû
-Kesjár
+KeserÅ±
+KesjÃ¡r
 Keskeny
 Keszi
 Keszol
 Keszthelyi
-Kesztyûs
+KesztyÅ±s
 Ket
 Ketten
 Kettler
@@ -6015,79 +6015,79 @@ Kevei Lajos
 Keyo
 Keyo Paris
 Kharisz
-Kígyó
-Kígyós
-Kínai
+KÃ­gyÃ³
+KÃ­gyÃ³s
+KÃ­nai
 Kicsi
 Kido
 Kids
 Kikelet
-Kikötõ
-Kilián
+KikÃ¶tÅ‘
+KiliÃ¡n
 Kiliti
-Kilométer
-Kiméra
+KilomÃ©ter
+KimÃ©ra
 Kimex
 Kincs
 Kincsem
 Kincses
-Kincses Zálogház
-Kincskeresõ
-Kincstár
-Kincstári Szervezet
-Kincstári Vagyoni
+Kincses ZÃ¡loghÃ¡z
+KincskeresÅ‘
+KincstÃ¡r
+KincstÃ¡ri Szervezet
+KincstÃ¡ri Vagyoni
 King
 Kinga
 Kinizsi
 Kip-Kop
-Király
-Király Szõnyeg
+KirÃ¡ly
+KirÃ¡ly SzÅ‘nyeg
 Kiril
 Kirimi
 Kis
 Kis Herceg
-Kis Rigó
-Kisállatklinika
-Kisalföld
-Kisalföld Füszért
-Kisalföld Volán
-Kisalföldi
-Kisbojtár
+Kis RigÃ³
+KisÃ¡llatklinika
+KisalfÃ¶ld
+KisalfÃ¶ld FÃ¼szÃ©rt
+KisalfÃ¶ld VolÃ¡n
+KisalfÃ¶ldi
+KisbojtÃ¡r
 Kiscelli
 Kisduna
-Kisebbségi
+KisebbsÃ©gi
 Kisfaludy
-Kisgép
-Kisgépszerviz
-Kishalász
-Kisipari Szövetkezetek
+KisgÃ©p
+KisgÃ©pszerviz
+KishalÃ¡sz
+Kisipari SzÃ¶vetkezetek
 Kiskakas
-Kiskalmár
+KiskalmÃ¡r
 Kiskapu
-Kiskereskedõk Országos
-Kisködmön
-Kiskondás
+KiskereskedÅ‘k OrszÃ¡gos
+KiskÃ¶dmÃ¶n
+KiskondÃ¡s
 Kiskulacs
-Kiskunsági Nemzeti
+KiskunsÃ¡gi Nemzeti
 Kislugas
 Kismama
-Kisné
+KisnÃ©
 Kisokos
-Kispál
+KispÃ¡l
 Kispesti
 Kispipa
 Kiss
 Kiss & Kiss
 Kiss B.
 Kiss Lajos
-Kiss és Kiss
+Kiss Ã©s Kiss
 Kissker
 Kisteleki
 Kistitok
-Kistücsök
-Kisvállalkozás-Fejlesztési
+KistÃ¼csÃ¶k
+KisvÃ¡llalkozÃ¡s-FejlesztÃ©si
 Kisvakond
-Kisvendéglõ
+KisvendÃ©glÅ‘
 Kiszely
 Kite
 Kiter
@@ -6095,153 +6095,153 @@ Kitti
 Kitty
 Kivitel
 Kiwi-Co
-Klán
-Klára
-Klári
+KlÃ¡n
+KlÃ¡ra
+KlÃ¡ri
 Klapp
 Klassz
 Klasszis
 Klausz
 Klein
 Kler
-Klíma
-Klíma-Szala
+KlÃ­ma
+KlÃ­ma-Szala
 Klima
 Klimatech
 Kliner
 Klinika
-Klinikák
+KlinikÃ¡k
 Klinker
 Klipper
-Klisé
+KlisÃ©
 Klorofill
 Klub
-Klubkönyvtár
+KlubkÃ¶nyvtÃ¡r
 Kme
 Kmetz
-Knaus Tabbert Magyarországi
-Knitting Kötõ
+Knaus Tabbert MagyarorszÃ¡gi
+Knitting KÃ¶tÅ‘
 Know-How
 Ko-Bo
 Ko-Bo-Ko
 Ko-Fa
 Ko-Ko
 Ko-Urbanus
-Kóbor
-Kócsó
-Kóczián
-Kódex
-Kóger
-Kókai
-Kókusz
-Kónya
-Kópé
-Kórház
-Kórház-Rendelõintézet
-Kórházak
-Kóródi
-Kós Károly
-Kósa
-Kószó
-Ködmön
-Kögel
-Kölcsey
-Kölcsönzõ
-Költségvetési
-Kölyök
-König
-Könnyûipari
-Könnyûszerkezet
-Könyv
-Könyv-Adó
-Könyv-L
-Könyvel
-Könyvelés
-Könyvelõ
-Könyves
-Könyvesbolt
-Könyvtár
-Könyvvitel
-Könyvvizsgáló
-Kör
-Kör-Kereszt
-Körjegyzõség
-Körmendi
-Környei
-Környezetgazdálkodási
-Környezettechnika
-Környezetvédelmi
-Környezetvédelmi Felügyelõség
-Környezetvédõ
-Körönd
-Körös
-Körösmenti
-Körte-Organica
-Körút
-Körzeti
-Kötek
-Köteles
-Kötet
-Kötöttárugyár
-Kötõelem
-Kötter
-Kövég
-Kövesdi
-Kövesi
-Kövinfo
-Köz-Víz
-Közép Európai
-Közép-Európai
-Közép-Tisza Vidéki Vízügyi
-Közgazdasági és Jogi
-Közjegyzõi
-Közlekedési
-Közlekedési Egyesülés
-Közlekedési Felügyelet
-Közlekedéstudományi
-Közmû
-Közmûépítõ
-Közmûvelõdés
-Közmûvelõdési
-Közösségi
-Közoktatásért
-Közoktatási
-Központi Ügyelet
-Községi
-Közterület-felügyelet
-Köztisztasági
-Közúti
-Közüzemi
-Kõ
-Kõbánya
-Kõbányai
-Kõbányai Könnyûfémmû
-Kõbüfé
-Kõfalvi
-Kõhalmi
-Kõhegyi
-Kõhíd
-Kõkapu
-Kõnig
-Kõolajkutató
-Kõris
-Kõrózsa
-Kõrös
-Kõrösi
-Kõszeg
-Kõszegi
-Kõszikla
-Kõvágó
-Kõvári
+KÃ³bor
+KÃ³csÃ³
+KÃ³cziÃ¡n
+KÃ³dex
+KÃ³ger
+KÃ³kai
+KÃ³kusz
+KÃ³nya
+KÃ³pÃ©
+KÃ³rhÃ¡z
+KÃ³rhÃ¡z-RendelÅ‘intÃ©zet
+KÃ³rhÃ¡zak
+KÃ³rÃ³di
+KÃ³s KÃ¡roly
+KÃ³sa
+KÃ³szÃ³
+KÃ¶dmÃ¶n
+KÃ¶gel
+KÃ¶lcsey
+KÃ¶lcsÃ¶nzÅ‘
+KÃ¶ltsÃ©gvetÃ©si
+KÃ¶lyÃ¶k
+KÃ¶nig
+KÃ¶nnyÅ±ipari
+KÃ¶nnyÅ±szerkezet
+KÃ¶nyv
+KÃ¶nyv-AdÃ³
+KÃ¶nyv-L
+KÃ¶nyvel
+KÃ¶nyvelÃ©s
+KÃ¶nyvelÅ‘
+KÃ¶nyves
+KÃ¶nyvesbolt
+KÃ¶nyvtÃ¡r
+KÃ¶nyvvitel
+KÃ¶nyvvizsgÃ¡lÃ³
+KÃ¶r
+KÃ¶r-Kereszt
+KÃ¶rjegyzÅ‘sÃ©g
+KÃ¶rmendi
+KÃ¶rnyei
+KÃ¶rnyezetgazdÃ¡lkodÃ¡si
+KÃ¶rnyezettechnika
+KÃ¶rnyezetvÃ©delmi
+KÃ¶rnyezetvÃ©delmi FelÃ¼gyelÅ‘sÃ©g
+KÃ¶rnyezetvÃ©dÅ‘
+KÃ¶rÃ¶nd
+KÃ¶rÃ¶s
+KÃ¶rÃ¶smenti
+KÃ¶rte-Organica
+KÃ¶rÃºt
+KÃ¶rzeti
+KÃ¶tek
+KÃ¶teles
+KÃ¶tet
+KÃ¶tÃ¶ttÃ¡rugyÃ¡r
+KÃ¶tÅ‘elem
+KÃ¶tter
+KÃ¶vÃ©g
+KÃ¶vesdi
+KÃ¶vesi
+KÃ¶vinfo
+KÃ¶z-VÃ­z
+KÃ¶zÃ©p EurÃ³pai
+KÃ¶zÃ©p-EurÃ³pai
+KÃ¶zÃ©p-Tisza VidÃ©ki VÃ­zÃ¼gyi
+KÃ¶zgazdasÃ¡gi Ã©s Jogi
+KÃ¶zjegyzÅ‘i
+KÃ¶zlekedÃ©si
+KÃ¶zlekedÃ©si EgyesÃ¼lÃ©s
+KÃ¶zlekedÃ©si FelÃ¼gyelet
+KÃ¶zlekedÃ©studomÃ¡nyi
+KÃ¶zmÅ±
+KÃ¶zmÅ±Ã©pÃ­tÅ‘
+KÃ¶zmÅ±velÅ‘dÃ©s
+KÃ¶zmÅ±velÅ‘dÃ©si
+KÃ¶zÃ¶ssÃ©gi
+KÃ¶zoktatÃ¡sÃ©rt
+KÃ¶zoktatÃ¡si
+KÃ¶zponti Ãœgyelet
+KÃ¶zsÃ©gi
+KÃ¶zterÃ¼let-felÃ¼gyelet
+KÃ¶ztisztasÃ¡gi
+KÃ¶zÃºti
+KÃ¶zÃ¼zemi
+KÅ‘
+KÅ‘bÃ¡nya
+KÅ‘bÃ¡nyai
+KÅ‘bÃ¡nyai KÃ¶nnyÅ±fÃ©mmÅ±
+KÅ‘bÃ¼fÃ©
+KÅ‘falvi
+KÅ‘halmi
+KÅ‘hegyi
+KÅ‘hÃ­d
+KÅ‘kapu
+KÅ‘nig
+KÅ‘olajkutatÃ³
+KÅ‘ris
+KÅ‘rÃ³zsa
+KÅ‘rÃ¶s
+KÅ‘rÃ¶si
+KÅ‘szeg
+KÅ‘szegi
+KÅ‘szikla
+KÅ‘vÃ¡gÃ³
+KÅ‘vÃ¡ri
 Koala
 Kobak
 Kobela
 Kobo-Coop
 Kobold
 Kobra
-Koccintó
+KoccintÃ³
 Kocka
-Kockás
+KockÃ¡s
 Kocsi
 Kocsis
 Kodak
@@ -6252,21 +6252,21 @@ Kojo
 Koka
 Kokas
 Koko
-Kokó
-Koktél
+KokÃ³
+KoktÃ©l
 Kolbe
-Koldator Hûtõgépjavító
+Koldator HÅ±tÅ‘gÃ©pjavÃ­tÃ³
 Koleszterin Stop
 Kolett
 Koli
 Kolibri
-Kollár
-Kollégiumok
+KollÃ¡r
+KollÃ©giumok
 Kollektor
 Koller
 Kolombusz
 Kolonel
-Koloniál
+KoloniÃ¡l
 Kolonics
 Kolor
 Kolorit
@@ -6277,28 +6277,28 @@ Koltay
 Kom-Et
 Kom-Fort-H
 Kom-Thesz
-Komárom-Esztergom Megyei
-Komáromi
+KomÃ¡rom-Esztergom Megyei
+KomÃ¡romi
 Komandor
 Kombi
-Komédiás
-Kométa
+KomÃ©diÃ¡s
+KomÃ©ta
 Komet
 Kometa
 Komfort
-Komfort Lakberendezési
+Komfort LakberendezÃ©si
 Komfort-Ker
-Komjáthy
-Komjáti
-Komlódi
-Kommunális
-Kommunális Szervezet
+KomjÃ¡thy
+KomjÃ¡ti
+KomlÃ³di
+KommunÃ¡lis
+KommunÃ¡lis Szervezet
 Komondor
 Komp
 Kompakt
 Kompetencia
 Kompetens
-Komplé
+KomplÃ©
 Komplementer
 Komplett
 Komplex
@@ -6306,71 +6306,71 @@ Komplex-Siker
 Komponens
 Kompozit
 Koncz
-Kondákor
+KondÃ¡kor
 Kondi
 Kondor
 Kondorosi
 Kondortours
-Konfekció
-Konfekcióipari
+KonfekciÃ³
+KonfekciÃ³ipari
 Konfetti
 Konica
 Konkoly
-Konkoly és Kis
+Konkoly Ã©s Kis
 Konnex
-Konrád
-Konstrukció
-Konstruktív
+KonrÃ¡d
+KonstrukciÃ³
+KonstruktÃ­v
 Konstruktor
 Kontakt
 Kontaktus
-Kontír
-Kontinentál
+KontÃ­r
+KontinentÃ¡l
 Konting
 Kontir
 Konto
 Konto-Roll
-Kontó
+KontÃ³
 Kontra
-Kontra-Véd
+Kontra-VÃ©d
 Kontrol
 Kontroll
-Kontúr
+KontÃºr
 Kontur
 Kontur-System
 Konvoj
 Konyha
-Konyhafelszerelési
-Konzervgyár
+KonyhafelszerelÃ©si
+KonzervgyÃ¡r
 Konzol
 Konzolker
 Konzul
 Konzulens
 Konzum
-Koós
-Koordinátor
-Kopár
+KoÃ³s
+KoordinÃ¡tor
+KopÃ¡r
 Koperta
 Kopi
 Kopint-Datorg
 Kopjafa
 Kopp
-Koppány
+KoppÃ¡ny
 Kor-Zol
 Kora
-Korál
-Korán
+KorÃ¡l
+KorÃ¡n
 Koral
 Korall
-Korbély
+KorbÃ©ly
 Korea
 Korel
 Korex
 Korfu
 Korimpex
 Korinthosz
-Kormányos
-Kormorán
+KormÃ¡nyos
+KormorÃ¡n
 Kormos
 Koroknai
 Korompai
@@ -6380,76 +6380,76 @@ Korong
 Korontos
 Korponai
 Korrekt
-Korrózió
+KorrÃ³ziÃ³
 Korrtech
-Kortárs
+KortÃ¡rs
 Kortex
 Korund
-Korund Plussz Biztonsági
-Korzó
+Korund Plussz BiztonsÃ¡gi
+KorzÃ³
 Kos
-Kosárlabda
+KosÃ¡rlabda
 Kosaras
 Kosdi
 Kossa
 Kossuth
 Kossuth Lajos
 Kossuth Mgtsz
-Kosztolányi
+KosztolÃ¡nyi
 Kotex
 Kova
-Kovács
-Kovács & Kovács
-Kovács Dentál
-Kovács Elektro
-Kovács Mag-Csemete
-Kovács Telefonszalon
-Kovács Zoltán
-Kovács és Kovács
-Kovács és Molnár
-Kovács és Simon
-Kovász
+KovÃ¡cs
+KovÃ¡cs & KovÃ¡cs
+KovÃ¡cs DentÃ¡l
+KovÃ¡cs Elektro
+KovÃ¡cs Mag-Csemete
+KovÃ¡cs Telefonszalon
+KovÃ¡cs ZoltÃ¡n
+KovÃ¡cs Ã©s KovÃ¡cs
+KovÃ¡cs Ã©s MolnÃ¡r
+KovÃ¡cs Ã©s Simon
+KovÃ¡sz
 Kovalens
 Kovax
-Kovépszer
+KovÃ©pszer
 Kovi
 Kovi-Ker
-Kovidó
+KovidÃ³
 Kovill
-Kozári
-Kozári Gumi
+KozÃ¡ri
+KozÃ¡ri Gumi
 Kozma
 Kozmetika
 Kozmix
-Králl
-Krámer
-Kránicz
+KrÃ¡ll
+KrÃ¡mer
+KrÃ¡nicz
 Kraftszer
-Kramár
+KramÃ¡r
 Kraszna
 Krasznai
 Krausz
 Krausz-Line
-Krémer
-Krémesház
-Kréta
+KrÃ©mer
+KrÃ©meshÃ¡z
+KrÃ©ta
 Krea
-Kreáció
-Kreátor
+KreÃ¡ciÃ³
+KreÃ¡tor
 Kreart
 Kreateam
-Kreatív
-Kreatív Hobby
-Kreativitás Msz.
-Krematórium
+KreatÃ­v
+KreatÃ­v Hobby
+KreativitÃ¡s Msz.
+KrematÃ³rium
 Kretz
 Kretzer
 Krigler
 Krigli
 Krill
-Kriskó
-Kristály
-Kristóf
+KriskÃ³
+KristÃ¡ly
+KristÃ³f
 Kristof
 Kriston
 Kriszt
@@ -6458,21 +6458,21 @@ Krisztin
 Krisztina
 Kriton
 Krizolit
-Krónika
-Krónikás
+KrÃ³nika
+KrÃ³nikÃ¡s
 Kroda
 Krokodil
 Kroll
 Krysda
-Kúria
-Kút
-Kúti
-Külkereskedelmi Bank
-Kürt
-Kürtös
+KÃºria
+KÃºt
+KÃºti
+KÃ¼lkereskedelmi Bank
+KÃ¼rt
+KÃ¼rtÃ¶s
 Kuba
 Kubicsek
-Kucorgó
+KucorgÃ³
 Kucsera
 Kufner
 Kugler
@@ -6483,19 +6483,19 @@ Kukta
 Kula
 Kulacs
 Kulcs
-Kulcsár
+KulcsÃ¡r
 Kulman
-Kultúra
-Kultúrális
-Kultúrcikk
-Kultúrház
-Kulturális
+KultÃºra
+KultÃºrÃ¡lis
+KultÃºrcikk
+KultÃºrhÃ¡z
+KulturÃ¡lis
 Kun
 Kun'st
 Kun-Trade
 Kuncsaft
-Kunság
-Kunsági
+KunsÃ¡g
+KunsÃ¡gi
 Kunsped
 Kunszt
 Kuoni
@@ -6505,16 +6505,16 @@ Kurek
 Kurmai
 Kurrens
 Kurta Kocsma
-Kurtán
+KurtÃ¡n
 Kurucz
 Kurz
 Kurzus
 Kutasi
 Kuti
 Kuves
-Kváder
-Kvadrát
-Kvalitás
+KvÃ¡der
+KvadrÃ¡t
+KvalitÃ¡s
 Kvalitas
 Kvantum
 Kvanum
@@ -6522,7 +6522,7 @@ Kvarc
 Kvarc Mineral
 Kvark
 Kventa
-Kvíz
+KvÃ­z
 Kvint
 Kyra
 L
@@ -6534,8 +6534,8 @@ L + L
 L + M
 L and L
 L and R
-L és L
-L és M
+L Ã©s L
+L Ã©s M
 L+S
 L-Patent
 L-System
@@ -6559,38 +6559,38 @@ LKW-PKW Gumiszerviz
 LMS
 LP
 LPP
-LS Büro-4
+LS BÃ¼ro-4
 LT
 LZE
 La Belle
 La Halle
 La Notte
-Lágymányosi
-Láma
-Lámpa
-Lámpás
-Lánc
-Láncszem
-Láng
-Lángõr
-Lángõr Tüzeléstechnikai
-Lányi
-Lászka
-László
-Látszerész
-Látvány
-Láva
-Lázár
-Labdarúgó
+LÃ¡gymÃ¡nyosi
+LÃ¡ma
+LÃ¡mpa
+LÃ¡mpÃ¡s
+LÃ¡nc
+LÃ¡ncszem
+LÃ¡ng
+LÃ¡ngÅ‘r
+LÃ¡ngÅ‘r TÃ¼zelÃ©stechnikai
+LÃ¡nyi
+LÃ¡szka
+LÃ¡szlÃ³
+LÃ¡tszerÃ©sz
+LÃ¡tvÃ¡ny
+LÃ¡va
+LÃ¡zÃ¡r
+LabdarÃºgÃ³
 Labex
 Labirintus
 Labrador
-Lacházi
-Lackó
+LachÃ¡zi
+LackÃ³
 Laczai
-Laczkó
+LaczkÃ³
 Lada
-Ladányi
+LadÃ¡nyi
 Ladik
 Lady
 Lady Fitness
@@ -6599,49 +6599,49 @@ Lagela
 Lagermax
 Lago
 Lagon-Finagro
-Lagúna
+LagÃºna
 Laguna
-Lajkó
+LajkÃ³
 Lajta
 Lak-Art
 Lak-Kar
 Lak-Lak
 Lak-Trade
-Lakás-17
-Lakásépítõ
-Lakásépítõ és Fenntartó
-Lakásfelszerelés
-Lakásfelszerelési
-Lakásfenntartó
-Lakásfenntartó Szövetkezetek
-Lakáskarbantartó
-Lakáskassza
-Lakáskultúra
-Lakásotthon
-Lakásotthonok Igazgatósága
-Lakásszövetkezet
+LakÃ¡s-17
+LakÃ¡sÃ©pÃ­tÅ‘
+LakÃ¡sÃ©pÃ­tÅ‘ Ã©s FenntartÃ³
+LakÃ¡sfelszerelÃ©s
+LakÃ¡sfelszerelÃ©si
+LakÃ¡sfenntartÃ³
+LakÃ¡sfenntartÃ³ SzÃ¶vetkezetek
+LakÃ¡skarbantartÃ³
+LakÃ¡skassza
+LakÃ¡skultÃºra
+LakÃ¡sotthon
+LakÃ¡sotthonok IgazgatÃ³sÃ¡ga
+LakÃ¡sszÃ¶vetkezet
 Lakatos
-Lakatos és Varga
-Lakberendezési
+Lakatos Ã©s Varga
+LakberendezÃ©si
 Laki
 Lakics
 Lakidar
 Lakk
 Lakner
-Lakó
-Lakópark
-Lakóterv
-Lakosságért
+LakÃ³
+LakÃ³park
+LakÃ³terv
+LakossÃ¡gÃ©rt
 Laky
 Lala
 Lambda Systeme
-Lambéria
+LambÃ©ria
 Lamella
-Lamelló
+LamellÃ³
 Lametta
 Lami
 Lamina
-Laminár
+LaminÃ¡r
 Lamon
 Lamtrans
 Lan
@@ -6665,7 +6665,7 @@ Larsen
 Las Vegas
 Laser
 Laser Media
-Laskó
+LaskÃ³
 Lasselsberger
 Laszker
 Lat-Bau
@@ -6685,19 +6685,19 @@ Laxo
 Layer
 Le Coq Vierge
 Le-Ko
-Léczfalvi
-Légió
-Légrádi
-Légszerviz
-Lékó
-Léna
-Lénárd
-Lénárt
-Lénia
-Lép-Ker
-Lépték
-Lévai
-Lézer
+LÃ©czfalvi
+LÃ©giÃ³
+LÃ©grÃ¡di
+LÃ©gszerviz
+LÃ©kÃ³
+LÃ©na
+LÃ©nÃ¡rd
+LÃ©nÃ¡rt
+LÃ©nia
+LÃ©p-Ker
+LÃ©ptÃ©k
+LÃ©vai
+LÃ©zer
 Lead
 Leader
 Leaflock
@@ -6710,34 +6710,34 @@ Lege Artis
 Lege Artis Dent
 Legenda
 Lehel
-Lehel Hûtõgépgyár
+Lehel HÅ±tÅ‘gÃ©pgyÃ¡r
 Lehner
-Lehóczky
-Lehõcz
+LehÃ³czky
+LehÅ‘cz
 Lehoczki
 Lehoczky
 Leitold
-Leitz Hungária Szerszám
+Leitz HungÃ¡ria SzerszÃ¡m
 Lektika
 Lektor
 Lelik
-Lelkisegély
+LelkisegÃ©ly
 Lelle
 Lemma
 Lemmaco
 Lencs
-Lencsés
+LencsÃ©s
 Lencz
-Lendület
-Lendületes
+LendÃ¼let
+LendÃ¼letes
 Lendvai
 Lenex
 Lengyel
-Lengyel Kisebbségi
+Lengyel KisebbsÃ©gi
 Lenhart
 Lenkei
 Lenko
-Lenkó
+LenkÃ³
 Lenstar
 Lento
 Leo
@@ -6748,22 +6748,22 @@ Leonardo
 Leonyid
 Ler
 Les Amis
-Leskó
+LeskÃ³
 Leslie
 Let-Coop
 Letti
-Levéltár
-Levéltárak
+LevÃ©ltÃ¡r
+LevÃ©ltÃ¡rak
 Levendula
 Lex
 Lexica
 Li-Zo
-Líceum
-Líra
-Líra és Lant
+LÃ­ceum
+LÃ­ra
+LÃ­ra Ã©s Lant
 Lia
-Lián
-Lián Kertészeti
+LiÃ¡n
+LiÃ¡n KertÃ©szeti
 Liber
 Libertinus
 Liberty
@@ -6776,7 +6776,7 @@ Licosa
 Licus
 Lida
 Lido
-Lidó
+LidÃ³
 Liegl
 Lift's
 Liget
@@ -6787,10 +6787,10 @@ Ligna
 Lignin
 Lignum
 Likvid
-Likviditás
+LikviditÃ¡s
 Lila
-Lila Akác
-Lilaház
+Lila AkÃ¡c
+LilahÃ¡z
 Lili
 Liliana
 Liliom
@@ -6820,9 +6820,9 @@ Lino
 Linpac Plastics
 Lintex
 Lion
-Lipótvárosi
+LipÃ³tvÃ¡rosi
 Lippai
-Lipták
+LiptÃ¡k
 Liptai
 Liska
 Liszkai
@@ -6833,11 +6833,11 @@ Liva
 Livand
 Livingstone
 Liza
-Lótusz
-Lövész
-Lõrincz
-Lõve-Co
-Lõvér
+LÃ³tusz
+LÃ¶vÃ©sz
+LÅ‘rincz
+LÅ‘ve-Co
+LÅ‘vÃ©r
 Local Agent
 Localmedia
 Locomotiv
@@ -6849,29 +6849,29 @@ Logisztika
 Logisztikai
 Logitron
 Logo
-Logopédia
+LogopÃ©dia
 Logos
 Logosz
 Lois
-Lokomotív
+LokomotÃ­v
 Lollipop
 Lomb
 Lombard
 Lomo
 Long
 Look
-Loonland Animációs
+Loonland AnimÃ¡ciÃ³s
 Loranger
 Lord
 Lorenzo
 Lorinz-Bau
 Lorka
 Lornyon
-Loschán
+LoschÃ¡n
 Lostris
 Lotz
 Louis
-Lovász
+LovÃ¡sz
 Lovarda
 Lovas
 Lovasi
@@ -6891,7 +6891,7 @@ Ludvig
 Ludwig
 Lugas
 Lugosi
-Lukács
+LukÃ¡cs
 Lumi
 Luna
 Lupus
@@ -6920,11 +6920,11 @@ M + M
 M Csoport
 M Profood
 M and M
-M és B
-M és K
-M és M
-M és T
-M és V
+M Ã©s B
+M Ã©s K
+M Ã©s M
+M Ã©s T
+M Ã©s V
 M+L
 M+M
 M+P
@@ -6946,7 +6946,7 @@ M-Transzport
 M.
 M. A. G.
 M. B.
-M. Deák
+M. DeÃ¡k
 M. G.
 M. I. T.
 M. L.
@@ -6955,17 +6955,17 @@ M. P. A.
 M. S.
 M. Schneider
 M7
-MÁV
-MÁV Állomásfõnökség
-MÁV Magyar Államvasutak
-MÁV VHM
-MÁV intézmények
+MÃV
+MÃV ÃllomÃ¡sfÅ‘nÃ¶ksÃ©g
+MÃV Magyar Ãllamvasutak
+MÃV VHM
+MÃV intÃ©zmÃ©nyek
 MAHIR
-MAN Kamion és Busz
+MAN Kamion Ã©s Busz
 MAPERG
 MAR-KER
 MAS
-MATÁV
+MATÃV
 MB
 MBI
 MBM
@@ -6973,19 +6973,19 @@ MBPS
 MBT
 MC
 MC Joint Factory
-MC Négyzet
+MC NÃ©gyzet
 MC-Bauchemie
-MCF Géptechno
+MCF GÃ©ptechno
 MCG
 MCI
 MCM
 MCS
 MD
 MDC
-MÉBIT Magyar Élet-és Nyugdíjbiztosító
-MÉH
-MÉH Nyeranyaghasznosító
-MÉH Nyersanyaghasznosító
+MÃ‰BIT Magyar Ã‰let-Ã©s NyugdÃ­jbiztosÃ­tÃ³
+MÃ‰H
+MÃ‰H NyeranyaghasznosÃ­tÃ³
+MÃ‰H NyersanyaghasznosÃ­tÃ³
 MEDICO
 MENTOR
 MERKBAU
@@ -7006,17 +7006,17 @@ MKT
 ML
 MLT
 MM
-MM Méhészeti
+MM MÃ©hÃ©szeti
 MMC
 MMG
 MMK
 MMM
 MMP
 MO-NA
-MOFÉM
+MOFÃ‰M
 MOL
-MOL Magyar Olaj- és Gázipari
-MOL Töltõállomás
+MOL Magyar Olaj- Ã©s GÃ¡zipari
+MOL TÃ¶ltÅ‘Ã¡llomÃ¡s
 MOL-Chem
 MONOLIT
 MP
@@ -7026,7 +7026,7 @@ MPS
 MR
 MRM
 MS
-MS Lakberendezõ
+MS LakberendezÅ‘
 MSB
 MSC
 MSD
@@ -7034,66 +7034,66 @@ MSE
 MSM
 MSZP
 MT
-MTA Regionális Kutatások Központja
+MTA RegionÃ¡lis KutatÃ¡sok KÃ¶zpontja
 MTI
 MTM
 MTZ
-MÛKER
+MÅ°KER
 MUM
 MV
 MVM
 Ma-Zsu
-Mádi
-Máglya
-Mágnes
-Mágus
-Májer
-Mák
-Máltai Szeretetszolgálat
-Mályva
-Mámor
-Mándoki
-Mándy
-Mányi
-Mária
-Márk
-Márka
-Márki
-Márko
-Márkus
-Márta
-Márti
-Márton
-Márvány
-Márvány-Gránit
-Más Festékbolt
-Mátay
-Máté
-Máté és Máté
-Mátészalkai
-Máter
-Máthé
-Mátka
-Mátra
-Mátra-Landu
-Mátrai
-Mátrix
-Mátyás
-Mátyás Király
-Mátyás Pince
-Mátyus
-Mávtours
+MÃ¡di
+MÃ¡glya
+MÃ¡gnes
+MÃ¡gus
+MÃ¡jer
+MÃ¡k
+MÃ¡ltai SzeretetszolgÃ¡lat
+MÃ¡lyva
+MÃ¡mor
+MÃ¡ndoki
+MÃ¡ndy
+MÃ¡nyi
+MÃ¡ria
+MÃ¡rk
+MÃ¡rka
+MÃ¡rki
+MÃ¡rko
+MÃ¡rkus
+MÃ¡rta
+MÃ¡rti
+MÃ¡rton
+MÃ¡rvÃ¡ny
+MÃ¡rvÃ¡ny-GrÃ¡nit
+MÃ¡s FestÃ©kbolt
+MÃ¡tay
+MÃ¡tÃ©
+MÃ¡tÃ© Ã©s MÃ¡tÃ©
+MÃ¡tÃ©szalkai
+MÃ¡ter
+MÃ¡thÃ©
+MÃ¡tka
+MÃ¡tra
+MÃ¡tra-Landu
+MÃ¡trai
+MÃ¡trix
+MÃ¡tyÃ¡s
+MÃ¡tyÃ¡s KirÃ¡ly
+MÃ¡tyÃ¡s Pince
+MÃ¡tyus
+MÃ¡vtours
 Mabela
 Maci
-Mackó
+MackÃ³
 Macropolis
 Mad
-Madách
-Madár
-Madarász
+MadÃ¡ch
+MadÃ¡r
+MadarÃ¡sz
 Madari
 Mademoiselle
-Mademoiselle Parfüméria
+Mademoiselle ParfÃ¼mÃ©ria
 Madentko
 Madi
 Madigan
@@ -7106,12 +7106,12 @@ Mag-Ro
 Magazin
 Magda
 Magdi
-Magellán
+MagellÃ¡n
 Magenta
 Magentha
 Magic
 Magiszter
-Maglódi
+MaglÃ³di
 Magma
 Magna
 Magnetec-Ungarn
@@ -7120,83 +7120,83 @@ Magnolia
 Magnum
 Magor
 Magrima
-Magtár
-Magvetõ
+MagtÃ¡r
+MagvetÅ‘
 Magyar
-Magyar Államkincstár
-Magyar Államvasutak
-Magyar Állattenyésztõk
-Magyar Adótanácsadók Országos
-Magyar Agrár-Ház
-Magyar Alumínium
-Magyar Autóklub
-Magyar Bányászati
+Magyar ÃllamkincstÃ¡r
+Magyar Ãllamvasutak
+Magyar ÃllattenyÃ©sztÅ‘k
+Magyar AdÃ³tanÃ¡csadÃ³k OrszÃ¡gos
+Magyar AgrÃ¡r-HÃ¡z
+Magyar AlumÃ­nium
+Magyar AutÃ³klub
+Magyar BÃ¡nyÃ¡szati
 Magyar Bank
-Magyar Bazár
-Magyar Bélyeggyûjtõk Országos
+Magyar BazÃ¡r
+Magyar BÃ©lyeggyÅ±jtÅ‘k OrszÃ¡gos
 Magyar Elektrotechnikai
-Magyar Filmgyártó
-Magyar Fórum
-Magyar Földrajzi
-Magyar Fotográfiai
-Magyar Geológiai
+Magyar FilmgyÃ¡rtÃ³
+Magyar FÃ³rum
+Magyar FÃ¶ldrajzi
+Magyar FotogrÃ¡fiai
+Magyar GeolÃ³giai
 Magyar Grafika
-Magyar Gyógyszerész
-Magyar Gyógyszerészeti
-Magyar Hírlap
-Magyar Hírlap Regionális
+Magyar GyÃ³gyszerÃ©sz
+Magyar GyÃ³gyszerÃ©szeti
+Magyar HÃ­rlap
+Magyar HÃ­rlap RegionÃ¡lis
 Magyar Hipermarket
-Magyar Hivatalos Közlönykiadó
-Magyar Honvédelmi
+Magyar Hivatalos KÃ¶zlÃ¶nykiadÃ³
+Magyar HonvÃ©delmi
 Magyar Hospice
-Magyar Hûtõipari
-Magyar Írók
-Magyar Iparszövetség
-Magyar Könyvklub
-Magyar Könyvvizsgálói
-Magyar Közlekedési
-Magyar Közlöny
+Magyar HÅ±tÅ‘ipari
+Magyar ÃrÃ³k
+Magyar IparszÃ¶vetsÃ©g
+Magyar KÃ¶nyvklub
+Magyar KÃ¶nyvvizsgÃ¡lÃ³i
+Magyar KÃ¶zlekedÃ©si
+Magyar KÃ¶zlÃ¶ny
 Magyar Korona
-Magyar Külügyi
-Magyar Máltai Szeretetszolgálat
-Magyar Mûsorszóró
+Magyar KÃ¼lÃ¼gyi
+Magyar MÃ¡ltai SzeretetszolgÃ¡lat
+Magyar MÅ±sorszÃ³rÃ³
 Magyar Nemzeti
 Magyar Nemzeti Bank
 Magyar Olajipari
-Magyar Országgyûlés Hivatala
-Magyar Országos Horgász MOHOSZ
-Magyar Szakszervezetek Országos
-Magyar Szocialista Párt (MSZP)
-Magyar Távirati
+Magyar OrszÃ¡ggyÅ±lÃ©s Hivatala
+Magyar OrszÃ¡gos HorgÃ¡sz MOHOSZ
+Magyar Szakszervezetek OrszÃ¡gos
+Magyar Szocialista PÃ¡rt (MSZP)
+Magyar TÃ¡virati
 Magyar Technikai
-Magyar Technikai Tömegsport
+Magyar Technikai TÃ¶megsport
 Magyar Tenger
-Magyar Természettudományi
-Magyar Történelmi
-Magyar Tudományos Akadémia
-Magyar Út
-Magyar Vállalkozásfejlesztési
-Magyar Vagon- és Gépgyár
-Magyar Vöröskereszt
-Magyar és Bank
-Magyar és Magyar
-Magyar-Szõnyeg
-Magyarnándor és Vidéke
-Magyarországi Szociáldemokrata Párt
+Magyar TermÃ©szettudomÃ¡nyi
+Magyar TÃ¶rtÃ©nelmi
+Magyar TudomÃ¡nyos AkadÃ©mia
+Magyar Ãšt
+Magyar VÃ¡llalkozÃ¡sfejlesztÃ©si
+Magyar Vagon- Ã©s GÃ©pgyÃ¡r
+Magyar VÃ¶rÃ¶skereszt
+Magyar Ã©s Bank
+Magyar Ã©s Magyar
+Magyar-SzÅ‘nyeg
+MagyarnÃ¡ndor Ã©s VidÃ©ke
+MagyarorszÃ¡gi SzociÃ¡ldemokrata PÃ¡rt
 Magyartel
-Mahagóni
+MahagÃ³ni
 Mahart
 Mahler
 Mai
-Mai Manó
+Mai ManÃ³
 Mail Box 694
 Maja
-Majális
+MajÃ¡lis
 Majer
 Majolika
 Major
 Majoros
-Makádi
+MakÃ¡di
 Makai
 Maker
 Makett
@@ -7214,13 +7214,13 @@ Malawi
 Maler
 Mali
 Malibu
-Maligán
+MaligÃ¡n
 Malom
 Malomipari
 Malomszer
 Mamika
 Mammel
-Mamü
+MamÃ¼
 Mamut
 Man
 Management
@@ -7234,7 +7234,7 @@ Mango
 Manmore
 Manna
 Manner
-Manó
+ManÃ³
 Manopen
 Mansard
 Manta
@@ -7249,16 +7249,16 @@ Marba
 Marcal
 Marcali
 Marci
-Marcipán
+MarcipÃ¡n
 Marco
 Marcsek
 Marcus
 Marczi
 Mare
-Margaréta
+MargarÃ©ta
 Margit
 Margittai
-Margó
+MargÃ³
 Mariann
 Maribi
 Marica
@@ -7266,19 +7266,19 @@ Marika
 Marina
 Marino
 Maritim
-Marján
+MarjÃ¡n
 Marjai
 Mark
 Marker
 Market
 Marketing
 Marketmercur
-Markó
+MarkÃ³
 Marland
 Marlin
-Maróti
+MarÃ³ti
 Maros
-Maroshús
+MaroshÃºs
 Marosi
 Marosker
 Mars
@@ -7291,7 +7291,7 @@ Martenzit
 Martin
 Martini
 Marton
-Marton Szakértõ
+Marton SzakÃ©rtÅ‘
 Martos
 Maryland
 Mascot
@@ -7310,23 +7310,23 @@ Matitol
 Matkovics
 Matrica
 Matrix
-Matróz
+MatrÃ³z
 Matt
 Matti
-Matúz
+MatÃºz
 Matus
 Matuz
 Matyi
-Matyó
+MatyÃ³
 Mauri
 Mauser
 Maverick
 Max
-Max-Papír
+Max-PapÃ­r
 Max-Szolid
 Maxabo
 Maxima
-Maximál
+MaximÃ¡l
 Maximum
 Maxtel
 Maya
@@ -7338,49 +7338,49 @@ Mazug
 Mc
 McDonald's
 McMaster
-Média
-Média Max
-Média Menedzser
-Méhecske
-Méhecskék
-Méhes
-Méker
-Mély-Víz
-Mélyép
-Mélyépítési
-Mélyépítõ
-Méra
-Mérésügyi
-Méretes
-Mérföld
-Mérföldkõ
-Mérleg
-Mérleg Kontroll
-Mérlegház
-Mérlegkészítõ
-Mérmû
-Mérnök
-Mérnöki
-Mérõ
-Mérték Építészeti
-Méry-Pékség
-Mészáros
-Mészi
-Mészkõ és Dolomit
-Mészöly
-Méta
-Méter
-Méteráru
-Méteráru-Lakástextil
-Métisz
-Mézes
-Mecénás
+MÃ©dia
+MÃ©dia Max
+MÃ©dia Menedzser
+MÃ©hecske
+MÃ©hecskÃ©k
+MÃ©hes
+MÃ©ker
+MÃ©ly-VÃ­z
+MÃ©lyÃ©p
+MÃ©lyÃ©pÃ­tÃ©si
+MÃ©lyÃ©pÃ­tÅ‘
+MÃ©ra
+MÃ©rÃ©sÃ¼gyi
+MÃ©retes
+MÃ©rfÃ¶ld
+MÃ©rfÃ¶ldkÅ‘
+MÃ©rleg
+MÃ©rleg Kontroll
+MÃ©rleghÃ¡z
+MÃ©rlegkÃ©szÃ­tÅ‘
+MÃ©rmÅ±
+MÃ©rnÃ¶k
+MÃ©rnÃ¶ki
+MÃ©rÅ‘
+MÃ©rtÃ©k Ã‰pÃ­tÃ©szeti
+MÃ©ry-PÃ©ksÃ©g
+MÃ©szÃ¡ros
+MÃ©szi
+MÃ©szkÅ‘ Ã©s Dolomit
+MÃ©szÃ¶ly
+MÃ©ta
+MÃ©ter
+MÃ©terÃ¡ru
+MÃ©terÃ¡ru-LakÃ¡stextil
+MÃ©tisz
+MÃ©zes
+MecÃ©nÃ¡s
 Mechanik
 Mechanika HT
-Mechanika-Technológia
+Mechanika-TechnolÃ³gia
 Mecsek
-Mecsek-Kenyér
-Mecseki Zöldkereszt
+Mecsek-KenyÃ©r
+Mecseki ZÃ¶ldkereszt
 Med
 Med-Art
 Med-Dent
@@ -7394,19 +7394,19 @@ Medi
 Medi Home
 Media
 Media &
-Media Markt Budaörs
-Medián
-Mediátor
+Media Markt BudaÃ¶rs
+MediÃ¡n
+MediÃ¡tor
 Medias
 Mediator
-Medica Humana Gyógyászati Segédeszköz
+Medica Humana GyÃ³gyÃ¡szati SegÃ©deszkÃ¶z
 Medica Mentum
 Medical
 Medicina
 Medicor
 Medigast
 Medika
-Medikó
+MedikÃ³
 Mediline
 Medimat
 Medimpex
@@ -7422,8 +7422,8 @@ Medirex
 Medison
 Meditech
 Meditechnik
-Mediterán
-Mediterrán
+MediterÃ¡n
+MediterrÃ¡n
 Mediterran
 Medius
 Mediworld
@@ -7436,26 +7436,26 @@ Mega
 Mega S-M
 Mega-Gold
 Mega-Sped
-Megálló
+MegÃ¡llÃ³
 Megalit
-Megamédia
+MegamÃ©dia
 Megapress
 Megaron
-Megaron Boczonádi
+Megaron BoczonÃ¡di
 Megastar
 Megaterra
 Megatex
 Megatherm
 Megavill
-Megelõzés
+MegelÅ‘zÃ©s
 Meggyesi
 Megi
-Meglepetés
-Megoldás
+MeglepetÃ©s
+MegoldÃ¡s
 Megoldjuk
-Megváltó
+MegvÃ¡ltÃ³
 Megyei
-Megyei Egészségbiztosítási Pénztár
+Megyei EgÃ©szsÃ©gbiztosÃ­tÃ¡si PÃ©nztÃ¡r
 Megyer
 Megyeri
 Meilinger
@@ -7464,27 +7464,27 @@ Meiszter
 Meleg
 Melinda
 Melory
-Membrán
-Memória
+MembrÃ¡n
+MemÃ³ria
 Memory
 Men &
-Menázsi
+MenÃ¡zsi
 Menczer
 Mendia
-Menedék
+MenedÃ©k
 Menedzser
 Menedzser Tenisz
 Menrich
 Menta
-Mentálhigiénés
+MentÃ¡lhigiÃ©nÃ©s
 Mentha
 Menthol
-Mentõk
+MentÅ‘k
 Menton
 Mentor
-Menü
-Menyhárt
-Merán
+MenÃ¼
+MenyhÃ¡rt
+MerÃ¡n
 Merantin
 Mercator
 Mercedes
@@ -7493,7 +7493,7 @@ Mercuri
 Mercurius
 Mercury
 Mercury Impex
-Meridián
+MeridiÃ¡n
 Merit
 Meritum
 Merkant
@@ -7506,25 +7506,25 @@ Mersits
 Mervai
 Mese
 Meselia
-Meskó
+MeskÃ³
 Messing
 Mester
-Mester Nívó
+Mester NÃ­vÃ³
 Mester Programiroda
-Mester-Nívó
-Mesterhús
-Mestermû
+Mester-NÃ­vÃ³
+MesterhÃºs
+MestermÅ±
 Mesterpartner
-Mesterpék
+MesterpÃ©k
 Met
 Met-Ing
-Metál
-Metál Modul
-Metáll
+MetÃ¡l
+MetÃ¡l Modul
+MetÃ¡ll
 Metacomp
 Metal
 Metalex
-Metalloglobus Területi
+Metalloglobus TerÃ¼leti
 Metallum
 Metallux
 Metaltech
@@ -7534,7 +7534,7 @@ Metator
 Metbau
 Meteor
 Meteoric
-Meteorológiai
+MeteorolÃ³giai
 Metex
 Meto Szegedi
 Metope
@@ -7544,28 +7544,28 @@ Metrikond
 Metripack
 Metrix
 Metro
-Metró
+MetrÃ³
 Metron
 Metropol
 Metropolis
-Metszéspont
+MetszÃ©spont
 Metz
 Metzger
-Mexikói
+MexikÃ³i
 Meyer
 Mezei
 Mezey
-Mezõ
-Mezõfalvai
-Mezõfalvi
-Mezõgazdasági
-Mezõgazdasági Kombinát
-Mezõgazdasági Szövetkezetek
-Mezõgazdasági Termelõk Érdekvédelmi
-Mezõgazdasági Termelõszövetkezet
-Mezõgazdasági Termelõszövetkezetek
-Mezõgép
-Mezõker
+MezÅ‘
+MezÅ‘falvai
+MezÅ‘falvi
+MezÅ‘gazdasÃ¡gi
+MezÅ‘gazdasÃ¡gi KombinÃ¡t
+MezÅ‘gazdasÃ¡gi SzÃ¶vetkezetek
+MezÅ‘gazdasÃ¡gi TermelÅ‘k Ã‰rdekvÃ©delmi
+MezÅ‘gazdasÃ¡gi TermelÅ‘szÃ¶vetkezet
+MezÅ‘gazdasÃ¡gi TermelÅ‘szÃ¶vetkezetek
+MezÅ‘gÃ©p
+MezÅ‘ker
 Mezon
 Mi-Ki
 Michael
@@ -7586,7 +7586,7 @@ Midio
 Miga
 Migal
 Mignon
-Mihályi
+MihÃ¡lyi
 Mihalik
 Mika
 Mike
@@ -7595,14 +7595,14 @@ Mikes
 Miki
 Mikka
 Mikla-Ker
-Miklós
-Mikó
+MiklÃ³s
+MikÃ³
 Mikro
 Mikro-Pulver
-Mikró
-Mikrobár
+MikrÃ³
+MikrobÃ¡r
 Mikrodat
-Mikrofotó
+MikrofotÃ³
 Mikrolab
 Mikrolan
 Mikroline
@@ -7615,8 +7615,8 @@ Mikrotherm
 Mikrotrade
 Mikrovill
 Mikrovolt
-Mikszáth
-Mikulás
+MikszÃ¡th
+MikulÃ¡s
 Mil
 Milady
 Milcsi
@@ -7630,27 +7630,27 @@ Milon
 Milos
 Mimax
 Mimikri
-Mimóza
+MimÃ³za
 Minaret
 Mind
 Minden 100 Ft
 Mindennap
-Minerál 99 Bányászati
+MinerÃ¡l 99 BÃ¡nyÃ¡szati
 Mineralien-Werke
 Minerva
 Mini
 Mini Drink
-Mini Fodrász
-Mini Vegyeskereskedés
+Mini FodrÃ¡sz
+Mini VegyeskereskedÃ©s
 Mini-Car
-Minibazár
+MinibazÃ¡r
 Minicoop
 Minimax
 Minipool
 Minitex
-Minõség
-Minõségi Csapágy
-Minõsített Hegesztõ
+MinÅ‘sÃ©g
+MinÅ‘sÃ©gi CsapÃ¡gy
+MinÅ‘sÃ­tett HegesztÅ‘
 Minor
 Minorita
 Mirabell
@@ -7668,11 +7668,11 @@ Misina
 Miskolci
 Miskolczi
 Missionart
-Misszió
+MissziÃ³
 Mister
 Mister Minit
 Mister Plastic
-Mistrál
+MistrÃ¡l
 Mistral
 Mithra
 Mithras
@@ -7690,25 +7690,25 @@ Mixtus
 Mixvill
 Mizsei
 Mizsu
-Mócsai
-Mókus
-Móló
-Móna
-Mónika
-Móra
-Móra Ferenc Mûvelõdési
-Móré
-Móri
-Móricz
-Móvár
-Mózer
-Möbel-Ker
-Möbelforrás
-Möbius
+MÃ³csai
+MÃ³kus
+MÃ³lÃ³
+MÃ³na
+MÃ³nika
+MÃ³ra
+MÃ³ra Ferenc MÅ±velÅ‘dÃ©si
+MÃ³rÃ©
+MÃ³ri
+MÃ³ricz
+MÃ³vÃ¡r
+MÃ³zer
+MÃ¶bel-Ker
+MÃ¶belforrÃ¡s
+MÃ¶bius
 Mobil
 Mobil Expo
-Mobil Gáz
-Mobil Irodabútor
+Mobil GÃ¡z
+Mobil IrodabÃºtor
 Mobil-Expo
 Mobilan
 Mobilart
@@ -7716,7 +7716,7 @@ Mobilconsult
 Mobile
 Mobilex
 Mobilia
-Mobilitás
+MobilitÃ¡s
 Mobilker
 Mobilsped
 Mobiltelefon
@@ -7735,22 +7735,22 @@ Mofetta
 Moga
 Mogul
 Moha
-Mohácsi
-Moharos Lászlóné
+MohÃ¡csi
+Moharos LÃ¡szlÃ³nÃ©
 Mohos
 Mokka
 Molba
-Moldován
+MoldovÃ¡n
 Molett
 Moletti
 Molki
 Molko
 Molkom
 Molly
-Molnár
-Molnár & Molnár
-Molnár és Bányai
-Molnár és Molnár
+MolnÃ¡r
+MolnÃ¡r & MolnÃ¡r
+MolnÃ¡r Ã©s BÃ¡nyai
+MolnÃ¡r Ã©s MolnÃ¡r
 Moltan
 Moltex
 Molva
@@ -7758,19 +7758,19 @@ Moment
 Momo
 Mona
 Mona Lisa
-Mona Lisa Modellstúdió
+Mona Lisa ModellstÃºdiÃ³
 Monaco
 Monamell
 Monarchia
 Mondat
 Mondial
 Mondolingva
-Monéta
+MonÃ©ta
 Moneta
 Monex
 Money
 Money-Back
-Mongúz
+MongÃºz
 Monimfa
 Monitex
 Monitor
@@ -7788,7 +7788,7 @@ Monostori
 Monsanto
 Mont
 Mont-Org
-Montázs
+MontÃ¡zs
 Montage
 Montana
 Montessori
@@ -7801,14 +7801,14 @@ Monzorich
 Moore
 Mopet
 Mora
-Morello Cipõimport
+Morello CipÅ‘import
 Morion
 Morus
 Morva
 Morvai
 Morzsi
 Mosberger
-Mosó
+MosÃ³
 Mosoly
 Moson
 Motel
@@ -7822,42 +7822,42 @@ Movi
 Movill
 Mozaik
 Mozart
-Mozgáskorlátozottak
-Mozgássérültek
-Mozgó Világ
+MozgÃ¡skorlÃ¡tozottak
+MozgÃ¡ssÃ©rÃ¼ltek
+MozgÃ³ VilÃ¡g
 Mozi
 Mozik
 Mr. Mixer
-Múzeum
-Múzeumok Igazgatósága
-Múzsa
-Müller
-Müller és Lánya
-München
-Müszol
-Müvelõdési
-Mûanyag
-Mûanyagfeldolgozó
-Mûhely
-Mûjégpálya
-Mûköröm
-Mûszaki
-Mûszaki Áruk
-Mûszaki Bizományi
-Mûszaki Biztonsági Fõfelügyelet
-Mûszaki és Bizományi
-Mûszer Automatika
-Mûszeripari
-Mûszertechnika
-Mûterem
-Mûvész
-Mûvészellátó
-Mûvészetek
-Mûvelõdési
-Mûvelõdési és Gyermekek
-Mûvelõdési és Ifjúsági
-Mûvelõdési és Közösségi
-Mûvelõdési és Sportcsarnok
+MÃºzeum
+MÃºzeumok IgazgatÃ³sÃ¡ga
+MÃºzsa
+MÃ¼ller
+MÃ¼ller Ã©s LÃ¡nya
+MÃ¼nchen
+MÃ¼szol
+MÃ¼velÅ‘dÃ©si
+MÅ±anyag
+MÅ±anyagfeldolgozÃ³
+MÅ±hely
+MÅ±jÃ©gpÃ¡lya
+MÅ±kÃ¶rÃ¶m
+MÅ±szaki
+MÅ±szaki Ãruk
+MÅ±szaki BizomÃ¡nyi
+MÅ±szaki BiztonsÃ¡gi FÅ‘felÃ¼gyelet
+MÅ±szaki Ã©s BizomÃ¡nyi
+MÅ±szer Automatika
+MÅ±szeripari
+MÅ±szertechnika
+MÅ±terem
+MÅ±vÃ©sz
+MÅ±vÃ©szellÃ¡tÃ³
+MÅ±vÃ©szetek
+MÅ±velÅ‘dÃ©si
+MÅ±velÅ‘dÃ©si Ã©s Gyermekek
+MÅ±velÅ‘dÃ©si Ã©s IfjÃºsÃ¡gi
+MÅ±velÅ‘dÃ©si Ã©s KÃ¶zÃ¶ssÃ©gi
+MÅ±velÅ‘dÃ©si Ã©s Sportcsarnok
 Muhi
 Multi
 Multi Alarm
@@ -7867,7 +7867,7 @@ Multicon
 Multicontact
 Multiform
 Multiker
-Multimédia
+MultimÃ©dia
 Multimed
 Multimex
 Multimix
@@ -7879,19 +7879,19 @@ Multistar
 Multiszolg
 Multitech
 Multitrade
-Munkácsi
-Munkáspárt
-Munkásszálló
-Munkaruházati
-Munkaügyi
-Munkavédelmi
-Murányi
-Murányi Bp.
-Muréna-H
+MunkÃ¡csi
+MunkÃ¡spÃ¡rt
+MunkÃ¡sszÃ¡llÃ³
+MunkaruhÃ¡zati
+MunkaÃ¼gyi
+MunkavÃ©delmi
+MurÃ¡nyi
+MurÃ¡nyi Bp.
+MurÃ©na-H
 Murvai
 Music
 Musicland
-Muskátli
+MuskÃ¡tli
 Mustang
 Mutsch Ungarn Reisen
 Mutter
@@ -7900,21 +7900,21 @@ N
 N & N
 N + GY
 N + N
-N és G
-N és N
+N Ã©s G
+N Ã©s N
 N+N
 N-B-F
 N-Data
-N-N Magyarországi Biztosító
+N-N MagyarorszÃ¡gi BiztosÃ­tÃ³
 N-Ter
 N.
 N. A.
-N. B. I. Nemes Biztonsági
+N. B. I. Nemes BiztonsÃ¡gi
 N. E. D.
 N. M. Y.
 N. N.
 N. O. B.
-NÁDAS
+NÃDAS
 NANT
 NBC
 NCS
@@ -7938,128 +7938,128 @@ NPV
 NR
 NRG
 Na-No
-Nádai
-Nádas
-Nádasd
-Nádasdy
-Nádaskay
-Nádi
-Nádix
-Nádor
-Nánási
-Náncsi Néni Vendéglõje
-Nárcisz
-Návay
-Názáreti Egyház
-Názer
+NÃ¡dai
+NÃ¡das
+NÃ¡dasd
+NÃ¡dasdy
+NÃ¡daskay
+NÃ¡di
+NÃ¡dix
+NÃ¡dor
+NÃ¡nÃ¡si
+NÃ¡ncsi NÃ©ni VendÃ©glÅ‘je
+NÃ¡rcisz
+NÃ¡vay
+NÃ¡zÃ¡reti EgyhÃ¡z
+NÃ¡zer
 Nabla
 Nacsa
 Nadir
-Nagév
+NagÃ©v
 Nagy
 Nagy Cont
 Nagy Ferenc
 Nagy Imre
-Nagy Károly
-Nagy Sándor
+Nagy KÃ¡roly
+Nagy SÃ¡ndor
 Nagy and Nagy
-Nagy és Nagy
-Nagycsaládosok
-Nagyerdõ
-Nagyfiúk
-Nagyházi
-Nagyító
-Nagyközségi
+Nagy Ã©s Nagy
+NagycsalÃ¡dosok
+NagyerdÅ‘
+NagyfiÃºk
+NagyhÃ¡zi
+NagyÃ­tÃ³
+NagykÃ¶zsÃ©gi
 Nagykun
-Nagyné
+NagynÃ©
 Naiv
 Naker
 Naki
 Nakita
-Nalco Kémiai
+Nalco KÃ©miai
 Namoto
 Nanaimo
 Nanuk
 Nap
-Napfény
-Napház
+NapfÃ©ny
+NaphÃ¡z
 Naphegy
 Napkelte
-Napközi
-Napközi Konyha
-Naplás
-Napló
-Napóra
+NapkÃ¶zi
+NapkÃ¶zi Konyha
+NaplÃ¡s
+NaplÃ³
+NapÃ³ra
 Napos Oldal
 Nappa
-Napraforgó
-Napsugár
-Napsugár Élelmiszer
-Napsugár Idõsek
-Napvilág
-Napvirág
-Naszály
+NapraforgÃ³
+NapsugÃ¡r
+NapsugÃ¡r Ã‰lelmiszer
+NapsugÃ¡r IdÅ‘sek
+NapvilÃ¡g
+NapvirÃ¡g
+NaszÃ¡ly
 Natec
-Nationale-Nederlanden Magyarországi Biztosító
+Nationale-Nederlanden MagyarorszÃ¡gi BiztosÃ­tÃ³
 Nativ
 Natur
 Natura
-Naturál
+NaturÃ¡l
 Natural Doktor
 Naturland
 Naturlife
 Naturtrade
 Nautilus
 Navi
-Navigátor
-Né-Ka
-Né-Ko
-Négy Évszak
-Négy M
-Négy Muskétás
-Négy P
-Négyesi
-Négykerék
-Német
-Német Nemzetiségi
-Németh
-Németh Jánosné
-Németh és Pásztor
-Németh-Trans
-Némethy
-Németi
-Népbolt
-Népjóléti Minisztérium
-Népmûvészeti
-Népmûvészeti és Háziipari
-Népszabadság
-Nérel
-Néva
-Nebuló
-Nebuló Könyvház
+NavigÃ¡tor
+NÃ©-Ka
+NÃ©-Ko
+NÃ©gy Ã‰vszak
+NÃ©gy M
+NÃ©gy MuskÃ©tÃ¡s
+NÃ©gy P
+NÃ©gyesi
+NÃ©gykerÃ©k
+NÃ©met
+NÃ©met NemzetisÃ©gi
+NÃ©meth
+NÃ©meth JÃ¡nosnÃ©
+NÃ©meth Ã©s PÃ¡sztor
+NÃ©meth-Trans
+NÃ©methy
+NÃ©meti
+NÃ©pbolt
+NÃ©pjÃ³lÃ©ti MinisztÃ©rium
+NÃ©pmÅ±vÃ©szeti
+NÃ©pmÅ±vÃ©szeti Ã©s HÃ¡ziipari
+NÃ©pszabadsÃ¡g
+NÃ©rel
+NÃ©va
+NebulÃ³
+NebulÃ³ KÃ¶nyvhÃ¡z
 Neckermann
 Nedhunfarm
-Nedû
+NedÅ±
 Nefelejcs
 Nefrit
-Negundó
+NegundÃ³
 Neil
 Neisser
 Nekro
-Nektár
+NektÃ¡r
 Nektarin
 Nelli
 Nelly
 Nelson
-Neményi
+NemÃ©nyi
 Nemes
 Nemzeti
-Nemzeti Hírközlési
-Nemzeti Színház
-Nemzeti Üdülési
-Nemzetközi
-Nemzetközi Gyermekmentõ
-Nemzetközi Menedzser
+Nemzeti HÃ­rkÃ¶zlÃ©si
+Nemzeti SzÃ­nhÃ¡z
+Nemzeti ÃœdÃ¼lÃ©si
+NemzetkÃ¶zi
+NemzetkÃ¶zi GyermekmentÅ‘
+NemzetkÃ¶zi Menedzser
 Neo
 Neolit
 Nephrocentrum
@@ -8079,15 +8079,15 @@ Neubauer
 Neuberger
 Neuland
 Neumann
-Neuréka
+NeurÃ©ka
 Neuron
 Neutrino
 Neutron
 Neva
 Nevada
-Nevelési
-Nevelési Tanácsadó és Beszédjavító
-Nevelõotthon
+NevelÃ©si
+NevelÃ©si TanÃ¡csadÃ³ Ã©s BeszÃ©djavÃ­tÃ³
+NevelÅ‘otthon
 New
 New Deal
 New Holland
@@ -8103,53 +8103,53 @@ Nexon
 Next
 Nexum
 Nexus
-Nívó
+NÃ­vÃ³
 Niagara
 Nicholson
 Nico
 Nika
 Nike
-Niké
+NikÃ©
 Nikex
 Nikits
 Nikkel
 Niko
-Nikó
+NikÃ³
 Nikoletti
 Nilus
 Nimbus
 Nimbusz
 Nimo
-Nimród
+NimrÃ³d
 Nippon
 Nisa
-Nissan Márkaképviselet
+Nissan MÃ¡rkakÃ©pviselet
 Nit-Hungary
 Nitinol
 Nitor
-Nitrokémia
-Nivó
+NitrokÃ©mia
+NivÃ³
 No Limit
 No+Va
-Nógrád
-Nógrádi
-Nóniusz
-Nóniusz Szerszám
-Nóra
-Növény és Talajvédelmi
-Növény- és Talajvédelmi
-Növényegészségügyi és Talajvédelmi
-Növénypatika
-Növénytermesztõ
-Növényvédõ
-Nõi
-Nõi-Férfi
+NÃ³grÃ¡d
+NÃ³grÃ¡di
+NÃ³niusz
+NÃ³niusz SzerszÃ¡m
+NÃ³ra
+NÃ¶vÃ©ny Ã©s TalajvÃ©delmi
+NÃ¶vÃ©ny- Ã©s TalajvÃ©delmi
+NÃ¶vÃ©nyegÃ©szsÃ©gÃ¼gyi Ã©s TalajvÃ©delmi
+NÃ¶vÃ©nypatika
+NÃ¶vÃ©nytermesztÅ‘
+NÃ¶vÃ©nyvÃ©dÅ‘
+NÅ‘i
+NÅ‘i-FÃ©rfi
 Nobilis
 Noblesse
-Noé
-Noévbri
+NoÃ©
+NoÃ©vbri
 Noel
-Nomád
+NomÃ¡d
 Nominal
 Non-Stop
 Noni
@@ -8165,7 +8165,7 @@ Nord-West
 Nordenia
 Nordic
 Norex
-Norma-Trió
+Norma-TriÃ³
 Normafa
 Normatech
 Norpan
@@ -8176,9 +8176,9 @@ Nosztalgia
 Nota Bene
 Notebook
 Nova
-Novák
-Novák és Novák
-Novátor
+NovÃ¡k
+NovÃ¡k Ã©s NovÃ¡k
+NovÃ¡tor
 Novara
 Novartis
 Novella
@@ -8186,7 +8186,7 @@ Novi
 Novia
 Noviki
 Novita
-Novizsó
+NovizsÃ³
 Novo
 Novo-Pan
 Novoferm
@@ -8198,154 +8198,154 @@ Novum
 Nowa-Ker
 Nowaco
 Nucleus
-Null-Saldó
+Null-SaldÃ³
 Numero Egy
 Numero Uno
 Nuovapell
 Nussbaum
-Nyák
-Nyárfa
-Nyárfás
-Nyári
-Nyak-Ép
+NyÃ¡k
+NyÃ¡rfa
+NyÃ¡rfÃ¡s
+NyÃ¡ri
+Nyak-Ã‰p
 Nyakas
 Nyakashegy
 Nyelviskola
 Nyerges
 Nyeste
-Nyílászáró
-Nyír-Demonich
-Nyír-Gaz
-Nyír-Mix-Trade
-Nyír-Pharma
-Nyírfa
-Nyíri
-Nyírség
-Nyírségi
-Nyírségvíz
+NyÃ­lÃ¡szÃ¡rÃ³
+NyÃ­r-Demonich
+NyÃ­r-Gaz
+NyÃ­r-Mix-Trade
+NyÃ­r-Pharma
+NyÃ­rfa
+NyÃ­ri
+NyÃ­rsÃ©g
+NyÃ­rsÃ©gi
+NyÃ­rsÃ©gvÃ­z
 Nyikes
 Nyilas
-Nyilvános
+NyilvÃ¡nos
 Nyitrai
-Nyitrai és Nyitrai
+Nyitrai Ã©s Nyitrai
 Nyomda
 Nyomdacoop
-Nyomdai Elõkészítõ
+Nyomdai ElÅ‘kÃ©szÃ­tÅ‘
 Nyomdaipari
-Nyomtatvány
-Nyúl
+NyomtatvÃ¡ny
+NyÃºl
 Nyugat
-Nyugat Antikvárium
-Nyugat-Dunántúli Vízügyi
-Nyugat-Magyarországi
-Nyugat-Magyarországi Egyetem
+Nyugat AntikvÃ¡rium
+Nyugat-DunÃ¡ntÃºli VÃ­zÃ¼gyi
+Nyugat-MagyarorszÃ¡gi
+Nyugat-MagyarorszÃ¡gi Egyetem
 Nyugati Kapu
-Nyugdíjas
-Nyugdíjasok
-Nyugdíjbiztosítási
+NyugdÃ­jas
+NyugdÃ­jasok
+NyugdÃ­jbiztosÃ­tÃ¡si
 Nyugi
 O & T
 O. K.
 O/A
-Óbuda
-Óbuda-Invest
-Óbudai
-Óceán
-Ócsa-Soroksár
-Óhegy
-Óhegyi
-Ónodi
-Óra
-Óra és Ékszer
-Óra- és Ékszerkereskedelmi
-Óra-Ékszer
-Órás
-Óriás
-Óvári
-Óvárosi
-Óvoda
-Ózon
-Öcsi
-Öko-Eco
-Öko-Park
-Ökoplan
-Ökoszerviz
-Ökotop
-Öltönyház
-Ön-Ért
-Önkormányzat
-Önkormányzati
-Öntözõfürt
-Öreg Halász
-Öreg Malom
-Öreg Pákász
-Öreg Prés
-Öregek Napközi
-Öregház
-Öreghegyi
-Örökzöld
-Örsi
-Összefogás
-Öt Huszár
-Öt-Tó
-Ötlet
-Öttorony
-Ötvös
-Õrangyal
-Õrhegy
-Õri
-Õrike
-Õrnagy
-Õrségi
-Õrtanoda
-Õrtorony
+Ã“buda
+Ã“buda-Invest
+Ã“budai
+Ã“ceÃ¡n
+Ã“csa-SoroksÃ¡r
+Ã“hegy
+Ã“hegyi
+Ã“nodi
+Ã“ra
+Ã“ra Ã©s Ã‰kszer
+Ã“ra- Ã©s Ã‰kszerkereskedelmi
+Ã“ra-Ã‰kszer
+Ã“rÃ¡s
+Ã“riÃ¡s
+Ã“vÃ¡ri
+Ã“vÃ¡rosi
+Ã“voda
+Ã“zon
+Ã–csi
+Ã–ko-Eco
+Ã–ko-Park
+Ã–koplan
+Ã–koszerviz
+Ã–kotop
+Ã–ltÃ¶nyhÃ¡z
+Ã–n-Ã‰rt
+Ã–nkormÃ¡nyzat
+Ã–nkormÃ¡nyzati
+Ã–ntÃ¶zÅ‘fÃ¼rt
+Ã–reg HalÃ¡sz
+Ã–reg Malom
+Ã–reg PÃ¡kÃ¡sz
+Ã–reg PrÃ©s
+Ã–regek NapkÃ¶zi
+Ã–reghÃ¡z
+Ã–reghegyi
+Ã–rÃ¶kzÃ¶ld
+Ã–rsi
+Ã–sszefogÃ¡s
+Ã–t HuszÃ¡r
+Ã–t-TÃ³
+Ã–tlet
+Ã–ttorony
+Ã–tvÃ¶s
+Årangyal
+Århegy
+Åri
+Årike
+Årnagy
+ÅrsÃ©gi
+Årtanoda
+Årtorony
 OBR
 OFFICINA
 OM
-OMMI Területi Vetõmagfelügyelõség
+OMMI TerÃ¼leti VetÅ‘magfelÃ¼gyelÅ‘sÃ©g
 OMS
 OPS
 ORIGO
 OTP
 OTP Bank
-OTP-Garancia Biztosító
+OTP-Garancia BiztosÃ­tÃ³
 OVB
 OVIBER
 OVIT
-Oázis
+OÃ¡zis
 Obeliszk
-Obligó
+ObligÃ³
 Obsitos
-Obszidián
+ObszidiÃ¡n
 Octopus
 Odeon
 Office
 Office and
 Office-Tech
 Officina
-Ofotért Optikai
+OfotÃ©rt Optikai
 Ok
 Okay
-Oké
+OkÃ©
 Okker
-Okmányiroda
-Oktán
-Oktaéder
+OkmÃ¡nyiroda
+OktÃ¡n
+OktaÃ©der
 Oktat
-Oktatási
+OktatÃ¡si
 Oktoford
 Oktogon
-Oláh
-Oláh Sándor
+OlÃ¡h
+OlÃ¡h SÃ¡ndor
 Olasz
 Old Lake
 Olimpia
 Olimpik
 Olinda
 Oliva
-Olivér
+OlivÃ©r
 Oliver
-Ollé
+OllÃ©
 Olong
 Olympia
 Olympic
@@ -8360,16 +8360,16 @@ Omnis
 On Time
 On-Air
 Onix
-Onkológiai Gondozó
+OnkolÃ³giai GondozÃ³
 Online
 Onome
 Onozo Agro
 Ontario
 Onyeg Export
 Onyx
-Opál
-Opció
-Opel Márkakereskedés
+OpÃ¡l
+OpciÃ³
+Opel MÃ¡rkakereskedÃ©s
 Opel Southeast Europe
 Open
 Operett
@@ -8377,14 +8377,14 @@ Opsis
 Opteam
 Opticar
 Opticost
-Optigáz
+OptigÃ¡z
 Optika
-Optika-Fotó
+Optika-FotÃ³
 Optikai
 Optilink
 Optim
 Optima
-Optimál
+OptimÃ¡l
 Optimal
 Optimax
 Optimum
@@ -8394,7 +8394,7 @@ Optoteam
 Opus
 Orange
 Oravecz
-Orbán
+OrbÃ¡n
 Orchidea
 Orco
 Orcsik
@@ -8402,62 +8402,62 @@ Ordas
 Orex
 Orfeusz
 Organon
-Orgoványi
+OrgovÃ¡nyi
 Orient
-Orientál
+OrientÃ¡l
 Orientsped
 Origo
-Origó
+OrigÃ³
 Orion
 Orlando
-Ormánság
+OrmÃ¡nsÃ¡g
 Ormai
 Ornament
 Orom
 Oros
-Oros Família
+Oros FamÃ­lia
 Orosz
-Oroszlán
+OroszlÃ¡n
 Orova
 Orsi
-Orsó
+OrsÃ³
 Orsolya
-Országgyûlés Hivatala
-Országgyûlési
-Országgyûlési Képviselõ
-Országos
-Országos Egészségbiztosítási Pénztár
-Országos Közoktatási
-Országos Közoktatási Értékelési és Vizsgaközpont
-Országos Mesterséges Termékenyítõ
-Országos Szórakoztatózenei
-Országos Takarékpénztár Bank
-Országos Vérellátó
-Országos Villamos Távvezeték
-Országos Villamostávvezeték
-Országos és Fordításhitelesítõ
+OrszÃ¡ggyÅ±lÃ©s Hivatala
+OrszÃ¡ggyÅ±lÃ©si
+OrszÃ¡ggyÅ±lÃ©si KÃ©pviselÅ‘
+OrszÃ¡gos
+OrszÃ¡gos EgÃ©szsÃ©gbiztosÃ­tÃ¡si PÃ©nztÃ¡r
+OrszÃ¡gos KÃ¶zoktatÃ¡si
+OrszÃ¡gos KÃ¶zoktatÃ¡si Ã‰rtÃ©kelÃ©si Ã©s VizsgakÃ¶zpont
+OrszÃ¡gos MestersÃ©ges TermÃ©kenyÃ­tÅ‘
+OrszÃ¡gos SzÃ³rakoztatÃ³zenei
+OrszÃ¡gos TakarÃ©kpÃ©nztÃ¡r Bank
+OrszÃ¡gos VÃ©rellÃ¡tÃ³
+OrszÃ¡gos Villamos TÃ¡vvezetÃ©k
+OrszÃ¡gos VillamostÃ¡vvezetÃ©k
+OrszÃ¡gos Ã©s FordÃ­tÃ¡shitelesÃ­tÅ‘
 Orszak
 Orto
-Ortodox Egyházközség
+Ortodox EgyhÃ¡zkÃ¶zsÃ©g
 Orvosi
-Orvosi Rendelõk
-Orvosi Ügyelet
-Orvosszakértõi
+Orvosi RendelÅ‘k
+Orvosi Ãœgyelet
+OrvosszakÃ©rtÅ‘i
 Oryx
 Oscar
 Osi
 Osram
 Ostrom
-Osváth
+OsvÃ¡th
 Oszi
-Oszkó
+OszkÃ³
 Oszlop
 Oszvald
 Otthon
 Otto
-Ottó
+OttÃ³
 Oxford
-Oxigén
+OxigÃ©n
 Ozirisz
 P
 P & A
@@ -8467,13 +8467,13 @@ P & S
 P & T
 P + P
 P and P
-P és Á
-P és B
-P és J
-P és P
-P és R
-P és T
-P és V
+P Ã©s Ã
+P Ã©s B
+P Ã©s J
+P Ã©s P
+P Ã©s R
+P Ã©s T
+P Ã©s V
 P+B
 P+D
 P+S
@@ -8495,12 +8495,12 @@ P. U. B.
 P4
 P9
 PA-KO
-PÁLMA
+PÃLMA
 PAM-PRESS
 PANAGRO
 PANDA
 PC
-PC Trió
+PC TriÃ³
 PC-Max
 PC-Shop
 PCN
@@ -8529,51 +8529,51 @@ PR
 PRAKTIKA
 PRO
 PSINET
-Páfrány
-Pákai
-Pákay
-Páko
-Pákozdi
-Pál
-Pál-Ker
-Páldy
-Pálfalvi
-Pálffy
-Pálfi
-Pálfy
-Páli
-Pálinkás
-Pálma
-Pálos
-Pálosi
-Pálvölgyi
-Pán-Uno
-Pánczél
-Pápai
-Pár
-Párduc
-Párizs
-Párizsi
-Párkány
-Párkányi
-Párlat
-Párma
-Pártok
-Pásztor
-Pásztor és Pásztor
-Páter
-Pátria
-Páva
-Pázsit
-Paál
+PÃ¡frÃ¡ny
+PÃ¡kai
+PÃ¡kay
+PÃ¡ko
+PÃ¡kozdi
+PÃ¡l
+PÃ¡l-Ker
+PÃ¡ldy
+PÃ¡lfalvi
+PÃ¡lffy
+PÃ¡lfi
+PÃ¡lfy
+PÃ¡li
+PÃ¡linkÃ¡s
+PÃ¡lma
+PÃ¡los
+PÃ¡losi
+PÃ¡lvÃ¶lgyi
+PÃ¡n-Uno
+PÃ¡nczÃ©l
+PÃ¡pai
+PÃ¡r
+PÃ¡rduc
+PÃ¡rizs
+PÃ¡rizsi
+PÃ¡rkÃ¡ny
+PÃ¡rkÃ¡nyi
+PÃ¡rlat
+PÃ¡rma
+PÃ¡rtok
+PÃ¡sztor
+PÃ¡sztor Ã©s PÃ¡sztor
+PÃ¡ter
+PÃ¡tria
+PÃ¡va
+PÃ¡zsit
+PaÃ¡l
 Pacific
 Pacific Cycles
 Pack Pro
 Packet
 Pacsirta
-Padlás
+PadlÃ¡s
 Pados
-Pagát
+PagÃ¡t
 Pagoda
 Pagony
 Paian
@@ -8582,34 +8582,34 @@ Paintball
 Paizs
 Pajola
 Pajor
-Pajtás
+PajtÃ¡s
 Pajzs
 Pak
 Pako
 Paksi
 Paktum
 Pal-Co
-Palád
-Palásthy
-Palásti
+PalÃ¡d
+PalÃ¡sthy
+PalÃ¡sti
 Palatinus
 Palatium
 Palco
 Palett-Ex
 Paletta
 Palker
-Palkó
+PalkÃ³
 Palladio
 Pallag
 Pallagi
 Pallasz
 Pallber
-Pallér
+PallÃ©r
 Palm
 Palmers
 Palmetta
-Palóc
-Palócz
+PalÃ³c
+PalÃ³cz
 Paloma
 Palota
 Palotai
@@ -8625,47 +8625,47 @@ Pandora
 Panel
 Panem
 Panninov
-Pannónia
-Pannónia Bútorstúdió
+PannÃ³nia
+PannÃ³nia BÃºtorstÃºdiÃ³
 Pannon
 Pannon Change
 Pannon II
-Pannon Lapok Társasága
+Pannon Lapok TÃ¡rsasÃ¡ga
 Pannon Pro
 Pannon Protektor
-Pannon Volán
+Pannon VolÃ¡n
 Pannon-Truck
 Pannonbeton
 Pannoncont
-Pannongáz
+PannongÃ¡z
 Pannonia
 Pannonica
 Pannonker
-Pannonlízing
+PannonlÃ­zing
 Pannonplast
-Pannonvad Vadászatszervezõ
+Pannonvad VadÃ¡szatszervezÅ‘
 Pannonvia
-Panoráma
-Panoráma Szálloda
+PanorÃ¡ma
+PanorÃ¡ma SzÃ¡lloda
 Panta Rhei
 Panther
 Panthor
 Panton
 Pantourist
-Panzió
+PanziÃ³
 Pap
 Papageno
 Paper
 Paper World
 Papi
-Papír
-Papír-
-Papír-Írószer
-Papír-Írószer Nyomtatvány
-Papír-írószer
-Papírhajó
-Papírker
-Papírsped
+PapÃ­r
+PapÃ­r-
+PapÃ­r-ÃrÃ³szer
+PapÃ­r-ÃrÃ³szer NyomtatvÃ¡ny
+PapÃ­r-Ã­rÃ³szer
+PapÃ­rhajÃ³
+PapÃ­rker
+PapÃ­rsped
 Papillon
 Papirosz
 Papirus
@@ -8674,10 +8674,10 @@ Papp
 Paprika
 Papyrus
 Para-Ker
-Parázs
+ParÃ¡zs
 Parabola
 Paracelsus
-Paracelsus Gyógyszerészeti
+Paracelsus GyÃ³gyszerÃ©szeti
 Paradise
 Paradiso
 Parafa
@@ -8685,12 +8685,12 @@ Paragon
 Paralell
 Parallel
 Paramount
-Paraplé
+ParaplÃ©
 Parcella
-Parfüm
+ParfÃ¼m
 Pari
 Paris
-Paritás
+ParitÃ¡s
 Paritas
 Park
 Parkett
@@ -8698,7 +8698,7 @@ Parketta
 Parking
 Parmalat
 Parmen
-Paróczai
+ParÃ³czai
 Parola
 Parri
 Parrot
@@ -8712,15 +8712,15 @@ Partners
 Partnership
 Party
 Pasa
-Pasaréti
+PasarÃ©ti
 Pascha
 Pasha
-Paskál
+PaskÃ¡l
 Passage
 Passat
 Passport
 Passzer
-Passzió
+PassziÃ³
 Pastell
 Pasteur
 Pasztell
@@ -8730,22 +8730,22 @@ Pataki
 Patakpart
 Pataky
 Patco
-Patella Belsõépítészeti
+Patella BelsÅ‘Ã©pÃ­tÃ©szeti
 Patendula
 Patent
 Patex
-Pathológiai
+PatholÃ³giai
 Pati
 Patik
 Patika
 Patina
 Patio
-Patkó
-Patkós
-Patócs
+PatkÃ³
+PatkÃ³s
+PatÃ³cs
 Patrik
 Patrilla
-Patrónus
+PatrÃ³nus
 Patyi
 Patyolat
 Pauer
@@ -8759,42 +8759,42 @@ Pax
 Payett
 Pazar
 Pe-Zo
-Pécsi
-Pécsi Generál
-Pécsi Hydroterv
-Pécsi Vasutas Sportkör
-Pék
-Pékáru
-Pékség
-Péntek
-Pénzes
-Pénzmentõ
-Pénztárgép
-Pénzváltó
-Péta
-Péter
-Péter Pál
-Péterhegyi
-Péteri
-Pétervári
+PÃ©csi
+PÃ©csi GenerÃ¡l
+PÃ©csi Hydroterv
+PÃ©csi Vasutas SportkÃ¶r
+PÃ©k
+PÃ©kÃ¡ru
+PÃ©ksÃ©g
+PÃ©ntek
+PÃ©nzes
+PÃ©nzmentÅ‘
+PÃ©nztÃ¡rgÃ©p
+PÃ©nzvÃ¡ltÃ³
+PÃ©ta
+PÃ©ter
+PÃ©ter PÃ¡l
+PÃ©terhegyi
+PÃ©teri
+PÃ©tervÃ¡ri
 Pearl
 Pecuniaagora
-Pedagógiai
-Pedagógiai Szakszolgálat
-Pedagógusok Szakszervezete
-Pediáter
+PedagÃ³giai
+PedagÃ³giai SzakszolgÃ¡lat
+PedagÃ³gusok Szakszervezete
+PediÃ¡ter
 Pediater
 Pedimed
 Pedit
 Pedmed
 Pedro
-Pedró
+PedrÃ³
 Pegasus
 Pegazus
-Pekár
-Pelényi
+PekÃ¡r
+PelÃ©nyi
 Pelei
-Pelikán
+PelikÃ¡n
 Pelle
 Pelso
 Peltex
@@ -8803,11 +8803,11 @@ Pen-Dent
 Pencart
 Penda
 Penge
-Pengõ
+PengÅ‘
 Penna
 Penny
 Penta
-Penta Unió
+Penta UniÃ³
 Penta-Trade
 PentaClean
 Pentacomp
@@ -8820,11 +8820,11 @@ Pentz
 Penzum
 Pepi
 Pepita
-Pepó
+PepÃ³
 Per-Form
 Percent
 Pere
-Perényi
+PerÃ©nyi
 Pereg
 Peregi
 Peregrinus
@@ -8833,7 +8833,7 @@ Perfect
 Perfect Medical
 Perfect Settings
 Perfekt
-Perfekt Szakoktató
+Perfekt SzakoktatÃ³
 Perform
 Pergamen
 Pergament
@@ -8841,9 +8841,9 @@ Perger
 Pergola
 Perinola
 Perint
-Perion Akkumulátorgyár
-Periszkóp
-Perjési
+Perion AkkumulÃ¡torgyÃ¡r
+PeriszkÃ³p
+PerjÃ©si
 Perkop
 Perl
 Perla
@@ -8867,29 +8867,29 @@ Peter
 Peter's
 Peter's Textil
 Pethes
-Pethõ
+PethÅ‘
 Peti
 Peti-Sped
 Petik
 Petild
 Petka
-Petneházy
-Petõ
-Petõcz és Perecsényi
-Petõfi
-Petõfi Mûvelõdési
-Petõfi Sándor Mûvelõdési
+PetnehÃ¡zy
+PetÅ‘
+PetÅ‘cz Ã©s PerecsÃ©nyi
+PetÅ‘fi
+PetÅ‘fi MÅ±velÅ‘dÃ©si
+PetÅ‘fi SÃ¡ndor MÅ±velÅ‘dÃ©si
 Petra
-Petrák
+PetrÃ¡k
 Petrics
-Petró
+PetrÃ³
 Petroff
 Petrol
 Petrovics
 Petruska
 Petz
 Peugeot
-Peugeot Márkakereskedés
+Peugeot MÃ¡rkakereskedÃ©s
 Pex
 Pexim
 Pezo
@@ -8906,7 +8906,7 @@ Pharmaconsult
 Pharmanova
 Pharmatax
 Philips
-Phõnix
+PhÅ‘nix
 Phobex
 Phoebus
 Phoenix
@@ -8916,76 +8916,76 @@ Photo Porst
 Pi
 Piac
 Piano
-Piccoló
+PiccolÃ³
 Pici
-Picipó
-Pick Szegedi Szalámigyár és Húsüzem
+PicipÃ³
+Pick Szegedi SzalÃ¡migyÃ¡r Ã©s HÃºsÃ¼zem
 Pick-Up
 Pico
-Picoló
+PicolÃ³
 Picuri
-Piért
+PiÃ©rt
 Piepenbrock
 Pier
 Pieroth
 Pierrot
-Pietas Temetkezési
+Pietas TemetkezÃ©si
 Pietro
 Piezo
 Pigment
-Pigment Generál
-Pikk Dáma
+Pigment GenerÃ¡l
+Pikk DÃ¡ma
 Pikker
 Piknik
 Piko
-Pikoló
+PikolÃ³
 Piktor
-Piktor Háztartási
+Piktor HÃ¡ztartÃ¡si
 Pilaszter
 Pilis
 Pilisi
 Pilistex
 Pille
-Pillér
+PillÃ©r
 Piller
 Pilon
 Pince
-Pinceborozó
+PinceborozÃ³
 Pinczel
 Pinczi
 Pingvin
 Pink
 Pink-House
 Pinke
-Pintér
-Pintér és Pintér
+PintÃ©r
+PintÃ©r Ã©s PintÃ©r
 Pinty
 Pipacs
 Pipi
 Pipo
 Pipszolg
 Piramis
-Piramis Építõház
+Piramis Ã‰pÃ­tÅ‘hÃ¡z
 Piramita
-Pirinyó
+PirinyÃ³
 Pirit
-Pirkó
-Pirográn
+PirkÃ³
+PirogrÃ¡n
 Piros
 Piros Bika
 Piroska
-Pisztráng
+PisztrÃ¡ng
 Piti
 Pitvar
 Pizza
 Pizza Expressz
 Pizza Family
 Pizza Hut
-Pizzéria
-Plánszöv Generáltervezõ
-Plánum
+PizzÃ©ria
+PlÃ¡nszÃ¶v GenerÃ¡ltervezÅ‘
+PlÃ¡num
 Plan
-Planéta
+PlanÃ©ta
 Planet
 Planex
 Planning &
@@ -8999,66 +8999,66 @@ Plastex
 Plastic
 Plastpat
 Plasztik
-Platán
+PlatÃ¡n
 Platinum
 Plaut
 Player
 Plaza
-Plébánia
-Plébániahivatal
-Plébániahivatalok
-Pléh
+PlÃ©bÃ¡nia
+PlÃ©bÃ¡niahivatal
+PlÃ©bÃ¡niahivatalok
+PlÃ©h
 Plimsoll
 Plinius
 Plose
 Plotter
-Plútó
-Plüss
+PlÃºtÃ³
+PlÃ¼ss
 Plus
-Plus Élelmiszer
+Plus Ã‰lelmiszer
 Pluss
 Plusz
 Plusz and Roll
-Plutó
+PlutÃ³
 Pneu
 Pneu-Trade
 Pneuker
 Pneumat
 Pneumatika
-Pódium
-Pók
-Póka
-Póker
-Pólus
-Póni
-Pósfai
-Pótkerék
-Pölöskei
-Pöttyös
+PÃ³dium
+PÃ³k
+PÃ³ka
+PÃ³ker
+PÃ³lus
+PÃ³ni
+PÃ³sfai
+PÃ³tkerÃ©k
+PÃ¶lÃ¶skei
+PÃ¶ttyÃ¶s
 Pocak
 Pocok
-Pogácsa
+PogÃ¡csa
 Pohl
 Point
 Pointer
 Pokol
-Polár
+PolÃ¡r
 Polar
 Polar-Trend
 Polaris
-Polaritás
+PolaritÃ¡s
 Polder
-Polgár
-Polgár Pince
-Polgári
-Polgári Védelmi Kirendeltség
-Polgári Védelmi Parancsnokság
-Polgármesteri
-Polgárõr
-Polgárõrség
-Polgárvédelmi Parancsnokság
+PolgÃ¡r
+PolgÃ¡r Pince
+PolgÃ¡ri
+PolgÃ¡ri VÃ©delmi KirendeltsÃ©g
+PolgÃ¡ri VÃ©delmi ParancsnoksÃ¡g
+PolgÃ¡rmesteri
+PolgÃ¡rÅ‘r
+PolgÃ¡rÅ‘rsÃ©g
+PolgÃ¡rvÃ©delmi ParancsnoksÃ¡g
 Poli-Form
-Polír
+PolÃ­r
 Police
 Polichrom
 Poligon
@@ -9071,7 +9071,7 @@ Polireg
 Poliszolg
 Politechnikum
 Politrade
-Pollák
+PollÃ¡k
 Pollux
 Polma
 Polo
@@ -9082,22 +9082,22 @@ Poly-Komo
 Poly-Mix
 Poly-Plast
 Poly-Tex Revue
-Polyák
+PolyÃ¡k
 Polygon
 Polymed
-Pomádé
-Pomáz
-Pomázi
+PomÃ¡dÃ©
+PomÃ¡z
+PomÃ¡zi
 Pomozi
-Pongrácz
+PongrÃ¡cz
 Pont
 Pont Ez
 Ponte
 Pontos
-Pontos Idõ
+Pontos IdÅ‘
 Pontus
 Ponty
-Poór
+PoÃ³r
 Pool
 Popeye
 Populus
@@ -9107,19 +9107,19 @@ Porsche
 Porst
 Port
 Porta
-Portál
+PortÃ¡l
 Porto
-Portó
+PortÃ³
 Possessor
 Post
 Post Office
 Posta
-Posta Szolgáltatók Szakmai
-Postaautó
-Postaautó Duna
+Posta SzolgÃ¡ltatÃ³k Szakmai
+PostaautÃ³
+PostaautÃ³ Duna
 Postabank
-Postabank és Takarékpénztár
-Postai és Távközlési Múzeumi
+Postabank Ã©s TakarÃ©kpÃ©nztÃ¡r
+Postai Ã©s TÃ¡vkÃ¶zlÃ©si MÃºzeumi
 Postakocsi
 Poster
 Posztamens
@@ -9128,60 +9128,60 @@ Potom
 Potyka
 Power
 Power Gym
-Pozitív
+PozitÃ­v
 Pozitron
-Pozsár
+PozsÃ¡r
 Pozsonyi
-Práger
-Práter
+PrÃ¡ger
+PrÃ¡ter
 Practice
 Pragma
 Praktik
 Praktika
-Praktiker Építési és Barkácspiacok
+Praktiker Ã‰pÃ­tÃ©si Ã©s BarkÃ¡cspiacok
 Praktikum
-Praliné
+PralinÃ©
 Praxel
 Praxis
-Prémium
-Présház
-Precíz
+PrÃ©mium
+PrÃ©shÃ¡z
+PrecÃ­z
 Precision
 Preciz
 Preisz
 Prekop
 Premax
 Premier
-Premier Utazási
+Premier UtazÃ¡si
 Present
 Presi-Dent
 President
 Press
 Press +
-Press és Holz
+Press Ã©s Holz
 Presto
 Presztizs
-Prevenció
+PrevenciÃ³
 Prevent
 Preventa
-Preventív
+PreventÃ­v
 Preventio
 Preventiv
 Prezent Text
 Pri-Comp
-Príma
-Prímadó
+PrÃ­ma
+PrÃ­madÃ³
 Prim
 Prima
 Primafruit
-Primagáz
+PrimagÃ¡z
 Prime
 Prime Rate
-Primér
+PrimÃ©r
 Primer
 Primex
 Primo
-Primõr
+PrimÅ‘r
 Primor
 Primula
 Primus
@@ -9198,9 +9198,9 @@ Printex
 Printing
 Printself
 Prior
-Privát
-Privát Haszon
-Privát Praxis
+PrivÃ¡t
+PrivÃ¡t Haszon
+PrivÃ¡t Praxis
 Prizma
 Pro
 Pro Arte
@@ -9218,9 +9218,9 @@ Pro-Form
 Pro-Ker
 Pro-Mobil
 Pro-Szer
-Pro-Terminál
+Pro-TerminÃ¡l
 Probe
-Probitás
+ProbitÃ¡s
 Probitas
 Procent
 Process Control
@@ -9229,7 +9229,7 @@ Procon
 Procont
 Proconto
 Procter & Gamble
-Prodia Laboratórium
+Prodia LaboratÃ³rium
 Prodom
 Product
 Production
@@ -9240,11 +9240,11 @@ Profa
 Profectus
 Professio
 Professional
-Professzionál
+ProfesszionÃ¡l
 Profex
 Profi
-Profi Kódex
-Profi Nyílászáró
+Profi KÃ³dex
+Profi NyÃ­lÃ¡szÃ¡rÃ³
 Profi-T
 Profi-Vill
 Profident
@@ -9258,7 +9258,7 @@ Profinfo
 Profis
 Profisoft
 Profit
-Profitál
+ProfitÃ¡l
 Profitour
 Profix
 Profo
@@ -9278,7 +9278,7 @@ Prom
 Prom-X
 Promenade
 Prometheus
-Prometheus Tüzeléstechnikai
+Prometheus TÃ¼zelÃ©stechnikai
 Prominens
 Promise
 Promote
@@ -9287,11 +9287,11 @@ Prompt
 Promt
 Pront
 Pronto
-Prontogáz
+ProntogÃ¡z
 Property
 Propos
 Prospering
-Prosperitás
+ProsperitÃ¡s
 Prospero
 Proszit
 Protax
@@ -9305,16 +9305,16 @@ Protektor
 Protetika
 Protfilt
 Proton
-Provízió
+ProvÃ­ziÃ³
 Provident
-Provinciál
+ProvinciÃ¡l
 Proxy
-Pszichiátriai
-Pszichiátriai Betegek
-Pszichiátriai Gondozó
-Pszichiátriai Szakkórház
-Püski
-Püspöki
+PszichiÃ¡triai
+PszichiÃ¡triai Betegek
+PszichiÃ¡triai GondozÃ³
+PszichiÃ¡triai SzakkÃ³rhÃ¡z
+PÃ¼ski
+PÃ¼spÃ¶ki
 Pub
 Public
 Publikum
@@ -9325,14 +9325,14 @@ Pulzus
 Puma
 Purus
 Pusi
-Puskás
+PuskÃ¡s
 Puszta
 Pusztai
 Pylon
 Q
 Q & A
 Q & C
-Q és P
+Q Ã©s P
 Q-Art
 Q-Team
 Q-Teszt
@@ -9384,14 +9384,14 @@ R + J
 R + K
 R + R
 R and T
-R és B
-R és D Agrotechnikai
-R és H
-R és J
-R és K
-R és R
-R és S
-R és T
+R Ã©s B
+R Ã©s D Agrotechnikai
+R Ã©s H
+R Ã©s J
+R Ã©s K
+R Ã©s R
+R Ã©s S
+R Ã©s T
 R+C
 R+R
 R-Copy
@@ -9425,70 +9425,70 @@ RS
 RS/9
 RST
 RT
-Rába
-Rába Domínium
-Rábaközi
-Rábensteiner
-Ráció
-Rácz
-Rácz és Rácz
-Ráczió
-Rádi
-Rádió
-Rádiótelefon
-Rádiusz
-Rádóczi
-Rák
-Rákóczi
-Rákóczi Ferenc
-Rákos Jármûgyártó
-Rákospalotai
-Rána
-Ráró
-Ráta
-Rátkai
-Rávisz
+RÃ¡ba
+RÃ¡ba DomÃ­nium
+RÃ¡bakÃ¶zi
+RÃ¡bensteiner
+RÃ¡ciÃ³
+RÃ¡cz
+RÃ¡cz Ã©s RÃ¡cz
+RÃ¡cziÃ³
+RÃ¡di
+RÃ¡diÃ³
+RÃ¡diÃ³telefon
+RÃ¡diusz
+RÃ¡dÃ³czi
+RÃ¡k
+RÃ¡kÃ³czi
+RÃ¡kÃ³czi Ferenc
+RÃ¡kos JÃ¡rmÅ±gyÃ¡rtÃ³
+RÃ¡kospalotai
+RÃ¡na
+RÃ¡rÃ³
+RÃ¡ta
+RÃ¡tkai
+RÃ¡visz
 Raab
 Raab Karcher
 Raabersped
 Rabobank
 Racing
-Racionál
+RacionÃ¡l
 Racional
 Rack
 Radar
-Radír
-Radiál
+RadÃ­r
+RadiÃ¡l
 Radiant
 Radics
 Radio
 Radius
 Radix
 Radnai
-Radó
-Radványi
+RadÃ³
+RadvÃ¡nyi
 Raffai
 Ragtime
 Raiffeisen
-Raiffeisen Lízing
+Raiffeisen LÃ­zing
 Rail
 Rainbow
 Rajat
 Rajna
 Rajnai
-Rajó
+RajÃ³
 Rajt
 Rak-Visz
 Rakat
 Rallye Sprint
 Ram
 Rami
-Ramóna
+RamÃ³na
 Ramorg
 Ramovill
 Ramsys
 Ramtech
-Randevú
+RandevÃº
 Random
 Ranex
 Ranga
@@ -9504,29 +9504,29 @@ Rauch
 Rausch
 Rauscher
 Rav-87
-Rébay
-Rébusz
-Rédei
-Réfi
-Régészeti
-Régimódi
-Régió
-Réka
-Répce
-Részvét Temetkezési
-Rét
-Rétes
-Rév
-Révész
-Révész Munkaruházat
-Révfalui
-Réz
-Rézkígyó
-Rézmû
-Reál
-Reál Profit
-Reálprotector
-Reálterv
+RÃ©bay
+RÃ©busz
+RÃ©dei
+RÃ©fi
+RÃ©gÃ©szeti
+RÃ©gimÃ³di
+RÃ©giÃ³
+RÃ©ka
+RÃ©pce
+RÃ©szvÃ©t TemetkezÃ©si
+RÃ©t
+RÃ©tes
+RÃ©v
+RÃ©vÃ©sz
+RÃ©vÃ©sz MunkaruhÃ¡zat
+RÃ©vfalui
+RÃ©z
+RÃ©zkÃ­gyÃ³
+RÃ©zmÅ±
+ReÃ¡l
+ReÃ¡l Profit
+ReÃ¡lprotector
+ReÃ¡lterv
 Ready
 Real
 Real Inform
@@ -9534,7 +9534,7 @@ Real Progress
 Real-Tech
 Realflex
 Realinfo
-Realitás
+RealitÃ¡s
 Reality
 Realmed
 Rebeca
@@ -9555,20 +9555,20 @@ Referencia
 Refero
 Reflex
 Reform
-Református
-Református Egyház
-Református Egyházközösség
-Református Egyházközség
-Református Gyermekotthon
-Református Lelkészi
-Református Püspöki
-Református Szeretetotthon
-Református Társegyházközség
-Református Teológiai Akadémia
-Reformház
-Reformház Gyógytermék
+ReformÃ¡tus
+ReformÃ¡tus EgyhÃ¡z
+ReformÃ¡tus EgyhÃ¡zkÃ¶zÃ¶ssÃ©g
+ReformÃ¡tus EgyhÃ¡zkÃ¶zsÃ©g
+ReformÃ¡tus Gyermekotthon
+ReformÃ¡tus LelkÃ©szi
+ReformÃ¡tus PÃ¼spÃ¶ki
+ReformÃ¡tus Szeretetotthon
+ReformÃ¡tus TÃ¡rsegyhÃ¡zkÃ¶zsÃ©g
+ReformÃ¡tus TeolÃ³giai AkadÃ©mia
+ReformhÃ¡z
+ReformhÃ¡z GyÃ³gytermÃ©k
 Rega
-Regál
+RegÃ¡l
 Regal
 Regatta
 Rege
@@ -9576,15 +9576,15 @@ Regency
 Regia
 Regina
 Regiomed
-Regionális
-Regionális Munkaerõfejlesztõ és Képzõ
-Regionális Vállalkozásfejlesztési
+RegionÃ¡lis
+RegionÃ¡lis MunkaerÅ‘fejlesztÅ‘ Ã©s KÃ©pzÅ‘
+RegionÃ¡lis VÃ¡llalkozÃ¡sfejlesztÃ©si
 Regiszter
-Regõ
-Regõs
+RegÅ‘
+RegÅ‘s
 Regulus
 Reguly Antal
-Rehabilitációs
+RehabilitÃ¡ciÃ³s
 Rehau
 Reichardt
 Reifen
@@ -9593,20 +9593,20 @@ Reisinger
 Reisz
 Reiter
 Reka
-Reklám
+ReklÃ¡m
 Reko
 Rekord
 Rekultiv
-Relabor Rehabilitációs Célszervezet
+Relabor RehabilitÃ¡ciÃ³s CÃ©lszervezet
 Relation
 Relax
 Rema
 Reman
 Rembrandt
-Remény
-Reményi
-Reménység
-Reménysugár
+RemÃ©ny
+RemÃ©nyi
+RemÃ©nysÃ©g
+RemÃ©nysugÃ¡r
 Remedios
 Remek
 Remeli
@@ -9621,30 +9621,30 @@ Rena
 Renault
 Rend
 Rendek
-Rendelõ
-Rendelõintézet
-Rendezvényház
-Rendezvényszervezõ
-Rendõrkapitányság
-Rendõrség
-Rendõrség Körzeti Megbízott
+RendelÅ‘
+RendelÅ‘intÃ©zet
+RendezvÃ©nyhÃ¡z
+RendezvÃ©nyszervezÅ‘
+RendÅ‘rkapitÃ¡nysÃ¡g
+RendÅ‘rsÃ©g
+RendÅ‘rsÃ©g KÃ¶rzeti MegbÃ­zott
 Rendszer
 Rendszertechnika
 Renegade
-Reneszánsz
+ReneszÃ¡nsz
 Reni
-Renomé
+RenomÃ©
 Renova
-Renovál
+RenovÃ¡l
 Renovill
 Renovit
 Rentcotel
 Repair
-Repét
+RepÃ©t
 Repro
-Repülõ
-Repülõ és Ejtõernyõs
-Repülõtér
+RepÃ¼lÅ‘
+RepÃ¼lÅ‘ Ã©s EjtÅ‘ernyÅ‘s
+RepÃ¼lÅ‘tÃ©r
 Resch
 Residence
 Resident
@@ -9656,7 +9656,7 @@ Resti
 Reszort
 Retur
 Revizor
-Revü
+RevÃ¼
 Rex
 Rextra
 Rezeda
@@ -9675,14 +9675,14 @@ Rieger
 Riel
 Rifa
 Rigel
-Rigó
-Rigó Jancsi
+RigÃ³
+RigÃ³ Jancsi
 Rijk Zwaan
 Rika
 Rike
 Rikker
 Rikobol
-Rimóczi
+RimÃ³czi
 Rinalko
 Ring
 Ringa
@@ -9690,7 +9690,7 @@ Rio
 Rio Grande
 Riolit
 Riport
-Ripsz-Ropsz és Felújító
+Ripsz-Ropsz Ã©s FelÃºjÃ­tÃ³
 Risk
 Rit
 Rita
@@ -9699,42 +9699,42 @@ Ritmus
 Ritter
 Rittlinger
 Ritzl
-Rivál
+RivÃ¡l
 Rivalda
-Riviéra
+RiviÃ©ra
 Riviera
 Rizalit
 Rizmajer
 Rizol
-Rókus
-Róma
-Római
-Római Katolikus Egyház
-Római Katolikus Egyházi Szeretetszolgálat
-Római Katolikus Egyházközség
-Római Katolikus Plébánia
-Róna
-Rónák
-Rónai
-Róza
-Rózsa
-Rózsa Sándor
-Rózsadomb
-Rózsafa
-Rózsakert
-Rózsaszirom
-Rózsavölgyi
-Röfi
-Rönk-Fa
-Röntgen- és Kórháztechnikai
-Rõdner
-Rõfös
+RÃ³kus
+RÃ³ma
+RÃ³mai
+RÃ³mai Katolikus EgyhÃ¡z
+RÃ³mai Katolikus EgyhÃ¡zi SzeretetszolgÃ¡lat
+RÃ³mai Katolikus EgyhÃ¡zkÃ¶zsÃ©g
+RÃ³mai Katolikus PlÃ©bÃ¡nia
+RÃ³na
+RÃ³nÃ¡k
+RÃ³nai
+RÃ³za
+RÃ³zsa
+RÃ³zsa SÃ¡ndor
+RÃ³zsadomb
+RÃ³zsafa
+RÃ³zsakert
+RÃ³zsaszirom
+RÃ³zsavÃ¶lgyi
+RÃ¶fi
+RÃ¶nk-Fa
+RÃ¶ntgen- Ã©s KÃ³rhÃ¡ztechnikai
+RÅ‘dner
+RÅ‘fÃ¶s
 Road
 Roadrunner
 Robax
 Robert Bosch
 Roberto
-Robertó Grácia
+RobertÃ³ GrÃ¡cia
 Robex
 Robin
 Robinia
@@ -9747,8 +9747,8 @@ Rocky
 Rodeo
 Rodeo Ride 74.
 Rodin
-Rodostó
-Rogép
+RodostÃ³
+RogÃ©p
 Roger's
 Rohr
 Rokon
@@ -9759,8 +9759,8 @@ Rolla
 Rolling
 Rollstar
 Rolo
-Roma Kisebbségi
-Román
+Roma KisebbsÃ©gi
+RomÃ¡n
 Romantik
 Romantika
 Rombau
@@ -9776,8 +9776,8 @@ Rosenbrot
 Rosengarten
 Rosex
 Rosta
-Rostás
-Rotary Fúrási
+RostÃ¡s
+Rotary FÃºrÃ¡si
 Rothmayer
 Rotor
 Rotter
@@ -9796,26 +9796,26 @@ Royal-Sped
 Royalty
 Roza
 Rozetta
-Rozetta Üvegstúdió
+Rozetta ÃœvegstÃºdiÃ³
 Rozgonyi
 Rozmaring
 Rozs
 Rozsman
 Rozy
-Rubik Stúdió
+Rubik StÃºdiÃ³
 Rubin
 Ruci
 Rudolf
 Ruefa Reisen
 Ruha
-Ruházati
-Ruhagyár
+RuhÃ¡zati
+RuhagyÃ¡r
 Ruhaipari
-Ruhakölcsönzés
-Ruhatisztító
+RuhakÃ¶lcsÃ¶nzÃ©s
+RuhatisztÃ­tÃ³
 Rumed
 Runner
-Runner Futárszolgálat
+Runner FutÃ¡rszolgÃ¡lat
 Ruska
 Rustica
 Rutin
@@ -9834,12 +9834,12 @@ S + T
 S + V Engineering
 S Modell
 S and S
-S és S
-S és T
+S Ã©s S
+S Ã©s T
 S+M
 S-Biotech
 S-Build
-S-Duó
+S-DuÃ³
 S-Food
 S-K
 S-Matte
@@ -9863,13 +9863,13 @@ S. P. A.
 S. P. R.
 S. Tel
 S/K
-SÁMA
-SAN-Ergonómia
+SÃMA
+SAN-ErgonÃ³mia
 SAS
 SB
 SBC
 SBI
-SBI-Pécs
+SBI-PÃ©cs
 SBM
 SBS
 SCA Packaging
@@ -9885,7 +9885,7 @@ SHV
 SIN
 SINI
 SK
-SKF Svéd Golyóscsapágy
+SKF SvÃ©d GolyÃ³scsapÃ¡gy
 SKIZ
 SKS
 SL
@@ -9911,7 +9911,7 @@ START
 STB
 STELLA
 STIHL
-STIHL és Szakszervíz
+STIHL Ã©s SzakszervÃ­z
 STP
 STS
 SUN
@@ -9920,36 +9920,36 @@ SW
 SWS
 SZASZA
 SZE-BA
-SZÖVIN Innovációs
+SZÃ–VIN InnovÃ¡ciÃ³s
 Sa-Sa
-Sába
-Sáfár
-Sáfrány
-Sága
-Sági
-Ságvári
-Sámson
-Sándor
-Sándorfalvi
-Sára
-Sárdi
-Sárfehér
-Sárga
-Sárga Csikó
-Sári
-Sárkány
-Sárközi
-Sárrét
-Sárrétmenti
-Sárvári
-Sásdi
-Sásdi Agro
-Sáska
-Sátori
+SÃ¡ba
+SÃ¡fÃ¡r
+SÃ¡frÃ¡ny
+SÃ¡ga
+SÃ¡gi
+SÃ¡gvÃ¡ri
+SÃ¡mson
+SÃ¡ndor
+SÃ¡ndorfalvi
+SÃ¡ra
+SÃ¡rdi
+SÃ¡rfehÃ©r
+SÃ¡rga
+SÃ¡rga CsikÃ³
+SÃ¡ri
+SÃ¡rkÃ¡ny
+SÃ¡rkÃ¶zi
+SÃ¡rrÃ©t
+SÃ¡rrÃ©tmenti
+SÃ¡rvÃ¡ri
+SÃ¡sdi
+SÃ¡sdi Agro
+SÃ¡ska
+SÃ¡tori
 Sabina
 Sabotage
 Sacc
-Sadar Építésgépesítési
+Sadar Ã‰pÃ­tÃ©sgÃ©pesÃ­tÃ©si
 Safa
 Safari
 Safe
@@ -9959,22 +9959,22 @@ Safiltco
 Saga
 Sailor
 Saint-Gobain Isover
-Saját
-Sajó
+SajÃ¡t
+SajÃ³
 Sakret
 Sakura
 Sala
 Salamon
-Salamon és Salamon
+Salamon Ã©s Salamon
 Saldo
 Saldona
 Sales
-Salgó
+SalgÃ³
 Salix
 Saljot
 Salker
 Sallai
-Sallai Triász
+Sallai TriÃ¡sz
 Sallay
 Saltex
 Salus
@@ -10005,14 +10005,14 @@ Santana
 Sap
 Sarkadi
 Sarki
-Sarki Fûszeres
+Sarki FÅ±szeres
 Sarok
-Sarokház
+SarokhÃ¡z
 Sas
 Sas-Trans
 Sashalmi
 Sasson
-Sasvári
+SasvÃ¡ri
 Satel
 Satex
 Saturn
@@ -10042,11 +10042,11 @@ Schmidt
 Schmuck
 Schneider
 Schnell
-Schöck
-Schön
+SchÃ¶ck
+SchÃ¶n
 Scholl Referencia
 Schrack Seconet
-Schréder
+SchrÃ©der
 Schu-Bau
 Schulcz
 Schulte
@@ -10054,27 +10054,27 @@ Schwab
 Schwarcz
 Schwarczenberger
 Schwarz
-Schwéger
+SchwÃ©ger
 Sclerosis Multiplex
 Sconto
 Scope
 Scorpio
-Scorpió
+ScorpiÃ³
 Screen
 Scriptum
 Scutum
-Séd
-Séma
-Séra
-Sétány
+SÃ©d
+SÃ©ma
+SÃ©ra
+SÃ©tÃ¡ny
 Seafood
 Seaplan Shipping
 Sebe
 Sebes
 Sebesfi
-Sebesség
-Sebestyén
-Sebõk
+SebessÃ©g
+SebestyÃ©n
+SebÅ‘k
 Secco
 Secon
 Second
@@ -10084,20 +10084,20 @@ Securitas
 Security
 Sedan
 Segafredo
-Segítõ Kéz
-Segítõ Kezek
+SegÃ­tÅ‘ KÃ©z
+SegÃ­tÅ‘ Kezek
 Select
 Selectrade
 Selectric
 Selena
 Selli
-Sellõ
+SellÅ‘
 Selmeci
 Selmeczi
 Selmeczky
 Semann
 Semiramis
-Semmelweis Orvostörténeti
+Semmelweis OrvostÃ¶rtÃ©neti
 Semper
 Sempermed
 Semsey
@@ -10111,11 +10111,11 @@ Senso
 Sentinel
 Sentry Flame
 Sera
-Serényi
+SerÃ©nyi
 Sereg
 Seres
 Serleg
-Sertéshús
+SertÃ©shÃºs
 Server
 Service
 Servico
@@ -10128,7 +10128,7 @@ Sevill
 Shamrock
 Shannon
 Shark
-Shell Üzemanyagtöltõ
+Shell ÃœzemanyagtÃ¶ltÅ‘
 Sheriff
 Shield
 Shiva
@@ -10138,8 +10138,8 @@ Short
 Show
 Si-Ker
 Si-Mi
-Sí
-Sírius
+SÃ­
+SÃ­rius
 Siba
 Sicher
 Siculus
@@ -10148,19 +10148,19 @@ Sidol
 Sierra
 Siesta
 Sigma
-Signál
+SignÃ¡l
 Signal
 Signatura
 Signet
 Signo
 Signum
-Sikér
+SikÃ©r
 Siker
 Sikeres
-Siketek és Nagyothallók Országos
+Siketek Ã©s NagyothallÃ³k OrszÃ¡gos
 Siki
 Sikk
-Siklósi
+SiklÃ³si
 Silex
 Silicium
 Sillabusz
@@ -10169,9 +10169,9 @@ Silvanus
 Silver
 Simai
 Simex
-Simkó
+SimkÃ³
 Simon
-Simon és Simon
+Simon Ã©s Simon
 Simon's
 Simonyi
 Simor
@@ -10182,40 +10182,40 @@ Sindy
 Singer
 Singular
 Sinka
-Sinkó
+SinkÃ³
 Sinkovics
 Sino
 Sint
 Sintesi
 Sinus
-Sió
+SiÃ³
 Sion
 Sipex
 Sipi
-Sipõcz
+SipÅ‘cz
 Sipos
-Sirály
+SirÃ¡ly
 Siraky
 Sirius
 Sirocco
-Sirokkó
+SirokkÃ³
 Sisa
 Sissi
 Sittim
 Siva
 Six
 Sixi
-Skála-Coop
-Skíz
+SkÃ¡la-Coop
+SkÃ­z
 Skill
 Skiny
 Skipper
-Skiz és Pagát
-Skoda Márkakereskedés
+Skiz Ã©s PagÃ¡t
+Skoda MÃ¡rkakereskedÃ©s
 Skoglund
-Skorpió
+SkorpiÃ³
 Sky
-Sláger
+SlÃ¡ger
 Slip
 Slot-Line
 Sluga
@@ -10230,15 +10230,15 @@ Snack
 Snell
 Snitt
 Snooker
-Sólyom
-Sós
-Sóstó
-Sörbár
-Sörház
-Sörkert
-Sörmester
-Sörös
-Sörözõ
+SÃ³lyom
+SÃ³s
+SÃ³stÃ³
+SÃ¶rbÃ¡r
+SÃ¶rhÃ¡z
+SÃ¶rkert
+SÃ¶rmester
+SÃ¶rÃ¶s
+SÃ¶rÃ¶zÅ‘
 Sobstad
 Sodexho
 Sofibel
@@ -10250,10 +10250,10 @@ Soft-Way
 Soft-Werk
 Softex
 Softy
-Sokoró
+SokorÃ³
 Sol Oriens
-Solár
-Solárium
+SolÃ¡r
+SolÃ¡rium
 Solana
 Solanum
 Solar
@@ -10264,13 +10264,13 @@ Solid Construct
 Solide
 Solidus
 Solisun
-Solisun Solárium
-Solisun Szolárium
+Solisun SolÃ¡rium
+Solisun SzolÃ¡rium
 Sollarys
 Sollers
 Solo
 Solt
-Soltész
+SoltÃ©sz
 Solti
 Solum
 Solve
@@ -10278,7 +10278,7 @@ Solvent
 Solving
 Solware
 Solydent
-Solymár
+SolymÃ¡r
 Solymosi
 Som
 Soma
@@ -10286,41 +10286,41 @@ Somataler
 Somfa
 Somi
 Somlai
-Somló
+SomlÃ³
 Somnifer
 Somody
 Somogy
 Somogy Megyei
 Somogyi
 Somogyi & Somogyi
-Somogyiné
-Somogyvári
+SomogyinÃ©
+SomogyvÃ¡ri
 Somorjai
 Somos
 Son
 Sonic
-Sonotherápia
+SonotherÃ¡pia
 Sony
-Soós
+SoÃ³s
 Sopron Plaza
 Soproni
-Soproni Fürdõüzemeltetõ
+Soproni FÃ¼rdÅ‘Ã¼zemeltetÅ‘
 Sor-Bau
 Soring
 Sorrento
 Sors Bona
 Souvenir
-Spácium
+SpÃ¡cium
 Spagetti
 Spark
 Sparks
 Spartacus
-Spéci
-Speciál
-Speciális Gyermekotthon
+SpÃ©ci
+SpeciÃ¡l
+SpeciÃ¡lis Gyermekotthon
 Special
-Spectrum Elektro-Mánia
-Spedition Horváth
+Spectrum Elektro-MÃ¡nia
+Spedition HorvÃ¡th
 Speed
 Speedy
 Spekker
@@ -10329,43 +10329,43 @@ Speleo Technik
 Spell
 Spengler
 Spiller
-Spirál
+SpirÃ¡l
 Spirex
 Spiritus
 Splendor
 Sport
-Sportbizományi
+SportbizomÃ¡nyi
 Sportbolt
 Sportcentrum
 Sportcsarnok
-Sportegészségügyi
-Sportegyesület
+SportegÃ©szsÃ©gÃ¼gyi
+SportegyesÃ¼let
 Sportex
-Sporthorgász
-Sportigazgatóság
-Sportkör
-Sportlétesítmények
-Sportpálya
+SporthorgÃ¡sz
+SportigazgatÃ³sÃ¡g
+SportkÃ¶r
+SportlÃ©tesÃ­tmÃ©nyek
+SportpÃ¡lya
 Spot
 Spring
 Sprinkler
 Sprint
 Sprint-R
 Sprinter
-Srámli
+SrÃ¡mli
 Sraff
-Sróf
+SrÃ³f
 St. Hubertus
-St. Kristóf
+St. KristÃ³f
 St. Martin
 St. Michael
-Stáb
-Stáció
-Stádium
+StÃ¡b
+StÃ¡ciÃ³
+StÃ¡dium
 Stabil
-Stabilitás
+StabilitÃ¡s
 Stadion
-Staféta
+StafÃ©ta
 Stahl
 Stamp
 Stampf
@@ -10381,18 +10381,18 @@ Stark
 Starlight
 Stars
 Start
-Start Rehabilitációs
+Start RehabilitÃ¡ciÃ³s
 Start-Budatravel
 Start-Trans
 Starter
 Startker
 Starttax
 Statisztikai
-Stég
+StÃ©g
 Steel
-Stefán
-Stefáni
-Stefánia
+StefÃ¡n
+StefÃ¡ni
+StefÃ¡nia
 Stefano
 Stefi
 Stefy
@@ -10409,13 +10409,13 @@ Stenella
 Step
 Step By Step
 Stereo
-Stílus
+StÃ­lus
 Stiebel Eltron
 Stift
 Stihl
 Stil
 Still
-Still Villástargonca
+Still VillÃ¡stargonca
 Stimmel
 Stock
 Stoll
@@ -10427,8 +10427,8 @@ Store
 Storechem
 Strabag
 Strand
-Strandfürdõ
-Strandfürdõk
+StrandfÃ¼rdÅ‘
+StrandfÃ¼rdÅ‘k
 Strassz
 Strasszer
 Stratego
@@ -10441,16 +10441,16 @@ Stribli
 Strict
 Strott
 Struki
-Struktúra
-Struktúra Szervezési
-Stúdió
-Stúdium
-Stümi
+StruktÃºra
+StruktÃºra SzervezÃ©si
+StÃºdiÃ³
+StÃºdium
+StÃ¼mi
 Student
-Studió
+StudiÃ³
 Studium
 Study
-Stukkó
+StukkÃ³
 Stumpf
 Sturm
 Styl
@@ -10458,26 +10458,26 @@ Style Of America
 Stylo
 Stylus
 Styx
-Sükösd
-Süni
-Sütõ
-Sütõ- és Édesipari
-Sütõipari
-Sütõüzem
-Süveges
-Süvegh
-Süvi
+SÃ¼kÃ¶sd
+SÃ¼ni
+SÃ¼tÅ‘
+SÃ¼tÅ‘- Ã©s Ã‰desipari
+SÃ¼tÅ‘ipari
+SÃ¼tÅ‘Ã¼zem
+SÃ¼veges
+SÃ¼vegh
+SÃ¼vi
 Suba
 Subik
 Subler
-Sudár
-Sugár
+SudÃ¡r
+SugÃ¡r
 Sugar
 Suggest
 Sugi
 Suha
 Suhi
-Sulák
+SulÃ¡k
 Suli
 Suli-Host
 Suller
@@ -10497,16 +10497,16 @@ SuperShop
 Superbio-Trade
 Support
 Supra
-Surányi
+SurÃ¡nyi
 Surface
-Susán
+SusÃ¡n
 Susi
 Suzuki
-Suzuki Benkõ
-Suzuki Márkakereskedés
-Sváb
-Svájci-Magyar
-Svéd
+Suzuki BenkÅ‘
+Suzuki MÃ¡rkakereskedÃ©s
+SvÃ¡b
+SvÃ¡jci-Magyar
+SvÃ©d
 Sved
 Svejk
 Swedex
@@ -10533,105 +10533,105 @@ Sz
 Sz & H
 Sz & Sz
 Sz & T
-Sz és Sz
-Sz és T
-Sz és V
+Sz Ã©s Sz
+Sz Ã©s T
+Sz Ã©s V
 Sz-K
 Sza-Bau
 Sza-Ko
 Sza-Ma
 Sza-Si
 Sza-Sza
-Szába
-Száguldás
-Szálas
-Szálkai
-Szállítási
-Szállodák
-Szám
-Szám-Adó
-Szám-Ker
-Szám-Koop
-Szám-Szaki
-Szám-Szer
-Számad
-Számadás
-Számadó
-Számítás
-Számítástechnika
-Számítástechnikai
-Számítástechnikai és Ügyvitelszervezõ
-Számok
-Számprog
-Számrend
-Számrendszer
-Számszaki
-Számszolg
-Számterv
-Számügy
-Számvetõ
-Számvitel és Könyvvitel
-Számviteli
-Szántai
-Szántó
-Száraz
-Szárcsa
-Szárnyas
-Szárszó
-Szász
-Szász és Szász
-Szászi
-Százalék
-Százéves
-Százszorszép
+SzÃ¡ba
+SzÃ¡guldÃ¡s
+SzÃ¡las
+SzÃ¡lkai
+SzÃ¡llÃ­tÃ¡si
+SzÃ¡llodÃ¡k
+SzÃ¡m
+SzÃ¡m-AdÃ³
+SzÃ¡m-Ker
+SzÃ¡m-Koop
+SzÃ¡m-Szaki
+SzÃ¡m-Szer
+SzÃ¡mad
+SzÃ¡madÃ¡s
+SzÃ¡madÃ³
+SzÃ¡mÃ­tÃ¡s
+SzÃ¡mÃ­tÃ¡stechnika
+SzÃ¡mÃ­tÃ¡stechnikai
+SzÃ¡mÃ­tÃ¡stechnikai Ã©s ÃœgyvitelszervezÅ‘
+SzÃ¡mok
+SzÃ¡mprog
+SzÃ¡mrend
+SzÃ¡mrendszer
+SzÃ¡mszaki
+SzÃ¡mszolg
+SzÃ¡mterv
+SzÃ¡mÃ¼gy
+SzÃ¡mvetÅ‘
+SzÃ¡mvitel Ã©s KÃ¶nyvvitel
+SzÃ¡mviteli
+SzÃ¡ntai
+SzÃ¡ntÃ³
+SzÃ¡raz
+SzÃ¡rcsa
+SzÃ¡rnyas
+SzÃ¡rszÃ³
+SzÃ¡sz
+SzÃ¡sz Ã©s SzÃ¡sz
+SzÃ¡szi
+SzÃ¡zalÃ©k
+SzÃ¡zÃ©ves
+SzÃ¡zszorszÃ©p
 Szabadi
-Szabadidõ
-Szabadidõközpont
-Szabadidõs
-Szabadidõsport
+SzabadidÅ‘
+SzabadidÅ‘kÃ¶zpont
+SzabadidÅ‘s
+SzabadidÅ‘sport
 Szabados
-Szabadság
-Szabó
-Szabó Família
-Szabó János
-Szabó Kandalló
-Szabó Marcipán
-Szabó Sándor
-Szabó és Családja
-Szabó és Fia
-Szabó-Gumi
-Szabóné
+SzabadsÃ¡g
+SzabÃ³
+SzabÃ³ FamÃ­lia
+SzabÃ³ JÃ¡nos
+SzabÃ³ KandallÃ³
+SzabÃ³ MarcipÃ¡n
+SzabÃ³ SÃ¡ndor
+SzabÃ³ Ã©s CsalÃ¡dja
+SzabÃ³ Ã©s Fia
+SzabÃ³-Gumi
+SzabÃ³nÃ©
 Szabolcs
 Szabolcsfruct
-Szabványügyi
+SzabvÃ¡nyÃ¼gyi
 Szafi
-Szajkó
+SzajkÃ³
 Szak
-Szakács
-Szakál
-Szakály
-Szaképszer
+SzakÃ¡cs
+SzakÃ¡l
+SzakÃ¡ly
+SzakÃ©pszer
 Szaki
 Szakipar
-Szakközépiskola
-Szakközépiskolák
+SzakkÃ¶zÃ©piskola
+SzakkÃ¶zÃ©piskolÃ¡k
 Szakolcai
 Szakonyi
 Szakorvosi
-Szakorvosi Rendelõintézet
-Szakosított
+Szakorvosi RendelÅ‘intÃ©zet
+SzakosÃ­tott
 Szakszervezetek
-Szakszövetkezet
+SzakszÃ¶vetkezet
 Szalag 19
-Szalag- és Zsinórgyár
+Szalag- Ã©s ZsinÃ³rgyÃ¡r
 Szalai
 Szalajka
 Szalay
-Szaldó
+SzaldÃ³
 Szalkai
 Szalkay
 Szalma
-Szalóki
+SzalÃ³ki
 Szalon
 Szalontai
 Szalt
@@ -10640,19 +10640,19 @@ Szamos
 Szanda
 Szandi
 Szandra
-Szantál
-Szanyó
+SzantÃ¡l
+SzanyÃ³
 Szarka
 Szarvas
 Szasza
 Szasza-Sport
 Szatellit
 Szatex
-Szatmár
-Szatmár Konzervgyár
-Szatmári
-Szatmáry
-Szatócs
+SzatmÃ¡r
+SzatmÃ¡r KonzervgyÃ¡r
+SzatmÃ¡ri
+SzatmÃ¡ry
+SzatÃ³cs
 Szattelberger
 Szaturnusz
 Szauna
@@ -10663,193 +10663,193 @@ Szavill
 Szavira
 Sze-Ka-Ha
 Sze-Ko
-Széchenyi
-Széchenyi Mûvelõdési
-Szécsényi
-Szédelyi
-Székács
-Székely
-Székzál
-Szél
-Szélkakas
-Széll
-Szélmalom
-Szép
-Szép Házak
-Szépasszony
-Széphalom
-Széplaki
-Szépség
-Szépségpatika
-Szévíz
+SzÃ©chenyi
+SzÃ©chenyi MÅ±velÅ‘dÃ©si
+SzÃ©csÃ©nyi
+SzÃ©delyi
+SzÃ©kÃ¡cs
+SzÃ©kely
+SzÃ©kzÃ¡l
+SzÃ©l
+SzÃ©lkakas
+SzÃ©ll
+SzÃ©lmalom
+SzÃ©p
+SzÃ©p HÃ¡zak
+SzÃ©passzony
+SzÃ©phalom
+SzÃ©plaki
+SzÃ©psÃ©g
+SzÃ©psÃ©gpatika
+SzÃ©vÃ­z
 Szebeni
 Szebi
 Szecolor
-Szedlák
-Szedlár
+SzedlÃ¡k
+SzedlÃ¡r
 Szeged
-Szegedért
+SzegedÃ©rt
 Szegedi
-Szegletkõ
+SzegletkÅ‘
 Szegmens
-Szegõ
-Szegvári
+SzegÅ‘
+SzegvÃ¡ri
 Szeiler
-Szekér
-Szekér Transz
+SzekÃ©r
+SzekÃ©r Transz
 Szekeres
 Szeki
-Szeko-Zollex Vámügynök
-Szekrényes
-Szekszárdi
-Szekszárdi Növényvédõ
-Szekuritás
+Szeko-Zollex VÃ¡mÃ¼gynÃ¶k
+SzekrÃ©nyes
+SzekszÃ¡rdi
+SzekszÃ¡rdi NÃ¶vÃ©nyvÃ©dÅ‘
+SzekuritÃ¡s
 Szelce
-Szelényi
+SzelÃ©nyi
 Szelei
 Szelemen
 Szelence
 Szeles
-Szellõ
-Szellõzõ
+SzellÅ‘
+SzellÅ‘zÅ‘
 Szema
-Szemán
+SzemÃ¡n
 Szemafor
-Személy
+SzemÃ©ly
 Szemes
 Szemi Fatelep
 Szemimpex
-Szemléltetõ
-Szemüveg
+SzemlÃ©ltetÅ‘
+SzemÃ¼veg
 Szendi
 Szendrei
 Szenes
-Szennyvíz Szippantó
+SzennyvÃ­z SzippantÃ³
 Szent
 Szent Anna
 Szent Anna Szeretetotthon
 Szent Antal
-Szent Balázs
-Szent Bernát
+Szent BalÃ¡zs
+Szent BernÃ¡t
 Szent Endre
-Szent Erzsébet
-Szent Erzsébet Idõsek
-Szent Erzsébet Karitász
+Szent ErzsÃ©bet
+Szent ErzsÃ©bet IdÅ‘sek
+Szent ErzsÃ©bet KaritÃ¡sz
 Szent Ferenc
-Szent Flórián
-Szent Gellért
-Szent György
+Szent FlÃ³riÃ¡n
+Szent GellÃ©rt
+Szent GyÃ¶rgy
 Szent Hubertus
 Szent Imre
-Szent József
-Szent Király
+Szent JÃ³zsef
+Szent KirÃ¡ly
 Szent Korona
-Szent Kristóf
-Szent Lukács
-Szent Márk
-Szent Márton
+Szent KristÃ³f
+Szent LukÃ¡cs
+Szent MÃ¡rk
+Szent MÃ¡rton
 Szent Margit
-Szent Miklós
-Szent Mûvelõdési
+Szent MiklÃ³s
+Szent MÅ±velÅ‘dÃ©si
 Szente
 Szentencia
 Szentes
 Szentesi
-Szentgyörgyi
-Szentháromság
-Szentistváni
-Szentmihályi
+SzentgyÃ¶rgyi
+SzenthÃ¡romsÃ¡g
+SzentistvÃ¡ni
+SzentmihÃ¡lyi
 Szenzor
 Szepesi
 Szepessy
 Szepi
-Szer-Generál
+Szer-GenerÃ¡l
 Szerb
 Szerdahelyi
-Szeréna
+SzerÃ©na
 Szerecsen
-Szerelõipari
-Szerelvény
-Szerelvénybolt
-Szerelvényüzlet
+SzerelÅ‘ipari
+SzerelvÃ©ny
+SzerelvÃ©nybolt
+SzerelvÃ©nyÃ¼zlet
 Szerencsi
 Szeretetotthon
-Szeretetszolgálat
+SzeretetszolgÃ¡lat
 Szerif
 Szerker
 Szerkezet
-Szerkezet és Forma
-Szerszám
-Szerszámgép
+Szerkezet Ã©s Forma
+SzerszÃ¡m
+SzerszÃ¡mgÃ©p
 Szertan
 Szerviz
 Szervo
-Szervó
-Szerzõi Jogvédõ
-Szeszfõzde
-Szeszlér
+SzervÃ³
+SzerzÅ‘i JogvÃ©dÅ‘
+SzeszfÅ‘zde
+SzeszlÃ©r
 Szet
 Szetax
 Szetex
 Szett
-Szezám
-Szféra
+SzezÃ¡m
+SzfÃ©ra
 Szfinx
 Szi-Ko
 Szi-Land
 Szi-Med
-Szíjártó
-Szíjas
-Szín-Vonal
-Színek Világa
-Színfolt
-Színház
-Színskála
-Színvarázs
-Színvonal
-Szíriusz
-Szív
-Szívós
-Szívügy
+SzÃ­jÃ¡rtÃ³
+SzÃ­jas
+SzÃ­n-Vonal
+SzÃ­nek VilÃ¡ga
+SzÃ­nfolt
+SzÃ­nhÃ¡z
+SzÃ­nskÃ¡la
+SzÃ­nvarÃ¡zs
+SzÃ­nvonal
+SzÃ­riusz
+SzÃ­v
+SzÃ­vÃ³s
+SzÃ­vÃ¼gy
 Sziebler
 Szieszta
 Szig-Ta
 Sziga
 Szigedi
 Sziget
-Sziget Rehabilitációs
-Sziget Szanatórium
+Sziget RehabilitÃ¡ciÃ³s
+Sziget SzanatÃ³rium
 Szigeti
-Szigetköz
+SzigetkÃ¶z
 Szigma
 Szigma-Szig
-Szignál
+SzignÃ¡l
 Szigno
-Szignó
+SzignÃ³
 Szigony
-Szijártó
+SzijÃ¡rtÃ³
 Szikla
 Sziklai
 Szikra
 Szikrai
-Sziksós
+SziksÃ³s
 Sziksz
 Szikszai
 Szil
-Szilágyi
-Szilánk MV.
-Szilárd
+SzilÃ¡gyi
+SzilÃ¡nk MV.
+SzilÃ¡rd
 Szilas
 Szilasi
 Szilassy
 Szilik
-Szilikátipari
+SzilikÃ¡tipari
 Szilker
 Szilki
 Sziltop
 Sziluett
-Szilvágyi
-Szilvási
+SzilvÃ¡gyi
+SzilvÃ¡si
 Szilvia
 Szim
 Szima
@@ -10858,25 +10858,25 @@ Szimetra
 Szimex
 Szimfonikus Zenekar
 Szimmetria
-Szimultán
+SzimultÃ¡n
 Szin
-Szin-Tér
-Szindbád
+Szin-TÃ©r
+SzindbÃ¡d
 Szinergia
 Szinfolt
 Szing
 Szinkron
-Szinkron Autóalkatrész
+Szinkron AutÃ³alkatrÃ©sz
 Szint
 Szint-Vonal
 Szintax
-Szintézis
+SzintÃ©zis
 Szinter
 Szintetika
 Szinva
 Szinvonal
-Szirák
-Szirén
+SzirÃ¡k
+SzirÃ©n
 Sziriusz
 Szirmai
 Szirom
@@ -10885,47 +10885,47 @@ Szirtes
 Sziszi
 Szisztem
 Szita
-Szitás
+SzitÃ¡s
 Szitor
-Szivárvány
-Szivárvány Festékbolt
-Szivárvány L & S
-Szivárvány Szociális
+SzivÃ¡rvÃ¡ny
+SzivÃ¡rvÃ¡ny FestÃ©kbolt
+SzivÃ¡rvÃ¡ny L & S
+SzivÃ¡rvÃ¡ny SzociÃ¡lis
 Szivacs
 Szkarabeusz
-Szlávik
-Szlovák
-Szlovén Információs
+SzlÃ¡vik
+SzlovÃ¡k
+SzlovÃ©n InformÃ¡ciÃ³s
 Szo-Ker
-Szó
-Szókincs
-Szóra-Szó
-Szórádi
-Szögi
-Szöllõsi
-Szörényi
-Szõke
-Szõke Tisza
-Szõker
-Szõlészeti és Borászati Kutatóintézet
-Szõllõsi
-Szõlõfürt
-Szõlõskert
-Szõnyeg
-Szõnyegház
-Szõnyegtisztító
-Szõnyi
-Szõrme
-Szociális
-Szociális Foglalkoztató
-Szociális Gondozó
-Szociális és Rehabilitációs
+SzÃ³
+SzÃ³kincs
+SzÃ³ra-SzÃ³
+SzÃ³rÃ¡di
+SzÃ¶gi
+SzÃ¶llÅ‘si
+SzÃ¶rÃ©nyi
+SzÅ‘ke
+SzÅ‘ke Tisza
+SzÅ‘ker
+SzÅ‘lÃ©szeti Ã©s BorÃ¡szati KutatÃ³intÃ©zet
+SzÅ‘llÅ‘si
+SzÅ‘lÅ‘fÃ¼rt
+SzÅ‘lÅ‘skert
+SzÅ‘nyeg
+SzÅ‘nyeghÃ¡z
+SzÅ‘nyegtisztÃ­tÃ³
+SzÅ‘nyi
+SzÅ‘rme
+SzociÃ¡lis
+SzociÃ¡lis FoglalkoztatÃ³
+SzociÃ¡lis GondozÃ³
+SzociÃ¡lis Ã©s RehabilitÃ¡ciÃ³s
 Szokol
-Szolár
-Szolárium
+SzolÃ¡r
+SzolÃ¡rium
 Szolex
-Szolgáló Szeretet
-Szolgáltató
+SzolgÃ¡lÃ³ Szeretet
+SzolgÃ¡ltatÃ³
 Szoliter
 Szoliton
 Szolker
@@ -10936,29 +10936,29 @@ Szonda-Prezent
 Szondi
 Szondy
 Szonett
-Szopcsák
-Szorobán
+SzopcsÃ¡k
+SzorobÃ¡n
 Szort
 Szortiment
-Sztár
-Sztráda
-Szü-Fa
-Szücs
-Szün-Akt
-Szürkebarát
-Szûcs
-Szûcs Szerelvény
+SztÃ¡r
+SztrÃ¡da
+SzÃ¼-Fa
+SzÃ¼cs
+SzÃ¼n-Akt
+SzÃ¼rkebarÃ¡t
+SzÅ±cs
+SzÅ±cs SzerelvÃ©ny
 Szukits
-Szultán
+SzultÃ¡n
 Szumma
 Szundi
 Szuper
 Szuper Fashion
 Szuperinfo
-Szuperinfó
+SzuperinfÃ³
 Szurdok
-Szurek Temetkezési
-Szuterén
+Szurek TemetkezÃ©si
+SzuterÃ©n
 Szvitil
 T
 T & H
@@ -10974,16 +10974,16 @@ T & V
 T + T
 T Rex
 T and T
-T és A
-T és B
-T és S
-T és T
-T és T Gombatermesztõ
-T és V
+T Ã©s A
+T Ã©s B
+T Ã©s S
+T Ã©s T
+T Ã©s T GombatermesztÅ‘
+T Ã©s V
 T&T
 T+T
 T-Audit
-T-Hús
+T-HÃºs
 T-K
 T-Land
 T-Mobil
@@ -10997,12 +10997,12 @@ T9
 TBK
 TBZ
 TE-ART
-TIG Tartalékgazdálkodási
-TIGÁZ
+TIG TartalÃ©kgazdÃ¡lkodÃ¡si
+TIGÃZ
 TIM
 TISZI
 TIT
-TITÁSZ
+TITÃSZ
 TIXOL
 TMD
 TMF
@@ -11023,91 +11023,91 @@ TSR
 TT
 TTM
 TTT
-TÜZÉP
-TÜZÉP Tüzelõszer- és Építõanyag-Kereskedelmi
+TÃœZÃ‰P
+TÃœZÃ‰P TÃ¼zelÅ‘szer- Ã©s Ã‰pÃ­tÅ‘anyag-Kereskedelmi
 TUZOK
 TV
 TV-Shop
 TVTV
-Tábori
-Táj
-Tájház
-Tálas
-Tálos
-Táltos
-Támasz
-Táncház
-Táp
-Tápéi
-Tápió
-Tápiómente Kollár
-Tárkány
-Tárkányi
-Tárnok
-Társ
-Társa
-Társadalmi Egyesülések
-Társadalombiztosítás
-Társasház
-Társasházak
-Társasházkezelés-Biztonság
-Tátra
-Tátrai
-Távfûtõ
-Távhõszolgáltató
-Távközlési
-Távközléstechnikai
-Tabán
-Tabán Trafik
+TÃ¡bori
+TÃ¡j
+TÃ¡jhÃ¡z
+TÃ¡las
+TÃ¡los
+TÃ¡ltos
+TÃ¡masz
+TÃ¡nchÃ¡z
+TÃ¡p
+TÃ¡pÃ©i
+TÃ¡piÃ³
+TÃ¡piÃ³mente KollÃ¡r
+TÃ¡rkÃ¡ny
+TÃ¡rkÃ¡nyi
+TÃ¡rnok
+TÃ¡rs
+TÃ¡rsa
+TÃ¡rsadalmi EgyesÃ¼lÃ©sek
+TÃ¡rsadalombiztosÃ­tÃ¡s
+TÃ¡rsashÃ¡z
+TÃ¡rsashÃ¡zak
+TÃ¡rsashÃ¡zkezelÃ©s-BiztonsÃ¡g
+TÃ¡tra
+TÃ¡trai
+TÃ¡vfÅ±tÅ‘
+TÃ¡vhÅ‘szolgÃ¡ltatÃ³
+TÃ¡vkÃ¶zlÃ©si
+TÃ¡vkÃ¶zlÃ©stechnikai
+TabÃ¡n
+TabÃ¡n Trafik
 Tabak
 Tabu
-Tabulárius
+TabulÃ¡rius
 Taffet
 Tailor
 Tak
 Tak-Ker
-Takács
-Takács Andi Hajszobrász
-Takács és Takács
-Takarékszövetkezet
-Takarékszövetkezetek
-Takarító
+TakÃ¡cs
+TakÃ¡cs Andi HajszobrÃ¡sz
+TakÃ¡cs Ã©s TakÃ¡cs
+TakarÃ©kszÃ¶vetkezet
+TakarÃ©kszÃ¶vetkezetek
+TakarÃ­tÃ³
 Taker
 Taksa
 Taktronik
-Talajerõgazdálkodási
+TalajerÅ‘gazdÃ¡lkodÃ¡si
 Talen-Tem
 Talent
 Talentum
-Talizmán
-Tallér
+TalizmÃ¡n
+TallÃ©r
 Tama
-Tamás
-Tamási
-Tamáska
+TamÃ¡s
+TamÃ¡si
+TamÃ¡ska
 Tamaga
 Tamax
 Tamoil
 Tamol
 Tamy
-Tanács-Adó
-Tanácsadó
+TanÃ¡cs-AdÃ³
+TanÃ¡csadÃ³
 Tandem
 Tandem Plussz
 Tang Cheng
-Tangó
+TangÃ³
 Tanka
 Tanker
-Tankó
+TankÃ³
 Tanne
 Tanoda
-Tapétabolt
+TapÃ©tabolt
 Tapodi
 Tapolca
 Tappancs
 Tar
 Tara
-Tarány és Mohr
+TarÃ¡ny Ã©s Mohr
 Tarab
 Taraxa
 Tarcsai
@@ -11116,55 +11116,55 @@ Target
 Targonca
 Tari
 Tari-Prod
-Tarján
-Tarjáni
+TarjÃ¡n
+TarjÃ¡ni
 Tarna
 Tarnai
 Tarok
 Tarr
 Tarsoly
-Tartalékgazdálkodási
+TartalÃ©kgazdÃ¡lkodÃ¡si
 Tartsay
 Tasi
 Task
 Tassy
 Tata
-Tatár
-Tatabányai
+TatÃ¡r
+TatabÃ¡nyai
 Tatai
-Tatai Agrár
+Tatai AgrÃ¡r
 Taurus
 Tavasz
 Taverna
-Taverna Szálloda
+Taverna SzÃ¡lloda
 Tavi
-Tavirózsa
+TavirÃ³zsa
 Tax
 Taxa
 Taxaland
 Taxi
-Taxirendelés
+TaxirendelÃ©s
 Taylor
 Te-Szem
-Té
-Té-Men
-Téba
-Tégla
-Tégla- és Cserépipari
-Téglagyár
-Téglaipari
-Téka
-Tér
-Tér és Forma
-Térerõ
-Térkép
-Térképészeti
-Térmû
-Tértechnika
-Tét
-Tétényi
-Téti
-Teátrum
+TÃ©
+TÃ©-Men
+TÃ©ba
+TÃ©gla
+TÃ©gla- Ã©s CserÃ©pipari
+TÃ©glagyÃ¡r
+TÃ©glaipari
+TÃ©ka
+TÃ©r
+TÃ©r Ã©s Forma
+TÃ©rerÅ‘
+TÃ©rkÃ©p
+TÃ©rkÃ©pÃ©szeti
+TÃ©rmÅ±
+TÃ©rtechnika
+TÃ©t
+TÃ©tÃ©nyi
+TÃ©ti
+TeÃ¡trum
 Team
 Team Alarm
 Techem
@@ -11175,8 +11175,8 @@ Techno-Team
 Technobau
 Technocar
 Technoker
-Technológia
-Technológiai
+TechnolÃ³gia
+TechnolÃ³giai
 Technolux
 Technopharm
 Technoplast
@@ -11194,15 +11194,15 @@ Teddy
 Teher
 Tehertaxi
 Tejdiszkont
-Tejfeldolgozó
-Tejgyûjtõ
+TejfeldolgozÃ³
+TejgyÅ±jtÅ‘
 Tejipar
 Tejipari
-Tejtermelõ
-Tejút
-Tekepálya
-Tekergõ
-Tekerõ
+TejtermelÅ‘
+TejÃºt
+TekepÃ¡lya
+TekergÅ‘
+TekerÅ‘
 Tekintet
 Tekla
 Tekton
@@ -11218,68 +11218,68 @@ Telefon
 Telefondoktor
 Telefontechnika
 Telefontos
-Teleháló
-Teleház
+TelehÃ¡lÃ³
+TelehÃ¡z
 Telek
 Teleki
 Telekodex
 Telelogic
 Telemat
-Településgazdálkodási
+TelepÃ¼lÃ©sgazdÃ¡lkodÃ¡si
 Telesonic
-Teletál
+TeletÃ¡l
 Teletrend
-Televízió
-Televízió-Videó
+TelevÃ­ziÃ³
+TelevÃ­ziÃ³-VideÃ³
 Telinformix
-Telitalálat
-Telizsák
+TelitalÃ¡lat
+TelizsÃ¡k
 Telki
 Tell
 Telmo
 Telperion
-Temesvári
-Temetkezés
-Temetkezési
-Temetõ
+TemesvÃ¡ri
+TemetkezÃ©s
+TemetkezÃ©si
+TemetÅ‘
 Temi
 Tempera
 Tempo
-Tempó
+TempÃ³
 Tempus
-Tendál
+TendÃ¡l
 Tengerdi
 Tengerszem
 Tenisz
 Tenkes
 Tensor
-Tenzió
+TenziÃ³
 Tenzor
 Terc
 Tercia
 Terdik
-Teréz
-Terézvárosi
-Terézvárosi Textilkereskedelmi
+TerÃ©z
+TerÃ©zvÃ¡rosi
+TerÃ©zvÃ¡rosi Textilkereskedelmi
 Terebesi
 Terebess
 Teritex
 Terla
 Terland
-Termál
-Termáltechnika
-Termény
-Termény-Táp
-Terménybolt
-Természet
-Természetvédelmi
-Termelés Logistic
-Termelõ
-Termelõszövetkezet
-Termelõszövetkezetek
+TermÃ¡l
+TermÃ¡ltechnika
+TermÃ©ny
+TermÃ©ny-TÃ¡p
+TermÃ©nybolt
+TermÃ©szet
+TermÃ©szetvÃ©delmi
+TermelÃ©s Logistic
+TermelÅ‘
+TermelÅ‘szÃ¶vetkezet
+TermelÅ‘szÃ¶vetkezetek
 Termesz
 Termin
-Terminál
+TerminÃ¡l
 Terminus
 Termo
 Termobil
@@ -11290,23 +11290,23 @@ Terra-Truck
 Terracom
 Terrakotta
 Terramed
-Területfejlesztési
-Területfejlesztési Tanács
-Területi Gondozási
-Területi Gyermekvédelmi Szakszolgálat
+TerÃ¼letfejlesztÃ©si
+TerÃ¼letfejlesztÃ©si TanÃ¡cs
+TerÃ¼leti GondozÃ¡si
+TerÃ¼leti GyermekvÃ©delmi SzakszolgÃ¡lat
 Terv
 Terveink
-Tervezõ
-Tessloff és Babilon
+TervezÅ‘
+Tessloff Ã©s Babilon
 Tesz
 Tesz-Vesz
 Teszt
 Teta
-Tetõ
-Tetõ-Fok
-Tetõcentrum
-Tetõpont
-Tetõtér
+TetÅ‘
+TetÅ‘-Fok
+TetÅ‘centrum
+TetÅ‘pont
+TetÅ‘tÃ©r
 Tetra Pak
 Tetthely
 Tettye
@@ -11326,25 +11326,25 @@ Thalker
 Thassos
 The
 The Your Company
-Théta
+ThÃ©ta
 Theater
 Theisz
 Theodora
 Therma
-Thermál
-Thermálfürdõ
+ThermÃ¡l
+ThermÃ¡lfÃ¼rdÅ‘
 Thermix
 Thermix-Beton
 Thermo
 Thermo-Bau
 Thermotechnika
-Thököly
+ThÃ¶kÃ¶ly
 Thomson
 Thora
-Thurzó
+ThurzÃ³
 Ti-Po
-Tímár
-Tímea
+TÃ­mÃ¡r
+TÃ­mea
 Tiara
 Tiba
 Tibet
@@ -11355,87 +11355,87 @@ Tiger
 Tigrisszem
 Tihany
 Tihanyi
-Tihanyi Babamúzeum
+Tihanyi BabamÃºzeum
 Tilia
 Till
 Tim
-Timár
+TimÃ¡r
 Time
 Timesped
-Timkó
+TimkÃ³
 Timnet
 Timo
 Timon
 Timpanon
 Tina
 Tini
-Tinódi
+TinÃ³di
 Tip-Top
 Tipp
-Tipp-Adó
+Tipp-AdÃ³
 Tirex
 Tischler
 Tisza
-Tisza Volán
-Tisza-Gáz
-Tisza-Víz
+Tisza VolÃ¡n
+Tisza-GÃ¡z
+Tisza-VÃ­z
 Tiszafa
 Tiszafarm Produce
 Tiszai
-Tiszai Vegyi Kombinát
+Tiszai Vegyi KombinÃ¡t
 Tiszaker
 Tiszamenti
-Tiszapack Papírfeldolgozó
+Tiszapack PapÃ­rfeldolgozÃ³
 Tiszapart
-Tiszatáj
-Tiszavidék
-Tiszavirág
-Tiszta Forrás
-Tisztavíz
+TiszatÃ¡j
+TiszavidÃ©k
+TiszavirÃ¡g
+Tiszta ForrÃ¡s
+TisztavÃ­z
 Tiszti
-Titán
-Titánia
+TitÃ¡n
+TitÃ¡nia
 Titem
 Titex
 Tivi
 To-Ma Tour
-Tó
-Tó-Ba
-Tóbiás
-Tóka
-Tónus
-Tópart
-Tóparti
-Tórusz
-Tószegi
-Tóth
-Tóth &
-Tóth János
-Tóth József
-Tóth-Install
-Tóth-Kása
-Tóthágas
-Tóvári
-Tóvárosi
-Tózus
-Tölgy
-Tölgyes
-Tölgyfa
-Tömpe
-Törekvés
-Törimpex
-Török
-Törös
-Törpe
-Törzsök
-Tõke
-Tõrös
-Tõzsér
-Tõzsér és Máriás Szoftver
+TÃ³
+TÃ³-Ba
+TÃ³biÃ¡s
+TÃ³ka
+TÃ³nus
+TÃ³part
+TÃ³parti
+TÃ³rusz
+TÃ³szegi
+TÃ³th
+TÃ³th &
+TÃ³th JÃ¡nos
+TÃ³th JÃ³zsef
+TÃ³th-Install
+TÃ³th-KÃ¡sa
+TÃ³thÃ¡gas
+TÃ³vÃ¡ri
+TÃ³vÃ¡rosi
+TÃ³zus
+TÃ¶lgy
+TÃ¶lgyes
+TÃ¶lgyfa
+TÃ¶mpe
+TÃ¶rekvÃ©s
+TÃ¶rimpex
+TÃ¶rÃ¶k
+TÃ¶rÃ¶s
+TÃ¶rpe
+TÃ¶rzsÃ¶k
+TÅ‘ke
+TÅ‘rÃ¶s
+TÅ‘zsÃ©r
+TÅ‘zsÃ©r Ã©s MÃ¡riÃ¡s Szoftver
 Tobi
 Tobimpex
 Toboz
-Toboz Lakberendezés
+Toboz LakberendezÃ©s
 Tofa
 Tok
 Tokai
@@ -11443,8 +11443,8 @@ Tokaj
 Tokaj Crus Select
 Toldi
 Toll
-Tolmács
-Tolmár
+TolmÃ¡cs
+TolmÃ¡r
 Tolna
 Tolnai
 Tolnay
@@ -11452,7 +11452,7 @@ Tom
 Toma
 Tomi
 Tomker
-Tomkó
+TomkÃ³
 Tomoza
 Tompa
 Tomsoft
@@ -11467,12 +11467,12 @@ Top Quality
 Top Tipo
 Top Yachting
 Top-Coop
-Top-Ideál
+Top-IdeÃ¡l
 Top-Ker
 Top-Shop
 Top-Tex
 Top-Trade
-Topáz
+TopÃ¡z
 Topack
 Topi
 Topos
@@ -11486,32 +11486,32 @@ Torkolat
 Torkos
 Torma
 Torna
-Tornácos
-Tornádó
+TornÃ¡cos
+TornÃ¡dÃ³
 Tornai
 Tornyos
 Torony
 Toronyi
-Totál
+TotÃ¡l
 Total
 Total Walther
-Total XXL Nagyméretû Férfiruha
+Total XXL NagymÃ©retÅ± FÃ©rfiruha
 Totalfinaelf
 Toti
-Totó-Lottó
+TotÃ³-LottÃ³
 Tourinform
 Touring
 Tourist
 Touristic
 Tower
 Toyota
-Toyota Márkakereskedés
+Toyota MÃ¡rkakereskedÃ©s
 Tozso
 Trade
 Trade &
 Trade-Set
 Tradenet
-Tradíció
+TradÃ­ciÃ³
 Trading
 Traffic
 Trafic
@@ -11519,14 +11519,14 @@ Trafo
 Trailer
 Train-Media
 Trainex
-Traktoralkatrész
+TraktoralkatrÃ©sz
 Traktorbolt
 Tramini
 Tramp
 Tramp Euro
 Tran-Co
 Trans
-Trans Bábolna
+Trans BÃ¡bolna
 Trans-Cont
 Trans-Europe
 Trans-Trade
@@ -11547,7 +11547,7 @@ Transver
 Transzsped
 Trantor
 Tranzit
-Trapéz
+TrapÃ©z
 Trapp
 Traubi
 Trauma
@@ -11555,24 +11555,24 @@ Traumtex
 Trautmann
 Travel
 Trawala
-Tréning
+TrÃ©ning
 Treasury
 Treff
 Treffpunkt
 Trena
-Trencsényi
+TrencsÃ©nyi
 Trend
 Trendex
 Trendix
 Tresser Restaurants
 Trezor
-Tri-Ász
+Tri-Ãsz
 Tri-M
 Tri-Mester
-Tri-Plán
-TriGránit
-Triál
-Triász
+Tri-PlÃ¡n
+TriGrÃ¡nit
+TriÃ¡l
+TriÃ¡sz
 Triad
 Triagro
 Triak
@@ -11581,7 +11581,7 @@ Tribus
 Tricomp
 Tridens
 Trident
-Triéder
+TriÃ©der
 Trifolium
 Triga
 Trigon
@@ -11593,10 +11593,10 @@ Trimex
 Trimex Cargo
 Trio
 Trio-Team
-Trió
-Trió Ajtószalon
-Trióda
-Trióka
+TriÃ³
+TriÃ³ AjtÃ³szalon
+TriÃ³da
+TriÃ³ka
 Trioker
 Triola
 Trion
@@ -11610,12 +11610,12 @@ Triumph
 Triumvir
 Trivium
 Tro
-Trófea
-Trópus
+TrÃ³fea
+TrÃ³pus
 Trocadero
 Trojka
 Troll
-Trombitás
+TrombitÃ¡s
 Tronik
 Tropical
 Tropical 6
@@ -11623,55 +11623,55 @@ Truck
 Truck-Sped
 Trust
 Tschann
-Túra
-Túri
-Túri Fazekas
-Tücsi
-Tücsök
-Tüdõbeteg-gondozó
-Tüdõgondozó
-Tüdõgyógyintézet
-Tükör
-Tüköry
-Tünde
-Tündér
-Tündérkert
-Türkiz
-Tüsi
-Tüske
-Tüzép
-Tüzépker
-Tüzeléstechnikai
-Tüzelõ és Építõanyag
-Tüzelõ- és Építõanyag
-Tûz
-Tûzép
-Tûzoltó
-Tûzoltó Parancsnokság
-Tûzoltóegyesület
-Tûzoltókészülék
-Tûzoltóparancsnokság
-Tûzoltóság
-Tûzvédelmi
+TÃºra
+TÃºri
+TÃºri Fazekas
+TÃ¼csi
+TÃ¼csÃ¶k
+TÃ¼dÅ‘beteg-gondozÃ³
+TÃ¼dÅ‘gondozÃ³
+TÃ¼dÅ‘gyÃ³gyintÃ©zet
+TÃ¼kÃ¶r
+TÃ¼kÃ¶ry
+TÃ¼nde
+TÃ¼ndÃ©r
+TÃ¼ndÃ©rkert
+TÃ¼rkiz
+TÃ¼si
+TÃ¼ske
+TÃ¼zÃ©p
+TÃ¼zÃ©pker
+TÃ¼zelÃ©stechnikai
+TÃ¼zelÅ‘ Ã©s Ã‰pÃ­tÅ‘anyag
+TÃ¼zelÅ‘- Ã©s Ã‰pÃ­tÅ‘anyag
+TÅ±z
+TÅ±zÃ©p
+TÅ±zoltÃ³
+TÅ±zoltÃ³ ParancsnoksÃ¡g
+TÅ±zoltÃ³egyesÃ¼let
+TÅ±zoltÃ³kÃ©szÃ¼lÃ©k
+TÅ±zoltÃ³parancsnoksÃ¡g
+TÅ±zoltÃ³sÃ¡g
+TÅ±zvÃ©delmi
 Tuareg
 Tubi
 Tudor
 Tuego
 Tulajdon
 Tulipa
-Tulipán
+TulipÃ¡n
 Tuma
 Tumpek
 Tungsram
 Tuning
 Tura
-Turányi
+TurÃ¡nyi
 Turai
-Turbék
+TurbÃ©k
 Turbo
-Turbó
+TurbÃ³
 Turbucz
-Turcsán
+TurcsÃ¡n
 Turi
 Turizmus
 Turul
@@ -11690,51 +11690,51 @@ Tv
 Twin
 Twintel
 Tyco
-Tyukász
-Új
-Új Barázda
-Új Élet
-Új Holker
-Új Idõk
-Új Mûvészet
-Új Somogyország
-Új-Lépték
-Újfalusi
-Újhelyi
-Újkerti
-Újlak
-Újlaki
-Újlipótvárosi
-Újpest
-Újpesti
-Újszászi
-Újszászi Broiler Farm
-Újvári
-Újvárosi
-Úszó
-Út
-Útépszerv
-Üdülõ
-Ügyészség
-Ügyvédi
-Ügyvédi Munkaközösség
-Ügyvitel
-Ügyviteli
-Üveg-Porcelán
-Üvegcentrum
-Üveges
-Üvegezés
-Üvegezõk
-Üvegipari
-Üzlet
-Üzletház
+TyukÃ¡sz
+Ãšj
+Ãšj BarÃ¡zda
+Ãšj Ã‰let
+Ãšj Holker
+Ãšj IdÅ‘k
+Ãšj MÅ±vÃ©szet
+Ãšj SomogyorszÃ¡g
+Ãšj-LÃ©ptÃ©k
+Ãšjfalusi
+Ãšjhelyi
+Ãšjkerti
+Ãšjlak
+Ãšjlaki
+ÃšjlipÃ³tvÃ¡rosi
+Ãšjpest
+Ãšjpesti
+ÃšjszÃ¡szi
+ÃšjszÃ¡szi Broiler Farm
+ÃšjvÃ¡ri
+ÃšjvÃ¡rosi
+ÃšszÃ³
+Ãšt
+ÃštÃ©pszerv
+ÃœdÃ¼lÅ‘
+ÃœgyÃ©szsÃ©g
+ÃœgyvÃ©di
+ÃœgyvÃ©di MunkakÃ¶zÃ¶ssÃ©g
+Ãœgyvitel
+Ãœgyviteli
+Ãœveg-PorcelÃ¡n
+Ãœvegcentrum
+Ãœveges
+ÃœvegezÃ©s
+ÃœvegezÅ‘k
+Ãœvegipari
+Ãœzlet
+ÃœzlethÃ¡z
 UNICORN
 UNO
 UPS
 UTA
 Udvardi
-Udvarház
-Ujvári
+UdvarhÃ¡z
+UjvÃ¡ri
 Ullmann
 Ulmer
 Ulrich
@@ -11754,7 +11754,7 @@ Unicomp
 Unicoop
 Unicornis
 Unicum
-Unicus Antikvárium
+Unicus AntikvÃ¡rium
 Unifarm
 Unifer
 Uniform
@@ -11766,11 +11766,11 @@ Unilift
 Unilux
 Unio
 Unio Box
-Unió
+UniÃ³
 Union
-Union Biztosító
+Union BiztosÃ­tÃ³
 Union-Trade
-Uniplast Mûanyagfeldolgozó
+Uniplast MÅ±anyagfeldolgozÃ³
 Uniprint
 Uniserv
 Uniszer
@@ -11791,26 +11791,26 @@ Univer
 Universal
 Universitas
 Universum
-Univerzál
-Univerzál-Família
+UniverzÃ¡l
+UniverzÃ¡l-FamÃ­lia
 Univerzum
 Unix
 Uno
 Upgrade
 Uptrend
-Uránia
-Uránusz
-Uránusz 9008
-Urbán
+UrÃ¡nia
+UrÃ¡nusz
+UrÃ¡nusz 9008
+UrbÃ¡n
 Ursula
 Ursus
 User
 Uszoda
 Utas
-Utasellátó
-Utazási
+UtasellÃ¡tÃ³
+UtazÃ¡si
 Utilis
-Utitárs
+UtitÃ¡rs
 V
 V & B
 V & H
@@ -11822,24 +11822,24 @@ V + M
 V + T
 V + V
 V and I
-V és B
-V és V
+V Ã©s B
+V Ã©s V
 V+M
 V+V
-V-Dés
-V-Irodák
+V-DÃ©s
+V-IrodÃ¡k
 V.
 V. A. M.
 V. H.
 V. I. P.
 V. M. C.
 V. N.
-VÁMCO Vámügynökség
+VÃMCO VÃ¡mÃ¼gynÃ¶ksÃ©g
 VAFE
-VAGÉP
+VAGÃ‰P
 VAMED
 VB
-VÉD-SZ
+VÃ‰D-SZ
 VEL
 VG
 VI-PE
@@ -11854,124 +11854,124 @@ VS Torony
 VT
 VTV
 Va-Mo
-Váci
-Váczi
-Vági
-Vágó
-Vákum
-Választék
-Váli
-Vállalkozásfejlesztési
-Vállalkozói
-Vállalkozók
-Vállalkozók Ipartestülete
-Változó Világ
-Vám
-Vám és Pénzügyõrség
-Vám és Pénzügyõrség Országos Parancsnokság
-Vám- és Pénzügyõrség
-Vámos
-Vámosi
-Vámszerviz
-Vándor
-Ványi
-Vár
-Vár-Lak
-Vár-Palota
-Vár-Sirály
-Váradi
-Váradi-Szántó
-Várady
-Várai
-Váralja
-Várda
-Várfal
-Várfalvi
-Várhegy
-Várhegyi
-Várhelyi
-Várhidi
-Vári
-Várkapu
-Várkert
-Várkert Kaszinó
-Várkörnyéke
-Várkonyi
-Vármegye
-Várnai
-Várnay
-Városépítõ
-Városgazdálkodási
-Városgondnokság
-Városgondozási
-Városház
-Városi
-Városi Kórház
-Városi Mûvelõdési
-Városi Sportcsarnok
-Városi Televízió
-Városkép
-Városkút
-Városliget
-Városmajor
-Városüzemeltetési
-Városüzemeltetõ
-Várszegi
-Várszínház
-Vásárcsarnok
-Vásárhelyi
-Vásárhelyi Róna
-Vásáriroda
-Vásártér
+VÃ¡ci
+VÃ¡czi
+VÃ¡gi
+VÃ¡gÃ³
+VÃ¡kum
+VÃ¡lasztÃ©k
+VÃ¡li
+VÃ¡llalkozÃ¡sfejlesztÃ©si
+VÃ¡llalkozÃ³i
+VÃ¡llalkozÃ³k
+VÃ¡llalkozÃ³k IpartestÃ¼lete
+VÃ¡ltozÃ³ VilÃ¡g
+VÃ¡m
+VÃ¡m Ã©s PÃ©nzÃ¼gyÅ‘rsÃ©g
+VÃ¡m Ã©s PÃ©nzÃ¼gyÅ‘rsÃ©g OrszÃ¡gos ParancsnoksÃ¡g
+VÃ¡m- Ã©s PÃ©nzÃ¼gyÅ‘rsÃ©g
+VÃ¡mos
+VÃ¡mosi
+VÃ¡mszerviz
+VÃ¡ndor
+VÃ¡nyi
+VÃ¡r
+VÃ¡r-Lak
+VÃ¡r-Palota
+VÃ¡r-SirÃ¡ly
+VÃ¡radi
+VÃ¡radi-SzÃ¡ntÃ³
+VÃ¡rady
+VÃ¡rai
+VÃ¡ralja
+VÃ¡rda
+VÃ¡rfal
+VÃ¡rfalvi
+VÃ¡rhegy
+VÃ¡rhegyi
+VÃ¡rhelyi
+VÃ¡rhidi
+VÃ¡ri
+VÃ¡rkapu
+VÃ¡rkert
+VÃ¡rkert KaszinÃ³
+VÃ¡rkÃ¶rnyÃ©ke
+VÃ¡rkonyi
+VÃ¡rmegye
+VÃ¡rnai
+VÃ¡rnay
+VÃ¡rosÃ©pÃ­tÅ‘
+VÃ¡rosgazdÃ¡lkodÃ¡si
+VÃ¡rosgondnoksÃ¡g
+VÃ¡rosgondozÃ¡si
+VÃ¡roshÃ¡z
+VÃ¡rosi
+VÃ¡rosi KÃ³rhÃ¡z
+VÃ¡rosi MÅ±velÅ‘dÃ©si
+VÃ¡rosi Sportcsarnok
+VÃ¡rosi TelevÃ­ziÃ³
+VÃ¡roskÃ©p
+VÃ¡roskÃºt
+VÃ¡rosliget
+VÃ¡rosmajor
+VÃ¡rosÃ¼zemeltetÃ©si
+VÃ¡rosÃ¼zemeltetÅ‘
+VÃ¡rszegi
+VÃ¡rszÃ­nhÃ¡z
+VÃ¡sÃ¡rcsarnok
+VÃ¡sÃ¡rhelyi
+VÃ¡sÃ¡rhelyi RÃ³na
+VÃ¡sÃ¡riroda
+VÃ¡sÃ¡rtÃ©r
 Vackor
 Vacsi
-Vadása
-Vadász
-Vadászbolt
-Vadászi
-Vadászkamara
-Vadászkürt
-Vadásztársaság
-Vadásztársaságok
-Vadásztanya
+VadÃ¡sa
+VadÃ¡sz
+VadÃ¡szbolt
+VadÃ¡szi
+VadÃ¡szkamara
+VadÃ¡szkÃ¼rt
+VadÃ¡sztÃ¡rsasÃ¡g
+VadÃ¡sztÃ¡rsasÃ¡gok
+VadÃ¡sztanya
 Vadaskert
 Vadon
-Vadrózsa
-Vadvirág
+VadrÃ³zsa
+VadvirÃ¡g
 Vadzsra
 Vagabond
 Vagyon
-Vagyonkezelõ
-Vagyonkezelõ és Városüzemeltetõ
-Vagyonvédelmi
+VagyonkezelÅ‘
+VagyonkezelÅ‘ Ã©s VÃ¡rosÃ¼zemeltetÅ‘
+VagyonvÃ©delmi
 Vaillant
 Vajas
 Vajda
-Vakáció
+VakÃ¡ciÃ³
 Vakok
-Vakok és Csökkentlátók
-Vakok és Gyengénlátók Országos
+Vakok Ã©s CsÃ¶kkentlÃ¡tÃ³k
+Vakok Ã©s GyengÃ©nlÃ¡tÃ³k OrszÃ¡gos
 Valcum
-Valéria
+ValÃ©ria
 Valent
 Valentin
 Valentina-N
 Valex
 Valkai
-Valkó
-Valószín
+ValkÃ³
+ValÃ³szÃ­n
 Valorg
 Valter
 Vancsik
 Vanos
 Vantex
-Varázs
+VarÃ¡zs
 Varex
 Varga
 Varga & Varga
 Varga Trans-Fer
-Varga és Varga
-Vargáné
+Varga Ã©s Varga
+VargÃ¡nÃ©
 Varia
 Variant
 Varietas
@@ -11980,87 +11980,87 @@ Vario
 Variorum
 Varius
 Varjas
-Varjúvár
+VarjÃºvÃ¡r
 Varker
-Varró
-Varrógép
+VarrÃ³
+VarrÃ³gÃ©p
 Varroda
 Varsa
-Varsányi
+VarsÃ¡nyi
 Vartax
 Vas
 Vas-
-Vas- Fém
-Vas-Jármû
-Vas-Mûszaki
+Vas- FÃ©m
+Vas-JÃ¡rmÅ±
+Vas-MÅ±szaki
 Vasas
 Vasas Szakszervezeti
 Vasbolt
-Vasép
-Vasépker
-Vasért Tata
-Vasedény
+VasÃ©p
+VasÃ©pker
+VasÃ©rt Tata
+VasedÃ©ny
 Vasi
 Vasi Annfer
-Vasi Spéci
+Vasi SpÃ©ci
 Vasipari
 Vasmacska
-Vasöntöde
+VasÃ¶ntÃ¶de
 Vass
 Vass-Med
 Vasszer
 Vastag
-Vasúti
+VasÃºti
 Vasudvar
 Vasutas
-Vasvári
+VasvÃ¡ri
 Vasvill
 Ve-Ga
-Véd-Õ
-Véda
-Védelem
-Védõ-Pajzs
-Védõnõ
-Védõnõi
-Végállomás
-Végh
-Véka
-Vén Diófa
-Véndiák
-Véndiófa
-Vénia
-Vénusz
-Véradó
-Vérellátó
-Véró
-Vértes
-Vértranszfúziós
-Vét és Közgazdasági
+VÃ©d-Å
+VÃ©da
+VÃ©delem
+VÃ©dÅ‘-Pajzs
+VÃ©dÅ‘nÅ‘
+VÃ©dÅ‘nÅ‘i
+VÃ©gÃ¡llomÃ¡s
+VÃ©gh
+VÃ©ka
+VÃ©n DiÃ³fa
+VÃ©ndiÃ¡k
+VÃ©ndiÃ³fa
+VÃ©nia
+VÃ©nusz
+VÃ©radÃ³
+VÃ©rellÃ¡tÃ³
+VÃ©rÃ³
+VÃ©rtes
+VÃ©rtranszfÃºziÃ³s
+VÃ©t Ã©s KÃ¶zgazdasÃ¡gi
 Vecsei
 Vecsey
 Vecto
 Vector
 Vectra
 Vega
-Vegyépszer
+VegyÃ©pszer
 Vegyes
 Vegyesbolt
 Vegyesipari
-Vegyimûveket
-Vegytisztító
+VegyimÅ±veket
+VegytisztÃ­tÃ³
 Vekota
 Vektor
 Velence
 Velorex
-Velünk
+VelÃ¼nk
 Velvet
 Vemupa
 Venatus
-Vendégház
-Vendéglátó
-Vendéglátóipari
-Vendéglõ
-Vendégváró
+VendÃ©ghÃ¡z
+VendÃ©glÃ¡tÃ³
+VendÃ©glÃ¡tÃ³ipari
+VendÃ©glÅ‘
+VendÃ©gvÃ¡rÃ³
 Vendrey
 Venere
 Venesz
@@ -12076,11 +12076,11 @@ Ver-Ker
 Vera
 Verarbeiten Pausits
 Verbis
-Verbó
+VerbÃ³
 Vercomp
 Verda
-Veréb
-Verebélyi
+VerÃ©b
+VerebÃ©lyi
 Verecke
 Veres
 Veress
@@ -12093,50 +12093,50 @@ Verseczki
 Verseny
 Verso
 Vertex
-Vertikál
+VertikÃ¡l
 Vertikum
-Verzátus
-Verzió
+VerzÃ¡tus
+VerziÃ³
 Vesta
 Vesz-Therm
 Veszely
-Veszprém
-Veszprém Megyei
-Veszprémi
-Veterinária
+VeszprÃ©m
+VeszprÃ©m Megyei
+VeszprÃ©mi
+VeterinÃ¡ria
 Vetex
 Vetter
-Vezér
-Vezúv
+VezÃ©r
+VezÃºv
 Vezuv
 Vi-Ko
-Víg
-Víg Apát
-Víg Nyúl
-Vígh
-Vígvári Rendszerház
-Víz és Csatornamû
-Víz és Csõ
-Víz- és Csatornamû
-Víz-Szervíz
-Víz-és Csatornamû
-Vízépítõ
-Vízgazdálkodási
-Vízgazdálkodási és Talajvédelmi
-Vízhasznosítási
-Víziközmû
-Vízió
-Vízivárosi
-Vízközmû
-Vízmû
-Vízmû és Vízgazdálkodási
-Vízmûvek
-Vízmûvek Észak-magyarországi Regionális
-Vízöntõ
-Vízöv
-Víztorony
-Vízügyi
-Vízvári
+VÃ­g
+VÃ­g ApÃ¡t
+VÃ­g NyÃºl
+VÃ­gh
+VÃ­gvÃ¡ri RendszerhÃ¡z
+VÃ­z Ã©s CsatornamÅ±
+VÃ­z Ã©s CsÅ‘
+VÃ­z- Ã©s CsatornamÅ±
+VÃ­z-SzervÃ­z
+VÃ­z-Ã©s CsatornamÅ±
+VÃ­zÃ©pÃ­tÅ‘
+VÃ­zgazdÃ¡lkodÃ¡si
+VÃ­zgazdÃ¡lkodÃ¡si Ã©s TalajvÃ©delmi
+VÃ­zhasznosÃ­tÃ¡si
+VÃ­zikÃ¶zmÅ±
+VÃ­ziÃ³
+VÃ­zivÃ¡rosi
+VÃ­zkÃ¶zmÅ±
+VÃ­zmÅ±
+VÃ­zmÅ± Ã©s VÃ­zgazdÃ¡lkodÃ¡si
+VÃ­zmÅ±vek
+VÃ­zmÅ±vek Ã‰szak-magyarorszÃ¡gi RegionÃ¡lis
+VÃ­zÃ¶ntÅ‘
+VÃ­zÃ¶v
+VÃ­ztorony
+VÃ­zÃ¼gyi
+VÃ­zvÃ¡ri
 Via
 Via del
 Viadom
@@ -12146,15 +12146,15 @@ Vianni
 Viba
 Vico
 Vicomp
-Victória
+VictÃ³ria
 Victor
 Victoria
 Victory
 Victum
 Vida
-Vidákovics
-Vidám Pallér
-Vidámpark
+VidÃ¡kovics
+VidÃ¡m PallÃ©r
+VidÃ¡mpark
 Video
 Videobank
 Videocomp
@@ -12163,10 +12163,10 @@ Vidikon
 Vidra
 Vienna
 Vig
-Vigadó
-Vigadó Irodaház
+VigadÃ³
+VigadÃ³ IrodahÃ¡z
 Vigh
-Vikárius
+VikÃ¡rius
 Vikajab
 Vikarek
 Vikend
@@ -12174,12 +12174,12 @@ Viki
 Viki Fair
 Viking
 Vikom
-Viktória
+ViktÃ³ria
 Viktor
 Viktoria
-Világi
-Világítástechnika
-Világítástechnikai
+VilÃ¡gi
+VilÃ¡gÃ­tÃ¡stechnika
+VilÃ¡gÃ­tÃ¡stechnikai
 Vileda
 Vill-Lak
 Vill-Terv
@@ -12187,23 +12187,23 @@ Villa
 Villa Medici
 Villa Rosa
 Villa Urbana
-Villám
-Villányi
-Villányi Dent
+VillÃ¡m
+VillÃ¡nyi
+VillÃ¡nyi Dent
 Villamos
-Villamossági
-Villamostávvezeték
+VillamossÃ¡gi
+VillamostÃ¡vvezetÃ©k
 Villany-Szer
 Villanymotor
-Villanyszerelési
-Villanyszerelõ
-Villép
+VillanyszerelÃ©si
+VillanyszerelÅ‘
+VillÃ©p
 Villker
 Villszer
 Vima
 Vimperga
 Vince
-Vincellér
+VincellÃ©r
 Vincze
 Vinex
 Vinitor
@@ -12214,27 +12214,27 @@ Viola
 Violetta
 Violin
 Vip
-Virág
-Virág Kúria
-Virág és Ajándék
-Virág-Ajándék
-Virágh
-Virágpaletta
-Virágpavilon
+VirÃ¡g
+VirÃ¡g KÃºria
+VirÃ¡g Ã©s AjÃ¡ndÃ©k
+VirÃ¡g-AjÃ¡ndÃ©k
+VirÃ¡gh
+VirÃ¡gpaletta
+VirÃ¡gpavilon
 Virginia
 Virgo Systems
 Viridis
-Virtuál
+VirtuÃ¡l
 Virtual World
 Virtuart
-Virtuóz
+VirtuÃ³z
 Virtus
 Vis Medica
-Visegrád
+VisegrÃ¡d
 Vision
 Viso-Szer
 Vista
-Vista Légiutazási
+Vista LÃ©giutazÃ¡si
 Visual
 Visual Worx
 Visuart
@@ -12243,76 +12243,76 @@ Vita
 Vita Longa
 Vita-Med
 Vita-Sana
-Vitál
-Vitális
+VitÃ¡l
+VitÃ¡lis
 Vitadent
 Vitai
 Vital
 Vitalis
-Vitalitás
+VitalitÃ¡s
 Vitalitas
 Vitamag
 Vitamin
 Vitani
 Vitavin
-Vitéz
+VitÃ©z
 Vitexim
 Vitis
 Vito
 Viton
-Vitorlás
+VitorlÃ¡s
 Vitrin
 Viva
-Viva-Lócs
+Viva-LÃ³cs
 Vivarium
 Vivax
 Vivien
-Vizafogó
+VizafogÃ³
 Vizi
-Viziközmû
+VizikÃ¶zmÅ±
 Vizimalom
 Vizit
-Vizügyi
-Vizuál
-Vizvári
+VizÃ¼gyi
+VizuÃ¡l
+VizvÃ¡ri
 Vo-Je
-Vörös
-Vöröskereszt
-Vörösmarty
-Vörösvár
+VÃ¶rÃ¶s
+VÃ¶rÃ¶skereszt
+VÃ¶rÃ¶smarty
+VÃ¶rÃ¶svÃ¡r
 Voal
 Vodafone
 Vodafone Hivatalos
 Vogel-Sitze
 Voith
 Vojth
-Volán
-Volán Tefu
-Volánbusz
-Volánspedíció
-Volántourist
-Volért
+VolÃ¡n
+VolÃ¡n Tefu
+VolÃ¡nbusz
+VolÃ¡nspedÃ­ciÃ³
+VolÃ¡ntourist
+VolÃ©rt
 Volford
 Volsped
 Volta
 Volumen
 Vona
 Vonal
-Vonalkód Rendszerház
+VonalkÃ³d RendszerhÃ¡z
 Vorpa
 Vortex
 Vossen
 Vujaklija
 Vulcanus
-Vulkán
+VulkÃ¡n
 W & W
 W and M
 W. A. G.
 W. S.
 WAF
 WIN
-Wágner
-Wáhl
+WÃ¡gner
+WÃ¡hl
 Wagner
 Wahl
 Wald
@@ -12329,7 +12329,7 @@ Watex
 Watt-Vill
 Wattson
 Watz
-Wéber
+WÃ©ber
 Web
 Weber
 Weck-Ap
@@ -12355,7 +12355,7 @@ West End
 West Star
 West-Car
 Westel
-Westel 900 GSM Mobil Távközlési
+Westel 900 GSM Mobil TÃ¡vkÃ¶zlÃ©si
 Western
 Westline
 Weststar
@@ -12405,9 +12405,9 @@ XO
 XS
 XXL
 Xant
-Xantó
-Xavér
-Xénia
+XantÃ³
+XavÃ©r
+XÃ©nia
 Xerox
 Xilon
 Xintex
@@ -12423,7 +12423,7 @@ Yellow Box
 Yeruham
 Yes
 Yesil
-Yogen Früz
+Yogen FrÃ¼z
 York
 Young
 Young B. T. S.
@@ -12436,57 +12436,57 @@ Z+D
 ZNS
 ZS & ZS
 ZSORA
-Zábrák
-Zádor
-Zádori
-Záhony és Térsége
-Zákány
-Zákányi
-Zálogfiók
-Zálogház
-Zámbó
-Zánkai
-Zár
-Zár-Vasalás
-Záradék
-Zafír
+ZÃ¡brÃ¡k
+ZÃ¡dor
+ZÃ¡dori
+ZÃ¡hony Ã©s TÃ©rsÃ©ge
+ZÃ¡kÃ¡ny
+ZÃ¡kÃ¡nyi
+ZÃ¡logfiÃ³k
+ZÃ¡loghÃ¡z
+ZÃ¡mbÃ³
+ZÃ¡nkai
+ZÃ¡r
+ZÃ¡r-VasalÃ¡s
+ZÃ¡radÃ©k
+ZafÃ­r
 Zafir
-Zaják
-Zajgató
+ZajÃ¡k
+ZajgatÃ³
 Zakar
-Zakariás
+ZakariÃ¡s
 Zala
 Zala Megyei Iparkamara
-Zala Megyei Katasztrófavédelmi
+Zala Megyei KatasztrÃ³favÃ©delmi
 Zala Pack
-Zalán
-Zalagyöngye
+ZalÃ¡n
+ZalagyÃ¶ngye
 Zalai
-Zalai Gyermek és Ifjúsági
-Zalai Hírlap
-Zalakerámia
-Zalaszám
+Zalai Gyermek Ã©s IfjÃºsÃ¡gi
+Zalai HÃ­rlap
+ZalakerÃ¡mia
+ZalaszÃ¡m
 Zalatour
-Zalavári
+ZalavÃ¡ri
 Zalka
 Zamat
 Zamur
 Zarges
 Zboray
-Zéró
-Zéró Point
-Zéta
+ZÃ©rÃ³
+ZÃ©rÃ³ Point
+ZÃ©ta
 Zebra
-Zefír
-Zelkó
+ZefÃ­r
+ZelkÃ³
 Zeller
 Zem
-Zemplén
-Zempléni Regionális
-Zempléni Ruhaipari
+ZemplÃ©n
+ZemplÃ©ni RegionÃ¡lis
+ZemplÃ©ni Ruhaipari
 Zena
 Zeneiskola
-Zengõ
+ZengÅ‘
 Zenit
 Zenith
 Zentai
@@ -12499,97 +12499,97 @@ Ziccer
 Ziegler
 Zikkurat
 Zilahy
-Zimankó
+ZimankÃ³
 Zimbo
 Zion
 Zipper
 Zita
 Zizi
 Zo-Trans
-Zóna
-Zöld
-Zöld Ász
-Zöld Alma
-Zöld Bárók
-Zöld Elefánt
-Zöld Forrás
-Zöld Király
-Zöld Mezõ Termelõszövetkezet
-Zöld Pont
-Zöld Sas
-Zöld Sün
-Zöld Út
-Zöld út
-Zöldért
-Zöldfa
-Zöldfény
-Zöldfenyõ
-Zöldház
-Zöldker
-Zöldkereszt
-Zöldkert
-Zöldmezõ
-Zöldövezet
-Zöldség
-Zöldség-Gyümölcs
-Zöldségtermesztési Kutató
-Zöldvár Villa
-Zoé
+ZÃ³na
+ZÃ¶ld
+ZÃ¶ld Ãsz
+ZÃ¶ld Alma
+ZÃ¶ld BÃ¡rÃ³k
+ZÃ¶ld ElefÃ¡nt
+ZÃ¶ld ForrÃ¡s
+ZÃ¶ld KirÃ¡ly
+ZÃ¶ld MezÅ‘ TermelÅ‘szÃ¶vetkezet
+ZÃ¶ld Pont
+ZÃ¶ld Sas
+ZÃ¶ld SÃ¼n
+ZÃ¶ld Ãšt
+ZÃ¶ld Ãºt
+ZÃ¶ldÃ©rt
+ZÃ¶ldfa
+ZÃ¶ldfÃ©ny
+ZÃ¶ldfenyÅ‘
+ZÃ¶ldhÃ¡z
+ZÃ¶ldker
+ZÃ¶ldkereszt
+ZÃ¶ldkert
+ZÃ¶ldmezÅ‘
+ZÃ¶ldÃ¶vezet
+ZÃ¶ldsÃ©g
+ZÃ¶ldsÃ©g-GyÃ¼mÃ¶lcs
+ZÃ¶ldsÃ©gtermesztÃ©si KutatÃ³
+ZÃ¶ldvÃ¡r Villa
+ZoÃ©
 Zoex
-Zokogó
+ZokogÃ³
 Zol-Ka
 Zoland
 Zoli
-Zollner Elektronik Vác
+Zollner Elektronik VÃ¡c
 Zolnai
-Zoltán
+ZoltÃ¡n
 Zoltai
 Zolter
-Zománc
+ZomÃ¡nc
 Zombor
 Zombori
-Zombori Villép
-Zomkó
+Zombori VillÃ©p
+ZomkÃ³
 Zone
 Zoom
 Zorba
 Zpont
-Zrínyi
-Zrínyi Ilona
-Zsálya
-Zsámboki
+ZrÃ­nyi
+ZrÃ­nyi Ilona
+ZsÃ¡lya
+ZsÃ¡mboki
 Zsalu
-Zsévill
+ZsÃ©vill
 Zselic
 Zsemle
-Zsenília
+ZsenÃ­lia
 Zsidi
-Zsidó Hitközség
-Zsidró
+ZsidÃ³ HitkÃ¶zsÃ©g
+ZsidrÃ³
 Zsiga
 Zsikla
 Zsilip
 Zsindely
-Zsinkó
-Zsiráf
-Zsitvai Á. Cukrászati
+ZsinkÃ³
+ZsirÃ¡f
+Zsitvai Ã. CukrÃ¡szati
 Zso-Zso
-Zsóka
+ZsÃ³ka
 Zsola-Tel
 Zsoldos
-Zsoldos és Csató
+Zsoldos Ã©s CsatÃ³
 Zsoliva
 Zsolnay
 Zsolt
 Zsolti-Futi
 Zsom
-Zsombó
-Zsongorkõ
+ZsombÃ³
+ZsongorkÅ‘
 Zsuzsa
 Zsuzsi
-Zúzmara
-Zugló
-Zuglói
+ZÃºzmara
+ZuglÃ³
+ZuglÃ³i
 Zunifer
 Zwack
 Zwick

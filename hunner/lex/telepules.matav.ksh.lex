@@ -1,676 +1,676 @@
-Á-akna
-Abádi Rét
-Abádszalók
+Ã-akna
+AbÃ¡di RÃ©t
+AbÃ¡dszalÃ³k
 Abaliget
 Aba
 Abapuszta
-Aba-Sárkeresztúr
-Abasár
-Abaújalpár
-Abaújdevecser
-Abaújkér
-Abaújlak
-Abaújsáp
-Abaújszántói Fürdõ
-Abaújszántó
-Abaújszolnok
-Abaújvár
+Aba-SÃ¡rkeresztÃºr
+AbasÃ¡r
+AbaÃºjalpÃ¡r
+AbaÃºjdevecser
+AbaÃºjkÃ©r
+AbaÃºjlak
+AbaÃºjsÃ¡p
+AbaÃºjszÃ¡ntÃ³i FÃ¼rdÅ‘
+AbaÃºjszÃ¡ntÃ³
+AbaÃºjszolnok
+AbaÃºjvÃ¡r
 Abda
-Ablánc-patak
+AblÃ¡nc-patak
 Abod
 Abonyi-halom
-Abonyiúti Tanyák
-Abonyi Út
+AbonyiÃºti TanyÃ¡k
+Abonyi Ãšt
 Abony
-Ábrahámhegy
-Ábrahámtelek
-Ábrahámtelep
-Ábránd
-Ábránytanya
-Acsádi Malom
-Acsád
-Acsa-Erdõkürt Állomás
-Acsa-Erdõkürt
+ÃbrahÃ¡mhegy
+ÃbrahÃ¡mtelek
+ÃbrahÃ¡mtelep
+ÃbrÃ¡nd
+ÃbrÃ¡nytanya
+AcsÃ¡di Malom
+AcsÃ¡d
+Acsa-ErdÅ‘kÃ¼rt ÃllomÃ¡s
+Acsa-ErdÅ‘kÃ¼rt
 Acsalag
 Acsa
-Ácsás
-Acsáspuszta
-Acsaújlak
-Acsaújlak-puszta
-Acsi Csõszház
-Ács
-Ácstanya
-Ácsteszéripuszta
-Ácsteszér
-Ácsteszér-puszta
-Adacsierdõ
-Adács
-Ádámdûlõ
-Ádámhegy
-Ádám Hegy
-Ádámmajor
-Ádám-puszta
-Ádámtanya
-Ádánd Állomás
-Ádánd
-Adásztevel
-Adlerszõllõs
+ÃcsÃ¡s
+AcsÃ¡spuszta
+AcsaÃºjlak
+AcsaÃºjlak-puszta
+Acsi CsÅ‘szhÃ¡z
+Ãcs
+Ãcstanya
+ÃcsteszÃ©ripuszta
+ÃcsteszÃ©r
+ÃcsteszÃ©r-puszta
+AdacsierdÅ‘
+AdÃ¡cs
+ÃdÃ¡mdÅ±lÅ‘
+ÃdÃ¡mhegy
+ÃdÃ¡m Hegy
+ÃdÃ¡mmajor
+ÃdÃ¡m-puszta
+ÃdÃ¡mtanya
+ÃdÃ¡nd ÃllomÃ¡s
+ÃdÃ¡nd
+AdÃ¡sztevel
+AdlerszÅ‘llÅ‘s
 Adolfmajor
 Adony-Duna-part
 Adonyhegy
 Adony
-Adorjánháza
-Adorján-hegy
-Adorján
-Adorjánpuszta
-Adorjántanya
-Adorjánújtelep
-Adorjás
-Adriántelep
-Adríenne-puszta
+AdorjÃ¡nhÃ¡za
+AdorjÃ¡n-hegy
+AdorjÃ¡n
+AdorjÃ¡npuszta
+AdorjÃ¡ntanya
+AdorjÃ¡nÃºjtelep
+AdorjÃ¡s
+AdriÃ¡ntelep
+AdrÃ­enne-puszta
 Adyliget
 Afrikamajor
-Agácos Hora
-Agárdidûlõ
-Agárdi-hegy
-Agárdi
-Agárdi Villatelep
-Agárdivölgy
-Agárd
-Agárdpuszta
-Agárdytelep
-Agárhalom
-Agár-tetõ
-Ágasegyházai-rét
-Ágasegyháza
-Ágasegyházi Rét
-Ágasegyházi Tanyák
-Ágaserdõ
-Ágas-hegy
-Ágastó
-Ágasvár
-Ágerdõmajor
-Ágerdõ
-Ágér
-Ágfalva
-Aggató
-Aggszentpéter
+AgÃ¡cos Hora
+AgÃ¡rdidÅ±lÅ‘
+AgÃ¡rdi-hegy
+AgÃ¡rdi
+AgÃ¡rdi Villatelep
+AgÃ¡rdivÃ¶lgy
+AgÃ¡rd
+AgÃ¡rdpuszta
+AgÃ¡rdytelep
+AgÃ¡rhalom
+AgÃ¡r-tetÅ‘
+ÃgasegyhÃ¡zai-rÃ©t
+ÃgasegyhÃ¡za
+ÃgasegyhÃ¡zi RÃ©t
+ÃgasegyhÃ¡zi TanyÃ¡k
+ÃgaserdÅ‘
+Ãgas-hegy
+ÃgastÃ³
+ÃgasvÃ¡r
+ÃgerdÅ‘major
+ÃgerdÅ‘
+ÃgÃ©r
+Ãgfalva
+AggatÃ³
+AggszentpÃ©ter
 Aggtelek Caves
-Aggteleker Höhle
+Aggteleker HÃ¶hle
 Aggteleki-barlang
-Aggteleki-cseppkõbarlang
-Aggteleki Hegység
+Aggteleki-cseppkÅ‘barlang
+Aggteleki HegysÃ©g
 Aggteleki-karszt
-Aggteleki Karsztos Hegység
+Aggteleki Karsztos HegysÃ©g
 Aggtelek
-Ághely
-Ágnesakna
-Ágnesforrás
-Ágnesmajor
-Ág
-Ágócpuszta
-Ágóctanya
-Ágói Patakdûlõ
-Ágói-patak
-Ágóirétdûlõ
-Ágói Szõllõ
-Ágó
-Ágostmajor
-Ágoston-halom
-Ágostonhalom
-Ágostonmajor
-Ágostonpuszta
-Ágostontanya
-Agostyáni-hegy
-Ágostyán
-Ágosvár
-Ágotazug
-Agráregyetem
-Ágtanya
-Agyagbánya
+Ãghely
+Ãgnesakna
+ÃgnesforrÃ¡s
+Ãgnesmajor
+Ãg
+ÃgÃ³cpuszta
+ÃgÃ³ctanya
+ÃgÃ³i PatakdÅ±lÅ‘
+ÃgÃ³i-patak
+ÃgÃ³irÃ©tdÅ±lÅ‘
+ÃgÃ³i SzÅ‘llÅ‘
+ÃgÃ³
+Ãgostmajor
+Ãgoston-halom
+Ãgostonhalom
+Ãgostonmajor
+Ãgostonpuszta
+Ãgostontanya
+AgostyÃ¡ni-hegy
+ÃgostyÃ¡n
+ÃgosvÃ¡r
+Ãgotazug
+AgrÃ¡regyetem
+Ãgtanya
+AgyagbÃ¡nya
 Agyaglika
 Agyaglik
 Agyagos-hegy
 Agyagoskert
 Agyagos
-Agyagosszergény
-Agyagos Tetõ
+AgyagosszergÃ©ny
+Agyagos TetÅ‘
 Ajaki Tanya
 Ajak
-Ajka-Gyártelep
-Ajkai Tanyák
+Ajka-GyÃ¡rtelep
+Ajkai TanyÃ¡k
 Ajka
-Ajkarendeki Tanyák
+Ajkarendeki TanyÃ¡k
 Ajkarendek
-Ajkarendek Tanyák
-Ajmaniczadûlõ
-Ajtóshát
-Ajtós
-Akácáslók
-Akácásmajor
-Akácdûlõ
-Akadémiaföld
-Akadémia Tanyája
-Akadémia-tanya
+Ajkarendek TanyÃ¡k
+AjmaniczadÅ±lÅ‘
+AjtÃ³shÃ¡t
+AjtÃ³s
+AkÃ¡cÃ¡slÃ³k
+AkÃ¡cÃ¡smajor
+AkÃ¡cdÅ±lÅ‘
+AkadÃ©miafÃ¶ld
+AkadÃ©mia TanyÃ¡ja
+AkadÃ©mia-tanya
 Akalacs
 Akali
 Aka
 Akarattya
-Akasztó-bérc
-Akasztódomb
-Akasztó Domb
-Akasztódûlõ
-Akasztófadomb
-Akasztófadûlõ
-Akasztófahegy
-Akasztófai-domb
-Akasztó-halom
-Akasztóhegyi Szõllõ
-Akasztó-hegy
-Akasztóhegy
-Akasztói Tanya
-Akasztó
+AkasztÃ³-bÃ©rc
+AkasztÃ³domb
+AkasztÃ³ Domb
+AkasztÃ³dÅ±lÅ‘
+AkasztÃ³fadomb
+AkasztÃ³fadÅ±lÅ‘
+AkasztÃ³fahegy
+AkasztÃ³fai-domb
+AkasztÃ³-halom
+AkasztÃ³hegyi SzÅ‘llÅ‘
+AkasztÃ³-hegy
+AkasztÃ³hegy
+AkasztÃ³i Tanya
+AkasztÃ³
 Aklipuszta
 Aklos
 Akna
-Akóhegy
-Akoldûlõ
-Akolháti Puszta
-Akolhát
+AkÃ³hegy
+AkoldÅ±lÅ‘
+AkolhÃ¡ti Puszta
+AkolhÃ¡t
 Akol-hegy
 Akolmajor
 Akol
-Alacskai-Kõszénbányatelep
-Alacskaiszénbánya
+Alacskai-KÅ‘szÃ©nbÃ¡nyatelep
+AlacskaiszÃ©nbÃ¡nya
 Alacska
-Aladármajor
+AladÃ¡rmajor
 Alagi Major
 Alag
-Alájáródûlõi Tanyák
-Alájáródûlõ
-Alajosházatanya
-Alapi Rész
+AlÃ¡jÃ¡rÃ³dÅ±lÅ‘i TanyÃ¡k
+AlÃ¡jÃ¡rÃ³dÅ±lÅ‘
+AlajoshÃ¡zatanya
+Alapi RÃ©sz
 Alap
 Alatka
 Alatkaoldal
-Alattyán
+AlattyÃ¡n
 Albapuszta
 Albertakna
 Albertfalva
 Alberti
-Albertirsai Tanyák
+Albertirsai TanyÃ¡k
 Albertirsa
-Alberti Tó
-Albertkázmérpuszta
+Alberti TÃ³
+AlbertkÃ¡zmÃ©rpuszta
 Albertmajor
 Albert-telep
 Alcsifeketepuszta
-Alcsimillérlapos
+AlcsimillÃ©rlapos
 Alcsipuszta
 Alcsisziget
-Alcsútdoboz
-Alcsút
-Aldebrõ
-Áldozó
+AlcsÃºtdoboz
+AlcsÃºt
+AldebrÅ‘
+ÃldozÃ³
 Alekszandrapuszta
 Alexandra-puszta
 Alfaritanya
-Alföld
-Alföldszállás
-Alföldszállások
-Algyõi-csatorna
-Algyõi-fõcsatorna
-Algyõ
-Alhegy-tetõ
-Alibánfa
+AlfÃ¶ld
+AlfÃ¶ldszÃ¡llÃ¡s
+AlfÃ¶ldszÃ¡llÃ¡sok
+AlgyÅ‘i-csatorna
+AlgyÅ‘i-fÅ‘csatorna
+AlgyÅ‘
+Alhegy-tetÅ‘
+AlibÃ¡nfa
 Alice-major
-Aligvárda
-Aligvár-hegy
-Aligvárhegy
-Aligvári-hegy
-Aligvárihegy
-Aligvárimajor
-Aligvári-patak
-Aligváritanya
-Aligvármajor
-Aligváromhegy
-Aligváromi Szõllõ
-Aligvárom
-Aligváromtelep
-Alimántanya
-Alivár
+AligvÃ¡rda
+AligvÃ¡r-hegy
+AligvÃ¡rhegy
+AligvÃ¡ri-hegy
+AligvÃ¡rihegy
+AligvÃ¡rimajor
+AligvÃ¡ri-patak
+AligvÃ¡ritanya
+AligvÃ¡rmajor
+AligvÃ¡romhegy
+AligvÃ¡romi SzÅ‘llÅ‘
+AligvÃ¡rom
+AligvÃ¡romtelep
+AlimÃ¡ntanya
+AlivÃ¡r
 Alizmajor
-Állami Csemetekert
-Állami Erdõgazdaság
-Állami Erdõ
-Állami Erdõtanya
-Állami Gazdaképzõ
-Állami Malom
-Állami Szõllõtelep
-Állami Telepek
-Állampuszta
-Álláskút
-Állomásszögdûlõ
-Állomástanya
-Állomástelep
-Almagyardûlõ
+Ãllami Csemetekert
+Ãllami ErdÅ‘gazdasÃ¡g
+Ãllami ErdÅ‘
+Ãllami ErdÅ‘tanya
+Ãllami GazdakÃ©pzÅ‘
+Ãllami Malom
+Ãllami SzÅ‘llÅ‘telep
+Ãllami Telepek
+Ãllampuszta
+ÃllÃ¡skÃºt
+ÃllomÃ¡sszÃ¶gdÅ±lÅ‘
+ÃllomÃ¡stanya
+ÃllomÃ¡stelep
+AlmagyardÅ±lÅ‘
 Alma-hegy
 Almahegy
 Almajor
-Almamellék
-Almán-tetõ
-Almári Csõszhaz
-Almár
-Almás-bérc
-Almásfüzitõ Felsõ
-Almásfüzitõ
-Almásgödör
-Almásháza
-Almás Hegy
-Almásikut-puszta
-Almásitanya
-Almáskamarás
-Almáskeresztúr
-Almáskert
-Almáskúttanya
-Almásneszmély
-Almás
-Almás-patak
-Almáspuszta
-Almás Puszta
-Almástanya
-Almásvölgytanya
-Almásytanya
-Almásytelep
-Almavölgypuszta
-Álmosd
-Álmos Halom
-Álomzug
-Álomzugtanya
-Alpári Tanyák
-Alpár
-Alpár-Nyárlõrinci-csatorna
-Alpár-Szentlõrinci-csatorna
+AlmamellÃ©k
+AlmÃ¡n-tetÅ‘
+AlmÃ¡ri CsÅ‘szhaz
+AlmÃ¡r
+AlmÃ¡s-bÃ©rc
+AlmÃ¡sfÃ¼zitÅ‘ FelsÅ‘
+AlmÃ¡sfÃ¼zitÅ‘
+AlmÃ¡sgÃ¶dÃ¶r
+AlmÃ¡shÃ¡za
+AlmÃ¡s Hegy
+AlmÃ¡sikut-puszta
+AlmÃ¡sitanya
+AlmÃ¡skamarÃ¡s
+AlmÃ¡skeresztÃºr
+AlmÃ¡skert
+AlmÃ¡skÃºttanya
+AlmÃ¡sneszmÃ©ly
+AlmÃ¡s
+AlmÃ¡s-patak
+AlmÃ¡spuszta
+AlmÃ¡s Puszta
+AlmÃ¡stanya
+AlmÃ¡svÃ¶lgytanya
+AlmÃ¡sytanya
+AlmÃ¡sytelep
+AlmavÃ¶lgypuszta
+Ãlmosd
+Ãlmos Halom
+Ãlomzug
+Ãlomzugtanya
+AlpÃ¡ri TanyÃ¡k
+AlpÃ¡r
+AlpÃ¡r-NyÃ¡rlÅ‘rinci-csatorna
+AlpÃ¡r-SzentlÅ‘rinci-csatorna
 Alpokalja
-Alsóábrány
-Alsóadacs
-Alsóányás
-Alsóaranyod
-Alsóátokháza
-Alsóavas
-Alsóbabád
-Alsóbadurbokor
-Alsóbányatelep
-Alsó-Baránd-major
-Alsóbaricska
-Alsóbebespuszta
-Alsóbélatelep
-Alsóbéndek-puszta
-Alsó Béndek-puszta
-Alsóbene
-Alsóberecki
-Alsóberecska
-Alsóbesnyõ
-Alsóbikád
-Alsóbikol
-Alsóbocsár
-Alsóbogárdpuszta
-Alsóbogát
-Alsóbogátpuszta
-Alsóbörcsháza
-Alsóborsod
-Alsóbörzsöny
-Alsóbucka
-Alsó Bükk Hegy
-Alsócebe
-Alsócéce
-Alsó-Cikó-hegy
-Alsócikola
-Alsó-Csákány
-Alsócsalános
-Alsócsala
-Alsócsámpa
-Alsócsárdadûlõ
-Alsócsárda Dûlõ
-Alsócsatár
-Alsócserpuszta
-Alsócsesztapuszta
-Alsócsillag
-Alsócsinger
-Alsócsingervölgy
-Alsócsólyos
-Alsócsönget
-Alsócsurgó
-Alsócún
-Alsódabasi Dûlõ
-Alsódabasiszõllõk
-Alsódabasi Szõlõk
-Alsódabas
-Alsódabrony
-Alsódános
-Alsódélegyháza
-Alsódobos
-Alsódobospuszta
-Alsódöbrögec
-Alsódobsza
-Alsódolina
-Alsódörgicse
-Alsódûlõ
-Alsóegreskáta
-Alsóegrespuszta
-Alsóerdõ
-Alsóerdõpuszta
-Alsóerek
-Alsóerzsébetpuszta
-Alsóerzsébet-tanya
-Alsó Essõi-major
-Alsóessõpuszta
-Alsófakos
-Alsófarkasdmajor
-Alsófarkasd
-Alsófeketeerdõ
-Alsófeketeföldek
-Alsóföldi Tanyák
-Alsófutak
-Alsófütyemajor
-Alsófüzes
-Alsógagy
-Alsógaicspuszta
-Alsógajdimalom
-Alsógalambos
-Alsógalla
-Alsógáspársor
-Alsógazdagdûlõ
-Alsógöd
-Alsógóla
-Alsógólapuszta
-Alsógörzsöny
-Alsógyenes
-Alsógyócs
-Alsógyörgyös
-Alsógyótapuszta
-Alsógyükés
-Alsó-Hajag
-Alsóhalom
-Alsóhangos
-Alsóhard
-Alsóhatártanyák
-Alsó-hegy
-Alsóhegy
-Alsó Hegy
-Alsóhék
-Alsóhernád
-Alsóhestény
-Alsóhetény
-Alsó-Hidasi-víz
-Alsóhídvég
-Alsóhomokerdõ
-Alsó Horváthmalom
-Alsóhuta
-Alsó Inoka-malom
-Alsóistvánd
-Alsóistvánd-puszta
-Alsóiszkáz
-Alsóivánpuszta
-Alsó-Ivány-puszta
-Alsójárás
-Alsó-Kadarcs-csatorna
-Alsókadarcs-Kösély-csatorna
-Alsókadarcs-Kösély-fõgyûjtõcsatorna
-Alsókalkaturális
-Alsókanda
-Alsókara
-Alsókatalin-bányatelep
-Alsókélesi Tó
-Alsókispuszta
+AlsÃ³Ã¡brÃ¡ny
+AlsÃ³adacs
+AlsÃ³Ã¡nyÃ¡s
+AlsÃ³aranyod
+AlsÃ³Ã¡tokhÃ¡za
+AlsÃ³avas
+AlsÃ³babÃ¡d
+AlsÃ³badurbokor
+AlsÃ³bÃ¡nyatelep
+AlsÃ³-BarÃ¡nd-major
+AlsÃ³baricska
+AlsÃ³bebespuszta
+AlsÃ³bÃ©latelep
+AlsÃ³bÃ©ndek-puszta
+AlsÃ³ BÃ©ndek-puszta
+AlsÃ³bene
+AlsÃ³berecki
+AlsÃ³berecska
+AlsÃ³besnyÅ‘
+AlsÃ³bikÃ¡d
+AlsÃ³bikol
+AlsÃ³bocsÃ¡r
+AlsÃ³bogÃ¡rdpuszta
+AlsÃ³bogÃ¡t
+AlsÃ³bogÃ¡tpuszta
+AlsÃ³bÃ¶rcshÃ¡za
+AlsÃ³borsod
+AlsÃ³bÃ¶rzsÃ¶ny
+AlsÃ³bucka
+AlsÃ³ BÃ¼kk Hegy
+AlsÃ³cebe
+AlsÃ³cÃ©ce
+AlsÃ³-CikÃ³-hegy
+AlsÃ³cikola
+AlsÃ³-CsÃ¡kÃ¡ny
+AlsÃ³csalÃ¡nos
+AlsÃ³csala
+AlsÃ³csÃ¡mpa
+AlsÃ³csÃ¡rdadÅ±lÅ‘
+AlsÃ³csÃ¡rda DÅ±lÅ‘
+AlsÃ³csatÃ¡r
+AlsÃ³cserpuszta
+AlsÃ³csesztapuszta
+AlsÃ³csillag
+AlsÃ³csinger
+AlsÃ³csingervÃ¶lgy
+AlsÃ³csÃ³lyos
+AlsÃ³csÃ¶nget
+AlsÃ³csurgÃ³
+AlsÃ³cÃºn
+AlsÃ³dabasi DÅ±lÅ‘
+AlsÃ³dabasiszÅ‘llÅ‘k
+AlsÃ³dabasi SzÅ‘lÅ‘k
+AlsÃ³dabas
+AlsÃ³dabrony
+AlsÃ³dÃ¡nos
+AlsÃ³dÃ©legyhÃ¡za
+AlsÃ³dobos
+AlsÃ³dobospuszta
+AlsÃ³dÃ¶brÃ¶gec
+AlsÃ³dobsza
+AlsÃ³dolina
+AlsÃ³dÃ¶rgicse
+AlsÃ³dÅ±lÅ‘
+AlsÃ³egreskÃ¡ta
+AlsÃ³egrespuszta
+AlsÃ³erdÅ‘
+AlsÃ³erdÅ‘puszta
+AlsÃ³erek
+AlsÃ³erzsÃ©betpuszta
+AlsÃ³erzsÃ©bet-tanya
+AlsÃ³ EssÅ‘i-major
+AlsÃ³essÅ‘puszta
+AlsÃ³fakos
+AlsÃ³farkasdmajor
+AlsÃ³farkasd
+AlsÃ³feketeerdÅ‘
+AlsÃ³feketefÃ¶ldek
+AlsÃ³fÃ¶ldi TanyÃ¡k
+AlsÃ³futak
+AlsÃ³fÃ¼tyemajor
+AlsÃ³fÃ¼zes
+AlsÃ³gagy
+AlsÃ³gaicspuszta
+AlsÃ³gajdimalom
+AlsÃ³galambos
+AlsÃ³galla
+AlsÃ³gÃ¡spÃ¡rsor
+AlsÃ³gazdagdÅ±lÅ‘
+AlsÃ³gÃ¶d
+AlsÃ³gÃ³la
+AlsÃ³gÃ³lapuszta
+AlsÃ³gÃ¶rzsÃ¶ny
+AlsÃ³gyenes
+AlsÃ³gyÃ³cs
+AlsÃ³gyÃ¶rgyÃ¶s
+AlsÃ³gyÃ³tapuszta
+AlsÃ³gyÃ¼kÃ©s
+AlsÃ³-Hajag
+AlsÃ³halom
+AlsÃ³hangos
+AlsÃ³hard
+AlsÃ³hatÃ¡rtanyÃ¡k
+AlsÃ³-hegy
+AlsÃ³hegy
+AlsÃ³ Hegy
+AlsÃ³hÃ©k
+AlsÃ³hernÃ¡d
+AlsÃ³hestÃ©ny
+AlsÃ³hetÃ©ny
+AlsÃ³-Hidasi-vÃ­z
+AlsÃ³hÃ­dvÃ©g
+AlsÃ³homokerdÅ‘
+AlsÃ³ HorvÃ¡thmalom
+AlsÃ³huta
+AlsÃ³ Inoka-malom
+AlsÃ³istvÃ¡nd
+AlsÃ³istvÃ¡nd-puszta
+AlsÃ³iszkÃ¡z
+AlsÃ³ivÃ¡npuszta
+AlsÃ³-IvÃ¡ny-puszta
+AlsÃ³jÃ¡rÃ¡s
+AlsÃ³-Kadarcs-csatorna
+AlsÃ³kadarcs-KÃ¶sÃ©ly-csatorna
+AlsÃ³kadarcs-KÃ¶sÃ©ly-fÅ‘gyÅ±jtÅ‘csatorna
+AlsÃ³kalkaturÃ¡lis
+AlsÃ³kanda
+AlsÃ³kara
+AlsÃ³katalin-bÃ¡nyatelep
+AlsÃ³kÃ©lesi TÃ³
+AlsÃ³kispuszta
 Alsok
-Alsó-kõ-forrás
-Alsó Kõforrás-puszta
-Alsókölked
-Alsókommasszáció
-Alsókörtvélyes
-Alsókovácsgyöp
-Alsókovácsmajor
-Alsókövesd
-Alsóközpont
-Alsókustány
-Alsólajospuszta
-Alsólegencse
-Alsólengyend
-Alsóleperdi-halastavak
-Alsóleperd
-Alsólög
-Alsómagyalos
-Alsó-major
-Alsómajor
-Alsómajsa
-Alsómajzsa
-Alsó Makó-puszta
-Alsó-malom
-Alsómalom
-Alsómalomtelep
-Alsómáma
-Alsómándpuszta
-Alsómarosd
-Alsómegyes
-Alsómégy
-Alsóméntelek
-Alsómenyõd
-Alsómenyõdpuszta
-Alsóméra
-Alsómezõ
-Alsómezõtanya
-Alsómikebuda
-Alsómocsarasdûlõ
-Alsómocsár
-Alsómocsolád
-Alsómonostor
-Alsómóricgát
-Alsómozsár
-Alsómuszáj
-Alsómuzsai Tanyák
-Alsónádasd
-Alsó Nádasd-puszta
-Alsónánai Laivér
-Alsónánai Mauszcsárda
-Alsónána
-Alsó-Nedves-hegy
-Alsónémedi
-Alsónémedi Szõllõk
-Alsónemesapáti
-Alsonóvaj
-Alsónyársapát
-Alsónyéki Tanyák
-Alsónyék
-Alsó Nyerges-puszta
-Alsónyiget
-Alsónyires
-Alsónyírvárimajor
-Alsónyirvármajor
-Alsónyomás
-Alsóöreghegy
-Alsó-Öreg-hegy
-Alsóöregszõllõk
-Alsóöregszõlõk
-Alsó-Öreg-Túr
-Alsóörs
-Alsóörspuszta
-Alsóõrs-villatelep
-Alsópáhok
-Alsópakony
-Alsópalajpuszta
-Alsópálos
-Alsópandur
-Alsópáskum
-Alsópatlan
-Alsó-patlan-puszta
-Alsópaty
-Alsópázsit
-Alsópél
-Alsópere
-Alsópeszér
-Alsópetény
-Alsó Pogányvár
-Alsópörböly
-Alsópuszta
-Alsórácegres
-Alsórajki Hegy
-Alsórajk
-Alsóregmeci Tanyák
-Alsóregmec
-Alsóré
-Alsórétdûlõ
-Alsóréti Dûlõ
-Alsóréti Tanyák
-Alsóréti Tanya
-Alsórét
-Alsórév
-Alsórönök
-Alsó-rozsnaki-tanya
-Alsórozsnakpuszta
-Alsóság
-Alsósánc
-Alsósarlóspuszta
-Alsósashalomdûlõ
-Alsósáskalapos
-Alsósegesd
-Alsósima
-Alsósomlyó
-Alsósóskútbokor
-Alsósötétmajor
-Alsóstrázsa
-Alsószakony
-Alsó szállás
-Alsószállás
-Alsószállások
-Alsószalmavár-major
-Alsószalmavár
-Alsószánaspuszta
-Alsó Szánas-puszta
-Alsószapudpuszta
-Alsószászberek
-Alsószéktó
-Alsószeleste
-Alsó Szénásvölgy
-Alsószenterzsébet
-Alsószentiván
-Alsószentkata
-Alsószentkirály
-Alsószentmárton
-Alsószenttamás
-Alsószeri-hegy
-Alsószigeti Major
-Alsó-sziget
-Alsósziget
-Alsó Sziget
-Alsó Szõllõ-hegy
-Alsószõllõ
-Alsószölnöki Tanyák
-Alsószölnök
-Alsó Szõlõ-hegy
-Alsószuha
-Alsótabdi
-Alsótábpuszta
-Alsótanyák
-Alsótanya
-Alsótapazd
-Alsótápiói Tanya
-Alsó-Tápió
-Alsótéglaház
-Alsótekeres
-Alsótelekes
-Alsótengelic
-Alsótételalja
-Alsó Tetõ
-Alsó-Tiszántúl
-Alsótöbörzsök
-Alsó Tókaj Puszta
-Alsótold
-Alsótöllösmajor
-Alsótöllöspuszta
-Alsótó
-Alsó Tó
-Alsótövistetõtanya
-Alsótündérmajor
-Alsóújhegy
-Alsó Újhegy
-Alsóújlak
-Alsóújtagmajor
-Alsóungi Hegy
-Alsóúrrét
-Alsóutaspuszta
-Alsóvadács
-Alsóvadász
-Alsó-Válicka
-Alsóvány
-Alsóvárosi Feketeföldek
-Alsóvárosi Gödrök
-Alsóváros
-Alsóvarsány
-Alsóvásártér
-Alsóvasdinnyepuszta
-Alsó-Vénkert
-Alsóvonyarc
-Alsóvrányos
-Alsózátony
-Alsózsolca
-Alsó-Zsukma-erdõõrház
-Alsózsukma
-Alsózsukma-puszta
-Alsózsúnypuszta
+AlsÃ³-kÅ‘-forrÃ¡s
+AlsÃ³ KÅ‘forrÃ¡s-puszta
+AlsÃ³kÃ¶lked
+AlsÃ³kommasszÃ¡ciÃ³
+AlsÃ³kÃ¶rtvÃ©lyes
+AlsÃ³kovÃ¡csgyÃ¶p
+AlsÃ³kovÃ¡csmajor
+AlsÃ³kÃ¶vesd
+AlsÃ³kÃ¶zpont
+AlsÃ³kustÃ¡ny
+AlsÃ³lajospuszta
+AlsÃ³legencse
+AlsÃ³lengyend
+AlsÃ³leperdi-halastavak
+AlsÃ³leperd
+AlsÃ³lÃ¶g
+AlsÃ³magyalos
+AlsÃ³-major
+AlsÃ³major
+AlsÃ³majsa
+AlsÃ³majzsa
+AlsÃ³ MakÃ³-puszta
+AlsÃ³-malom
+AlsÃ³malom
+AlsÃ³malomtelep
+AlsÃ³mÃ¡ma
+AlsÃ³mÃ¡ndpuszta
+AlsÃ³marosd
+AlsÃ³megyes
+AlsÃ³mÃ©gy
+AlsÃ³mÃ©ntelek
+AlsÃ³menyÅ‘d
+AlsÃ³menyÅ‘dpuszta
+AlsÃ³mÃ©ra
+AlsÃ³mezÅ‘
+AlsÃ³mezÅ‘tanya
+AlsÃ³mikebuda
+AlsÃ³mocsarasdÅ±lÅ‘
+AlsÃ³mocsÃ¡r
+AlsÃ³mocsolÃ¡d
+AlsÃ³monostor
+AlsÃ³mÃ³ricgÃ¡t
+AlsÃ³mozsÃ¡r
+AlsÃ³muszÃ¡j
+AlsÃ³muzsai TanyÃ¡k
+AlsÃ³nÃ¡dasd
+AlsÃ³ NÃ¡dasd-puszta
+AlsÃ³nÃ¡nai LaivÃ©r
+AlsÃ³nÃ¡nai MauszcsÃ¡rda
+AlsÃ³nÃ¡na
+AlsÃ³-Nedves-hegy
+AlsÃ³nÃ©medi
+AlsÃ³nÃ©medi SzÅ‘llÅ‘k
+AlsÃ³nemesapÃ¡ti
+AlsonÃ³vaj
+AlsÃ³nyÃ¡rsapÃ¡t
+AlsÃ³nyÃ©ki TanyÃ¡k
+AlsÃ³nyÃ©k
+AlsÃ³ Nyerges-puszta
+AlsÃ³nyiget
+AlsÃ³nyires
+AlsÃ³nyÃ­rvÃ¡rimajor
+AlsÃ³nyirvÃ¡rmajor
+AlsÃ³nyomÃ¡s
+AlsÃ³Ã¶reghegy
+AlsÃ³-Ã–reg-hegy
+AlsÃ³Ã¶regszÅ‘llÅ‘k
+AlsÃ³Ã¶regszÅ‘lÅ‘k
+AlsÃ³-Ã–reg-TÃºr
+AlsÃ³Ã¶rs
+AlsÃ³Ã¶rspuszta
+AlsÃ³Å‘rs-villatelep
+AlsÃ³pÃ¡hok
+AlsÃ³pakony
+AlsÃ³palajpuszta
+AlsÃ³pÃ¡los
+AlsÃ³pandur
+AlsÃ³pÃ¡skum
+AlsÃ³patlan
+AlsÃ³-patlan-puszta
+AlsÃ³paty
+AlsÃ³pÃ¡zsit
+AlsÃ³pÃ©l
+AlsÃ³pere
+AlsÃ³peszÃ©r
+AlsÃ³petÃ©ny
+AlsÃ³ PogÃ¡nyvÃ¡r
+AlsÃ³pÃ¶rbÃ¶ly
+AlsÃ³puszta
+AlsÃ³rÃ¡cegres
+AlsÃ³rajki Hegy
+AlsÃ³rajk
+AlsÃ³regmeci TanyÃ¡k
+AlsÃ³regmec
+AlsÃ³rÃ©
+AlsÃ³rÃ©tdÅ±lÅ‘
+AlsÃ³rÃ©ti DÅ±lÅ‘
+AlsÃ³rÃ©ti TanyÃ¡k
+AlsÃ³rÃ©ti Tanya
+AlsÃ³rÃ©t
+AlsÃ³rÃ©v
+AlsÃ³rÃ¶nÃ¶k
+AlsÃ³-rozsnaki-tanya
+AlsÃ³rozsnakpuszta
+AlsÃ³sÃ¡g
+AlsÃ³sÃ¡nc
+AlsÃ³sarlÃ³spuszta
+AlsÃ³sashalomdÅ±lÅ‘
+AlsÃ³sÃ¡skalapos
+AlsÃ³segesd
+AlsÃ³sima
+AlsÃ³somlyÃ³
+AlsÃ³sÃ³skÃºtbokor
+AlsÃ³sÃ¶tÃ©tmajor
+AlsÃ³strÃ¡zsa
+AlsÃ³szakony
+AlsÃ³ szÃ¡llÃ¡s
+AlsÃ³szÃ¡llÃ¡s
+AlsÃ³szÃ¡llÃ¡sok
+AlsÃ³szalmavÃ¡r-major
+AlsÃ³szalmavÃ¡r
+AlsÃ³szÃ¡naspuszta
+AlsÃ³ SzÃ¡nas-puszta
+AlsÃ³szapudpuszta
+AlsÃ³szÃ¡szberek
+AlsÃ³szÃ©ktÃ³
+AlsÃ³szeleste
+AlsÃ³ SzÃ©nÃ¡svÃ¶lgy
+AlsÃ³szenterzsÃ©bet
+AlsÃ³szentivÃ¡n
+AlsÃ³szentkata
+AlsÃ³szentkirÃ¡ly
+AlsÃ³szentmÃ¡rton
+AlsÃ³szenttamÃ¡s
+AlsÃ³szeri-hegy
+AlsÃ³szigeti Major
+AlsÃ³-sziget
+AlsÃ³sziget
+AlsÃ³ Sziget
+AlsÃ³ SzÅ‘llÅ‘-hegy
+AlsÃ³szÅ‘llÅ‘
+AlsÃ³szÃ¶lnÃ¶ki TanyÃ¡k
+AlsÃ³szÃ¶lnÃ¶k
+AlsÃ³ SzÅ‘lÅ‘-hegy
+AlsÃ³szuha
+AlsÃ³tabdi
+AlsÃ³tÃ¡bpuszta
+AlsÃ³tanyÃ¡k
+AlsÃ³tanya
+AlsÃ³tapazd
+AlsÃ³tÃ¡piÃ³i Tanya
+AlsÃ³-TÃ¡piÃ³
+AlsÃ³tÃ©glahÃ¡z
+AlsÃ³tekeres
+AlsÃ³telekes
+AlsÃ³tengelic
+AlsÃ³tÃ©telalja
+AlsÃ³ TetÅ‘
+AlsÃ³-TiszÃ¡ntÃºl
+AlsÃ³tÃ¶bÃ¶rzsÃ¶k
+AlsÃ³ TÃ³kaj Puszta
+AlsÃ³told
+AlsÃ³tÃ¶llÃ¶smajor
+AlsÃ³tÃ¶llÃ¶spuszta
+AlsÃ³tÃ³
+AlsÃ³ TÃ³
+AlsÃ³tÃ¶vistetÅ‘tanya
+AlsÃ³tÃ¼ndÃ©rmajor
+AlsÃ³Ãºjhegy
+AlsÃ³ Ãšjhegy
+AlsÃ³Ãºjlak
+AlsÃ³Ãºjtagmajor
+AlsÃ³ungi Hegy
+AlsÃ³ÃºrrÃ©t
+AlsÃ³utaspuszta
+AlsÃ³vadÃ¡cs
+AlsÃ³vadÃ¡sz
+AlsÃ³-VÃ¡licka
+AlsÃ³vÃ¡ny
+AlsÃ³vÃ¡rosi FeketefÃ¶ldek
+AlsÃ³vÃ¡rosi GÃ¶drÃ¶k
+AlsÃ³vÃ¡ros
+AlsÃ³varsÃ¡ny
+AlsÃ³vÃ¡sÃ¡rtÃ©r
+AlsÃ³vasdinnyepuszta
+AlsÃ³-VÃ©nkert
+AlsÃ³vonyarc
+AlsÃ³vrÃ¡nyos
+AlsÃ³zÃ¡tony
+AlsÃ³zsolca
+AlsÃ³-Zsukma-erdÅ‘Å‘rhÃ¡z
+AlsÃ³zsukma
+AlsÃ³zsukma-puszta
+AlsÃ³zsÃºnypuszta
 Alszopor
-Által-ér
-Általesõ-halom
-Áltány
-Altáróbányatelep
+Ãltal-Ã©r
+ÃltalesÅ‘-halom
+ÃltÃ¡ny
+AltÃ¡rÃ³bÃ¡nyatelep
 Altenburg
 Altontanya
-Altracs-tó
-Alumíniumércbányatelep
-Alvégi Tanya
-Amáliapuszta
-Amáliatelep
-Ámánd
-Ambrózfalva
-Ambrózfalvi Tanyák
+Altracs-tÃ³
+AlumÃ­niumÃ©rcbÃ¡nyatelep
+AlvÃ©gi Tanya
+AmÃ¡liapuszta
+AmÃ¡liatelep
+ÃmÃ¡nd
+AmbrÃ³zfalva
+AmbrÃ³zfalvi TanyÃ¡k
 Ambrustanya
 Amerikaipuszta
 Amerikapuszta
-Ámos
+Ãmos
 Anarcs
-Anasztáziapuszta
-Andaháza
-Andaházapuszta
+AnasztÃ¡ziapuszta
+AndahÃ¡za
+AndahÃ¡zapuszta
 Andocs
-Andorházamajor
-Andorháza
+AndorhÃ¡zamajor
+AndorhÃ¡za
 Andormajor
-Andornaktálya Felsõ
-Andornaktálya
-Andrásfa
-Andrásháza
-Andráshida
-Andrásitelek
-Andráspuszta
-Andrásszállás
-Andrástanya
-Andrékakert
-Andrétanya
+AndornaktÃ¡lya FelsÅ‘
+AndornaktÃ¡lya
+AndrÃ¡sfa
+AndrÃ¡shÃ¡za
+AndrÃ¡shida
+AndrÃ¡sitelek
+AndrÃ¡spuszta
+AndrÃ¡sszÃ¡llÃ¡s
+AndrÃ¡stanya
+AndrÃ©kakert
+AndrÃ©tanya
 Angelamajor
 Angerwald
-Ánghely
+Ãnghely
 Angilus
 Angyaldomb
-Angyalföld
+AngyalfÃ¶ld
 Angyalisziget
-Angyalóc
+AngyalÃ³c
 Angyalossytanya
 Angyalostanya
 Angyalosytanya
 Angyaltanya
-Ángyi-halom
+Ãngyi-halom
 Angyi-hegy
-Annafürdõ
+AnnafÃ¼rdÅ‘
 Anna-hegy
 Annahegy
 Annakert
@@ -678,107 +678,107 @@ Annaliget
 Anna-major
 Annamajor
 Annatanya
-Annavölgyibánya
-Annavölgy
+AnnavÃ¶lgyibÃ¡nya
+AnnavÃ¶lgy
 Annustanya
-Ános
+Ãnos
 Antalbokor
 Antalfaimajor
 Antalfalutelep
-Antalfõpuszta
+AntalfÅ‘puszta
 Antal-hegy
 Antalhegy
 Antallapos
 Antalmajor
 Antalpuszta
-Antalszállás
+AntalszÃ¡llÃ¡s
 Antaltanya
 Antfai-major
-Antóniamajor
-Antós-tanya
-Anyácsa
-Ányás
-Apáca-hegy
-Apácapuszta
-Apácatorna
-Apáczatorna
-Apafája
+AntÃ³niamajor
+AntÃ³s-tanya
+AnyÃ¡csa
+ÃnyÃ¡s
+ApÃ¡ca-hegy
+ApÃ¡capuszta
+ApÃ¡catorna
+ApÃ¡czatorna
+ApafÃ¡ja
 Apafa
 Apagy
-Apagyúti Házak
+ApagyÃºti HÃ¡zak
 Apaj
 Aparhant
-Apátfalva
-Apátfalva-Sámsoni-fõcsatorna
-Apátfa
-Apáti
-Apátipuszta
-Apáti Puszta
-Apátistvánfalva
-Apát-kúti-bérc
-Apát-kúti-patak
-Apátsziget
-Apátvarasd
-Apátvarasdtelep
-Apavára Állomás
-Apavára
-Apavári Legelõ
+ApÃ¡tfalva
+ApÃ¡tfalva-SÃ¡msoni-fÅ‘csatorna
+ApÃ¡tfa
+ApÃ¡ti
+ApÃ¡tipuszta
+ApÃ¡ti Puszta
+ApÃ¡tistvÃ¡nfalva
+ApÃ¡t-kÃºti-bÃ©rc
+ApÃ¡t-kÃºti-patak
+ApÃ¡tsziget
+ApÃ¡tvarasd
+ApÃ¡tvarasdtelep
+ApavÃ¡ra ÃllomÃ¡s
+ApavÃ¡ra
+ApavÃ¡ri LegelÅ‘
 Apc
-Apc-Zagyvaszántó
+Apc-ZagyvaszÃ¡ntÃ³
 Aporhaza
-Áporkai Tanyák
-Áporkaitanya
-Áporkai Ûrbõ-tanya
-Áporka
+Ãporkai TanyÃ¡k
+Ãporkaitanya
+Ãporkai Å°rbÅ‘-tanya
+Ãporka
 Aporliget
-Apostagi Tanyák
+Apostagi TanyÃ¡k
 Apostag
-Apponyi Földek
-Apponyifölditanyák
-Apróbél
-Apróhomok
-Aprónyárfás
+Apponyi FÃ¶ldek
+ApponyifÃ¶lditanyÃ¡k
+AprÃ³bÃ©l
+AprÃ³homok
+AprÃ³nyÃ¡rfÃ¡s
 Apsamajor
-Aquincum Felsõ
+Aquincum FelsÅ‘
 Aradpuszta
-Aradványpuszta
+AradvÃ¡nypuszta
 Arak
 Aranga
 Arankamajor
-Aranka-tetõ
-Aranyad-éri-csatorna
-Aranyad-éri-fõcsatorna
-Aranyad-ér
+Aranka-tetÅ‘
+Aranyad-Ã©ri-csatorna
+Aranyad-Ã©ri-fÅ‘csatorna
+Aranyad-Ã©r
 Aranyadi-csatorna
 Aranyad
-Aranyág
-Arany-bika-tetõ
+AranyÃ¡g
+Arany-bika-tetÅ‘
 Aranydomb
-Aranyegyháza
+AranyegyhÃ¡za
 Aranygomb-hegy
 Aranygomb
-Aranyhegyi-árok
+Aranyhegyi-Ã¡rok
 Aranyhegyi-patak
 Arany-hegy
 Aranyhegy
 Aranykert
-Aranyod-éri-csatorna
+Aranyod-Ã©ri-csatorna
 Aranyod
-Aranyosapáti
-Aranyosapáti Tanya
-Aranyoscsárda
+AranyosapÃ¡ti
+AranyosapÃ¡ti Tanya
+AranyoscsÃ¡rda
 Aranyosd
 Aranyosdomb
-Aranyosfürdõ
-Aranyosgadány
+AranyosfÃ¼rdÅ‘
+AranyosgadÃ¡ny
 Aranyos Halom
-Aranyosi Földek
+Aranyosi FÃ¶ldek
 Aranyosimajor
 Aranyosipuszta
-Aranyosi Szõllõ
-Aranyosi Szõllõtelep
+Aranyosi SzÅ‘llÅ‘
+Aranyosi SzÅ‘llÅ‘telep
 Aranyosi Tanya
-Aranyoskastély
+AranyoskastÃ©ly
 Aranyosmajor
 Aranyos
 Aranyos-patak
@@ -788,117 +788,117 @@ Aranyossziget
 Aranyostanya
 Arany-patak
 Aranysziget
-Aranytó
-Aranytótanya
-Árboz
-Árboz-tó
+AranytÃ³
+AranytÃ³tanya
+Ãrboz
+Ãrboz-tÃ³
 Ardapuszta
-Árdics
-Árendadûlõ
-Árendás-patak
-Árgyelán-dûlõ
-Argyelántanya
-Arkai Tanyák
+Ãrdics
+ÃrendadÅ±lÅ‘
+ÃrendÃ¡s-patak
+ÃrgyelÃ¡n-dÅ±lÅ‘
+ArgyelÃ¡ntanya
+Arkai TanyÃ¡k
 Arka
-Árkipuszta
-Árkitanya
-Árkosházapuszta
-Árkos
-Árkos Völgy
-Árkus-csatorna
-Árkus Csatorna
-Árkusdûlõ
-Árkus-ér
-Árkus-foki-csatorna
+Ãrkipuszta
+Ãrkitanya
+ÃrkoshÃ¡zapuszta
+Ãrkos
+Ãrkos VÃ¶lgy
+Ãrkus-csatorna
+Ãrkus Csatorna
+ÃrkusdÅ±lÅ‘
+Ãrkus-Ã©r
+Ãrkus-foki-csatorna
 Arkussziget-major
-Arlói Patak
-Arló
-Árminakna
-Arnót
-Árnyékvölgypuszta
-Árokalja
-Árokhátimajor
-Árok Möge
-Árokospuszta
-Árok-szeg-dûlõ
-Árok szegidûlõ
-Ároktõ
-Árontanya
-Arpádhalommajor
-Árpád-halom
-Árpádhalom
-Árpádháza-telep
-Árpád-híd
-Árpádmajor
-Árpád
-Árpádszállás
-Árpádtanya
-Árpádtelepi Tanyák
-Árpádtelep
-Árpádtetõ
-Árpád-vár
-Árpás Halom
-Árpási Tanyák
-Árpás
-Árpástanya
-Ártánd
-Ártánházapuszta
-Artera ªeaca
-Árva-haraszt-dûlõ
-Árvai János-tanya
-Árvaitanya
+ArlÃ³i Patak
+ArlÃ³
+Ãrminakna
+ArnÃ³t
+ÃrnyÃ©kvÃ¶lgypuszta
+Ãrokalja
+ÃrokhÃ¡timajor
+Ãrok MÃ¶ge
+Ãrokospuszta
+Ãrok-szeg-dÅ±lÅ‘
+Ãrok szegidÅ±lÅ‘
+ÃroktÅ‘
+Ãrontanya
+ArpÃ¡dhalommajor
+ÃrpÃ¡d-halom
+ÃrpÃ¡dhalom
+ÃrpÃ¡dhÃ¡za-telep
+ÃrpÃ¡d-hÃ­d
+ÃrpÃ¡dmajor
+ÃrpÃ¡d
+ÃrpÃ¡dszÃ¡llÃ¡s
+ÃrpÃ¡dtanya
+ÃrpÃ¡dtelepi TanyÃ¡k
+ÃrpÃ¡dtelep
+ÃrpÃ¡dtetÅ‘
+ÃrpÃ¡d-vÃ¡r
+ÃrpÃ¡s Halom
+ÃrpÃ¡si TanyÃ¡k
+ÃrpÃ¡s
+ÃrpÃ¡stanya
+ÃrtÃ¡nd
+ÃrtÃ¡nhÃ¡zapuszta
+Artera Åeaca
+Ãrva-haraszt-dÅ±lÅ‘
+Ãrvai JÃ¡nos-tanya
+Ãrvaitanya
 Asca
-Ásító
-Ásott Halom
-Ásotthalom
+ÃsÃ­tÃ³
+Ãsott Halom
+Ãsotthalom
 Asszonyfa
 Asszony-hegy
-Asszonyrészpuszta
-Asszonyszállás
-Asszonytó
-Asszonyvári
-Asszonyváriszõllõ
-Asszonyváriszõlõ
-Asszonyvár
-Asszúvölgyimajor
-Ásványhát
-Ásványháttanya
-Ásvány-kút
-Ásvány
-Ásványpuszta
-Ásványráró
-Aszalói Kistanya
-Aszalói Nagytanya
-Aszaló
-Aszal-völgyi Vízmû
-Ászár Keményítõgyár
-Ászár
-Aszóbányatelep
-Aszód
-Aszófõ
-Aszófõ-Tihany
-Aszóhegy
-Aszóitanya
-Aszó
-Aszópuszta
-Asztag-kõ
+AsszonyrÃ©szpuszta
+AsszonyszÃ¡llÃ¡s
+AsszonytÃ³
+AsszonyvÃ¡ri
+AsszonyvÃ¡riszÅ‘llÅ‘
+AsszonyvÃ¡riszÅ‘lÅ‘
+AsszonyvÃ¡r
+AsszÃºvÃ¶lgyimajor
+ÃsvÃ¡nyhÃ¡t
+ÃsvÃ¡nyhÃ¡ttanya
+ÃsvÃ¡ny-kÃºt
+ÃsvÃ¡ny
+ÃsvÃ¡nypuszta
+ÃsvÃ¡nyrÃ¡rÃ³
+AszalÃ³i Kistanya
+AszalÃ³i Nagytanya
+AszalÃ³
+Aszal-vÃ¶lgyi VÃ­zmÅ±
+ÃszÃ¡r KemÃ©nyÃ­tÅ‘gyÃ¡r
+ÃszÃ¡r
+AszÃ³bÃ¡nyatelep
+AszÃ³d
+AszÃ³fÅ‘
+AszÃ³fÅ‘-Tihany
+AszÃ³hegy
+AszÃ³itanya
+AszÃ³
+AszÃ³puszta
+Asztag-kÅ‘
 Asztalos-hegy
 Asztalostanya
-Áta Állomás
-Átakeleti Malom
+Ãta ÃllomÃ¡s
+Ãtakeleti Malom
 Atalak
-Átal-ér
-Átalesõ
-Áta
-Átány
+Ãtal-Ã©r
+ÃtalesÅ‘
+Ãta
+ÃtÃ¡ny
 Atka
-Atkári Tanyák
-Atkár
-Átok-csatorna
-Átokházadûlõ
-Átokháza
-Atrács
-Atra Gyár
+AtkÃ¡ri TanyÃ¡k
+AtkÃ¡r
+Ãtok-csatorna
+ÃtokhÃ¡zadÅ±lÅ‘
+ÃtokhÃ¡za
+AtrÃ¡cs
+Atra GyÃ¡r
 Atra
 Attala
 Attamajor
@@ -911,28 +911,28 @@ Atyamajor
 Atya
 Aubach
 Auerbachtanya
-Auguszta-bányatelep
+Auguszta-bÃ¡nyatelep
 Augusztatelep
-Auréltanya
+AurÃ©ltanya
 Auwinkel
 Avashegy
 Avas
 Avaspuszta
 Avastanya
-Ázokirét
-Baáltanya
-Bába-halom
-Bábahegyiszõlõk
-Bába-hegy
-Bábahegy
-Bába-homok
-Bába-Molnárdûlõ
-Babanovicadûlõ
+ÃzokirÃ©t
+BaÃ¡ltanya
+BÃ¡ba-halom
+BÃ¡bahegyiszÅ‘lÅ‘k
+BÃ¡ba-hegy
+BÃ¡bahegy
+BÃ¡ba-homok
+BÃ¡ba-MolnÃ¡rdÅ±lÅ‘
+BabanovicadÅ±lÅ‘
 Babarci Puszta
 Babarc
 Babarcpuszta
-Babarcszõllõs
-Babarcszõlõs
+BabarcszÅ‘llÅ‘s
+BabarcszÅ‘lÅ‘s
 Babar-hegy
 Babaszon
 Babat-hegy
@@ -942,95 +942,95 @@ Babicztanya
 Babinadola
 Bablevesmajor
 Bableves
-Bábocka-halom
-Babócsai-Rinya
-Babócsa
+BÃ¡bocka-halom
+BabÃ³csai-Rinya
+BabÃ³csa
 Babod Puszta
-Babodráki
-Bábolnai Kismajor
-Bábolna
-Bábolnapuszta
-Babó
-Bábonyi-bérc
-Bábonymegyer
-Babosdöbréte
+BabodrÃ¡ki
+BÃ¡bolnai Kismajor
+BÃ¡bolna
+BÃ¡bolnapuszta
+BabÃ³
+BÃ¡bonyi-bÃ©rc
+BÃ¡bonymegyer
+BabosdÃ¶brÃ©te
 Babos-hegy
 Babosmalom
 Babostag
-Bábota
-Babó Tanya
-Babót
-Bábtetõ
-Bachdûlõ
-Bacónakhegy
-Bácsahná
+BÃ¡bota
+BabÃ³ Tanya
+BabÃ³t
+BÃ¡btetÅ‘
+BachdÅ±lÅ‘
+BacÃ³nakhegy
+BÃ¡csahnÃ¡
 Bacsalapos
-Bácsalmási Tanyák
-Bácsalmás
-Bácsa
-Bácsbokod-Bácsborsód
-Bácsbokodi-Kígyós-csatorna
-Bácsbokodi Tanyák
-Bácsbokodi-víztároló
-Bácsbokod
-Bácsborista
-Bácsborsodi Tanyák
-Bácsborsódi Tanyák
-Bácsborsód
-Bács-dûlõ
-Bácsfapuszta
+BÃ¡csalmÃ¡si TanyÃ¡k
+BÃ¡csalmÃ¡s
+BÃ¡csa
+BÃ¡csbokod-BÃ¡csborsÃ³d
+BÃ¡csbokodi-KÃ­gyÃ³s-csatorna
+BÃ¡csbokodi TanyÃ¡k
+BÃ¡csbokodi-vÃ­ztÃ¡rolÃ³
+BÃ¡csbokod
+BÃ¡csborista
+BÃ¡csborsodi TanyÃ¡k
+BÃ¡csborsÃ³di TanyÃ¡k
+BÃ¡csborsÃ³d
+BÃ¡cs-dÅ±lÅ‘
+BÃ¡csfapuszta
 Bacsitanya
-Bácska-hegy
-Bácskai-Nagy-csatorna
-Bácskai Tanyák
+BÃ¡cska-hegy
+BÃ¡cskai-Nagy-csatorna
+BÃ¡cskai TanyÃ¡k
 Bacskaitanya
-Bácska
-Bácska-puszta
-Bácskatanya
-Bács-Kiskun County
-Bács-Kiskun Megye
-Bács-Kiskun
-Bacskótanya
+BÃ¡cska
+BÃ¡cska-puszta
+BÃ¡cskatanya
+BÃ¡cs-Kiskun County
+BÃ¡cs-Kiskun Megye
+BÃ¡cs-Kiskun
+BacskÃ³tanya
 Bacs
-Bacsóház
-Bacsóháztanya
-Bácsó
-Bacsós
-Bácsó-tanya
-Bacsótelep
-Bácspuszta
-Bácsszentagyörgyi Tanyák
-Bácsszentgyörgy
-Bácsszõllõs
-Bácsszõlõs
-Bácsvár-orom
+BacsÃ³hÃ¡z
+BacsÃ³hÃ¡ztanya
+BÃ¡csÃ³
+BacsÃ³s
+BÃ¡csÃ³-tanya
+BacsÃ³telep
+BÃ¡cspuszta
+BÃ¡csszentagyÃ¶rgyi TanyÃ¡k
+BÃ¡csszentgyÃ¶rgy
+BÃ¡csszÅ‘llÅ‘s
+BÃ¡csszÅ‘lÅ‘s
+BÃ¡csvÃ¡r-orom
 Badacsahegy
 Badacsony-hegy
-Badacsonylábdihegy
+BadacsonylÃ¡bdihegy
 Badacsony
-Badacsonyörs
+BadacsonyÃ¶rs
 Badacsonytomaj
-Badacsonytördemic
-Badacsonytördemic-Szigliget
+BadacsonytÃ¶rdemic
+BadacsonytÃ¶rdemic-Szigliget
 Badertanya
 Baditzmajor
 Baditztag
-Bádivölgy
-Bagaméritanya
-Bagamér
+BÃ¡divÃ¶lgy
+BagamÃ©ritanya
+BagamÃ©r
 Bagditanya
 Bagdytanya
 Baghymajor
-Baghyürbõpuszta
-Bagibócsa
-Bagiföld
+BaghyÃ¼rbÅ‘puszta
+BagibÃ³csa
+BagifÃ¶ld
 Bagi-major
 Bagimajor
 Bagi-szeg
 Bagitanya
 Baglad
-Baglászamajor
-Baglászo
+BaglÃ¡szamajor
+BaglÃ¡szo
 Baglyasalja
 Baglyas Hegyese
 Baglyas-hegy
@@ -1042,730 +1042,730 @@ Baglyos-hegy
 Baglyospuszta
 Baglyostanya
 Bag
-Bagnya-kõ
-Bagóbükk
+Bagnya-kÅ‘
+BagÃ³bÃ¼kk
 Bagod
-Bagodvitenyéd
-Bagó-hegy
-Bagóhegypuszta
-Bagolaierdõház
-Bagolai Erdõsház
+BagodvitenyÃ©d
+BagÃ³-hegy
+BagÃ³hegypuszta
+BagolaierdÅ‘hÃ¡z
+Bagolai ErdÅ‘shÃ¡z
 Bagola
-Bagólápapuszta
-Bagólápatanya
-Bagolasánc
-Bagolyfogó
-Bagolyfogótanya
+BagÃ³lÃ¡papuszta
+BagÃ³lÃ¡patanya
+BagolasÃ¡nc
+BagolyfogÃ³
+BagolyfogÃ³tanya
 Bagoly-hegy
-Bagolyirtás
-Bagolyirtás-puszta
+BagolyirtÃ¡s
+BagolyirtÃ¡s-puszta
 Bagolytanya
-Bagolyvár
-Bagolyvárpuszta
-Bagolyvártanya
-Bagópuszta
-Bagosiúti Tanyák
-Bagosi Út
-Bagótanya
+BagolyvÃ¡r
+BagolyvÃ¡rpuszta
+BagolyvÃ¡rtanya
+BagÃ³puszta
+BagosiÃºti TanyÃ¡k
+Bagosi Ãšt
+BagÃ³tanya
 Bagotapuszta
-Bagóvár
-Bagóvölgy
+BagÃ³vÃ¡r
+BagÃ³vÃ¶lgy
 Bagyaritanya
-Bágyhalom
-Bágyog
-Bágyogszovát
-Bágyom
-Bágytelep
+BÃ¡gyhalom
+BÃ¡gyog
+BÃ¡gyogszovÃ¡t
+BÃ¡gyom
+BÃ¡gytelep
 Baja-Bezdan Canal
-Baja-Dunafürdõ
-Bajaidûlõ
-Bajai Szõllõk
-Bajai Szõlõk
-Bajaiúti Dûlõ
-Bajánházi Hegy
+Baja-DunafÃ¼rdÅ‘
+BajaidÅ±lÅ‘
+Bajai SzÅ‘llÅ‘k
+Bajai SzÅ‘lÅ‘k
+BajaiÃºti DÅ±lÅ‘
+BajÃ¡nhÃ¡zi Hegy
 Baja
-Bajánsenye
+BajÃ¡nsenye
 Bajci-hegy
 Bajcihegy
 Bajcsa
 Bajcsitanya
 Bajcstanya
-Bájibokor
-Bajiderék
-Bajna-dûlõ
+BÃ¡jibokor
+BajiderÃ©k
+Bajna-dÅ±lÅ‘
 Bajna
 Bajnatanya
-Bajnaynétanya
+BajnaynÃ©tanya
 Bajnicska
 Bajnicskatanya
 Bajnoktanya
-Báj
+BÃ¡j
 Baj
-Bajontadûlõ
+BajontadÅ±lÅ‘
 Bajonta
 Bajonta Puszta
 Bajontatanya
 Bajorhegy
-Bajóti-Öreg-kõ
-Bajót
+BajÃ³ti-Ã–reg-kÅ‘
+BajÃ³t
 Bajpuszta
-Bajtemetés
-Bajti-elágazás
+BajtemetÃ©s
+Bajti-elÃ¡gazÃ¡s
 Bajti
-Bajuszkóró-dûlõ
+BajuszkÃ³rÃ³-dÅ±lÅ‘
 Bajzat-halmok
 Bajzat-halom
-Bajzáthdûlõ
+BajzÃ¡thdÅ±lÅ‘
 Bajzattanya
-Bajzó
+BajzÃ³
 Bakacs
 Bakarend
-Bakaszállás
+BakaszÃ¡llÃ¡s
 Bakatanya
-Bakbûzpuszta
-Bakcsányitanya
-Bak-ér
-Bakháza
+BakbÅ±zpuszta
+BakcsÃ¡nyitanya
+Bak-Ã©r
+BakhÃ¡za
 Baki-hegy
 Bakistanya
-Bakittyaszõllõ
-Baki-Válicka
+BakittyaszÅ‘llÅ‘
+Baki-VÃ¡licka
 Baklahegy
 Bak
-Bakóca-Godisa
-Bakóca
-Bakóc
-Bakóczitanya
-Bakóhalmi Puszta
-Bakóhalom
-Bakói Hegy
-Bakónaki-patak
-Bakónak
+BakÃ³ca-Godisa
+BakÃ³ca
+BakÃ³c
+BakÃ³czitanya
+BakÃ³halmi Puszta
+BakÃ³halom
+BakÃ³i Hegy
+BakÃ³naki-patak
+BakÃ³nak
 Bakonak Patak
 Bakonszeg
 Bakonyalja
 Bakonya
-Bakonybánk
-Bakonybél
+BakonybÃ¡nk
+BakonybÃ©l
 Bakony-cser
 Bakonycsernye
-Bakony-erdõ
-Bakony-ér
+Bakony-erdÅ‘
+Bakony-Ã©r
 Bakonygebirge
-Bakonygyepesi Tanyák
+Bakonygyepesi TanyÃ¡k
 Bakonygyepes
-Bakonygyirót
-Bakony Hegység
-Bakonyjákói Tanyák
-Bakonyjákó
-Bakonykoppány
-Bakonykúti
-Bakonykúti Puszta
+BakonygyirÃ³t
+Bakony HegysÃ©g
+BakonyjÃ¡kÃ³i TanyÃ¡k
+BakonyjÃ¡kÃ³
+BakonykoppÃ¡ny
+BakonykÃºti
+BakonykÃºti Puszta
 Bakony Mountains
-Bakonynánai Tanya
-Bakonynána
+BakonynÃ¡nai Tanya
+BakonynÃ¡na
 Bakony
 Bakonyoszlop
 Bakony-patak
 Bakony Patak
-Bakonypéterd
-Bakonypölöske
-Bakonyság
-Bakonysárkány
-Bakonyszentiván
-Bakonyszentkirály
-Bakonyszentlászló
+BakonypÃ©terd
+BakonypÃ¶lÃ¶ske
+BakonysÃ¡g
+BakonysÃ¡rkÃ¡ny
+BakonyszentivÃ¡n
+BakonyszentkirÃ¡ly
+BakonyszentlÃ¡szlÃ³
 Bakonyszombathely
-Bakonyszücs
-Bakonytamási
-Bakópuszta
-Bakos-ér
+BakonyszÃ¼cs
+BakonytamÃ¡si
+BakÃ³puszta
+Bakos-Ã©r
 Bakosgombapuszta
 Bakos-hegy
 Bakosmajor
 Bakos Oldal
 Bakospuszta
-Bakostetõ
-Bakótanya
-Baksadûlõ
+BakostetÅ‘
+BakÃ³tanya
+BaksadÅ±lÅ‘
 Baksa-halom
-Baksaháza
+BaksahÃ¡za
 Baksa-hegy
 Baksa
 Baksatanya
 Baksi-major
-Baksirét
+BaksirÃ©t
 Baks
-Bakszakál
-Bakszál
+BakszakÃ¡l
+BakszÃ¡l
 Bakta-hegy
 Baktai-patak
-Baktakék
-Baktalórántháza
+BaktakÃ©k
+BaktalÃ³rÃ¡nthÃ¡za
 Bakta
-Baktergyepdûlõ
-Baktó
-Baktüttös
-Baláca
-Baláczaidûlõ
+BaktergyepdÅ±lÅ‘
+BaktÃ³
+BaktÃ¼ttÃ¶s
+BalÃ¡ca
+BalÃ¡czaidÅ±lÅ‘
 Balajthitanya
 Balajtitanya
 Balajt
 Balajty-tanya
-Balaskópuszta
+BalaskÃ³puszta
 Balassagyarmat
 Balassatanya
-Balástyaitanyák
-Balástya
-Balatán
-Baláta-tó
-Baláta-völgy
-Balatonakali-Dörgicse
+BalÃ¡styaitanyÃ¡k
+BalÃ¡stya
+BalatÃ¡n
+BalÃ¡ta-tÃ³
+BalÃ¡ta-vÃ¶lgy
+Balatonakali-DÃ¶rgicse
 Balatonakali
 Balatonakarattya
 Balatonaliga
-Balatonalmádi Fürdõ
-Balatonalmádi
-Balatonarács
-Balatonberény
-Balatonboglár
+BalatonalmÃ¡di FÃ¼rdÅ‘
+BalatonalmÃ¡di
+BalatonarÃ¡cs
+BalatonberÃ©ny
+BalatonboglÃ¡r
 Balatonbozsok
-Balatoncsicsó
+BalatoncsicsÃ³
 Balatonederics
-Balatonendrédi Tanyák
-Balatonendréd
-Balaton-felvidék
-Balatonfenyves Alsó
+BalatonendrÃ©di TanyÃ¡k
+BalatonendrÃ©d
+Balaton-felvidÃ©k
+Balatonfenyves AlsÃ³
 Balatonfenyves
-Balatonfõkajár Felsõ
-Balatonfõkajári Tanyák
-Balatonfõkajár
-Balaton Földvár Fürdõtelep
-Balatonföldvár
-Balatonfüred-fürdõ
-Balatonfüred
-Balatonfûzfõ
-Balatongyörök
+BalatonfÅ‘kajÃ¡r FelsÅ‘
+BalatonfÅ‘kajÃ¡ri TanyÃ¡k
+BalatonfÅ‘kajÃ¡r
+Balaton FÃ¶ldvÃ¡r FÃ¼rdÅ‘telep
+BalatonfÃ¶ldvÃ¡r
+BalatonfÃ¼red-fÃ¼rdÅ‘
+BalatonfÃ¼red
+BalatonfÅ±zfÅ‘
+BalatongyÃ¶rÃ¶k
 Balatonhenye
-Balatonhídvég
-Balatonhídvégpuszta
-Balatoni Felvidék
-Balatoni Tanyák
+BalatonhÃ­dvÃ©g
+BalatonhÃ­dvÃ©gpuszta
+Balatoni FelvidÃ©k
+Balatoni TanyÃ¡k
 Balatonkenese
-Balatonkenese-Üdülõtelep
-Balatonkeresztúr
+Balatonkenese-ÃœdÃ¼lÅ‘telep
+BalatonkeresztÃºr
 Balatonkiliti
 Balaton Lake
-Balatonlelle Felsõ
+Balatonlelle FelsÅ‘
 Balatonlelle
-Balatonmagyaród
-Balatonmáriafürdõ Alsó
-Balatonmáriafürdõ
+BalatonmagyarÃ³d
+BalatonmÃ¡riafÃ¼rdÅ‘ AlsÃ³
+BalatonmÃ¡riafÃ¼rdÅ‘
 Balaton
-Balatonõszöd
-Balatonradûlõ
+BalatonÅ‘szÃ¶d
+BalatonradÅ±lÅ‘
 Balatonrendes
 Balatonsomos
-Balatonszabadi Fürdõtelep
+Balatonszabadi FÃ¼rdÅ‘telep
 Balatonszabadi
-Balatonszabadi-Sóstó
-Balatonszárszó
+Balatonszabadi-SÃ³stÃ³
+BalatonszÃ¡rszÃ³
 Balatonszemes
-Balatonszentgyörgy
-Balatonszentmihály
+BalatonszentgyÃ¶rgy
+BalatonszentmihÃ¡ly
 Balatonszepezd
-Balatonszéplak Alsó
-Balatonszéplak Felsõ
-Balatonszéplak
-Balatonszõllõs
-Balatonszõlõs
+BalatonszÃ©plak AlsÃ³
+BalatonszÃ©plak FelsÅ‘
+BalatonszÃ©plak
+BalatonszÅ‘llÅ‘s
+BalatonszÅ‘lÅ‘s
 Balatonudvardi
 Balatonudvari
-Balatonújhely
-Balatonújlak
-Balatonvilág Fürdõtelep
-Balatonvilágosfürdõ
-Balatonvilágos-fürdõtelep
-Balatonvilágos
-Balatonvilágospuszta
-Balatonzamárdi
-Balázsdûlõ
-Balázshalom
-Balázsi
-Balázsitanyák
-Balázsitanya
-Balázska Puszta
-Balázskert
-Balázslapos
-Balázs
-Balázs Piri-sor
-Balázspuszta
-Balázsszállás
-Balázstanya
-Balázs-telep
-Balázstelep
-Balázsújtelep
-Balczó-halom
+BalatonÃºjhely
+BalatonÃºjlak
+BalatonvilÃ¡g FÃ¼rdÅ‘telep
+BalatonvilÃ¡gosfÃ¼rdÅ‘
+BalatonvilÃ¡gos-fÃ¼rdÅ‘telep
+BalatonvilÃ¡gos
+BalatonvilÃ¡gospuszta
+BalatonzamÃ¡rdi
+BalÃ¡zsdÅ±lÅ‘
+BalÃ¡zshalom
+BalÃ¡zsi
+BalÃ¡zsitanyÃ¡k
+BalÃ¡zsitanya
+BalÃ¡zska Puszta
+BalÃ¡zskert
+BalÃ¡zslapos
+BalÃ¡zs
+BalÃ¡zs Piri-sor
+BalÃ¡zspuszta
+BalÃ¡zsszÃ¡llÃ¡s
+BalÃ¡zstanya
+BalÃ¡zs-telep
+BalÃ¡zstelep
+BalÃ¡zsÃºjtelep
+BalczÃ³-halom
 Balf
-Balfürdõ
-Bálicsdûlõ
-Bálikás
-Bálikáspuszta
+BalfÃ¼rdÅ‘
+BÃ¡licsdÅ±lÅ‘
+BÃ¡likÃ¡s
+BÃ¡likÃ¡spuszta
 Bali Major
 Balinadola
-Bálind-tanya
+BÃ¡lind-tanya
 Balinka
-Bálintbokor
-Bálintcsemegés
-Bálintcsere
-Bálint-hegy
-Bálinthegy
-Bálint
-Bálinttanyák
-Bálinttanya
-Bálistanya
+BÃ¡lintbokor
+BÃ¡lintcsemegÃ©s
+BÃ¡lintcsere
+BÃ¡lint-hegy
+BÃ¡linthegy
+BÃ¡lint
+BÃ¡linttanyÃ¡k
+BÃ¡linttanya
+BÃ¡listanya
 Bali-tanya
 Balitanya
 Balkaitanya
-Balkán-halom
-Balkán
-Balkányitanya
-Balkány
-Balkótanya
+BalkÃ¡n-halom
+BalkÃ¡n
+BalkÃ¡nyitanya
+BalkÃ¡ny
+BalkÃ³tanya
 Balkutanya
-Ballabérc
-Balladûlõ
+BallabÃ©rc
+BalladÅ±lÅ‘
 Ballai-patak
-Ballai Sándor-tanya
+Ballai SÃ¡ndor-tanya
 Ballai-tanya
-Ballai Völgy
+Ballai VÃ¶lgy
 Balla-major
 Balla-patak
 Ballapuszta
 Ballatag
 Ballatanya
 Ballatelep
-Ballószög
+BallÃ³szÃ¶g
 Balmaz
-Balmazújváros
-Balogház
-Baloghdûlõ
+BalmazÃºjvÃ¡ros
+BaloghÃ¡z
+BaloghdÅ±lÅ‘
 Balog-hegy
 Balogh Lajos-tanya
 Baloghpuszta
-Baloghtanyák
+BaloghtanyÃ¡k
 Baloghtanya
-Balogh-völgy
+Balogh-vÃ¶lgy
 Balogi-hegy
 Balogpuszta
 Balog-tanya
 Balogtanya
 Balogunyom
-Balogvölgy
-Baló-hegy
+BalogvÃ¶lgy
+BalÃ³-hegy
 Balota
-Balotaszállás
+BalotaszÃ¡llÃ¡s
 Balozsameggyes
-Balparászta
-Balpüspökipuszta
+BalparÃ¡szta
+BalpÃ¼spÃ¶kipuszta
 Balsa
-Baltaráta
-Baltáserdõ
-Baltási Szõllõ
-Bálurét
-Bálvány-hegyes
-Bálvány-hegy
-Bálvány
-Bálványos
-Bambó
+BaltarÃ¡ta
+BaltÃ¡serdÅ‘
+BaltÃ¡si SzÅ‘llÅ‘
+BÃ¡lurÃ©t
+BÃ¡lvÃ¡ny-hegyes
+BÃ¡lvÃ¡ny-hegy
+BÃ¡lvÃ¡ny
+BÃ¡lvÃ¡nyos
+BambÃ³
 Banagyepitanya
-Banaidûlõ
+BanaidÅ±lÅ‘
 Banai-hegy
 Bana
-Bánatos
-Bándi-mezõ
-Bánd
-Bándûlõ
-Bánfalva
-Bánfamajor
-Bánfa
-Bánfapuszta
-Bánféle Tanya
-Bánfibokor
-Bánfi Halom
-Bánfi
-Bangókert
+BÃ¡natos
+BÃ¡ndi-mezÅ‘
+BÃ¡nd
+BÃ¡ndÅ±lÅ‘
+BÃ¡nfalva
+BÃ¡nfamajor
+BÃ¡nfa
+BÃ¡nfapuszta
+BÃ¡nfÃ©le Tanya
+BÃ¡nfibokor
+BÃ¡nfi Halom
+BÃ¡nfi
+BangÃ³kert
 Bangor
 Bangya-hegy
-Bánhalma-Halastó
-Bánhalma
-Bánhalmi Major
-Bánhalom
-Bánházapuszta
-Bánházatelep
-Bánhegy
-Bánhegy Szõlõ
-Bánhida
-Bánhídidûlõ
-Bánhidiszõlõ
-Bánhidymajor
-Bánhorváti
-Bánhorvát
-Bánierdõ
+BÃ¡nhalma-HalastÃ³
+BÃ¡nhalma
+BÃ¡nhalmi Major
+BÃ¡nhalom
+BÃ¡nhÃ¡zapuszta
+BÃ¡nhÃ¡zatelep
+BÃ¡nhegy
+BÃ¡nhegy SzÅ‘lÅ‘
+BÃ¡nhida
+BÃ¡nhÃ­didÅ±lÅ‘
+BÃ¡nhidiszÅ‘lÅ‘
+BÃ¡nhidymajor
+BÃ¡nhorvÃ¡ti
+BÃ¡nhorvÃ¡t
+BÃ¡nierdÅ‘
 Banka-hegy
 Banka Hegy
 Banka
-Bánk-erdõ
-Bankháza
+BÃ¡nk-erdÅ‘
+BankhÃ¡za
 Bankhegy
 Bankhida
-Bánki-erdõ
-Bánkitanyák
-Bánk
-Bankó Hegy
-Banksismánd
+BÃ¡nki-erdÅ‘
+BÃ¡nkitanyÃ¡k
+BÃ¡nk
+BankÃ³ Hegy
+BanksismÃ¡nd
 Banktag
-Bánktanya
-Bánkúti Menedékház
-Bánkút
-Bánkút-Rózsamajor
-Bánkytanya
-Bánmajor
-Bán
-Bánóczymajor
-Bánóczypuszta
-Banó-dûlõ
-Bánokszentgyörgy
-Bánómajor
-Bánom-hegy
-Bánomhegy
-Bánomhegyszõllõ
-Bánomi Dûlõ
-Bánom-kert
-Bánomkert
-Bánom
-Bánomszõllõk
-Bánomszõllõ
-Bánomszõlõ
-Bánomtanya
-Bánomtelep
-Bános
-Bánó-tanya
-Bán-patak
-Bánréve
-Bánszállásbánya
-Bánszállásbányatelep
-Bánszállás
-Bántapolcsány
-Bántapuszta
-Bán Tava
-Bántópuszta
-Bántösei Bánomdûlõ
-Bántöse
-Bántõsibánomdûlõ
-Bánvölgyitanya
-Bánya-domb
-Bányadomb
-Bánya-ér
-Bánya-hegy
-Bányahegy
-Bánya Hegy
-Bányaitanya
-Bánya-kút-dûlõ
+BÃ¡nktanya
+BÃ¡nkÃºti MenedÃ©khÃ¡z
+BÃ¡nkÃºt
+BÃ¡nkÃºt-RÃ³zsamajor
+BÃ¡nkytanya
+BÃ¡nmajor
+BÃ¡n
+BÃ¡nÃ³czymajor
+BÃ¡nÃ³czypuszta
+BanÃ³-dÅ±lÅ‘
+BÃ¡nokszentgyÃ¶rgy
+BÃ¡nÃ³major
+BÃ¡nom-hegy
+BÃ¡nomhegy
+BÃ¡nomhegyszÅ‘llÅ‘
+BÃ¡nomi DÅ±lÅ‘
+BÃ¡nom-kert
+BÃ¡nomkert
+BÃ¡nom
+BÃ¡nomszÅ‘llÅ‘k
+BÃ¡nomszÅ‘llÅ‘
+BÃ¡nomszÅ‘lÅ‘
+BÃ¡nomtanya
+BÃ¡nomtelep
+BÃ¡nos
+BÃ¡nÃ³-tanya
+BÃ¡n-patak
+BÃ¡nrÃ©ve
+BÃ¡nszÃ¡llÃ¡sbÃ¡nya
+BÃ¡nszÃ¡llÃ¡sbÃ¡nyatelep
+BÃ¡nszÃ¡llÃ¡s
+BÃ¡ntapolcsÃ¡ny
+BÃ¡ntapuszta
+BÃ¡n Tava
+BÃ¡ntÃ³puszta
+BÃ¡ntÃ¶sei BÃ¡nomdÅ±lÅ‘
+BÃ¡ntÃ¶se
+BÃ¡ntÅ‘sibÃ¡nomdÅ±lÅ‘
+BÃ¡nvÃ¶lgyitanya
+BÃ¡nya-domb
+BÃ¡nyadomb
+BÃ¡nya-Ã©r
+BÃ¡nya-hegy
+BÃ¡nyahegy
+BÃ¡nya Hegy
+BÃ¡nyaitanya
+BÃ¡nya-kÃºt-dÅ±lÅ‘
 Banya
-Bánya
-Bánya-patak
-Bányapuszta
+BÃ¡nya
+BÃ¡nya-patak
+BÃ¡nyapuszta
 Banya-sziget
-Bányász
-Bányászó
-Bányatelep
-Bányavölgy
-Bány-határ
-Bányihegy
-Barabáshegy
-Barabási Uj-tanya
-Barabás
-Barabáspuszta
+BÃ¡nyÃ¡sz
+BÃ¡nyÃ¡szÃ³
+BÃ¡nyatelep
+BÃ¡nyavÃ¶lgy
+BÃ¡ny-hatÃ¡r
+BÃ¡nyihegy
+BarabÃ¡shegy
+BarabÃ¡si Uj-tanya
+BarabÃ¡s
+BarabÃ¡spuszta
 Barabitstanya
 Barackos
-Baracshatárszéli Dûlõ
-Baracsi I. Dûlõ
-Baracsi II. Dûlõ
+BaracshatÃ¡rszÃ©li DÅ±lÅ‘
+Baracsi I. DÅ±lÅ‘
+Baracsi II. DÅ±lÅ‘
 Baracska
 Baracs
 Baradla-barlang
 Baradla Caves
 Baradla-Caves
-Baráka
-Barákapuszta
-Bárándi Tanyák
-Báránd
-Bárándpuszta
+BarÃ¡ka
+BarÃ¡kapuszta
+BÃ¡rÃ¡ndi TanyÃ¡k
+BÃ¡rÃ¡nd
+BÃ¡rÃ¡ndpuszta
 Baranja
 Bara
 Baranya County
 Baranya-csatorna
-Baranyahidvég
-Baranyai-dombság
-Baranyai-hátság
-Baranyai-Hegyhát
-Baranyai-lösztábla
-Baranyai-tönk
-Baranyajenõ
+BaranyahidvÃ©g
+Baranyai-dombsÃ¡g
+Baranyai-hÃ¡tsÃ¡g
+Baranyai-HegyhÃ¡t
+Baranyai-lÃ¶sztÃ¡bla
+Baranyai-tÃ¶nk
+BaranyajenÅ‘
 Baranya Megye
 Baranya Mountains
 Baranya
 Baranya-patak
-Baranyás
-Baranyaszentgyörgy
-Baranyaszõllõhegy
+BaranyÃ¡s
+BaranyaszentgyÃ¶rgy
+BaranyaszÅ‘llÅ‘hegy
 Baranyere
-Bárány-ér
-Bárányfok
-Bárányház
-Bárány-hegy
-Baranyi-dûlõ
-Baranyirész
+BÃ¡rÃ¡ny-Ã©r
+BÃ¡rÃ¡nyfok
+BÃ¡rÃ¡nyhÃ¡z
+BÃ¡rÃ¡ny-hegy
+Baranyi-dÅ±lÅ‘
+BaranyirÃ©sz
 Baranyitanya
-Bárányjárás
-Bárányjáráspuszta
-Bárányos Hegy
-Bárányszeg
-Báránytanya
-Báránytilos
+BÃ¡rÃ¡nyjÃ¡rÃ¡s
+BÃ¡rÃ¡nyjÃ¡rÃ¡spuszta
+BÃ¡rÃ¡nyos Hegy
+BÃ¡rÃ¡nyszeg
+BÃ¡rÃ¡nytanya
+BÃ¡rÃ¡nytilos
 Bara-patak
 Barapuszta
-Baráterdõtanya
-Barát-ér-dûlõ
-Barátere
-Barát-ér
-Barátfapuszta
-Barátföld
-Baráthalom
-Barát-hegy
-Baráthegy
-Baráthtanya
-Barátidûlõ
-Barátipuszta
-Barátkertimalom
-Barátlakáspuszta
-Barátmajor
-Barátokfapuszta
-Barátokméhese
-Barátok
+BarÃ¡terdÅ‘tanya
+BarÃ¡t-Ã©r-dÅ±lÅ‘
+BarÃ¡tere
+BarÃ¡t-Ã©r
+BarÃ¡tfapuszta
+BarÃ¡tfÃ¶ld
+BarÃ¡thalom
+BarÃ¡t-hegy
+BarÃ¡thegy
+BarÃ¡thtanya
+BarÃ¡tidÅ±lÅ‘
+BarÃ¡tipuszta
+BarÃ¡tkertimalom
+BarÃ¡tlakÃ¡spuszta
+BarÃ¡tmajor
+BarÃ¡tokfapuszta
+BarÃ¡tokmÃ©hese
+BarÃ¡tok
 Baratonypuszta
-Barátság-kert
-Barátsziget
-Barátszilosdûlõ
-Barátszilos
+BarÃ¡tsÃ¡g-kert
+BarÃ¡tsziget
+BarÃ¡tszilosdÅ±lÅ‘
+BarÃ¡tszilos
 Barattya
-Barátúr
-Barátvölgyi Bányatelep
-Barbacsi-tó
+BarÃ¡tÃºr
+BarÃ¡tvÃ¶lgyi BÃ¡nyatelep
+Barbacsi-tÃ³
 Barbacs
-Barbacs Tó
-Bárcaimajor
-Barcãul
-Barcãu
+Barbacs TÃ³
+BÃ¡rcaimajor
+BarcÄƒul
+BarcÄƒu
 Barcika
-Bárcitanya
+BÃ¡rcitanya
 Barcsatanya
-Barcs Felsõ
+Barcs FelsÅ‘
 Barcs
-Barczafelsõmajor
+BarczafelsÅ‘major
 Barczamajor
 Barcza-puszta
 Barczatanya
-Bárczatanya
+BÃ¡rczatanya
 Barczika
-Bárczyszõllõ
-Bárda-hát
-Bárdibükk
-Bárdi-hegy
-Bárdiótag
-Bárdos
-Bárdos-tanya
-Bárdudvarnok
-Bárhely
+BÃ¡rczyszÅ‘llÅ‘
+BÃ¡rda-hÃ¡t
+BÃ¡rdibÃ¼kk
+BÃ¡rdi-hegy
+BÃ¡rdiÃ³tag
+BÃ¡rdos
+BÃ¡rdos-tanya
+BÃ¡rdudvarnok
+BÃ¡rhely
 Baricska
 Bariczatanya
-Bári-halom
+BÃ¡ri-halom
 Bari-hegy
-Bári Hegy
+BÃ¡ri Hegy
 Barinapuszta
-Báripuszta
-Báriuspad
-Báriuspart
-Bárkányitanya
-Barkócás
-Barkóczytelep
-Barkótanya
-Bar-kút
+BÃ¡ripuszta
+BÃ¡riuspad
+BÃ¡riuspart
+BÃ¡rkÃ¡nyitanya
+BarkÃ³cÃ¡s
+BarkÃ³czytelep
+BarkÃ³tanya
+Bar-kÃºt
 Barlahida
 Barlang
 Barnag
-Barnahát
-Barnahátpuszta
+BarnahÃ¡t
+BarnahÃ¡tpuszta
 Barna Hegy
-Bárnai-patak
+BÃ¡rnai-patak
 Barnak
 Barnakpuszta
-Barnáktanya
-Barnamájdûlõ
-Barna-máj
-Barnamály
-Bárna
-Bárna-patak
-Barnaszigeti-tanyák
+BarnÃ¡ktanya
+BarnamÃ¡jdÅ±lÅ‘
+Barna-mÃ¡j
+BarnamÃ¡ly
+BÃ¡rna
+BÃ¡rna-patak
+Barnaszigeti-tanyÃ¡k
 Barnasziget
-Barna-tó
-Barnék
-Bárnevolnamajor
-Bár
-Baróchegyi-úmajor
-Báróc-hegy
-Barócsitanya
-Báróczhegyi-újmajor
-Báróczhegy
-Báró Eötvös-major
+Barna-tÃ³
+BarnÃ©k
+BÃ¡rnevolnamajor
+BÃ¡r
+BarÃ³chegyi-Ãºmajor
+BÃ¡rÃ³c-hegy
+BarÃ³csitanya
+BÃ¡rÃ³czhegyi-Ãºjmajor
+BÃ¡rÃ³czhegy
+BÃ¡rÃ³ EÃ¶tvÃ¶s-major
 Barok-hegy
 Baroktanya
-Barok-völgy
-Bárólak
-Bárómajor
-Barom-dûlõ
+Barok-vÃ¶lgy
+BÃ¡rÃ³lak
+BÃ¡rÃ³major
+Barom-dÅ±lÅ‘
 Baromfitelep
-Baromfitenyésztõtelep
-Baromjárási Iskola
-Baromjárás
+BaromfitenyÃ©sztÅ‘telep
+BaromjÃ¡rÃ¡si Iskola
+BaromjÃ¡rÃ¡s
 Baromlaktanya
 Barospuszta
 Barossakna
-Barossdûlõ
+BarossdÅ±lÅ‘
 Barossmajor
 Barosspuszta
-Báró-tag
-Bárótagtanya
-Barótaköz
-Bárótanya
-Barótapuszta
-Barragrét
+BÃ¡rÃ³-tag
+BÃ¡rÃ³tagtanya
+BarÃ³takÃ¶z
+BÃ¡rÃ³tanya
+BarÃ³tapuszta
+BarragrÃ©t
 Barsikert
-Bársonyberek
-Bársonyos-csatorna
-Bársonyos
-Bársonytanya
-Bárszentmihályfa
-Barta Állomás
-Bartadûlõ
+BÃ¡rsonyberek
+BÃ¡rsonyos-csatorna
+BÃ¡rsonyos
+BÃ¡rsonytanya
+BÃ¡rszentmihÃ¡lyfa
+Barta ÃllomÃ¡s
+BartadÅ±lÅ‘
 Barta-halom
 Bartal-puszta
 Barta
-Bártanya
+BÃ¡rtanya
 Bartapuszta
-Bartasz-vég
+Bartasz-vÃ©g
 Bartatanya
-Bártffaitanya
+BÃ¡rtffaitanya
 Bartha
 Barthatanya
 Bartina Hegy
 Bartina
-Bartkó
-Bartókmajor
-Bartosdûlõ
+BartkÃ³
+BartÃ³kmajor
+BartosdÅ±lÅ‘
 Bartulahegy
 Baruchatanya
-Barzótanya
-Basa-gödör
-Basagödre
+BarzÃ³tanya
+Basa-gÃ¶dÃ¶r
+BasagÃ¶dre
 Basaharc
 Basal
-Basamalomdûlõ
+BasamalomdÅ±lÅ‘
 Basamalom
-Basasarokidûlõ
+BasasarokidÅ±lÅ‘
 Basatanya
-Bás-halom-dûlõ
+BÃ¡s-halom-dÅ±lÅ‘
 Bashalom
 Bashalom Puszta
-Baskó
-Básthytag
-Báta Állomás
-Bátaapáti
+BaskÃ³
+BÃ¡sthytag
+BÃ¡ta ÃllomÃ¡s
+BÃ¡taapÃ¡ti
 Bata-hegy
 Bata
-Báta
+BÃ¡ta
 Batapuszta
-Bátaszék
+BÃ¡taszÃ©k
 Batatanya
-Báté-halom
-Batéhegy
-Batéi Hegy
-Baté
-Báthorikert
-Báthoritanya
-Báthorykert
-Báthorytanya
+BÃ¡tÃ©-halom
+BatÃ©hegy
+BatÃ©i Hegy
+BatÃ©
+BÃ¡thorikert
+BÃ¡thoritanya
+BÃ¡thorykert
+BÃ¡thorytanya
 Batidai-csatorna
 Batidai-halom
 Batida
 Batida Tanya
-Báti Hegy
+BÃ¡ti Hegy
 Batka
-Bátkapuszta
+BÃ¡tkapuszta
 Batka-tanya
-Bátmonostor
-Batonhátitanya
-Bátonyterenye
-Bátori Patak
-Bátoritanya
-Bátorligeti-láp
-Bátorliget
-Bátor
-Bátor-patak
-Bátorszõllõ
-Bátorszõlõ
-Bátortanya
+BÃ¡tmonostor
+BatonhÃ¡titanya
+BÃ¡tonyterenye
+BÃ¡tori Patak
+BÃ¡toritanya
+BÃ¡torligeti-lÃ¡p
+BÃ¡torliget
+BÃ¡tor
+BÃ¡tor-patak
+BÃ¡torszÅ‘llÅ‘
+BÃ¡torszÅ‘lÅ‘
+BÃ¡tortanya
 Batscher Kanal
 Batta-hegy
 Battatanya
 Battonya
-Battonyás
-Battyánmajor
-Battyánpuszta
-Battyányimajor
+BattonyÃ¡s
+BattyÃ¡nmajor
+BattyÃ¡npuszta
+BattyÃ¡nyimajor
 Batuzpuszta
-Bátya
+BÃ¡tya
 Batyka
 Batykapuszta
 Batyk
 Bauertanya
-Bauxitbánya
+BauxitbÃ¡nya
 Bay-tanya
 Baytanya
-Bázakerettye
-Bazaltbánya
-Báza
+BÃ¡zakerettye
+BazaltbÃ¡nya
+BÃ¡za
 Bazitag
 Bazita
 Bazsi
 Bazsipuszta
-Bazsómajor
+BazsÃ³major
 Bebespuszta
-Bébic-major
-Bébicmajor
-Bébic
-Bébic-puszta
-Béb
+BÃ©bic-major
+BÃ©bicmajor
+BÃ©bic
+BÃ©bic-puszta
+BÃ©b
 Beccehegy
 Becefa
 Becehegy
 Bechmajor
-Bécimajor
-Béci-patak
+BÃ©cimajor
+BÃ©ci-patak
 Beckmajor
 Becktanya
-Béc
+BÃ©c
 Becsalihegy
 Becsali
 Becsalipuszta
@@ -1774,122 +1774,122 @@ Becsehely
 Becsek
 Becserpuszta
 Becsikert
-Bécsitanya
-Bécsiúti Dûlõ
-Bécsi út
-Becske Állomás
-Becske Alsó
+BÃ©csitanya
+BÃ©csiÃºti DÅ±lÅ‘
+BÃ©csi Ãºt
+Becske ÃllomÃ¡s
+Becske AlsÃ³
 Becsked
-Becskeháza
+BecskehÃ¡za
 Becske
 Becsketanya
-Becsõ
-Becsõ-tó
-Becsvölgye
+BecsÅ‘
+BecsÅ‘-tÃ³
+BecsvÃ¶lgye
 Beda-akna
-Bedabánya
-Bédai Vadászlak
-Béda
-Bedegkér
+BedabÃ¡nya
+BÃ©dai VadÃ¡szlak
+BÃ©da
+BedegkÃ©r
 Bedegpuszta
-Bedeg-völgy
+Bedeg-vÃ¶lgy
 Bede
 Bedepuszta
-Bédia
-Bédi Sándor-puszta
-Béditanya
-Bedõbokor
-Bedõmajor
-Bedõ
-Bedõszegitanyák
-Begécsi-halastavak
-Begécsi-tározó
-Begécsi-víztároló
-Begécspuszta
-Behiákpuszta
-Bejcgyertyános
+BÃ©dia
+BÃ©di SÃ¡ndor-puszta
+BÃ©ditanya
+BedÅ‘bokor
+BedÅ‘major
+BedÅ‘
+BedÅ‘szegitanyÃ¡k
+BegÃ©csi-halastavak
+BegÃ©csi-tÃ¡rozÃ³
+BegÃ©csi-vÃ­ztÃ¡rolÃ³
+BegÃ©cspuszta
+BehiÃ¡kpuszta
+BejcgyertyÃ¡nos
 Bejczitag
-Békafõtanya
-Békaházatanya
-Békakút
-Békásdûlõ
-Békásmegyer Felsõ
-Békásmegyer
-Békásmegyer - Pünkösdfürdõ
-Békás
-Békás-patak
-Békáspuszta
-Békástanya
-Békástó
-Békatópuszta
-Bekcsénypolya
+BÃ©kafÅ‘tanya
+BÃ©kahÃ¡zatanya
+BÃ©kakÃºt
+BÃ©kÃ¡sdÅ±lÅ‘
+BÃ©kÃ¡smegyer FelsÅ‘
+BÃ©kÃ¡smegyer
+BÃ©kÃ¡smegyer - PÃ¼nkÃ¶sdfÃ¼rdÅ‘
+BÃ©kÃ¡s
+BÃ©kÃ¡s-patak
+BÃ©kÃ¡spuszta
+BÃ©kÃ¡stanya
+BÃ©kÃ¡stÃ³
+BÃ©katÃ³puszta
+BekcsÃ©nypolya
 Bekecs
 Bekecs-patak
-Békedûlõ
+BÃ©kedÅ±lÅ‘
 Bekefa
-Békeföldek
+BÃ©kefÃ¶ldek
 Bekehalma
-Bekeháza
+BekehÃ¡za
 Bekekaljatanya
-Békemajor
-Bekényitanya
-Békény
+BÃ©kemajor
+BekÃ©nyitanya
+BÃ©kÃ©ny
 Bekenypuszta
-Békénypuszta
-Bekénytanya
-Bekepálhalma
-Békésbelencéres
+BÃ©kÃ©nypuszta
+BekÃ©nytanya
+BekepÃ¡lhalma
+BÃ©kÃ©sbelencÃ©res
 Bekes County
-Békéscsaba Megyei Város
-Békéscsaba
-Békésföldvár
-Békési-élõvíz
-Békésierdõ
-Békésmajor
-Békés Megye
-Békés
-Békéssámson
-Békésszentadrás
-Békésszentandrás
-Békésszõllõ
-Békestanya
-Békés Vármegye
+BÃ©kÃ©scsaba Megyei VÃ¡ros
+BÃ©kÃ©scsaba
+BÃ©kÃ©sfÃ¶ldvÃ¡r
+BÃ©kÃ©si-Ã©lÅ‘vÃ­z
+BÃ©kÃ©sierdÅ‘
+BÃ©kÃ©smajor
+BÃ©kÃ©s Megye
+BÃ©kÃ©s
+BÃ©kÃ©ssÃ¡mson
+BÃ©kÃ©sszentadrÃ¡s
+BÃ©kÃ©sszentandrÃ¡s
+BÃ©kÃ©sszÅ‘llÅ‘
+BÃ©kestanya
+BÃ©kÃ©s VÃ¡rmegye
 Beketanya
-Béketelep
+BÃ©ketelep
 Bekkert
 Bekkpuszta
-Bekölce
-Bekó
-Bekósarok
-Béla-erdõ
-Béla-halom
-Bélahalompuszta
-Bélaházapuszta
-Béla-major
-Bélamajor
-Bélápapuszta
-Bélapátfalva
-Bélapátfalvi Cementgyár
-Bélapuszta
-Bélatanya
-Bélatelek
-Bélatelep
-Belátó-hegy
-Belátóhegy
-Belátó Hegy
-Belátó
-Bélavár
+BekÃ¶lce
+BekÃ³
+BekÃ³sarok
+BÃ©la-erdÅ‘
+BÃ©la-halom
+BÃ©lahalompuszta
+BÃ©lahÃ¡zapuszta
+BÃ©la-major
+BÃ©lamajor
+BÃ©lÃ¡papuszta
+BÃ©lapÃ¡tfalva
+BÃ©lapÃ¡tfalvi CementgyÃ¡r
+BÃ©lapuszta
+BÃ©latanya
+BÃ©latelek
+BÃ©latelep
+BelÃ¡tÃ³-hegy
+BelÃ¡tÃ³hegy
+BelÃ¡tÃ³ Hegy
+BelÃ¡tÃ³
+BÃ©lavÃ¡r
 Belcsapuszta
-Beldoromlás
-Beldvárdgyula
+BeldoromlÃ¡s
+BeldvÃ¡rdgyula
 Belecska
 Beled
-Beleg-Böhönyei-Rinya
+Beleg-BÃ¶hÃ¶nyei-Rinya
 Beleg
-Belegrád
-Belegrádpuszta
-Belenfûz
-Belentaitanyák
+BelegrÃ¡d
+BelegrÃ¡dpuszta
+BelenfÅ±z
+BelentaitanyÃ¡k
 Belenta
 Belesapuszta
 Beleznaitanya
@@ -1897,166 +1897,166 @@ Belezna
 Beleznaytanya
 Belez
 Belfibokor
-Belfõcsatorna
-Belfõi Csatorna
+BelfÅ‘csatorna
+BelfÅ‘i Csatorna
 Belitanya
-Bél-kõ
-Bellánkistanya
-Bellánnagytanya
+BÃ©l-kÅ‘
+BellÃ¡nkistanya
+BellÃ¡nnagytanya
 Bellatanya
-Bellegelõ
-Bellervölgy
+BellegelÅ‘
+BellervÃ¶lgy
 Belmajor
-Bélmegyer
+BÃ©lmegyer
 Beloiannisz
-Belsõábrahámhegy
-Belsõballószög
-Belsõbáránd
-Belsõberek
-Belsõbõcs
-Belsõcsongoráddûlõ
-Belsõcsongráddûlõ
-Belsõ Csongrád
-Belsõ-dalla-puszta
-Belsõ-dûlõ
-Belsõdûlõ
-Belsõecser
-Belsõerdõdûlõ
-Belsõerdõ
-Belsõ Fecskési Kerület
-Belsõgyács
-Belsõhatárdûlõ
-Belsõ-hegy
-Belsõhegy
-Belsõ-iszap
-Belsõjárandó
-Belsõjárás
-Belsõkajtor
-Belsõkamaráspuszta
-Belsõlajtamajor
-Belsõ-legelõ
-Belsõmajor
-Belsõ Major
+BelsÅ‘Ã¡brahÃ¡mhegy
+BelsÅ‘ballÃ³szÃ¶g
+BelsÅ‘bÃ¡rÃ¡nd
+BelsÅ‘berek
+BelsÅ‘bÅ‘cs
+BelsÅ‘csongorÃ¡ddÅ±lÅ‘
+BelsÅ‘csongrÃ¡ddÅ±lÅ‘
+BelsÅ‘ CsongrÃ¡d
+BelsÅ‘-dalla-puszta
+BelsÅ‘-dÅ±lÅ‘
+BelsÅ‘dÅ±lÅ‘
+BelsÅ‘ecser
+BelsÅ‘erdÅ‘dÅ±lÅ‘
+BelsÅ‘erdÅ‘
+BelsÅ‘ FecskÃ©si KerÃ¼let
+BelsÅ‘gyÃ¡cs
+BelsÅ‘hatÃ¡rdÅ±lÅ‘
+BelsÅ‘-hegy
+BelsÅ‘hegy
+BelsÅ‘-iszap
+BelsÅ‘jÃ¡randÃ³
+BelsÅ‘jÃ¡rÃ¡s
+BelsÅ‘kajtor
+BelsÅ‘kamarÃ¡spuszta
+BelsÅ‘lajtamajor
+BelsÅ‘-legelÅ‘
+BelsÅ‘major
+BelsÅ‘ Major
 Belso Malom
-Belsõmántelek
-Belsõnaplásdûlõ
-Belsõnyír
-Belsõohat
-Belsõperegitanyák
-Belsõperegpuszta
-Belsõpusztadalla
-Belsõ-réti-patak
-Belsõrétitanyák
-Belsõrét
-Belsõriha
-Belsõsámson
-Belsõsápitanyák
-Belsõsáp
-Belsõsárd
-Belsõsári
-Belsõsáripuszta
-Belsõsikhegy
-Belsõ-Somogy
-Belsõszakállas
-Belsõszentiván
-Belsõszentivánpuszta
-Belsõszõllõhegy
-Belsõszõllõk
-Belsõtag
-Belsõtanyák
-Belsõtanya
-Belsõ-tó
-Belsõtükrös
-Belsõújfalu
-Belsõújsor
-Belsõ Új Sor
-Bélus-patak
-Belvárdgyula
-Bencehát
+BelsÅ‘mÃ¡ntelek
+BelsÅ‘naplÃ¡sdÅ±lÅ‘
+BelsÅ‘nyÃ­r
+BelsÅ‘ohat
+BelsÅ‘peregitanyÃ¡k
+BelsÅ‘peregpuszta
+BelsÅ‘pusztadalla
+BelsÅ‘-rÃ©ti-patak
+BelsÅ‘rÃ©titanyÃ¡k
+BelsÅ‘rÃ©t
+BelsÅ‘riha
+BelsÅ‘sÃ¡mson
+BelsÅ‘sÃ¡pitanyÃ¡k
+BelsÅ‘sÃ¡p
+BelsÅ‘sÃ¡rd
+BelsÅ‘sÃ¡ri
+BelsÅ‘sÃ¡ripuszta
+BelsÅ‘sikhegy
+BelsÅ‘-Somogy
+BelsÅ‘szakÃ¡llas
+BelsÅ‘szentivÃ¡n
+BelsÅ‘szentivÃ¡npuszta
+BelsÅ‘szÅ‘llÅ‘hegy
+BelsÅ‘szÅ‘llÅ‘k
+BelsÅ‘tag
+BelsÅ‘tanyÃ¡k
+BelsÅ‘tanya
+BelsÅ‘-tÃ³
+BelsÅ‘tÃ¼krÃ¶s
+BelsÅ‘Ãºjfalu
+BelsÅ‘Ãºjsor
+BelsÅ‘ Ãšj Sor
+BÃ©lus-patak
+BelvÃ¡rdgyula
+BencehÃ¡t
 Bence-hegy
 Bence Hegy
-Bence József-tanya
+Bence JÃ³zsef-tanya
 Bencepuszta
-Bencevölgy
+BencevÃ¶lgy
 Benchalom
-Bencúrfalva
-Bencze László-tanya
-Benczúrfalva
-Béndekpuszta
+BencÃºrfalva
+Bencze LÃ¡szlÃ³-tanya
+BenczÃºrfalva
+BÃ©ndekpuszta
 Bendepuszta
 Benditanya
-Benedek-dûlõ
-Benedekdûlõ
+Benedek-dÅ±lÅ‘
+BenedekdÅ±lÅ‘
 Benedekpuszta
 Benedektanya
-Benedekvölgy
+BenedekvÃ¶lgy
 Bene-halom
 Bene
 Bene-patak
 Benepuszta
-Beneszél
+BeneszÃ©l
 Benetanya
-Bene-víz
-Benkeházamajor
-Benkeháza
+Bene-vÃ­z
+BenkehÃ¡zamajor
+BenkehÃ¡za
 Benk
-Benkõbokor
-Benkódûlõ
+BenkÅ‘bokor
+BenkÃ³dÅ±lÅ‘
 Benta
 Benta-patak
 Bentatelep
-Bényeitanyák
-Bényeitanya
-Bénye
-Benzföldek
-Benzföldi Tanyák
-Beöthytanya
-Bérbaltavár
+BÃ©nyeitanyÃ¡k
+BÃ©nyeitanya
+BÃ©nye
+BenzfÃ¶ldek
+BenzfÃ¶ldi TanyÃ¡k
+BeÃ¶thytanya
+BÃ©rbaltavÃ¡r
 Berceli-Bonafika
 Berceli-hegy
 Berceli Patak
-Berceli Tanyák
+Berceli TanyÃ¡k
 Bercel
-Bérc-fa
-Bérci Hegy
-Berdó-dûlõ
-Berecki Híd
+BÃ©rc-fa
+BÃ©rci Hegy
+BerdÃ³-dÅ±lÅ‘
+Berecki HÃ­d
 Bereckytanya
 Berectanya
-Bereczkihíd
+BereczkihÃ­d
 Bereczkitag
 Bereczpuszta
 Berecztanya
-Beregböszörmény
-Beregdaróci Tanya
-Beregdaróc
+BeregbÃ¶szÃ¶rmÃ©ny
+BeregdarÃ³ci Tanya
+BeregdarÃ³c
 Bereg-hegy
-Beregi-síkság
-Beregi-Tiszahát
+Beregi-sÃ­ksÃ¡g
+Beregi-TiszahÃ¡t
 Bereg
 Bereg-patak
-Bereg-Sió-Fülespatak
-Beregsurány
+Bereg-SiÃ³-FÃ¼lespatak
+BeregsurÃ¡ny
 Beregtanya
-Bereg-völgy
+Bereg-vÃ¶lgy
 Berekalja
 Berekaljapuszta
 Berekaljatanya
-Berekböszörmény
-Berek-ér
-Berekfürdõ
-Berekfürdõtelep
-Berekhát
+BerekbÃ¶szÃ¶rmÃ©ny
+Berek-Ã©r
+BerekfÃ¼rdÅ‘
+BerekfÃ¼rdÅ‘telep
+BerekhÃ¡t
 Berek-hegy
 Bereklapos
 Berekmajor
 Berek
 Berek-patak
 Berek Patak
-Berekrét
+BerekrÃ©t
 Berektanya
-Beremendi Cementma Vasúti Állomás
-Beremendi Cementmû
+Beremendi Cementma VasÃºti ÃllomÃ¡s
+Beremendi CementmÅ±
 Beremendi-hegy
 Beremend
 Beremeni Tanya
@@ -2065,92 +2065,92 @@ Berencsik
 Berencsitanya
 Berencztanya
 Berente
-Berénybene
-Berényitanya
-Berényiúti Dûlõ
-Berényi Úti Dûlõ
-Berény Puszta
-Bérestanya
+BerÃ©nybene
+BerÃ©nyitanya
+BerÃ©nyiÃºti DÅ±lÅ‘
+BerÃ©nyi Ãšti DÅ±lÅ‘
+BerÃ©ny Puszta
+BÃ©restanya
 Beretanya
-Beretãul
+BeretÄƒul
 Beretau
-Beréte-tó
+BerÃ©te-tÃ³
 Bereteu
 Beret
-Berettyó-csatorna
-Berettyó-Hortobágy Csatorna
-Berettyó
-Berettyószentmárton
-Berettyóújfalu
-Beretvás-föld
-Beretvás Kisszéktó
-Beretváspuszta
-Beretvástelep
+BerettyÃ³-csatorna
+BerettyÃ³-HortobÃ¡gy Csatorna
+BerettyÃ³
+BerettyÃ³szentmÃ¡rton
+BerettyÃ³Ãºjfalu
+BeretvÃ¡s-fÃ¶ld
+BeretvÃ¡s KisszÃ©ktÃ³
+BeretvÃ¡spuszta
+BeretvÃ¡stelep
 Berezina
-Bergeditanyák
+BergeditanyÃ¡k
 Berged
 Bergertanya
 Berge-tanya
 Bergmanntanya
-Bér-hegy
+BÃ©r-hegy
 Berhida
-Béri-patak
+BÃ©ri-patak
 Berke-major
 Berke
 Berkenye
-Berkenyés
+BerkenyÃ©s
 Berkesd
 Berkesdpuszta
 Berkestag
 Berkestanya
-Berkestér
+BerkestÃ©r
 Berkesz
 Berketanya
 Berki
 Berki-patak
 Berkitanya
-Bérletitanyák
-Bérletmajor
-Bernáthegy
-Bernáthresz-puszta
-Bernátkút
-Bernát-patak
-Bernátpuszta
-Bernátrész
-Bernecebaráti
-Bér
-Bér-patak
-Bersekbánya
-Bersénytanya
-Bertaháza
+BÃ©rletitanyÃ¡k
+BÃ©rletmajor
+BernÃ¡thegy
+BernÃ¡thresz-puszta
+BernÃ¡tkÃºt
+BernÃ¡t-patak
+BernÃ¡tpuszta
+BernÃ¡trÃ©sz
+BernecebarÃ¡ti
+BÃ©r
+BÃ©r-patak
+BersekbÃ¡nya
+BersÃ©nytanya
+BertahÃ¡za
 Bertalanffymajor
 Bertalanffypuszta
 Bertalanmajor
 Bertalanpuszta
 Bertamajor
 Bertatelep
-Berthóthitanya
-Berva-bérc
+BerthÃ³thitanya
+Berva-bÃ©rc
 Berva
-Berva-völgy
-Berzáktanya
-Berzék
+Berva-vÃ¶lgy
+BerzÃ¡ktanya
+BerzÃ©k
 Berzence
-Berzók-tanya
+BerzÃ³k-tanya
 Berzsenyimajor
-Bésató
+BÃ©satÃ³
 Besence
 Besenczitanya
-Besenyõd
-Besenyõtanya
-Besenyõtelek
-Besenyszög
+BesenyÅ‘d
+BesenyÅ‘tanya
+BesenyÅ‘telek
+BesenyszÃ¶g
 Besliahegy
-Besnyõmajor
-Besnyõ
+BesnyÅ‘major
+BesnyÅ‘
 Bestia-puszta
-Beszédestanya
-Besztereci Vár
+BeszÃ©destanya
+Besztereci VÃ¡r
 Beszterec
 Betekincspuszta
 Betekintspuszta
@@ -2160,166 +2160,166 @@ Betlehemtanya
 Betlenmajor
 Betlen
 Betontanya
-Betonút
-Betyársori Földek
-Bevár
+BetonÃºt
+BetyÃ¡rsori FÃ¶ldek
+BevÃ¡r
 Bezedek
 Bezedekpuszta
 Bezenye
-Bezerédi Külsõ-major
-Bezerédj
-Bezeréd
-Bezerédypuszta
-Bezinai Szõllõk
-Bezinai Szõlõk
+BezerÃ©di KÃ¼lsÅ‘-major
+BezerÃ©dj
+BezerÃ©d
+BezerÃ©dypuszta
+Bezinai SzÅ‘llÅ‘k
+Bezinai SzÅ‘lÅ‘k
 Bezina-patak
 Bezi
-Bézmagödre
-Bézma-hegy
-Bézmalapja
-Bézma
-Bezsentói Malom
-Bezsentó
+BÃ©zmagÃ¶dre
+BÃ©zma-hegy
+BÃ©zmalapja
+BÃ©zma
+BezsentÃ³i Malom
+BezsentÃ³
 Bezzegimajor
 Bezzegpuszta
-Biai-halastó
+Biai-halastÃ³
 Biai-hegy
-Biai-tó
+Biai-tÃ³
 Bia
-Biatorbágy
+BiatorbÃ¡gy
 Biben-hegy
-Bibérctanya
-Bíbichát
+BibÃ©rctanya
+BÃ­bichÃ¡t
 Bibic-hegy
 Bibic
-Bibictódûlõ
+BibictÃ³dÅ±lÅ‘
 Bibicz Hegy
 Bicere
-Bicópuszta
-Bicsákmalom
-Bicsérd
-Bicske Alsó
+BicÃ³puszta
+BicsÃ¡kmalom
+BicsÃ©rd
+Bicske AlsÃ³
 Bicskeitanya
 Bicske
 Bidi-hegy
 Biglitanya
-Bihardancsháza
-Bihardancsházi Tanyák
-Bihari-síkság
-Biharkeresztesi Tanyák
+BihardancshÃ¡za
+BihardancshÃ¡zi TanyÃ¡k
+Bihari-sÃ­ksÃ¡g
+Biharkeresztesi TanyÃ¡k
 Biharkeresztes
 Biharnagybajom
 Biharpuszta
-Biharszentlászló
-Bihartordai Tanyák
+BiharszentlÃ¡szlÃ³
+Bihartordai TanyÃ¡k
 Bihartorda
 Biharugrai-halastavak
-Biharugrai Tanyák
+Biharugrai TanyÃ¡k
 Biharugra
 Biharytanya
-Bikács
-Bikádi-hegy
-Bikád
-Bikaérdûlõ
-Bikahalomdûlõ
+BikÃ¡cs
+BikÃ¡di-hegy
+BikÃ¡d
+BikaÃ©rdÅ±lÅ‘
+BikahalomdÅ±lÅ‘
 Bika-halom
 Bikahalom
-Bikaház
-Bikahegyi Szõllõtelep
+BikahÃ¡z
+Bikahegyi SzÅ‘llÅ‘telep
 Bika-hegy
 Bikahegy
-Bikakútihegy
-Bikakút
-Bikakútpuszta
-Bikal-árok
+BikakÃºtihegy
+BikakÃºt
+BikakÃºtpuszta
+Bikal-Ã¡rok
 Bikali-patak
-Bikali-víz
+Bikali-vÃ­z
 Bikal
 Bikapuszta
-Bika-rakodó
-Bikarakodótanya
-Bikarétdûlõ
-Bikaréti Malom-tanya
-Bika-rét
-Bikarét
-Bikásdûlõ
+Bika-rakodÃ³
+BikarakodÃ³tanya
+BikarÃ©tdÅ±lÅ‘
+BikarÃ©ti Malom-tanya
+Bika-rÃ©t
+BikarÃ©t
+BikÃ¡sdÅ±lÅ‘
 Bikatelep
-Bikató
+BikatÃ³
 Bikatorok-halom
 Bikatorok
-Bikaváripuszta
+BikavÃ¡ripuszta
 Bika-zug
 Bikazug
 Bikeri
-Bikkbérc
+BikkbÃ©rc
 Bikkestelep
 Bikkpuszta
-Bikktó-puszta
-Bikkvölgy
-Biklerföld
-Bikóbikk-bánya
+BikktÃ³-puszta
+BikkvÃ¶lgy
+BiklerfÃ¶ld
+BikÃ³bikk-bÃ¡nya
 Bikoli-patak
 Bikol
 Bikol-patak
 Bilabara
-Billatáró
-Billatárótelep
+BillatÃ¡rÃ³
+BillatÃ¡rÃ³telep
 Billege
 Billegepuszta
 Billegpuszta
-Bimbó-hegy-dûlõ
-Bimbó Hegy
-Bimbóstanya
-Bimbó-tanya
+BimbÃ³-hegy-dÅ±lÅ‘
+BimbÃ³ Hegy
+BimbÃ³stanya
+BimbÃ³-tanya
 Bindatag
 Binderpuszta
-Binye-ráta
-Birákdûlõ
+Binye-rÃ¡ta
+BirÃ¡kdÅ±lÅ‘
 Birincsek
 Biri
-Biriszõllõ
-Biri-szõlõ-dûlõ
-Biri Szõlõk
+BiriszÅ‘llÅ‘
+Biri-szÅ‘lÅ‘-dÅ±lÅ‘
+Biri SzÅ‘lÅ‘k
 Biritanya
-Biritó
-Biritópuszta
-Birján
+BiritÃ³
+BiritÃ³puszta
+BirjÃ¡n
 Birkaakoli Major
-Birkaházmajor
-Birkajárás
+BirkahÃ¡zmajor
+BirkajÃ¡rÃ¡s
 Birkamajor
-Birkásházimajor
-Birkásház
-Birkásmajor
-Birkáspergesdûlõ
-Birkás-Perjés-dûlõ
-Birkástanya
-Birkás-tó
+BirkÃ¡shÃ¡zimajor
+BirkÃ¡shÃ¡z
+BirkÃ¡smajor
+BirkÃ¡spergesdÅ±lÅ‘
+BirkÃ¡s-PerjÃ©s-dÅ±lÅ‘
+BirkÃ¡stanya
+BirkÃ¡s-tÃ³
 Birke
 Birketanya
-Birkóerdõ
-Birkógyümölcsös
-Biród
-Bíró-major
-Birómalom
-Bírópuszta
-Bíró-rét
-Bírórét
-Bírószél
-Bíró-tanya
-Bírótanya
+BirkÃ³erdÅ‘
+BirkÃ³gyÃ¼mÃ¶lcsÃ¶s
+BirÃ³d
+BÃ­rÃ³-major
+BirÃ³malom
+BÃ­rÃ³puszta
+BÃ­rÃ³-rÃ©t
+BÃ­rÃ³rÃ©t
+BÃ­rÃ³szÃ©l
+BÃ­rÃ³-tanya
+BÃ­rÃ³tanya
 Birtatanya
 Bischitztanya
-Bisó
-Bisó-patak
+BisÃ³
+BisÃ³-patak
 Bisse
-Bitang-dûlõ
-Bite-szék
-Bitkafalui Tanyák
-Bitóci-völgy
-Bitócivölgy
-Bitóczi Völgy
-Bitó
+Bitang-dÅ±lÅ‘
+Bite-szÃ©k
+Bitkafalui TanyÃ¡k
+BitÃ³ci-vÃ¶lgy
+BitÃ³civÃ¶lgy
+BitÃ³czi VÃ¶lgy
+BitÃ³
 Bitterwasser
 Bittva
 Bittva-patak
@@ -2331,424 +2331,424 @@ Bivaly-halom
 Bivalyhalom
 Bizei-domb
 Bize
-Black Körös
+Black KÃ¶rÃ¶s
 Blankamajor
 Blaskovichkert
 Blaskovichmajor
 Blaskovitsmajor
 Blautanya
-Blészermalom
+BlÃ©szermalom
 Blocksberg
-Bobáktanyák
-Bobáktanya
+BobÃ¡ktanyÃ¡k
+BobÃ¡ktanya
 Boba
-Bobonyérpuszta
-Bobvosdûlõ
-Böccse-hegy
-Böccse
-Bocfölde
+BobonyÃ©rpuszta
+BobvosdÅ±lÅ‘
+BÃ¶ccse-hegy
+BÃ¶ccse
+BocfÃ¶lde
 Bochidjapuszta
 Bochsa-tanya
 Bockerekitanya
 Boc-kerek
-Boconád
-Böcörpuszta
-Bócsa-Bugaci-csatorna
-Bócsa
-Bocsár-Felsõbocsár
-Bocsárlapujtõ
+BoconÃ¡d
+BÃ¶cÃ¶rpuszta
+BÃ³csa-Bugaci-csatorna
+BÃ³csa
+BocsÃ¡r-FelsÅ‘bocsÃ¡r
+BocsÃ¡rlapujtÅ‘
 Bocskaikert
 Bocska
 Bocskaykert
 Bocskaytanya
-Bocskorér
+BocskorÃ©r
 Bocskor-hegy
 Bocskor-kert
-Bocskoroskúti Dûlõ
-Bocskoroskút
-Bõcs
+BocskoroskÃºti DÅ±lÅ‘
+BocskoroskÃºt
+BÅ‘cs
 Bocsotamajor
 Bocsota
-Bocsútanya
-Bodácstanya
-Bodácstelek
-Bodadûlõ
+BocsÃºtanya
+BodÃ¡cstanya
+BodÃ¡cstelek
+BodadÅ±lÅ‘
 Bodahegyes
-Bodai-szõlõs-kert
-Bódaitanya
+Bodai-szÅ‘lÅ‘s-kert
+BÃ³daitanya
 Bodajkhegy
 Bodajki-hegy
 Bodajk
-Bodakajtor-Felsõszentiván
+Bodakajtor-FelsÅ‘szentivÃ¡n
 Bodakajtor
-Bodakút
+BodakÃºt
 Boda
-Bodaszõllõ
-Bodaszõlõ
+BodaszÅ‘llÅ‘
+BodaszÅ‘lÅ‘
 Bodatanya
 Bodaytanya
 Boda-zug
-Bödbakod
-Bödd-Bakod
-Bödeháza
-Bödemajor
-Bódé
-Böde
-Bodicsi Tanyák
+BÃ¶dbakod
+BÃ¶dd-Bakod
+BÃ¶dehÃ¡za
+BÃ¶demajor
+BÃ³dÃ©
+BÃ¶de
+Bodicsi TanyÃ¡k
 Bodics
 Bodicstanya
-Bódi-hát
-Bódishát
-Bódistanya
-Bóditanya
-Bõditanya
-Bóditelep
-Bódizug
-Bódizugújtanya
-Bodmér
-Bodnárdûlõ
-Bodnártanya
-Bödöcök
-Bödöcökpuszta
-Bódoghtanya
-Bodoglár
-Bodóháza
-Bodó-hegy
-Bodóhegy
-Bödõhegy
-Bodolyabér
-Bodolyó
-Bodolyó-rét
-Bödönhát
+BÃ³di-hÃ¡t
+BÃ³dishÃ¡t
+BÃ³distanya
+BÃ³ditanya
+BÅ‘ditanya
+BÃ³ditelep
+BÃ³dizug
+BÃ³dizugÃºjtanya
+BodmÃ©r
+BodnÃ¡rdÅ±lÅ‘
+BodnÃ¡rtanya
+BÃ¶dÃ¶cÃ¶k
+BÃ¶dÃ¶cÃ¶kpuszta
+BÃ³doghtanya
+BodoglÃ¡r
+BodÃ³hÃ¡za
+BodÃ³-hegy
+BodÃ³hegy
+BÃ¶dÅ‘hegy
+BodolyabÃ©r
+BodolyÃ³
+BodolyÃ³-rÃ©t
+BÃ¶dÃ¶nhÃ¡t
 Bodonhely
-Bodonkút
-Bodonos-kút-dûlõ
-Bodonoskút
-Bödõ
+BodonkÃºt
+Bodonos-kÃºt-dÅ±lÅ‘
+BodonoskÃºt
+BÃ¶dÅ‘
 Bodony
 Bodorfa
 Bodor-hegy
-Bodor-kút-dûlõ
-Bodorkút
-Bodorszék
+Bodor-kÃºt-dÅ±lÅ‘
+BodorkÃºt
+BodorszÃ©k
 Bodortanya
-Bodó-tag
-Bodótanya
-Bodó-tetõ
-Bodóvölgy
-Bodrás Hegy
+BodÃ³-tag
+BodÃ³tanya
+BodÃ³-tetÅ‘
+BodÃ³vÃ¶lgy
+BodrÃ¡s Hegy
 Bodritanya
 Bodroghalom
-Bodrogkeresztúr
+BodrogkeresztÃºr
 Bodrogkisfalud
-Bodrogköz
+BodrogkÃ¶z
 Bodrog
 Bodrogolaszi
 Bodrogszegi
-Bodrogzsadány
+BodrogzsadÃ¡ny
 Bodrok
-Bódvai-patak
-Bódvaj
-Bódvaj-patak
-Bódvalenke
-Bódvarákó
-Bódvaszilas
-Bódvavendégi
+BÃ³dvai-patak
+BÃ³dvaj
+BÃ³dvaj-patak
+BÃ³dvalenke
+BÃ³dvarÃ¡kÃ³
+BÃ³dvaszilas
+BÃ³dvavendÃ©gi
 Bodvica
-Bódytanya
-Bódytelep
+BÃ³dytanya
+BÃ³dytelep
 Bodzamalom
-Bodzás-dûlõ
-Bodzás Hegy
-Bodzás
-Bodzástanyák
-Bodzástanya
-Bodzászugi Major
-Bodzás-zug
-Bõfok
-Bogácsi-patak
-Bogács
-Bogádmindszent
-Bogád
-Bogáncs-dûlõ
-Bogaras-dûlõ
+BodzÃ¡s-dÅ±lÅ‘
+BodzÃ¡s Hegy
+BodzÃ¡s
+BodzÃ¡stanyÃ¡k
+BodzÃ¡stanya
+BodzÃ¡szugi Major
+BodzÃ¡s-zug
+BÅ‘fok
+BogÃ¡csi-patak
+BogÃ¡cs
+BogÃ¡dmindszent
+BogÃ¡d
+BogÃ¡ncs-dÅ±lÅ‘
+Bogaras-dÅ±lÅ‘
 Bogaras
-Bogarasszõlõ
-Bogárd
+BogarasszÅ‘lÅ‘
+BogÃ¡rd
 Bogaros
-Bogárzó-csatorna
-Bogárzói Tanyák
-Bogárzók
-Bogárzó
-Bogárzótanya
-Bogárzó-tó
-Bogárzó Tó
+BogÃ¡rzÃ³-csatorna
+BogÃ¡rzÃ³i TanyÃ¡k
+BogÃ¡rzÃ³k
+BogÃ¡rzÃ³
+BogÃ¡rzÃ³tanya
+BogÃ¡rzÃ³-tÃ³
+BogÃ¡rzÃ³ TÃ³
 Bogatanya
-Bogátimajor
-Bogát Köze
-Bogátközetanya
-Bogátközitanya
-Bogdántag
-Bogdántanya
-Bogdán Tanya
-Bogdán-tetõ
-Bogdány-halom
-Bogdányi Ér
-Bogdánytanya
-Bogdány-tó
-Bogdása
-Bögi-dûlõ
-Bögi Szõllõ
-Bögi-szõlõ
-Boglárlelle
+BogÃ¡timajor
+BogÃ¡t KÃ¶ze
+BogÃ¡tkÃ¶zetanya
+BogÃ¡tkÃ¶zitanya
+BogdÃ¡ntag
+BogdÃ¡ntanya
+BogdÃ¡n Tanya
+BogdÃ¡n-tetÅ‘
+BogdÃ¡ny-halom
+BogdÃ¡nyi Ã‰r
+BogdÃ¡nytanya
+BogdÃ¡ny-tÃ³
+BogdÃ¡sa
+BÃ¶gi-dÅ±lÅ‘
+BÃ¶gi SzÅ‘llÅ‘
+BÃ¶gi-szÅ‘lÅ‘
+BoglÃ¡rlelle
 Boglya Major
-Boglyásdûlõ
+BoglyÃ¡sdÅ±lÅ‘
 Boglyashegy
-Boglyáslengés-dûlõ
+BoglyÃ¡slengÃ©s-dÅ±lÅ‘
 Boglyaspuszta
 Boglyatanya
 Boglyodka
 Boglyotka
-Bognárház
-Bõgõ-domb
-Bõgõhíd
-Bõgöly-hegy
-Bõgõtanya
-Bögöte
-Bögötimajor
-Bögötmajor
-Bögöt
-Bogrács-hegy
-Bograihatár
+BognÃ¡rhÃ¡z
+BÅ‘gÅ‘-domb
+BÅ‘gÅ‘hÃ­d
+BÅ‘gÃ¶ly-hegy
+BÅ‘gÅ‘tanya
+BÃ¶gÃ¶te
+BÃ¶gÃ¶timajor
+BÃ¶gÃ¶tmajor
+BÃ¶gÃ¶t
+BogrÃ¡cs-hegy
+BograihatÃ¡r
 Bograoldal
 Bograpuszta
 Bogyai-tanya
 Bogyatanya
 Bogyaytanya
-Bogyiszló
-Bogyoszló
-Bohácstag
-Böhmhízlalda
-Bohnyat-dûlõ
-Böhönye
-Bojadûlõk
-Bojadûlõ
-Bojár-halom
-Bojár-Hollós
-Bojár
-Bojtártelek
-Bojtártelep
+BogyiszlÃ³
+BogyoszlÃ³
+BohÃ¡cstag
+BÃ¶hmhÃ­zlalda
+Bohnyat-dÅ±lÅ‘
+BÃ¶hÃ¶nye
+BojadÅ±lÅ‘k
+BojadÅ±lÅ‘
+BojÃ¡r-halom
+BojÃ¡r-HollÃ³s
+BojÃ¡r
+BojtÃ¡rtelek
+BojtÃ¡rtelep
 Bojt
 Bojtortanya
 Bojtostanya
-Bókaháza
-Bókaházi Hegy
+BÃ³kahÃ¡za
+BÃ³kahÃ¡zi Hegy
 Boka-hegy
-Bókai Tó
-Bókatanya
-Bökény
-Bokerdõ
-Bók-hegy
-Bokodi-hûtõtó
-Bokodi-Kígyós-csatorna
+BÃ³kai TÃ³
+BÃ³katanya
+BÃ¶kÃ©ny
+BokerdÅ‘
+BÃ³k-hegy
+Bokodi-hÅ±tÅ‘tÃ³
+Bokodi-KÃ­gyÃ³s-csatorna
 Bokodi-malom
-Bokodi-tó
-Bokodi-víztároló
+Bokodi-tÃ³
+Bokodi-vÃ­ztÃ¡rolÃ³
 Bokod
 Bokodpuszta
-Bököny
-Bokorér
+BÃ¶kÃ¶ny
+BokorÃ©r
 Bokorhegyi Tanya
 Bokorhegy
 Bokoripuszta
 Bokor
 Bokortanya
 Bokri-hegy
-Bokrosdûlõ
+BokrosdÅ±lÅ‘
 Bokros
-Bokrospartitanyák
+BokrospartitanyÃ¡k
 Bokrospuszta
-Bokros Tetõ
-Bölcsföldpuszta
-Bölcsipuszta
-Bölcske
-Bölcsõ-hegy
+Bokros TetÅ‘
+BÃ¶lcsfÃ¶ldpuszta
+BÃ¶lcsipuszta
+BÃ¶lcske
+BÃ¶lcsÅ‘-hegy
 Boldogasszonyfa
-Boldogasszonyi-tó
+Boldogasszonyi-tÃ³
 Boldogasszonymajor
 Boldogasszonypuszta
-Boldogháza
-Boldogházi-dûlõ
-Boldogkáta
-Boldogkáta-puszta
-Boldogkõújfalu
-Boldogkõváralja
+BoldoghÃ¡za
+BoldoghÃ¡zi-dÅ±lÅ‘
+BoldogkÃ¡ta
+BoldogkÃ¡ta-puszta
+BoldogkÅ‘Ãºjfalu
+BoldogkÅ‘vÃ¡ralja
 Boldog
-Boldogszék
-Boldog-szög
+BoldogszÃ©k
+Boldog-szÃ¶g
 Boldogtanya
 Boldva
 Bolemanntanya
-Bolgánymajor
-Bolgánypuszta
-Bolgárkertitanyák
-Bolgárkert
-Bolgártelep
+BolgÃ¡nymajor
+BolgÃ¡nypuszta
+BolgÃ¡rkertitanyÃ¡k
+BolgÃ¡rkert
+BolgÃ¡rtelep
 Bolha-hegy
-Bolhás
-Bolháspartdûlõ
-Bolháspart
+BolhÃ¡s
+BolhÃ¡spartdÅ±lÅ‘
+BolhÃ¡spart
 Bolhatanya
-Bolhó
-Bollakút
-Bollóalja
+BolhÃ³
+BollakÃºt
+BollÃ³alja
 Bolmogyer
 Bolnoka
-Bolnoka-tetõ
-Bolondvári Hegy
-Bolondváritanya
-Bolváriszállás
-Bolváritanya
-Bolvárytanya
-Bólya-bérc
+Bolnoka-tetÅ‘
+BolondvÃ¡ri Hegy
+BolondvÃ¡ritanya
+BolvÃ¡riszÃ¡llÃ¡s
+BolvÃ¡ritanya
+BolvÃ¡rytanya
+BÃ³lya-bÃ©rc
 Bolyai-patak
-Bóly Állomás
-Bólyapuszta
-Bólya-tanya
-Bolye-gyep-dûlõ
+BÃ³ly ÃllomÃ¡s
+BÃ³lyapuszta
+BÃ³lya-tanya
+Bolye-gyep-dÅ±lÅ‘
 Bolyhegy
-Bólyi Tanyák
-Bóly
+BÃ³lyi TanyÃ¡k
+BÃ³ly
 Bolyok
-Bolyókpuszta
+BolyÃ³kpuszta
 Bolypart
 Bolypuszta
 Bolza-major
 Bolza
-Bolzatanyák
-Bomberház
+BolzatanyÃ¡k
+BomberhÃ¡z
 Bonac-tanya
-Bonaj-tó
+Bonaj-tÃ³
 Bonc-hegy
-Boncodfölde
-Boncos-tetõ
+BoncodfÃ¶lde
+Boncos-tetÅ‘
 Boncsod-major
 Boncsod
 Boncsodpuszta
 Boncsok-hegy
 Boncsok
-Boncsos-tetõ
-Bonczodfölde
-Bónéstanya
-Bónézug
-Bóni-láp
-Bónistanya
-Bonnártanya
+Boncsos-tetÅ‘
+BonczodfÃ¶lde
+BÃ³nÃ©stanya
+BÃ³nÃ©zug
+BÃ³ni-lÃ¡p
+BÃ³nistanya
+BonnÃ¡rtanya
 Bonnya
 Bonnyapuszta
-Bónom-zug
-Bõ
-Böntag
-Bónumitanyák
+BÃ³nom-zug
+BÅ‘
+BÃ¶ntag
+BÃ³numitanyÃ¡k
 Bonum-tanya
-Bonyhádi Hegy
-Bonyhád
-Bonyhádszerdahely
-Bonyhád-Tabód-szerdahely
-Bonyhádvarasd
-Bõny
-Bõnyrétalap
-Boóg
-Borbála-kert
-Borbála-major
-Borbála
-Borbálapuszta
-Borbálatelep
-Borbánya Házhely
-Borbánya László-csere
-Borbánya
+BonyhÃ¡di Hegy
+BonyhÃ¡d
+BonyhÃ¡dszerdahely
+BonyhÃ¡d-TabÃ³d-szerdahely
+BonyhÃ¡dvarasd
+BÅ‘ny
+BÅ‘nyrÃ©talap
+BoÃ³g
+BorbÃ¡la-kert
+BorbÃ¡la-major
+BorbÃ¡la
+BorbÃ¡lapuszta
+BorbÃ¡latelep
+BorbÃ¡nya HÃ¡zhely
+BorbÃ¡nya LÃ¡szlÃ³-csere
+BorbÃ¡nya
 Borbapuszta
-Borbás
-Borbás-tó
-Borbélydûlõ
-Borbélymajor
-Borbélyrét
-Borbélytanyák
-Borbélytanya
-Börcs
-Borda-bérc
+BorbÃ¡s
+BorbÃ¡s-tÃ³
+BorbÃ©lydÅ±lÅ‘
+BorbÃ©lymajor
+BorbÃ©lyrÃ©t
+BorbÃ©lytanyÃ¡k
+BorbÃ©lytanya
+BÃ¶rcs
+Borda-bÃ©rc
 Borda-hegy
-Bordánydûlõ
-Bordány
-Bordástanya
-Bordatetõtanya
-Bõrdec
-Bördecpuszta
-Bördöcze
-Börevár
-Borgáta
-Börgõi Tó
-Börgönd
-Bõr-hegy
-Borhyalsótanya
-Borhyfelsõtanya
+BordÃ¡nydÅ±lÅ‘
+BordÃ¡ny
+BordÃ¡stanya
+BordatetÅ‘tanya
+BÅ‘rdec
+BÃ¶rdecpuszta
+BÃ¶rdÃ¶cze
+BÃ¶revÃ¡r
+BorgÃ¡ta
+BÃ¶rgÅ‘i TÃ³
+BÃ¶rgÃ¶nd
+BÅ‘r-hegy
+BorhyalsÃ³tanya
+BorhyfelsÅ‘tanya
 Borhytanya
 Boris-telek
-Boriszházi Dûlõ
-Borivölgy Feje
-Bori-völgyfõ
-Borjádi-major
-Borjád
-Borjajárás
-Borjúdûlõi Tanyák
-Borjú-hegy
-Borjújárásdûlõ
-Borjújárás
-Borjúkút
-Börköskút
-Borkút
-Bormász
-Bormászpuszta
+BoriszhÃ¡zi DÅ±lÅ‘
+BorivÃ¶lgy Feje
+Bori-vÃ¶lgyfÅ‘
+BorjÃ¡di-major
+BorjÃ¡d
+BorjajÃ¡rÃ¡s
+BorjÃºdÅ±lÅ‘i TanyÃ¡k
+BorjÃº-hegy
+BorjÃºjÃ¡rÃ¡sdÅ±lÅ‘
+BorjÃºjÃ¡rÃ¡s
+BorjÃºkÃºt
+BÃ¶rkÃ¶skÃºt
+BorkÃºt
+BormÃ¡sz
+BormÃ¡szpuszta
 Bornyei Hegy
-Borockás
-Boróka-hegy
-Borókaidûlõ
-Borókáspuszta
-Böröllõ
-Böröllõpuszta
-Börönd
+BorockÃ¡s
+BorÃ³ka-hegy
+BorÃ³kaidÅ±lÅ‘
+BorÃ³kÃ¡spuszta
+BÃ¶rÃ¶llÅ‘
+BÃ¶rÃ¶llÅ‘puszta
+BÃ¶rÃ¶nd
 Boronkai-csatorna
 Boronkai-patak
-Boronkai-vízfolyás
+Boronkai-vÃ­zfolyÃ¡s
 Boronka
 Boronkaypuszta
-Borosberény
+BorosberÃ©ny
 Boros Domb
-Borosdûlõ
-Borosgyán
+BorosdÅ±lÅ‘
+BorosgyÃ¡n
 Boroska
-Boroskaszõllõk
+BoroskaszÅ‘llÅ‘k
 Borosstanya
-Borosszék
+BorosszÃ©k
 Boros-tanya
 Borostanya
-Borostás Hegy
-Boros-tó
-Borostyán
-Borostyános-bérc
-Borostyánpuszta
-Boroszló
-Boroszlótanya
+BorostÃ¡s Hegy
+Boros-tÃ³
+BorostyÃ¡n
+BorostyÃ¡nos-bÃ©rc
+BorostyÃ¡npuszta
+BoroszlÃ³
+BoroszlÃ³tanya
 Borosz-tanya
-Borotai Szõllõ-hegy
-Borotai Szõlõ-hegy
-Borotai Tanyák
+Borotai SzÅ‘llÅ‘-hegy
+Borotai SzÅ‘lÅ‘-hegy
+Borotai TanyÃ¡k
 Borota
-Borotvástelep
-Borsadûlõ
-Borsányipuszta
-Borsányitanya
-Borsfai Hegyhát
+BorotvÃ¡stelep
+BorsadÅ±lÅ‘
+BorsÃ¡nyipuszta
+BorsÃ¡nyitanya
+Borsfai HegyhÃ¡t
 Borsfai-patak
 Borsfa
 Borshalom
@@ -2756,179 +2756,179 @@ Borsihalom
 Borsi Patak
 Borsitanya
 Borsod-Abauj Zemplen County
-Borsod-Abaúj-Zemplén Megye
-Borsod-Abaúj-Zemplén
-Borsodbóta
-Borsódföldekdûlõ
+Borsod-AbaÃºj-ZemplÃ©n Megye
+Borsod-AbaÃºj-ZemplÃ©n
+BorsodbÃ³ta
+BorsÃ³dfÃ¶ldekdÅ±lÅ‘
 Borsodgeszt
-Borsod-Gömöri-medence
-Borsodi-dombság
+Borsod-GÃ¶mÃ¶ri-medence
+Borsodi-dombsÃ¡g
 Borsodi-medence
-Borsodi-Mezõség
+Borsodi-MezÅ‘sÃ©g
 Borsoditanya
-Borsodivánka
-Borsodnádasd
+BorsodivÃ¡nka
+BorsodnÃ¡dasd
 Borsod
 Borsodpuszta
 Borsodszemere
-Borsodszentgyörgy
-Borsodszentmárton
-Borsodszirák
+BorsodszentgyÃ¶rgy
+BorsodszentmÃ¡rton
+BorsodszirÃ¡k
 Borsodymajor
-Borsó-föld
-Borsóhalma
-Borsóhalomdûlõ
-Borsó-hegy
-Borsosberény
-Borsosgyõr
-Borsoshát
-Borsoshátpuszta
-Borsosi-tó
-Borsosi-víztároló
-Borsós
-Borsósoldal
+BorsÃ³-fÃ¶ld
+BorsÃ³halma
+BorsÃ³halomdÅ±lÅ‘
+BorsÃ³-hegy
+BorsosberÃ©ny
+BorsosgyÅ‘r
+BorsoshÃ¡t
+BorsoshÃ¡tpuszta
+Borsosi-tÃ³
+Borsosi-vÃ­ztÃ¡rolÃ³
+BorsÃ³s
+BorsÃ³soldal
 Borsostanya
-Borsó-tag
-Borsó-zug
+BorsÃ³-tag
+BorsÃ³-zug
 Bors-patak
 Borsytanya
-Borszörcsök
-Bortikúti Dûlõ
+BorszÃ¶rcsÃ¶k
+BortikÃºti DÅ±lÅ‘
 Borytanya
 Borza
 Borza-patak
 Borzashegymajor
-Borzásmajor
+BorzÃ¡smajor
 Borzas
-Borzás
+BorzÃ¡s
 Borzas-patak
-Borzáspuszta
-Borzavári Major
-Borzavár
+BorzÃ¡spuszta
+BorzavÃ¡ri Major
+BorzavÃ¡r
 Borz-hegy
-Borzidûlõ
+BorzidÅ±lÅ‘
 Borziktanya
 Borzitagtanya
-Borzóctanya
-Borzócztanya
+BorzÃ³ctanya
+BorzÃ³cztanya
 Borzok-hegy
 Borzoktanya
-Börzöncei-hegy
-Börzönce
-Börzön-major
-Borzó
-Börzönpuszta
-Borzó-patak
+BÃ¶rzÃ¶ncei-hegy
+BÃ¶rzÃ¶nce
+BÃ¶rzÃ¶n-major
+BorzÃ³
+BÃ¶rzÃ¶npuszta
+BorzÃ³-patak
 Borzostanya
 Borzsa-hegy
-Börzsöny-hegység
-Börzsönyi Hegység
-Börzsönyipatak
-Börzsönyliget
-Börzsöny
-Börzsöny-patak
+BÃ¶rzsÃ¶ny-hegysÃ©g
+BÃ¶rzsÃ¶nyi HegysÃ©g
+BÃ¶rzsÃ¶nyipatak
+BÃ¶rzsÃ¶nyliget
+BÃ¶rzsÃ¶ny
+BÃ¶rzsÃ¶ny-patak
 Borzsovatanya
-Bõsárkány
-Bosbánya Szõllõ
-Bosnyáktanya
+BÅ‘sÃ¡rkÃ¡ny
+BosbÃ¡nya SzÅ‘llÅ‘
+BosnyÃ¡ktanya
 Bosta
-Bõszénfa
-Boszintó-puszta
-Boszintótanya
-Bõszobi-patak
-Bõszob
-Bõszob-puszta
-Boszorkányhányás
-Bösztörics
-Bösztör
-Bóta
-Bótapuszta
+BÅ‘szÃ©nfa
+BoszintÃ³-puszta
+BoszintÃ³tanya
+BÅ‘szobi-patak
+BÅ‘szob
+BÅ‘szob-puszta
+BoszorkÃ¡nyhÃ¡nyÃ¡s
+BÃ¶sztÃ¶rics
+BÃ¶sztÃ¶r
+BÃ³ta
+BÃ³tapuszta
 Botfa
 Bothmerpuszta
-Bótiföldek
-Bótiszállás
-Botkaháza
+BÃ³tifÃ¶ldek
+BÃ³tiszÃ¡llÃ¡s
+BotkahÃ¡za
 Botkatanya
-Botkõalj
+BotkÅ‘alj
 Bot
-Botonddûlõ
+BotonddÅ±lÅ‘
 Botosa
-Botosdûlõ
+BotosdÅ±lÅ‘
 Botos-halom
 Botosi-halom
 Botos
-Botpalád
+BotpalÃ¡d
 Botpuszta
 Bottkamajor
-Bottyán-hegy
-Bottyán Hegy
-Botyán Hegy
+BottyÃ¡n-hegy
+BottyÃ¡n Hegy
+BotyÃ¡n Hegy
 Botykapeterd
-Bovárdûlõ
-Bováridûlõ
-Bõvehalom
+BovÃ¡rdÅ±lÅ‘
+BovÃ¡ridÅ±lÅ‘
+BÅ‘vehalom
 Bozoktanya
-Bozót
-Bozót-patak
-Bozót Posa
-Bozsókertidûlõ
+BozÃ³t
+BozÃ³t-patak
+BozÃ³t Posa
+BozsÃ³kertidÅ±lÅ‘
 Bozsoki-hegy
 Bozsokihegy
 Bozsoki-patak
 Bozsok
-Bózsva
-Bózsva-patak
-Bózsvapuszta
-Bózsva-tanya
+BÃ³zsva
+BÃ³zsva-patak
+BÃ³zsvapuszta
+BÃ³zsva-tanya
 Bozzai
-Brachmadûlõ
-Brassó-halom
-Brassó-zug
+BrachmadÅ±lÅ‘
+BrassÃ³-halom
+BrassÃ³-zug
 Brauntanya
 Breda
-Brennbergbánya
+BrennbergbÃ¡nya
 Brenzalja
 Brenzaljatelep
-Brezenszkydûlõ
+BrezenszkydÅ±lÅ‘
 Brezinapuszta
 Brezovaitanya
 Brezovatanya
 Brezovaytanya
 Brindza
 Brindzatanya
-Bródpuszta
-Brodroghalász
-Búbereki-patak
+BrÃ³dpuszta
+BrodroghalÃ¡sz
+BÃºbereki-patak
 Bubiktanya
-Bubó-hegy
-Búboshalomdûlõ
-Buckadûlõ
-Buckák
+BubÃ³-hegy
+BÃºboshalomdÅ±lÅ‘
+BuckadÅ±lÅ‘
+BuckÃ¡k
 Bucka
 Buckapuszta
-Buckatanyák
+BuckatanyÃ¡k
 Buckatanya
 Buckatelep
 Bucsa
-Bucsánypuszta
-Búcsú-halom
+BucsÃ¡nypuszta
+BÃºcsÃº-halom
 Bucsu
-Bucsuszentlászló
+BucsuszentlÃ¡szlÃ³
 Bucsuta
-Bucujirtás
-Buczuj-irtás
-Budaábrányi Rész
-Budaábrány
+BucujirtÃ¡s
+Buczuj-irtÃ¡s
+BudaÃ¡brÃ¡nyi RÃ©sz
+BudaÃ¡brÃ¡ny
 Budaberkepuszta
 Budafa
 Budafapuszta
 Budafok-Albertfalva
-Budafok-Belváros
-Budafok-Háros
+Budafok-BelvÃ¡ros
+Budafok-HÃ¡ros
 Budafok
-Budaháttanya
-Budaházitanya
-Budaházytanya
+BudahÃ¡ttanya
+BudahÃ¡zitanya
+BudahÃ¡zytanya
 Buda-hegy
 Budahegy
 Budahomok
@@ -2936,274 +2936,274 @@ Buda Homok Tanya
 Budai-hegyek
 Budaihegy
 Budai Hegy
-Budai-hegység
+Budai-hegysÃ©g
 Budai-Pilis-hegy
-Budai-Pilisi-hegység
-Budai Út Állomás
-Budai Út
-Budaivölgy
-Budajenõ
-Budakalász Felsõ
-Budakalász Lenfonógyár
-Budakalász Lenfonó
-Budakalász
-Budakeszierdõ
+Budai-Pilisi-hegysÃ©g
+Budai Ãšt ÃllomÃ¡s
+Budai Ãšt
+BudaivÃ¶lgy
+BudajenÅ‘
+BudakalÃ¡sz FelsÅ‘
+BudakalÃ¡sz LenfonÃ³gyÃ¡r
+BudakalÃ¡sz LenfonÃ³
+BudakalÃ¡sz
+BudakeszierdÅ‘
 Budakeszi
 Buda
-Budaörsi-hegy
-Budaörs
-Budapest-Angyalföld
-Budapest-Déli Pályaudvar
-Budapest-Dunapart Teher Pályaudvar
-Budapest-Ferencváros
-Budapest Fõváros
-Budapest III. kerület
-Budapest II. kerület
-Budapest I. kerület
-Budapest IV. kerület
-Budapest IX. kerület
-Budapest-Józsefváros
-Budapest-Kelenföld Pályaudvar
-Budapest-Keleti Pályaudvar
-Budapest-Kerepesi Út
+BudaÃ¶rsi-hegy
+BudaÃ¶rs
+Budapest-AngyalfÃ¶ld
+Budapest-DÃ©li PÃ¡lyaudvar
+Budapest-Dunapart Teher PÃ¡lyaudvar
+Budapest-FerencvÃ¡ros
+Budapest FÅ‘vÃ¡ros
+Budapest III. kerÃ¼let
+Budapest II. kerÃ¼let
+Budapest I. kerÃ¼let
+Budapest IV. kerÃ¼let
+Budapest IX. kerÃ¼let
+Budapest-JÃ³zsefvÃ¡ros
+Budapest-KelenfÃ¶ld PÃ¡lyaudvar
+Budapest-Keleti PÃ¡lyaudvar
+Budapest-Kerepesi Ãšt
 Budapest
-Budapest-Nyugati Pályaudvar
-Budapest-Soroksári Út
-Budapest-Üröm
-Budapest-Vágóhíd
-Budapest VIII. kerület
-Budapest VII. kerület
-Budapest VI. kerület
-Budapest V. kerület
-Budapest XIII. kerület
-Budapest XII. kerület
-Budapest XI. kerület
-Budapest XIV. kerület
-Budapest XIX. kerület
-Budapest X. kerület
-Budapest XVIII. kerület
-Budapest XVII. kerület
-Budapest XVI. kerület
-Budapest XV. kerület
-Budapest XXIII. kerület
-Budapest XXII. kerület
-Budapest XXI. kerület
-Budapest XX. kerület
-Budapest-Zugló
-Budatava-fürdõ
+Budapest-Nyugati PÃ¡lyaudvar
+Budapest-SoroksÃ¡ri Ãšt
+Budapest-ÃœrÃ¶m
+Budapest-VÃ¡gÃ³hÃ­d
+Budapest VIII. kerÃ¼let
+Budapest VII. kerÃ¼let
+Budapest VI. kerÃ¼let
+Budapest V. kerÃ¼let
+Budapest XIII. kerÃ¼let
+Budapest XII. kerÃ¼let
+Budapest XI. kerÃ¼let
+Budapest XIV. kerÃ¼let
+Budapest XIX. kerÃ¼let
+Budapest X. kerÃ¼let
+Budapest XVIII. kerÃ¼let
+Budapest XVII. kerÃ¼let
+Budapest XVI. kerÃ¼let
+Budapest XV. kerÃ¼let
+Budapest XXIII. kerÃ¼let
+Budapest XXII. kerÃ¼let
+Budapest XXI. kerÃ¼let
+Budapest XX. kerÃ¼let
+Budapest-ZuglÃ³
+Budatava-fÃ¼rdÅ‘
 Budatava
-Budatétény
-Budavölgyi Tanya
-Bûdi Hegy
+BudatÃ©tÃ©ny
+BudavÃ¶lgyi Tanya
+BÅ±di Hegy
 Budnyai Patak
 Budnya
 Budnya-patak
 Budnyapuszta
 Budoga-hegy
-Büdösárok
-Büdös-domb
-Büdösgáti Vís
-Büdös-gáti-vízfolyás
-Büdös-gáti-víz
-Büdös-halom
-Büdöshegy
-Büdöskútmajor
-Büdöskútpuszta
-Büdöslaposidûlõ
-Büdöslapos
-Büdös Lapos
-Büdös-lápos
-Büdös-szék
-Büdöstanya
-Büdöstódûlõ
-Büdöstó
-Büdös Tó
-Bûdszentmihály
-Budzsák
-Bugac Állomás
-Bugac Felsõ
+BÃ¼dÃ¶sÃ¡rok
+BÃ¼dÃ¶s-domb
+BÃ¼dÃ¶sgÃ¡ti VÃ­s
+BÃ¼dÃ¶s-gÃ¡ti-vÃ­zfolyÃ¡s
+BÃ¼dÃ¶s-gÃ¡ti-vÃ­z
+BÃ¼dÃ¶s-halom
+BÃ¼dÃ¶shegy
+BÃ¼dÃ¶skÃºtmajor
+BÃ¼dÃ¶skÃºtpuszta
+BÃ¼dÃ¶slaposidÅ±lÅ‘
+BÃ¼dÃ¶slapos
+BÃ¼dÃ¶s Lapos
+BÃ¼dÃ¶s-lÃ¡pos
+BÃ¼dÃ¶s-szÃ©k
+BÃ¼dÃ¶stanya
+BÃ¼dÃ¶stÃ³dÅ±lÅ‘
+BÃ¼dÃ¶stÃ³
+BÃ¼dÃ¶s TÃ³
+BÅ±dszentmihÃ¡ly
+BudzsÃ¡k
+Bugac ÃllomÃ¡s
+Bugac FelsÅ‘
 Bugaci-puszta
 Bugacmonostor
 Bugac
-Bugacpusztaháza
+BugacpusztahÃ¡za
 Bugac Steppe
-Bugáttanya
-Bügedûlõ
-Büge
-Büglertanya
+BugÃ¡ttanya
+BÃ¼gedÅ±lÅ‘
+BÃ¼ge
+BÃ¼glertanya
 Buglyoska
-Buglyótanya
+BuglyÃ³tanya
 Bugyikos
 Bugyi
 Bugyitanya
-Bugyi-tó
-Bugyogó
-Bugyogószél
-Búhegydûlõ
-Búhegy
+Bugyi-tÃ³
+BugyogÃ³
+BugyogÃ³szÃ©l
+BÃºhegydÅ±lÅ‘
+BÃºhegy
 Buhim
 Buhinpuszta
 Buhtatanya
-Bujáki-patak
-Buják
+BujÃ¡ki-patak
+BujÃ¡k
 Bujatanya
 Buj
-Buki Csárda
-Büki-hegy
-Büki Hegy
+Buki CsÃ¡rda
+BÃ¼ki-hegy
+BÃ¼ki Hegy
 Buki
-Bükkábrány
-Bükk Aljai Patak
-Bükkalja
-Bükkaranyos
-Bükkfej
-Bükk-fennsík
-Bükk-fõ
-Bükk-hát-erdõ
-Bükkháti Erdõ
-Bükk-hát
-Bükk-hegy
-Bükk Hegység
-Bükkiház
-Bükkipuszta
-Bükkmogyorósd
-Bükk
-Bükkösdi-víz
-Bükkösd
-Bükkös-Mátra
-Bükkös-patak
-Bükkös-tetõ
-Bükk Pataka
-Bükk-patak
-Bükk-planina
-Bükkpuszta
-Bükkszék
-Bükkszenterzsébet
-Bükkszentkereszt
-Bükkszentlászló
-Bükkszentmárton
-Bükk-tetõ
-Bükkvölgy
-Bükkzsérc
-Bük
+BÃ¼kkÃ¡brÃ¡ny
+BÃ¼kk Aljai Patak
+BÃ¼kkalja
+BÃ¼kkaranyos
+BÃ¼kkfej
+BÃ¼kk-fennsÃ­k
+BÃ¼kk-fÅ‘
+BÃ¼kk-hÃ¡t-erdÅ‘
+BÃ¼kkhÃ¡ti ErdÅ‘
+BÃ¼kk-hÃ¡t
+BÃ¼kk-hegy
+BÃ¼kk HegysÃ©g
+BÃ¼kkihÃ¡z
+BÃ¼kkipuszta
+BÃ¼kkmogyorÃ³sd
+BÃ¼kk
+BÃ¼kkÃ¶sdi-vÃ­z
+BÃ¼kkÃ¶sd
+BÃ¼kkÃ¶s-MÃ¡tra
+BÃ¼kkÃ¶s-patak
+BÃ¼kkÃ¶s-tetÅ‘
+BÃ¼kk Pataka
+BÃ¼kk-patak
+BÃ¼kk-planina
+BÃ¼kkpuszta
+BÃ¼kkszÃ©k
+BÃ¼kkszenterzsÃ©bet
+BÃ¼kkszentkereszt
+BÃ¼kkszentlÃ¡szlÃ³
+BÃ¼kkszentmÃ¡rton
+BÃ¼kk-tetÅ‘
+BÃ¼kkvÃ¶lgy
+BÃ¼kkzsÃ©rc
+BÃ¼k
 Bukor Hegy
-Bukszártanya
-Bûkút
-Bulátpuszta
-Bulgártanya
-Bundásbokor
-Bundási Sor
-Bundaszáritószõllõ
-Bundaszárítószõlõ
+BukszÃ¡rtanya
+BÅ±kÃºt
+BulÃ¡tpuszta
+BulgÃ¡rtanya
+BundÃ¡sbokor
+BundÃ¡si Sor
+BundaszÃ¡ritÃ³szÅ‘llÅ‘
+BundaszÃ¡rÃ­tÃ³szÅ‘lÅ‘
 Bundasziget
-Büngösdi-csatorna
-Büngösdi Ér
-Büngösd
-Buráriház
-Burgundia-völgy
+BÃ¼ngÃ¶sdi-csatorna
+BÃ¼ngÃ¶sdi Ã‰r
+BÃ¼ngÃ¶sd
+BurÃ¡rihÃ¡z
+Burgundia-vÃ¶lgy
 Buricsmalom
 Buritanya
-Bürkös
-Burkusdûlõ
-Burnóti Patak
-Burnót-patak
+BÃ¼rkÃ¶s
+BurkusdÅ±lÅ‘
+BurnÃ³ti Patak
+BurnÃ³t-patak
 Burok-hegy
-Burok-völgy
+Burok-vÃ¶lgy
 Burospuszta
-Bürüs
-Búsfeketepuszta
-Bús-hegy
-Buskai-földek
+BÃ¼rÃ¼s
+BÃºsfeketepuszta
+BÃºs-hegy
+Buskai-fÃ¶ldek
 Buska
-Búslak-major
-Búslakmajor
-Búslakpuszta
-Búsmajor
-Büssü Hegy
-Büssü
-Bús-tanya
-Bústanya
-Búsvári Õrház
-Búsvár
-Búszermalom
-Bútelek
-Bútelektanya
-Bütetanya
-Bûthátdûlõ
-Bût-hát
+BÃºslak-major
+BÃºslakmajor
+BÃºslakpuszta
+BÃºsmajor
+BÃ¼ssÃ¼ Hegy
+BÃ¼ssÃ¼
+BÃºs-tanya
+BÃºstanya
+BÃºsvÃ¡ri ÅrhÃ¡z
+BÃºsvÃ¡r
+BÃºszermalom
+BÃºtelek
+BÃºtelektanya
+BÃ¼tetanya
+BÅ±thÃ¡tdÅ±lÅ‘
+BÅ±t-hÃ¡t
 Butika
-Büttöslyuba
-Büttös
+BÃ¼ttÃ¶slyuba
+BÃ¼ttÃ¶s
 Butyka
 Butyka Sor
 Butykasortanya
 Butykatelep
-Búvári-puszta
-Búváritanya
+BÃºvÃ¡ri-puszta
+BÃºvÃ¡ritanya
 Buvat
 Buytanya
-Búzássziget
-Buzástanya
-Búzás Tó
+BÃºzÃ¡ssziget
+BuzÃ¡stanya
+BÃºzÃ¡s TÃ³
 Buzbokor
-Buzbokorvölgy
-Buzgándûlõ
-Buzgán
-Buzgánydûlõ
+BuzbokorvÃ¶lgy
+BuzgÃ¡ndÅ±lÅ‘
+BuzgÃ¡n
+BuzgÃ¡nydÅ±lÅ‘
 Buzita
 Buzitatanya
-Buzsák
-Búztanya
-Cák
-Cakódûlõ
-Cakóháza
-Cakó
+BuzsÃ¡k
+BÃºztanya
+CÃ¡k
+CakÃ³dÅ±lÅ‘
+CakÃ³hÃ¡za
+CakÃ³
 Canalul Crasnei
 Canalul Mezohegyesi
 Canalul Morilor
 Capuvar
 Cece
-Cédulaház
-Cégénydányád
-Cégényitanya
-Cégény-Matolcsi-Holt-Szamos
-Cégény-rét
-Ceglédbercel-Cserõ
-Ceglédbercel
-Ceglédi-dûlõ
-Ceglédidûlõ
-Ceglédi-ér
-Ceglédi Szállások
-Ceglédi Tanyák
-Cegléditanya
-Ceglédi Úti Tanyák
-Cegléd
-Ceglédpuszta
-Cekeháza
-Cékustanya
-Celldömölk
-Cél
-Célpuszta
-Center Alsó
+CÃ©dulahÃ¡z
+CÃ©gÃ©nydÃ¡nyÃ¡d
+CÃ©gÃ©nyitanya
+CÃ©gÃ©ny-Matolcsi-Holt-Szamos
+CÃ©gÃ©ny-rÃ©t
+CeglÃ©dbercel-CserÅ‘
+CeglÃ©dbercel
+CeglÃ©di-dÅ±lÅ‘
+CeglÃ©didÅ±lÅ‘
+CeglÃ©di-Ã©r
+CeglÃ©di SzÃ¡llÃ¡sok
+CeglÃ©di TanyÃ¡k
+CeglÃ©ditanya
+CeglÃ©di Ãšti TanyÃ¡k
+CeglÃ©d
+CeglÃ©dpuszta
+CekehÃ¡za
+CÃ©kustanya
+CelldÃ¶mÃ¶lk
+CÃ©l
+CÃ©lpuszta
+Center AlsÃ³
 Center
-Cenzusdûlõ
-Cenzusföld
+CenzusdÅ±lÅ‘
+CenzusfÃ¶ld
 Cepel Island
 Cered
 Ceretnek
 Cerinapuszta
-Cérnahát
-Ceteháza
+CÃ©rnahÃ¡t
+CetehÃ¡za
 Chepel
 Cherekhat
 Cherkhat
-Chernelházadamonya
+ChernelhÃ¡zadamonya
 Chevratanya
 Chorintelep
 Christophtanya
-Cibak-dûlõ
+Cibak-dÅ±lÅ‘
 Cibakhalom
-Cibakháza
+CibakhÃ¡za
 Cibak
 Cibere-domb
 Cibere
@@ -3211,65 +3211,65 @@ Cicemalom
 Cickatanya
 Cickazug
 Cicmalom
-Cifradûlõ
-Cifra Híd
+CifradÅ±lÅ‘
+Cifra HÃ­d
 Cifra-kert
 Cifrakert
 Cifrakert-tanya
 Ciframajor
 Ciframalom
 Ciframalompuszta
-Cifra-Nyésta
-Cifrástanya
-Cifraszállás
+Cifra-NyÃ©sta
+CifrÃ¡stanya
+CifraszÃ¡llÃ¡s
 Cifratanya
-Cigánd
-Cigány-árok
-Cigánybokor
-Cigányér
-Cigánygödör
-Cigányhalom
-Cigány-hegy
-Cigányhegy
-Cigány Hegy
-Cigánykút
-Cigányrét
-Cigánysor
-Cigányszer
-Cigánytó
-Cigány-völgy
-Cigányzáton
-Cigány-zátony
+CigÃ¡nd
+CigÃ¡ny-Ã¡rok
+CigÃ¡nybokor
+CigÃ¡nyÃ©r
+CigÃ¡nygÃ¶dÃ¶r
+CigÃ¡nyhalom
+CigÃ¡ny-hegy
+CigÃ¡nyhegy
+CigÃ¡ny Hegy
+CigÃ¡nykÃºt
+CigÃ¡nyrÃ©t
+CigÃ¡nysor
+CigÃ¡nyszer
+CigÃ¡nytÃ³
+CigÃ¡ny-vÃ¶lgy
+CigÃ¡nyzÃ¡ton
+CigÃ¡ny-zÃ¡tony
 Cikkelytanya
-Cikó-hegy
+CikÃ³-hegy
 Cikolai-halastavak
 Cikolai-Holt-Duna
-Cikolai-vízfolyás
-Cikolai-víz
+Cikolai-vÃ­zfolyÃ¡s
+Cikolai-vÃ­z
 Cikolasziget
-Cikolaúti Tanyák
-Cikola Úti Tanya
-Cikó
-Cilinkó
+CikolaÃºti TanyÃ¡k
+Cikola Ãšti Tanya
+CikÃ³
+CilinkÃ³
 Cilipuszta
-Cina-derék
-Cinaderék
+Cina-derÃ©k
+CinaderÃ©k
 Cinahegy
 Cinalapos
-Cinca-csíkgát
+Cinca-csÃ­kgÃ¡t
 Cinca
 Cinca-patak
 Cinderitanya
 Cinegemajor
 Cinegepuszta
-Cinegéres
-Cinegérestanya
-Cinegés-hegy
-Cinegés
-Cinegés Puszta
+CinegÃ©res
+CinegÃ©restanya
+CinegÃ©s-hegy
+CinegÃ©s
+CinegÃ©s Puszta
 Cinegetanya
-Cinegevölgy
-Cinégrelegelõ
+CinegevÃ¶lgy
+CinÃ©grelegelÅ‘
 Cinetanya
 Cinka
 Cinkota
@@ -3278,266 +3278,266 @@ Cinnalapos
 Cinner
 Ciperes
 Ciprus
-Cirák
+CirÃ¡k
 Cirfuszmajor
-Ciriák
-Cirják
-Cirkáló
-Cirkó
-Cirkópuszta
-Ciróka
-Cirokvölgy
-Citrahát
-Cobérpuszta
-Codoló
-Colhánypuszta
+CiriÃ¡k
+CirjÃ¡k
+CirkÃ¡lÃ³
+CirkÃ³
+CirkÃ³puszta
+CirÃ³ka
+CirokvÃ¶lgy
+CitrahÃ¡t
+CobÃ©rpuszta
+CodolÃ³
+ColhÃ¡nypuszta
 Comitats Canal
-Concoháti Melléktanya
-Concóhát
-Concó
-Concó-patak
-Cövektanya
+ConcohÃ¡ti MellÃ©ktanya
+ConcÃ³hÃ¡t
+ConcÃ³
+ConcÃ³-patak
+CÃ¶vektanya
 Crasna
-Criºu Alb
-Criºul Alb
-Criºul Negru
-Criºu Mic
-Criºu Negru
-Csabacsûd Felsõ
-Csabacsüd
-Csabacsûd
+CriÅŸu Alb
+CriÅŸul Alb
+CriÅŸul Negru
+CriÅŸu Mic
+CriÅŸu Negru
+CsabacsÅ±d FelsÅ‘
+CsabacsÃ¼d
+CsabacsÅ±d
 Csaba-domb
-Csabagödör
+CsabagÃ¶dÃ¶r
 Csabai Hegy
-Csabai-legelõ
+Csabai-legelÅ‘
 Csaba
 Csabapuszta
 Csabaszabadi
-Csaba-szék
+Csaba-szÃ©k
 Csabberek
 Csabberekpuszta
-Csáb-Bodzás-dûlõ
+CsÃ¡b-BodzÃ¡s-dÅ±lÅ‘
 Csabdi
-Csáblény
+CsÃ¡blÃ©ny
 Csabony-hegy
 Csabony
-Csábor
+CsÃ¡bor
 Csabpuszta
 Csabrendek
-Csácsbozsok
-Csácsihegy
-Csács
-Csádé-major
-Csádépuszta
-Csáfordimalom
-Csáfordjánosfa
-Csáford
-Csaholci Állami Gazdaság
+CsÃ¡csbozsok
+CsÃ¡csihegy
+CsÃ¡cs
+CsÃ¡dÃ©-major
+CsÃ¡dÃ©puszta
+CsÃ¡fordimalom
+CsÃ¡fordjÃ¡nosfa
+CsÃ¡ford
+Csaholci Ãllami GazdasÃ¡g
 Csaholc
 Csaholyitanya
-Csajág Felsõ
-Csajághy-major
-Csajághy Rész
-Csajág
-Csajkástanya
+CsajÃ¡g FelsÅ‘
+CsajÃ¡ghy-major
+CsajÃ¡ghy RÃ©sz
+CsajÃ¡g
+CsajkÃ¡stanya
 Csajkostag
 Csajkostanya
-Csaj-tó
-Csákánydoroszló
-Csákányhegy
-Csákánykõ
-Csákánykõtanya
-Csákány
-Csákányospuszta
-Csákánypuszta
-Csákányszõllõ
-Csákberektanya
-Csákberény
-Csákhegy
-Csákhegy-puszta
-Csákisziget
-Csákitanya
-Csáknéma
-Csáknéma-puszta
-Csákszegpuszta
-Csáktanya
-Csákvár
-Csákyár
-Csákytanya
-Csalaerdészlak
-Csalai Alsó Malom
-Csala István-major
-Csalai Szõllõ
-Csalakastély
+Csaj-tÃ³
+CsÃ¡kÃ¡nydoroszlÃ³
+CsÃ¡kÃ¡nyhegy
+CsÃ¡kÃ¡nykÅ‘
+CsÃ¡kÃ¡nykÅ‘tanya
+CsÃ¡kÃ¡ny
+CsÃ¡kÃ¡nyospuszta
+CsÃ¡kÃ¡nypuszta
+CsÃ¡kÃ¡nyszÅ‘llÅ‘
+CsÃ¡kberektanya
+CsÃ¡kberÃ©ny
+CsÃ¡khegy
+CsÃ¡khegy-puszta
+CsÃ¡kisziget
+CsÃ¡kitanya
+CsÃ¡knÃ©ma
+CsÃ¡knÃ©ma-puszta
+CsÃ¡kszegpuszta
+CsÃ¡ktanya
+CsÃ¡kvÃ¡r
+CsÃ¡kyÃ¡r
+CsÃ¡kytanya
+CsalaerdÃ©szlak
+Csalai AlsÃ³ Malom
+Csala IstvÃ¡n-major
+Csalai SzÅ‘llÅ‘
+CsalakastÃ©ly
 Csalamalom
-Csalán-hegy
-Csalános
-Csalánostanya
+CsalÃ¡n-hegy
+CsalÃ¡nos
+CsalÃ¡nostanya
 Csala
-Csalányos
-Csalári Hegy
+CsalÃ¡nyos
+CsalÃ¡ri Hegy
 Csalatanya
-Csali-csárda
+Csali-csÃ¡rda
 Csalinahegy
 Csalipuszta
 Csalitmajor
 Csalit
 Csalitos Hegy
 Csalit-puszta
-Csámpai-patak
+CsÃ¡mpai-patak
 Csampa
-Csámpa
-Csámpa-patak
-Csanádalberti
-Csanádalbertitanyák
-Csanádapácai Tanyák
-Csanádapáca
+CsÃ¡mpa
+CsÃ¡mpa-patak
+CsanÃ¡dalberti
+CsanÃ¡dalbertitanyÃ¡k
+CsanÃ¡dapÃ¡cai TanyÃ¡k
+CsanÃ¡dapÃ¡ca
 Csanada-tanya
-Csanádfehéregyháza
-Csanádi-élõvíz
-Csanádikert Major
-Csanádikert
-Csanáditag
-Csanádpalota
-Csanádpuszta
+CsanÃ¡dfehÃ©regyhÃ¡za
+CsanÃ¡di-Ã©lÅ‘vÃ­z
+CsanÃ¡dikert Major
+CsanÃ¡dikert
+CsanÃ¡ditag
+CsanÃ¡dpalota
+CsanÃ¡dpuszta
 Csanaki-dombok
 Csanak
-Csanálositanyák
-Csanálospuszta
-Csángó
-Csángota-ér
+CsanÃ¡lositanyÃ¡k
+CsanÃ¡lospuszta
+CsÃ¡ngÃ³
+CsÃ¡ngota-Ã©r
 Csangota
-Csángota-patak
+CsÃ¡ngota-patak
 Csangotapuszta
-Csánig
-Csányaszró
-Csányi Határdûlõ
-Csányihatár
-Csányi Hegy
-Csanyik-völgy
-Csanyikvölgy
-Csányi Tanyák
-Csányi-völgy
-Csány
-Csányoszró
+CsÃ¡nig
+CsÃ¡nyaszrÃ³
+CsÃ¡nyi HatÃ¡rdÅ±lÅ‘
+CsÃ¡nyihatÃ¡r
+CsÃ¡nyi Hegy
+Csanyik-vÃ¶lgy
+CsanyikvÃ¶lgy
+CsÃ¡nyi TanyÃ¡k
+CsÃ¡nyi-vÃ¶lgy
+CsÃ¡ny
+CsÃ¡nyoszrÃ³
 Csanytelek
 Csapa-hegy
-Csapás
-Csapásra Dûlõ
-Csapásszállás
-Csapásút
+CsapÃ¡s
+CsapÃ¡sra DÅ±lÅ‘
+CsapÃ¡sszÃ¡llÃ¡s
+CsapÃ¡sÃºt
 Csaphegy
 Csapi
 Csapod
-Csapódûlõ
-Csapókert
-Csapómalom
-Csapós
-Csapó-tag
-Csapótag
-Csapó-tanya
-Csapótanya
-Csapótengelic
-Csárda-dûlõ
-Csárdadûlõ
-Csárdahalom
-Csárda-hegy
-Csárdahegy
-Csárdai Tanyák
-Csárda-kert
-Csárdakert
-Csárda-lap
-Csárda-lapos
-Csárdalapos
-Csárdamajor
-Csárdamalom
-Csárda
-Csárdapuszta
-Csárdásdûlõ
-Csárdás-hegy
-Csárdás
-Csárdaszállás
-Csárdatanya
-Csárdazug
-Csarnadûlõ
+CsapÃ³dÅ±lÅ‘
+CsapÃ³kert
+CsapÃ³malom
+CsapÃ³s
+CsapÃ³-tag
+CsapÃ³tag
+CsapÃ³-tanya
+CsapÃ³tanya
+CsapÃ³tengelic
+CsÃ¡rda-dÅ±lÅ‘
+CsÃ¡rdadÅ±lÅ‘
+CsÃ¡rdahalom
+CsÃ¡rda-hegy
+CsÃ¡rdahegy
+CsÃ¡rdai TanyÃ¡k
+CsÃ¡rda-kert
+CsÃ¡rdakert
+CsÃ¡rda-lap
+CsÃ¡rda-lapos
+CsÃ¡rdalapos
+CsÃ¡rdamajor
+CsÃ¡rdamalom
+CsÃ¡rda
+CsÃ¡rdapuszta
+CsÃ¡rdÃ¡sdÅ±lÅ‘
+CsÃ¡rdÃ¡s-hegy
+CsÃ¡rdÃ¡s
+CsÃ¡rdaszÃ¡llÃ¡s
+CsÃ¡rdatanya
+CsÃ¡rdazug
+CsarnadÅ±lÅ‘
 Csarnapuszta
-Csarnavölgy
-Csarnóta
+CsarnavÃ¶lgy
+CsarnÃ³ta
 Csarodamajor
 Csaroda
-Csárpa-telek
-Császár-csatorna
-Császárdûlõ
-Császárhegy
-Császár-homok
-Császári Víz
-Császár
-Császár-patak
-Császárréti Erdõ
-Császárrét
-Császárszállás
-Császártanya
-Császártöltési Szõllõk
-Császártöltési Szõlõk
-Császártöltési Tanyák
-Császártöltés
-Császár-víz
-Császár-völgy
-Császló
-Császta-bérc
-Császtai Fürdõ
-Császtai Hegy
-Császta
-Császtapuszta
-Csatadûlõ
-Csataér
+CsÃ¡rpa-telek
+CsÃ¡szÃ¡r-csatorna
+CsÃ¡szÃ¡rdÅ±lÅ‘
+CsÃ¡szÃ¡rhegy
+CsÃ¡szÃ¡r-homok
+CsÃ¡szÃ¡ri VÃ­z
+CsÃ¡szÃ¡r
+CsÃ¡szÃ¡r-patak
+CsÃ¡szÃ¡rrÃ©ti ErdÅ‘
+CsÃ¡szÃ¡rrÃ©t
+CsÃ¡szÃ¡rszÃ¡llÃ¡s
+CsÃ¡szÃ¡rtanya
+CsÃ¡szÃ¡rtÃ¶ltÃ©si SzÅ‘llÅ‘k
+CsÃ¡szÃ¡rtÃ¶ltÃ©si SzÅ‘lÅ‘k
+CsÃ¡szÃ¡rtÃ¶ltÃ©si TanyÃ¡k
+CsÃ¡szÃ¡rtÃ¶ltÃ©s
+CsÃ¡szÃ¡r-vÃ­z
+CsÃ¡szÃ¡r-vÃ¶lgy
+CsÃ¡szlÃ³
+CsÃ¡szta-bÃ©rc
+CsÃ¡sztai FÃ¼rdÅ‘
+CsÃ¡sztai Hegy
+CsÃ¡szta
+CsÃ¡sztapuszta
+CsatadÅ±lÅ‘
+CsataÃ©r
 Csatahely
-Csátalja
+CsÃ¡talja
 Csata
-Csatár-hegy
-Csatárhegy
-Csatárimajor
-Csatárimalom
-Csatáritelep
-Csatárkert
-Csatármalom
-Csatár
-Csatárpuszta
-Csatártópuszta
-Csatárymajor
-Csataszög
-Csátéstanya
+CsatÃ¡r-hegy
+CsatÃ¡rhegy
+CsatÃ¡rimajor
+CsatÃ¡rimalom
+CsatÃ¡ritelep
+CsatÃ¡rkert
+CsatÃ¡rmalom
+CsatÃ¡r
+CsatÃ¡rpuszta
+CsatÃ¡rtÃ³puszta
+CsatÃ¡rymajor
+CsataszÃ¶g
+CsÃ¡tÃ©stanya
 Csatka
-Csatlóstanya
-Csatókamarásitanyák
-Csatókamarás
-Csátoldal
-Csátópuszta
+CsatlÃ³stanya
+CsatÃ³kamarÃ¡sitanyÃ¡k
+CsatÃ³kamarÃ¡s
+CsÃ¡toldal
+CsÃ¡tÃ³puszta
 Csatorna
-Csatornarész
-Csatótanya
-Csattagháttag
+CsatornarÃ©sz
+CsatÃ³tanya
+CsattaghÃ¡ttag
 Csattokpart
-Csattosdûlõi Szõllõk
-Csávolyi-Alsó-halastó
-Csávolyi Tanyák
-Csávolyi-víztároló
-Csávoly
+CsattosdÅ±lÅ‘i SzÅ‘llÅ‘k
+CsÃ¡volyi-AlsÃ³-halastÃ³
+CsÃ¡volyi TanyÃ¡k
+CsÃ¡volyi-vÃ­ztÃ¡rolÃ³
+CsÃ¡voly
 Csebe
-Csebény
-Cseberér
+CsebÃ©ny
+CseberÃ©r
 Cseberkipuszta
-Csébi-sziget
-Csécse
-Csécsi Puszta
-Csécsi-tanya
-Csécstanya
-Cséfán
+CsÃ©bi-sziget
+CsÃ©cse
+CsÃ©csi Puszta
+CsÃ©csi-tanya
+CsÃ©cstanya
+CsÃ©fÃ¡n
 Csegei-halom
 Csegepuszta
-Csegöld
-Csehbányai Major
-Csehbánya
+CsegÃ¶ld
+CsehbÃ¡nyai Major
+CsehbÃ¡nya
 Cseh-halom
 Csehimindszent
 Csehi
@@ -3548,270 +3548,270 @@ Cseh-tanya
 Csehtanya
 Csejtpuszta
 Cseke-hegy
-Csekék
-Csekélyes
+CsekÃ©k
+CsekÃ©lyes
 Cseke
-Cséke
+CsÃ©ke
 Csekepuszta
-Csekés
+CsekÃ©s
 Cseket-hegy
-Cseketói Tanyák
-Cseke-tó
-Csekmihálytanya
-Csekõtanya
-Csékút
+CseketÃ³i TanyÃ¡k
+Cseke-tÃ³
+CsekmihÃ¡lytanya
+CsekÅ‘tanya
+CsÃ©kÃºt
 Cseledoboka
-Cselegörcsöny
+CselegÃ¶rcsÃ¶ny
 Cselehegy
 Csele
 Csele-patak
 Cselling
-Cselõháza
-Cselõtepuszta
-Csemerházimajor
-Csemerház
+CselÅ‘hÃ¡za
+CselÅ‘tepuszta
+CsemerhÃ¡zimajor
+CsemerhÃ¡z
 Csemetekert
 Csemez-tag
-Csémicsárda
-Csémi-hegy
-Csém
-Csemõ
-Csemõtorok
-Csempeszkopács
-Csémpuszta
-Csémpuszta Vasúti
+CsÃ©micsÃ¡rda
+CsÃ©mi-hegy
+CsÃ©m
+CsemÅ‘
+CsemÅ‘torok
+CsempeszkopÃ¡cs
+CsÃ©mpuszta
+CsÃ©mpuszta VasÃºti
 Csencsberekimajor
-Csencsevár
+CsencsevÃ¡r
 Csencsiberekmajor
 Csendes
 Csendespuszta
 Csendestanya
 Csendi Hegy
 Csengele
-Csengerháza
-Csengeri Középdûlõ
-Csengeriszél
-Csengeri Városi Szõllõk
+CsengerhÃ¡za
+Csengeri KÃ¶zÃ©pdÅ±lÅ‘
+CsengeriszÃ©l
+Csengeri VÃ¡rosi SzÅ‘llÅ‘k
 Csenger
 Csengersima
-Csengerújfalu
+CsengerÃºjfalu
 Csenget-major
-Csengetyû-dûlõ
-Csengõdidûlõ
-Csengõdi-tanya
-Csengõd
-Csengõ-hegy
-Csengõ
-Csengõrét
+CsengetyÅ±-dÅ±lÅ‘
+CsengÅ‘didÅ±lÅ‘
+CsengÅ‘di-tanya
+CsengÅ‘d
+CsengÅ‘-hegy
+CsengÅ‘
+CsengÅ‘rÃ©t
 Csenkitanya
 Csente-csatorna
-Csente-ér
+Csente-Ã©r
 Csente
 Csentericfa
-Csénye
-Csenyéte
-Csényeújmajor
+CsÃ©nye
+CsenyÃ©te
+CsÃ©nyeÃºjmajor
 Csenyus-tanya
-Csépai Szõllõk
-Csépa
-Csépántanya
-Csépányberektanya
-Csépányberki-tanya
-Csépánytanya
-Csepegi-dûlõ
+CsÃ©pai SzÅ‘llÅ‘k
+CsÃ©pa
+CsÃ©pÃ¡ntanya
+CsÃ©pÃ¡nyberektanya
+CsÃ©pÃ¡nyberki-tanya
+CsÃ©pÃ¡nytanya
+Csepegi-dÅ±lÅ‘
 Csepeg
-Csepegõ-hegy
-Csépelaposdûlõ
-Csepeli Dunaág
-Csepeli-síkság
+CsepegÅ‘-hegy
+CsÃ©pelaposdÅ±lÅ‘
+Csepeli DunaÃ¡g
+Csepeli-sÃ­ksÃ¡g
 Csepel Island
 Csepel
-Csepel-Solt-Bajaisíkság
+Csepel-Solt-BajaisÃ­ksÃ¡g
 Csepel-sziget
 Csepetei Tanya
 Csepete
-Csepiéritanya
-Csépi-ér
+CsepiÃ©ritanya
+CsÃ©pi-Ã©r
 Cseplek-hegy
-Csép
+CsÃ©p
 Csepreghytanya
 Csepreg
-Csepûs
-Csepüsszõllõ
-Csepûs-szõlõ
+CsepÅ±s
+CsepÃ¼sszÅ‘llÅ‘
+CsepÅ±s-szÅ‘lÅ‘
 Cseralja Hegy
 Cseralja-malom
 Cseralja
 Cser Alja
 Cseraljapuszta
 Cserbabos
-Cserbérc
-Cserbércpuszta
+CserbÃ©rc
+CserbÃ©rcpuszta
 Cserbikkpuszta
 Cserbikpuszta
 Cserdi-Helesfa
 Cserdi
 Cserdomb
-Cserdûlõkerülõház
+CserdÅ±lÅ‘kerÃ¼lÅ‘hÃ¡z
 Cserealja
-Cserebökényi Tanya
-Cserebökény
-Cserebókpuszta
-Cseredûlõ
-Csereerdõ
-Cserehát
+CserebÃ¶kÃ©nyi Tanya
+CserebÃ¶kÃ©ny
+CserebÃ³kpuszta
+CseredÅ±lÅ‘
+CsereerdÅ‘
+CserehÃ¡t
 Cserekert
 Cserenc
-Cserénfa
-Cserengáti Malom
-Cserengát-patak
-Cserénypuszta
-Cserép-dûlõ
-Cserepesdûlõ
-Cserepes-ér
+CserÃ©nfa
+CserengÃ¡ti Malom
+CserengÃ¡t-patak
+CserÃ©nypuszta
+CserÃ©p-dÅ±lÅ‘
+CserepesdÅ±lÅ‘
+Cserepes-Ã©r
 Cserepes-Hatos
 Cserepeshegy
-Cserepesitanyák
+CserepesitanyÃ¡k
 Cserepesmajor
 Cserepes
 Cserepes-puszta
 Cserepespuszta
 Cserepestanya
-Cserépfalu
-Cserép-hát
-Cseréprész
-Cseréptó
+CserÃ©pfalu
+CserÃ©p-hÃ¡t
+CserÃ©prÃ©sz
+CserÃ©ptÃ³
 Cserepuszta
-Cserépváralja
-Cserepvári-patak
-Csere-rész
-Cseres Béro
-Cserés-hegy
+CserÃ©pvÃ¡ralja
+CserepvÃ¡ri-patak
+Csere-rÃ©sz
+Cseres BÃ©ro
+CserÃ©s-hegy
 Cseres
-Cseresnyés
-Cseresnyés-patak
-Cseresnyés-tetõ
+CseresnyÃ©s
+CseresnyÃ©s-patak
+CseresnyÃ©s-tetÅ‘
 Cseres Padosa
 Cseres Pados
 Cserespuszta
 Cserestanya
-Csérestanya
+CsÃ©restanya
 Cserestelep
-Cseres Tetõ
-Cseréstói Tanya
-Csereszentlászló
+Cseres TetÅ‘
+CserÃ©stÃ³i Tanya
+CsereszentlÃ¡szlÃ³
 Cseresziget
-Cseresznyés
+CseresznyÃ©s
 Cseretanya
 Csere Tanya
-Cseretelepitanyák
+CseretelepitanyÃ¡k
 Cseretelepi Tanya
 Cseretelep
 Cseretikos
 Csereze-hegy
-Cserfásmajor
-Cserfekvésmajor
-Cserfekvés
-Cserfõ
-Csergettyû-lapos
-Csergettyû
-Csergõtelep
-Cserhágó
-Cserhátalja
-Cserhátdûlõ
-Cserháthaláp
-Cser-hát-hegy
-Cserhát-hegy
-Cserhát Hegység
-Cserháti-major
-Cserhátmajor
+CserfÃ¡smajor
+CserfekvÃ©smajor
+CserfekvÃ©s
+CserfÅ‘
+CsergettyÅ±-lapos
+CsergettyÅ±
+CsergÅ‘telep
+CserhÃ¡gÃ³
+CserhÃ¡talja
+CserhÃ¡tdÅ±lÅ‘
+CserhÃ¡thalÃ¡p
+Cser-hÃ¡t-hegy
+CserhÃ¡t-hegy
+CserhÃ¡t HegysÃ©g
+CserhÃ¡ti-major
+CserhÃ¡tmajor
 Cserhat Mountains
-Cser-hát
-Cserhát
-Cserhátnyír
-Cserhátpuszta
-Cserhátsurány
-Cserhátszentiván
-Cserháttanya
+Cser-hÃ¡t
+CserhÃ¡t
+CserhÃ¡tnyÃ­r
+CserhÃ¡tpuszta
+CserhÃ¡tsurÃ¡ny
+CserhÃ¡tszentivÃ¡n
+CserhÃ¡ttanya
 Cser-hegy
 Cserhegy
 Cserhidimajor
-Cserhídi-patak
+CserhÃ­di-patak
 Cseri-akol
 Cseriakol
-Cseridûlõ
-Csérihegy
+CseridÅ±lÅ‘
+CsÃ©rihegy
 Cserimajor
-Csérimajor
+CsÃ©rimajor
 Cserimalom
-Cseringát
+CseringÃ¡t
 Cseri-puszta
 Cseripuszta
-Cseriszõllõ
-Cseri Szõlõk
-Cseritábla
+CseriszÅ‘llÅ‘
+Cseri SzÅ‘lÅ‘k
+CseritÃ¡bla
 Cseritanya
 Cserje-hegy
-Cserjes-tetõ
-Cserje-tetõ
+Cserjes-tetÅ‘
+Cserje-tetÅ‘
 Cserke-halom
 Cserke
-Cserkeszõllõ
-Cserkeszõlõ
-Cser-köz-erdõ
-Cserköztanya
-Cserkút
-Cserkútpuszta
-Cserkúttelep
+CserkeszÅ‘llÅ‘
+CserkeszÅ‘lÅ‘
+Cser-kÃ¶z-erdÅ‘
+CserkÃ¶ztanya
+CserkÃºt
+CserkÃºtpuszta
+CserkÃºttelep
 Cserlap
 Cserma-hegy
 Csermajor
-Csermányihegy
+CsermÃ¡nyihegy
 Cserma-oldal
 Csermelymajor
 Csermely-patak
-Cser-mezõ
-Csermõke
-Csernád
+Cser-mezÅ‘
+CsermÅ‘ke
+CsernÃ¡d
 Csernalj
 Csernec
 Csernely
 Csernely-patak
 Cser
-Csér
-Csernus-dûlõ
-Csernusdûlõ
-Csernyéd
-Csernyikvölgy
+CsÃ©r
+Csernus-dÅ±lÅ‘
+CsernusdÅ±lÅ‘
+CsernyÃ©d
+CsernyikvÃ¶lgy
 Csernyustanya
-Cserõdomb
-Cserõ-köz
-Cseroldaldûlõ
+CserÅ‘domb
+CserÅ‘-kÃ¶z
+CseroldaldÅ±lÅ‘
 Cseroldal
-Cserömkata
-Cserõ
-Cserõ-puszta
-Cserormágy
+CserÃ¶mkata
+CserÅ‘
+CserÅ‘-puszta
+CserormÃ¡gy
 Cser-patak
 Cserpuszta
 Cserszegtomaj
-Csertadûlõ
+CsertadÅ±lÅ‘
 Csertalakos
 Cserta
 Csertanya
 Cserta-patak
 Csertelek
 Csertelek-puszta
-Cser-tetõ
-Csertetõ
-Csertõ
-Cservárpuszta
-Cservölgyi Gazdaság
-Cser-völgyi-tetõ
-Cservölgymajor
-Cservölgy
-Cservölgypuszta
-Cservölgy Tetõ
+Cser-tetÅ‘
+CsertetÅ‘
+CsertÅ‘
+CservÃ¡rpuszta
+CservÃ¶lgyi GazdasÃ¡g
+Cser-vÃ¶lgyi-tetÅ‘
+CservÃ¶lgymajor
+CservÃ¶lgy
+CservÃ¶lgypuszta
+CservÃ¶lgy TetÅ‘
 Cseszmemajor
 Cseszme Puszta
 Csesznek
@@ -3820,50 +3820,50 @@ Csesztreg
 Csesztve
 Csetehomok
 Csete
-Csetényi-patak
-Csetényitanya
-Csetény
-Csetény-patak
-Cseterész
-Csetér-hegy
+CsetÃ©nyi-patak
+CsetÃ©nyitanya
+CsetÃ©ny
+CsetÃ©ny-patak
+CseterÃ©sz
+CsetÃ©r-hegy
 Csetetag
 Csetharasztmajor
 Csetnekitelep
 Csetrengtanya
-Csetridûlõ
+CsetridÅ±lÅ‘
 Csetri-tanya
-Csévharaszt
-Csevicekútpuszta
+CsÃ©vharaszt
+CsevicekÃºtpuszta
 Csevice
-Csév
+CsÃ©v
 Csibaj-hegy
-Csibaréttanya
+CsibarÃ©ttanya
 Csibatelep
 Csibehegy
 Csibehegypuszta
 Csiboda-hegy
 Csiboda
-Csibrák
+CsibrÃ¡k
 Csicsak-hegy
 Csicsak
 Csicsakos-hegy
 Csicsal-puszta
-Csicsásdûlõ
-Csicsás
-Csicsatér
+CsicsÃ¡sdÅ±lÅ‘
+CsicsÃ¡s
+CsicsatÃ©r
 Csicske
-Csicsó-hegy
-Csicsóierdõ
-Csicsói Hegy
-Csicsó
-Csicsópuszta
-Csicsósdûlõ
-Csicsós
-Csicsóstanya
-Csicsótanya
+CsicsÃ³-hegy
+CsicsÃ³ierdÅ‘
+CsicsÃ³i Hegy
+CsicsÃ³
+CsicsÃ³puszta
+CsicsÃ³sdÅ±lÅ‘
+CsicsÃ³s
+CsicsÃ³stanya
+CsicsÃ³tanya
 Csiderberek
 Csiffi-major
-Csiffitanyák
+CsiffitanyÃ¡k
 Csiffi Tanya
 Csiff
 Csiffytanya
@@ -3871,126 +3871,126 @@ Csiga-hegy
 Csigahegy
 Csiga
 Csigapuszta
-Csigáskút
-Csiga-tetõ
+CsigÃ¡skÃºt
+Csiga-tetÅ‘
 Csigeihegy
 Csige
 Csigere-patak
 Csiger-hegy
 Csige-tanya
-Csigevár
+CsigevÃ¡r
 Csigipuszta
 Csigitag
 Csigoti-patak
 Csihari-hegy
 Csihar
 Csihontanya
-Csikászó-patak
-Csikéria
-Csikéritanya
-Csikér
-Csíkgáti-patak
-Csikgát-patak
-Csíkgát-patak
-Csikgödör
-Csikidûlõ
-Csíki-hegyek
+CsikÃ¡szÃ³-patak
+CsikÃ©ria
+CsikÃ©ritanya
+CsikÃ©r
+CsÃ­kgÃ¡ti-patak
+CsikgÃ¡t-patak
+CsÃ­kgÃ¡t-patak
+CsikgÃ¶dÃ¶r
+CsikidÅ±lÅ‘
+CsÃ­ki-hegyek
 Csiki-puszta
-Csikójárásdûlõ
-Csikójárás
-Csikó-kert
-Csikólegelõ
-Csikómajor
-Csikónyomástanya
-Csikorgó
+CsikÃ³jÃ¡rÃ¡sdÅ±lÅ‘
+CsikÃ³jÃ¡rÃ¡s
+CsikÃ³-kert
+CsikÃ³legelÅ‘
+CsikÃ³major
+CsikÃ³nyomÃ¡stanya
+CsikorgÃ³
 Csikorpuszta
-Csíkos-dûlõ
-Csíkosdûlõ
-Csikós-éger Erdészház
+CsÃ­kos-dÅ±lÅ‘
+CsÃ­kosdÅ±lÅ‘
+CsikÃ³s-Ã©ger ErdÃ©szhÃ¡z
 Csikoseger
-Csikós-halom
-Csikósháza
-Csikósház
-Csikósitanya
-Csikóslapos
-Csikós Lapos
-Csikóslapostanya
-Csikós-major
-Csíkos
-Csíkos-patak
-Csikóspuszta
-Csikóstódûlõ
-Csikós-tó
-Csikóstó
-Csikóstõttõs
-Csikószín
-Csikótanya
+CsikÃ³s-halom
+CsikÃ³shÃ¡za
+CsikÃ³shÃ¡z
+CsikÃ³sitanya
+CsikÃ³slapos
+CsikÃ³s Lapos
+CsikÃ³slapostanya
+CsikÃ³s-major
+CsÃ­kos
+CsÃ­kos-patak
+CsikÃ³spuszta
+CsikÃ³stÃ³dÅ±lÅ‘
+CsikÃ³s-tÃ³
+CsikÃ³stÃ³
+CsikÃ³stÅ‘ttÅ‘s
+CsikÃ³szÃ­n
+CsikÃ³tanya
 Csikotapuszta
-Csikótelep
-Csikótilospuszta
-Csík-patak
-Csiktó
-Csikvándi-Bakony-ér
-Csikvándi Telep
-Csikvánd
-Csikvár
-Csilladûlõ
-Csillagcsárda
-Csillag-dûlõ
+CsikÃ³telep
+CsikÃ³tilospuszta
+CsÃ­k-patak
+CsiktÃ³
+CsikvÃ¡ndi-Bakony-Ã©r
+CsikvÃ¡ndi Telep
+CsikvÃ¡nd
+CsikvÃ¡r
+CsilladÅ±lÅ‘
+CsillagcsÃ¡rda
+Csillag-dÅ±lÅ‘
 Csillagharangod
 Csillaghegy
 Csillag-major
 Csillagmajor
 Csillag
-Csillagó
-Csillagosdûlõ
+CsillagÃ³
+CsillagosdÅ±lÅ‘
 Csillagos Hegy
 Csillagosmajor
 Csillagos
 Csillagostanya
 Csillag-puszta
 Csillagpuszta
-Csillagtanyák
+CsillagtanyÃ¡k
 Csillagtanya
-Csillág Tanya
-Csillagvár
+CsillÃ¡g Tanya
+CsillagvÃ¡r
 Csillapuszta
-Csille-bérc
-Csillebérc
+Csille-bÃ©rc
+CsillebÃ©rc
 Csillebercz
-Csillérmajor
-Csimaházi Hegy
+CsillÃ©rmajor
+CsimahÃ¡zi Hegy
 Csimatanya
 Csimatova
 Csinapuszta
-Csincse-ér
+Csincse-Ã©r
 Csincse
 Csincse-patak
-Csincse-tanyák
-Csincsetanyák
+Csincse-tanyÃ¡k
+CsincsetanyÃ¡k
 Csincsetanya
-Csinerdûlõ
+CsinerdÅ±lÅ‘
 Csinger-hegy
-Csintalan István-tanya
-Csintalan János-tanya
+Csintalan IstvÃ¡n-tanya
+Csintalan JÃ¡nos-tanya
 Csintalan
-Csintoványi Csárda
-Csintovány
-Csipáné Tó
-Csipánháza
+CsintovÃ¡nyi CsÃ¡rda
+CsintovÃ¡ny
+CsipÃ¡nÃ© TÃ³
+CsipÃ¡nhÃ¡za
 Csipkebokor
 Csipkereki-hegy
 Csipkerek
-Csipkés-dûlõ
-Csipkés Hegy
-Csipkés
-Csipkéspuszta
-Csipkésszegtanya
-Csippánháza
+CsipkÃ©s-dÅ±lÅ‘
+CsipkÃ©s Hegy
+CsipkÃ©s
+CsipkÃ©spuszta
+CsipkÃ©sszegtanya
+CsippÃ¡nhÃ¡za
 Csipsa Puszta
-Csípsár
-Csípszila
-Csipvár
+CsÃ­psÃ¡r
+CsÃ­pszila
+CsipvÃ¡r
 Csiribmajor
 Csiribpuszta
 Csiripmajor
@@ -3998,681 +3998,681 @@ Csiri-tag
 Csiri-tanya
 Csiritanya
 Csirka
-Csirkebérc
+CsirkebÃ©rc
 Csirkehegyalja
-Csirke Tó
-Csirkota-tó
+Csirke TÃ³
+Csirkota-tÃ³
 Csirmasztanya
-Csiró-hegy
-Csiszárhegy
-Csiszártanya
-Csiszértanya
+CsirÃ³-hegy
+CsiszÃ¡rhegy
+CsiszÃ¡rtanya
+CsiszÃ©rtanya
 Csisztapuszta
-Csitár
-Csitár-patak
-Csittény-hegy
-Csittény
+CsitÃ¡r
+CsitÃ¡r-patak
+CsittÃ©ny-hegy
+CsittÃ©ny
 Csivag
 Csivak
-Csizmadiadûlõ
-Csizmadiaföld
+CsizmadiadÅ±lÅ‘
+CsizmadiafÃ¶ld
 Csizmadiatanya
-Csizmás Tó
-Csizmaszártanya
-Csobád
-Csobaháza
+CsizmÃ¡s TÃ³
+CsizmaszÃ¡rtanya
+CsobÃ¡d
+CsobahÃ¡za
 Csobaj
-Csobánchegy
-Csobánc
-Csobánka
-Csobánkapuszta
-Csobánka-tanya
-Csobánkút
+CsobÃ¡nchegy
+CsobÃ¡nc
+CsobÃ¡nka
+CsobÃ¡nkapuszta
+CsobÃ¡nka-tanya
+CsobÃ¡nkÃºt
 Csobokapuszta
-Csóborpuszta
-Csócsa-hegy
-Csócsahegy
-Csöcskepuszta
-Csöcsös Hegy
-Csöde
-Csõdörhegy
-Csódyhegyi Kõbányatelep
-Csögimajor
-Csögle
-Csókadomb
-Csóka-hegy
-Csókakátó
-Csókakõi Várrom
-Csókakõmajor
-Csóka-kõ
-Csókakõ
-Csókakõvára
-Csókakõvár
-Csóka
-Csókányszõllõ
-Csókapuszta
-Csókásbányatelep
-Csókásdûlõ
-Csókáserdõ
-Csókás-hegy
-Csókásitanyák
-Csókási Tanya
-Csókás
-Csókáspuszta
-Csókástanya
-Csõketanya
+CsÃ³borpuszta
+CsÃ³csa-hegy
+CsÃ³csahegy
+CsÃ¶cskepuszta
+CsÃ¶csÃ¶s Hegy
+CsÃ¶de
+CsÅ‘dÃ¶rhegy
+CsÃ³dyhegyi KÅ‘bÃ¡nyatelep
+CsÃ¶gimajor
+CsÃ¶gle
+CsÃ³kadomb
+CsÃ³ka-hegy
+CsÃ³kakÃ¡tÃ³
+CsÃ³kakÅ‘i VÃ¡rrom
+CsÃ³kakÅ‘major
+CsÃ³ka-kÅ‘
+CsÃ³kakÅ‘
+CsÃ³kakÅ‘vÃ¡ra
+CsÃ³kakÅ‘vÃ¡r
+CsÃ³ka
+CsÃ³kÃ¡nyszÅ‘llÅ‘
+CsÃ³kapuszta
+CsÃ³kÃ¡sbÃ¡nyatelep
+CsÃ³kÃ¡sdÅ±lÅ‘
+CsÃ³kÃ¡serdÅ‘
+CsÃ³kÃ¡s-hegy
+CsÃ³kÃ¡sitanyÃ¡k
+CsÃ³kÃ¡si Tanya
+CsÃ³kÃ¡s
+CsÃ³kÃ¡spuszta
+CsÃ³kÃ¡stanya
+CsÅ‘ketanya
 Csokmai Hegy
-Csokmai Újhegy
-Csökmõ
+Csokmai Ãšjhegy
+CsÃ¶kmÅ‘
 Csoknya
-Csokoládé
-Csokoládépuszta
-Csököly
+CsokolÃ¡dÃ©
+CsokolÃ¡dÃ©puszta
+CsÃ¶kÃ¶ly
 Csokonyavisontai Tanya
 Csokonyavisonta
-Csökönyér
-Csóktanya
-Csokvaomány
-Csollányosi Malom
-Csollányos
-Csollányos Patak
-Csollányospuszta
+CsÃ¶kÃ¶nyÃ©r
+CsÃ³ktanya
+CsokvaomÃ¡ny
+CsollÃ¡nyosi Malom
+CsollÃ¡nyos
+CsollÃ¡nyos Patak
+CsollÃ¡nyospuszta
 Csolnok
-Csölösztõsziget
-Csólyos
-Csólyospálos
-Csólyospálospuszta
-Csomád Állomás
-Csomád
-Csomaháza-major
-Csomaházi Major
+CsÃ¶lÃ¶sztÅ‘sziget
+CsÃ³lyos
+CsÃ³lyospÃ¡los
+CsÃ³lyospÃ¡lospuszta
+CsomÃ¡d ÃllomÃ¡s
+CsomÃ¡d
+CsomahÃ¡za-major
+CsomahÃ¡zi Major
 Csoma
 Csomapuszta
-Csomarévtanya
-Csomástanya
+CsomarÃ©vtanya
+CsomÃ¡stanya
 Csoma-Szabadi
 Csomatag
 Csoma-tanya
 Csomatanya
-Csombárd
-Csömend
+CsombÃ¡rd
+CsÃ¶mend
 Csomhatanya
-Csömödér
-Csömödér-Páka
-Csömöki-domb
-Csömöle-völgy
-Csomópatakitanya
-Csomoridûlõ
-Csömöri-dûlõ
-Csõmõri-patak
-Csömöri Út
-Csomorkányi-oldal
-Csomorkány
-Csömör
-Csomorrésztanya
-Csomoszvár
-Csomoszvár-tetõ
+CsÃ¶mÃ¶dÃ©r
+CsÃ¶mÃ¶dÃ©r-PÃ¡ka
+CsÃ¶mÃ¶ki-domb
+CsÃ¶mÃ¶le-vÃ¶lgy
+CsomÃ³patakitanya
+CsomoridÅ±lÅ‘
+CsÃ¶mÃ¶ri-dÅ±lÅ‘
+CsÅ‘mÅ‘ri-patak
+CsÃ¶mÃ¶ri Ãšt
+CsomorkÃ¡nyi-oldal
+CsomorkÃ¡ny
+CsÃ¶mÃ¶r
+CsomorrÃ©sztanya
+CsomoszvÃ¡r
+CsomoszvÃ¡r-tetÅ‘
 Csomota-csatorna
 Csomota-patak
-Csónak-kút
-Csónatanya
-Csönge-hegy
-Csönge
-Csöngetmajor
-Csöngõhegy
-Csongrád Alsó
+CsÃ³nak-kÃºt
+CsÃ³natanya
+CsÃ¶nge-hegy
+CsÃ¶nge
+CsÃ¶ngetmajor
+CsÃ¶ngÅ‘hegy
+CsongrÃ¡d AlsÃ³
 Csongrad County
-Csongrádi Tanyák
-Csongrádi Úti Tanyák
-Csongrád Megye
-Csongrád
-Csongrádvárosi Dûlõ
-Csonka-dûlõ
-Csonka-fûz
-Csonkahegyhát
+CsongrÃ¡di TanyÃ¡k
+CsongrÃ¡di Ãšti TanyÃ¡k
+CsongrÃ¡d Megye
+CsongrÃ¡d
+CsongrÃ¡dvÃ¡rosi DÅ±lÅ‘
+Csonka-dÅ±lÅ‘
+Csonka-fÅ±z
+CsonkahegyhÃ¡t
 Csonkahegy
-Csonkakõtanya
+CsonkakÅ‘tanya
 Csonkamajor
 Csonkamindszent
-Csonka Pál
-Csonkarét
-Csonkás-hegy
-Csonkás
-Csonkás Patak
-Csonkástanya
+Csonka PÃ¡l
+CsonkarÃ©t
+CsonkÃ¡s-hegy
+CsonkÃ¡s
+CsonkÃ¡s Patak
+CsonkÃ¡stanya
 Csonka-tanya
 Csonkatanya
 Csonkatebe
-Csonkavölgy
-Csöntemajor
-Csöntepuszta
-Csönter-hegy
+CsonkavÃ¶lgy
+CsÃ¶ntemajor
+CsÃ¶ntepuszta
+CsÃ¶nter-hegy
 Csontfalu
-Csonthalomdûlõ
+CsonthalomdÅ±lÅ‘
 Csonthalom
-Csöntör-hegy
-Csontoscsárda
-Csontosdûlõ
+CsÃ¶ntÃ¶r-hegy
+CsontoscsÃ¡rda
+CsontosdÅ±lÅ‘
 Csontos Halom
-Csontosicsárda
-Csontoskerti Tanyák
+CsontosicsÃ¡rda
+Csontoskerti TanyÃ¡k
 Csontoskert
 Csontosmajor
 Csontos
 Csontospuszta
 Csontostanya
-Csonttetõ
+CsonttetÅ‘
 Csopak
-Csopány-hegy
+CsopÃ¡ny-hegy
 Csoportos-hegy
 Csoportos
 Csoportostanya
-Csöprönd
+CsÃ¶prÃ¶nd
 Csorbai Puszta
-Csorbalók
+CsorbalÃ³k
 Csorba
 Csorbaoldal
-Csorbaszõllõ
+CsorbaszÅ‘llÅ‘
 Csorbatanya
-Csorcsán
-Csorcsány
-Csordaház
+CsorcsÃ¡n
+CsorcsÃ¡ny
+CsordahÃ¡z
 Csorda-hegy
-Csordajárás-major
-Csordajárás
-Csordakút
-Csordásfertõ
-Csordástanya
-Csörgetõi Téglagyár
-Csörgetõ-major
-Csörgõpuszta
-Csörgõs-patak
-Csór-hegy
-Csörke
-Csór-Nádasdladány
-Csór-Nádasladány
-Csornakútipuszta
+CsordajÃ¡rÃ¡s-major
+CsordajÃ¡rÃ¡s
+CsordakÃºt
+CsordÃ¡sfertÅ‘
+CsordÃ¡stanya
+CsÃ¶rgetÅ‘i TÃ©glagyÃ¡r
+CsÃ¶rgetÅ‘-major
+CsÃ¶rgÅ‘puszta
+CsÃ¶rgÅ‘s-patak
+CsÃ³r-hegy
+CsÃ¶rke
+CsÃ³r-NÃ¡dasdladÃ¡ny
+CsÃ³r-NÃ¡dasladÃ¡ny
+CsornakÃºtipuszta
 Csorna
-Csörnöc-Herpenyõ
-Csór
-Csörnyeföld
-Csörögimajor
-Csörögi Szõllõk
-Csörögiszõlõk
-Csörögmajor
-Csörög
-Csörögtelep
-Csórompuszta
-Csoronikadûlõ
+CsÃ¶rnÃ¶c-HerpenyÅ‘
+CsÃ³r
+CsÃ¶rnyefÃ¶ld
+CsÃ¶rÃ¶gimajor
+CsÃ¶rÃ¶gi SzÅ‘llÅ‘k
+CsÃ¶rÃ¶giszÅ‘lÅ‘k
+CsÃ¶rÃ¶gmajor
+CsÃ¶rÃ¶g
+CsÃ¶rÃ¶gtelep
+CsÃ³rompuszta
+CsoronikadÅ±lÅ‘
 Csoronika
-Csörötnek
+CsÃ¶rÃ¶tnek
 Csorszai Patak
-Csörszárokdûlõ
-Csortán
+CsÃ¶rszÃ¡rokdÅ±lÅ‘
+CsortÃ¡n
 Csorva
-Csorvás Alsó
-Csorvás
-Csörvölgy
-Csõsz-halom
-Csõszhalom
-Csõsz-hegy
-Csõszi-mezõ
-Csõsz
-Csõszpuszta
-Csóta
-Csótapuszta
-Csóti Malom
-Csóti Újmajor
-Csót
-Csötönyivölgy
-Csottdûlõ
-Csóva-halom
-Csóványos
-Csõvár
-Csúcsdûlõk
-Csúcsdûlõ
-Csúcs-hegy
-Csúcs
-Csücsök
-Csúcsos-domb
-Csúcsos-hegy
-Csúcsos Hegy
-Csúcstelep
+CsorvÃ¡s AlsÃ³
+CsorvÃ¡s
+CsÃ¶rvÃ¶lgy
+CsÅ‘sz-halom
+CsÅ‘szhalom
+CsÅ‘sz-hegy
+CsÅ‘szi-mezÅ‘
+CsÅ‘sz
+CsÅ‘szpuszta
+CsÃ³ta
+CsÃ³tapuszta
+CsÃ³ti Malom
+CsÃ³ti Ãšjmajor
+CsÃ³t
+CsÃ¶tÃ¶nyivÃ¶lgy
+CsottdÅ±lÅ‘
+CsÃ³va-halom
+CsÃ³vÃ¡nyos
+CsÅ‘vÃ¡r
+CsÃºcsdÅ±lÅ‘k
+CsÃºcsdÅ±lÅ‘
+CsÃºcs-hegy
+CsÃºcs
+CsÃ¼csÃ¶k
+CsÃºcsos-domb
+CsÃºcsos-hegy
+CsÃºcsos Hegy
+CsÃºcstelep
 Csudabala
-Csugar Állomás
+Csugar ÃllomÃ¡s
 Csugar
 Csugar-part
-Csugár-tanya
+CsugÃ¡r-tanya
 Csuha
 Csuhatagi Tanya
 Csuhatanya
-Csuhús Tó
-Csuka-dûlõ
+CsuhÃºs TÃ³
+Csuka-dÅ±lÅ‘
 Csukafej
 Csuka-kert
-Csukásdûlõ
-Csukás-éri-fõcsatorna
-Csukás-ér
-Csukás-hát
-Csukásitanyák
-Csukásmajor
-Csukás
-Csukás Tanya
-Csukás-tó
-Csukás Tó
-Csukástótanya
-Csukidûlõ
-Csukma Bulgártelep
+CsukÃ¡sdÅ±lÅ‘
+CsukÃ¡s-Ã©ri-fÅ‘csatorna
+CsukÃ¡s-Ã©r
+CsukÃ¡s-hÃ¡t
+CsukÃ¡sitanyÃ¡k
+CsukÃ¡smajor
+CsukÃ¡s
+CsukÃ¡s Tanya
+CsukÃ¡s-tÃ³
+CsukÃ¡s TÃ³
+CsukÃ¡stÃ³tanya
+CsukidÅ±lÅ‘
+Csukma BulgÃ¡rtelep
 Csukma
 Csukorpuszta
 Csuktanya
 Csulakmalom
 Csurdatanya
-Csurgaidûlõ
+CsurgaidÅ±lÅ‘
 Csurgaimajor
-Csurgaszi Csárda
-Csurgató-major
+Csurgaszi CsÃ¡rda
+CsurgatÃ³-major
 Csurgaymajor
-Csurgayújosztás
-Csurgódûlõ
-Csurgó-hegy
-Csurgóitanyák
-Csurgóköz
-Csurgómalom
-Csurgónagymarton
-Csurgó
-Csurgópuszta
-Csurgó-tetõ
+CsurgayÃºjosztÃ¡s
+CsurgÃ³dÅ±lÅ‘
+CsurgÃ³-hegy
+CsurgÃ³itanyÃ¡k
+CsurgÃ³kÃ¶z
+CsurgÃ³malom
+CsurgÃ³nagymarton
+CsurgÃ³
+CsurgÃ³puszta
+CsurgÃ³-tetÅ‘
 Csuritanya
-Csürjetanya
-Csürkölesdûlõ
-Csürpartitanya
-Csúszu-hegy
+CsÃ¼rjetanya
+CsÃ¼rkÃ¶lesdÅ±lÅ‘
+CsÃ¼rpartitanya
+CsÃºszu-hegy
 Csutaj
 Csutajpuszta
 Csutas Hegy
-Csúzdidûlõ
-Csúzrész
-Cucaihatárrész
+CsÃºzdidÅ±lÅ‘
+CsÃºzrÃ©sz
+CucaihatÃ¡rrÃ©sz
 Cuca
-Cugosrész
-Cuha-Bakony-ér
+CugosrÃ©sz
+Cuha-Bakony-Ã©r
 Cuha-hegy
-Cuhai-Bakony-ér
+Cuhai-Bakony-Ã©r
 Cuhamajor
 Cuha
 Cuha Patak
-Cukorgyár
-Cukorgyártelep
+CukorgyÃ¡r
+CukorgyÃ¡rtelep
 Cukor-hegy
-Cukrosdûlõ
-Cukrosszõllõ
-Cún
-Czakóhalom
+CukrosdÅ±lÅ‘
+CukrosszÅ‘llÅ‘
+CÃºn
+CzakÃ³halom
 Czectanya
-Czégánytanya
-Czeglédi-tanya
+CzÃ©gÃ¡nytanya
+CzeglÃ©di-tanya
 Czegled
 Czeizingtelep
-Czekeháza
-Czekeházymajor
-Czékustanya
-Czelldömölk
+CzekehÃ¡za
+CzekehÃ¡zymajor
+CzÃ©kustanya
+CzelldÃ¶mÃ¶lk
 Czepel Island
-Czerékvölgy
+CzerÃ©kvÃ¶lgy
 Czermanntanya
 Czibak Halom
 Cziberetanya
-Czifraházapuszta
-Czigány Hegy
+CzifrahÃ¡zapuszta
+CzigÃ¡ny Hegy
 Cziglertanya
-Czingelúti Tanyák
+CzingelÃºti TanyÃ¡k
 Czirfuszmajor
-Czuczákmajor
+CzuczÃ¡kmajor
 Czukortanya
 Czumpftanya
 Czupytelep
-Dabasi Szõlõk
+Dabasi SzÅ‘lÅ‘k
 Dabas
 Dabitanya
-Dábótanya
-Dabrókaicsárda
-Dabróka
+DÃ¡bÃ³tanya
+DabrÃ³kaicsÃ¡rda
+DabrÃ³ka
 Dabronc
 Dabrony
 Dadapuszta
-Dádi-szõlõhegy
+DÃ¡di-szÅ‘lÅ‘hegy
 Dad
-Dádpuszta
-Dádszõllõhegy
-Dág
-Dahi-rét
+DÃ¡dpuszta
+DÃ¡dszÅ‘llÅ‘hegy
+DÃ¡g
+Dahi-rÃ©t
 Daja
 Dajapuszta
-Dáka
+DÃ¡ka
 Dakos
-Dálitanyák
-Dálitanya
-Dáliugar
-Dallárrész
+DÃ¡litanyÃ¡k
+DÃ¡litanya
+DÃ¡liugar
+DallÃ¡rrÃ©sz
 Dalloshegy
-Dalmand Állomás
+Dalmand ÃllomÃ¡s
 Dalmand
 Dalos-hegy
 Damak
-Damásdi-patak
-Dámóc
+DamÃ¡sdi-patak
+DÃ¡mÃ³c
 Danal
 Danal-patak
 Dancka
-Dancsadûlõ
-Dancsháza
-Dancsházitanya
-Dandétanya
+DancsadÅ±lÅ‘
+DancshÃ¡za
+DancshÃ¡zitanya
+DandÃ©tanya
 Danicz-puszta
 Daniellamajor
-Dánielpuszta
-Dánielrész
-Dánieltelep
-Danihízlalda
+DÃ¡nielpuszta
+DÃ¡nielrÃ©sz
+DÃ¡nieltelep
+DanihÃ­zlalda
 Danitzpuszta
-Dankóbokor
-Dankótanyák
-Dankótanya
-Dánszentmiklós
-Dány
-Darab-dûlõ
-Darab-kút
-Darabkúttanya
+DankÃ³bokor
+DankÃ³tanyÃ¡k
+DankÃ³tanya
+DÃ¡nszentmiklÃ³s
+DÃ¡ny
+Darab-dÅ±lÅ‘
+Darab-kÃºt
+DarabkÃºttanya
 Darabonttanya
-Darabosdûlõ
+DarabosdÅ±lÅ‘
 Darabos-hegy
 Daraboshegy
 Darabos
 Daracs-patak
 Darafarka
-Darálómalom
-Darányi-major
-Darányitanya
-Darány
-Daránypuszta
-Darásdói Patak
-Darásdó
-Daráska-hegy
-Daráska
+DarÃ¡lÃ³malom
+DarÃ¡nyi-major
+DarÃ¡nyitanya
+DarÃ¡ny
+DarÃ¡nypuszta
+DarÃ¡sdÃ³i Patak
+DarÃ¡sdÃ³
+DarÃ¡ska-hegy
+DarÃ¡ska
 Darassa
-Darázsdói-patak
-Darázsdópuszta
+DarÃ¡zsdÃ³i-patak
+DarÃ¡zsdÃ³puszta
 Darazsikpuszta
 Darba-hegy
-Dárdaifalu
-Dárdaitelep
+DÃ¡rdaifalu
+DÃ¡rdaitelep
 Darga Hegy
 Dargaitanya
-Darnó-hegy
-Darnó
-Darnózseli
-Daróci-hegy
-Daróczihalma
-Daróczymajor
-Darú-dûlõ
-Darú-halom-dûlõ
-Daru-hát
-Daruhát
-Daruhegyi Szõlõk
+DarnÃ³-hegy
+DarnÃ³
+DarnÃ³zseli
+DarÃ³ci-hegy
+DarÃ³czihalma
+DarÃ³czymajor
+DarÃº-dÅ±lÅ‘
+DarÃº-halom-dÅ±lÅ‘
+Daru-hÃ¡t
+DaruhÃ¡t
+Daruhegyi SzÅ‘lÅ‘k
 Daruhegy
 Darumajor
-Daruszállás
-Daruszentmiklós
+DaruszÃ¡llÃ¡s
+DaruszentmiklÃ³s
 Daru-sziget
 Daruszigettanya
-Daruvár
+DaruvÃ¡r
 Darvas
 Darvaspuszta
-Darvasszék
+DarvasszÃ©k
 Darvastanya
 Darvastelep
-Darza-ér
+Darza-Ã©r
 Darza
 Darza-patak
-Dáviddûlõ
-Dávidháza
-Dávidmajor
-Dávid Sor
-Dávod
-Dávodpuszta
-Dázsong
-Dázsony
-Deákföldpuszta
-Deák-halom
-Deákhegy
-Deákipuszta
-Deáktanya
-Debeák
+DÃ¡viddÅ±lÅ‘
+DÃ¡vidhÃ¡za
+DÃ¡vidmajor
+DÃ¡vid Sor
+DÃ¡vod
+DÃ¡vodpuszta
+DÃ¡zsong
+DÃ¡zsony
+DeÃ¡kfÃ¶ldpuszta
+DeÃ¡k-halom
+DeÃ¡khegy
+DeÃ¡kipuszta
+DeÃ¡ktanya
+DebeÃ¡k
 Debeje-halom
-Debercsény
-Debornyafõ
-Debrecen-Csapókert
+DebercsÃ©ny
+DebornyafÅ‘
+Debrecen-CsapÃ³kert
 Debreceni Monostor
-Debrecen-Kertváros
+Debrecen-KertvÃ¡ros
 Debrecen-Kondoros
-Debrecen Megyei Város
+Debrecen Megyei VÃ¡ros
 Debrecen
-Debrecen-Szabadságtelep
-Debrecen-Tégláskert
-Debrecen-Vásártér
+Debrecen-SzabadsÃ¡gtelep
+Debrecen-TÃ©glÃ¡skert
+Debrecen-VÃ¡sÃ¡rtÃ©r
 Debreczen
 Debreczin
-Debréte
-Debréte-patak
-Debrõbokor
-Déchytanya
-Décsi-halom
-Décsi-lapos
-Décsipáskum
-Décsipuszta
+DebrÃ©te
+DebrÃ©te-patak
+DebrÅ‘bokor
+DÃ©chytanya
+DÃ©csi-halom
+DÃ©csi-lapos
+DÃ©csipÃ¡skum
+DÃ©csipuszta
 Decs
-Dedei-dûlõ
-Dedejdûlõ
+Dedei-dÅ±lÅ‘
+DedejdÅ±lÅ‘
 Dedej-tanya
-Dedesi-Kecskés
-Dedeskecskés
-Dédes
-Dédestapolcsány
-Dedre-bérc
-Deérháza
-Dégenfeld Külsõtag
-Dégenfeld Pál-külsõtag
-Dégenfeld-tag
-Dég
+Dedesi-KecskÃ©s
+DedeskecskÃ©s
+DÃ©des
+DÃ©destapolcsÃ¡ny
+Dedre-bÃ©rc
+DeÃ©rhÃ¡za
+DÃ©genfeld KÃ¼lsÅ‘tag
+DÃ©genfeld PÃ¡l-kÃ¼lsÅ‘tag
+DÃ©genfeld-tag
+DÃ©g
 Deje
 Dejetag
-Dejtár
-Dékán-hegy
-Dékány-hegy
-Dél-dûlõ
-Délegyháza
-Delelõ-hegy
-Dél-hegy
-Déli-Bakony
-Deliház
-Delihegyirész
-Déli Hegy
-Déli Legelõ
-Délimajor
-Déli Pályaudvar
-Délirész
+DejtÃ¡r
+DÃ©kÃ¡n-hegy
+DÃ©kÃ¡ny-hegy
+DÃ©l-dÅ±lÅ‘
+DÃ©legyhÃ¡za
+DelelÅ‘-hegy
+DÃ©l-hegy
+DÃ©li-Bakony
+DelihÃ¡z
+DelihegyirÃ©sz
+DÃ©li Hegy
+DÃ©li LegelÅ‘
+DÃ©limajor
+DÃ©li PÃ¡lyaudvar
+DÃ©lirÃ©sz
 Delitanya
-Délitanya
-Déli Telep
-Déli Újtelep
-Déli-Válicka
-Délivölgy
-Délkút-major
-Délkútpuszta
-Déllõ
-Délódûlõ
-Délõ
-Dél-Tiszántúl
+DÃ©litanya
+DÃ©li Telep
+DÃ©li Ãšjtelep
+DÃ©li-VÃ¡licka
+DÃ©livÃ¶lgy
+DÃ©lkÃºt-major
+DÃ©lkÃºtpuszta
+DÃ©llÅ‘
+DÃ©lÃ³dÅ±lÅ‘
+DÃ©lÅ‘
+DÃ©l-TiszÃ¡ntÃºl
 Delyhegy
 Delytanya
-Demecseri Fõfolyás
+Demecseri FÅ‘folyÃ¡s
 Demecser
-Demeház
-Deménytanya
+DemehÃ¡z
+DemÃ©nytanya
 Demeteres
 Demeter
 Demeterpuszta
 Demetertanya
-Demjén
-Demjénpuszta
-Demjéntanya
-Dencsháza
-Dénesdmajor
-Dénesfa
-Déneskastély
-Déneslak
-Dénesmajor
-Dénes-puszta
-Dénestag
+DemjÃ©n
+DemjÃ©npuszta
+DemjÃ©ntanya
+DencshÃ¡za
+DÃ©nesdmajor
+DÃ©nesfa
+DÃ©neskastÃ©ly
+DÃ©neslak
+DÃ©nesmajor
+DÃ©nes-puszta
+DÃ©nestag
 Dennapuszta
-Depó
-Depresiunea Panonicã
+DepÃ³
+Depresiunea PanonicÄƒ
 Dera
 Dera-patak
-Dérczifölditanyák
-Dérczyföldi Tanyák
+DÃ©rczifÃ¶lditanyÃ¡k
+DÃ©rczyfÃ¶ldi TanyÃ¡k
 Derdpusta
-Derecskedûlõ
-Derecskei-Kálló
+DerecskedÅ±lÅ‘
+Derecskei-KÃ¡llÃ³
 Derecske
-Derecske-Vásártér
-Derekegyháza
-Derekegyházioldal
-Derekegyház
-Derék-hegy
-Derékhegy
-Derék Hegy
-Derék
-Derék-patak
-Derencsényitanya
+Derecske-VÃ¡sÃ¡rtÃ©r
+DerekegyhÃ¡za
+DerekegyhÃ¡zioldal
+DerekegyhÃ¡z
+DerÃ©k-hegy
+DerÃ©khegy
+DerÃ©k Hegy
+DerÃ©k
+DerÃ©k-patak
+DerencsÃ©nyitanya
 Derenk
-Deres Tó
-Dérfitanya
+Deres TÃ³
+DÃ©rfitanya
 Dergecs
 Dergecspuszta
-Derhástanya
-Déritanya
+DerhÃ¡stanya
+DÃ©ritanya
 Ders-hegy
-Dérytanya
+DÃ©rytanya
 Derzsicsere
-Derzsigát
-Derzsigát-tanya
+DerzsigÃ¡t
+DerzsigÃ¡t-tanya
 Derzstanya
 Derzstomajor
 Deseda
 Deseda-patak
-Deseda-vízfolyás
-Déshidai Õrhaz
-Déshida
-Désitanya
+Deseda-vÃ­zfolyÃ¡s
+DÃ©shidai Århaz
+DÃ©shida
+DÃ©sitanya
 Dessewffytanya
-Déssytanya
-Deszkás
-Deszkáspuszta
-Deszkástanya
-Deszkásürbõ
-Deszki Tanyák
+DÃ©ssytanya
+DeszkÃ¡s
+DeszkÃ¡spuszta
+DeszkÃ¡stanya
+DeszkÃ¡sÃ¼rbÅ‘
+Deszki TanyÃ¡k
 Deszk
-Detály
+DetÃ¡ly
 Detek
 Detk
 Dettrichtanya
 Deutschtanya
-Dévaványa
+DÃ©vavÃ¡nya
 Devecserihegy
 Devecser
-Dévényitanya
-Dézsa-patak
-Dezsiház-tanya
+DÃ©vÃ©nyitanya
+DÃ©zsa-patak
+DezsihÃ¡z-tanya
 Dezsitanya
-Dézsitanya
-Dezsõmajor
-Dezsõpuszta
-Dezsõtanya
-Dezsõtelep
-Dézsytanya
-Diászó
-Dicháza
-Didergõtanya
+DÃ©zsitanya
+DezsÅ‘major
+DezsÅ‘puszta
+DezsÅ‘tanya
+DezsÅ‘telep
+DÃ©zsytanya
+DiÃ¡szÃ³
+DichÃ¡za
+DidergÅ‘tanya
 Dienes-tanya
-Diktámos
+DiktÃ¡mos
 Dilitor
-Dilónia
+DilÃ³nia
 Dimatanya
 Dimitrovkispuszta
 Dimitrovpuszta
-Diner Béla-tanya
+Diner BÃ©la-tanya
 Dinnyeberki
-Dinnyeföldi Szõllõ
-Dinnyeföldi-szõlõ
-Dinnyeföld
+DinnyefÃ¶ldi SzÅ‘llÅ‘
+DinnyefÃ¶ldi-szÅ‘lÅ‘
+DinnyefÃ¶ld
 Dinnye-hegy
-Dinnyésbucka
-Dinnyésdûlõ
-Dinnyés-halom Melléke
-Dinnyéshalommellék
-Dinnyés-halom
-Dinnyéshalom
-Dinnyéshátitanya
-Dinnyéshát
-Dinnyés-hegy
-Dinnyés-Kajtori-csatorna
-Dinnyéslapos
-Dinnyés
-Dinnyéstanya
-Dinnye-szög-hát
-Dinnyészug
-Dinyésháti Tanya
-Diófasori Újtelep
-Diófél
-Dió-halom
-Diósberény
-Diósd
-Diósdûlõ
-Diósfasori Újtelep
-Diósgyõr
-Diós-hegy
-Diósi István-tanya
-Diósjenõ
-Dióskál
-Diós
-Dióspuszta
-Dióstanya
-Dióstelep
-Diósviszló
-Diósvölgymajor
-Diós-völgy
-Diószegitanyák
+DinnyÃ©sbucka
+DinnyÃ©sdÅ±lÅ‘
+DinnyÃ©s-halom MellÃ©ke
+DinnyÃ©shalommellÃ©k
+DinnyÃ©s-halom
+DinnyÃ©shalom
+DinnyÃ©shÃ¡titanya
+DinnyÃ©shÃ¡t
+DinnyÃ©s-hegy
+DinnyÃ©s-Kajtori-csatorna
+DinnyÃ©slapos
+DinnyÃ©s
+DinnyÃ©stanya
+Dinnye-szÃ¶g-hÃ¡t
+DinnyÃ©szug
+DinyÃ©shÃ¡ti Tanya
+DiÃ³fasori Ãšjtelep
+DiÃ³fÃ©l
+DiÃ³-halom
+DiÃ³sberÃ©ny
+DiÃ³sd
+DiÃ³sdÅ±lÅ‘
+DiÃ³sfasori Ãšjtelep
+DiÃ³sgyÅ‘r
+DiÃ³s-hegy
+DiÃ³si IstvÃ¡n-tanya
+DiÃ³sjenÅ‘
+DiÃ³skÃ¡l
+DiÃ³s
+DiÃ³spuszta
+DiÃ³stanya
+DiÃ³stelep
+DiÃ³sviszlÃ³
+DiÃ³svÃ¶lgymajor
+DiÃ³s-vÃ¶lgy
+DiÃ³szegitanyÃ¡k
 Dirdomb
 Diskahegy
 Diskamajor
 Diskapuszta
 Diszel
-Disznó-halom
-Disznóhalom
-Disznókõ
-Disznókõszõllõ
-Disznókút Észak
-Disznókúti tanyák
-Disznókút Kelet
-Disznó-kút
-Disznókút Nyugat
-Disznórét
-Disznós-hegy
-Disznóshorvát
-Disznótó
-Díter
+DisznÃ³-halom
+DisznÃ³halom
+DisznÃ³kÅ‘
+DisznÃ³kÅ‘szÅ‘llÅ‘
+DisznÃ³kÃºt Ã‰szak
+DisznÃ³kÃºti tanyÃ¡k
+DisznÃ³kÃºt Kelet
+DisznÃ³-kÃºt
+DisznÃ³kÃºt Nyugat
+DisznÃ³rÃ©t
+DisznÃ³s-hegy
+DisznÃ³shorvÃ¡t
+DisznÃ³tÃ³
+DÃ­ter
 Divikizug
 Dobaipuszta
 Dobaitanya
@@ -4681,578 +4681,578 @@ Dobapart
 Dobapuszta
 Dobi-halom
 Dobina
-Dobjánhegy
+DobjÃ¡nhegy
 Dobkereke
 Dobkereki
 Doboczky-tanya
-Dobódél
-Dobódûlõ
-Dobogóhát
-Dobogó-hegy
-Dobogóhegy
-Dobogói Házak
-Dobogói Szállás
-Dobogó-kõ
-Dobogókõ
-Dobogómajor
-Dobogó
-Dobogótanya
-Dobogó-tetõ
-Dobokanagyjárás
-Döbönkúti Dûlõ
+DobÃ³dÃ©l
+DobÃ³dÅ±lÅ‘
+DobogÃ³hÃ¡t
+DobogÃ³-hegy
+DobogÃ³hegy
+DobogÃ³i HÃ¡zak
+DobogÃ³i SzÃ¡llÃ¡s
+DobogÃ³-kÅ‘
+DobogÃ³kÅ‘
+DobogÃ³major
+DobogÃ³
+DobogÃ³tanya
+DobogÃ³-tetÅ‘
+DobokanagyjÃ¡rÃ¡s
+DÃ¶bÃ¶nkÃºti DÅ±lÅ‘
 Dobontapuszta
 Dobordali-patak
 Doborgazsziget
-Döbörhegyi Major
-Döbörhegy
-Döbör
-Dobos-dûlõ
+DÃ¶bÃ¶rhegyi Major
+DÃ¶bÃ¶rhegy
+DÃ¶bÃ¶r
+Dobos-dÅ±lÅ‘
 Dobos-major
 Dobospuszta
 Dobostanya
-Dobos Tó
-Dobosvölgy
-Dobó-tag
+Dobos TÃ³
+DobosvÃ¶lgy
+DobÃ³-tag
 Dobozipuszta
 Doboz
 Doboz-puszta
 Dobozytanya
 Dobra-hegy
-Döbre Bérc
-Döbrésimalom
+DÃ¶bre BÃ©rc
+DÃ¶brÃ©simalom
 Dobri
-Döbröce
-Dobroda-árok
+DÃ¶brÃ¶ce
+Dobroda-Ã¡rok
 Dobroda
 Dobroda-patak
-Döbrögec
-Döbrögpuszta
-Döbrököz
+DÃ¶brÃ¶gec
+DÃ¶brÃ¶gpuszta
+DÃ¶brÃ¶kÃ¶z
 Dobronhegy
-Döbrönteihegy
-Döbrönte
-Döbröntepuszta
-Döbrönteszõlõhegy
-Döbrönteújtelep
+DÃ¶brÃ¶nteihegy
+DÃ¶brÃ¶nte
+DÃ¶brÃ¶ntepuszta
+DÃ¶brÃ¶nteszÅ‘lÅ‘hegy
+DÃ¶brÃ¶nteÃºjtelep
 Dobronyapuszta
 Dobronyatanya
-Dobrosó-tanya
-Dobrozótanya
+DobrosÃ³-tanya
+DobrozÃ³tanya
 Dobsza
-Dóchegy
-Dóci-tó
-Dóc Major
-Dóc
-Döcöge-halom
-Dóczimajor
-Dódaitanyák
-Dóda
-Dodaszög
-Dóda-tanyák
-Dódipuszta
-Dögállás
-Döge
-Dög-halom
-Dög-hát
+DÃ³chegy
+DÃ³ci-tÃ³
+DÃ³c Major
+DÃ³c
+DÃ¶cÃ¶ge-halom
+DÃ³czimajor
+DÃ³daitanyÃ¡k
+DÃ³da
+DodaszÃ¶g
+DÃ³da-tanyÃ¡k
+DÃ³dipuszta
+DÃ¶gÃ¡llÃ¡s
+DÃ¶ge
+DÃ¶g-halom
+DÃ¶g-hÃ¡t
 Dognyai Tanya
-Dögösdûlõ
-Dögös-Káka-csatorna
-Dögös-Kákafoki-csatorna
-Dögös
-Dögöspuszta
-Dögös-tó
-Dögtér
-Dög-Tisza
-Dögvölgyi Puszta
-Dögvölgypuszta
-Dohányföld
-Dohánymajor
-Dohányosdûlõ
-Dohányos-ér
-Dohányos
-Dohányospuszta
-Dohányos Telep
-Dohányszáritó
-Dohánytanya
-Dohánytelep
-Doházitag
-Dokomás
+DÃ¶gÃ¶sdÅ±lÅ‘
+DÃ¶gÃ¶s-KÃ¡ka-csatorna
+DÃ¶gÃ¶s-KÃ¡kafoki-csatorna
+DÃ¶gÃ¶s
+DÃ¶gÃ¶spuszta
+DÃ¶gÃ¶s-tÃ³
+DÃ¶gtÃ©r
+DÃ¶g-Tisza
+DÃ¶gvÃ¶lgyi Puszta
+DÃ¶gvÃ¶lgypuszta
+DohÃ¡nyfÃ¶ld
+DohÃ¡nymajor
+DohÃ¡nyosdÅ±lÅ‘
+DohÃ¡nyos-Ã©r
+DohÃ¡nyos
+DohÃ¡nyospuszta
+DohÃ¡nyos Telep
+DohÃ¡nyszÃ¡ritÃ³
+DohÃ¡nytanya
+DohÃ¡nytelep
+DohÃ¡zitag
+DokomÃ¡s
 Doktortanya
-Dókustanya
+DÃ³kustanya
 Dolhaitag
 Dolhaytag
-Dolinai Gazdaság
-Dolinaitanyák
+Dolinai GazdasÃ¡g
+DolinaitanyÃ¡k
 Dolina
 Dolinapuszta
-Dolinavölgy
+DolinavÃ¶lgy
 Dolinkapuszta
 Dolka-hegy
-Dollárrész
-Dollártanya
+DollÃ¡rrÃ©sz
+DollÃ¡rtanya
 Dolosd
-Domaháza
-Domaszéki-csatorna
-Domaszéki-fõcsatorna
-Domaszék
-Dombár
-Dombay-tó
-Dombegyházi Út
-Dombegyház
-Dombhátdûlõ
-Dombhátimajor
-Dombiföld
+DomahÃ¡za
+DomaszÃ©ki-csatorna
+DomaszÃ©ki-fÅ‘csatorna
+DomaszÃ©k
+DombÃ¡r
+Dombay-tÃ³
+DombegyhÃ¡zi Ãšt
+DombegyhÃ¡z
+DombhÃ¡tdÅ±lÅ‘
+DombhÃ¡timajor
+DombifÃ¶ld
 Dombiratos
-Dombi Szõllõk
-Dombó-csatorna
-Dombói-csatorna
+Dombi SzÅ‘llÅ‘k
+DombÃ³-csatorna
+DombÃ³i-csatorna
 Domboripuszta
 Dombostanya
-Dombóvár Alsó
-Dombóvár
-Dombrád
-Dömefölde
-Dömök-hegy
+DombÃ³vÃ¡r AlsÃ³
+DombÃ³vÃ¡r
+DombrÃ¡d
+DÃ¶mefÃ¶lde
+DÃ¶mÃ¶k-hegy
 Domokosmajor
 Domokostanya
-Dömölki Major
+DÃ¶mÃ¶lki Major
 Domolospuszta
 Domonicstanya
 Domonkospuszta
 Domony
-Domonyvölgy
-Dömör-kapu
-Dömösi Átkelés
-Dömös
-Dömös-Révátkelés
-Domoszló
-Dömötöri
+DomonyvÃ¶lgy
+DÃ¶mÃ¶r-kapu
+DÃ¶mÃ¶si ÃtkelÃ©s
+DÃ¶mÃ¶s
+DÃ¶mÃ¶s-RÃ©vÃ¡tkelÃ©s
+DomoszlÃ³
+DÃ¶mÃ¶tÃ¶ri
 Domozdoga
 Domozdonya
-Dömsöd Állomás
-Dömsödi Árapasztó Csatorna
-Dömsödi-árapasztó
-Dömsödi Tanyák
-Dömsöd
-Dónatanya
-Donát
-Donát-patak
-Donáttanya
+DÃ¶msÃ¶d ÃllomÃ¡s
+DÃ¶msÃ¶di ÃrapasztÃ³ Csatorna
+DÃ¶msÃ¶di-Ã¡rapasztÃ³
+DÃ¶msÃ¶di TanyÃ¡k
+DÃ¶msÃ¶d
+DÃ³natanya
+DonÃ¡t
+DonÃ¡t-patak
+DonÃ¡ttanya
 Dondorog
-Döng-ér-csatorna
-Dong-ér-fõcsatorna
-Dong-éri-fõcsatorna
-Dongér
-Dongér-tó
-Dongó-tetõ
-Dongóvár
+DÃ¶ng-Ã©r-csatorna
+Dong-Ã©r-fÅ‘csatorna
+Dong-Ã©ri-fÅ‘csatorna
+DongÃ©r
+DongÃ©r-tÃ³
+DongÃ³-tetÅ‘
+DongÃ³vÃ¡r
 Donkatanya
-Donkó
-Dóramajor
-Dórapuszta
-Dóratanya
-Dor-Bágyog
-Dörgicse-Akali
-Dörgicse
-Dörgõ-hegy
-Dorgó
-Dorgószõllõ
-Dorkó
-Dormánd
-Dormány Homok
-Dormány Tó
+DonkÃ³
+DÃ³ramajor
+DÃ³rapuszta
+DÃ³ratanya
+Dor-BÃ¡gyog
+DÃ¶rgicse-Akali
+DÃ¶rgicse
+DÃ¶rgÅ‘-hegy
+DorgÃ³
+DorgÃ³szÅ‘llÅ‘
+DorkÃ³
+DormÃ¡nd
+DormÃ¡ny Homok
+DormÃ¡ny TÃ³
 Dornertanya
-Dör
+DÃ¶r
 Dorocka
-Dorogháza
-Dorogiásmezeje
-Dorogiás-Telekföld
+DoroghÃ¡za
+DorogiÃ¡smezeje
+DorogiÃ¡s-TelekfÃ¶ld
 Dorogi-patak
 Dorogi Puszta
-Dörög
+DÃ¶rÃ¶g
 Dorog
 Dorogpuszta
-Dörögpuszta
-Dorog Úti Tanyák
-Doromlás
-Doromlás Puszta
-Döröske
-Doroszlói-patak
-Dorozsma-Majsai-fõcsatorna
-Dõrytabód
+DÃ¶rÃ¶gpuszta
+Dorog Ãšti TanyÃ¡k
+DoromlÃ¡s
+DoromlÃ¡s Puszta
+DÃ¶rÃ¶ske
+DoroszlÃ³i-patak
+Dorozsma-Majsai-fÅ‘csatorna
+DÅ‘rytabÃ³d
 Dorza-patak
-Dörzeménypuszta
-Dósa-halmi-dûlõ
-Dósahalomdûlõ
-Dósahalomi Dûlõ
-Dósaiúti Dûlõ
-Dötk
-Dövényitanya
-Dövény
+DÃ¶rzemÃ©nypuszta
+DÃ³sa-halmi-dÅ±lÅ‘
+DÃ³sahalomdÅ±lÅ‘
+DÃ³sahalomi DÅ±lÅ‘
+DÃ³saiÃºti DÅ±lÅ‘
+DÃ¶tk
+DÃ¶vÃ©nyitanya
+DÃ¶vÃ©ny
 Dozmat
-Dózsadûlõ
-Dózsa György-telep
-Dózsa-hegy
-Dózsahegy
-Dózsaholdas
-Dózsa Károly-tanya
-Dózsamajor
-Dózsa-puszta
-Dózsatag
-Dózsatanya
-Dózsatelep
-Dózsa Úti Tanyák
-Dózsaúti Tanya
-Drágahegy
+DÃ³zsadÅ±lÅ‘
+DÃ³zsa GyÃ¶rgy-telep
+DÃ³zsa-hegy
+DÃ³zsahegy
+DÃ³zsaholdas
+DÃ³zsa KÃ¡roly-tanya
+DÃ³zsamajor
+DÃ³zsa-puszta
+DÃ³zsatag
+DÃ³zsatanya
+DÃ³zsatelep
+DÃ³zsa Ãšti TanyÃ¡k
+DÃ³zsaÃºti Tanya
+DrÃ¡gahegy
 Dragon Tanya
 Dragony
-Drágszél
-Drávacsehi
-Drávacsepely Állomás
-Drávacsepely
-Drávafok
-Drávagárdony
-Drávaiványi
-Drávakeresztúr
-Dráva Melléki Síkság
-Dráva-mellék
-Dráva Mente
-Dráva Menti Síkság
-Drávapalkonya
-Drávapiski
-Dráva-sík
-Dráva-síkság
-Drávaszabolcs
-Drávaszentes
-Drávaszerdahely
-Drávasztárai Tanya
-Drávasztára
-Drávatamási
-Drégely-dûlõ
-Drégely
-Drégelypalánk
-Drégelyvár
+DrÃ¡gszÃ©l
+DrÃ¡vacsehi
+DrÃ¡vacsepely ÃllomÃ¡s
+DrÃ¡vacsepely
+DrÃ¡vafok
+DrÃ¡vagÃ¡rdony
+DrÃ¡vaivÃ¡nyi
+DrÃ¡vakeresztÃºr
+DrÃ¡va MellÃ©ki SÃ­ksÃ¡g
+DrÃ¡va-mellÃ©k
+DrÃ¡va Mente
+DrÃ¡va Menti SÃ­ksÃ¡g
+DrÃ¡vapalkonya
+DrÃ¡vapiski
+DrÃ¡va-sÃ­k
+DrÃ¡va-sÃ­ksÃ¡g
+DrÃ¡vaszabolcs
+DrÃ¡vaszentes
+DrÃ¡vaszerdahely
+DrÃ¡vasztÃ¡rai Tanya
+DrÃ¡vasztÃ¡ra
+DrÃ¡vatamÃ¡si
+DrÃ©gely-dÅ±lÅ‘
+DrÃ©gely
+DrÃ©gelypalÃ¡nk
+DrÃ©gelyvÃ¡r
 Dreschertanya
-Drótár
-Drótostanya
-Drucskómalom
-Dubicsány
-Duboczkydûlõ
+DrÃ³tÃ¡r
+DrÃ³tostanya
+DrucskÃ³malom
+DubicsÃ¡ny
+DuboczkydÅ±lÅ‘
 Duchmovszki
 Duchmovszkytanya
-Dúc-tanya
+DÃºc-tanya
 Ducztanya
 Dudar-hegy
 Dudari-patak
 Dudar
-Dudáska-hegy
-Dudáska
-Dudástanya
+DudÃ¡ska-hegy
+DudÃ¡ska
+DudÃ¡stanya
 Dugdelpuszta
-Dugótanya
+DugÃ³tanya
 Duka
-Dulácskatanya
-Dûlõháti Szõlõk
-Dûlõhát
-Dûlõlapos
+DulÃ¡cskatanya
+DÅ±lÅ‘hÃ¡ti SzÅ‘lÅ‘k
+DÅ±lÅ‘hÃ¡t
+DÅ±lÅ‘lapos
 Dulovitspuszta
-Dûlõzug
-Dûltfás
-Dunaalmás
-Dunabogdány
-Dunadûlõi Tanyák
-Dunaegyháza Állomás
-Dunaegyháza
-Dunaerdei Dûlõ
+DÅ±lÅ‘zug
+DÅ±ltfÃ¡s
+DunaalmÃ¡s
+DunabogdÃ¡ny
+DunadÅ±lÅ‘i TanyÃ¡k
+DunaegyhÃ¡za ÃllomÃ¡s
+DunaegyhÃ¡za
+Dunaerdei DÅ±lÅ‘
 Dunafalva
-Dunaföldvár Felsõ
-Dunaföldvár
-Dunafüred
-Dunaharaszti Alsó
+DunafÃ¶ldvÃ¡r FelsÅ‘
+DunafÃ¶ldvÃ¡r
+DunafÃ¼red
+Dunaharaszti AlsÃ³
 Dunaharaszti
-Dunaharaszti Rév
-Dunaidûlõ
-Dunai Finomító
-Dunairév
+Dunaharaszti RÃ©v
+DunaidÅ±lÅ‘
+Dunai FinomÃ­tÃ³
+DunairÃ©v
 Dunai Sziget
 Dunakanyar
-Dunakeszi Alsó
-Dunakeszi-Gyártelep
+Dunakeszi AlsÃ³
+Dunakeszi-GyÃ¡rtelep
 Dunakeszi
 Dunakiliti
-Dunakisvarsány
-Dunakömlõd
-Dunamezõ
-Dunanagyvarsány
-Dunánál
-Dunántúli-dombság
-Dunántúli-középhegység
-Dunántúl
-Dunapartdûlõ
-Dunaparti Teher Pályaudvar
+DunakisvarsÃ¡ny
+DunakÃ¶mlÅ‘d
+DunamezÅ‘
+DunanagyvarsÃ¡ny
+DunÃ¡nÃ¡l
+DunÃ¡ntÃºli-dombsÃ¡g
+DunÃ¡ntÃºli-kÃ¶zÃ©phegysÃ©g
+DunÃ¡ntÃºl
+DunapartdÅ±lÅ‘
+Dunaparti Teher PÃ¡lyaudvar
 Dunapart
 Dunapataj
-Dunapentele Külsõ
+Dunapentele KÃ¼lsÅ‘
 Dunapentele
 Dunaremete
 Duna Sor
 Dunaszeg
-Dunaszekcsõ
-Dunaszekscö
-Dunaszél
-Dunaszentbenedeki Tanyák
+DunaszekcsÅ‘
+DunaszekscÃ¶
+DunaszÃ©l
+Dunaszentbenedeki TanyÃ¡k
 Dunaszentbenedek
-Dunaszentgyörgyi-csatorna
-Dunaszentgyörgyi Hegy
-Dunaszentgyörgy
-Dunaszentmiklós
-Dunaszentpál
+DunaszentgyÃ¶rgyi-csatorna
+DunaszentgyÃ¶rgyi Hegy
+DunaszentgyÃ¶rgy
+DunaszentmiklÃ³s
+DunaszentpÃ¡l
 Duna-sziget
 Dunasziget
-Dunatetétlen Állomás
-Dunatetétlen
+DunatetÃ©tlen ÃllomÃ¡s
+DunatetÃ©tlen
 Duna-Tisza-csatorna
-Duna-Tisza Köze
-Dunaújuáros
-Dunaújváros Kikötõ
-Dunaújváros Külsõ
-Dunaújváros Megyei Város
-Dunaújváros
-Dunavarsány
+Duna-Tisza KÃ¶ze
+DunaÃºjuÃ¡ros
+DunaÃºjvÃ¡ros KikÃ¶tÅ‘
+DunaÃºjvÃ¡ros KÃ¼lsÅ‘
+DunaÃºjvÃ¡ros Megyei VÃ¡ros
+DunaÃºjvÃ¡ros
+DunavarsÃ¡ny
 Dunavecsei Tanya
 Dunavecse
-Duna-völg.-fõcsatorna
-Duna-völgyi-fõcsatorna
-Dunazug-hegység
-Dunazug-hegyvidék
+Duna-vÃ¶lg.-fÅ‘csatorna
+Duna-vÃ¶lgyi-fÅ‘csatorna
+Dunazug-hegysÃ©g
+Dunazug-hegyvidÃ©k
 Dunazug
 Durahalom
-Durgó-hegy
-Durgó
-Durgótanya
-Durkótanya
+DurgÃ³-hegy
+DurgÃ³
+DurgÃ³tanya
+DurkÃ³tanya
 Durmoss Hunka
-Durrogós-tetõ
+DurrogÃ³s-tetÅ‘
 Dursttanya
-Dusnok-ér
+Dusnok-Ã©r
 Dusnok
 Dusnok-patak
 Dusnokpuszta
-Dúzsnokpuszta
-Dúzs
-Dúzstanya
-Duzzasztó-telep
-Dzsunyáktanya
+DÃºzsnokpuszta
+DÃºzs
+DÃºzstanya
+DuzzasztÃ³-telep
+DzsunyÃ¡ktanya
 East-Main Canal
-Ebástadûlõ
-Ebásta
-Ebédlátó-hegy
-Ebédlesi-hegy
-Ebédlesõ-hegy
-Ebédlesõ
-Ebédvesztõpuszta
-Ebergény
-Ebergõc
+EbÃ¡stadÅ±lÅ‘
+EbÃ¡sta
+EbÃ©dlÃ¡tÃ³-hegy
+EbÃ©dlesi-hegy
+EbÃ©dlesÅ‘-hegy
+EbÃ©dlesÅ‘
+EbÃ©dvesztÅ‘puszta
+EbergÃ©ny
+EbergÅ‘c
 Ebesi-major
 Ebes
 Ebestanya
-Ebes-tó
+Ebes-tÃ³
 Ebhegy
-Ebszõnybánya
-Ebüllõpuszta
-Ecsedi-láp
+EbszÅ‘nybÃ¡nya
+EbÃ¼llÅ‘puszta
+Ecsedi-lÃ¡p
 Ecseditanya
 Ecsed Marsh
-Ecséd
+EcsÃ©d
 Ecsegfalva
 Ecsegipuszta
 Ecseg
 Ecsegpuszta
-Ecse Láp
+Ecse LÃ¡p
 Ecseny
-Ecséri Major
-Ecsér
+EcsÃ©ri Major
+EcsÃ©r
 Ecser
-Ecsérpuszta
+EcsÃ©rpuszta
 Ecse-zug
 Ecsimajor
 Ecskend
 Ecs
-Écs
+Ã‰cs
 Edde
-Edelény Alsó
-Edelény
+EdelÃ©ny AlsÃ³
+EdelÃ©ny
 Edeles
 Edericsi-hegy
 Ederics
-Édes Halom
+Ã‰des Halom
 Edina-major
 Edinapuszta
 Edve
 Edvi-tag
-Egedidûlõ
+EgedidÅ±lÅ‘
 Egeihalom
-Égenföld
-Egerág
+Ã‰genfÃ¶ld
+EgerÃ¡g
 Egeralja
 Egeraracsa
 Egerbakta
 Egerbocs
 Eger-csatorna
-Egercsehi Bányatelep
-Egercsehi Kõszénbányatelep
+Egercsehi BÃ¡nyatelep
+Egercsehi KÅ‘szÃ©nbÃ¡nyatelep
 Egercsehi
 Egerditanya
-Egeres-völgy
+Egeres-vÃ¶lgy
 Egerfarmos
-Eger-Felnémet
-Egerlövõ
+Eger-FelnÃ©met
+EgerlÃ¶vÅ‘
 Egermalom
-Eger Megyei Város
+Eger Megyei VÃ¡ros
 Eger
 Eger-patak
 Eger-Patak
 Eger-puszta
-Egerszalók
+EgerszalÃ³k
 Egerszeghegy
 Egerszegimalom
 Egerszegitanya
 Egerszeg-malom
 Egerszeg
 Egerszegpuszta
-Égerszög
-Egerszólát
-Eger-Tihamér
-Egervári Hegy
-Egervár
-Egervár-Vasboldogasszony
-Eger-víz
-Egervölgy
-Égéstanya
-Égetõ Halom
-Égetõhegy
-Égett-akoli-tábla
-Égetthalom
-Égett Halom
-Égettház
-Égettmajor
-Égettmalom
-Égettmalomtelep
-Égettrét
+Ã‰gerszÃ¶g
+EgerszÃ³lÃ¡t
+Eger-TihamÃ©r
+EgervÃ¡ri Hegy
+EgervÃ¡r
+EgervÃ¡r-Vasboldogasszony
+Eger-vÃ­z
+EgervÃ¶lgy
+Ã‰gÃ©stanya
+Ã‰getÅ‘ Halom
+Ã‰getÅ‘hegy
+Ã‰gett-akoli-tÃ¡bla
+Ã‰getthalom
+Ã‰gett Halom
+Ã‰getthÃ¡z
+Ã‰gettmajor
+Ã‰gettmalom
+Ã‰gettmalomtelep
+Ã‰gettrÃ©t
 Eggert
 Egonmajor
 Egresi Hegy
 Egresliget
-Égres
+Ã‰gres
 Egres-patak
 Egrestanya
-Egresvadásztanya
+EgresvadÃ¡sztanya
 Egrihegyalja
 Egri-hegy
 Egri Patak
 Egritag
 Egritanya
-Egriútdûlõ
-Egri Úti Dûlõ
-Egyedházamajor
+EgriÃºtdÅ±lÅ‘
+Egri Ãšti DÅ±lÅ‘
+EgyedhÃ¡zamajor
 Egyed-hegy
 Egyed
-Egyed-Rábacsanak
+Egyed-RÃ¡bacsanak
 Egyedtelek
 Egyeduta
 Egyek
 Egyes-halom
 Egyes Halom
 Egyes-tag
-Egyesült-Tápió
+EgyesÃ¼lt-TÃ¡piÃ³
 Egyes-zug
-Egyetemi Tangazdaság
-Egyházapuszta
-Egyházasdengeleg
-Egyházasfalu
-Egyházasgergei Tanya
-Egyházasgerge
-Egyházasharaszti
-Egyházashetye
-Egyházashollós
-Egyházaskeszõ
-Egyházaskozár
-Egyházasrádóc
-Egyházbér
-Egyházerdõ
-Egyházhalma
-Egyház-halom
-Egyházpuszta
-Egyház-sziget
-Egyházsziget-tanya
-Egyháztag
-Egyháztagok
-Egyház-tanya
-Egyháztanya
+Egyetemi TangazdasÃ¡g
+EgyhÃ¡zapuszta
+EgyhÃ¡zasdengeleg
+EgyhÃ¡zasfalu
+EgyhÃ¡zasgergei Tanya
+EgyhÃ¡zasgerge
+EgyhÃ¡zasharaszti
+EgyhÃ¡zashetye
+EgyhÃ¡zashollÃ³s
+EgyhÃ¡zaskeszÅ‘
+EgyhÃ¡zaskozÃ¡r
+EgyhÃ¡zasrÃ¡dÃ³c
+EgyhÃ¡zbÃ©r
+EgyhÃ¡zerdÅ‘
+EgyhÃ¡zhalma
+EgyhÃ¡z-halom
+EgyhÃ¡zpuszta
+EgyhÃ¡z-sziget
+EgyhÃ¡zsziget-tanya
+EgyhÃ¡ztag
+EgyhÃ¡ztagok
+EgyhÃ¡z-tanya
+EgyhÃ¡ztanya
 Ehrenreichtanya
 Einser Kanal
 Eipel
 Ekerestanya
-Ékestanya
+Ã‰kestanya
 Ekkertanya
-Eklézsiamalom
-Elágazás
+EklÃ©zsiamalom
+ElÃ¡gazÃ¡s
 Elege
 Elekestanya
-Eleki-fõcsatorna
+Eleki-fÅ‘csatorna
 Elek
 Elekpuszta
 Elektanya
-Elemérmajor
-Elemérpuszta
-Elepi-tárolók
-Elepi-víztároló
+ElemÃ©rmajor
+ElemÃ©rpuszta
+Elepi-tÃ¡rolÃ³k
+Elepi-vÃ­ztÃ¡rolÃ³
 Elep
 Eleptanya
-Élesd Csárda
-Élesd
-Éles Hegy
-Éles-kúti-ér
-Élestanya
-Eligály
-Eligálytanya
-Ellai Tanyák
+Ã‰lesd CsÃ¡rda
+Ã‰lesd
+Ã‰les Hegy
+Ã‰les-kÃºti-Ã©r
+Ã‰lestanya
+EligÃ¡ly
+EligÃ¡lytanya
+Ellai TanyÃ¡k
 Ellamajor
 Ellend
 Ellendpuszta
-Ellés-part
-Elõ-fûz
-Elõ-galya
-Elõ-halom
-Elõhalom
-Elõhátitanya
-Elõhát
-Elõháttanyák
-Elõhát Tanya
-Elõ-hegy
-Elõhegy
-Elõre
-Elõszállás
-Elõtelek
-Élõvíz-csatorna
-Élõvíz-fõcsatorna
-Élõvíz
-Elsõkerületi Bányatelep
-Elsõkerületi Vitézföldek
-Elsõ Mándibokor
-Elsõ Rozsréti Bokor
-Elsõsor
-Elsõvízdûlõ
+EllÃ©s-part
+ElÅ‘-fÅ±z
+ElÅ‘-galya
+ElÅ‘-halom
+ElÅ‘halom
+ElÅ‘hÃ¡titanya
+ElÅ‘hÃ¡t
+ElÅ‘hÃ¡ttanyÃ¡k
+ElÅ‘hÃ¡t Tanya
+ElÅ‘-hegy
+ElÅ‘hegy
+ElÅ‘re
+ElÅ‘szÃ¡llÃ¡s
+ElÅ‘telek
+Ã‰lÅ‘vÃ­z-csatorna
+Ã‰lÅ‘vÃ­z-fÅ‘csatorna
+Ã‰lÅ‘vÃ­z
+ElsÅ‘kerÃ¼leti BÃ¡nyatelep
+ElsÅ‘kerÃ¼leti VitÃ©zfÃ¶ldek
+ElsÅ‘ MÃ¡ndibokor
+ElsÅ‘ RozsrÃ©ti Bokor
+ElsÅ‘sor
+ElsÅ‘vÃ­zdÅ±lÅ‘
 Elvirapuszta
 Elzamajor
-Emilháza
+EmilhÃ¡za
 Emiliamajor
-Emlékmajor
+EmlÃ©kmajor
 Emmamajor
 Emmatanya
 Emmatelep
-Emõdidûlõ
-Emõd
+EmÅ‘didÅ±lÅ‘
+EmÅ‘d
 Emse-patak
 Emsepuszta
 Encsencs
@@ -5261,1180 +5261,1180 @@ Encspuszta
 Endesmajor
 Endespuszta
 Endltanya
-Endrédpuszta
-Endrédújmajor
+EndrÃ©dpuszta
+EndrÃ©dÃºjmajor
 Endrefalva
-Endrõc
-Endrõcpuszta
-Endrõd
+EndrÅ‘c
+EndrÅ‘cpuszta
+EndrÅ‘d
 Enese
 Englermalom
 Enyingi-patak
 Enying
-Eör
-Eõrymajor
-Eötvös-emlékmû
-Eötvösi Tanyák
-Eötvös Szobor
-Eperjesdûlõ
+EÃ¶r
+EÅ‘rymajor
+EÃ¶tvÃ¶s-emlÃ©kmÅ±
+EÃ¶tvÃ¶si TanyÃ¡k
+EÃ¶tvÃ¶s Szobor
+EperjesdÅ±lÅ‘
 Eperjeshalom
-Eperjes-hegyhát
-Eperjesidûlõ
-Eperjesi-hegyhát
-Eperjesi Tanyák
-Eperjeske Alsó
-Eperjeskei-legelõ
+Eperjes-hegyhÃ¡t
+EperjesidÅ±lÅ‘
+Eperjesi-hegyhÃ¡t
+Eperjesi TanyÃ¡k
+Eperjeske AlsÃ³
+Eperjeskei-legelÅ‘
 Eperjeske
 Eperjes-lapos
 Eperjesmajor
 Eperjes
 Eperjespuszta
-Eperjes-szög
+Eperjes-szÃ¶g
 Eperjestanya
-Eperjes-Tokaji Hegység
+Eperjes-Tokaji HegysÃ©g
 Eperjes-Tokaji-hegysor
 Eperjes-Tokaj Mountains
-Eplény
-Epöl
-Epres-dûlõ
-Epresdûlõ
+EplÃ©ny
+EpÃ¶l
+Epres-dÅ±lÅ‘
+EpresdÅ±lÅ‘
 Epreskert
 Epresmajor
 Ercsi
 Ercs
-Érd Alsó
+Ã‰rd AlsÃ³
 Erdeifalu
 Erdeihegy
 Erdeimajor
 Erdeitanya
-Erdélyitanya
+ErdÃ©lyitanya
 Erdeytanya
-Érd Felsõ
-Érdliget
-Érd
-Erdõ Alja Dûlõ
-Erdõalja
-Erdõaljdûlõ
-Erdõbényefürdõ
-Erdõ Benyei Fürdõ
-Erdõbénye
-Erdõcsokonya
-Erdõ-dûlõ
-Erdõdûlõ
-Erdõdykert
-Erdõdy-tag
-Erdõdytag
-Erdõdy-tanya
-Erdõdytanya
-Erdõföldek
-Erdõföld
-Erdõfû
-Erdõfûpusztai Szivattyútelep
-Erdõhalmi Tanyák
-Erdõhát
-Erdõháza
-Erdõháztelep
-Erdõ-hegyi-szõlõk
-Erdõ-hegy
-Erdõhely
-Erdõhelynyésta
-Erdõhivatal Gaja
-Erdõhorváti
-Erdõi Major
-Erdõirtás
-Erdõkertes
-Erdõkövesd
-Erdõkürt
-Erdõlak
-Erdõmajor
-Erdõ-mezõ
-Erdõ
-Erdõpaskom
-Erdõsdûlõ
-Erdõsház
-Erdõsitanya
-Erdõslak
-Erdõsmárok
-Erdõsmecskei Tanyák
-Erdõsmecske
-Erdõsor
-Erdõstanya
-Erdõs Tanya
-Erdõszél
-Erdõsziget
-Erdõ-szög
-Erdõszõllõk
-Erdõszõllõ
-Erdõszõlõk
-Erdõszõlõ
-Erdõ-Tagyos
-Erdõtagyospuszta
-Erdõtanya
-Erdõtarcsa
-Erdõtelek
-Erdõtelep
-Erdõváros
-Erdõvölgyi Tanya
-Erdõvölgy
-Erdõzug
-Érd-Parkváros
-Érdûlõitanyák
-Ér-dûlõ
-Erekköze
-Ereklyés
-Erenyõ
-Ereszkedõhát
-Eresztõ-galya
-Eresztõ Hegy
-Eresztõ
-Eresztvénybánya
-Eresztvénybánya-telep
-Eresztvénycsorgó
-Eresztvény-hegy
-Eresztvény
-Ereszvény
-Ereszvénytanya
-Ér-halom
-Érhát
-Éri-patak
-Éritanya
+Ã‰rd FelsÅ‘
+Ã‰rdliget
+Ã‰rd
+ErdÅ‘ Alja DÅ±lÅ‘
+ErdÅ‘alja
+ErdÅ‘aljdÅ±lÅ‘
+ErdÅ‘bÃ©nyefÃ¼rdÅ‘
+ErdÅ‘ Benyei FÃ¼rdÅ‘
+ErdÅ‘bÃ©nye
+ErdÅ‘csokonya
+ErdÅ‘-dÅ±lÅ‘
+ErdÅ‘dÅ±lÅ‘
+ErdÅ‘dykert
+ErdÅ‘dy-tag
+ErdÅ‘dytag
+ErdÅ‘dy-tanya
+ErdÅ‘dytanya
+ErdÅ‘fÃ¶ldek
+ErdÅ‘fÃ¶ld
+ErdÅ‘fÅ±
+ErdÅ‘fÅ±pusztai SzivattyÃºtelep
+ErdÅ‘halmi TanyÃ¡k
+ErdÅ‘hÃ¡t
+ErdÅ‘hÃ¡za
+ErdÅ‘hÃ¡ztelep
+ErdÅ‘-hegyi-szÅ‘lÅ‘k
+ErdÅ‘-hegy
+ErdÅ‘hely
+ErdÅ‘helynyÃ©sta
+ErdÅ‘hivatal Gaja
+ErdÅ‘horvÃ¡ti
+ErdÅ‘i Major
+ErdÅ‘irtÃ¡s
+ErdÅ‘kertes
+ErdÅ‘kÃ¶vesd
+ErdÅ‘kÃ¼rt
+ErdÅ‘lak
+ErdÅ‘major
+ErdÅ‘-mezÅ‘
+ErdÅ‘
+ErdÅ‘paskom
+ErdÅ‘sdÅ±lÅ‘
+ErdÅ‘shÃ¡z
+ErdÅ‘sitanya
+ErdÅ‘slak
+ErdÅ‘smÃ¡rok
+ErdÅ‘smecskei TanyÃ¡k
+ErdÅ‘smecske
+ErdÅ‘sor
+ErdÅ‘stanya
+ErdÅ‘s Tanya
+ErdÅ‘szÃ©l
+ErdÅ‘sziget
+ErdÅ‘-szÃ¶g
+ErdÅ‘szÅ‘llÅ‘k
+ErdÅ‘szÅ‘llÅ‘
+ErdÅ‘szÅ‘lÅ‘k
+ErdÅ‘szÅ‘lÅ‘
+ErdÅ‘-Tagyos
+ErdÅ‘tagyospuszta
+ErdÅ‘tanya
+ErdÅ‘tarcsa
+ErdÅ‘telek
+ErdÅ‘telep
+ErdÅ‘vÃ¡ros
+ErdÅ‘vÃ¶lgyi Tanya
+ErdÅ‘vÃ¶lgy
+ErdÅ‘zug
+Ã‰rd-ParkvÃ¡ros
+Ã‰rdÅ±lÅ‘itanyÃ¡k
+Ã‰r-dÅ±lÅ‘
+ErekkÃ¶ze
+EreklyÃ©s
+ErenyÅ‘
+EreszkedÅ‘hÃ¡t
+EresztÅ‘-galya
+EresztÅ‘ Hegy
+EresztÅ‘
+EresztvÃ©nybÃ¡nya
+EresztvÃ©nybÃ¡nya-telep
+EresztvÃ©nycsorgÃ³
+EresztvÃ©ny-hegy
+EresztvÃ©ny
+EreszvÃ©ny
+EreszvÃ©nytanya
+Ã‰r-halom
+Ã‰rhÃ¡t
+Ã‰ri-patak
+Ã‰ritanya
 Erk
-Érközitanyák
+Ã‰rkÃ¶zitanyÃ¡k
 Erlau
-Erlény-hegy
-Érmellék
+ErlÃ©ny-hegy
+Ã‰rmellÃ©k
 Erneitanya
-Ernfeldszõllõ
-Ernõmajor
-Ernõtanya
+ErnfeldszÅ‘llÅ‘
+ErnÅ‘major
+ErnÅ‘tanya
 Ernyeitanya
-Ernyõdûlõ
-Erõmû-lakótelep
-Erõmûtelep
-Erõmû-tó
-Erõsmajor
-Erõsmezõdûlõ
-Erõspuszta
-Erõstanya
-Érparti Szõllõk
-Érparti-szõlõk
-Érpart
-Érpatak-csatorna
-Érpataki-fõfolyás
-Érpatak
-Érréve
-Érsekcsanád
-Érsekhalma
-Érsekhalom
-Érsekiharta
-Érsekiszentikrály
-Érsekiszentkirály
-Érsekvadkert
-Értem
-Értény
+ErnyÅ‘dÅ±lÅ‘
+ErÅ‘mÅ±-lakÃ³telep
+ErÅ‘mÅ±telep
+ErÅ‘mÅ±-tÃ³
+ErÅ‘smajor
+ErÅ‘smezÅ‘dÅ±lÅ‘
+ErÅ‘spuszta
+ErÅ‘stanya
+Ã‰rparti SzÅ‘llÅ‘k
+Ã‰rparti-szÅ‘lÅ‘k
+Ã‰rpart
+Ã‰rpatak-csatorna
+Ã‰rpataki-fÅ‘folyÃ¡s
+Ã‰rpatak
+Ã‰rrÃ©ve
+Ã‰rsekcsanÃ¡d
+Ã‰rsekhalma
+Ã‰rsekhalom
+Ã‰rsekiharta
+Ã‰rsekiszentikrÃ¡ly
+Ã‰rsekiszentkirÃ¡ly
+Ã‰rsekvadkert
+Ã‰rtem
+Ã‰rtÃ©ny
 Ert-major
-Erzsébetbányatelep
-Erzsébet-ér
-Erzsébetfalva
-Erzsébethegy
-Erzsébeti-ér
-Erzsébetioldal
-Erzsébetliget
-Erzsébetmajor
-Erzsébet-malom
-Erzsébet
-Erzsébetoldal
-Erzsébetpuszta
-Erzsébetszõllõhegy
-Erzsébettag
-Erzsébet-tanya
-Erzsébettanya
-Erzsébettelek
-Erzsébettelep
-Erzsébet Tér
-Erzsébetváros
+ErzsÃ©betbÃ¡nyatelep
+ErzsÃ©bet-Ã©r
+ErzsÃ©betfalva
+ErzsÃ©bethegy
+ErzsÃ©beti-Ã©r
+ErzsÃ©betioldal
+ErzsÃ©betliget
+ErzsÃ©betmajor
+ErzsÃ©bet-malom
+ErzsÃ©bet
+ErzsÃ©betoldal
+ErzsÃ©betpuszta
+ErzsÃ©betszÅ‘llÅ‘hegy
+ErzsÃ©bettag
+ErzsÃ©bet-tanya
+ErzsÃ©bettanya
+ErzsÃ©bettelek
+ErzsÃ©bettelep
+ErzsÃ©bet TÃ©r
+ErzsÃ©betvÃ¡ros
 Esed
-Esegvár
+EsegvÃ¡r
 Esiszik
 Esi-telek
 Eskerennatanya
 Estemajor
-Északdûlõ
-Északi-Bakony
-Északi-csatorna
-Északi-fõcsatorna
-Északi-legelõ
-Északi-övcsatorna
-Északirész
-Északi Teher Pályaudvar
-Északi Telep
-Északi-Válicka
-Eszéki Országúti Tanyák
-Eszényi Malom
-Eszény
-Eszenyõitanya
-Eszenyõtanya
-Eszenyõtelep
-Eszkála-bérc
-Esztára
-Esztár
-Esztáva
-Eszterág
-Eszterágpuszta
+Ã‰szakdÅ±lÅ‘
+Ã‰szaki-Bakony
+Ã‰szaki-csatorna
+Ã‰szaki-fÅ‘csatorna
+Ã‰szaki-legelÅ‘
+Ã‰szaki-Ã¶vcsatorna
+Ã‰szakirÃ©sz
+Ã‰szaki Teher PÃ¡lyaudvar
+Ã‰szaki Telep
+Ã‰szaki-VÃ¡licka
+EszÃ©ki OrszÃ¡gÃºti TanyÃ¡k
+EszÃ©nyi Malom
+EszÃ©ny
+EszenyÅ‘itanya
+EszenyÅ‘tanya
+EszenyÅ‘telep
+EszkÃ¡la-bÃ©rc
+EsztÃ¡ra
+EsztÃ¡r
+EsztÃ¡va
+EszterÃ¡g
+EszterÃ¡gpuszta
 Eszteregnye
-Esztergályhomok
-Esztergályhorváti
-Esztergály
-Esztergomi Tábor
-Esztergom-Kenyérmezõ
-Esztergom-Kertváros
+EsztergÃ¡lyhomok
+EsztergÃ¡lyhorvÃ¡ti
+EsztergÃ¡ly
+Esztergomi TÃ¡bor
+Esztergom-KenyÃ©rmezÅ‘
+Esztergom-KertvÃ¡ros
 Esztergom
-Esztergom-Visegrádi-hegység
-Eszterháza
-Eszterházypuszta
+Esztergom-VisegrÃ¡di-hegysÃ©g
+EszterhÃ¡za
+EszterhÃ¡zypuszta
 Eszteripuszta
 Esztermajor
 Eszterpuszta
 Esztertanya
-Ete Állomás
-Etei Ér
+Ete ÃllomÃ¡s
+Etei Ã‰r
 Etelka
 Etelkapuszta
-Etelmajori Alsótanyák
-Etelmajori Felsõtanyák
+Etelmajori AlsÃ³tanyÃ¡k
+Etelmajori FelsÅ‘tanyÃ¡k
 Etelmajor
 Ete
-Eternitgyár
+EternitgyÃ¡r
 Etesi Akna
 Etes
-Etyeki-dombság
+Etyeki-dombsÃ¡g
 Etyek
 Euchtanya
-Évaakla
-Évalak
-Évamajor
-Évapuszta
-Évatanya
+Ã‰vaakla
+Ã‰valak
+Ã‰vamajor
+Ã‰vapuszta
+Ã‰vatanya
 Ezeres
 Ezredestanya
 Ezrespuszta
-Ézsiástanya
-Ezüsthegy
-Ezüstszõllõk
-Ezüstszõllõ
-Ezüstszõlõk
-Fábiánháza
-Fábiánlakpuszta
-Fábián-major
-Fábián
-Fábiánsebestyén
-Fábiántanya
+Ã‰zsiÃ¡stanya
+EzÃ¼sthegy
+EzÃ¼stszÅ‘llÅ‘k
+EzÃ¼stszÅ‘llÅ‘
+EzÃ¼stszÅ‘lÅ‘k
+FÃ¡biÃ¡nhÃ¡za
+FÃ¡biÃ¡nlakpuszta
+FÃ¡biÃ¡n-major
+FÃ¡biÃ¡n
+FÃ¡biÃ¡nsebestyÃ©n
+FÃ¡biÃ¡ntanya
 Fabriciustanya
-Fábrytanya
-Fácánkerti Major
-Fácánkertmajor
-Fácánkert
-Fácánkertpuszta
-Fácánosdûlõ
-Fácányos
+FÃ¡brytanya
+FÃ¡cÃ¡nkerti Major
+FÃ¡cÃ¡nkertmajor
+FÃ¡cÃ¡nkert
+FÃ¡cÃ¡nkertpuszta
+FÃ¡cÃ¡nosdÅ±lÅ‘
+FÃ¡cÃ¡nyos
 Fadd
-Faház-tetõ
+FahÃ¡z-tetÅ‘
 Faiskola
 Faizat
-Fajcsáktanya
+FajcsÃ¡ktanya
 Fajdas
 Fajdos
-Fajdostetõ
-Faj-dûlõ
-Fáj
+FajdostetÅ‘
+Faj-dÅ±lÅ‘
+FÃ¡j
 Fajsz
 Fajzat
 Fakos
 Fakospuszta
-Falashodály
-Fallóskút
-Falualjadûlõ
+FalashodÃ¡ly
+FallÃ³skÃºt
+FalualjadÅ±lÅ‘
 Falualja
-Falubattyán
-Faluberki Elsõ-malom
+FalubattyÃ¡n
+Faluberki ElsÅ‘-malom
 Faluberki
-Faludûlõ
-Faluföldje
+FaludÅ±lÅ‘
+FalufÃ¶ldje
 Falu Gaza-hegy
 Faluhely
 Faluhelypuszta
-Falu Körüli Tanyák
+Falu KÃ¶rÃ¼li TanyÃ¡k
 Falumalom
-Falumelléki Tanyák
+FalumellÃ©ki TanyÃ¡k
 Falusziget
-Faluvéghalma
-Faluvég
-Fályirész
-Familiadûlõ
+FaluvÃ©ghalma
+FaluvÃ©g
+FÃ¡lyirÃ©sz
+FamiliadÅ±lÅ‘
 Fancsali Tanya
 Fancsal
 Fancsa
-Fáncsi-hegy
-Fáncsihegy
+FÃ¡ncsi-hegy
+FÃ¡ncsihegy
 Fancsika
 Fancsikapuszta
-Fáncs
-Fánimajor
-Fánipuszta
-Fanyótanya
-Farád
-Fáradttanya
-Faragódûlõ
-Faragótanyák
-Faragótanya
-Farányitanya
+FÃ¡ncs
+FÃ¡nimajor
+FÃ¡nipuszta
+FanyÃ³tanya
+FarÃ¡d
+FÃ¡radttanya
+FaragÃ³dÅ±lÅ‘
+FaragÃ³tanyÃ¡k
+FaragÃ³tanya
+FarÃ¡nyitanya
 Farcsaitanya
 Farcsa
-Fárikúti Dûlõ
-Fári Kút
-Farkasalmás
-Farkas Bérc
+FÃ¡rikÃºti DÅ±lÅ‘
+FÃ¡ri KÃºt
+FarkasalmÃ¡s
+Farkas BÃ©rc
 Farkasberekpuszta
-Farkasbükk
+FarkasbÃ¼kk
 Farkas-domb
 Farkasdpuszta
-Farkasdûlõ
-Farkaserdõ
-Farkaserdõtanya
-Farkas-ér-köz
-Farkas Fája
+FarkasdÅ±lÅ‘
+FarkaserdÅ‘
+FarkaserdÅ‘tanya
+Farkas-Ã©r-kÃ¶z
+Farkas FÃ¡ja
 Farkasfa
 Farkasfapuszta
 Farkasgaz
-Farkasgyepû
+FarkasgyepÅ±
 Farkas-halom
 Farkashalom
-Farkas-hát
-Farkashát
-Farkashegyi Szõllõ
-Farkashegyi Szõlõ
+Farkas-hÃ¡t
+FarkashÃ¡t
+Farkashegyi SzÅ‘llÅ‘
+Farkashegyi SzÅ‘lÅ‘
 Farkas-hegy
 Farkashegy
-Farkaskúti Major
-Farkas-kút
-Farkaskút
-Farkaslyuk Bányatelep
-Farkaslyuki Bányatelep
+FarkaskÃºti Major
+Farkas-kÃºt
+FarkaskÃºt
+Farkaslyuk BÃ¡nyatelep
+Farkaslyuki BÃ¡nyatelep
 Farkaslyuk
-Farkaslyuk-tetõ
+Farkaslyuk-tetÅ‘
 Farkasmajor
-Farkasmály
+FarkasmÃ¡ly
 Farkas
 Farkaspuszta
-Farkassimánd
-Farkassûrûje Tanya
+FarkassimÃ¡nd
+FarkassÅ±rÅ±je Tanya
 Farkas-sziget
 Farkassziget
 Farkas-tanya
 Farkastanya
 Farkastorokpuszta
-Farkasvölgyifürdõ
-Farkasvölgyi-puszta
-Farkasvölgy
-Farkasvölgypuszta
-Farkasvölgytanya
+FarkasvÃ¶lgyifÃ¼rdÅ‘
+FarkasvÃ¶lgyi-puszta
+FarkasvÃ¶lgy
+FarkasvÃ¶lgypuszta
+FarkasvÃ¶lgytanya
 Farkaszug
-Farkirét
+FarkirÃ©t
 Farmos
-Fásdunadomb
-Fásértanya
-Fási Halom
-Fás
-Fáspuszta
-Fástanya
+FÃ¡sdunadomb
+FÃ¡sÃ©rtanya
+FÃ¡si Halom
+FÃ¡s
+FÃ¡spuszta
+FÃ¡stanya
 Fatelep
-Fattyasitanyák
-Fáy-dûlõ
-Fáyfelsõtanya
-Fáyszõllõ
-Fáytanya
+FattyasitanyÃ¡k
+FÃ¡y-dÅ±lÅ‘
+FÃ¡yfelsÅ‘tanya
+FÃ¡yszÅ‘llÅ‘
+FÃ¡ytanya
 Fazekasboda
 Fazekasdencs
 Fazekas-hegy
 Fazekas
 Fazekas-tag
-Fecske-dûlõ
-Fecskefarkidûlõ
-Fecske-part-dûlõ
+Fecske-dÅ±lÅ‘
+FecskefarkidÅ±lÅ‘
+Fecske-part-dÅ±lÅ‘
 Fecskepart
-Fecskés Domb
-Fecskés
-Fecskeszõllõ
+FecskÃ©s Domb
+FecskÃ©s
+FecskeszÅ‘llÅ‘
 Fecsketanya
-Fedémes
+FedÃ©mes
 Fedormalom
 Fegyverestanya
-Fegyvernek Állomás
-Fegyverneki Tanyák
+Fegyvernek ÃllomÃ¡s
+Fegyverneki TanyÃ¡k
 Fegyvernek
-Fegyvernek-Örményes
-Fehérbackómajor
-Fehérbackó
-Fehérbézseny
-Fehéregyháza-puszta
-Fehéregyházapuszta
-Fehérfalu
-Fehérföld
-Fehérgyarmat
-Fehérhát
-Fehérházi-dûlõ
-Fehérház
-Fehérház Puszta
-Fehér-hegy
-Fehér Hegy
-Fehér-kõ-lápa
-Fehér-kõ
-Fehér-Körös
-Fehérlócsárda
-Fehérlópuszta
-Fehérnádidûlõ
-Fehér-nád
-Fehérnád-tanya
-Fehérpart
-Fehér-patak
-Fehér-szék
-Fehér-szik
-Fehér Szik
-Fehértanya
-Fehértelep
-Fehértói Domb
-Fehértóiszõllõ
-Fehértói Tanya
-Fehértó-Majsai-fõcsatorna
-Fehér-tó
-Fehér Tó
-Fehértó
-Fehértópuszta
-Fehértó-tanya
-Fehérvárcscurgó
-Fehérvárcsurgói Tanyák
-Fehérvárcsurgó
-Fehérvárscsurgó
-Fehérvízidûlõ
+Fegyvernek-Ã–rmÃ©nyes
+FehÃ©rbackÃ³major
+FehÃ©rbackÃ³
+FehÃ©rbÃ©zseny
+FehÃ©regyhÃ¡za-puszta
+FehÃ©regyhÃ¡zapuszta
+FehÃ©rfalu
+FehÃ©rfÃ¶ld
+FehÃ©rgyarmat
+FehÃ©rhÃ¡t
+FehÃ©rhÃ¡zi-dÅ±lÅ‘
+FehÃ©rhÃ¡z
+FehÃ©rhÃ¡z Puszta
+FehÃ©r-hegy
+FehÃ©r Hegy
+FehÃ©r-kÅ‘-lÃ¡pa
+FehÃ©r-kÅ‘
+FehÃ©r-KÃ¶rÃ¶s
+FehÃ©rlÃ³csÃ¡rda
+FehÃ©rlÃ³puszta
+FehÃ©rnÃ¡didÅ±lÅ‘
+FehÃ©r-nÃ¡d
+FehÃ©rnÃ¡d-tanya
+FehÃ©rpart
+FehÃ©r-patak
+FehÃ©r-szÃ©k
+FehÃ©r-szik
+FehÃ©r Szik
+FehÃ©rtanya
+FehÃ©rtelep
+FehÃ©rtÃ³i Domb
+FehÃ©rtÃ³iszÅ‘llÅ‘
+FehÃ©rtÃ³i Tanya
+FehÃ©rtÃ³-Majsai-fÅ‘csatorna
+FehÃ©r-tÃ³
+FehÃ©r TÃ³
+FehÃ©rtÃ³
+FehÃ©rtÃ³puszta
+FehÃ©rtÃ³-tanya
+FehÃ©rvÃ¡rcscurgÃ³
+FehÃ©rvÃ¡rcsurgÃ³i TanyÃ¡k
+FehÃ©rvÃ¡rcsurgÃ³
+FehÃ©rvÃ¡rscsurgÃ³
+FehÃ©rvÃ­zidÅ±lÅ‘
 Fejer County
-Fejércse
-Fejérmajor
-Fejér Megye
-Fejér
-Fejes-tetõ
-Fejõ
-Fejõtanya
+FejÃ©rcse
+FejÃ©rmajor
+FejÃ©r Megye
+FejÃ©r
+Fejes-tetÅ‘
+FejÅ‘
+FejÅ‘tanya
 Feked
 Feker
 Fekete-berek
-Feketebézseny
+FeketebÃ©zseny
 Feketebokormajor
 Fekete-bokor
 Feketebokortanya
 Fekete-domb
-Feketedûlõ
+FeketedÅ±lÅ‘
 Fekete Ember-hegy
-Fekete-erdei-szõlõ
-Fekete-erdõ
-Feketeerdõ
-Feketeér
-Feketeföldek
-Feketeföldi Tanyák
-Feketeföld
+Fekete-erdei-szÅ‘lÅ‘
+Fekete-erdÅ‘
+FeketeerdÅ‘
+FeketeÃ©r
+FeketefÃ¶ldek
+FeketefÃ¶ldi TanyÃ¡k
+FeketefÃ¶ld
 Fekete Hajag
-Feketehalmitanyák
+FeketehalmitanyÃ¡k
 Fekete-halom
 Feketehalom
 Fekete Halom
 Feketehalom Tanya
-Feketeház
-Feketeház Puszta
-Feketeháztanya
+FeketehÃ¡z
+FeketehÃ¡z Puszta
+FeketehÃ¡ztanya
 Fekete-hegy
 Feketehegy
 Fekete Hegy
-Feketehíd
-Feketei Szõllõk
+FeketehÃ­d
+Feketei SzÅ‘llÅ‘k
 Feketekapu
-Fekete-Kastély
-Fekete-Körös
+Fekete-KastÃ©ly
+Fekete-KÃ¶rÃ¶s
 Feketemajor
-Fekete Metszés
+Fekete MetszÃ©s
 Feketenagytanya
 Fekete
 Fekete-Papaj
 Fekete-patak
 Feketepuszta
-Feketeréthát
-Feketerét
-Feketesár
-Feketesárpuszta
-Fekete-séd
+FeketerÃ©thÃ¡t
+FeketerÃ©t
+FeketesÃ¡r
+FeketesÃ¡rpuszta
+Fekete-sÃ©d
 Feketeszeg
-Fekete-szék
-Feketeszél
+Fekete-szÃ©k
+FeketeszÃ©l
 Feketetag
 Feketetanya
-Fekete-tó
-Fekete Tó
+Fekete-tÃ³
+Fekete TÃ³
 Feketeugar
-Fekete-víz-folyó
-Fekete-víz
-Feketevízpuszta
-Feketó
-Felcsút
-Feldebrõ
-Félegyházai-vízfolyás
-Félegyháza Puszta
-Félegyházatanya
-Félegyházi Tó
-Félegyházi-vízfolyás
-Felfölditanya
-Felgyõ
-Felhágó
-Felhágópuszta
-Félhalom
-Félixháza
-Félixmajor
-Feljáródûlõ
-Fellegvár
-Fellegvártanya
-Felnémet
-Felpéc
-Felsõábrány
-Felsõadacs
-Felsõágazáspuszta
-Felsõakol
-Felsõalpár
-Felsõaranyod
-Felsõátokháza
-Felsõbabád
-Felsõbadur
-Felsõbagod
-Felsõbakérhát
-Felsõbánya
-Felsõbányatelep
-Felsõ-Baránd-major
-Felsõbarkocás
-Felsõbedeghvölgyi Szõllõk
-Felsõbéndek
-Felsõ Béndek-puszta
-Felsõbene
-Felsõberecki
-Felsõberecska
-Felsõberkifalu
-Felsõbesenyõ
-Felsõbesnyõ
-Felsõ-Bikád
-Felsõbikkvölgy
-Felsõbikol-puszta
-Felsõbirkajárás
-Felsõbocsárdûlõ
-Felsõ Bogács
-Felsõbogárd
-Felsõbogárdpuszta
-Felsõbogát
-Felsõbogátpuszta
-Felsõboldogkáta
-Felsõbörcsháza
-Felsõbörcsházapuszta
-Felsõ-bozót
-Felsõbúberek
-Felsõcebe
-Felsõcéce
-Felsõ-Cikó-hegy
-Felsõcikola
-Felsõcikolapuszta
-Felsõ Cikó
-Felsõ-Csákány
-Felsõcsalános
-Felsõ-Csámpa
-Felsõcsárdadûlõ
-Felsõcsárdai Dûlõ
-Felsõcsatár
-Felsõcsernyéd
-Felsõcserpuszta
-Felsõcsesztapuszta
-Felsõcsetény
-Felsõ-Csillag
-Felsõcsinger
-Felsõcsingervölgy
-Felsõcsólyos
-Felsõ-Csönget
-Felsõcsordajárásdûlõ
-Felsõcsordajárás
-Felsõcsurgó
-Felsõcún
-Felsõdabasi Dûlõ
-Felsõdabrony
+Fekete-vÃ­z-folyÃ³
+Fekete-vÃ­z
+FeketevÃ­zpuszta
+FeketÃ³
+FelcsÃºt
+FeldebrÅ‘
+FÃ©legyhÃ¡zai-vÃ­zfolyÃ¡s
+FÃ©legyhÃ¡za Puszta
+FÃ©legyhÃ¡zatanya
+FÃ©legyhÃ¡zi TÃ³
+FÃ©legyhÃ¡zi-vÃ­zfolyÃ¡s
+FelfÃ¶lditanya
+FelgyÅ‘
+FelhÃ¡gÃ³
+FelhÃ¡gÃ³puszta
+FÃ©lhalom
+FÃ©lixhÃ¡za
+FÃ©lixmajor
+FeljÃ¡rÃ³dÅ±lÅ‘
+FellegvÃ¡r
+FellegvÃ¡rtanya
+FelnÃ©met
+FelpÃ©c
+FelsÅ‘Ã¡brÃ¡ny
+FelsÅ‘adacs
+FelsÅ‘Ã¡gazÃ¡spuszta
+FelsÅ‘akol
+FelsÅ‘alpÃ¡r
+FelsÅ‘aranyod
+FelsÅ‘Ã¡tokhÃ¡za
+FelsÅ‘babÃ¡d
+FelsÅ‘badur
+FelsÅ‘bagod
+FelsÅ‘bakÃ©rhÃ¡t
+FelsÅ‘bÃ¡nya
+FelsÅ‘bÃ¡nyatelep
+FelsÅ‘-BarÃ¡nd-major
+FelsÅ‘barkocÃ¡s
+FelsÅ‘bedeghvÃ¶lgyi SzÅ‘llÅ‘k
+FelsÅ‘bÃ©ndek
+FelsÅ‘ BÃ©ndek-puszta
+FelsÅ‘bene
+FelsÅ‘berecki
+FelsÅ‘berecska
+FelsÅ‘berkifalu
+FelsÅ‘besenyÅ‘
+FelsÅ‘besnyÅ‘
+FelsÅ‘-BikÃ¡d
+FelsÅ‘bikkvÃ¶lgy
+FelsÅ‘bikol-puszta
+FelsÅ‘birkajÃ¡rÃ¡s
+FelsÅ‘bocsÃ¡rdÅ±lÅ‘
+FelsÅ‘ BogÃ¡cs
+FelsÅ‘bogÃ¡rd
+FelsÅ‘bogÃ¡rdpuszta
+FelsÅ‘bogÃ¡t
+FelsÅ‘bogÃ¡tpuszta
+FelsÅ‘boldogkÃ¡ta
+FelsÅ‘bÃ¶rcshÃ¡za
+FelsÅ‘bÃ¶rcshÃ¡zapuszta
+FelsÅ‘-bozÃ³t
+FelsÅ‘bÃºberek
+FelsÅ‘cebe
+FelsÅ‘cÃ©ce
+FelsÅ‘-CikÃ³-hegy
+FelsÅ‘cikola
+FelsÅ‘cikolapuszta
+FelsÅ‘ CikÃ³
+FelsÅ‘-CsÃ¡kÃ¡ny
+FelsÅ‘csalÃ¡nos
+FelsÅ‘-CsÃ¡mpa
+FelsÅ‘csÃ¡rdadÅ±lÅ‘
+FelsÅ‘csÃ¡rdai DÅ±lÅ‘
+FelsÅ‘csatÃ¡r
+FelsÅ‘csernyÃ©d
+FelsÅ‘cserpuszta
+FelsÅ‘csesztapuszta
+FelsÅ‘csetÃ©ny
+FelsÅ‘-Csillag
+FelsÅ‘csinger
+FelsÅ‘csingervÃ¶lgy
+FelsÅ‘csÃ³lyos
+FelsÅ‘-CsÃ¶nget
+FelsÅ‘csordajÃ¡rÃ¡sdÅ±lÅ‘
+FelsÅ‘csordajÃ¡rÃ¡s
+FelsÅ‘csurgÃ³
+FelsÅ‘cÃºn
+FelsÅ‘dabasi DÅ±lÅ‘
+FelsÅ‘dabrony
 Felsodacs
-Felsõdánosi Tanyák
-Felsõdobos
-Felsõdobsza
-Felsõdörgicse
-Felsõ-dûlõ
-Felsõegerszeg
-Felsõegreskáta
-Felsõegrespuszta
-Felsõerdõ
-Felsõerdõpuszta
-Felsõerek
-Felsõerzsébetpuszta
-Felsõfakos
-Felsõfarkasdmajor
-Felsõfarkasd
-Felsõfeketeerdõ
-Felsõ-földek
-Felsõföldi Tanya
-Felsõföld
-Felsõfülöp
-Felsõfûtelekimajor
-Felsõfütyemajor
-Felsõgagy
-Felsõgaicspuszta
+FelsÅ‘dÃ¡nosi TanyÃ¡k
+FelsÅ‘dobos
+FelsÅ‘dobsza
+FelsÅ‘dÃ¶rgicse
+FelsÅ‘-dÅ±lÅ‘
+FelsÅ‘egerszeg
+FelsÅ‘egreskÃ¡ta
+FelsÅ‘egrespuszta
+FelsÅ‘erdÅ‘
+FelsÅ‘erdÅ‘puszta
+FelsÅ‘erek
+FelsÅ‘erzsÃ©betpuszta
+FelsÅ‘fakos
+FelsÅ‘farkasdmajor
+FelsÅ‘farkasd
+FelsÅ‘feketeerdÅ‘
+FelsÅ‘-fÃ¶ldek
+FelsÅ‘fÃ¶ldi Tanya
+FelsÅ‘fÃ¶ld
+FelsÅ‘fÃ¼lÃ¶p
+FelsÅ‘fÅ±telekimajor
+FelsÅ‘fÃ¼tyemajor
+FelsÅ‘gagy
+FelsÅ‘gaicspuszta
 Fels~ogalambos
-Felsõgalla
-Felsõ Gáspár Sor
-Felsõgilip
-Felsõgöd
-Felsõgóla
-Felsõgörzsöny
-Felsõ Grébics-puszta
-Felsõgyánt
-Felsõgyántpuszta
-Felsõgyár
-Felsõgyócs
-Felsõgyörgyös
-Felsõgyótapuszta
-Felsõgyükés
-Felsõ-Hajag
-Felsõhalom
-Felsõhard
-Felsõhegyes
-Felsõ-hegy
-Felsõhegy
-Felsõ Hegy
-Felsõhék
-Felsõhernád
-Felsõhetény
-Felsõhídvég
-Felsõhídvégpuszta
-Felsõhomokerdõ
-Felsõhomok
-Felsõ Horváthmalom
-Felsõ Hosszú Hegy
-Felsõ Hüllõ
-Felsõhuta
-Felsõ Iskola
-Felsõistvánd
-Felsõiszkáz
-Felsõivánpuszta
-Felsõjánosfa
-Felsõjárási Iskola
-Felsõ-járás
-Felsõjárás
-Felsõkakpuszta
-Felsõkalkaturális
-Felsõkanda
-Felsõ Kápláros Hegy
-Felsõkapony
-Felsõkara
-Felsõkaru
-Felsõkatalin-bányatelep
-Felsõkátótanya
-Felsõkéked
-Felsõkelecsény
-Felsõkenderes
-Felsõ-Keselyûs
-Felsõkiskert
-Felsõkistelek
-Felsõ Kõforrás-puszta
-Felsõkölked
-Felsõkolónia
-Felsõkommasszáció
-Felsõkommaszáció
-Felsõkommaszszáció
-Felsõkörtvélyes
-Felsõ-Kovács-gyep
-Felsõkövesd
-Felsõközpont
-Felsõlajos
-Felsõlajos-puszta
-Felsõlajospuszta
-Felsõlegencse
-Felsõlengyend
-Felsõleperdi-halastavak
-Felsõleperd
-Felsõlög
-Felsõ-major
-Felsõmajor
-Felsõmajor Termelõszövetkezet
-Felsõmakárdûlõ
-Felsõmakár
-Felsõ Makó-puszta
-Felsõmalom
-Felsõ Malom
-Felsõmáma
-Felsõmándpuszta
-Felsõmarác
-Felsõmegyes
-Felsõméntelek
-Felsõ-Menyõd
-Felsõméra
-Felsõmezõ
-Felsõmikebuda
-Felsõmindszent
-Felsõmocsoládi-patak
-Felsõmocsolád
-Felsõmonostor
-Felsõmóricgát
-Felsõ-morotva
-Felsõmuszáj
-Felsõnádasd
-Felsõnána
-Felsõ-Nedves-hegy
-Felsõ
-Felsõnyárád
-Felsõnyáregyháza
-Felsõnyék
-Felsõ Nyerges-puszta
-Felsõnyiget
-Felsõnyires
-Felsõnyírespuszta
-Felsõnyírvárimajor
-Felsõnyirvármajor
-Felsõnyomás
-Felsõöreghegy
-Felsõöregszõllõk
-Felsõ-Öreg-Túr
-Felsõörs
-Felsõörspuszta
-Felsõpáhok
-Felsõpakony
-Felsõ-palaj-puszta
-Felsõpálos
-Felsõ-partos-szék
-Felsõpáskum
-Felsõpatlan
-Felsõ-patlan-puszta
-Felsõpaty
-Felsõpázsit
-Felsõpél
-Felsõpélpuszta
-Felsõpere
-Felsõperepuszta
-Felsõpeszér
-Felsõpetény
-Felsõpettend
-Felsõpóczapuszta
-Felsõponyipuszta
-Felsõ Ponyvád
-Felsõpuszta
-Felsõrácegres
-Felsõráda
-Felsõrajk
-Felsõregmec
-Felsõréti Dûlõ
-Felsõ-rét
-Felsõrét
-Felsõrév
-Felsõrönök
-Felsõrozsnakpuszta
-Felsõrozsnakvölgy
-Felsõsarlóspuszta
-Felsõsashalomdûlõ
-Felsõsáskalapos
-Felsõsegesd
-Felsõsima
-Felsõsomlyó
-Felsõsóskútbokor
-Felsõ Sóstanyai Földek
-Felsõsötétmajor
-Felsõstrázsa
-Felsõ-Sütveny
-Felsõszállás
-Felsõszállások
-Felsõszalmavár-major
-Felsõ-Szalmavár
-Felsõ-szánas-puszta
-Felsõszapud
-Felsõszapudpuszta
-Felsõszászberek
-Felsõszéktó
-Felsõszeleste
-Felsõszemenye
-Felsõ Szénásvölgy
-Felsõszenterzsébet
-Felsõszentiváni Tanyák
-Felsõszentiván Kismajor
-Felsõszentiván
-Felsõszentkata
-Felsõszentkirály
-Felsõszentmárton
-Felsõ Sziget
-Felsõszigettanya
-Felsõszitányipuszta
-Felsõszolgaegyháza
-Felsõszõllõk
-Felsõszõllõ
-Felsõszölnök
-Felsõszõlõk
-Felsõszõlõ
-Felsõszór
-Felsõsztaukadûlõ
-Felsõsztaukaidûlõ
-Felsõsztávkadûlõ
-Felsõ-Szúha
-Felsõ-szúnyogi-határ
-Felsõszúnyog
-Felsõszúnyog-puszta
-Felsõtábpuszta
-Felsõtag
-Felsõtanyák
-Felsõtanya
-Felsõtapazd
-Felsõtápiói Tanyák
-Felsõtápiói Tanya
-Felsõtápió
-Felsõ-Tápió
-Felsõtárkány
-Felsõtarnóca
-Felsõtéglaház
-Felsõtelekesi Major
-Felsõtelekesmajor
-Felsõtelekes
-Felsõtelek
-Felsõtelep
-Felsõtengelic
-Felsõterézhalom
-Felsõtételalja
-Felsõtöbörzsök
-Felsõ Tókaj Puszta
-Felsõtold
-Felsõtöllöspuszta
-Felsõ-tó
-Felsõtukor
-Felsõ Újhegy
-Felsõ-Új-hegy
-Felsõújhegytanya
-Felsõungi Hegy
-Felsõ-Ung
-Felsõutaspuszta
-Felsõ-Vadács
-Felsõvadász
-Felsõ-Válicka
-Felsõvány
-Felsõvárosi Feketeföldek
-Felsõvárosi Vályogvetõtelep
-Felsõváros
-Felsõvasdinnyepuszta
-Felsõ-Vénkert
-Felsõvenyim
-Felsõvonyarc
-Felsõ-zátony
-Felsõzsitfa
-Felsõzsolca
-Felsõzsúnypuszta
-Felszabadulás Úti Lakótelep
-Felszabadulás Útja
-Felszabadulás Út
-Félszermajor
+FelsÅ‘galla
+FelsÅ‘ GÃ¡spÃ¡r Sor
+FelsÅ‘gilip
+FelsÅ‘gÃ¶d
+FelsÅ‘gÃ³la
+FelsÅ‘gÃ¶rzsÃ¶ny
+FelsÅ‘ GrÃ©bics-puszta
+FelsÅ‘gyÃ¡nt
+FelsÅ‘gyÃ¡ntpuszta
+FelsÅ‘gyÃ¡r
+FelsÅ‘gyÃ³cs
+FelsÅ‘gyÃ¶rgyÃ¶s
+FelsÅ‘gyÃ³tapuszta
+FelsÅ‘gyÃ¼kÃ©s
+FelsÅ‘-Hajag
+FelsÅ‘halom
+FelsÅ‘hard
+FelsÅ‘hegyes
+FelsÅ‘-hegy
+FelsÅ‘hegy
+FelsÅ‘ Hegy
+FelsÅ‘hÃ©k
+FelsÅ‘hernÃ¡d
+FelsÅ‘hetÃ©ny
+FelsÅ‘hÃ­dvÃ©g
+FelsÅ‘hÃ­dvÃ©gpuszta
+FelsÅ‘homokerdÅ‘
+FelsÅ‘homok
+FelsÅ‘ HorvÃ¡thmalom
+FelsÅ‘ HosszÃº Hegy
+FelsÅ‘ HÃ¼llÅ‘
+FelsÅ‘huta
+FelsÅ‘ Iskola
+FelsÅ‘istvÃ¡nd
+FelsÅ‘iszkÃ¡z
+FelsÅ‘ivÃ¡npuszta
+FelsÅ‘jÃ¡nosfa
+FelsÅ‘jÃ¡rÃ¡si Iskola
+FelsÅ‘-jÃ¡rÃ¡s
+FelsÅ‘jÃ¡rÃ¡s
+FelsÅ‘kakpuszta
+FelsÅ‘kalkaturÃ¡lis
+FelsÅ‘kanda
+FelsÅ‘ KÃ¡plÃ¡ros Hegy
+FelsÅ‘kapony
+FelsÅ‘kara
+FelsÅ‘karu
+FelsÅ‘katalin-bÃ¡nyatelep
+FelsÅ‘kÃ¡tÃ³tanya
+FelsÅ‘kÃ©ked
+FelsÅ‘kelecsÃ©ny
+FelsÅ‘kenderes
+FelsÅ‘-KeselyÅ±s
+FelsÅ‘kiskert
+FelsÅ‘kistelek
+FelsÅ‘ KÅ‘forrÃ¡s-puszta
+FelsÅ‘kÃ¶lked
+FelsÅ‘kolÃ³nia
+FelsÅ‘kommasszÃ¡ciÃ³
+FelsÅ‘kommaszÃ¡ciÃ³
+FelsÅ‘kommaszszÃ¡ciÃ³
+FelsÅ‘kÃ¶rtvÃ©lyes
+FelsÅ‘-KovÃ¡cs-gyep
+FelsÅ‘kÃ¶vesd
+FelsÅ‘kÃ¶zpont
+FelsÅ‘lajos
+FelsÅ‘lajos-puszta
+FelsÅ‘lajospuszta
+FelsÅ‘legencse
+FelsÅ‘lengyend
+FelsÅ‘leperdi-halastavak
+FelsÅ‘leperd
+FelsÅ‘lÃ¶g
+FelsÅ‘-major
+FelsÅ‘major
+FelsÅ‘major TermelÅ‘szÃ¶vetkezet
+FelsÅ‘makÃ¡rdÅ±lÅ‘
+FelsÅ‘makÃ¡r
+FelsÅ‘ MakÃ³-puszta
+FelsÅ‘malom
+FelsÅ‘ Malom
+FelsÅ‘mÃ¡ma
+FelsÅ‘mÃ¡ndpuszta
+FelsÅ‘marÃ¡c
+FelsÅ‘megyes
+FelsÅ‘mÃ©ntelek
+FelsÅ‘-MenyÅ‘d
+FelsÅ‘mÃ©ra
+FelsÅ‘mezÅ‘
+FelsÅ‘mikebuda
+FelsÅ‘mindszent
+FelsÅ‘mocsolÃ¡di-patak
+FelsÅ‘mocsolÃ¡d
+FelsÅ‘monostor
+FelsÅ‘mÃ³ricgÃ¡t
+FelsÅ‘-morotva
+FelsÅ‘muszÃ¡j
+FelsÅ‘nÃ¡dasd
+FelsÅ‘nÃ¡na
+FelsÅ‘-Nedves-hegy
+FelsÅ‘
+FelsÅ‘nyÃ¡rÃ¡d
+FelsÅ‘nyÃ¡regyhÃ¡za
+FelsÅ‘nyÃ©k
+FelsÅ‘ Nyerges-puszta
+FelsÅ‘nyiget
+FelsÅ‘nyires
+FelsÅ‘nyÃ­respuszta
+FelsÅ‘nyÃ­rvÃ¡rimajor
+FelsÅ‘nyirvÃ¡rmajor
+FelsÅ‘nyomÃ¡s
+FelsÅ‘Ã¶reghegy
+FelsÅ‘Ã¶regszÅ‘llÅ‘k
+FelsÅ‘-Ã–reg-TÃºr
+FelsÅ‘Ã¶rs
+FelsÅ‘Ã¶rspuszta
+FelsÅ‘pÃ¡hok
+FelsÅ‘pakony
+FelsÅ‘-palaj-puszta
+FelsÅ‘pÃ¡los
+FelsÅ‘-partos-szÃ©k
+FelsÅ‘pÃ¡skum
+FelsÅ‘patlan
+FelsÅ‘-patlan-puszta
+FelsÅ‘paty
+FelsÅ‘pÃ¡zsit
+FelsÅ‘pÃ©l
+FelsÅ‘pÃ©lpuszta
+FelsÅ‘pere
+FelsÅ‘perepuszta
+FelsÅ‘peszÃ©r
+FelsÅ‘petÃ©ny
+FelsÅ‘pettend
+FelsÅ‘pÃ³czapuszta
+FelsÅ‘ponyipuszta
+FelsÅ‘ PonyvÃ¡d
+FelsÅ‘puszta
+FelsÅ‘rÃ¡cegres
+FelsÅ‘rÃ¡da
+FelsÅ‘rajk
+FelsÅ‘regmec
+FelsÅ‘rÃ©ti DÅ±lÅ‘
+FelsÅ‘-rÃ©t
+FelsÅ‘rÃ©t
+FelsÅ‘rÃ©v
+FelsÅ‘rÃ¶nÃ¶k
+FelsÅ‘rozsnakpuszta
+FelsÅ‘rozsnakvÃ¶lgy
+FelsÅ‘sarlÃ³spuszta
+FelsÅ‘sashalomdÅ±lÅ‘
+FelsÅ‘sÃ¡skalapos
+FelsÅ‘segesd
+FelsÅ‘sima
+FelsÅ‘somlyÃ³
+FelsÅ‘sÃ³skÃºtbokor
+FelsÅ‘ SÃ³stanyai FÃ¶ldek
+FelsÅ‘sÃ¶tÃ©tmajor
+FelsÅ‘strÃ¡zsa
+FelsÅ‘-SÃ¼tveny
+FelsÅ‘szÃ¡llÃ¡s
+FelsÅ‘szÃ¡llÃ¡sok
+FelsÅ‘szalmavÃ¡r-major
+FelsÅ‘-SzalmavÃ¡r
+FelsÅ‘-szÃ¡nas-puszta
+FelsÅ‘szapud
+FelsÅ‘szapudpuszta
+FelsÅ‘szÃ¡szberek
+FelsÅ‘szÃ©ktÃ³
+FelsÅ‘szeleste
+FelsÅ‘szemenye
+FelsÅ‘ SzÃ©nÃ¡svÃ¶lgy
+FelsÅ‘szenterzsÃ©bet
+FelsÅ‘szentivÃ¡ni TanyÃ¡k
+FelsÅ‘szentivÃ¡n Kismajor
+FelsÅ‘szentivÃ¡n
+FelsÅ‘szentkata
+FelsÅ‘szentkirÃ¡ly
+FelsÅ‘szentmÃ¡rton
+FelsÅ‘ Sziget
+FelsÅ‘szigettanya
+FelsÅ‘szitÃ¡nyipuszta
+FelsÅ‘szolgaegyhÃ¡za
+FelsÅ‘szÅ‘llÅ‘k
+FelsÅ‘szÅ‘llÅ‘
+FelsÅ‘szÃ¶lnÃ¶k
+FelsÅ‘szÅ‘lÅ‘k
+FelsÅ‘szÅ‘lÅ‘
+FelsÅ‘szÃ³r
+FelsÅ‘sztaukadÅ±lÅ‘
+FelsÅ‘sztaukaidÅ±lÅ‘
+FelsÅ‘sztÃ¡vkadÅ±lÅ‘
+FelsÅ‘-SzÃºha
+FelsÅ‘-szÃºnyogi-hatÃ¡r
+FelsÅ‘szÃºnyog
+FelsÅ‘szÃºnyog-puszta
+FelsÅ‘tÃ¡bpuszta
+FelsÅ‘tag
+FelsÅ‘tanyÃ¡k
+FelsÅ‘tanya
+FelsÅ‘tapazd
+FelsÅ‘tÃ¡piÃ³i TanyÃ¡k
+FelsÅ‘tÃ¡piÃ³i Tanya
+FelsÅ‘tÃ¡piÃ³
+FelsÅ‘-TÃ¡piÃ³
+FelsÅ‘tÃ¡rkÃ¡ny
+FelsÅ‘tarnÃ³ca
+FelsÅ‘tÃ©glahÃ¡z
+FelsÅ‘telekesi Major
+FelsÅ‘telekesmajor
+FelsÅ‘telekes
+FelsÅ‘telek
+FelsÅ‘telep
+FelsÅ‘tengelic
+FelsÅ‘terÃ©zhalom
+FelsÅ‘tÃ©telalja
+FelsÅ‘tÃ¶bÃ¶rzsÃ¶k
+FelsÅ‘ TÃ³kaj Puszta
+FelsÅ‘told
+FelsÅ‘tÃ¶llÃ¶spuszta
+FelsÅ‘-tÃ³
+FelsÅ‘tukor
+FelsÅ‘ Ãšjhegy
+FelsÅ‘-Ãšj-hegy
+FelsÅ‘Ãºjhegytanya
+FelsÅ‘ungi Hegy
+FelsÅ‘-Ung
+FelsÅ‘utaspuszta
+FelsÅ‘-VadÃ¡cs
+FelsÅ‘vadÃ¡sz
+FelsÅ‘-VÃ¡licka
+FelsÅ‘vÃ¡ny
+FelsÅ‘vÃ¡rosi FeketefÃ¶ldek
+FelsÅ‘vÃ¡rosi VÃ¡lyogvetÅ‘telep
+FelsÅ‘vÃ¡ros
+FelsÅ‘vasdinnyepuszta
+FelsÅ‘-VÃ©nkert
+FelsÅ‘venyim
+FelsÅ‘vonyarc
+FelsÅ‘-zÃ¡tony
+FelsÅ‘zsitfa
+FelsÅ‘zsolca
+FelsÅ‘zsÃºnypuszta
+FelszabadulÃ¡s Ãšti LakÃ³telep
+FelszabadulÃ¡s Ãštja
+FelszabadulÃ¡s Ãšt
+FÃ©lszermajor
 Felszopor
-Féltõ
+FÃ©ltÅ‘
 Fencel
 Fendudatanya
-Fenékdûlõ
+FenÃ©kdÅ±lÅ‘
 Fenekestanya
-Fenéki Ér
-Fenékpuszta
-Fenéktanya
-Fenyérsor
-Fényesdûlõ
-Fényeshegy
-Fényesipuszta
-Fényesi Szõlõk
-Fényesi Tanyák
-Fényeslitke
-Fényes
-Fényespuszta
-Fényestanya
-Fényes Tanya
-Fényestelep
-Fényes Tó
-Fénykõpuszta
-Fenyõfõ
-Fenyõharaszt
-Fenyõmajor
-Fenyõs-domb
-Fenyõsdomb
-Fenyõs
-Fenyõspuszta
-Fenyvesdûlõ
+FenÃ©ki Ã‰r
+FenÃ©kpuszta
+FenÃ©ktanya
+FenyÃ©rsor
+FÃ©nyesdÅ±lÅ‘
+FÃ©nyeshegy
+FÃ©nyesipuszta
+FÃ©nyesi SzÅ‘lÅ‘k
+FÃ©nyesi TanyÃ¡k
+FÃ©nyeslitke
+FÃ©nyes
+FÃ©nyespuszta
+FÃ©nyestanya
+FÃ©nyes Tanya
+FÃ©nyestelep
+FÃ©nyes TÃ³
+FÃ©nykÅ‘puszta
+FenyÅ‘fÅ‘
+FenyÅ‘haraszt
+FenyÅ‘major
+FenyÅ‘s-domb
+FenyÅ‘sdomb
+FenyÅ‘s
+FenyÅ‘spuszta
+FenyvesdÅ±lÅ‘
 Fenyves-hegy
 Fenyveshegy
-Fenyvesi Szõllõ
+Fenyvesi SzÅ‘llÅ‘
 Fenyvesmajor
 Fenyves
 Fenyvespuszta
 Fenyvestanya
 Fenyv
 Ferdiktanya
-Ferdinándmajor
+FerdinÃ¡ndmajor
 Ferencbokor
 Ferenc csatorna
 Ferenc-csatorna
-Ferencháza
-Ferencházapuszta
-Ferenci-hát
+FerenchÃ¡za
+FerenchÃ¡zapuszta
+Ferenci-hÃ¡t
 Ferencitanya
 Ferenc Kanal
 Ferenckert
-Ferenckút
-Ferenckút Puszta
+FerenckÃºt
+FerenckÃºt Puszta
 Ferenc-major
 Ferencmajor
-Ferencszállása
-Ferencszállási Tanyák
-Ferencszállás
+FerencszÃ¡llÃ¡sa
+FerencszÃ¡llÃ¡si TanyÃ¡k
+FerencszÃ¡llÃ¡s
 Ferenctanya
-Ferenc-tápcsatorna
+Ferenc-tÃ¡pcsatorna
 Ferenctelek
 Ferenctelep
-Ferencvárosi Pályaudvar
-Ferencvárosi Rendezõ Pályaudvar
-Ferencváros
+FerencvÃ¡rosi PÃ¡lyaudvar
+FerencvÃ¡rosi RendezÅ‘ PÃ¡lyaudvar
+FerencvÃ¡ros
 Ferenczimajor
 Ferenczmajor
-Férged
-Férgestanya
+FÃ©rged
+FÃ©rgestanya
 Fernapuszta
 Ferna-tanya
 Fernekag
-Fertályos Kaszálók
-Fertõboz
-Fertõd
-Fertõ-dûlõ
-Fertõendréd
-Fertõ-Hanság-fõcsatorna
-Fertõhomok
-Fertõ-laposi-tõ
-Fertõ
-Fertõpuszta
-Fertõrákos
-Fertõs-tetõ
-Fertõszentmiklós
-Fertõszéplak-Fertõd
-Fertõszéplak
-Fertõtanya
-Fertõtelep
-Fertõ-tõ
-Fertõújlak
+FertÃ¡lyos KaszÃ¡lÃ³k
+FertÅ‘boz
+FertÅ‘d
+FertÅ‘-dÅ±lÅ‘
+FertÅ‘endrÃ©d
+FertÅ‘-HansÃ¡g-fÅ‘csatorna
+FertÅ‘homok
+FertÅ‘-laposi-tÅ‘
+FertÅ‘
+FertÅ‘puszta
+FertÅ‘rÃ¡kos
+FertÅ‘s-tetÅ‘
+FertÅ‘szentmiklÃ³s
+FertÅ‘szÃ©plak-FertÅ‘d
+FertÅ‘szÃ©plak
+FertÅ‘tanya
+FertÅ‘telep
+FertÅ‘-tÅ‘
+FertÅ‘Ãºjlak
 Festetich-major
-Fésûstanya
-Fészerlakpuszta
-Fészer
+FÃ©sÅ±stanya
+FÃ©szerlakpuszta
+FÃ©szer
 Feszti-major
 Fiad
 Fiatalosmajor
 Fiatalospuszta
-Ficfástanya
-Ficsér
-Ficsurhalmi Dûlõ
-Ficsúr-halom
-Ficzfástanya
+FicfÃ¡stanya
+FicsÃ©r
+Ficsurhalmi DÅ±lÅ‘
+FicsÃºr-halom
+FiczfÃ¡stanya
 Fiedlertanya
 Figetanya
 Figulatanya
-Filagóriai Tó
-Filagória
-Filagóriástanya
-Filatorigát
-Filekvára
+FilagÃ³riai TÃ³
+FilagÃ³ria
+FilagÃ³riÃ¡stanya
+FilatorigÃ¡t
+FilekvÃ¡ra
 Filimes
-Filkeháza
-Filkóházitanya
-Filótanya
+FilkehÃ¡za
+FilkÃ³hÃ¡zitanya
+FilÃ³tanya
 Filpergerpuszta
 Filperger-tanya
 Filvigtanya
-Finánc-domb
-Finánctag
+FinÃ¡nc-domb
+FinÃ¡nctag
 Finkei Tanya
 Finke
-Fintaállás
-Fintafai-dûlõ
+FintaÃ¡llÃ¡s
+Fintafai-dÅ±lÅ‘
 Fintafai-patak
 Fintafa
 Fintortag
-Firmanház
+FirmanhÃ¡z
 Fischerpuszta
 Fischertanya
 Fisitanya
-Fiskalitáshuta
-Fiteritanyák
+FiskalitÃ¡shuta
+FiteritanyÃ¡k
 Fiter
 Fiterpuszta
-Fityeháza
-Fityeház
+FityehÃ¡za
+FityehÃ¡z
 Fityemajor
-Fiú-tó
-Flasitsszõllõ
+FiÃº-tÃ³
+FlasitsszÅ‘llÅ‘
 Flasztertanya
 Flinkmalom
 Flochpuszta
-Flóra-hegy
-Flóramajor
-Flóra Major
-Flóratanya
-Fõcsatorna
-Fodorszõllõ
-Fodorszõlõ
-Fodortanyák
+FlÃ³ra-hegy
+FlÃ³ramajor
+FlÃ³ra Major
+FlÃ³ratanya
+FÅ‘csatorna
+FodorszÅ‘llÅ‘
+FodorszÅ‘lÅ‘
+FodortanyÃ¡k
 Fodor-tanya
 Fodortanya
 Fogacs-hegy
 Fogacsi Hegy
 Fogacspuszta
-Fogarassyszõllõ
+FogarassyszÅ‘llÅ‘
 Fogarasytanya
-Foglalás
-Foglár-csatorna
-Foglár
-Fogoly-dûlõ
+FoglalÃ¡s
+FoglÃ¡r-csatorna
+FoglÃ¡r
+Fogoly-dÅ±lÅ‘
 Fogoly
 Fogoly Patak
-Fogthüy Dûlõ
-Fogthüy Tanya
+FogthÃ¼y DÅ±lÅ‘
+FogthÃ¼y Tanya
 Fokhagyma-hegy
 Fokitanya
-Fokivölgy
-Fok-köz
+FokivÃ¶lgy
+Fok-kÃ¶z
 Foklapossa
-Fokorú
-Fokszódpuszta
-Foktõ
-Földeákhatármenti Tanyák
-Földeáki-határ Menti Tanyák
-Földeák
-Földeák-szél
-Földesi Puszta
-Földes
-Földespuszta
-Földessytanya
-Földestanya
-Földház-zug
-Földhídpuszta
-Földi-hegy
-Földijárás
-Földi-tanya
-Földsziget-major
-Földsziget
-Földvár-domb
-Földvárdombpuszta
-Földvárdûlõ
-Földvárhalom-dûlõ
-Földvárhalomdûlõ VI.
-Földvárhalom
-Földvár-hegy
-Földváridûlõk
-Földváridûlõ
-Földvári
-Földváritanya
-Földvár
-Földvárpuszta
-Földvártanya
-Földváry-major
-Földypuszta
-Fölerdõmajor
-Folyás-ér
-Folyásér
-Folyás
-Folyás-patak
-Folyófûlápa
-Folytándûlõ
-Fonó
-Fontányipuszta
-Fontányi-tanya
-Fõnyed
+FokorÃº
+FokszÃ³dpuszta
+FoktÅ‘
+FÃ¶ldeÃ¡khatÃ¡rmenti TanyÃ¡k
+FÃ¶ldeÃ¡ki-hatÃ¡r Menti TanyÃ¡k
+FÃ¶ldeÃ¡k
+FÃ¶ldeÃ¡k-szÃ©l
+FÃ¶ldesi Puszta
+FÃ¶ldes
+FÃ¶ldespuszta
+FÃ¶ldessytanya
+FÃ¶ldestanya
+FÃ¶ldhÃ¡z-zug
+FÃ¶ldhÃ­dpuszta
+FÃ¶ldi-hegy
+FÃ¶ldijÃ¡rÃ¡s
+FÃ¶ldi-tanya
+FÃ¶ldsziget-major
+FÃ¶ldsziget
+FÃ¶ldvÃ¡r-domb
+FÃ¶ldvÃ¡rdombpuszta
+FÃ¶ldvÃ¡rdÅ±lÅ‘
+FÃ¶ldvÃ¡rhalom-dÅ±lÅ‘
+FÃ¶ldvÃ¡rhalomdÅ±lÅ‘ VI.
+FÃ¶ldvÃ¡rhalom
+FÃ¶ldvÃ¡r-hegy
+FÃ¶ldvÃ¡ridÅ±lÅ‘k
+FÃ¶ldvÃ¡ridÅ±lÅ‘
+FÃ¶ldvÃ¡ri
+FÃ¶ldvÃ¡ritanya
+FÃ¶ldvÃ¡r
+FÃ¶ldvÃ¡rpuszta
+FÃ¶ldvÃ¡rtanya
+FÃ¶ldvÃ¡ry-major
+FÃ¶ldypuszta
+FÃ¶lerdÅ‘major
+FolyÃ¡s-Ã©r
+FolyÃ¡sÃ©r
+FolyÃ¡s
+FolyÃ¡s-patak
+FolyÃ³fÅ±lÃ¡pa
+FolytÃ¡ndÅ±lÅ‘
+FonÃ³
+FontÃ¡nyipuszta
+FontÃ¡nyi-tanya
+FÅ‘nyed
 Fony
-Fonyódi-hegy
-Fonyódi Vár
-Fonyódliget
-Fonyód
-Fonytordûlõ
-Forgáchpuszta
-Forgách-tanya
-Forgáchtanya
-Forgács-hát
-Forgácspuszta
-Forgácsrészi Tanyák
-Forgácstanya
-Forgás-hegy
+FonyÃ³di-hegy
+FonyÃ³di VÃ¡r
+FonyÃ³dliget
+FonyÃ³d
+FonytordÅ±lÅ‘
+ForgÃ¡chpuszta
+ForgÃ¡ch-tanya
+ForgÃ¡chtanya
+ForgÃ¡cs-hÃ¡t
+ForgÃ¡cspuszta
+ForgÃ¡csrÃ©szi TanyÃ¡k
+ForgÃ¡cstanya
+ForgÃ¡s-hegy
 Forgonytanya
-Forgó-tó
-Förhénchegy
-Forintosháza
-Forintosházapuszta
-Förkend
-Förkendpuszta
-Fornád-Kecsege
-Fornád
-Fornádpuszta
+ForgÃ³-tÃ³
+FÃ¶rhÃ©nchegy
+ForintoshÃ¡za
+ForintoshÃ¡zapuszta
+FÃ¶rkend
+FÃ¶rkendpuszta
+FornÃ¡d-Kecsege
+FornÃ¡d
+FornÃ¡dpuszta
 Fornapuszta
 Forrai-major
-Forrás-dûlõ
-Forrásdûlõ
-Forrásdunapart
-Forrás-hegy
-Forráshegytanya
-Forrási-dûlõ
-Forráskert
-Forráskútdûlõ
-Forráskút
-Forrás
-Forrásoldal
-Forrás-part
-Forrás-patak
-Forráspuszta
-Forrásszõllõ
-Forrásszõlõ
-Forrástag
-Forrástanya
-Forrásvölgy
+ForrÃ¡s-dÅ±lÅ‘
+ForrÃ¡sdÅ±lÅ‘
+ForrÃ¡sdunapart
+ForrÃ¡s-hegy
+ForrÃ¡shegytanya
+ForrÃ¡si-dÅ±lÅ‘
+ForrÃ¡skert
+ForrÃ¡skÃºtdÅ±lÅ‘
+ForrÃ¡skÃºt
+ForrÃ¡s
+ForrÃ¡soldal
+ForrÃ¡s-part
+ForrÃ¡s-patak
+ForrÃ¡spuszta
+ForrÃ¡sszÅ‘llÅ‘
+ForrÃ¡sszÅ‘lÅ‘
+ForrÃ¡stag
+ForrÃ¡stanya
+ForrÃ¡svÃ¶lgy
 Forraytanya
-Forró-Encs
-Forrókút
-Forró
-Forró-puszta
-Forrópuszta
+ForrÃ³-Encs
+ForrÃ³kÃºt
+ForrÃ³
+ForrÃ³-puszta
+ForrÃ³puszta
 Forsterpuszta
-Fortyogó Vízmû
-Fótimajor
-Fóti-Somlyó
-Fót
-Fótújfalu
-Fövenyes-hát
-Fövényes
-Fövényes Tanya
-Fövenyes Tó
-Fövenyfürdõ
-Fövenyi Csárda
-Fövenyitanya
-Fövenypuszta
-Francia-kõ
+FortyogÃ³ VÃ­zmÅ±
+FÃ³timajor
+FÃ³ti-SomlyÃ³
+FÃ³t
+FÃ³tÃºjfalu
+FÃ¶venyes-hÃ¡t
+FÃ¶vÃ©nyes
+FÃ¶vÃ©nyes Tanya
+FÃ¶venyes TÃ³
+FÃ¶venyfÃ¼rdÅ‘
+FÃ¶venyi CsÃ¡rda
+FÃ¶venyitanya
+FÃ¶venypuszta
+Francia-kÅ‘
 Franciapuszta
-Franciavágás
+FranciavÃ¡gÃ¡s
 Franciskamajor
 Franciska
 Franciskapuszta
 Francsikapuszta
 Frank-hegy
 Frankhegy
-Frankódûlõ
+FrankÃ³dÅ±lÅ‘
 Frankpuszta
 Franktanya
 Franzenskanal
-Frédtanya
+FrÃ©dtanya
 Fridmantanya
 Friedla2ndertanya
 Friedmanntanya
@@ -6443,196 +6443,196 @@ Friedtanya
 Frigyes Akna
 Frigyesmajor
 Frigyesytanya
-Frimanház
+FrimanhÃ¡z
 Frischlerpuszta
-Frühweisstetõ
-Frühweisz-tetõ
+FrÃ¼hweisstetÅ‘
+FrÃ¼hweisz-tetÅ‘
 Fuchstanya
-Fudér
-Fudértanya
+FudÃ©r
+FudÃ©rtanya
 Fudipuszta
 Fuditelep
 Fuenfkirchen
-Fügeditanya
-Függõtanya
-Fügöd
-Fülecspuszta
-Füledûlõ
-Fülekipuszta Állomás
-Fülekipuszta
-Fülekitanya
-Füleki Völgy
-Fülekytanya
-Fülemajor
-Füle
-Fülesd
-Fülesi-Család-patak
-Füles-patak
-Füle-tanya
-Fülevölgy-puszta
-Fülevölgytanya
+FÃ¼geditanya
+FÃ¼ggÅ‘tanya
+FÃ¼gÃ¶d
+FÃ¼lecspuszta
+FÃ¼ledÅ±lÅ‘
+FÃ¼lekipuszta ÃllomÃ¡s
+FÃ¼lekipuszta
+FÃ¼lekitanya
+FÃ¼leki VÃ¶lgy
+FÃ¼lekytanya
+FÃ¼lemajor
+FÃ¼le
+FÃ¼lesd
+FÃ¼lesi-CsalÃ¡d-patak
+FÃ¼les-patak
+FÃ¼le-tanya
+FÃ¼levÃ¶lgy-puszta
+FÃ¼levÃ¶lgytanya
 FULL NAME
-Fulókércs
-Fülöpháza
-Fülöp-hegy
-Fülöpiszõllõhegy
-Fülöpi Szõlõ
-Fülöpjakab
-Fülopjakabszállás
-Fülöpmajor
-Fülöpmalom
-Fülöp
-Fülöp-puszta
-Fülöpszállás
-Fülöptag
-Fülöp-tanya
-Fülöptanya
-Fülöp-tiszta
-Fülöp-tó
-Fülpösdaróc
-Fülpös
-Fulsó Hegy
+FulÃ³kÃ©rcs
+FÃ¼lÃ¶phÃ¡za
+FÃ¼lÃ¶p-hegy
+FÃ¼lÃ¶piszÅ‘llÅ‘hegy
+FÃ¼lÃ¶pi SzÅ‘lÅ‘
+FÃ¼lÃ¶pjakab
+FÃ¼lopjakabszÃ¡llÃ¡s
+FÃ¼lÃ¶pmajor
+FÃ¼lÃ¶pmalom
+FÃ¼lÃ¶p
+FÃ¼lÃ¶p-puszta
+FÃ¼lÃ¶pszÃ¡llÃ¡s
+FÃ¼lÃ¶ptag
+FÃ¼lÃ¶p-tanya
+FÃ¼lÃ¶ptanya
+FÃ¼lÃ¶p-tiszta
+FÃ¼lÃ¶p-tÃ³
+FÃ¼lpÃ¶sdarÃ³c
+FÃ¼lpÃ¶s
+FulsÃ³ Hegy
 Fundusalja
-Fünfkirchen
-Fûperegpuszta
-Fürdõsdûlõ
-Fürdõsmajor
-Fürdõs
-Fürdõs-tetõ
-Fürdõs Völgy
-Fürdõtanya
-Fürdõtelep
-Fürdõ Tócsa
-Fürdõ-út
-Füreditanya
-Fürér
-Fûrészmalom
-Fûrésztanya
-Fûrésztelep
-Fürged Állomás
-Fürged
-Furjánpuszta
-Fürj-ér-hát
-Fürjes
-Fürjestanya
-Fürjhalomjárás
-Fürj-halom
-Furkó
-Furkópuszta
-Furkótelep
-Fúróhátiszõllõk
-Fúróháti Szõlõk
+FÃ¼nfkirchen
+FÅ±peregpuszta
+FÃ¼rdÅ‘sdÅ±lÅ‘
+FÃ¼rdÅ‘smajor
+FÃ¼rdÅ‘s
+FÃ¼rdÅ‘s-tetÅ‘
+FÃ¼rdÅ‘s VÃ¶lgy
+FÃ¼rdÅ‘tanya
+FÃ¼rdÅ‘telep
+FÃ¼rdÅ‘ TÃ³csa
+FÃ¼rdÅ‘-Ãºt
+FÃ¼reditanya
+FÃ¼rÃ©r
+FÅ±rÃ©szmalom
+FÅ±rÃ©sztanya
+FÅ±rÃ©sztelep
+FÃ¼rged ÃllomÃ¡s
+FÃ¼rged
+FurjÃ¡npuszta
+FÃ¼rj-Ã©r-hÃ¡t
+FÃ¼rjes
+FÃ¼rjestanya
+FÃ¼rjhalomjÃ¡rÃ¡s
+FÃ¼rj-halom
+FurkÃ³
+FurkÃ³puszta
+FurkÃ³telep
+FÃºrÃ³hÃ¡tiszÅ‘llÅ‘k
+FÃºrÃ³hÃ¡ti SzÅ‘lÅ‘k
 Furta
-Fürtelek
-Fürtöshegy
-Fürtöslyuba
+FÃ¼rtelek
+FÃ¼rtÃ¶shegy
+FÃ¼rtÃ¶slyuba
 Furugyi Halom
-Furugyi Szõllõk
-Furugyiszõlõk
-Furugyi Szõlõ
+Furugyi SzÅ‘llÅ‘k
+FurugyiszÅ‘lÅ‘k
+Furugyi SzÅ‘lÅ‘
 Furugyizug
 Furugy-zug
-Füstpuszta
-Fûteleki Felsõ-major
-Fûtelekimajor
-Fûteleki Puszta
-Futó Hegy
-Futóhomokdûlõ
-Futóné-Köves-hegy
-Füvellõ
-Füvelõ
-Füzérkajata
-Füzérkomlós
-Füzér
-Füzérradvány
-Füzesabony
-Füzesbokor
-Füzesdûlõ
-Füzeserdõ
-Füzesérdûlõ
-Füzes-ér
-Füzesér
-Füzesgyarmatfürdõ
-Füzesgyarmat
-Füzeskert
-Füzes
-Füzes-patak
-Füzespuszta
-Füzes-tanya
-Füzestanya
-Fûzfakútidûlõ
-Fûzfás-dûlõ
-Fûzfásgát
-Fûzfásmalom
-Fûzfás
-Fûzfás-tanya
-Fûzfás-zug
+FÃ¼stpuszta
+FÅ±teleki FelsÅ‘-major
+FÅ±telekimajor
+FÅ±teleki Puszta
+FutÃ³ Hegy
+FutÃ³homokdÅ±lÅ‘
+FutÃ³nÃ©-KÃ¶ves-hegy
+FÃ¼vellÅ‘
+FÃ¼velÅ‘
+FÃ¼zÃ©rkajata
+FÃ¼zÃ©rkomlÃ³s
+FÃ¼zÃ©r
+FÃ¼zÃ©rradvÃ¡ny
+FÃ¼zesabony
+FÃ¼zesbokor
+FÃ¼zesdÅ±lÅ‘
+FÃ¼zeserdÅ‘
+FÃ¼zesÃ©rdÅ±lÅ‘
+FÃ¼zes-Ã©r
+FÃ¼zesÃ©r
+FÃ¼zesgyarmatfÃ¼rdÅ‘
+FÃ¼zesgyarmat
+FÃ¼zeskert
+FÃ¼zes
+FÃ¼zes-patak
+FÃ¼zespuszta
+FÃ¼zes-tanya
+FÃ¼zestanya
+FÅ±zfakÃºtidÅ±lÅ‘
+FÅ±zfÃ¡s-dÅ±lÅ‘
+FÅ±zfÃ¡sgÃ¡t
+FÅ±zfÃ¡smalom
+FÅ±zfÃ¡s
+FÅ±zfÃ¡s-tanya
+FÅ±zfÃ¡s-zug
 Fuzfegyardelep
-Fûzfõfürdõ
-Fûzfõgyártelep
-Fûzfõi-öböl
-Fûzhalom
-Fûzihegy
-Füzilap
-Fûzmatanya
-Fûzszeg
-Fûztópuszta
-Füztû
-Fûz-völgyi-csatorna
-Fûzvölgy
-Füzvölgy
-Fûzycsárda
-Gaál-major
-Gaáltanyák
-Gaáltanya
-Gabonás
-Gabonástanya
-Gáborjánháza
-Gáborján
-Gábormajor
-Gáborpuszta
-Gábortanya
-Gábortelep
+FÅ±zfÅ‘fÃ¼rdÅ‘
+FÅ±zfÅ‘gyÃ¡rtelep
+FÅ±zfÅ‘i-Ã¶bÃ¶l
+FÅ±zhalom
+FÅ±zihegy
+FÃ¼zilap
+FÅ±zmatanya
+FÅ±zszeg
+FÅ±ztÃ³puszta
+FÃ¼ztÅ±
+FÅ±z-vÃ¶lgyi-csatorna
+FÅ±zvÃ¶lgy
+FÃ¼zvÃ¶lgy
+FÅ±zycsÃ¡rda
+GaÃ¡l-major
+GaÃ¡ltanyÃ¡k
+GaÃ¡ltanya
+GabonÃ¡s
+GabonÃ¡stanya
+GÃ¡borjÃ¡nhÃ¡za
+GÃ¡borjÃ¡n
+GÃ¡bormajor
+GÃ¡borpuszta
+GÃ¡bortanya
+GÃ¡bortelep
 Gabriella
 Gabriella-sziget
 Gabriellatanya
-Gábris
-Gacsályi-tag
-Gacsályitanya
-Gacsály
-Gácshát
-Gacsótanya
-Gadács
-Gadány
+GÃ¡bris
+GacsÃ¡lyi-tag
+GacsÃ¡lyitanya
+GacsÃ¡ly
+GÃ¡cshÃ¡t
+GacsÃ³tanya
+GadÃ¡cs
+GadÃ¡ny
 Gadna
-Gádoros
-Gadótanya
-Gáfimalom
-Gagyapáti
-Gagybátor
-Gágy
-Gagyvendégi
+GÃ¡doros
+GadÃ³tanya
+GÃ¡fimalom
+GagyapÃ¡ti
+GagybÃ¡tor
+GÃ¡gy
+GagyvendÃ©gi
 Gaja
 Gaja Patak
 Gajda-patak
-Gajdóczitanya
+GajdÃ³czitanya
 Gajdos
 Gajdospuszta
 Gajgonya
 Gajlatanya
-Gáj
-Galabárd
-Galabárdpuszta
-Gálafejmajor
-Gálafejpuszta
-Galagonyásdûlõ
-Galagonyás
-Galambdúc
-Galambdúctanya
-Galambdûlõ
-Galambház
+GÃ¡j
+GalabÃ¡rd
+GalabÃ¡rdpuszta
+GÃ¡lafejmajor
+GÃ¡lafejpuszta
+GalagonyÃ¡sdÅ±lÅ‘
+GalagonyÃ¡s
+GalambdÃºc
+GalambdÃºctanya
+GalambdÅ±lÅ‘
+GalambhÃ¡z
 Galambok
-Galambosdûlõ
+GalambosdÅ±lÅ‘
 Galambos
 Galambos-puszta
 Galambospuszta
@@ -6640,66 +6640,66 @@ Galambossziget
 Galambostag
 Galambostanya
 Galambostelep
-Galancsér
-Galástya
+GalancsÃ©r
+GalÃ¡stya
 Galavicspuszta
-Gál-dûlõ
-Gálffypuszta
-Gálfimalom
+GÃ¡l-dÅ±lÅ‘
+GÃ¡lffypuszta
+GÃ¡lfimalom
 Galgaguta
-Galgagyörk
-Galgahéviz
-Galgahévíz
-Galgamácsa
+GalgagyÃ¶rk
+GalgahÃ©viz
+GalgahÃ©vÃ­z
+GalgamÃ¡csa
 Galga
 Galga Patak
-Galgóczitanya
-Galgóczy-major
-Gálháza
-Gál-hegy
-Gálhegy
+GalgÃ³czitanya
+GalgÃ³czy-major
+GÃ¡lhÃ¡za
+GÃ¡l-hegy
+GÃ¡lhegy
 Galibapuszta
 Gallaaljapuszta
 Galla-hegy
 Gallahegy
 Gallapuszta
-Gallyas-tetõ
-Gallya-tetõ
-Gálmajor
-Galóhalmi-dûlõ
-Galóhalmi Dûlõ
-Galó-halom
-Galóhalom
-Gálosfa
+Gallyas-tetÅ‘
+Gallya-tetÅ‘
+GÃ¡lmajor
+GalÃ³halmi-dÅ±lÅ‘
+GalÃ³halmi DÅ±lÅ‘
+GalÃ³-halom
+GalÃ³halom
+GÃ¡losfa
 Galovicspuszta
-Gáltanyák
-Gál-tanya
-Gáltanya
-Galuzsnya-tetõ
-Galvács
-Gálvocsa
-Gálvölgytanya
+GÃ¡ltanyÃ¡k
+GÃ¡l-tanya
+GÃ¡ltanya
+Galuzsnya-tetÅ‘
+GalvÃ¡cs
+GÃ¡lvocsa
+GÃ¡lvÃ¶lgytanya
 Galyagos-hegy
-Galyas-tetõ
-Galya-tetõ
-Galyatetõ
-Gamás
-Gamástuskós
-Gamásza
-Gámipuszta
-Ganád-major
-Ganádpuszta
+Galyas-tetÅ‘
+Galya-tetÅ‘
+GalyatetÅ‘
+GamÃ¡s
+GamÃ¡stuskÃ³s
+GamÃ¡sza
+GÃ¡mipuszta
+GanÃ¡d-major
+GanÃ¡dpuszta
 Ganajospuszta
-Gánás
+GÃ¡nÃ¡s
 Ganesztanya
-Gánihegy
+GÃ¡nihegy
 Ganna
-Gánnapuszta
-Gánt
-Garáb-hegy
-Garáb
+GÃ¡nnapuszta
+GÃ¡nt
+GarÃ¡b-hegy
+GarÃ¡b
 Garabonc
-Garábos
+GarÃ¡bos
 Garadna
 Garadna-patak
 Garadnapusza
@@ -6707,170 +6707,170 @@ Garadnapuszta
 Garahalom
 Garaitanya
 Garancs-hegy
-Garancsi-tó
+Garancsi-tÃ³
 Garancs
 Gara
 Garasmajor
 Garastanya
 Garatka
-Garbolci Tanyák
+Garbolci TanyÃ¡k
 Garbolc
 Gardamajor
 Gardapuszta
-Gardián
-Gárdonhegy
-Gárdonyhegy
-Gárdonyi Hegy
-Gárdonyitanya
-Gárdony
-Gárdonypuszta
-Gárdonytanya
+GardiÃ¡n
+GÃ¡rdonhegy
+GÃ¡rdonyhegy
+GÃ¡rdonyi Hegy
+GÃ¡rdonyitanya
+GÃ¡rdony
+GÃ¡rdonypuszta
+GÃ¡rdonytanya
 Gardospuszta
-Garé
+GarÃ©
 Garnicstanya
-Gáspárdûlõ
-Gáspárháza
-Gáspár-hegy
-Gáspárhegy
-Gáspár Sor
-Gáspártelep
+GÃ¡spÃ¡rdÅ±lÅ‘
+GÃ¡spÃ¡rhÃ¡za
+GÃ¡spÃ¡r-hegy
+GÃ¡spÃ¡rhegy
+GÃ¡spÃ¡r Sor
+GÃ¡spÃ¡rtelep
 Gasstanya
 Gasztonyitelep
 Gasztony
-Gatálypuszta
-Gátéri-ér
-Gátér
-Gáthalom
-Gáti-kert
-Gáti Tanyák
-Gátõrház
-Gátõrlak
-Gáttanya
-Gát-zug
-Gáva
-Gávavencsellõ
-Gazdákerdeje
-Gazdák Szigetei
-Gazdasági Iskola-tanya
-Gázlópuszta
+GatÃ¡lypuszta
+GÃ¡tÃ©ri-Ã©r
+GÃ¡tÃ©r
+GÃ¡thalom
+GÃ¡ti-kert
+GÃ¡ti TanyÃ¡k
+GÃ¡tÅ‘rhÃ¡z
+GÃ¡tÅ‘rlak
+GÃ¡ttanya
+GÃ¡t-zug
+GÃ¡va
+GÃ¡vavencsellÅ‘
+GazdÃ¡kerdeje
+GazdÃ¡k Szigetei
+GazdasÃ¡gi Iskola-tanya
+GÃ¡zlÃ³puszta
 Gazsina
 Gebe
-Géberjén
+GÃ©berjÃ©n
 Gebhardt Major
 Gebhardtpuszta
-Gecej-tetõ
-Gécilapos
-Gécilapos-Újtelep
+Gecej-tetÅ‘
+GÃ©cilapos
+GÃ©cilapos-Ãšjtelep
 Gecseg
 Gecsegtanya
 Gecse-Gyamat
 Gecse-Gyarmat
-Gecsei-Bakony-ér
+Gecsei-Bakony-Ã©r
 Gecsei Tanya
 Gecse
 Gecsetanya
 Gecseytanya
-Géczimalom
-Gedeondûlõ
+GÃ©czimalom
+GedeondÅ±lÅ‘
 Gedeontelep
-Géderlak
-Gedõczpuszta
-Gedõrész
-Gedõvári Puszta
-Gedõváritanya
-Gégény
-Gégénytanya
-Gégõ-hegy
-Gégó
+GÃ©derlak
+GedÅ‘czpuszta
+GedÅ‘rÃ©sz
+GedÅ‘vÃ¡ri Puszta
+GedÅ‘vÃ¡ritanya
+GÃ©gÃ©ny
+GÃ©gÃ©nytanya
+GÃ©gÅ‘-hegy
+GÃ©gÃ³
 Geimermalom
-Geisbardtdûlõ
+GeisbardtdÅ±lÅ‘
 Geistmajor
-Geisztcsákó
-Gelegenyéspuszta
+GeisztcsÃ¡kÃ³
+GelegenyÃ©spuszta
 Gelej
-Gelencsérkút
-Gelénes
+GelencsÃ©rkÃºt
+GelÃ©nes
 Gelindtanya
 Gellapuszta
-Gellénháza
-Gellérháti Tanya
-Gellér-szik
-Gellérszik-tanya
-Gellértháti Tanya
-Gellért-hegy
-Gellérthegy
+GellÃ©nhÃ¡za
+GellÃ©rhÃ¡ti Tanya
+GellÃ©r-szik
+GellÃ©rszik-tanya
+GellÃ©rthÃ¡ti Tanya
+GellÃ©rt-hegy
+GellÃ©rthegy
 Gellert
-Gellért
-Gellértpuszta
-Gellért-szik
-Gellérttanya
+GellÃ©rt
+GellÃ©rtpuszta
+GellÃ©rt-szik
+GellÃ©rttanya
 Gelmantag
 Gelse
 Gelsesziget
-Gelvácsi Tanyák
-Gelvácsmajor
-Gelvács
-Gelyevölgy
-Gém-dûlõ
-Gemencei Erdõ
-Gemenci-erdõ
-Gémesmajor
-Gémes
-Gémespuszta
-Gém-hegy
-Gémlaposdûlõ
+GelvÃ¡csi TanyÃ¡k
+GelvÃ¡csmajor
+GelvÃ¡cs
+GelyevÃ¶lgy
+GÃ©m-dÅ±lÅ‘
+Gemencei ErdÅ‘
+Gemenci-erdÅ‘
+GÃ©mesmajor
+GÃ©mes
+GÃ©mespuszta
+GÃ©m-hegy
+GÃ©mlaposdÅ±lÅ‘
 Gemzse
-Gencsapáti Alsó
-Gencsapáti Felsõ
-Gencsapáti
+GencsapÃ¡ti AlsÃ³
+GencsapÃ¡ti FelsÅ‘
+GencsapÃ¡ti
 Gencsi-tag
 Gencsytag
 Gencsytanya
 Genesy Tag
-Gérce
-Gercsáktanya
+GÃ©rce
+GercsÃ¡ktanya
 Gerde
-Gerebcsén
-Gerebcsény
-Gerébitelep
-Gereblyés
-Gereblyés-puszta
-Gerébmalom
+GerebcsÃ©n
+GerebcsÃ©ny
+GerÃ©bitelep
+GereblyÃ©s
+GereblyÃ©s-puszta
+GerÃ©bmalom
 Gereccse
-Gereceszékdûlõ
-Gereceszék
-Gerechátmajor
-Gerechát
+GereceszÃ©kdÅ±lÅ‘
+GereceszÃ©k
+GerechÃ¡tmajor
+GerechÃ¡t
 Gerecse-csoport
-Gerecse-dûlõ
-Gerecse-hegység
+Gerecse-dÅ±lÅ‘
+Gerecse-hegysÃ©g
 Gerecse
 Gerecsetanya
-Gerecse-tetõ
+Gerecse-tetÅ‘
 Gerecs Hegy
-Geregitanyák
+GeregitanyÃ¡k
 Gereg
 Geregtanya
 Gerencehalom
 Gerence
 Gerence-patak
 Gerencepuszta
-Gerencsér
-Gerencsérpuszta
-Gerenda-hát
-Gerendási Tanya
-Gerendás
-Gerenyás
-Gerenyáspuszta
-Gerényes
-Geresdi-dombság
-Geresdi-hát
-Geresdi-tönk
+GerencsÃ©r
+GerencsÃ©rpuszta
+Gerenda-hÃ¡t
+GerendÃ¡si Tanya
+GerendÃ¡s
+GerenyÃ¡s
+GerenyÃ¡spuszta
+GerÃ©nyes
+Geresdi-dombsÃ¡g
+Geresdi-hÃ¡t
+Geresdi-tÃ¶nk
 Geresdlak
 Geresd
 Geretanya
-Gerézd
-Gerézdpuszta
+GerÃ©zd
+GerÃ©zdpuszta
 Gergelyffinagytanya
 Gergelyffykistanya
 Gergelyffynagytanya
@@ -6880,287 +6880,287 @@ Gergely-hegy
 Gergelyi
 Gergelyiugornya
 Gergelymalom
-Gergelyrész
+GergelyrÃ©sz
 Gergelytelep
-Gerhátbokor
-Gerhátdûlõ
-Gérihegy
-Gerje-ér
-Gerje-fõcsatorna
+GerhÃ¡tbokor
+GerhÃ¡tdÅ±lÅ‘
+GÃ©rihegy
+Gerje-Ã©r
+Gerje-fÅ‘csatorna
 Gerjen
 Gerje
 Gerje-patak
-Gerje-Perje-fõcsatorna
-Gerje-Perje Közös Fõcsatorna
+Gerje-Perje-fÅ‘csatorna
+Gerje-Perje KÃ¶zÃ¶s FÅ‘csatorna
 Gerje-Perje
-Gerlai Tanyák
+Gerlai TanyÃ¡k
 Gerla
 Gersamajor
 Gersa
 Gersapuszta
-Gersekarát
+GersekarÃ¡t
 Gerse
-Gesnyeerdõ
-Gesnyei Erdészház
-Geszt-Csikósér
+GesnyeerdÅ‘
+Gesnyei ErdÃ©szhÃ¡z
+Geszt-CsikÃ³sÃ©r
 Gesztely
 Gesztenyehegy
-Gesztenyés Domb
-Gesztenyés-hegy
-Gesztenyés Hegy
-Gesztenyésmajor
-Gesztenyés
-Gesztenyéspuszta
-Geszterédiúti Újsor
-Geszteréd
-Geszteréti Patak
+GesztenyÃ©s Domb
+GesztenyÃ©s-hegy
+GesztenyÃ©s Hegy
+GesztenyÃ©smajor
+GesztenyÃ©s
+GesztenyÃ©spuszta
+GeszterÃ©diÃºti Ãšjsor
+GeszterÃ©d
+GeszterÃ©ti Patak
 Geszti-patak
 Geszt
 Gete-hegy
 Gete
-Gétye
-Géva-hegy
-Gévahegy
-Gézaháza
-Gézaházapuszta
-Géza-hegy
-Gézaköz
-Gézamajor
-Gézapuszta
+GÃ©tye
+GÃ©va-hegy
+GÃ©vahegy
+GÃ©zahÃ¡za
+GÃ©zahÃ¡zapuszta
+GÃ©za-hegy
+GÃ©zakÃ¶z
+GÃ©zamajor
+GÃ©zapuszta
 Ghiczipuszta
 Ghyczypuszta
-Gibárt
-Gic-Hathalom Állomás
+GibÃ¡rt
+Gic-Hathalom ÃllomÃ¡s
 Gic-Hathalom
 Gic
 Gigacz J.-tanya
-Gigei Szõllõ
+Gigei SzÅ‘llÅ‘
 Gige
-Giliántanya
-Gilicei-szõlõhegy
-Giliceszõllõ
+GiliÃ¡ntanya
+Gilicei-szÅ‘lÅ‘hegy
+GiliceszÅ‘llÅ‘
 Gilitkapuszta
-Gilvánfa
+GilvÃ¡nfa
 Gilye
 Gindeletanya
 Ginza
 Giricsor
 Giricz Sor
 Girincs
-Gíród-dûlõ
-Gíród-halom
-Giróhegy
+GÃ­rÃ³d-dÅ±lÅ‘
+GÃ­rÃ³d-halom
+GirÃ³hegy
 Gizellamajor
 Gizellapuszta
 Gizellatanya
 Gizellatelep
-Glabárpuszta
-Gláser-major
+GlabÃ¡rpuszta
+GlÃ¡ser-major
 Glimermalom
-Glückmantanya
-Góbis-halom
-Göbölcsös Dombja
-Göbölcsös-domb
-Göbölcsös
-Göböljárás
-Gõböljárás
-Gõböllaposd
-Gõbölyjárási Majorok
-Gõbölyjárási Tanyák
-Göbölyjárás
-Gõbölyjárás
-Göbösmajor
-Göcsej
-Göd Alsó
-Godány
-Gödényalja
-Gõdény Ferenc Tanya
-Gõdény-halom
-Gödény Lajos Tanya
-Gödény-lapos
-Gödény-lapos-vég
-Gödény-oldal
-Göd Felsõ
+GlÃ¼ckmantanya
+GÃ³bis-halom
+GÃ¶bÃ¶lcsÃ¶s Dombja
+GÃ¶bÃ¶lcsÃ¶s-domb
+GÃ¶bÃ¶lcsÃ¶s
+GÃ¶bÃ¶ljÃ¡rÃ¡s
+GÅ‘bÃ¶ljÃ¡rÃ¡s
+GÅ‘bÃ¶llaposd
+GÅ‘bÃ¶lyjÃ¡rÃ¡si Majorok
+GÅ‘bÃ¶lyjÃ¡rÃ¡si TanyÃ¡k
+GÃ¶bÃ¶lyjÃ¡rÃ¡s
+GÅ‘bÃ¶lyjÃ¡rÃ¡s
+GÃ¶bÃ¶smajor
+GÃ¶csej
+GÃ¶d AlsÃ³
+GodÃ¡ny
+GÃ¶dÃ©nyalja
+GÅ‘dÃ©ny Ferenc Tanya
+GÅ‘dÃ©ny-halom
+GÃ¶dÃ©ny Lajos Tanya
+GÃ¶dÃ©ny-lapos
+GÃ¶dÃ©ny-lapos-vÃ©g
+GÃ¶dÃ©ny-oldal
+GÃ¶d FelsÅ‘
 Godisa
-Göd
-Godódûlõ
-Godóhalom
-Gödöllõ-Állami Telepek
-Gödöllõ-Ceglédbercelli-dombság
-Gödöllõi Állami Telepek Megállóhely
-Gödöllõi-dombság
-Gödöllõ-Monori-dombság
-Gödöllõ
-Gödöllõ-Palotakert
-Gödölö
+GÃ¶d
+GodÃ³dÅ±lÅ‘
+GodÃ³halom
+GÃ¶dÃ¶llÅ‘-Ãllami Telepek
+GÃ¶dÃ¶llÅ‘-CeglÃ©dbercelli-dombsÃ¡g
+GÃ¶dÃ¶llÅ‘i Ãllami Telepek MegÃ¡llÃ³hely
+GÃ¶dÃ¶llÅ‘i-dombsÃ¡g
+GÃ¶dÃ¶llÅ‘-Monori-dombsÃ¡g
+GÃ¶dÃ¶llÅ‘
+GÃ¶dÃ¶llÅ‘-Palotakert
+GÃ¶dÃ¶lÃ¶
 Godolyatanya
-Gödörállásidûlõ
-Gödörállás
-Gödörháza
-Gödörmalom
-Gödrekeresztúr
-Gödre
-Gödreszentmárton
-Gödreszentmártonpuszta
-Gödsziget
-Gógánfa
-Gógánhegy
-Góga
-Gógántanya
-Gógány
-Gógatanya
-Gögõhát
-Gõgõháttanya
-Gõgõ-Szenke-csatorna
-Gõgõ-Szenke
-Gógtanyák
-Góg Tanya
-Gólahegy
-Goldmarkdûlõ
+GÃ¶dÃ¶rÃ¡llÃ¡sidÅ±lÅ‘
+GÃ¶dÃ¶rÃ¡llÃ¡s
+GÃ¶dÃ¶rhÃ¡za
+GÃ¶dÃ¶rmalom
+GÃ¶drekeresztÃºr
+GÃ¶dre
+GÃ¶dreszentmÃ¡rton
+GÃ¶dreszentmÃ¡rtonpuszta
+GÃ¶dsziget
+GÃ³gÃ¡nfa
+GÃ³gÃ¡nhegy
+GÃ³ga
+GÃ³gÃ¡ntanya
+GÃ³gÃ¡ny
+GÃ³gatanya
+GÃ¶gÅ‘hÃ¡t
+GÅ‘gÅ‘hÃ¡ttanya
+GÅ‘gÅ‘-Szenke-csatorna
+GÅ‘gÅ‘-Szenke
+GÃ³gtanyÃ¡k
+GÃ³g Tanya
+GÃ³lahegy
+GoldmarkdÅ±lÅ‘
 Golgota
 Golicamajor
-Góliczamajor
-Göllénfa
-Gölle
+GÃ³liczamajor
+GÃ¶llÃ©nfa
+GÃ¶lle
 Golop
-Gólyadûlõ
-Gólyagaz
-Gólya-hegy
-Gólyás
-Gólyástanya
-Gólyaszállás
-Gólyatanya
-Gólyavár
-Gólyavölgy-major
-Gólya-völgy
+GÃ³lyadÅ±lÅ‘
+GÃ³lyagaz
+GÃ³lya-hegy
+GÃ³lyÃ¡s
+GÃ³lyÃ¡stanya
+GÃ³lyaszÃ¡llÃ¡s
+GÃ³lyatanya
+GÃ³lyavÃ¡r
+GÃ³lyavÃ¶lgy-major
+GÃ³lya-vÃ¶lgy
 Gombaitanya
 Gomba
-Gombás-dûlõ
-Gombás Hegy
-Gombásidûlõ
-Gombás
-Gombás-patak
-Gombáspuszta
-Gombás-tetõ
+GombÃ¡s-dÅ±lÅ‘
+GombÃ¡s Hegy
+GombÃ¡sidÅ±lÅ‘
+GombÃ¡s
+GombÃ¡s-patak
+GombÃ¡spuszta
+GombÃ¡s-tetÅ‘
 Gombatanya
 Gombaymajor
-Gombkötõi Malom
-Gombkötõmalom
-Gombóclesõ
-Gombócpuszta
-Gombóczlesõ
+GombkÃ¶tÅ‘i Malom
+GombkÃ¶tÅ‘malom
+GombÃ³clesÅ‘
+GombÃ³cpuszta
+GombÃ³czlesÅ‘
 Gombolyag
-Gömbölyû Hegy
-Gömbösfalva
+GÃ¶mbÃ¶lyÅ± Hegy
+GÃ¶mbÃ¶sfalva
 Gombospuszta
 Gombosszeg
 Gombostanya
-Gömböstanya
-Gömörszõllõs
-Gömörszõlõs
-Gömör-Tornai Karsztos Hegység
-Gönci-patak
-Gönc
-Göncruszka
-Göncsegmajor
-Göncsegpuszta
-Göncsögmajor
-Göncsökmajor
-Gönczitag
-Gönczitanya
-Göndöczdûlõ
-Gondótahegy
+GÃ¶mbÃ¶stanya
+GÃ¶mÃ¶rszÅ‘llÅ‘s
+GÃ¶mÃ¶rszÅ‘lÅ‘s
+GÃ¶mÃ¶r-Tornai Karsztos HegysÃ©g
+GÃ¶nci-patak
+GÃ¶nc
+GÃ¶ncruszka
+GÃ¶ncsegmajor
+GÃ¶ncsegpuszta
+GÃ¶ncsÃ¶gmajor
+GÃ¶ncsÃ¶kmajor
+GÃ¶nczitag
+GÃ¶nczitanya
+GÃ¶ndÃ¶czdÅ±lÅ‘
+GondÃ³tahegy
 Gonoszdi-patak
 Gonoszdpuszta
 Gonozdi Patak
 Gonozd
 Gonozdpuszta
-Göntér
-Gönyû
+GÃ¶ntÃ©r
+GÃ¶nyÅ±
 Gora
-Görbedi Tanya
-Görbed
-Görbedpuszta
-Görbe-ér
-Görbeér
-Görbe Ér
-Görbe Fertõ
-Görbeföld
-Görbe-halom
-Görbehalom
-Görbehalomtelep
-Görbeháza
-Görbeházapuszta
-Görbe Ház
-Görbeháztanya
-Görbe Hegy
-Görbekútlapos
-Görbemajor
-Görbeszékidûlõ
-Görbeszék
-Görbesziget
-Görbetanya
-Görbetó
-Görbe Tó
-Görbõpuszta
-Görcse
-Görcsönydobokai Tanya
-Görcsönydoboka
-Görcsönyi Puszta
-Görcsöny
-Görcsös
-Görcsöstanya
-Görcsvölgy
+GÃ¶rbedi Tanya
+GÃ¶rbed
+GÃ¶rbedpuszta
+GÃ¶rbe-Ã©r
+GÃ¶rbeÃ©r
+GÃ¶rbe Ã‰r
+GÃ¶rbe FertÅ‘
+GÃ¶rbefÃ¶ld
+GÃ¶rbe-halom
+GÃ¶rbehalom
+GÃ¶rbehalomtelep
+GÃ¶rbehÃ¡za
+GÃ¶rbehÃ¡zapuszta
+GÃ¶rbe HÃ¡z
+GÃ¶rbehÃ¡ztanya
+GÃ¶rbe Hegy
+GÃ¶rbekÃºtlapos
+GÃ¶rbemajor
+GÃ¶rbeszÃ©kidÅ±lÅ‘
+GÃ¶rbeszÃ©k
+GÃ¶rbesziget
+GÃ¶rbetanya
+GÃ¶rbetÃ³
+GÃ¶rbe TÃ³
+GÃ¶rbÅ‘puszta
+GÃ¶rcse
+GÃ¶rcsÃ¶nydobokai Tanya
+GÃ¶rcsÃ¶nydoboka
+GÃ¶rcsÃ¶nyi Puszta
+GÃ¶rcsÃ¶ny
+GÃ¶rcsÃ¶s
+GÃ¶rcsÃ¶stanya
+GÃ¶rcsvÃ¶lgy
 Gordisai Puszta
 Gordisa
-Görénypuszta
-Görényvárpuszta
-Górépuszta
-Górés
-Góréstanya
-Görgeteg
-Görgõbik
-Görgõ-bükk
+GÃ¶rÃ©nypuszta
+GÃ¶rÃ©nyvÃ¡rpuszta
+GÃ³rÃ©puszta
+GÃ³rÃ©s
+GÃ³rÃ©stanya
+GÃ¶rgeteg
+GÃ¶rgÅ‘bik
+GÃ¶rgÅ‘-bÃ¼kk
 Gor-hegy
 Gorica
-Górica
-Göringyestanya
-Góripaptanya
-Gór
-Göröcpuszta
-Görögállás
-Görög-bérc
-Görögkatolikus Egyház-tanya
-Görögkút Déli
-Görögkút Dél
-Görögkút Északi
-Görögkút Észak
-Görögkúti Tanyák
-Górógkúttanyak
-Görögszállás
-Görögszó
-Görögtanyai Hegy
-Görögtanya
-Görögtó
-Görömbeytag
-Görömbeytanya
-Görömböly
-Görömbölytapolca
-Görömböly-Tapolca Üdülõhely
+GÃ³rica
+GÃ¶ringyestanya
+GÃ³ripaptanya
+GÃ³r
+GÃ¶rÃ¶cpuszta
+GÃ¶rÃ¶gÃ¡llÃ¡s
+GÃ¶rÃ¶g-bÃ©rc
+GÃ¶rÃ¶gkatolikus EgyhÃ¡z-tanya
+GÃ¶rÃ¶gkÃºt DÃ©li
+GÃ¶rÃ¶gkÃºt DÃ©l
+GÃ¶rÃ¶gkÃºt Ã‰szaki
+GÃ¶rÃ¶gkÃºt Ã‰szak
+GÃ¶rÃ¶gkÃºti TanyÃ¡k
+GÃ³rÃ³gkÃºttanyak
+GÃ¶rÃ¶gszÃ¡llÃ¡s
+GÃ¶rÃ¶gszÃ³
+GÃ¶rÃ¶gtanyai Hegy
+GÃ¶rÃ¶gtanya
+GÃ¶rÃ¶gtÃ³
+GÃ¶rÃ¶mbeytag
+GÃ¶rÃ¶mbeytanya
+GÃ¶rÃ¶mbÃ¶ly
+GÃ¶rÃ¶mbÃ¶lytapolca
+GÃ¶rÃ¶mbÃ¶ly-Tapolca ÃœdÃ¼lÅ‘hely
 Goronditanya
-Göröngyös
-Görösgal
-Görösgalpuszta
+GÃ¶rÃ¶ngyÃ¶s
+GÃ¶rÃ¶sgal
+GÃ¶rÃ¶sgalpuszta
 Gorove-major
 Gorove
-Gorsótanya
+GorsÃ³tanya
 Gorva
 Gory Zemplen
 Gorza
 Gorzsa
-Gorzsásdûlõ
-Gõsfai Hegy
-Gõsfa
+GorzsÃ¡sdÅ±lÅ‘
+GÅ‘sfai Hegy
+GÅ‘sfa
 Gosztola
 Gosztolla
 Gosztonyimajor
@@ -7168,451 +7168,451 @@ Gosztonyitanya
 Gotstanya
 Gottliebtag
 Gottltanya
-Gõzmalomgyártelep
-Gõzmalom
-Gõzsypuszta
+GÅ‘zmalomgyÃ¡rtelep
+GÅ‘zmalom
+GÅ‘zsypuszta
 Grabecztag
-Grábóci-hegy
-Grábóc
+GrÃ¡bÃ³ci-hegy
+GrÃ¡bÃ³c
 Gradicska
 Gradiskahegy
-Gráftag
+GrÃ¡ftag
 Gramertag
-Gránás-hegy
-Gránási-hegy
+GrÃ¡nÃ¡s-hegy
+GrÃ¡nÃ¡si-hegy
 Grancsitanya
 Gran
 Great Alfold
 Great Hungarian Plain
 Great Plain
-Grébics-hegy
-Grébicspuszta
-Grécipuszta
-Grécpuszta
+GrÃ©bics-hegy
+GrÃ©bicspuszta
+GrÃ©cipuszta
+GrÃ©cpuszta
 Gredina
 Greiner-tag
 Gremsbergerpuszta
 Griesenwald
 Griesewald
-Grízenvald
-Grófimalom
-Grófiosztás
-Gróf-major
-Gróf Nemes-puszta
-Gróftanya
-Grónár
+GrÃ­zenvald
+GrÃ³fimalom
+GrÃ³fiosztÃ¡s
+GrÃ³f-major
+GrÃ³f Nemes-puszta
+GrÃ³ftanya
+GrÃ³nÃ¡r
 Gross Kanischa
 Grosz Kanischa
-Grósztanya
-Grüntanyák
-Grüntanya
+GrÃ³sztanya
+GrÃ¼ntanyÃ¡k
+GrÃ¼ntanya
 Gubacor
 Gubacorr
-Gubacsi-hálás
+Gubacsi-hÃ¡lÃ¡s
 Gubacsimalom
 Gubacsmalom
 Gubacs
 Gubanapuszta
-Gubarci Szõllõk
-Gubarci Szõlõhegy
+Gubarci SzÅ‘llÅ‘k
+Gubarci SzÅ‘lÅ‘hegy
 Gubarc
-Gubás-telek
+GubÃ¡s-telek
 Gubatanya
 Gubinatanya
 Gubonnapuszta
-Gudorvölgy
+GudorvÃ¶lgy
 Gudova
 Gughpuszta
 Gugpuszta
-Gulács-hegy
-Gulácsi-hegy
-Gulács
-Gulácsy D.-tanya
-Gulácsytanya
+GulÃ¡cs-hegy
+GulÃ¡csi-hegy
+GulÃ¡cs
+GulÃ¡csy D.-tanya
+GulÃ¡csytanya
 Gulicka
 Gulicska
-Gulyajárásdûlõ
-Gulyajárás
-Gulyajáró
-Gulyalegelõdûlõ
-Gulyalegelõ
-Gulyamajori-tó
+GulyajÃ¡rÃ¡sdÅ±lÅ‘
+GulyajÃ¡rÃ¡s
+GulyajÃ¡rÃ³
+GulyalegelÅ‘dÅ±lÅ‘
+GulyalegelÅ‘
+Gulyamajori-tÃ³
 Gulyamajor
-Gulyásház
-Gulyástanya
-Gulyásúttanya
-Gulyásvölgy
-Gúnártanya
-Güns Bach
-Günser Gebirge
-Güns
-Gunyadûlõ
-Gúnyakút
+GulyÃ¡shÃ¡z
+GulyÃ¡stanya
+GulyÃ¡sÃºttanya
+GulyÃ¡svÃ¶lgy
+GÃºnÃ¡rtanya
+GÃ¼ns Bach
+GÃ¼nser Gebirge
+GÃ¼ns
+GunyadÅ±lÅ‘
+GÃºnyakÃºt
 Gunyamajor
-Gurbántanya
+GurbÃ¡ntanya
 Gurdimajor
 Gurdonmajor
 Gurdon
-Gurdzsálypuszta
-Gurgatómajor
-Gurgató
-Gurgó-hegy
-Gurjáldûlõ
-Gurjál
+GurdzsÃ¡lypuszta
+GurgatÃ³major
+GurgatÃ³
+GurgÃ³-hegy
+GurjÃ¡ldÅ±lÅ‘
+GurjÃ¡l
 Gurovica
 Gurzsalypuszta
-Gustáv-akna
-Gusztávakna
-Gusztáv-bányatelep
-Gusztávmajor
-Gusztávmûve
-Guszti-rét
+GustÃ¡v-akna
+GusztÃ¡vakna
+GusztÃ¡v-bÃ¡nyatelep
+GusztÃ¡vmajor
+GusztÃ¡vmÅ±ve
+Guszti-rÃ©t
 Gusztus
 Gusztuspuszta
-Gutaháza
+GutahÃ¡za
 Gutai-lapos
 Gutaipuszta
-Gutatõttõs
+GutatÅ‘ttÅ‘s
 Gutaypuszta
-Gúti-erdõ
-Gút-kút
-Gútkúttanya
-Gutorfölde
-Gútpuszta
-Gúttamási
+GÃºti-erdÅ‘
+GÃºt-kÃºt
+GÃºtkÃºttanya
+GutorfÃ¶lde
+GÃºtpuszta
+GÃºttamÃ¡si
 Guttmanntanya
 Guvana
-Guzsványtanya
-Gyálai-Holt-Tisza
-Gyála
+GuzsvÃ¡nytanya
+GyÃ¡lai-Holt-Tisza
+GyÃ¡la
 Gyalaptanya
-Gyálaréti-Holt-Tisza
-Gyálaréti Tanyák
-Gyálarét
-Gyál Felsõ
-Gyáli-csatorna
-Gyáliholdas
-Gyáli-patak
-Gyál
-Gyalóka
-Gyalonvölgy
-Gyalpár
-Gyálpuszta Szõlõk
+GyÃ¡larÃ©ti-Holt-Tisza
+GyÃ¡larÃ©ti TanyÃ¡k
+GyÃ¡larÃ©t
+GyÃ¡l FelsÅ‘
+GyÃ¡li-csatorna
+GyÃ¡liholdas
+GyÃ¡li-patak
+GyÃ¡l
+GyalÃ³ka
+GyalonvÃ¶lgy
+GyalpÃ¡r
+GyÃ¡lpuszta SzÅ‘lÅ‘k
 Gyaludpuszta
 Gyalu-halom
 Gyalupuszta
-Gyánica
-Gyanógeregye
-Gyánt-puszta
+GyÃ¡nica
+GyanÃ³geregye
+GyÃ¡nt-puszta
 Gyapa
-Gyapáros
-Gyapjasdûlõ
+GyapÃ¡ros
+GyapjasdÅ±lÅ‘
 Gyapjas
-Gyaporvölgy
-Gyáripuszta
-Gyármajor
+GyaporvÃ¶lgy
+GyÃ¡ripuszta
+GyÃ¡rmajor
 Gyarmat-hegy
-Gyarmati Ér
+Gyarmati Ã‰r
 Gyarmat
 Gyarmatpuszta
-Gyár
-Gyarokpartdûlõ
+GyÃ¡r
+GyarokpartdÅ±lÅ‘
 Gyarokpart
-Gyárosmajor
-Gyártelep
-Gyárvás
-Gydnógeregye
-Gyékényesdûlõ
-Gyékényeshegy
-Gyékényes
-Gyékényestanya
-Gyékényes-tó
-Gyékény-tó
-Gyendairét
+GyÃ¡rosmajor
+GyÃ¡rtelep
+GyÃ¡rvÃ¡s
+GydnÃ³geregye
+GyÃ©kÃ©nyesdÅ±lÅ‘
+GyÃ©kÃ©nyeshegy
+GyÃ©kÃ©nyes
+GyÃ©kÃ©nyestanya
+GyÃ©kÃ©nyes-tÃ³
+GyÃ©kÃ©ny-tÃ³
+GyendairÃ©t
 Gyenda Puszta
-Gyendirét
+GyendirÃ©t
 Gyeneitanya
-Gyenesdiás
+GyenesdiÃ¡s
 Gyengetanya
 Gyepes Csatorna
 Gyepestanya
-Gyepes-völgy
-Gyepesvölgy-puszta
-Gyepfölddûlõ
-Gyepföld
+Gyepes-vÃ¶lgy
+GyepesvÃ¶lgy-puszta
+GyepfÃ¶lddÅ±lÅ‘
+GyepfÃ¶ld
 Gyepi Hegy
 Gyepmestertelep
 Gyep-puszta
 Gyeptelep
 Gyep-ugar
-Gyepükaján
+GyepÃ¼kajÃ¡n
 Gyerma
-Gyermekerdõdûlõ Õrház
-Gyermekerdõ
-Gyermeküdülõ-telep
-Gyermelyi Szeszgyár
+GyermekerdÅ‘dÅ±lÅ‘ ÅrhÃ¡z
+GyermekerdÅ‘
+GyermekÃ¼dÃ¼lÅ‘-telep
+Gyermelyi SzeszgyÃ¡r
 Gyermely
-Gyertyámos
-Gyertyámospuszta
-Gyertyánkút
-Gyertyános Akol
-Gyertyános-dûlõ
-Gyertyános Hegy
-Gyertyános
-Gyertyánospuszta
-Gyertyánostanya
-Gyetkótanya
-Gyevitanyák
-Gyilkos-dûlõ
+GyertyÃ¡mos
+GyertyÃ¡mospuszta
+GyertyÃ¡nkÃºt
+GyertyÃ¡nos Akol
+GyertyÃ¡nos-dÅ±lÅ‘
+GyertyÃ¡nos Hegy
+GyertyÃ¡nos
+GyertyÃ¡nospuszta
+GyertyÃ¡nostanya
+GyetkÃ³tanya
+GyevitanyÃ¡k
+Gyilkos-dÅ±lÅ‘
 Gyilkos-halom
 Gyilkoslapositanya
 Gyilkos
 Gyilkostanya
-Gyilkos-tetõ
+Gyilkos-tetÅ‘
 Gyimesbokor
-Gyimos Fõ
-Gyimóti-domb
-Gyimóti Tanya
-Gyirmót
-Gyócsitanya
-Gyócs
-Gyód
-Gyójai Major
-Gyójaitanyák
-Gyökeresi Dûlõ
-Gyökeresitanyák
-Gyökeres
-Gyökérkút
-Gyökérpuszta
+Gyimos FÅ‘
+GyimÃ³ti-domb
+GyimÃ³ti Tanya
+GyirmÃ³t
+GyÃ³csitanya
+GyÃ³cs
+GyÃ³d
+GyÃ³jai Major
+GyÃ³jaitanyÃ¡k
+GyÃ¶keresi DÅ±lÅ‘
+GyÃ¶keresitanyÃ¡k
+GyÃ¶keres
+GyÃ¶kÃ©rkÃºt
+GyÃ¶kÃ©rpuszta
 Gyolcsinges
 Gyolcsingestanya
 Gyolcs
-Gyomaendrõd
+GyomaendrÅ‘d
 Gyoma
-Gyömöre Állomás
-Gyömöre
-Gyömöre-Tét
-Gyömrõi Tanya
-Gyömrõ
-Gyöngös-patak
-Gyöngösszeri Hegy
-Gyöngyfa-Magyarmecske
-Gyöngyfa
-Gyöngyös-árapasztó
-Gyöngyös-ásáscsatorna
-Gyöngyösfalu
-Gyöngyös-fõág
-Gyöngyöshalászi Tanyák
-Gyöngyöshalász
-Gyöngyöshalmaj
-Gyöngyöshermán
-Gyöngyösi Csárda
-Gyöngyösmajor
-Gyöngyösmellék
-Gyöngyös Melléküzemi Csatorna
-Gyöngyös
-Gyöngyösoldal
-Gyöngyösoroszi
-Gyöngyös-patak
-Gyöngyös Patak
-Gyöngyöspata
-Gyöngyöspuszta
-Gyöngyössolymos
-Gyöngyöstapazd
-Gyöngyöstarján
-Gyöngyös-víz
-Gyöngy-sziget
-Gyöngyszigetpuszta
-Gyöngytanya
-Gyöngyvirág-bérc
-Gyöngyvirágos
-Gyöngyvirágszõllõ
-Gyöngyvirág-tetõ
-Gyónitanya
-Gyönk
-Gyón
-Gyopár-forrás
-Gyopárhalma
-Gyopárhalom
-Gyopárosfürdõ
-Gyopáros-tó
-Gyöpihegy
-Gyõrasszonyfa
-Györe
-Gyõr-erdõ
-Gyõrffytanya
-Gyõrfiszeg
-Gyõr Gyárváros
-Györgyeiúti Tanyák
-Györgyháza
-György-hegy
-Györgyhomokdûlõ
-Györgyimajor
-Györgyipuszta
-Györgyitanya
-Györgykirályság
-Györgyliget
-Györgymajor
-Györgyös
-Györgyöstanya
-Györgypuszta
-Györgytarló
-Györgytelep
-Gyõr-hegy
-Gyõri Ipartelepek
-Gyõrimajor
-Gyõrimalom
-Gyõri Szék
-Gyõritanya
-Györkefa
-Györkehegytanya
-Györke-tanya
-Gyõrkitanya
-Györknanya
-Györköny
-Gyõrladamér
-Gyõr Megyei Város
-Gyõr-Moson-Sopron Megye
-Gyõr-Moson-Sopron
-Gyõr
-Gyõröcske
-Györökháza
-Györökházitanya
-Gyorokparti Dûlõ
-Gyóró
-Gyõrpuszta
-Gyõrság
+GyÃ¶mÃ¶re ÃllomÃ¡s
+GyÃ¶mÃ¶re
+GyÃ¶mÃ¶re-TÃ©t
+GyÃ¶mrÅ‘i Tanya
+GyÃ¶mrÅ‘
+GyÃ¶ngÃ¶s-patak
+GyÃ¶ngÃ¶sszeri Hegy
+GyÃ¶ngyfa-Magyarmecske
+GyÃ¶ngyfa
+GyÃ¶ngyÃ¶s-Ã¡rapasztÃ³
+GyÃ¶ngyÃ¶s-Ã¡sÃ¡scsatorna
+GyÃ¶ngyÃ¶sfalu
+GyÃ¶ngyÃ¶s-fÅ‘Ã¡g
+GyÃ¶ngyÃ¶shalÃ¡szi TanyÃ¡k
+GyÃ¶ngyÃ¶shalÃ¡sz
+GyÃ¶ngyÃ¶shalmaj
+GyÃ¶ngyÃ¶shermÃ¡n
+GyÃ¶ngyÃ¶si CsÃ¡rda
+GyÃ¶ngyÃ¶smajor
+GyÃ¶ngyÃ¶smellÃ©k
+GyÃ¶ngyÃ¶s MellÃ©kÃ¼zemi Csatorna
+GyÃ¶ngyÃ¶s
+GyÃ¶ngyÃ¶soldal
+GyÃ¶ngyÃ¶soroszi
+GyÃ¶ngyÃ¶s-patak
+GyÃ¶ngyÃ¶s Patak
+GyÃ¶ngyÃ¶spata
+GyÃ¶ngyÃ¶spuszta
+GyÃ¶ngyÃ¶ssolymos
+GyÃ¶ngyÃ¶stapazd
+GyÃ¶ngyÃ¶starjÃ¡n
+GyÃ¶ngyÃ¶s-vÃ­z
+GyÃ¶ngy-sziget
+GyÃ¶ngyszigetpuszta
+GyÃ¶ngytanya
+GyÃ¶ngyvirÃ¡g-bÃ©rc
+GyÃ¶ngyvirÃ¡gos
+GyÃ¶ngyvirÃ¡gszÅ‘llÅ‘
+GyÃ¶ngyvirÃ¡g-tetÅ‘
+GyÃ³nitanya
+GyÃ¶nk
+GyÃ³n
+GyopÃ¡r-forrÃ¡s
+GyopÃ¡rhalma
+GyopÃ¡rhalom
+GyopÃ¡rosfÃ¼rdÅ‘
+GyopÃ¡ros-tÃ³
+GyÃ¶pihegy
+GyÅ‘rasszonyfa
+GyÃ¶re
+GyÅ‘r-erdÅ‘
+GyÅ‘rffytanya
+GyÅ‘rfiszeg
+GyÅ‘r GyÃ¡rvÃ¡ros
+GyÃ¶rgyeiÃºti TanyÃ¡k
+GyÃ¶rgyhÃ¡za
+GyÃ¶rgy-hegy
+GyÃ¶rgyhomokdÅ±lÅ‘
+GyÃ¶rgyimajor
+GyÃ¶rgyipuszta
+GyÃ¶rgyitanya
+GyÃ¶rgykirÃ¡lysÃ¡g
+GyÃ¶rgyliget
+GyÃ¶rgymajor
+GyÃ¶rgyÃ¶s
+GyÃ¶rgyÃ¶stanya
+GyÃ¶rgypuszta
+GyÃ¶rgytarlÃ³
+GyÃ¶rgytelep
+GyÅ‘r-hegy
+GyÅ‘ri Ipartelepek
+GyÅ‘rimajor
+GyÅ‘rimalom
+GyÅ‘ri SzÃ©k
+GyÅ‘ritanya
+GyÃ¶rkefa
+GyÃ¶rkehegytanya
+GyÃ¶rke-tanya
+GyÅ‘rkitanya
+GyÃ¶rknanya
+GyÃ¶rkÃ¶ny
+GyÅ‘rladamÃ©r
+GyÅ‘r Megyei VÃ¡ros
+GyÅ‘r-Moson-Sopron Megye
+GyÅ‘r-Moson-Sopron
+GyÅ‘r
+GyÅ‘rÃ¶cske
+GyÃ¶rÃ¶khÃ¡za
+GyÃ¶rÃ¶khÃ¡zitanya
+Gyorokparti DÅ±lÅ‘
+GyÃ³rÃ³
+GyÅ‘rpuszta
+GyÅ‘rsÃ¡g
 Gyors
 Gyor-Sopron County
-Gyõr-Sopron Megye
-Gyõrsövényház
-Gyõrszabadhegy
-Gyõrszabadi
-Gyõrszemerehegy
-Gyõrszemere
-Gyõrszentiván
-Gyõrszentmárton
-Gyõrtelek Alsó
-Gyõrtelek
-Gyõrújbarát
-Gyõrújfalu
-Gyõrvár
-Gyõrymajor
-Gyõrzámoly
-Gyótadûlõ
-Gyótai-dûlõ
-Gyótai-mezõ
-Gyótamajor
-Gyótamezõ
-Gyóta
-Gyótapuszta
-Gyügéri Halom
-Gyügér
-Gyügér Puszta
-Gyügye
-Gyugy-hát
+GyÅ‘r-Sopron Megye
+GyÅ‘rsÃ¶vÃ©nyhÃ¡z
+GyÅ‘rszabadhegy
+GyÅ‘rszabadi
+GyÅ‘rszemerehegy
+GyÅ‘rszemere
+GyÅ‘rszentivÃ¡n
+GyÅ‘rszentmÃ¡rton
+GyÅ‘rtelek AlsÃ³
+GyÅ‘rtelek
+GyÅ‘rÃºjbarÃ¡t
+GyÅ‘rÃºjfalu
+GyÅ‘rvÃ¡r
+GyÅ‘rymajor
+GyÅ‘rzÃ¡moly
+GyÃ³tadÅ±lÅ‘
+GyÃ³tai-dÅ±lÅ‘
+GyÃ³tai-mezÅ‘
+GyÃ³tamajor
+GyÃ³tamezÅ‘
+GyÃ³ta
+GyÃ³tapuszta
+GyÃ¼gÃ©ri Halom
+GyÃ¼gÃ©r
+GyÃ¼gÃ©r Puszta
+GyÃ¼gye
+Gyugy-hÃ¡t
 Gyugy
 Gyugypuszta
-Gyüjtõ Fõcsatorna
-Gyuládtelep
+GyÃ¼jtÅ‘ FÅ‘csatorna
+GyulÃ¡dtelep
 Gyulaeperjes
-Gyulafirátót
+GyulafirÃ¡tÃ³t
 Gyulahalma
 Gyula-halom
 Gyulahalom Puszta
-Gyulaházai Szõlõ
-Gyulaháza
-Gyulaházi-külsõ Tanya
-Gyulaházi Szõllõ
-Gyulaházi Szõlõ
-Gyulaházitanya
+GyulahÃ¡zai SzÅ‘lÅ‘
+GyulahÃ¡za
+GyulahÃ¡zi-kÃ¼lsÅ‘ Tanya
+GyulahÃ¡zi SzÅ‘llÅ‘
+GyulahÃ¡zi SzÅ‘lÅ‘
+GyulahÃ¡zitanya
 Gyulahegy
-Gyulaidûlõ
+GyulaidÅ±lÅ‘
 Gyulai-tanya
-Gyulai Városerdõ
-Gyula-Jánoszug
+Gyulai VÃ¡roserdÅ‘
+Gyula-JÃ¡noszug
 Gyulaj
 Gyulakeszi
 Gyula-major
 Gyulamajor
-Gyulamezõ
+GyulamezÅ‘
 Gyula
 Gyulapuszta
-Gyulási Tanyák
-Gyúlás
+GyulÃ¡si TanyÃ¡k
+GyÃºlÃ¡s
 Gyulatag
 Gyulatanya
-Gyulatároló
-Gyulatáró
-Gyulavári-erdõ
-Gyulavári
-Gyulavári Tanyák
+GyulatÃ¡rolÃ³
+GyulatÃ¡rÃ³
+GyulavÃ¡ri-erdÅ‘
+GyulavÃ¡ri
+GyulavÃ¡ri TanyÃ¡k
 Gyulay-tanya
-Gyülekezetimajor
-Gyülevészimajor
-Gyülevész
-Gyümölcsényi Puszta
-Gyümölcsény
-Gyümölcsénypuszta
-Gyümölcsös
-Gyüre
-Gyüreszõllõ
-Gyüreszõlõ
-Gyüretanya
-Gyurgyáncpuszta
-Gyurgyókapuszta
-Gyûr-hegy
+GyÃ¼lekezetimajor
+GyÃ¼levÃ©szimajor
+GyÃ¼levÃ©sz
+GyÃ¼mÃ¶lcsÃ©nyi Puszta
+GyÃ¼mÃ¶lcsÃ©ny
+GyÃ¼mÃ¶lcsÃ©nypuszta
+GyÃ¼mÃ¶lcsÃ¶s
+GyÃ¼re
+GyÃ¼reszÅ‘llÅ‘
+GyÃ¼reszÅ‘lÅ‘
+GyÃ¼retanya
+GyurgyÃ¡ncpuszta
+GyurgyÃ³kapuszta
+GyÅ±r-hegy
 Gyurihegy
-Gyurirét
+GyurirÃ©t
 Gyuri-sziget
-Gyurkódûlõ
-Gyurkó
-Gyúr
-Gyúróipuszta
-Gyúró
-Gyúrpuszta
-Gyûr-tetõ
-Gyûrûfû
-Gyûrûsaljapuszta
-Gyûrûsalj
-Gyûrûs-hegy
-Gyûrûs
-Gyûrûspuszta
-Gyûrûs Tótokföldje
+GyurkÃ³dÅ±lÅ‘
+GyurkÃ³
+GyÃºr
+GyÃºrÃ³ipuszta
+GyÃºrÃ³
+GyÃºrpuszta
+GyÅ±r-tetÅ‘
+GyÅ±rÅ±fÅ±
+GyÅ±rÅ±saljapuszta
+GyÅ±rÅ±salj
+GyÅ±rÅ±s-hegy
+GyÅ±rÅ±s
+GyÅ±rÅ±spuszta
+GyÅ±rÅ±s TÃ³tokfÃ¶ldje
 Gyuszipuszta
-Gyûszûvölgy
-Haán Elek-rész
+GyÅ±szÅ±vÃ¶lgy
+HaÃ¡n Elek-rÃ©sz
 Haastanya
-Hábi-csatorna
-Hábi-hegy
-Hábihegy
-Hábi-patak
-Habócskitanya
-Habóczkytanya
-Habostó
-Hábpuszta
-Habtató
-Habtató Ugar
-Hács
-Hadházi Földek
-Hadházytanya
-Hadházytelep
+HÃ¡bi-csatorna
+HÃ¡bi-hegy
+HÃ¡bihegy
+HÃ¡bi-patak
+HabÃ³cskitanya
+HabÃ³czkytanya
+HabostÃ³
+HÃ¡bpuszta
+HabtatÃ³
+HabtatÃ³ Ugar
+HÃ¡cs
+HadhÃ¡zi FÃ¶ldek
+HadhÃ¡zytanya
+HadhÃ¡zytelep
 Hadnagypuszta
-Hágótanya
-Hagyárosbörönd
-Hagyárosimajor
-Hagyárosi-patak
-Hagyáros
-Hagymásbércitelep
-Hagymásbérc
-Hagymásitelep
-Hagymáspuszta
-Hagymás Völgy
-Hagyóitanya
-Hahót-hegy
-Hahót
+HÃ¡gÃ³tanya
+HagyÃ¡rosbÃ¶rÃ¶nd
+HagyÃ¡rosimajor
+HagyÃ¡rosi-patak
+HagyÃ¡ros
+HagymÃ¡sbÃ©rcitelep
+HagymÃ¡sbÃ©rc
+HagymÃ¡sitelep
+HagymÃ¡spuszta
+HagymÃ¡s VÃ¶lgy
+HagyÃ³itanya
+HahÃ³t-hegy
+HahÃ³t
 Haidentanya
-Hajádai-major
+HajÃ¡dai-major
 Hajagosd
 Hajagosd-puszta
 Hajagos Hegy
@@ -7620,261 +7620,261 @@ Hajagos
 Hajagos-patak
 Hajagospuszta
 Hajagostanya
-Hajagos-tetõ
+Hajagos-tetÅ‘
 Hajas
 Hajdaimajor
 Hajda
 Hajdatanya
 Hajdinahegy
-Hajditanyák
-Hajdúárokpuszta
+HajditanyÃ¡k
+HajdÃºÃ¡rokpuszta
 Hajdubagos
-Hajdúbagos
+HajdÃºbagos
 Hajdu-Bihar County
-Hajdú-Bihar Megye
-Hajdú-Bihar
-Hajdúböszörmény
-Hajdúdorog
-Hajdúér-Görbedi-csatorna
-Hajdúhadház
-Hajdúhát
-Hajduház
-Hajdúhegydûlõ
+HajdÃº-Bihar Megye
+HajdÃº-Bihar
+HajdÃºbÃ¶szÃ¶rmÃ©ny
+HajdÃºdorog
+HajdÃºÃ©r-GÃ¶rbedi-csatorna
+HajdÃºhadhÃ¡z
+HajdÃºhÃ¡t
+HajduhÃ¡z
+HajdÃºhegydÅ±lÅ‘
 Hajduhegy
-Hajdú-hegy
-Hajdúles
-Hajdúnánás
-Hajdúnánás-Vásártér
+HajdÃº-hegy
+HajdÃºles
+HajdÃºnÃ¡nÃ¡s
+HajdÃºnÃ¡nÃ¡s-VÃ¡sÃ¡rtÃ©r
 Hajdupuszta
-Hajdúság
-Hajdúsámsoni Tanyák
-Hajdúsámson
-Hajdúszentgyörgy
-Hajdúszoboszló
+HajdÃºsÃ¡g
+HajdÃºsÃ¡msoni TanyÃ¡k
+HajdÃºsÃ¡mson
+HajdÃºszentgyÃ¶rgy
+HajdÃºszoboszlÃ³
 Hajduszobozlo
-Hajdúszovát
+HajdÃºszovÃ¡t
 Hajdutanya
-Hajdútanya
-Hajdúvid
-Hajduvölgyi Tanyák
-Hajdú-völgy
-Hajdúvölgy
+HajdÃºtanya
+HajdÃºvid
+HajduvÃ¶lgyi TanyÃ¡k
+HajdÃº-vÃ¶lgy
+HajdÃºvÃ¶lgy
 Hajlanos
-Hajláspuszta
-Hajlékos Bérc
-Hajmalitanyák
-Hajmal-oldali Legelõ
-Hajmáskér
-Hajmáskér-Újtelep
-Hajmás
-Hajmás-patak
-Hajmáspuszta
-Hajnács-hegy
-Hajnács-kõ
-Hajnalhágó
-Hajnalhágó Tanya
+HajlÃ¡spuszta
+HajlÃ©kos BÃ©rc
+HajmalitanyÃ¡k
+Hajmal-oldali LegelÅ‘
+HajmÃ¡skÃ©r
+HajmÃ¡skÃ©r-Ãšjtelep
+HajmÃ¡s
+HajmÃ¡s-patak
+HajmÃ¡spuszta
+HajnÃ¡cs-hegy
+HajnÃ¡cs-kÅ‘
+HajnalhÃ¡gÃ³
+HajnalhÃ¡gÃ³ Tanya
 Hajnalhegy
 Hajnalos
 Hajnalostanya
 Hajnalpuszta
-Hajnaltó
-Hajógyár-Sziget
-Hajóhomok
-Hajósi Szõlõk
-Hajósitanyák
-Hajós
-Hajóspuszta
-Hajóstamás
-Hajóstanya
-Hajpálpuszta
+HajnaltÃ³
+HajÃ³gyÃ¡r-Sziget
+HajÃ³homok
+HajÃ³si SzÅ‘lÅ‘k
+HajÃ³sitanyÃ¡k
+HajÃ³s
+HajÃ³spuszta
+HajÃ³stamÃ¡s
+HajÃ³stanya
+HajpÃ¡lpuszta
 Haj-patak
 Hajrertanya
 Hajszabarna
-Hajtaidûlõ
-Hajtai-fõág
-Hajtai Tanyák
-Hajtamuszáj
+HajtaidÅ±lÅ‘
+Hajtai-fÅ‘Ã¡g
+Hajtai TanyÃ¡k
+HajtamuszÃ¡j
 Hajta
 Hajta-patak
 Hajzertanya
 Hakliktanya
-Halábori-szeg
-Halacsdûlõ
-Halacsidûlõ
+HalÃ¡bori-szeg
+HalacsdÅ±lÅ‘
+HalacsidÅ±lÅ‘
 Halacs
 Halagos Hegy
-Halagosi Szõllõk
-Haláp Hegy
-Halápi-erdõ
-Halápimajor
-Haláp
-Hálás-bérc
+Halagosi SzÅ‘llÅ‘k
+HalÃ¡p Hegy
+HalÃ¡pi-erdÅ‘
+HalÃ¡pimajor
+HalÃ¡p
+HÃ¡lÃ¡s-bÃ©rc
 Halasgat
-Halasgátpuszta
+HalasgÃ¡tpuszta
 Halasimajor
-Halasitanyák
-Halasi Tanyák
+HalasitanyÃ¡k
+Halasi TanyÃ¡k
 Halasitanya
-Halasi-tó
-Halaskadûlõ
+Halasi-tÃ³
+HalaskadÅ±lÅ‘
 Halas
 Halaspuszta
 Halastavak
-Halastódûlõ
-Halastói-patak
-Halastóipuszta
-Halas Tó
-Halastó
-Halastópuszta
+HalastÃ³dÅ±lÅ‘
+HalastÃ³i-patak
+HalastÃ³ipuszta
+Halas TÃ³
+HalastÃ³
+HalastÃ³puszta
 Halasymajor
 Halasy-tanya
-Halászaranyos
-Halászdûlõ
-Halászház
-Halászhomok
-Halászi
-Halászlak
-Halászmajor
-Halász
-Halászópuszta
-Halászótanya
-Halásztanya
-Halásztelek
-Halásztelep
-Halász-tetõ
+HalÃ¡szaranyos
+HalÃ¡szdÅ±lÅ‘
+HalÃ¡szhÃ¡z
+HalÃ¡szhomok
+HalÃ¡szi
+HalÃ¡szlak
+HalÃ¡szmajor
+HalÃ¡sz
+HalÃ¡szÃ³puszta
+HalÃ¡szÃ³tanya
+HalÃ¡sztanya
+HalÃ¡sztelek
+HalÃ¡sztelep
+HalÃ¡sz-tetÅ‘
 Halcsontmajor
-Haldûlõ
+HaldÅ±lÅ‘
 Halessz
-Haleszdûlõ
+HaleszdÅ±lÅ‘
 Haleszhegy
-Haleszi Dûlõ
-Haleszi Szõllõk
-Halesziszõlõk
+Haleszi DÅ±lÅ‘
+Haleszi SzÅ‘llÅ‘k
+HalesziszÅ‘lÅ‘k
 Haleszkert
 Halesz
-Haleszszõllõ
+HaleszszÅ‘llÅ‘
 Halesztanya
 Halimba
 Halipuszta
-Hálistendomb
+HÃ¡listendomb
 Hallatanya
-Hallgató-hegy
-Hallgató
+HallgatÃ³-hegy
+HallgatÃ³
 Halmagy
 Halmaj
-Halmajtanyák
+HalmajtanyÃ¡k
 Halmajugra
 Halmitanya
 Halmosbokor
-Halmosháza
+HalmoshÃ¡za
 Halmos-tanya
 Halmostanya
 Halogy
-Halom-dûlõ
+Halom-dÅ±lÅ‘
 Halom-hegy
 Halomhegy
-Halomi-tábla
-Halomitanyák
+Halomi-tÃ¡bla
+HalomitanyÃ¡k
 Halom
 Halompuszta
-Halomszél
+HalomszÃ©l
 Halomtanya
-Halomvár
+HalomvÃ¡r
 Halom-zug
-Háltó-hegy
-Halványház
-Halyagó-hegy
+HÃ¡ltÃ³-hegy
+HalvÃ¡nyhÃ¡z
+HalyagÃ³-hegy
 Halyagos-hegy
 Halyagos Hegy
 Halyagos
 Hamar-hegy
-Hammer Alsó-tanya
-Hammer-dûlõ
+Hammer AlsÃ³-tanya
+Hammer-dÅ±lÅ‘
 Hammertanya
-Hámori Malom
-Hámori-tó
-Hámor
-Hámostanya
-Hamuházi-rét
-Hamuház
-Hamuszínmajor
-Hamvasbánya
+HÃ¡mori Malom
+HÃ¡mori-tÃ³
+HÃ¡mor
+HÃ¡mostanya
+HamuhÃ¡zi-rÃ©t
+HamuhÃ¡z
+HamuszÃ­nmajor
+HamvasbÃ¡nya
 Hamvas Csatorna
-Hamvas-fõcsatorna
+Hamvas-fÅ‘csatorna
 Hamvas
-Hanáktanya
+HanÃ¡ktanya
 Hanalyatanya
 Hancatelep
-Hancsékos Hegy
+HancsÃ©kos Hegy
 Hanelek
-Hangácsdûlõ
-Hangács
-Hangácspuszta
-Hangács Puszta
-Hangácstanya
+HangÃ¡csdÅ±lÅ‘
+HangÃ¡cs
+HangÃ¡cspuszta
+HangÃ¡cs Puszta
+HangÃ¡cstanya
 Hanga
-Hangás
-Hangászpuszta
+HangÃ¡s
+HangÃ¡szpuszta
 Hangonyi-patak
 Hangony
-Hangony-Ózdi-patak
+Hangony-Ã“zdi-patak
 Hangony-patak
 Hangos
 Hangospuszta
-Hangyafõ
-Hangyajárási Patak
-Hangyálos
-Hangyálospuszta
-Hangyálostanya
-Hangyásmál
-Hangyás
-Hangyáspuszta
-Hangyás-tó
+HangyafÅ‘
+HangyajÃ¡rÃ¡si Patak
+HangyÃ¡los
+HangyÃ¡lospuszta
+HangyÃ¡lostanya
+HangyÃ¡smÃ¡l
+HangyÃ¡s
+HangyÃ¡spuszta
+HangyÃ¡s-tÃ³
 Hankpuszta
 Hannamajor
-Hanság Fõcsatorna
-Hansági-fõcsatorna
-Hansági Nagyerdõ
-Hansági Tanyák
-Hansági Újmajor
-Hanságliget
-Hanságnagyerdõ
-Hanság-Nagyerdõ
-Hanság
-Hanságújmajor
-Hánta
-Hantháza
-Hantházimajor
-Hantosi Völgy
+HansÃ¡g FÅ‘csatorna
+HansÃ¡gi-fÅ‘csatorna
+HansÃ¡gi NagyerdÅ‘
+HansÃ¡gi TanyÃ¡k
+HansÃ¡gi Ãšjmajor
+HansÃ¡gliget
+HansÃ¡gnagyerdÅ‘
+HansÃ¡g-NagyerdÅ‘
+HansÃ¡g
+HansÃ¡gÃºjmajor
+HÃ¡nta
+HanthÃ¡za
+HanthÃ¡zimajor
+Hantosi VÃ¶lgy
 Hantos
 Hantospuszta
-Hantosúj-telep
-Hanyi-éri-fõcsatorna
-Hanyi-ér
-Hanyi-fõcsatorna
+HantosÃºj-telep
+Hanyi-Ã©ri-fÅ‘csatorna
+Hanyi-Ã©r
+Hanyi-fÅ‘csatorna
 Hanyipuszta
-Hanyság-csatorna
-Hanyság
-Hanzélytanya
+HanysÃ¡g-csatorna
+HanysÃ¡g
+HanzÃ©lytanya
 Hanztanya
 Haragistya
-Haramiás
-Harangdûlõ
-Haranggödrökdûlõ
-Harangod-ér
+HaramiÃ¡s
+HarangdÅ±lÅ‘
+HaranggÃ¶drÃ¶kdÅ±lÅ‘
+Harangod-Ã©r
 Harangod-halom
 Harangod
 Harangod-patak
 Harangos
-Harangozó
-Harangozótanya
+HarangozÃ³
+HarangozÃ³tanya
 Harasztal Alja
 Haraszt Alja
 Harasztaljapuszta
-Harasztbogárd-puszta
+HarasztbogÃ¡rd-puszta
 Haraszt-hegy
-Harasztibánya
-Haraszti Erdõõház
+HarasztibÃ¡nya
+Haraszti ErdÅ‘Å‘hÃ¡z
 Harasztifalu
 Haraszti-hegy
 Harasztimajor
@@ -7886,72 +7886,72 @@ Harasztmajor
 Haraszt
 Harasztoshegy
 Harasztos Hegy
-Harasztosi Bánya
+Harasztosi BÃ¡nya
 Harasztpuszta
 Haraszttanya
-Haraszt-tetõ
+Haraszt-tetÅ‘
 Harci Hegy
-Harcmezei Szõllõ
-Harcmezei Szõlõ
+Harcmezei SzÅ‘llÅ‘
+Harcmezei SzÅ‘lÅ‘
 Harc
-Harcsásdûlõ
-Harcsás
-Harcsáspuszta
-Harcsás Üdülõsor
-Harcsa-tetõ
-Harcvölgymajor
-Harcvölgy
+HarcsÃ¡sdÅ±lÅ‘
+HarcsÃ¡s
+HarcsÃ¡spuszta
+HarcsÃ¡s ÃœdÃ¼lÅ‘sor
+Harcsa-tetÅ‘
+HarcvÃ¶lgymajor
+HarcvÃ¶lgy
 Harder Berg
 Hardihegy
 Hard
 Harica
 Harica-patak
-Hárihegy
+HÃ¡rihegy
 Harisad
-Hári-tanya
-Harkai-csúcs
+HÃ¡ri-tanya
+Harkai-csÃºcs
 Harkaimajor
-Harkai-tó
-Harkakópháza
-Harkakötöny
-Harkályhegy
-Harkálytanya
+Harkai-tÃ³
+HarkakÃ³phÃ¡za
+HarkakÃ¶tÃ¶ny
+HarkÃ¡lyhegy
+HarkÃ¡lytanya
 Harka
-Harkányfürdõ Állomás
-Harkányfürdõ
-Harkányi-dûlõ
-Harkányidûlõ
-Harkányi-major
-Harkányimajor
-Harkányi Tanyák
-Harkány
+HarkÃ¡nyfÃ¼rdÅ‘ ÃllomÃ¡s
+HarkÃ¡nyfÃ¼rdÅ‘
+HarkÃ¡nyi-dÅ±lÅ‘
+HarkÃ¡nyidÅ±lÅ‘
+HarkÃ¡nyi-major
+HarkÃ¡nyimajor
+HarkÃ¡nyi TanyÃ¡k
+HarkÃ¡ny
 Harkapuszta
-Harka Tó
-Harkóitanyák
-Harmadik Mándi Bokor
-Hármasárok
-Hármas Bérc
-Hármasberkidûlõ
-Hármas Halom
-Hármashalom-puszta
-Hármashatárdûlõ
-Hármashatár-halom
-Hármashatár-hegy
-Hármashatár
-Hármashegyi Dûlõ
-Hármas-hegy
-Hármas Hegy
-Hármaskörnyék
-Hármas Körös
-Hármaskútpuszta
-Hármas
-Hármas-rét
-Hármassziget
-Hármastanyák
-Hármastanya
-Hármastarján
-Hármastarjánpuszta
-Hármas Tó
+Harka TÃ³
+HarkÃ³itanyÃ¡k
+Harmadik MÃ¡ndi Bokor
+HÃ¡rmasÃ¡rok
+HÃ¡rmas BÃ©rc
+HÃ¡rmasberkidÅ±lÅ‘
+HÃ¡rmas Halom
+HÃ¡rmashalom-puszta
+HÃ¡rmashatÃ¡rdÅ±lÅ‘
+HÃ¡rmashatÃ¡r-halom
+HÃ¡rmashatÃ¡r-hegy
+HÃ¡rmashatÃ¡r
+HÃ¡rmashegyi DÅ±lÅ‘
+HÃ¡rmas-hegy
+HÃ¡rmas Hegy
+HÃ¡rmaskÃ¶rnyÃ©k
+HÃ¡rmas KÃ¶rÃ¶s
+HÃ¡rmaskÃºtpuszta
+HÃ¡rmas
+HÃ¡rmas-rÃ©t
+HÃ¡rmassziget
+HÃ¡rmastanyÃ¡k
+HÃ¡rmastanya
+HÃ¡rmastarjÃ¡n
+HÃ¡rmastarjÃ¡npuszta
+HÃ¡rmas TÃ³
 Harmath-tag
 Harmatosmajor
 Harmatospuszta
@@ -7959,118 +7959,118 @@ Harmatostanya
 Harmattag
 Harmincas-csatorna
 Harmospuszta
-Hároly-magaslat
-Háromágdûlõ
-Három Fa
-Háromfa
-Háromhányás
-Háromhányástanya
-Három-határ
-Háromháza
-Háromházdûlõ
-Háromház
-Háromhid
-Háromhuta
-Három-kõ-bérc
-Hárommalom
-Háromrózsa
-Háromrózsa-puszta
-Háromsarok
-Háromszögitó
-Háromszög
+HÃ¡roly-magaslat
+HÃ¡romÃ¡gdÅ±lÅ‘
+HÃ¡rom Fa
+HÃ¡romfa
+HÃ¡romhÃ¡nyÃ¡s
+HÃ¡romhÃ¡nyÃ¡stanya
+HÃ¡rom-hatÃ¡r
+HÃ¡romhÃ¡za
+HÃ¡romhÃ¡zdÅ±lÅ‘
+HÃ¡romhÃ¡z
+HÃ¡romhid
+HÃ¡romhuta
+HÃ¡rom-kÅ‘-bÃ©rc
+HÃ¡rommalom
+HÃ¡romrÃ³zsa
+HÃ¡romrÃ³zsa-puszta
+HÃ¡romsarok
+HÃ¡romszÃ¶gitÃ³
+HÃ¡romszÃ¶g
 Haros Island
-Háros-sziget
+HÃ¡ros-sziget
 Harraymalom
-Hárságyi-hegy
-Hárságypuszta
-Harsány Hegy
-Harsányi Hegy
-Harsányitanya
-Harsány
-Harsányszõllõ
-Harsányszõlõ
-Hársas Bérc
-Hársas-berki-patak
-Hársas-berki-vízfolyás
-Hársas-domb
-Hársaserdészlak
-Hársasi Erdészlak
-Hársasimalom
-Hársasmajor
-Hársas
-Hársas-patak
-Hársas Patak
-Hársaspuszta
-Hársastelep
-Hársas-tetõ
-Hárserdõ
-Hárserdõpuszta
-Hárserdõtelep
-Hársfa-hegy
-Hársfapuszta
-Hárs-hegy
-Hárskút
-Harsteinszõlõ
-Hársvölgypuszta
+HÃ¡rsÃ¡gyi-hegy
+HÃ¡rsÃ¡gypuszta
+HarsÃ¡ny Hegy
+HarsÃ¡nyi Hegy
+HarsÃ¡nyitanya
+HarsÃ¡ny
+HarsÃ¡nyszÅ‘llÅ‘
+HarsÃ¡nyszÅ‘lÅ‘
+HÃ¡rsas BÃ©rc
+HÃ¡rsas-berki-patak
+HÃ¡rsas-berki-vÃ­zfolyÃ¡s
+HÃ¡rsas-domb
+HÃ¡rsaserdÃ©szlak
+HÃ¡rsasi ErdÃ©szlak
+HÃ¡rsasimalom
+HÃ¡rsasmajor
+HÃ¡rsas
+HÃ¡rsas-patak
+HÃ¡rsas Patak
+HÃ¡rsaspuszta
+HÃ¡rsastelep
+HÃ¡rsas-tetÅ‘
+HÃ¡rserdÅ‘
+HÃ¡rserdÅ‘puszta
+HÃ¡rserdÅ‘telep
+HÃ¡rsfa-hegy
+HÃ¡rsfapuszta
+HÃ¡rs-hegy
+HÃ¡rskÃºt
+HarsteinszÅ‘lÅ‘
+HÃ¡rsvÃ¶lgypuszta
 Hartaimikla
-Hartakiskékes
+HartakiskÃ©kes
 Harta-Mikla
 Harta
 Hartsteinmajor
-Hartsteinszõlõ
-Hartyáni Dûlõ
-Hartyáni Patak
-Hartyán-patak
-Hártyás
+HartsteinszÅ‘lÅ‘
+HartyÃ¡ni DÅ±lÅ‘
+HartyÃ¡ni Patak
+HartyÃ¡n-patak
+HÃ¡rtyÃ¡s
 Hasas Hegy
-Hásságy
-Hászmajor
+HÃ¡ssÃ¡gy
+HÃ¡szmajor
 Hasznos
-Hásztanya
+HÃ¡sztanya
 Hatablak
-Határ-árok
-Határárok
-Határ-domb
-Határdûlõ
-Határéri-csatorna
-Határéri-fõcsatorna
-Határér
-Határgát
-Határ-halom
-Határ Halom
-Határ-hegy
-Határmajor
-Határmalom
-Határ
-Határpatak
-Határszéli Újtelep
-Határszél
-Határtanyák
-Határtanya
-Határ-tetõ
-Határtó
-Határút
-Határvölgydûlõ
-Határvölgy
-Határvölgypartdûlõ
-Határvölgypuszta
-Határzug
-Hatáz-hegy
+HatÃ¡r-Ã¡rok
+HatÃ¡rÃ¡rok
+HatÃ¡r-domb
+HatÃ¡rdÅ±lÅ‘
+HatÃ¡rÃ©ri-csatorna
+HatÃ¡rÃ©ri-fÅ‘csatorna
+HatÃ¡rÃ©r
+HatÃ¡rgÃ¡t
+HatÃ¡r-halom
+HatÃ¡r Halom
+HatÃ¡r-hegy
+HatÃ¡rmajor
+HatÃ¡rmalom
+HatÃ¡r
+HatÃ¡rpatak
+HatÃ¡rszÃ©li Ãšjtelep
+HatÃ¡rszÃ©l
+HatÃ¡rtanyÃ¡k
+HatÃ¡rtanya
+HatÃ¡r-tetÅ‘
+HatÃ¡rtÃ³
+HatÃ¡rÃºt
+HatÃ¡rvÃ¶lgydÅ±lÅ‘
+HatÃ¡rvÃ¶lgy
+HatÃ¡rvÃ¶lgypartdÅ±lÅ‘
+HatÃ¡rvÃ¶lgypuszta
+HatÃ¡rzug
+HatÃ¡z-hegy
 Hatfatanya
-Hátfõ-Árvízkapu
-Hátfõ
-Hathalmi Szõllõk
+HÃ¡tfÅ‘-ÃrvÃ­zkapu
+HÃ¡tfÅ‘
+Hathalmi SzÅ‘llÅ‘k
 Hathalom
 Hathalompuszta
-Hatházdûlõi Tanyák
-Hatházdûlõtanya
-Hatház
-Hatházpuszta
-Hatházsismánd
+HathÃ¡zdÅ±lÅ‘i TanyÃ¡k
+HathÃ¡zdÅ±lÅ‘tanya
+HathÃ¡z
+HathÃ¡zpuszta
+HathÃ¡zsismÃ¡nd
 Hathhalom
 Hatitytanya
-Hatlábúcsárda
-Hatlábú-major
+HatlÃ¡bÃºcsÃ¡rda
+HatlÃ¡bÃº-major
 Hatos
 Hatostanya
 Hatrongyositanya
@@ -8080,348 +8080,348 @@ Hat-sziget
 Hattelek
 Hattyas
 Hattyus
-Hattyús-szék
-Hátulsó-hegy
+HattyÃºs-szÃ©k
+HÃ¡tulsÃ³-hegy
 Hatvanas Hegy
 Hatvan
-Hatvanorri Gyümölcsös
+Hatvanorri GyÃ¼mÃ¶lcsÃ¶s
 Hatvanorr
 Hatvanpuszta
-Havas-bérc
-Havas-dûlõ
+Havas-bÃ©rc
+Havas-dÅ±lÅ‘
 Havas Hegy
 Havas
 Havaspuszta
-Haviboldogasszonydûlõ
+HaviboldogasszonydÅ±lÅ‘
 Havranak-tanya
-Háyföldek
+HÃ¡yfÃ¶ldek
 Hecsepuszta
 Hecske
-Hédervár
+HÃ©dervÃ¡r
 Hedrehely
 Heffnertelep
 Heflingtanya
-Hegedõstanya
-Hegedûs-hát
-Hegedûsmalom
-Hegedûspuszta
-Hegedûstag
-Hegedûstanya
-Hegyaljai Dûlõ
+HegedÅ‘stanya
+HegedÅ±s-hÃ¡t
+HegedÅ±smalom
+HegedÅ±spuszta
+HegedÅ±stag
+HegedÅ±stanya
+Hegyaljai DÅ±lÅ‘
 Hegyaljai-patak
 Hegyalja
 Hegyallya
-Hegyekköze
-Hegyekközti Dûlõ
-Hegyesbori Legelõ
+HegyekkÃ¶ze
+HegyekkÃ¶zti DÅ±lÅ‘
+Hegyesbori LegelÅ‘
 Hegyesbor
-Hegyesbükk
+HegyesbÃ¼kk
 Hegyesd
-Hegyes-dûlõ
-Hegyesdûlõ
-Hegyeshalmizugdûlõ
-Hegyeshalomdûlõ
-Hegyeshalomidûlõ
+Hegyes-dÅ±lÅ‘
+HegyesdÅ±lÅ‘
+HegyeshalmizugdÅ±lÅ‘
+HegyeshalomdÅ±lÅ‘
+HegyeshalomidÅ±lÅ‘
 Hegyes-halom
 Hegyes Halom
 Hegyeshalom
-Hegyeshatárdûlõ
-Hegyeshatáritanya
-Hegyes-határ
-Hegyeshatár
-Hegyes-hát
+HegyeshatÃ¡rdÅ±lÅ‘
+HegyeshatÃ¡ritanya
+Hegyes-hatÃ¡r
+HegyeshatÃ¡r
+Hegyes-hÃ¡t
 Hegyes-hegy
 Hegyes Hegy
 Hegyes Hegy-orom
 Hegyes-homok
 Hegyes Homok
 Hegyesi Halom
-Hegyesitanyák
+HegyesitanyÃ¡k
 Hegyesitanya
-Hegyes-kõ
+Hegyes-kÅ‘
 Hegyes
 Hegyes Orom
 Hegyespuszta
-Hegyessytanyák
-Hegyes-tetõ
-Hegyestetõ
-Hegyes Tetõ
-Hegyestõ
+HegyessytanyÃ¡k
+Hegyes-tetÅ‘
+HegyestetÅ‘
+Hegyes TetÅ‘
+HegyestÅ‘
 Hegyes-zug
 Hegyfalu
-Hegyháthodász
-Hegyhátmaróc
-Hegyhát
-Hegyhátsál
-Hegyhátszentjakab
-Hegyhátszentmárton
-Hegyhátszentpéteri Major
-Hegyhátszentpéter
-Hegyhöz
-Hegyikastély
+HegyhÃ¡thodÃ¡sz
+HegyhÃ¡tmarÃ³c
+HegyhÃ¡t
+HegyhÃ¡tsÃ¡l
+HegyhÃ¡tszentjakab
+HegyhÃ¡tszentmÃ¡rton
+HegyhÃ¡tszentpÃ©teri Major
+HegyhÃ¡tszentpÃ©ter
+HegyhÃ¶z
+HegyikastÃ©ly
 Hegyipuszta
 Hegyitanya
-Hegykõ
-Hegyköz
+HegykÅ‘
+HegykÃ¶z
 Hegymagas
 Hegymegettipuszta
 Hegymegipuszta
 Hegymeg
 Hegymegpuszta
-Hegymegszõllõhegy
-Hegymögiszõlõ
+HegymegszÅ‘llÅ‘hegy
+HegymÃ¶giszÅ‘lÅ‘
 Hegy
 Hegyoldal
-Hegyszentmárton
-Hegytetõ
-Hegy-tó
-Héhalom
+HegyszentmÃ¡rton
+HegytetÅ‘
+Hegy-tÃ³
+HÃ©halom
 Heincztanya
 Heislerpuszta
 Heitermajor
 Heiterpuszta
-Héjahalom
+HÃ©jahalom
 Hejce
-Hejce-Vilmány
-Hejõbába-Hejõpapi Állomás
-Hejõbába-Hejõpapi
-Hejõbába
-Hejõcsaba
-Hejõkeresztúr
-Hejõkürt
-Hejõ
-Hejõpapi
-Hejõ-patak
-Hejõszalonta
-Hékédi Szõlõk
-Hékéd
-Héki Major
-Héki Puszta
-Hékút
-Hékútpuszta
+Hejce-VilmÃ¡ny
+HejÅ‘bÃ¡ba-HejÅ‘papi ÃllomÃ¡s
+HejÅ‘bÃ¡ba-HejÅ‘papi
+HejÅ‘bÃ¡ba
+HejÅ‘csaba
+HejÅ‘keresztÃºr
+HejÅ‘kÃ¼rt
+HejÅ‘
+HejÅ‘papi
+HejÅ‘-patak
+HejÅ‘szalonta
+HÃ©kÃ©di SzÅ‘lÅ‘k
+HÃ©kÃ©d
+HÃ©ki Major
+HÃ©ki Puszta
+HÃ©kÃºt
+HÃ©kÃºtpuszta
 Helembai Sziget
 Helemba-sziget
 Helesfa
-Helvécia
-Helységrétdûlõ
-Helységrétje
-Hemzõ Sor
-Hemzsõsori Iskola
+HelvÃ©cia
+HelysÃ©grÃ©tdÅ±lÅ‘
+HelysÃ©grÃ©tje
+HemzÅ‘ Sor
+HemzsÅ‘sori Iskola
 Hencida
 Hencse
 Hencsepuszta
 Hencztanya
 Henese
-Henész
+HenÃ©sz
 Henger-malom
 Henye-hegy
-Hényelpuszta
-Hepp-Gináltanya
+HÃ©nyelpuszta
+Hepp-GinÃ¡ltanya
 Hepptanya
 Herbatfa
-Herbolyabánya
-Herbolyaújtelep
+HerbolyabÃ¡nya
+HerbolyaÃºjtelep
 Herceg-domb
 Hercegfalva
 Herceghalom
 Herceg-hegy
-Hercegköves Hegy
-Hercegkút
+HercegkÃ¶ves Hegy
+HercegkÃºt
 Hercegmalom
 Hercegszabar
-Hercegszántó
-Hercegszentmárton
+HercegszÃ¡ntÃ³
+HercegszentmÃ¡rton
 Hercegtag
 Herceg-tanya
 Hercegtanya
-Hercegtõttõs
+HercegtÅ‘ttÅ‘s
 Hercseg-hegy
 Hercseghegy
 Herczeghtanya
 Herczoghtanya
 Herebtanya
-Herédi-patak
-Heréd
-Hereföldek
-Hereföld
-Héreg
-Herekúttanya
-Herencsény
+HerÃ©di-patak
+HerÃ©d
+HerefÃ¶ldek
+HerefÃ¶ld
+HÃ©reg
+HerekÃºttanya
+HerencsÃ©ny
 Herend
-Herény
-Herésdûlõ
-Heréskert
-Heréstanya
+HerÃ©ny
+HerÃ©sdÅ±lÅ‘
+HerÃ©skert
+HerÃ©stanya
 Heresznye
 Hergyevica
-Herkályos-hegy
-Herkályos
-Herkánpuszta
-Herkánydûlõ
-Herkány
-Herkató
+HerkÃ¡lyos-hegy
+HerkÃ¡lyos
+HerkÃ¡npuszta
+HerkÃ¡nydÅ±lÅ‘
+HerkÃ¡ny
+HerkatÃ³
 Herketytanya
 Hermanmajor
 Hermannpuszta
 Hermanntanya
-Hermánpuszta
-Hermánszeg
+HermÃ¡npuszta
+HermÃ¡nszeg
 Hermesitelep
 Hermina-major
 Herminamajor
 Herminapuszta
 Herminatanya
-Hernádbüd
-Hernádbûd
-Hernádcéce
-Hernádi Tanyák
-Hernádkak
-Hernádkércs
-Hernádnémeti-Belsõbõcs
-Hernádnémeti-Bõcs
-Hernádnémeti
-Hernád
-Hernádpetri
-Hernádszentandrás
-Hernádszurdok
-Hernádvécse
-Hernádzsurdok
-Hernyék
+HernÃ¡dbÃ¼d
+HernÃ¡dbÅ±d
+HernÃ¡dcÃ©ce
+HernÃ¡di TanyÃ¡k
+HernÃ¡dkak
+HernÃ¡dkÃ©rcs
+HernÃ¡dnÃ©meti-BelsÅ‘bÅ‘cs
+HernÃ¡dnÃ©meti-BÅ‘cs
+HernÃ¡dnÃ©meti
+HernÃ¡d
+HernÃ¡dpetri
+HernÃ¡dszentandrÃ¡s
+HernÃ¡dszurdok
+HernÃ¡dvÃ©cse
+HernÃ¡dzsurdok
+HernyÃ©k
 Herpa
 Herpa-tanya
-Herpenyõ
+HerpenyÅ‘
 Hertelendi-major
 Hertelendy-major
 Hertelendymajor
 Hertelendytelep
-Hertelendyújhely
+HertelendyÃºjhely
 Hervadtfa
 Heszku Ferenc-tanya
-Hetefejércse
+HetefejÃ©rcse
 Hetei-tag
 Hete
-Hetényegyháza
-Hetényimajor
-Hetényipuszta
-Hetényi-rész
-Hetényitanyák
-Hetény
-Hétes-fõ
-Hetés
+HetÃ©nyegyhÃ¡za
+HetÃ©nyimajor
+HetÃ©nyipuszta
+HetÃ©nyi-rÃ©sz
+HetÃ©nyitanyÃ¡k
+HetÃ©ny
+HÃ©tes-fÅ‘
+HetÃ©s
 Hetes
-Hetey László-tanya
+Hetey LÃ¡szlÃ³-tanya
 Hetey-tag
-Héteytag
+HÃ©teytag
 Heteytanya
-Hét-forrás
-Héthalmi Oldal
-Héthalmitanyák
-Héthalom
-Hét Halom
-Hétházpuszta
-Hét
-Hétszõllõ
-Hétszõlõ
-Héttestvérmajor
+HÃ©t-forrÃ¡s
+HÃ©thalmi Oldal
+HÃ©thalmitanyÃ¡k
+HÃ©thalom
+HÃ©t Halom
+HÃ©thÃ¡zpuszta
+HÃ©t
+HÃ©tszÅ‘llÅ‘
+HÃ©tszÅ‘lÅ‘
+HÃ©ttestvÃ©rmajor
 Hetvehely
-Hetyefõ
+HetyefÅ‘
 Hevesaranyos
 Heves County
-Hevesioldali Tanyák
-Hevesi Szõllõk
-Hevesi Szõlõk
-Hevesivány
+Hevesioldali TanyÃ¡k
+Hevesi SzÅ‘llÅ‘k
+Hevesi SzÅ‘lÅ‘k
+HevesivÃ¡ny
 Heves Megye
 Heves
 Hevesugra
-Hevesvezekényi Tanyák
-Hevesvezekény
-Hévizgyörk
-Hévízgyörk
-Hévíz
-Hévíz-patak
-Héviz Szent András
-Hév Kerepesi Út
-Hév Vágóhíd Állomás
-Hibjántanya
-Hidas Állomás
-Hidas-bérc
-Hidas-Bonyhád
-Hidashát
-Hidashollós
-Hidasi-víz
-Hidasnémeti
+HevesvezekÃ©nyi TanyÃ¡k
+HevesvezekÃ©ny
+HÃ©vizgyÃ¶rk
+HÃ©vÃ­zgyÃ¶rk
+HÃ©vÃ­z
+HÃ©vÃ­z-patak
+HÃ©viz Szent AndrÃ¡s
+HÃ©v Kerepesi Ãšt
+HÃ©v VÃ¡gÃ³hÃ­d ÃllomÃ¡s
+HibjÃ¡ntanya
+Hidas ÃllomÃ¡s
+Hidas-bÃ©rc
+Hidas-BonyhÃ¡d
+HidashÃ¡t
+HidashollÃ³s
+Hidasi-vÃ­z
+HidasnÃ©meti
 Hidas
 Hidas-patak
 Hidaspatak
 Hidaspetre
 Hidastanya
-Hidas-völgy
-Hideg-ér
-Hidegér Puszta
+Hidas-vÃ¶lgy
+Hideg-Ã©r
+HidegÃ©r Puszta
 Hideg Halom
 Hideg-hegy
 Hideghegy
-Hidegkút-bérc
-Hidegkút-hegy
-Hidegkútidûlõ
-Hideg-kúti-ér
-Hidegkút
-Hidegkúttanya
+HidegkÃºt-bÃ©rc
+HidegkÃºt-hegy
+HidegkÃºtidÅ±lÅ‘
+Hideg-kÃºti-Ã©r
+HidegkÃºt
+HidegkÃºttanya
 Hidegmajor
 Hidegoldal
-Hidegoltványos
+HidegoltvÃ¡nyos
 Hidegpataka
 Hidegpatak
-Hideg-rév
-Hidegség
+Hideg-rÃ©v
+HidegsÃ©g
 Hidegtanya
-Hidegvölgymajor
-Hideg-völgy
-Hideg Völgy
-Hidegvölgytanya
-Hideg-völgy-tetõ
+HidegvÃ¶lgymajor
+Hideg-vÃ¶lgy
+Hideg VÃ¶lgy
+HidegvÃ¶lgytanya
+Hideg-vÃ¶lgy-tetÅ‘
 Hidja
-Hídjapuszta
-Hídköz
-Hídköz-puszta
-Hídköz-tanya
-Hídláb
+HÃ­djapuszta
+HÃ­dkÃ¶z
+HÃ­dkÃ¶z-puszta
+HÃ­dkÃ¶z-tanya
+HÃ­dlÃ¡b
 Hidor
-Hídpuszta
-Hídrét
-Hidvégardó
-Hídvég-puszta
-Hildi-dûlõ
+HÃ­dpuszta
+HÃ­drÃ©t
+HidvÃ©gardÃ³
+HÃ­dvÃ©g-puszta
+Hildi-dÅ±lÅ‘
 Hild
-Hillér
-Hillértanyák
-Hillértanya
+HillÃ©r
+HillÃ©rtanyÃ¡k
+HillÃ©rtanya
 Hillye
-Hímesdi-lapos
-Himesháza
-Himesházi Puszta
+HÃ­mesdi-lapos
+HimeshÃ¡za
+HimeshÃ¡zi Puszta
 Himfamajor
-Himfõde
-Himfölde-tanyák
-Himföld
+HimfÅ‘de
+HimfÃ¶lde-tanyÃ¡k
+HimfÃ¶ld
 Himod
-Hintó-farok
-Hintófaroktanya
-Hintó-hegy
+HintÃ³-farok
+HintÃ³faroktanya
+HintÃ³-hegy
 Hippolitpuszta
 Hippolytpuszta
 Hird
 Hirics
-Hirschdûlõ
+HirschdÅ±lÅ‘
 Hirschfeldtanya
 Hirsch-orom
 Hirschtanya
 Hirschtelep
 Hirtelentanya
-Hízlaldai-tábla
-Hízlalda-major
-Hízlalda
+HÃ­zlaldai-tÃ¡bla
+HÃ­zlalda-major
+HÃ­zlalda
 Hobajdomb
 Hobaji-domb
 Hobajmalom
@@ -8431,455 +8431,455 @@ Hobogytanya
 Hobol
 Hobolpuszta
 Hochriegel
-Hodály
-Hodálypuszta
-Hodálytanya
-Hodász
-Hódmezõvásárhelyi Népkert
-Hódmezõvásárhely-Ipartelepek
-Hódmezõvásárhely Megyei Város
-Hódmezõvásárhely
-Hodoscsépány
-Hódos-ér
-Hódosér
-Hódoshátihegy
-Hódoshát
-Hodosi Ér
-Hódoskamajor
-Hódoska
-Hódoskapuszta
-Hódos Köze
-Hódos
-Hódos-patak
-Hódospuszta
-Hód-tavi-csatorna
-Hódtó-Kis-Tisza-csatorna
-Hódtó-Kis-tiszai-csatorna
-Hódtó-Nagyfai-összekötõcsatorna
-Hódtó-Nagyfa-összekötõcsatorna
-Hódtó
-Hoduladûlõ
+HodÃ¡ly
+HodÃ¡lypuszta
+HodÃ¡lytanya
+HodÃ¡sz
+HÃ³dmezÅ‘vÃ¡sÃ¡rhelyi NÃ©pkert
+HÃ³dmezÅ‘vÃ¡sÃ¡rhely-Ipartelepek
+HÃ³dmezÅ‘vÃ¡sÃ¡rhely Megyei VÃ¡ros
+HÃ³dmezÅ‘vÃ¡sÃ¡rhely
+HodoscsÃ©pÃ¡ny
+HÃ³dos-Ã©r
+HÃ³dosÃ©r
+HÃ³doshÃ¡tihegy
+HÃ³doshÃ¡t
+Hodosi Ã‰r
+HÃ³doskamajor
+HÃ³doska
+HÃ³doskapuszta
+HÃ³dos KÃ¶ze
+HÃ³dos
+HÃ³dos-patak
+HÃ³dospuszta
+HÃ³d-tavi-csatorna
+HÃ³dtÃ³-Kis-Tisza-csatorna
+HÃ³dtÃ³-Kis-tiszai-csatorna
+HÃ³dtÃ³-Nagyfai-Ã¶sszekÃ¶tÅ‘csatorna
+HÃ³dtÃ³-Nagyfa-Ã¶sszekÃ¶tÅ‘csatorna
+HÃ³dtÃ³
+HoduladÅ±lÅ‘
 Hodulatanya
-Hóduna
-Hódunapuszta
-Hódy Gusztáv-tanya
-Hódy Károly-tanya
+HÃ³duna
+HÃ³dunapuszta
+HÃ³dy GusztÃ¡v-tanya
+HÃ³dy KÃ¡roly-tanya
 Hoffmann Malom
 Hofmanntanya
-Hõgye
-Hõgyész
-Hõgyészymajor
-Hõgyetanyák
-Hõgyetanya
-Höhle von Aggtelek
+HÅ‘gye
+HÅ‘gyÃ©sz
+HÅ‘gyÃ©szymajor
+HÅ‘gyetanyÃ¡k
+HÅ‘gyetanya
+HÃ¶hle von Aggtelek
 Hohnertanya
-Hókahalom-puszta
-Hókamalom
-Hóka
-Hókapuszta
-Holecskótanyák
-Holecskótanya
-Hollád
-Hollófészek
-Hollóháza
-Holló-kõ
-Hollókõ
-Hollómajor
-Holló
-Hollósdûlõ
-Hollósfai Tó
-Hollós
-Hollóstetõi Menedékház
-Hollós-tetõ
-Hollóstetõ
-Hollós-völgy
-Hollótanya
+HÃ³kahalom-puszta
+HÃ³kamalom
+HÃ³ka
+HÃ³kapuszta
+HolecskÃ³tanyÃ¡k
+HolecskÃ³tanya
+HollÃ¡d
+HollÃ³fÃ©szek
+HollÃ³hÃ¡za
+HollÃ³-kÅ‘
+HollÃ³kÅ‘
+HollÃ³major
+HollÃ³
+HollÃ³sdÅ±lÅ‘
+HollÃ³sfai TÃ³
+HollÃ³s
+HollÃ³stetÅ‘i MenedÃ©khÃ¡z
+HollÃ³s-tetÅ‘
+HollÃ³stetÅ‘
+HollÃ³s-vÃ¶lgy
+HollÃ³tanya
 Holmantag
-Holtág
-Holtdunaág
-Holt-Körös
+HoltÃ¡g
+HoltdunaÃ¡g
+Holt-KÃ¶rÃ¶s
 Holt Patak
-Holt-Sajó
-Holt-Sebes-Körös
+Holt-SajÃ³
+Holt-Sebes-KÃ¶rÃ¶s
 Holt-Szamos
-Holt-Tarna-dûlõ
+Holt-Tarna-dÅ±lÅ‘
 Holt Tarna
 Holt-Tisza
-Hólyapuszta
-Hõlyeghegy
+HÃ³lyapuszta
+HÅ‘lyeghegy
 Homarkaitanya
 Homlajt-hegy
 Homlajt
-Homokbánya
-Homokbödöge
-Homokcsárda
+HomokbÃ¡nya
+HomokbÃ¶dÃ¶ge
+HomokcsÃ¡rda
 Homokdomb
-Homokdûlõ
-Homokdûlõtanyák
-Homokerdõ
-Homokgödör
-Homokgyõr
-Homokhát
-Homokház
-Homokhegyi Tanyák
+HomokdÅ±lÅ‘
+HomokdÅ±lÅ‘tanyÃ¡k
+HomokerdÅ‘
+HomokgÃ¶dÃ¶r
+HomokgyÅ‘r
+HomokhÃ¡t
+HomokhÃ¡z
+Homokhegyi TanyÃ¡k
 Homok-hegy
 Homokhegy
 Homok Hegy
 Homoki Domb
-Homoki Dûlõ
+Homoki DÅ±lÅ‘
 Homoki Hegy
 Homokimajor
 Homoki Malom
 Homoki Puszta
-Homoki Szõllõ
-Homoki Szõllõskert
-Homokiszõlõk
-Homokiszõlõ
-Homoki Tanyák
+Homoki SzÅ‘llÅ‘
+Homoki SzÅ‘llÅ‘skert
+HomokiszÅ‘lÅ‘k
+HomokiszÅ‘lÅ‘
+Homoki TanyÃ¡k
 Homokitanya
-Homoki Újtelep
+Homoki Ãšjtelep
 Homokkert
-Homokkomárom
-Homoklaposdûlõ
+HomokkomÃ¡rom
+HomoklaposdÅ±lÅ‘
 Homokmajor
-Homokmégy
+HomokmÃ©gy
 Homok
 Homokos
 Homokpuszta
-Homok-rét
-Homokszentgyörgy
-Homokszentlõrinc
-Homokszõllõ
+Homok-rÃ©t
+HomokszentgyÃ¶rgy
+HomokszentlÅ‘rinc
+HomokszÅ‘llÅ‘
 Homoktag
 Homoktagtanya
 Homoktanya
 Homokterenye
-Homolytájadûlõ
-Homolytája
+HomolytÃ¡jadÅ±lÅ‘
+HomolytÃ¡ja
 Homorod
-Homoród
-Homoródpuszta
-Homor-szög
-Homorúd
-Homorú-tetõ
-Hompaszkút
-Homráktanya
-Homród
+HomorÃ³d
+HomorÃ³dpuszta
+Homor-szÃ¶g
+HomorÃºd
+HomorÃº-tetÅ‘
+HompaszkÃºt
+HomrÃ¡ktanya
+HomrÃ³d
 Homrogd
 Hongrie
-Hónigpuszta
+HÃ³nigpuszta
 Honimalom
 Honti Tanya
 Hont
-Honvéd-halom
-Honvédlaktanya
-Honvédmajor
-Honvédpuszta
-Hoportyó-hegy
+HonvÃ©d-halom
+HonvÃ©dlaktanya
+HonvÃ©dmajor
+HonvÃ©dpuszta
+HoportyÃ³-hegy
 Hoportyok Hegy
 Hoportyok
-Hoportyó
-Horányicsárda
-Horány
-Hordó-állás-hegy
-Hordós-kút-dûlõ
-Hordóskút
-Hordóskúttanya
-Hordóvölgy
-Hordóvölgy-puszta
+HoportyÃ³
+HorÃ¡nyicsÃ¡rda
+HorÃ¡ny
+HordÃ³-Ã¡llÃ¡s-hegy
+HordÃ³s-kÃºt-dÅ±lÅ‘
+HordÃ³skÃºt
+HordÃ³skÃºttanya
+HordÃ³vÃ¶lgy
+HordÃ³vÃ¶lgy-puszta
 Horga Halom
-Horgaközedûlõ
-Horgaközidûlõ
+HorgakÃ¶zedÅ±lÅ‘
+HorgakÃ¶zidÅ±lÅ‘
 Horga
-Horgas-dûlõ
-Horgasdûlõ
-Horgasérimajor
-Horgas-ér
-Horgasér
+Horgas-dÅ±lÅ‘
+HorgasdÅ±lÅ‘
+HorgasÃ©rimajor
+Horgas-Ã©r
+HorgasÃ©r
 Horgas
-Horgas-tó
-Horgas Tó
-Horgoló Hát
-Horgoló
-Horgos Tó
-Hörmann-forrás
-Hornád
-Hór
-Hornyáktanya
+Horgas-tÃ³
+Horgas TÃ³
+HorgolÃ³ HÃ¡t
+HorgolÃ³
+Horgos TÃ³
+HÃ¶rmann-forrÃ¡s
+HornÃ¡d
+HÃ³r
+HornyÃ¡ktanya
 Horog-hegy
-Horogidûlõ
+HorogidÅ±lÅ‘
 Horogpuszta
-Horog-tetõ
-Horog-völgy
-Horpácsi Erdõ
-Horpács
-Hór-patak
-Hort-Csány
+Horog-tetÅ‘
+Horog-vÃ¶lgy
+HorpÃ¡csi ErdÅ‘
+HorpÃ¡cs
+HÃ³r-patak
+Hort-CsÃ¡ny
 Horthyliget
 Horthy-telep
-Horti Királydomb
+Horti KirÃ¡lydomb
 Hort
-Hortobágy Állomás
-Hortobágy-Berettyó-fõcsatorna
-Hortobágy-Berettyó
-Hortobágy Csatorna
-Hortobágyi-halastó
-Hortobágyihalastó
-Hortobágyi Halastó
-Hortobágyi Nemzeti Park
-Hortobágyi-Öreg-tavak
-Hortobágyi Víztároló
-Hortobágy-Máta
-Hortobágy
-Hortobágy Steppe
-Hortobágy-Százköblös
-Hortolányipuszta
+HortobÃ¡gy ÃllomÃ¡s
+HortobÃ¡gy-BerettyÃ³-fÅ‘csatorna
+HortobÃ¡gy-BerettyÃ³
+HortobÃ¡gy Csatorna
+HortobÃ¡gyi-halastÃ³
+HortobÃ¡gyihalastÃ³
+HortobÃ¡gyi HalastÃ³
+HortobÃ¡gyi Nemzeti Park
+HortobÃ¡gyi-Ã–reg-tavak
+HortobÃ¡gyi VÃ­ztÃ¡rolÃ³
+HortobÃ¡gy-MÃ¡ta
+HortobÃ¡gy
+HortobÃ¡gy Steppe
+HortobÃ¡gy-SzÃ¡zkÃ¶blÃ¶s
+HortolÃ¡nyipuszta
 Hortyi
-Horvátbokor
-Horváthbokor
-Horvát-hegy
-Horváthertelend
-Horváth-féle Tanya
-Horváthföldek
-Horváth Pál-tanya
-Horváth-puszta
-Horváth-tag
-Horváth-tanya
-Horváthtanya
-Horvátkimle
-Horvátkút
-Horvátlövõ
-Horvátnádalja
-Horvát-tanya
-Horváttanya
-Horvátzsidány
-Hór-völgy-patak
-Hosdát
-Hõsökföldje
-Hossúviz
-Hossznakdûlõ
-Hosszú-bérc
-Hosszúberek
-Hosszú Berek
-Hosszúberek-Péteri
-Hosszúcsemõ
-Hosszúdombmajor
-Hosszú-domb
-Hosszúdûlõi Tanyák
-Hosszú-dûlõ
-Hosszúdûlõ
-Hosszú-erdõ
-Hosszúfertõdûlõ
-Hosszúfoki-castorna
-Hosszú-foki-csatorna
-Hosszúfoki Csatorna
-Hosszú-foki-fõcsatorna
-Hosszúfok-Okányi Fõcsatorna
-Hosszúföldek
-Hosszúföldi Dûlõ
-Hosszúgalya-tetõ
-Hosszú Halom
-Hosszúhátdûlõ
-Hosszúhátitanyák
-Hosszúhát
-Hosszúháztanya
-Hosszúhegyalja
-Hosszú-hegy
-Hosszúhegy
-Hosszú Hegy
-Hosszúhetény
-Hosszúhídi Csatorna
-Hosszu-hídi
-Hosszújánka
-Hosszú-kõ
-Hosszú-Kopasz
-Hosszúlapos
-Hosszúligettanya
-Hosszú-máj
-Hosszúmezõ
-Hosszúmezõpuszta
-Hosszúpályi
-Hosszúpály
-Hosszú-patak
-Hosszúpereszteg
-Hosszú-ráta-dûlõ
-Hosszúráta
-Hosszúrétdûlõ
-Hosszúrétek
-Hosszúréti-árok
-Hosszúréti-patak
-Hosszúrét
-Hosszú Rét
-Hosszúrét-puszta
-Hosszúsik
-Hosszú-som
-Hosszú Sori Ugarok
-Hosszúsor
-Hosszúszekidûlõ
-Hosszú-sziget
-Hosszúsziget
-Hosszú-tanya
-Hosszútó
-Hosszú Tó
-Hosszú-tûs
-Hosszútûstanya
-Hosszúverõipuszta
-Hosszúverõpuszta
-Hosszú-víz
-Hosszú Víz
-Hosszúvíz
-Hosszúvölgyi Tanya
-Hosszú-völgy
-Hosszúvölgy
-Hosszúvölgypuszta
-Hosszú-Vontató
-Hõstelep
-Hoszsúhegy
-Hosztándûlõ
-Hosztán
-Hosztántanya
-Hosztót
-Hottó
+HorvÃ¡tbokor
+HorvÃ¡thbokor
+HorvÃ¡t-hegy
+HorvÃ¡thertelend
+HorvÃ¡th-fÃ©le Tanya
+HorvÃ¡thfÃ¶ldek
+HorvÃ¡th PÃ¡l-tanya
+HorvÃ¡th-puszta
+HorvÃ¡th-tag
+HorvÃ¡th-tanya
+HorvÃ¡thtanya
+HorvÃ¡tkimle
+HorvÃ¡tkÃºt
+HorvÃ¡tlÃ¶vÅ‘
+HorvÃ¡tnÃ¡dalja
+HorvÃ¡t-tanya
+HorvÃ¡ttanya
+HorvÃ¡tzsidÃ¡ny
+HÃ³r-vÃ¶lgy-patak
+HosdÃ¡t
+HÅ‘sÃ¶kfÃ¶ldje
+HossÃºviz
+HossznakdÅ±lÅ‘
+HosszÃº-bÃ©rc
+HosszÃºberek
+HosszÃº Berek
+HosszÃºberek-PÃ©teri
+HosszÃºcsemÅ‘
+HosszÃºdombmajor
+HosszÃº-domb
+HosszÃºdÅ±lÅ‘i TanyÃ¡k
+HosszÃº-dÅ±lÅ‘
+HosszÃºdÅ±lÅ‘
+HosszÃº-erdÅ‘
+HosszÃºfertÅ‘dÅ±lÅ‘
+HosszÃºfoki-castorna
+HosszÃº-foki-csatorna
+HosszÃºfoki Csatorna
+HosszÃº-foki-fÅ‘csatorna
+HosszÃºfok-OkÃ¡nyi FÅ‘csatorna
+HosszÃºfÃ¶ldek
+HosszÃºfÃ¶ldi DÅ±lÅ‘
+HosszÃºgalya-tetÅ‘
+HosszÃº Halom
+HosszÃºhÃ¡tdÅ±lÅ‘
+HosszÃºhÃ¡titanyÃ¡k
+HosszÃºhÃ¡t
+HosszÃºhÃ¡ztanya
+HosszÃºhegyalja
+HosszÃº-hegy
+HosszÃºhegy
+HosszÃº Hegy
+HosszÃºhetÃ©ny
+HosszÃºhÃ­di Csatorna
+Hosszu-hÃ­di
+HosszÃºjÃ¡nka
+HosszÃº-kÅ‘
+HosszÃº-Kopasz
+HosszÃºlapos
+HosszÃºligettanya
+HosszÃº-mÃ¡j
+HosszÃºmezÅ‘
+HosszÃºmezÅ‘puszta
+HosszÃºpÃ¡lyi
+HosszÃºpÃ¡ly
+HosszÃº-patak
+HosszÃºpereszteg
+HosszÃº-rÃ¡ta-dÅ±lÅ‘
+HosszÃºrÃ¡ta
+HosszÃºrÃ©tdÅ±lÅ‘
+HosszÃºrÃ©tek
+HosszÃºrÃ©ti-Ã¡rok
+HosszÃºrÃ©ti-patak
+HosszÃºrÃ©t
+HosszÃº RÃ©t
+HosszÃºrÃ©t-puszta
+HosszÃºsik
+HosszÃº-som
+HosszÃº Sori Ugarok
+HosszÃºsor
+HosszÃºszekidÅ±lÅ‘
+HosszÃº-sziget
+HosszÃºsziget
+HosszÃº-tanya
+HosszÃºtÃ³
+HosszÃº TÃ³
+HosszÃº-tÅ±s
+HosszÃºtÅ±stanya
+HosszÃºverÅ‘ipuszta
+HosszÃºverÅ‘puszta
+HosszÃº-vÃ­z
+HosszÃº VÃ­z
+HosszÃºvÃ­z
+HosszÃºvÃ¶lgyi Tanya
+HosszÃº-vÃ¶lgy
+HosszÃºvÃ¶lgy
+HosszÃºvÃ¶lgypuszta
+HosszÃº-VontatÃ³
+HÅ‘stelep
+HoszsÃºhegy
+HosztÃ¡ndÅ±lÅ‘
+HosztÃ¡n
+HosztÃ¡ntanya
+HosztÃ³t
+HottÃ³
 Hotyka-patak
 Houjka-patak
-Hövej
+HÃ¶vej
 Hubaytanya
 Hubaytelep
 Hubertlak
 Huberttanya
 Hugahegy
-Hugatitanyák
+HugatitanyÃ¡k
 Hugotpuszta
 Hugyag
-Hugyó-hegy
-Hugyóhegy
-Hujadûlõ
-Hulesch-Kertészet
-Hullámtér
-Hüllõ
-Hultcsek-Kertészet
+HugyÃ³-hegy
+HugyÃ³hegy
+HujadÅ±lÅ‘
+Hulesch-KertÃ©szet
+HullÃ¡mtÃ©r
+HÃ¼llÅ‘
+Hultcsek-KertÃ©szet
 HU MASTER SOURCE HOLDINGS LIST
 Hungarian Basin
 Hungarian Plain
-Hungária Út
+HungÃ¡ria Ãšt
 Hungary
 Hunyadfalva
 Hunyadfalva-puszta
-Hunyadi-és Zöldtanya
-Hunyadiszõllõstelep
+Hunyadi-Ã©s ZÃ¶ldtanya
+HunyadiszÅ‘llÅ‘stelep
 Hunyadi-tanya
 Hunyaditanya
 Hunyadytanya
 Hunya
-Húnya-telep
-Hupadûlõ
+HÃºnya-telep
+HupadÅ±lÅ‘
 Huppontanya
-Hurkás-Hegyes-dûlõ
-Húsfoka
-Huszák-rész
-Huszárdûlõ
-Huszár-hegy
-Huszárokelõpuszta
-Huszár-puszta
-Huszárpuszta
-Huszártanya
-Huszászialsómajor
-Huszászimajor
-Huszászi-patak
+HurkÃ¡s-Hegyes-dÅ±lÅ‘
+HÃºsfoka
+HuszÃ¡k-rÃ©sz
+HuszÃ¡rdÅ±lÅ‘
+HuszÃ¡r-hegy
+HuszÃ¡rokelÅ‘puszta
+HuszÃ¡r-puszta
+HuszÃ¡rpuszta
+HuszÃ¡rtanya
+HuszÃ¡szialsÃ³major
+HuszÃ¡szimajor
+HuszÃ¡szi-patak
 Huszonyahegy
 Huszonya
 Huszthymajor
 Husztitanya
-Husztót
+HusztÃ³t
 Huszty-tanya
 Huter
 Huttertanya
-Hutyántanya
-Hûvös-völgy
-Hûvösvölgy
-Huzadûlõ
+HutyÃ¡ntanya
+HÅ±vÃ¶s-vÃ¶lgy
+HÅ±vÃ¶svÃ¶lgy
+HuzadÅ±lÅ‘
 Ibafa
 Ibolyamajor
 Iborfia
-Ibrány
-Ibrikó
-Ibrikópuszta
+IbrÃ¡ny
+IbrikÃ³
+IbrikÃ³puszta
 Icselytanya
 Idamajor
 Idapuszta
 Idatanya
 Ier
-Ifigéniamajor
-Ifigéniapuszta
-Igali-fõcsatorna
-Igali Gravitációs Fõcsatorna
-Igali-ménes-puszta
+IfigÃ©niamajor
+IfigÃ©niapuszta
+Igali-fÅ‘csatorna
+Igali GravitÃ¡ciÃ³s FÅ‘csatorna
+Igali-mÃ©nes-puszta
 Igalipuszta
 Igal
-Igalöreghegy
+IgalÃ¶reghegy
 Igalpuszta
-Igarió
+IgariÃ³
 Igar
-Igásitanyák
-Igásitanya
-Igásiugar
-Igási Út Féle Tanyák
+IgÃ¡sitanyÃ¡k
+IgÃ¡sitanya
+IgÃ¡siugar
+IgÃ¡si Ãšt FÃ©le TanyÃ¡k
 Igej
-Igéret
-Ignáctanya
-Ignáctelep
+IgÃ©ret
+IgnÃ¡ctanya
+IgnÃ¡ctelep
 Igondatanya
-Igótanya
+IgÃ³tanya
 Igrice
 Igricetanya
 Igrici
-Iharkút
-Iharosberény
+IharkÃºt
+IharosberÃ©ny
 Iharos-hegy
-Iharosi Dûlõ
+Iharosi DÅ±lÅ‘
 Iharosmajor
 Iharos
-Ihász
-Ihráz
-Ikervári Villanytelep
-Ikervár
-Iklad-Domony Felsõ
+IhÃ¡sz
+IhrÃ¡z
+IkervÃ¡ri Villanytelep
+IkervÃ¡r
+Iklad-Domony FelsÅ‘
 Iklad-Domony
 Iklad
-Iklanberény
-Iklódbördõce
-Iklódi Malom
-Ikrény
+IklanberÃ©ny
+IklÃ³dbÃ¶rdÅ‘ce
+IklÃ³di Malom
+IkrÃ©ny
 Ikva
 Ikva Patak
 Ilatanya
-Ilike-folyás
-Ilimány
+Ilike-folyÃ¡s
+IlimÃ¡ny
 Iliny
 Ilis
-Ilkaháza
+IlkahÃ¡za
 Ilkamajor
 Ilkapuszta
-Ilkatér
-Ilka-tetõ
+IlkatÃ©r
+Ilka-tetÅ‘
 Ilk
 Illancs
-Illésmajor
-Illésytanya
-Illimán
+IllÃ©smajor
+IllÃ©sytanya
+IllimÃ¡n
 Illocska
 Ilmamajor
 Ilmapuszta
-Ilonabánya
-Ilonakút
+IlonabÃ¡nya
+IlonakÃºt
 Ilonamajor
 Ilonamalom
 Ilonapuszta
-Ilonaszállás
+IlonaszÃ¡llÃ¡s
 Ilonatanya
 Ilona-telep
 Ilonatelep
-Ilona-völgy
+Ilona-vÃ¶lgy
 Ilonkamajor
 Ilonkapuszta
 Ilosvai-tag
@@ -8887,192 +8887,192 @@ Ilosvaitanya
 Ilosvaytag
 Ilosvaytanya
 Imola
-Imrédi
+ImrÃ©di
 Imrehegy
 Imre I.-tanya
-Imremajori Út
+Imremajori Ãšt
 Imremajor
 Imre Puszta
-Imsós
+ImsÃ³s
 Inacs
-Inámpuszta
-Ináncs
-Inárcsi-szõllõk
-Inárcsi Szõllõtelep
-Inárcs-Kakucs
-Inárcs
-Inaszóbánya
-Inászóbányatelep
+InÃ¡mpuszta
+InÃ¡ncs
+InÃ¡rcsi-szÅ‘llÅ‘k
+InÃ¡rcsi SzÅ‘llÅ‘telep
+InÃ¡rcs-Kakucs
+InÃ¡rcs
+InaszÃ³bÃ¡nya
+InÃ¡szÃ³bÃ¡nyatelep
 Ince
-Inérháttanya
-Ingvár
-Inkei-Káka
+InÃ©rhÃ¡ttanya
+IngvÃ¡r
+Inkei-KÃ¡ka
 Inkelepled
 Inke
-Inkeykáka
-Innensõángyád
-Innensõhát
-Inokai Tanyák
-Inokai-tó
+InkeykÃ¡ka
+InnensÅ‘Ã¡ngyÃ¡d
+InnensÅ‘hÃ¡t
+Inokai TanyÃ¡k
+Inokai-tÃ³
 Inoka
 Inotai Tanya
 Inota
 Inotapuszta
-Inó-tó
-Intadûlõ
-Intaháza
+InÃ³-tÃ³
+IntadÅ±lÅ‘
+IntahÃ¡za
 Inta
 Intapuszta
-Intézetidûlõ
+IntÃ©zetidÅ±lÅ‘
 Ipacsfa
-Ipardûlõ
-Iparszõllõk
-Iparszõlõk
+IpardÅ±lÅ‘
+IparszÅ‘llÅ‘k
+IparszÅ‘lÅ‘k
 Ipartelep
-Ipolydamásd
-Ipolydûlõ
+IpolydamÃ¡sd
+IpolydÅ±lÅ‘
 Ipoly
-Ipolyszög
-Ipolytarnóc
-Ipolytölgyes
+IpolyszÃ¶g
+IpolytarnÃ³c
+IpolytÃ¶lgyes
 Ipolyvece
-Irány-hegy
+IrÃ¡ny-hegy
 Iregpuszta
 Iregszemcse
-Irénmajor
-Irénszállás
-Iréntelep
+IrÃ©nmajor
+IrÃ©nszÃ¡llÃ¡s
+IrÃ©ntelep
 Irinyitanya
 Irmamajor
 Irmapuszta
 Irmatanya
 Irmatelep
-Irmenkút
-Irotai-tetõ
+IrmenkÃºt
+Irotai-tetÅ‘
 Irota
 Irsa
 Irsapuszta
-Irtás-hegy
-Irtási Hegy
-Irtás-major
-Irtásmajor
-Irtás
-Irtáspuszta
-Irtástanya
-Írtástanya
-Irtvány-hegy
-Irtvány
-Irtványosdûlõ
-Irtványpuszta
+IrtÃ¡s-hegy
+IrtÃ¡si Hegy
+IrtÃ¡s-major
+IrtÃ¡smajor
+IrtÃ¡s
+IrtÃ¡spuszta
+IrtÃ¡stanya
+ÃrtÃ¡stanya
+IrtvÃ¡ny-hegy
+IrtvÃ¡ny
+IrtvÃ¡nyosdÅ±lÅ‘
+IrtvÃ¡nypuszta
 Isaszeg
-Iskoladûlõitanyák
-Iskola-dûlõ
-Iskoladûlõ
-Iskolaföld
-Iskola Út
-Ispánk
-Ispitaaljadûlõ
+IskoladÅ±lÅ‘itanyÃ¡k
+Iskola-dÅ±lÅ‘
+IskoladÅ±lÅ‘
+IskolafÃ¶ld
+Iskola Ãšt
+IspÃ¡nk
+IspitaaljadÅ±lÅ‘
 Ispita-hegy
 Ispitalja
-Issekutzkastély
-Istállóskõ Erõse
-Istállós-kõ
+IssekutzkastÃ©ly
+IstÃ¡llÃ³skÅ‘ ErÅ‘se
+IstÃ¡llÃ³s-kÅ‘
 Isten Dombja
-Isten-fa-tetõ
-Istenhegyi Szõllõtelep
+Isten-fa-tetÅ‘
+Istenhegyi SzÅ‘llÅ‘telep
 Isten-hegy
-Isten Kiskertje-dûlõ
+Isten Kiskertje-dÅ±lÅ‘
 Istenkiskert
-Istenkútja
-Istenkút
+IstenkÃºtja
+IstenkÃºt
 Istenmezeje
-Istvánakna
-Istvánbokor
-Istvándimajor
-Istvándi
-Istvánháza
-Istvánházapuszta
-Istvánház
-István-hegyes
-Istvánhegyi Szõllõ
-István-major
-Istvánmajor
-Istvánpuszta
-Istvántanya
-Istvántelep
-Istvánújfalu
-Istvánvölgypuszta
+IstvÃ¡nakna
+IstvÃ¡nbokor
+IstvÃ¡ndimajor
+IstvÃ¡ndi
+IstvÃ¡nhÃ¡za
+IstvÃ¡nhÃ¡zapuszta
+IstvÃ¡nhÃ¡z
+IstvÃ¡n-hegyes
+IstvÃ¡nhegyi SzÅ‘llÅ‘
+IstvÃ¡n-major
+IstvÃ¡nmajor
+IstvÃ¡npuszta
+IstvÃ¡ntanya
+IstvÃ¡ntelep
+IstvÃ¡nÃºjfalu
+IstvÃ¡nvÃ¶lgypuszta
 Iszap
 Iszappuszta
 Iszaptanya
 Iszka-hegy
 Iszka
-Iszkaszentgyörgy
-Iszkáz
-Isztimér
-Itató
+IszkaszentgyÃ¶rgy
+IszkÃ¡z
+IsztimÃ©r
+ItatÃ³
 Ivacsi Patak
-Ivád
-Ivánbattyán
-Ivánc
-Iváncsa-ferenc-major
-Iváncsa
-Iváncsicstanya
-Iváncsó
-Iváncsótanya
-Ivándárda
-Ivánfarét
-Ivánhalom
-Ivánháza
-Ivánházapuszta
-Ivánházatanya
-Ivánkamajor
-Ivánka
-Ivánkapuszta
-Ivánkatanya
-Iván
-Ivánpuszta
-Ivánszõllõs
-Ivánszõlõs
-Ivántagpuszta
-Ivántelep
-Ivánvölgy
-Iványinagynyésta
-Iványinyésta
-Iványi Sor
-Iványpuszta
-Izabellaföld
-Izabella Üdülõtelep
+IvÃ¡d
+IvÃ¡nbattyÃ¡n
+IvÃ¡nc
+IvÃ¡ncsa-ferenc-major
+IvÃ¡ncsa
+IvÃ¡ncsicstanya
+IvÃ¡ncsÃ³
+IvÃ¡ncsÃ³tanya
+IvÃ¡ndÃ¡rda
+IvÃ¡nfarÃ©t
+IvÃ¡nhalom
+IvÃ¡nhÃ¡za
+IvÃ¡nhÃ¡zapuszta
+IvÃ¡nhÃ¡zatanya
+IvÃ¡nkamajor
+IvÃ¡nka
+IvÃ¡nkapuszta
+IvÃ¡nkatanya
+IvÃ¡n
+IvÃ¡npuszta
+IvÃ¡nszÅ‘llÅ‘s
+IvÃ¡nszÅ‘lÅ‘s
+IvÃ¡ntagpuszta
+IvÃ¡ntelep
+IvÃ¡nvÃ¶lgy
+IvÃ¡nyinagynyÃ©sta
+IvÃ¡nyinyÃ©sta
+IvÃ¡nyi Sor
+IvÃ¡nypuszta
+IzabellafÃ¶ld
+Izabella ÃœdÃ¼lÅ‘telep
 Iza-major
 Iza
-Izbég
-Izbonyótanya
-Izgéti Legelõtársulat
+IzbÃ©g
+IzbonyÃ³tanya
+IzgÃ©ti LegelÅ‘tÃ¡rsulat
 Izguntanya
-Izmény
+IzmÃ©ny
 Izrapuszta
 Izratanya
-Izsákfa
-Izsákfaújtelep
-Izsák
-Izsákpuszta
-Izsófalva
-Izsótanya
-Izsótelep
-Ja2gerszállás
+IzsÃ¡kfa
+IzsÃ¡kfaÃºjtelep
+IzsÃ¡k
+IzsÃ¡kpuszta
+IzsÃ³falva
+IzsÃ³tanya
+IzsÃ³telep
+Ja2gerszÃ¡llÃ¡s
 Jaba
 Jaba-patak
 Jabapuszta
-Jaczótanya
-Jádipuszta
-Jáditanya
-Jágercsárda
+JaczÃ³tanya
+JÃ¡dipuszta
+JÃ¡ditanya
+JÃ¡gercsÃ¡rda
 Jager
-Jágónak
-Jáhompuszta
-Jáhumpuszta
-Jajgatódûlõ
-Jajgatóhegydûlõ
+JÃ¡gÃ³nak
+JÃ¡hompuszta
+JÃ¡humpuszta
+JajgatÃ³dÅ±lÅ‘
+JajgatÃ³hegydÅ±lÅ‘
 Jajhalom
 Jajka
 Jajmajor
@@ -9080,310 +9080,310 @@ Jajtanya
 Jakabdombitanya
 Jakabdomb
 Jakabffy-major
-Jakabffytanyák
+JakabffytanyÃ¡k
 Jakabffytanya
-Jakabháza
+JakabhÃ¡za
 Jakab-hegy
-Jakabszállás
-Jakabszáltás
-Jakabszél
+JakabszÃ¡llÃ¡s
+JakabszÃ¡ltÃ¡s
+JakabszÃ©l
 Jakabtanya
-Ják-Balogunyom
-Jákfalva
-Jákfa
-Jáki-Sorok
-Ják
-Jákóhalmiúti Dûlõ
-Jakó-hegy
-Jákó-Nagybajom
-Jákó
-Jákótanya
-Jákotpuszta
-Jaksoritanyák
+JÃ¡k-Balogunyom
+JÃ¡kfalva
+JÃ¡kfa
+JÃ¡ki-Sorok
+JÃ¡k
+JÃ¡kÃ³halmiÃºti DÅ±lÅ‘
+JakÃ³-hegy
+JÃ¡kÃ³-Nagybajom
+JÃ¡kÃ³
+JÃ¡kÃ³tanya
+JÃ¡kotpuszta
+JaksoritanyÃ¡k
 Jaksor
 Jakusbokor
-Jákvarcsó
-Jákvarcsótanya
-Jalapár
-Jálicsholdas
-Jálicsparcella
+JÃ¡kvarcsÃ³
+JÃ¡kvarcsÃ³tanya
+JalapÃ¡r
+JÃ¡licsholdas
+JÃ¡licsparcella
 Jamapuszta
-Jámborhalom
-Jámbor
-Jámbortanya
+JÃ¡mborhalom
+JÃ¡mbor
+JÃ¡mbortanya
 Jamina
 Jaminapuszta
-Jamrikdûlõ
-Jancsármajor
+JamrikdÅ±lÅ‘
+JancsÃ¡rmajor
 Jancsimajor
-Jánd
-Janitsáripuszta
-Janitsárypuszta
-Jankaházamajor
-Jankaháza
-Jánkahegy
+JÃ¡nd
+JanitsÃ¡ripuszta
+JanitsÃ¡rypuszta
+JankahÃ¡zamajor
+JankahÃ¡za
+JÃ¡nkahegy
 Jankamajor
 Jankapuszta
-Jánkmajtis
-Jánk
-Jankóiszõllõk
-Jankói Szõlõk
-Jankóürbõ
-Jankóvájamadûlõ
-Jankovicskölked
+JÃ¡nkmajtis
+JÃ¡nk
+JankÃ³iszÅ‘llÅ‘k
+JankÃ³i SzÅ‘lÅ‘k
+JankÃ³Ã¼rbÅ‘
+JankÃ³vÃ¡jamadÅ±lÅ‘
+JankovicskÃ¶lked
 Jankovitstanya
-Jánmajor
-Jánosakna-bányatelep
-Jánosaknai Barakház
-János-állás
-Jánosbokor
-János-domb
-Jánosér
-Jánosértanya
-Jánosfaimalom
-Jánosfutás
-Jánoshalma
-Jánoshalmi-öreg Szõlõk
-János-halom
-Jánosháza
-Jánosháza-puszta
-Jánosházapuszta
-Jánosházidûlõ
-János-hegy
-Jánoshegy
-Jánoshida
-Jánosipuszta
-Jánositanyák
-Jánositanya
-Jánosi Völgy
-Jánoskert
-Jánosmajori-dûlõ
-Jánosmajor
-János-puszta
-Jánospuszta
-Jánossomorja
-Jánosszállás
-Jánostanya
-Jánostavadûlõ
-Jánostava
-Jánostelek
-János Vára
-Jánosvölgy
+JÃ¡nmajor
+JÃ¡nosakna-bÃ¡nyatelep
+JÃ¡nosaknai BarakhÃ¡z
+JÃ¡nos-Ã¡llÃ¡s
+JÃ¡nosbokor
+JÃ¡nos-domb
+JÃ¡nosÃ©r
+JÃ¡nosÃ©rtanya
+JÃ¡nosfaimalom
+JÃ¡nosfutÃ¡s
+JÃ¡noshalma
+JÃ¡noshalmi-Ã¶reg SzÅ‘lÅ‘k
+JÃ¡nos-halom
+JÃ¡noshÃ¡za
+JÃ¡noshÃ¡za-puszta
+JÃ¡noshÃ¡zapuszta
+JÃ¡noshÃ¡zidÅ±lÅ‘
+JÃ¡nos-hegy
+JÃ¡noshegy
+JÃ¡noshida
+JÃ¡nosipuszta
+JÃ¡nositanyÃ¡k
+JÃ¡nositanya
+JÃ¡nosi VÃ¶lgy
+JÃ¡noskert
+JÃ¡nosmajori-dÅ±lÅ‘
+JÃ¡nosmajor
+JÃ¡nos-puszta
+JÃ¡nospuszta
+JÃ¡nossomorja
+JÃ¡nosszÃ¡llÃ¡s
+JÃ¡nostanya
+JÃ¡nostavadÅ±lÅ‘
+JÃ¡nostava
+JÃ¡nostelek
+JÃ¡nos VÃ¡ra
+JÃ¡nosvÃ¶lgy
 Jansentanya
 Janyapuszta
-Jápla
-Járásdûlõ
-Járásidûlõ
-Járási Szeretetház
-Járássor
-Járástanya
-Járdánháza
-Járdántanya
-Járiföld
-Járminagytanya
-Jármi
-Jármi Tanya
-Jármokfõi-tanya
-Jármokfõtanya
-Jármy Elemér-tanya
-Jármytanya
-Járnokfõitanya
-Járóháza
-Jásdi Tanyák
-Jásd
-Jasszú-tetõ
+JÃ¡pla
+JÃ¡rÃ¡sdÅ±lÅ‘
+JÃ¡rÃ¡sidÅ±lÅ‘
+JÃ¡rÃ¡si SzeretethÃ¡z
+JÃ¡rÃ¡ssor
+JÃ¡rÃ¡stanya
+JÃ¡rdÃ¡nhÃ¡za
+JÃ¡rdÃ¡ntanya
+JÃ¡rifÃ¶ld
+JÃ¡rminagytanya
+JÃ¡rmi
+JÃ¡rmi Tanya
+JÃ¡rmokfÅ‘i-tanya
+JÃ¡rmokfÅ‘tanya
+JÃ¡rmy ElemÃ©r-tanya
+JÃ¡rmytanya
+JÃ¡rnokfÅ‘itanya
+JÃ¡rÃ³hÃ¡za
+JÃ¡sdi TanyÃ¡k
+JÃ¡sd
+JasszÃº-tetÅ‘
 Jasvina-puszta
-Jászági-fõcsatorna
-Jászági Öntözõ Fõcsatorna
-Jászágó
-Jászalsószentgyörgy
-Jászapáti-határdûlõ
-Jászapáti
-Jászárokszállás
-Jászberényi-határdûlõ
-Jászberény
-Jászboldogháza-Jánoshida
-Jászboldogháza
-Jászdózsa
-Jászfalu
-Jászfalu-puszta
-Jászfelsõszentgyörgy
-Jászfényszaru
-Jásziványi Tanyák
-Jászivány
-Jászjákóhalma
-Jászkarajenõ
-Jászkisér Felsõ Vasútimegállóhely
-Jászkisér
-Jászladányi Tanyák
-Jászladány
-Jász-Nagykun-Szolnok Megye
-Jász-Nagykun-Szolnok
-Jászó-tetõ
-Jászság
-Jászszentandrás
-Jászszentlászló
-Jászszentlázló
-Jásztelek
-Jásztelekpuszta
-Jásztelep
-Jásztelepszállás
-Játszó Hegy
-Jaukói Szõllõk
-Jaukóiszõlõk
-Javítmány
-Jávorkút
+JÃ¡szÃ¡gi-fÅ‘csatorna
+JÃ¡szÃ¡gi Ã–ntÃ¶zÅ‘ FÅ‘csatorna
+JÃ¡szÃ¡gÃ³
+JÃ¡szalsÃ³szentgyÃ¶rgy
+JÃ¡szapÃ¡ti-hatÃ¡rdÅ±lÅ‘
+JÃ¡szapÃ¡ti
+JÃ¡szÃ¡rokszÃ¡llÃ¡s
+JÃ¡szberÃ©nyi-hatÃ¡rdÅ±lÅ‘
+JÃ¡szberÃ©ny
+JÃ¡szboldoghÃ¡za-JÃ¡noshida
+JÃ¡szboldoghÃ¡za
+JÃ¡szdÃ³zsa
+JÃ¡szfalu
+JÃ¡szfalu-puszta
+JÃ¡szfelsÅ‘szentgyÃ¶rgy
+JÃ¡szfÃ©nyszaru
+JÃ¡szivÃ¡nyi TanyÃ¡k
+JÃ¡szivÃ¡ny
+JÃ¡szjÃ¡kÃ³halma
+JÃ¡szkarajenÅ‘
+JÃ¡szkisÃ©r FelsÅ‘ VasÃºtimegÃ¡llÃ³hely
+JÃ¡szkisÃ©r
+JÃ¡szladÃ¡nyi TanyÃ¡k
+JÃ¡szladÃ¡ny
+JÃ¡sz-Nagykun-Szolnok Megye
+JÃ¡sz-Nagykun-Szolnok
+JÃ¡szÃ³-tetÅ‘
+JÃ¡szsÃ¡g
+JÃ¡szszentandrÃ¡s
+JÃ¡szszentlÃ¡szlÃ³
+JÃ¡szszentlÃ¡zlÃ³
+JÃ¡sztelek
+JÃ¡sztelekpuszta
+JÃ¡sztelep
+JÃ¡sztelepszÃ¡llÃ¡s
+JÃ¡tszÃ³ Hegy
+JaukÃ³i SzÅ‘llÅ‘k
+JaukÃ³iszÅ‘lÅ‘k
+JavÃ­tmÃ¡ny
+JÃ¡vorkÃºt
 Jazvinapuszta
 Jazygia
 Jeb Domb
 Jedinkaihegy
 Jedinka
-Jedinkaszõlõhegy
-Jedinkaszõlõ
-Jegenyés
-Jegenyés Puszta
-Jegenyéssziget
-Jegenyéstanya
-Jegesi Szõllõk
-Jegesiszõlõk
+JedinkaszÅ‘lÅ‘hegy
+JedinkaszÅ‘lÅ‘
+JegenyÃ©s
+JegenyÃ©s Puszta
+JegenyÃ©ssziget
+JegenyÃ©stanya
+Jegesi SzÅ‘llÅ‘k
+JegesiszÅ‘lÅ‘k
 Jegespuszta
 Jegestanya
-Jeges-völgy
-Jégfatelep
+Jeges-vÃ¶lgy
+JÃ©gfatelep
 Jegrestanya
-Jégveremi Víz
-Jégvermi-árok
-Jegyzõ-tag
-Jegyzõtag
-Jéke
-Jékey Felsõtanya
-Jékey I.-tanya
-Jékeytanya
+JÃ©gveremi VÃ­z
+JÃ©gvermi-Ã¡rok
+JegyzÅ‘-tag
+JegyzÅ‘tag
+JÃ©ke
+JÃ©key FelsÅ‘tanya
+JÃ©key I.-tanya
+JÃ©keytanya
 Jelence-hegy
 Jelenc-hegy
 Jelestanya
 Jellatanya
 Jencitag
-Jencsik-dûlõ
+Jencsik-dÅ±lÅ‘
 Jencsiktanya
-Jend-Lórét-csatorna
-Jeneifürdõ
+Jend-LÃ³rÃ©t-csatorna
+JeneifÃ¼rdÅ‘
 Jenei-tanya
 Jeneitanya
-Jeneiúti Tanya
-Jeneserdõpuszta
+JeneiÃºti Tanya
+JeneserdÅ‘puszta
 Jeneytanya
 Jenkepuszta
 Jenketanya
-Jenõfasor
-Jenõháza
-Jenõhegy
-Jenõi-tó
-Jenõmajor
-Jenõ
-Jenõpuszta
-Jenõtelek
-Jenõtelekpuszta
+JenÅ‘fasor
+JenÅ‘hÃ¡za
+JenÅ‘hegy
+JenÅ‘i-tÃ³
+JenÅ‘major
+JenÅ‘
+JenÅ‘puszta
+JenÅ‘telek
+JenÅ‘telekpuszta
 Jeszenik
 Jeszeniktanya
-Jihoslovenskı Kras
+JihoslovenskÃ½ Kras
 Jilektanya
-Jobaháza
-Jobbágyi-hegy
-Jobbágyi
-Jobbágytanya
-Jobbparászta
+JobahÃ¡za
+JobbÃ¡gyi-hegy
+JobbÃ¡gyi
+JobbÃ¡gytanya
+JobbparÃ¡szta
 Jobbremete
-Jóciktanya
-Jódikert
-Jóferketag
-Jóferketanya
-Jókai Mór-úti Tanyák
-Jókaitelep
-Jókúti Major
-Jókúti Szõlõ-telep
-Jókút
-Jókúttanya
-Jolánakna
-Jolánka
-Jolántapuszta
-Jónap
-Jónásgyümölcsös
-Jónáshegy
-Jónásmajor
-Jónás
-Jónáspuszta
-Jónásrész
-Jónás-tanya
-Jónástanya
-Jónatelek
+JÃ³ciktanya
+JÃ³dikert
+JÃ³ferketag
+JÃ³ferketanya
+JÃ³kai MÃ³r-Ãºti TanyÃ¡k
+JÃ³kaitelep
+JÃ³kÃºti Major
+JÃ³kÃºti SzÅ‘lÅ‘-telep
+JÃ³kÃºt
+JÃ³kÃºttanya
+JolÃ¡nakna
+JolÃ¡nka
+JolÃ¡ntapuszta
+JÃ³nap
+JÃ³nÃ¡sgyÃ¼mÃ¶lcsÃ¶s
+JÃ³nÃ¡shegy
+JÃ³nÃ¡smajor
+JÃ³nÃ¡s
+JÃ³nÃ¡spuszta
+JÃ³nÃ¡srÃ©sz
+JÃ³nÃ¡s-tanya
+JÃ³nÃ¡stanya
+JÃ³natelek
 Joosztanya
-Jordántanya
-Jóreménypuszta
-Jósef-hegy
-Jósvafõ-Aggtelek
-Jósvafõ
-Jósva
-Jósva-patak
-Jótanya
-Jóvég-tanya
-Jóvízforrás
-Jóvízmajor
-Jóvízpuszta
-Jóvízû-patak
-Jóvölgy
-Józantelep
-Józsalakpuszta
-Józsa
-Józsapuszta
-Józsatanya
-Józsefbenedek
-Józsefháza
-Józsefházapuszta
-József-hegy
-Józsefhegy
-József-major
-Józsefmajor
-József Nádor Csatorna
-Józsefõrlak
-Józsefpuszta
-Józsefszállás
-József-Szanatórium
-József-tanya
-Józseftanya
-Józseftelek
-Józseftelep
-Józsefvárosi Pályaudvar
-Józsefvárosi Teher Pályaudvar
-Juhállás-dûlõ
-Juhállás
+JordÃ¡ntanya
+JÃ³remÃ©nypuszta
+JÃ³sef-hegy
+JÃ³svafÅ‘-Aggtelek
+JÃ³svafÅ‘
+JÃ³sva
+JÃ³sva-patak
+JÃ³tanya
+JÃ³vÃ©g-tanya
+JÃ³vÃ­zforrÃ¡s
+JÃ³vÃ­zmajor
+JÃ³vÃ­zpuszta
+JÃ³vÃ­zÅ±-patak
+JÃ³vÃ¶lgy
+JÃ³zantelep
+JÃ³zsalakpuszta
+JÃ³zsa
+JÃ³zsapuszta
+JÃ³zsatanya
+JÃ³zsefbenedek
+JÃ³zsefhÃ¡za
+JÃ³zsefhÃ¡zapuszta
+JÃ³zsef-hegy
+JÃ³zsefhegy
+JÃ³zsef-major
+JÃ³zsefmajor
+JÃ³zsef NÃ¡dor Csatorna
+JÃ³zsefÅ‘rlak
+JÃ³zsefpuszta
+JÃ³zsefszÃ¡llÃ¡s
+JÃ³zsef-SzanatÃ³rium
+JÃ³zsef-tanya
+JÃ³zseftanya
+JÃ³zseftelek
+JÃ³zseftelep
+JÃ³zsefvÃ¡rosi PÃ¡lyaudvar
+JÃ³zsefvÃ¡rosi Teher PÃ¡lyaudvar
+JuhÃ¡llÃ¡s-dÅ±lÅ‘
+JuhÃ¡llÃ¡s
 Juharos
-Juhászfertõdûlõ
-Juhászföld
-Juhász-halom
-Juhász-hegy
-Juhász-major
-Juhászmajor
-Juhász-patak
-Juhászpuszta
-Juhásztag
-Juhásztanya
-Juhé
-Juhépuszta
-Juhosdûlõ
-Juhosfõ
-Júlia-dûlõ
-Júlia-liget
-Júliamajor
-Juliánhegy
+JuhÃ¡szfertÅ‘dÅ±lÅ‘
+JuhÃ¡szfÃ¶ld
+JuhÃ¡sz-halom
+JuhÃ¡sz-hegy
+JuhÃ¡sz-major
+JuhÃ¡szmajor
+JuhÃ¡sz-patak
+JuhÃ¡szpuszta
+JuhÃ¡sztag
+JuhÃ¡sztanya
+JuhÃ©
+JuhÃ©puszta
+JuhosdÅ±lÅ‘
+JuhosfÅ‘
+JÃºlia-dÅ±lÅ‘
+JÃºlia-liget
+JÃºliamajor
+JuliÃ¡nhegy
 Juliannamajor
-Júliatanya
-Júliatelep
+JÃºliatanya
+JÃºliatelep
 Juliskamajor
 Juliskatanya
 Jungtanya
-Jurászitanya
-Jurenákföld
+JurÃ¡szitanya
+JurenÃ¡kfÃ¶ld
 Jurinatanya
 Justhmajor
 Justustanya
@@ -9394,457 +9394,457 @@ Jut
 Jutompuszta
 Kaasmajor
 Kaastanya
-Kabalás
+KabalÃ¡s
 Kaba
-Kabavölgy
-Kábelház
-Kábeltelep
+KabavÃ¶lgy
+KÃ¡belhÃ¡z
+KÃ¡beltelep
 Kab-hegy
-Kablásmajor
-Kabóka
-Kabókapuszta
-Kabolás
-Kacolabánya
+KablÃ¡smajor
+KabÃ³ka
+KabÃ³kapuszta
+KabolÃ¡s
+KacolabÃ¡nya
 Kacola
 Kacolapuszta
 Kacorlak
-Kacsajtosdûlõ
+KacsajtosdÅ±lÅ‘
 Kacsajtos
-Kácsárd
-Kacsás
-Kacsástópuszta
-Kacsavár
-Kacsavártanya
-Kácsikpuszta
-Kácsi-patak
-Kácsi-víz
+KÃ¡csÃ¡rd
+KacsÃ¡s
+KacsÃ¡stÃ³puszta
+KacsavÃ¡r
+KacsavÃ¡rtanya
+KÃ¡csikpuszta
+KÃ¡csi-patak
+KÃ¡csi-vÃ­z
 Kacskovicspuszta
 Kacskoviczpuszta
-Kács
+KÃ¡cs
 Kacsora
 Kacsoratanya
-Kacsóta
+KacsÃ³ta
 Kadafalva
-Kadarcsdûlõ
-Kadarcshát
-Kadarcs-Karácsonyfoki-felfogócsatorna
-Kadarcs-Karácsonyfoki-fõcsatorna
+KadarcsdÅ±lÅ‘
+KadarcshÃ¡t
+Kadarcs-KarÃ¡csonyfoki-felfogÃ³csatorna
+Kadarcs-KarÃ¡csonyfoki-fÅ‘csatorna
 Kadarcs
-Kádárdûlõ
-Kadarkút
-Kádárta
-Kádastanya
-Kajándi Major
-Kajánd
-Kaján
-Kaján Szék
-Kaján-szik
-Kajár
-Kajárpéc
-Kajászó
-Kajászószentiván
-Kajászószentpéter
+KÃ¡dÃ¡rdÅ±lÅ‘
+KadarkÃºt
+KÃ¡dÃ¡rta
+KÃ¡dastanya
+KajÃ¡ndi Major
+KajÃ¡nd
+KajÃ¡n
+KajÃ¡n SzÃ©k
+KajÃ¡n-szik
+KajÃ¡r
+KajÃ¡rpÃ©c
+KajÃ¡szÃ³
+KajÃ¡szÃ³szentivÃ¡n
+KajÃ¡szÃ³szentpÃ©ter
 Kajdacsi Patak
 Kajdacs
 Kajditanya
 Kajdytanya
-Kajetánháza
+KajetÃ¡nhÃ¡za
 Kajla-halom
 Kajlahegy
 Kajla
 Kajlatanya
-Kajmádpuszta
-Kajmát-dûlõ
-Kajmáti Malom
-Kajmáti
-Kajmát-major
-Kajmát
-Kajmátpuszta
+KajmÃ¡dpuszta
+KajmÃ¡t-dÅ±lÅ‘
+KajmÃ¡ti Malom
+KajmÃ¡ti
+KajmÃ¡t-major
+KajmÃ¡t
+KajmÃ¡tpuszta
 Kajta
 Kajtori-csatorna
-Kajtori Tanyák
-Káka-halom
-Kákai-halom
-Kakarcsótanya
-Kakascsárda
+Kajtori TanyÃ¡k
+KÃ¡ka-halom
+KÃ¡kai-halom
+KakarcsÃ³tanya
+KakascsÃ¡rda
 Kakasd
-Kakasdûlõ
+KakasdÅ±lÅ‘
 Kakas-halom
 Kakashalom
 Kakas-hegy
 Kakashegy
 Kakas Hegy
-Kakasiszõlõ
+KakasiszÅ‘lÅ‘
 Kakaskaitelep
 Kakaska
 Kakasmajor
 Kakas
-Kákás
+KÃ¡kÃ¡s
 Kakaso
-Kakasszékhalom
-Kakasszéki-csatorna
-Kakasszéki-tó
-Kakasszék
+KakasszÃ©khalom
+KakasszÃ©ki-csatorna
+KakasszÃ©ki-tÃ³
+KakasszÃ©k
 Kakastanya
 Kakastaraj
-Kakastaréj
-Kákástódûlõ
-Kákás-tó
-Kákás Ugar
+KakastarÃ©j
+KÃ¡kÃ¡stÃ³dÅ±lÅ‘
+KÃ¡kÃ¡s-tÃ³
+KÃ¡kÃ¡s Ugar
 Kakat-csatorna
-Kakat-éri-fõcsatorna
-Kakat-éri-víztároló
-Kakat-ér
+Kakat-Ã©ri-fÅ‘csatorna
+Kakat-Ã©ri-vÃ­ztÃ¡rolÃ³
+Kakat-Ã©r
 Kakat
-Kákavölgy
-Kákics
+KÃ¡kavÃ¶lgy
+KÃ¡kics
 Kak
 Kakonyapuszta
-Kákonyiszállás
+KÃ¡konyiszÃ¡llÃ¡s
 Kakucs
 Kakucspuszta
 Kakuk-hegy
 Kakukhegy
 Kakukk-hegy
-Kakukklelés
-Kalakocs-völgy
-Kalapács
-Kalapács Tanya
+KakukklelÃ©s
+Kalakocs-vÃ¶lgy
+KalapÃ¡cs
+KalapÃ¡cs Tanya
 Kalap-halom
 Kalaposd
-Kalapos-dûlõ
+Kalapos-dÅ±lÅ‘
 Kalapostanya
 Kalappuszta
-Kalaznó
-Kalaznópuszta
-Kálditanya
-Káld
-Káldymajor
+KalaznÃ³
+KalaznÃ³puszta
+KÃ¡lditanya
+KÃ¡ld
+KÃ¡ldymajor
 Kaldy-tanya
-Káldytanya
+KÃ¡ldytanya
 Kalicsa-patak
 Kalicsmajor
 Kalimajor
 Kali Patak
-Kálistapuszta
-Kálitag
-Káli Tanyák
-Kál-Kápolna
-Kállai-fõfolyás
-Kállai-folyás
-Kállaitelep
-Kállaydûlõ
-Kállaytanya
+KÃ¡listapuszta
+KÃ¡litag
+KÃ¡li TanyÃ¡k
+KÃ¡l-KÃ¡polna
+KÃ¡llai-fÅ‘folyÃ¡s
+KÃ¡llai-folyÃ¡s
+KÃ¡llaitelep
+KÃ¡llaydÅ±lÅ‘
+KÃ¡llaytanya
 Kallimajor
 Kall
-Kálló-csatorna
-Kálló-Derecskei-ág
-Kállódûlõ
-Kálló-ér
-Kálló-fõcsatorna
-Kálló-köze
-Kallómalom
-Kálló
-Kallósd
-Kállósemjén
-Kálmácsa
-Kálmánberek
-Kálmáncsai-Gyöngyös
-Kálmáncsa
-Kálmánczhelyitanya
-Kálmándyszõllõ
-Kálmánháza
-Kálmánhegydûlõ
-Kálmán-hegy
-Kálmánhegy
-Kálmánmajor
-Kálmánpuszta
-Kálmántag
-Kálmántanya
-Kalmárföld
-Kalmársziget
-Kálnoki Dunaág
-Kál
-Kálócfa
-Kálócfapuszta
-Kalocsa Állomás
-Kalocsadûlõ
-Kalocsaidûlõ
-Kalocsai-Sárköz
-Kalocsai-síkság
+KÃ¡llÃ³-csatorna
+KÃ¡llÃ³-Derecskei-Ã¡g
+KÃ¡llÃ³dÅ±lÅ‘
+KÃ¡llÃ³-Ã©r
+KÃ¡llÃ³-fÅ‘csatorna
+KÃ¡llÃ³-kÃ¶ze
+KallÃ³malom
+KÃ¡llÃ³
+KallÃ³sd
+KÃ¡llÃ³semjÃ©n
+KÃ¡lmÃ¡csa
+KÃ¡lmÃ¡nberek
+KÃ¡lmÃ¡ncsai-GyÃ¶ngyÃ¶s
+KÃ¡lmÃ¡ncsa
+KÃ¡lmÃ¡nczhelyitanya
+KÃ¡lmÃ¡ndyszÅ‘llÅ‘
+KÃ¡lmÃ¡nhÃ¡za
+KÃ¡lmÃ¡nhegydÅ±lÅ‘
+KÃ¡lmÃ¡n-hegy
+KÃ¡lmÃ¡nhegy
+KÃ¡lmÃ¡nmajor
+KÃ¡lmÃ¡npuszta
+KÃ¡lmÃ¡ntag
+KÃ¡lmÃ¡ntanya
+KalmÃ¡rfÃ¶ld
+KalmÃ¡rsziget
+KÃ¡lnoki DunaÃ¡g
+KÃ¡l
+KÃ¡lÃ³cfa
+KÃ¡lÃ³cfapuszta
+Kalocsa ÃllomÃ¡s
+KalocsadÅ±lÅ‘
+KalocsaidÅ±lÅ‘
+Kalocsai-SÃ¡rkÃ¶z
+Kalocsai-sÃ­ksÃ¡g
 Kalocsa
 Kalocsa-tanya
-Kálóczfa
-Kálomis-tó
-Kálomisz-tó
-Kálongatanya
-Káloz
-Kálvária Dûlõ
-Kálvária-hegy
-Kálvária Hegy
-Kálvária
-Kálvinháza
-Kálvinházatanya
-Kálvin-hegy
+KÃ¡lÃ³czfa
+KÃ¡lomis-tÃ³
+KÃ¡lomisz-tÃ³
+KÃ¡longatanya
+KÃ¡loz
+KÃ¡lvÃ¡ria DÅ±lÅ‘
+KÃ¡lvÃ¡ria-hegy
+KÃ¡lvÃ¡ria Hegy
+KÃ¡lvÃ¡ria
+KÃ¡lvinhÃ¡za
+KÃ¡lvinhÃ¡zatanya
+KÃ¡lvin-hegy
 Kalyditanya
-Kámaháza
-Kámaházapuszta
-Kámáncspuszta
-Kámán
-Kamaraerdõ
-Kamarás-Duna
-Kamarási Halom
-Kamaráspuszta
-Kamaravölgyi Tanyák
-Kamerálistanya
-Kám
+KÃ¡mahÃ¡za
+KÃ¡mahÃ¡zapuszta
+KÃ¡mÃ¡ncspuszta
+KÃ¡mÃ¡n
+KamaraerdÅ‘
+KamarÃ¡s-Duna
+KamarÃ¡si Halom
+KamarÃ¡spuszta
+KamaravÃ¶lgyi TanyÃ¡k
+KamerÃ¡listanya
+KÃ¡m
 Kamonberek
 Kamond
-Kamon-kõ
-Kámon
+Kamon-kÅ‘
+KÃ¡mon
 Kamonya
-Kámori Alsó
-Kámor
-Kamrási-domb
-Kamutdûlõ
+KÃ¡mori AlsÃ³
+KÃ¡mor
+KamrÃ¡si-domb
+KamutdÅ±lÅ‘
 Kamutkert
 Kamut
 Kamutpuszta
-Kámváskútidûlõ
+KÃ¡mvÃ¡skÃºtidÅ±lÅ‘
 Kanacs
-Kanács
+KanÃ¡cs
 Kanadapuszta
 Kanalas-hegy
 Kanal Kralja Petra I
-Kanászhalom
-Kanászháza
-Kancsér
+KanÃ¡szhalom
+KanÃ¡szhÃ¡za
+KancsÃ©r
 Kanda
-Kandikó Hegy
-Kandikó
+KandikÃ³ Hegy
+KandikÃ³
 Kanizsaberek
 Kanizsa
-Kanjárás
-Kán
-Kánó
+KanjÃ¡rÃ¡s
+KÃ¡n
+KÃ¡nÃ³
 Kanotapuszta
-Kanta Köze
-Kantaköz
-Kanthadûlõ
-Kántorjánosi
-Kántorlapos
-Kántorné-bérc
-Kántortanya
-Kánya-domb
-Kánya-ér
-Kányaér
-Kányafa
-Kánya-hegy
-Kányai Víz
-Kánya
-Kánya-patak
-Kányára
+Kanta KÃ¶ze
+KantakÃ¶z
+KanthadÅ±lÅ‘
+KÃ¡ntorjÃ¡nosi
+KÃ¡ntorlapos
+KÃ¡ntornÃ©-bÃ©rc
+KÃ¡ntortanya
+KÃ¡nya-domb
+KÃ¡nya-Ã©r
+KÃ¡nyaÃ©r
+KÃ¡nyafa
+KÃ¡nya-hegy
+KÃ¡nyai VÃ­z
+KÃ¡nya
+KÃ¡nya-patak
+KÃ¡nyÃ¡ra
 Kanyar
-Kányásmajor
-Kányás
-Kányáspuszta
-Kányavár
-Kányé
-Kány
-Kanyór-tag
-Kanyótanya
-Kanyótonya
-Kaparásdûlõ
-Kaparás-zug
-Kaparópuszta
-Kaparósitanya
-Kapásdûlõ
-Kapási Hegy
-Kapás-kert
-Kapáskút
-Kapáskútpuszta
-Kapás Tetõ
-Kapaszkodó
+KÃ¡nyÃ¡smajor
+KÃ¡nyÃ¡s
+KÃ¡nyÃ¡spuszta
+KÃ¡nyavÃ¡r
+KÃ¡nyÃ©
+KÃ¡ny
+KanyÃ³r-tag
+KanyÃ³tanya
+KanyÃ³tonya
+KaparÃ¡sdÅ±lÅ‘
+KaparÃ¡s-zug
+KaparÃ³puszta
+KaparÃ³sitanya
+KapÃ¡sdÅ±lÅ‘
+KapÃ¡si Hegy
+KapÃ¡s-kert
+KapÃ¡skÃºt
+KapÃ¡skÃºtpuszta
+KapÃ¡s TetÅ‘
+KapaszkodÃ³
 Kapberek
 Kapberekpuszta
-Kapcaszékdûlõ
-Kapcaszék
-Kapitány-dûlõ
-Kapitány-hegy
-Kapitányhegy
-Kapitányi Rétek
-Kapitány-major
-Kapitányréti Tanyák
-Kapitányrét
-Kapitányság
-Kapitánytanya
-Kapitány-tó
-Kápláros Hegy
-Kapocsdûlõ
+KapcaszÃ©kdÅ±lÅ‘
+KapcaszÃ©k
+KapitÃ¡ny-dÅ±lÅ‘
+KapitÃ¡ny-hegy
+KapitÃ¡nyhegy
+KapitÃ¡nyi RÃ©tek
+KapitÃ¡ny-major
+KapitÃ¡nyrÃ©ti TanyÃ¡k
+KapitÃ¡nyrÃ©t
+KapitÃ¡nysÃ¡g
+KapitÃ¡nytanya
+KapitÃ¡ny-tÃ³
+KÃ¡plÃ¡ros Hegy
+KapocsdÅ±lÅ‘
 Kapocs-hegy
-Kapócstanya
+KapÃ³cstanya
 Kapolcs
-Kápolnadomb
-Kápolnadûlõ
-Kápolna-halom
-Kápolna-hegy
-Kápolnahegy
-Kápolnai Hegy
-Kápolna
-Kápolnapuszta
-Kápolnásberek
-Kápolnásnyék
-Kápolnásvisnye
-Kápolnatanya
+KÃ¡polnadomb
+KÃ¡polnadÅ±lÅ‘
+KÃ¡polna-halom
+KÃ¡polna-hegy
+KÃ¡polnahegy
+KÃ¡polnai Hegy
+KÃ¡polna
+KÃ¡polnapuszta
+KÃ¡polnÃ¡sberek
+KÃ¡polnÃ¡snyÃ©k
+KÃ¡polnÃ¡svisnye
+KÃ¡polnatanya
 Kapolya
 Kapolyi Puszta
-Kapolyi Út
+Kapolyi Ãšt
 Kapoly
 Kapolypuszta
 Kapony-halom
 Kaporai Malom
 Kapos Canal
 Kaposdada
-Kapos Fõcsatorna
-Kaposfõ
-Kaposfüred
+Kapos FÅ‘csatorna
+KaposfÅ‘
+KaposfÃ¼red
 Kaposgyarmat
 Kaposhegy
 Kaposhomok
-Kaposkeresztúr
-Kapóskert
-Kaposmérõ
+KaposkeresztÃºr
+KapÃ³skert
+KaposmÃ©rÅ‘
 Kapos
 Kapos Patak
 Kapospula
-Kaposszekcsõi Hegy
-Kaposszekcsõ
+KaposszekcsÅ‘i Hegy
+KaposszekcsÅ‘
 Kaposszentbenedek
 Kaposszentjakab
-Kaposszéplak
+KaposszÃ©plak
 Kaposszerdahely
-Kaposújlak
-Kaposvári Textilmûvek
-Kaposvár-Közvágóhíd
-Kaposvár Megyei Város
-Kaposvár
-Kapos-víz
-Káposztaföld
-Káposztásdûlõ
-Káposztáskert
-Káposztás
-Káposztáspuszta
-Káposztástanya
-Káposzta Tetõ
+KaposÃºjlak
+KaposvÃ¡ri TextilmÅ±vek
+KaposvÃ¡r-KÃ¶zvÃ¡gÃ³hÃ­d
+KaposvÃ¡r Megyei VÃ¡ros
+KaposvÃ¡r
+Kapos-vÃ­z
+KÃ¡posztafÃ¶ld
+KÃ¡posztÃ¡sdÅ±lÅ‘
+KÃ¡posztÃ¡skert
+KÃ¡posztÃ¡s
+KÃ¡posztÃ¡spuszta
+KÃ¡posztÃ¡stanya
+KÃ¡poszta TetÅ‘
 Kappanhalma
 Kappanhalom
-Kápráspuszta
-Káptalandûlõ
-Káptalanfa
-Káptalanfüred
-Káptalani Erdõ
-Káptalani Kis-tanya
+KÃ¡prÃ¡spuszta
+KÃ¡ptalandÅ±lÅ‘
+KÃ¡ptalanfa
+KÃ¡ptalanfÃ¼red
+KÃ¡ptalani ErdÅ‘
+KÃ¡ptalani Kis-tanya
 Kaptalani-tanya
-Káptalanmajor
-Káptalan-puszta
-Káptalanpuszta
-Káptalanszõllõ
-Káptalantanya
-Káptalanterebezd
-Káptalantóti
-Kaptár-hegy
-Kaptár
-Kaptártanya
+KÃ¡ptalanmajor
+KÃ¡ptalan-puszta
+KÃ¡ptalanpuszta
+KÃ¡ptalanszÅ‘llÅ‘
+KÃ¡ptalantanya
+KÃ¡ptalanterebezd
+KÃ¡ptalantÃ³ti
+KaptÃ¡r-hegy
+KaptÃ¡r
+KaptÃ¡rtanya
 Kapud
-Kapuvár
+KapuvÃ¡r
 Karabukamajor
 Karabuka
-Karácodfa
+KarÃ¡codfa
 Karacsatanya
 Karacsi Duna
-Karácsond
-Karácsonyfa
-Karácsonyfok
-Karácsonyhegy
-Karácsonylovapuszta
-Karácsonylovatanya
-Karácsonypuszta
-Karádi Erdõ
-Karád
-Karaérdûlõ
-Karaér
-Kara-hát
+KarÃ¡csond
+KarÃ¡csonyfa
+KarÃ¡csonyfok
+KarÃ¡csonyhegy
+KarÃ¡csonylovapuszta
+KarÃ¡csonylovatanya
+KarÃ¡csonypuszta
+KarÃ¡di ErdÅ‘
+KarÃ¡d
+KaraÃ©rdÅ±lÅ‘
+KaraÃ©r
+Kara-hÃ¡t
 Kara-hegy
 Karaitanya
 Karajpuszta
-Karakástelep
-Karakó
-Karakószörcsök
-Karakút
+KarakÃ¡stelep
+KarakÃ³
+KarakÃ³szÃ¶rcsÃ¶k
+KarakÃºt
 Karaljostanya
 Karalyostanya
-Karancapátfalva
-Karáncé
-Karánci-hegy
+KarancapÃ¡tfalva
+KarÃ¡ncÃ©
+KarÃ¡nci-hegy
 Karancsalja
-Karancsberény
-Karancsdûlõ
+KarancsberÃ©ny
+KarancsdÅ±lÅ‘
 Karancshegy
 Karancskeszi
-Karancslapujtõ
+KarancslapujtÅ‘
 Karancs
-Karancsság
-Karankó
-Kára
-Karapáncsa
-Karasemlyékdûlõ
-Karasemlyék
-Kárásmegyer
-Karastó
-Kárász-Köblény
-Kárászmegyer
+KarancssÃ¡g
+KarankÃ³
+KÃ¡ra
+KarapÃ¡ncsa
+KarasemlyÃ©kdÅ±lÅ‘
+KarasemlyÃ©k
+KÃ¡rÃ¡smegyer
+KarastÃ³
+KÃ¡rÃ¡sz-KÃ¶blÃ©ny
+KÃ¡rÃ¡szmegyer
 Karasz
-Kárász
-Karaszõllõ
-Kárászos Lápos
-Kárászos
-Kárászostanya
-Kárászpuszta
-Kárásztanya
-Kárász-telek
-Karátföld
-Karcag-Gergely-oldali Tanyák
-Karcagi Dûlõ
-Karcagigyógyfürdõ
+KÃ¡rÃ¡sz
+KaraszÅ‘llÅ‘
+KÃ¡rÃ¡szos LÃ¡pos
+KÃ¡rÃ¡szos
+KÃ¡rÃ¡szostanya
+KÃ¡rÃ¡szpuszta
+KÃ¡rÃ¡sztanya
+KÃ¡rÃ¡sz-telek
+KarÃ¡tfÃ¶ld
+Karcag-Gergely-oldali TanyÃ¡k
+Karcagi DÅ±lÅ‘
+KarcagigyÃ³gyfÃ¼rdÅ‘
 Karcag-Ipartelep
-Karcagipuszta Állomás
+Karcagipuszta ÃllomÃ¡s
 Karcagi Puszta
-Karcagi Tanyák
-Karcagiúti Dûlõ
-Karcagi Vásártér
+Karcagi TanyÃ¡k
+KarcagiÃºti DÅ±lÅ‘
+Karcagi VÃ¡sÃ¡rtÃ©r
 Karcag
-Karcag-Vásártér
-Karcsa Ér
+Karcag-VÃ¡sÃ¡rtÃ©r
+Karcsa Ã‰r
 Karcsa
 Kardarcs-csatorna
-Kardosdûlõ
-Kardos-ér
+KardosdÅ±lÅ‘
+Kardos-Ã©r
 Kardosfa
 Kardosfapuszta
-Kardosföldek
-Kardoskúti Tanyák
-Kardoskút
+KardosfÃ¶ldek
+KardoskÃºti TanyÃ¡k
+KardoskÃºt
 Kardosliget
 Kardos
-Kardosrét
-Karèa
-Kare János-tanya
-Káricsa-hegy
-Karinkó
+KardosrÃ©t
+KarÄa
+Kare JÃ¡nos-tanya
+KÃ¡ricsa-hegy
+KarinkÃ³
 Karkhalom
-Karmacsi Alsómajor
+Karmacsi AlsÃ³major
 Karmacs
-Karó Hegy
+KarÃ³ Hegy
 Karolamajor
 Karola
 Karolatanya
@@ -9853,90 +9853,90 @@ Karolinapuszta
 Karolin-major
 Karolin
 Karolinpuszta
-Károlyakna
-Károlyderék
-Károlyfalva
-Károlyhalma
-Károlyhalmapuszta
-Károlyháza-major
-Károlyháza
-Károlyházapuszta
-Károlyházatanya
-Károlyházmajor
-Károly-hegy
-Károlyifölditanyák
-Károlyi-major
-Károlyimajor
-Károlyitanyák
-Károlyitanya
-Károlyitelep
-Károlyi Úti-dûlõ
-Károlymajor Alfonzallé
-Károlymajor
-Károlytanya
-Károlytelep
-Károlyvár
+KÃ¡rolyakna
+KÃ¡rolyderÃ©k
+KÃ¡rolyfalva
+KÃ¡rolyhalma
+KÃ¡rolyhalmapuszta
+KÃ¡rolyhÃ¡za-major
+KÃ¡rolyhÃ¡za
+KÃ¡rolyhÃ¡zapuszta
+KÃ¡rolyhÃ¡zatanya
+KÃ¡rolyhÃ¡zmajor
+KÃ¡roly-hegy
+KÃ¡rolyifÃ¶lditanyÃ¡k
+KÃ¡rolyi-major
+KÃ¡rolyimajor
+KÃ¡rolyitanyÃ¡k
+KÃ¡rolyitanya
+KÃ¡rolyitelep
+KÃ¡rolyi Ãšti-dÅ±lÅ‘
+KÃ¡rolymajor AlfonzallÃ©
+KÃ¡rolymajor
+KÃ¡rolytanya
+KÃ¡rolytelep
+KÃ¡rolyvÃ¡r
 Karosalatt
 Karos
-Karóspuszta
-Karostó
-Kárpátitanya
-Kárpátuspuszta
-Karpegéc
+KarÃ³spuszta
+KarostÃ³
+KÃ¡rpÃ¡titanya
+KÃ¡rpÃ¡tuspuszta
+KarpegÃ©c
 Karpfeinsteintanya
 Karpfensteintanya
-Karrós-puszta
+KarrÃ³s-puszta
 Kartal
-Karubánya-telep
+KarubÃ¡nya-telep
 Karud-hegy
 Karu
-Kásád
-Kásafõ-bérc
-Kása-fõ-tetõ
-Kása-halom
-Kása-hegy
-Kásahegy
+KÃ¡sÃ¡d
+KÃ¡safÅ‘-bÃ©rc
+KÃ¡sa-fÅ‘-tetÅ‘
+KÃ¡sa-halom
+KÃ¡sa-hegy
+KÃ¡sahegy
 Kashalma
-Kásipuszta
-Kási Vár
-Kaskantyúi Tanyák
-Kaskantyú
+KÃ¡sipuszta
+KÃ¡si VÃ¡r
+KaskantyÃºi TanyÃ¡k
+KaskantyÃº
 Kassa-hegy
 Kasspuszta
-Kastélydûlõ
-Kastélyi Szõllõk
-Kastélyi Szõlõk
-Kastélykert
-Kastélykútitanya
-Kastélykút-tanya
-Kastély
-Kastélyoldal
-Kastélyosdombó
-Kastélyrész
-Kastélytanya
-Kaszadûlõ
-Kaszaháza
+KastÃ©lydÅ±lÅ‘
+KastÃ©lyi SzÅ‘llÅ‘k
+KastÃ©lyi SzÅ‘lÅ‘k
+KastÃ©lykert
+KastÃ©lykÃºtitanya
+KastÃ©lykÃºt-tanya
+KastÃ©ly
+KastÃ©lyoldal
+KastÃ©lyosdombÃ³
+KastÃ©lyrÃ©sz
+KastÃ©lytanya
+KaszadÅ±lÅ‘
+KaszahÃ¡za
 Kasza-hegy
 Kaszaitanya
-Kaszakútdûlõ
-Kaszálás
-Kaszálás-tetõ
-Kaszálódûlõ
-Kaszálómajor
-Kaszáló
+KaszakÃºtdÅ±lÅ‘
+KaszÃ¡lÃ¡s
+KaszÃ¡lÃ¡s-tetÅ‘
+KaszÃ¡lÃ³dÅ±lÅ‘
+KaszÃ¡lÃ³major
+KaszÃ¡lÃ³
 Kaszaper
 Kaszapuszta
-Kászás Domb
-Kaszatanyadûlõ
+KÃ¡szÃ¡s Domb
+KaszatanyadÅ±lÅ‘
 Kaszatanya
 Kasziba
 Kaszibatanya
-Kászmánkert
-Kászmánykert
-Kaszó
+KÃ¡szmÃ¡nkert
+KÃ¡szmÃ¡nykert
+KaszÃ³
 Kaszonyi-hegy
-Kaszópuszta
-Katádfa
+KaszÃ³puszta
+KatÃ¡dfa
 Katafa
 Kata Halma
 Katahegy
@@ -9948,190 +9948,190 @@ Katalin
 Katalinpuszta
 Katalintanya
 Katalintelep
-Katalin-völgy
-Kati-ér
+Katalin-vÃ¶lgy
+Kati-Ã©r
 Kati-patak
-Katlankút
-Katlanvölgy
-Kátoly
-Katonaföldek
-Katonaföldi Tanyák
-Katonaföld
+KatlankÃºt
+KatlanvÃ¶lgy
+KÃ¡toly
+KatonafÃ¶ldek
+KatonafÃ¶ldi TanyÃ¡k
+KatonafÃ¶ld
 Katona Sor
 Katonaszeglet
 Katonatag
 Katonatanya
 Katonatelep
-Kátó
-Katószõllõ
-Kató-szõlõ
-Kátótanya
-Kátpuszta
-Kátrányos
-Katraszél
+KÃ¡tÃ³
+KatÃ³szÅ‘llÅ‘
+KatÃ³-szÅ‘lÅ‘
+KÃ¡tÃ³tanya
+KÃ¡tpuszta
+KÃ¡trÃ¡nyos
+KatraszÃ©l
 Katronytanya
-Katteridûlõ
-Katymár-hegy
-Katymár
-Kátyóilapos
+KatteridÅ±lÅ‘
+KatymÃ¡r-hegy
+KatymÃ¡r
+KÃ¡tyÃ³ilapos
 Katztanya
 Kaufmanntanya
-Kaukáldûlõ
+KaukÃ¡ldÅ±lÅ‘
 Kauzsaitanya
 Kauzsaytanya
-Káva-hegy
-Kávai Tanya
-Káva
-Kávás
+KÃ¡va-hegy
+KÃ¡vai Tanya
+KÃ¡va
+KÃ¡vÃ¡s
 Kavics-banya
-Kavicsbánya
-Kavicsgödör
-Kavicsos-bérc
+KavicsbÃ¡nya
+KavicsgÃ¶dÃ¶r
+Kavicsos-bÃ©rc
 Kavicsos-domb
 Kavicsos Domb
 Kavicsos
-Kavicsos Tetõ
-Kávölgy
-Kávölgy-Szõlõhegy
+Kavicsos TetÅ‘
+KÃ¡vÃ¶lgy
+KÃ¡vÃ¶lgy-SzÅ‘lÅ‘hegy
 Kazal-hegy
-Kazárbokor
-Kazári-völgy
-Kazár
-Kazártanya
-Kazárvölgy
-Kazincbarcika Alsó
+KazÃ¡rbokor
+KazÃ¡ri-vÃ¶lgy
+KazÃ¡r
+KazÃ¡rtanya
+KazÃ¡rvÃ¶lgy
+Kazincbarcika AlsÃ³
 Kazincbarcika
-Kazsaidûlõ
-Kázsmárk
-Kazsoki Tanyák
+KazsaidÅ±lÅ‘
+KÃ¡zsmÃ¡rk
+Kazsoki TanyÃ¡k
 Kazsokitanya
 Kazsok
 Kazsok Puszta
 Kecces
-Kecel Állomás
-Kecel Alsó
+Kecel ÃllomÃ¡s
+Kecel AlsÃ³
 Keceli Hegy
-Keceli Úti Tanyák
-Keceliúti Tanya
+Keceli Ãšti TanyÃ¡k
+KeceliÃºti Tanya
 Kecel
 Kecel-Szilos
 Kecerlyuba
 Kecetanya
 Kecet
-Kecet-tetõ
-Kéciházhely
+Kecet-tetÅ‘
+KÃ©cihÃ¡zhely
 Kecsege
 Kecsegepuszta
-Kecsegés
-Kecsegés-zug
-Kecske-bérc
-Kecskéd Alsó
-Kecskéd
-Kecskédpuszta
-Kecskehágó-Petõrész
-Kecske-hát
-Kecske-hát-völgy
+KecsegÃ©s
+KecsegÃ©s-zug
+Kecske-bÃ©rc
+KecskÃ©d AlsÃ³
+KecskÃ©d
+KecskÃ©dpuszta
+KecskehÃ¡gÃ³-PetÅ‘rÃ©sz
+Kecske-hÃ¡t
+Kecske-hÃ¡t-vÃ¶lgy
 Kecske-hegy
-Kecskekõmalom
-Kecskeköröm
-Kecskekosártanya
-Kecskekõtanya
-Kecskemét Alsó Pályaudvar
-Kecskemét-hegy
-Kecskeméthytanya
-Kecskemétitanya
-Kecskemét-Máriaváros
-Kecskemét Megyei Város
-Kecskemét
-Kecskemét-Parasztfõiskola
-Kécske
+KecskekÅ‘malom
+KecskekÃ¶rÃ¶m
+KecskekosÃ¡rtanya
+KecskekÅ‘tanya
+KecskemÃ©t AlsÃ³ PÃ¡lyaudvar
+KecskemÃ©t-hegy
+KecskemÃ©thytanya
+KecskemÃ©titanya
+KecskemÃ©t-MÃ¡riavÃ¡ros
+KecskemÃ©t Megyei VÃ¡ros
+KecskemÃ©t
+KecskemÃ©t-ParasztfÅ‘iskola
+KÃ©cske
 Kecske-pad
 Kecskeri
-Kecskeri-víztároló
-Kecskéscsárda
-Kecskés-dûlõ
-Kecskésdûlõ
-Kecskés Erdõ
-Kecskés-hegy
-Kecskés Hegy
-Kecskés
-Kecskés-part
-Kecskéspuszta
-Kecskéstanyák
-Kecskéstanya
+Kecskeri-vÃ­ztÃ¡rolÃ³
+KecskÃ©scsÃ¡rda
+KecskÃ©s-dÅ±lÅ‘
+KecskÃ©sdÅ±lÅ‘
+KecskÃ©s ErdÅ‘
+KecskÃ©s-hegy
+KecskÃ©s Hegy
+KecskÃ©s
+KecskÃ©s-part
+KecskÃ©spuszta
+KecskÃ©stanyÃ¡k
+KecskÃ©stanya
 Kecske-sziget
 Kecskesziget
-Kécziházhelyek
+KÃ©czihÃ¡zhelyek
 Kedves-hegy
 Kegyallya
-Kehida-Kustány
-Kehidakustány
+Kehida-KustÃ¡ny
+KehidakustÃ¡ny
 Kehida
-Kéidûlõ
+KÃ©idÅ±lÅ‘
 Keindltanya
-Kékapuszta
-Kékcse
-Kekécs-tanya
-Kékeditanya
-Kéked
-Kékesd
-Kékes
-Kékestanya
-Kékes-tetõ
-Kékestetõ
-Kék-hegy
-Kék Hegy
-Kékidûlõ
-Kék-Kálló-fõcsatorna
-Kék-Kálló
-Kékkútihegy
-Kék-kúti-völgy
-Kékkút
-Kékmezõ
-Kék
-Kelebiadûlõ
+KÃ©kapuszta
+KÃ©kcse
+KekÃ©cs-tanya
+KÃ©keditanya
+KÃ©ked
+KÃ©kesd
+KÃ©kes
+KÃ©kestanya
+KÃ©kes-tetÅ‘
+KÃ©kestetÅ‘
+KÃ©k-hegy
+KÃ©k Hegy
+KÃ©kidÅ±lÅ‘
+KÃ©k-KÃ¡llÃ³-fÅ‘csatorna
+KÃ©k-KÃ¡llÃ³
+KÃ©kkÃºtihegy
+KÃ©k-kÃºti-vÃ¶lgy
+KÃ©kkÃºt
+KÃ©kmezÅ‘
+KÃ©k
+KelebiadÅ±lÅ‘
 Kelebiai-halastavak
 Kelebia
-Kelecsénypuszta
-Keléd
-Kelemen-fertõ
-Kelemenhalmi Tó
+KelecsÃ©nypuszta
+KelÃ©d
+Kelemen-fertÅ‘
+Kelemenhalmi TÃ³
 Kelemen-halom
 Kelemen-hegy
 Kelemenliget
 Kelemenmajor
-Kelemen-szék
+Kelemen-szÃ©k
 Kelementanya
 Kelemenzug
-Keleméri-patak
-Kelemér
+KelemÃ©ri-patak
+KelemÃ©r
 Kelem
 Kelenc
-Kelenföld
-Kelenvölgy
-Kelényitanya
-Kéleshalom
-Kelesidûlõ
-Kélesi Szõllõk
-Kélesi Szõlõk
-Kéles
-Kélespuszta
-Keletdûlõ
+KelenfÃ¶ld
+KelenvÃ¶lgy
+KelÃ©nyitanya
+KÃ©leshalom
+KelesidÅ±lÅ‘
+KÃ©lesi SzÅ‘llÅ‘k
+KÃ©lesi SzÅ‘lÅ‘k
+KÃ©les
+KÃ©lespuszta
+KeletdÅ±lÅ‘
 Keleti-csatorna
-Keleti-fõcsatorna
-Keletikápolnáshegy
-Keleti Kõhíddûlõ
-Keletikõhíd
+Keleti-fÅ‘csatorna
+KeletikÃ¡polnÃ¡shegy
+Keleti KÅ‘hÃ­ddÅ±lÅ‘
+KeletikÅ‘hÃ­d
 Keleti Lapos
 Keletimajor
-Keleti Öntözõ Fõcsatorna
-Keleti-övcsatorna
-Keleti-Övcsatorna
-Keleti Pályaudvar
-Keletirész
-Kelevíz
-Kellõ
-Kellõ Tó
+Keleti Ã–ntÃ¶zÅ‘ FÅ‘csatorna
+Keleti-Ã¶vcsatorna
+Keleti-Ã–vcsatorna
+Keleti PÃ¡lyaudvar
+KeletirÃ©sz
+KelevÃ­z
+KellÅ‘
+KellÅ‘ TÃ³
 Kemecse
 Kemej
 Kemelypuszta
@@ -10141,55 +10141,55 @@ Kemencepatak
 Kemencpatak
 Kemendhegy
 Kemend
-Kéménd
-Kemendollár
-Kémének-bérc
+KÃ©mÃ©nd
+KemendollÃ¡r
+KÃ©mÃ©nek-bÃ©rc
 Kemenesalja
 Kemenes Fennsik
-Kemeneshát
-Kemeneshõgyész
-Kemeneshögyéz
-Kemeneskápolna
+KemeneshÃ¡t
+KemeneshÅ‘gyÃ©sz
+KemeneshÃ¶gyÃ©z
+KemeneskÃ¡polna
 Kemenesmagasi
 Kemenes-major
-Kemenesmihályfa
+KemenesmihÃ¡lyfa
 Kemenes
-Kemenespálfa
+KemenespÃ¡lfa
 Kemenespuszta
-Kemenessömjén
-Kemenesszentmárton
-Kemenesszentpéter
-Keménfa
-Keménygadány
-Kémény-hegy
-Kemény
-Keménytanya
-Kémes Állomás
-Kemesmál
+KemenessÃ¶mjÃ©n
+KemenesszentmÃ¡rton
+KemenesszentpÃ©ter
+KemÃ©nfa
+KemÃ©nygadÃ¡ny
+KÃ©mÃ©ny-hegy
+KemÃ©ny
+KemÃ©nytanya
+KÃ©mes ÃllomÃ¡s
+KemesmÃ¡l
 Kemes
-Kémes
-Kemestaródfa
-Kémlõd
-Kémlõdpuszta
+KÃ©mes
+KemestarÃ³dfa
+KÃ©mlÅ‘d
+KÃ©mlÅ‘dpuszta
 Kemse
-Kenderesi Dûlõ
-Kenderesi Szõllõk
-Kenderesiszõlõk
+Kenderesi DÅ±lÅ‘
+Kenderesi SzÅ‘llÅ‘k
+KenderesiszÅ‘lÅ‘k
 Kendereskert
 Kenderes
 Kenderessziget
-Kenderes Tó
-Kenderfölddûlõ
-Kenderföldek
-Kenderföldi Tanya
-Kenderföldi Üdülõsor
-Kenderföld
-Kendergyár
-Kendergyártelep
+Kenderes TÃ³
+KenderfÃ¶lddÅ±lÅ‘
+KenderfÃ¶ldek
+KenderfÃ¶ldi Tanya
+KenderfÃ¶ldi ÃœdÃ¼lÅ‘sor
+KenderfÃ¶ld
+KendergyÃ¡r
+KendergyÃ¡rtelep
 Kender-halom
-Kenderháti Szõllõ
-Kender-háti-szõlõ
-Kenderháti Újtelep
+KenderhÃ¡ti SzÅ‘llÅ‘
+Kender-hÃ¡ti-szÅ‘lÅ‘
+KenderhÃ¡ti Ãšjtelep
 Kenderhegy
 Kenderhely
 Kenderhelytanya
@@ -10200,431 +10200,431 @@ Kendipuszta
 Kenditanya
 Kenedytanya
 Keneseihegy
-Kenész-hegy
-Kenészhegy
+KenÃ©sz-hegy
+KenÃ©szhegy
 Kenesz-patak
-Kenéz-hegy
-Kenézlõ
-Kenéz
-Kenézpuszta
-Kengyelesdûlõ
+KenÃ©z-hegy
+KenÃ©zlÅ‘
+KenÃ©z
+KenÃ©zpuszta
+KengyelesdÅ±lÅ‘
 Kengyeles
-Kengyelköz
-Kengyelköztanya
+KengyelkÃ¶z
+KengyelkÃ¶ztanya
 Kengyel
 Kengyeloldal
 Kengyeltanya
 Kenjerei Halom
-Kén Utca
+KÃ©n Utca
 Kenyeres-domb
 Kenyerestanya
-Kenyérhalom
+KenyÃ©rhalom
 Kenyerimajor
 Kenyeri
-Kenyérmezõi-patak
-Kenyérmezõ
-Kenyérmezõ-patak
-Kenyértelek
-Kenyérvári
-Kenyérvár
-Kenyérvárótanya
-Kenyérvár Úti Tanyák
-Kenyiz-tó
+KenyÃ©rmezÅ‘i-patak
+KenyÃ©rmezÅ‘
+KenyÃ©rmezÅ‘-patak
+KenyÃ©rtelek
+KenyÃ©rvÃ¡ri
+KenyÃ©rvÃ¡r
+KenyÃ©rvÃ¡rÃ³tanya
+KenyÃ©rvÃ¡r Ãšti TanyÃ¡k
+Kenyiz-tÃ³
 Kepecs-tag
-Kepésföld
-Képespuszta
+KepÃ©sfÃ¶ld
+KÃ©pespuszta
 Kepestag
-Kép-halom
-Képhalom
-Kepichdûlõ
+KÃ©p-halom
+KÃ©phalom
+KepichdÅ±lÅ‘
 Keppichtanya
 Kerca
 Kercaszomor
-Kercsek-tetõ
+Kercsek-tetÅ‘
 Kercseliget
-Kércsikúttanya
+KÃ©rcsikÃºttanya
 Kerecsend
 Kerecsenyi Tanya
 Kerecseny
 Kerecsenypuszta
-Kerekágpuszta
+KerekÃ¡gpuszta
 Kerekalja
 Kerekaljapuszta
 Kerek-domb
 Kerekdomb
 Kereked
-Kerekegyháza
-Kerek-erdõ
-Kerekerdõtanya
+KerekegyhÃ¡za
+Kerek-erdÅ‘
+KerekerdÅ‘tanya
 Kerekestag
 Kerekestanya
-Kerékgyártótanya
+KerÃ©kgyÃ¡rtÃ³tanya
 Kerekhalom Major
 Kerekhalom
 Kerekharaszt
 Kerek-hegy
 Kerekhegy
 Kerek Hegy
-Kerék-hegy
+KerÃ©k-hegy
 Kerekimajor
 Kereki
 Kerekipuszta
-Kerékiszõllõ
-Kerékiszõlõ
+KerÃ©kiszÅ‘llÅ‘
+KerÃ©kiszÅ‘lÅ‘
 Kerekitelep
-Kerékkötõ-hegy
-Kerékkötõ
-Kerékkötõtanya
+KerÃ©kkÃ¶tÅ‘-hegy
+KerÃ©kkÃ¶tÅ‘
+KerÃ©kkÃ¶tÅ‘tanya
 Kereklapos
-Kerekmágatanya
-Kereknád
-Kereknádtanya
+KerekmÃ¡gatanya
+KereknÃ¡d
+KereknÃ¡dtanya
 Kerek
-Kerékpuszta
-Kerekrétitanya
-Kerek-rét
-Kerekrét-puszta
+KerÃ©kpuszta
+KerekrÃ©titanya
+Kerek-rÃ©t
+KerekrÃ©t-puszta
 Kereksziget
-Kerek-szik-tó
+Kerek-szik-tÃ³
 Kerektanya
-Keréktanya
-Kerékteleki
+KerÃ©ktanya
+KerÃ©kteleki
 Kerektiszta
-Kerektódûlõ
-Kerektó Hegy
-Kerektói Szõllõ
-Keréktóitanya
-Kerek-tó
-Kerektó
-Kerék-tó
-Kerek Tövisek
-Kerek Tövisk
-Kerekzátony
-Kerekzátonysziget
-Kerepesihatár
-Kerepesi Út
+KerektÃ³dÅ±lÅ‘
+KerektÃ³ Hegy
+KerektÃ³i SzÅ‘llÅ‘
+KerÃ©ktÃ³itanya
+Kerek-tÃ³
+KerektÃ³
+KerÃ©k-tÃ³
+Kerek TÃ¶visek
+Kerek TÃ¶visk
+KerekzÃ¡tony
+KerekzÃ¡tonysziget
+KerepesihatÃ¡r
+Kerepesi Ãšt
 Kerepes
-Kerepestarcsa Alsó
-Kerepestarcsa Felsõ
+Kerepestarcsa AlsÃ³
+Kerepestarcsa FelsÅ‘
 Kerepestarcsa
 Kereseszeg
 Keresnyeitanya
-Keresztcsárda
-Kereszt-dûlõ
-Keresztdûlõ
-Keresztélymajor
-Keresztény
-Keresztér
+KeresztcsÃ¡rda
+Kereszt-dÅ±lÅ‘
+KeresztdÅ±lÅ‘
+KeresztÃ©lymajor
+KeresztÃ©ny
+KeresztÃ©r
 Keresztesitanya
 Keresztesmajor
 Keresztes
-Keresztespüspöki
+KeresztespÃ¼spÃ¶ki
 Keresztespuszta
 Keresztestanya
-Keresztéte
+KeresztÃ©te
 Keresztfai Puszta
-Kereszt-hát
-Kereszthát
-Kereszthát Üdülõpart
+Kereszt-hÃ¡t
+KereszthÃ¡t
+KereszthÃ¡t ÃœdÃ¼lÅ‘part
 Kereszt-hegy
 Kereszthegy
 Kereszt Hegy
 Keresztipuszta
 Keresztmajor
-Keresztónokdûlõ
+KeresztÃ³nokdÅ±lÅ‘
 Keresztpataktanya
-Keresztúri-domb
-Keresztúri-patak
-Keresztúritanya
-Keresztúr
-Keresztúrpuszta
-Keresztútdûlõ
-Keresztút
-Keresztvölgyi Puszta
-Kereszt-völgy
-Keresztvölgypuszta
+KeresztÃºri-domb
+KeresztÃºri-patak
+KeresztÃºritanya
+KeresztÃºr
+KeresztÃºrpuszta
+KeresztÃºtdÅ±lÅ‘
+KeresztÃºt
+KeresztvÃ¶lgyi Puszta
+Kereszt-vÃ¶lgy
+KeresztvÃ¶lgypuszta
 Kerettye
-Kérhalom
-Kéridûlõ
-Kérikereszt
-Kéripuszta
-Kerítés
-Kerítettgaz
-Kerkabarabás
+KÃ©rhalom
+KÃ©ridÅ±lÅ‘
+KÃ©rikereszt
+KÃ©ripuszta
+KerÃ­tÃ©s
+KerÃ­tettgaz
+KerkabarabÃ¡s
 Kerkafalva
-Kerkaiklód
+KerkaiklÃ³d
 Kerkakutas
-Kerkanémetfalu
+KerkanÃ©metfalu
 Kerka
 Kerka-patak
-Kerkapéntekfalu
-Kerkáskápolna
-Kerkaszentkirály
-Kerkaszentmihály
-Kerka Szent Miklós
-Kerkateskánd
-Kerkatótfalu
-Kerkaújfalu
-Kerka-vidék
-Kerka-Vidék
-Kernács Sándorné-tanya
-Kernács-tanya
-Kernercsárda
-Kernyei Szivattyú
+KerkapÃ©ntekfalu
+KerkÃ¡skÃ¡polna
+KerkaszentkirÃ¡ly
+KerkaszentmihÃ¡ly
+Kerka Szent MiklÃ³s
+KerkateskÃ¡nd
+KerkatÃ³tfalu
+KerkaÃºjfalu
+Kerka-vidÃ©k
+Kerka-VidÃ©k
+KernÃ¡cs SÃ¡ndornÃ©-tanya
+KernÃ¡cs-tanya
+KernercsÃ¡rda
+Kernyei SzivattyÃº
 Kernye
-Kérpuszta
-Kersek-tetõ
-Kérsemjén
-Kertafalu-víz
-Kertaljadûlõ
+KÃ©rpuszta
+Kersek-tetÅ‘
+KÃ©rsemjÃ©n
+Kertafalu-vÃ­z
+KertaljadÅ±lÅ‘
 Kertalja
 Kerta
-Kerteskõ
-Kertészsziget
-Kertésztanya
+KerteskÅ‘
+KertÃ©szsziget
+KertÃ©sztanya
 Kertmeg
-Kertváros
-Kerülõház
-Kerülõház Puszta
-Kerülõ-part
-Kerülõpuszta
-Kesellõdûlõ
-Kesellõ-hegy
-Kesellõ
-Kesellõs
-Kesellõsszõllõ
-Keselõ-hegy
-Keselõsfa
+KertvÃ¡ros
+KerÃ¼lÅ‘hÃ¡z
+KerÃ¼lÅ‘hÃ¡z Puszta
+KerÃ¼lÅ‘-part
+KerÃ¼lÅ‘puszta
+KesellÅ‘dÅ±lÅ‘
+KesellÅ‘-hegy
+KesellÅ‘
+KesellÅ‘s
+KesellÅ‘sszÅ‘llÅ‘
+KeselÅ‘-hegy
+KeselÅ‘sfa
 Kesely
-Keselyõ-hegy
-Keselyõsfapuszta
-Keselyõs
-Keselyrét
-Keselyrétpuszta
-Keselyû-bérc
-Keselyûhalom
-Keselyû-hegy
-Keselyû
-Keselyûshalom
-Keselyûs-hegy
-Keselyûsitanyák
-Keserû-hegy
-Keserûkútdûlõ
-Keserû Patak
-Keserûtanya
-Keserûtelek
-Keserûviz Forrás
-Keserûviz
-Keskeny Bérc
+KeselyÅ‘-hegy
+KeselyÅ‘sfapuszta
+KeselyÅ‘s
+KeselyrÃ©t
+KeselyrÃ©tpuszta
+KeselyÅ±-bÃ©rc
+KeselyÅ±halom
+KeselyÅ±-hegy
+KeselyÅ±
+KeselyÅ±shalom
+KeselyÅ±s-hegy
+KeselyÅ±sitanyÃ¡k
+KeserÅ±-hegy
+KeserÅ±kÃºtdÅ±lÅ‘
+KeserÅ± Patak
+KeserÅ±tanya
+KeserÅ±telek
+KeserÅ±viz ForrÃ¡s
+KeserÅ±viz
+Keskeny BÃ©rc
 Keskeny
 Keskeny Orom
 Keskenypuszta
 Keskenytanya
-Kesnyékdûlõ
-Kesnyék Hegy
-Kesnyék
-Készbik
-Keszeg-ér
+KesnyÃ©kdÅ±lÅ‘
+KesnyÃ©k Hegy
+KesnyÃ©k
+KÃ©szbik
+Keszeg-Ã©r
 Keszeg
-Készenváridûlõ
-Készenvári
-Készenvári-szõlõhegy
-Keszet-tetõ
-Keszi Szõllõ-hegy
-Keszi Szõlõ-hegy
-Keszlerosztás
-Keszlerszõllõ
+KÃ©szenvÃ¡ridÅ±lÅ‘
+KÃ©szenvÃ¡ri
+KÃ©szenvÃ¡ri-szÅ‘lÅ‘hegy
+Keszet-tetÅ‘
+Keszi SzÅ‘llÅ‘-hegy
+Keszi SzÅ‘lÅ‘-hegy
+KeszlerosztÃ¡s
+KeszlerszÅ‘llÅ‘
 Keszlertag
 Keszlertanya
-Kesznyéten
-Keszõhidegkút-Gyönk
-Keszõhidegkút
-Keszölcés
-Keszthelyi-hegység
+KesznyÃ©ten
+KeszÅ‘hidegkÃºt-GyÃ¶nk
+KeszÅ‘hidegkÃºt
+KeszÃ¶lcÃ©s
+Keszthelyi-hegysÃ©g
 Keszthelyi
-Keszthelyi-öböl
+Keszthelyi-Ã¶bÃ¶l
 Keszthely
-Kesztölc
-Keszü
-Kétágú-hegy
-Két-árok Köze
-Kétárok Köze Tanya
-Kétárok
-Két-berek-közi
-Kétberekközipuszta
-Kétbodony
-Kétbükkiköz
-Kétegyháza
-Kétegyházi Tanyák
-Kétérköz
-Kéthalomdûlõ
-Két-halom
-Kéthalom
-Kéthalomtanya
-Kétház
-Kétháztanya
-Kéthelyihegy
-Kéthely
-Kétkertköz
-Két-kúti-járás
-Kétökör-halom
-Kétöles-patak
-Kétpó Állomás
-Kétpó
-Kétsoprony
+KesztÃ¶lc
+KeszÃ¼
+KÃ©tÃ¡gÃº-hegy
+KÃ©t-Ã¡rok KÃ¶ze
+KÃ©tÃ¡rok KÃ¶ze Tanya
+KÃ©tÃ¡rok
+KÃ©t-berek-kÃ¶zi
+KÃ©tberekkÃ¶zipuszta
+KÃ©tbodony
+KÃ©tbÃ¼kkikÃ¶z
+KÃ©tegyhÃ¡za
+KÃ©tegyhÃ¡zi TanyÃ¡k
+KÃ©tÃ©rkÃ¶z
+KÃ©thalomdÅ±lÅ‘
+KÃ©t-halom
+KÃ©thalom
+KÃ©thalomtanya
+KÃ©thÃ¡z
+KÃ©thÃ¡ztanya
+KÃ©thelyihegy
+KÃ©thely
+KÃ©tkertkÃ¶z
+KÃ©t-kÃºti-jÃ¡rÃ¡s
+KÃ©tÃ¶kÃ¶r-halom
+KÃ©tÃ¶les-patak
+KÃ©tpÃ³ ÃllomÃ¡s
+KÃ©tpÃ³
+KÃ©tsoprony
 Kettes-major
 Kettestanya
-Kéttornyúlak
-Kettõscsárda
-Kettõs-domb
-Kettõs-ér
-Kettõs-ér-sziget
-Kettõs-fertõ-dûlõ
-Kettõs-halom
-Kettõshalom
-Kettõs Halom
-Kettõshatárdûlõ
-Kettõs Körös
-Kettõs
-Kettõs Patak
-Kettõspincedûlõ
-Kettõspince
-Kettõstanya
-Kettõs Tó
-Kétújfalu
-Két Út Köze
-Kétútköz
-Két Út Köz
-Kétvízközi Malom
-Kétvízközitanya
-Két-víz-köz
-Kétvölgy
-Kéty
-Kevélyhegy
-Kevélynyergi-menedékház
+KÃ©ttornyÃºlak
+KettÅ‘scsÃ¡rda
+KettÅ‘s-domb
+KettÅ‘s-Ã©r
+KettÅ‘s-Ã©r-sziget
+KettÅ‘s-fertÅ‘-dÅ±lÅ‘
+KettÅ‘s-halom
+KettÅ‘shalom
+KettÅ‘s Halom
+KettÅ‘shatÃ¡rdÅ±lÅ‘
+KettÅ‘s KÃ¶rÃ¶s
+KettÅ‘s
+KettÅ‘s Patak
+KettÅ‘spincedÅ±lÅ‘
+KettÅ‘spince
+KettÅ‘stanya
+KettÅ‘s TÃ³
+KÃ©tÃºjfalu
+KÃ©t Ãšt KÃ¶ze
+KÃ©tÃºtkÃ¶z
+KÃ©t Ãšt KÃ¶z
+KÃ©tvÃ­zkÃ¶zi Malom
+KÃ©tvÃ­zkÃ¶zitanya
+KÃ©t-vÃ­z-kÃ¶z
+KÃ©tvÃ¶lgy
+KÃ©ty
+KevÃ©lyhegy
+KevÃ©lynyergi-menedÃ©khÃ¡z
 Kevermes
 Khontanya
 Kienitzmajor
 Kienitzpuszta
-Kígyós-csatorna
-Kígyós-dûlõ
-Kigyós-ér
-Kígyós Ér
-Kígyós-hát
-Kígyós-hegy
-Kigyós-major
-Kigyós
-Kígyós
-Kígyóspart
-Kigyós Patak
-Kígyós-patak
-Kígyóspuszta
-Kígyóstanya
-Kígyós-tetõ
-Kígyóstó
-Kígyós Tó
-Kígyószögtanya
+KÃ­gyÃ³s-csatorna
+KÃ­gyÃ³s-dÅ±lÅ‘
+KigyÃ³s-Ã©r
+KÃ­gyÃ³s Ã‰r
+KÃ­gyÃ³s-hÃ¡t
+KÃ­gyÃ³s-hegy
+KigyÃ³s-major
+KigyÃ³s
+KÃ­gyÃ³s
+KÃ­gyÃ³spart
+KigyÃ³s Patak
+KÃ­gyÃ³s-patak
+KÃ­gyÃ³spuszta
+KÃ­gyÃ³stanya
+KÃ­gyÃ³s-tetÅ‘
+KÃ­gyÃ³stÃ³
+KÃ­gyÃ³s TÃ³
+KÃ­gyÃ³szÃ¶gtanya
 Kihi-kert
-Kijárópuszta
-Kijátztanya
+KijÃ¡rÃ³puszta
+KijÃ¡tztanya
 Kilences
-Kiliántelep
-Kilicsán
-Kilicsány
-Kilimán
+KiliÃ¡ntelep
+KilicsÃ¡n
+KilicsÃ¡ny
+KilimÃ¡n
 Killertanya
-Kilökitanya
+KilÃ¶kitanya
 Kimle
-Kincsédpuszta
-Kincsedûlõ
+KincsÃ©dpuszta
+KincsedÅ±lÅ‘
 Kincsem
 Kincsempuszta
-Kincsemszõllõ
-Kincsemszõlõ
-Kincsem-szõlõtelep
+KincsemszÅ‘llÅ‘
+KincsemszÅ‘lÅ‘
+Kincsem-szÅ‘lÅ‘telep
 Kincsemtelep
-Kincsesbánya
-Kincses Ér
-Kincsesház
+KincsesbÃ¡nya
+Kincses Ã‰r
+KincseshÃ¡z
 Kincses-hegy
 Kincses
 Kincsespuszta
 Kincsestag
 Kincsestanya
 Kincsestelep
-Kinder-tó
+Kinder-tÃ³
 Kingec Halom
 Kinizsimalom
-Kinizsirét
-Kinotadûlõ
+KinizsirÃ©t
+KinotadÅ±lÅ‘
 Kinota
-Kióshegy
-Királd Bányatelep
-Királdibánya
-Királdi Patak
-Királd
-Királd-patak
-Királyegyháza
-Királyegyháza-Rigópuszta
-Király-éri-fõcsatorna
-Király-ér
-Királygerenda-hegy
-Király Gerendája
-Királyhalom
-Királyháza
-Királyhegyesi Külterület
-Királyhegyesi-Száraz-ér
-Királyhegyesi Tanya
-Királyhegyes
-Király-hegy
-Királyhegy
-Király I.-né tanya
-Király-kút
-Királykút
-Királymajor
-Király-rét-dûlõ
-Királyrét
-Királyrét-puszta
-Királyrév
-Királyrév-tanya
-Királyság
-Királyszállás
-Királyszentistván
-Királyszõllõ
-Királytanya
-Királytelekiszõllõk
-Királyteleki Úti Tanyák
-Királytelek
-Királytelekpuszta
-Királytelki Tó
-Király-tói Erdészlak
-Királytómajor
-Király-tó
-Királyvölgy
-Királyzug
-Kiritói Szivattyú-telep
-Kiritó
-Kisacsád Állami Gazdaság
-Kisacsádmajor
-Kiságerdõ-major
-Kiságerdõ
-Kiság
-Kiságpuszta
+KiÃ³shegy
+KirÃ¡ld BÃ¡nyatelep
+KirÃ¡ldibÃ¡nya
+KirÃ¡ldi Patak
+KirÃ¡ld
+KirÃ¡ld-patak
+KirÃ¡lyegyhÃ¡za
+KirÃ¡lyegyhÃ¡za-RigÃ³puszta
+KirÃ¡ly-Ã©ri-fÅ‘csatorna
+KirÃ¡ly-Ã©r
+KirÃ¡lygerenda-hegy
+KirÃ¡ly GerendÃ¡ja
+KirÃ¡lyhalom
+KirÃ¡lyhÃ¡za
+KirÃ¡lyhegyesi KÃ¼lterÃ¼let
+KirÃ¡lyhegyesi-SzÃ¡raz-Ã©r
+KirÃ¡lyhegyesi Tanya
+KirÃ¡lyhegyes
+KirÃ¡ly-hegy
+KirÃ¡lyhegy
+KirÃ¡ly I.-nÃ© tanya
+KirÃ¡ly-kÃºt
+KirÃ¡lykÃºt
+KirÃ¡lymajor
+KirÃ¡ly-rÃ©t-dÅ±lÅ‘
+KirÃ¡lyrÃ©t
+KirÃ¡lyrÃ©t-puszta
+KirÃ¡lyrÃ©v
+KirÃ¡lyrÃ©v-tanya
+KirÃ¡lysÃ¡g
+KirÃ¡lyszÃ¡llÃ¡s
+KirÃ¡lyszentistvÃ¡n
+KirÃ¡lyszÅ‘llÅ‘
+KirÃ¡lytanya
+KirÃ¡lytelekiszÅ‘llÅ‘k
+KirÃ¡lyteleki Ãšti TanyÃ¡k
+KirÃ¡lytelek
+KirÃ¡lytelekpuszta
+KirÃ¡lytelki TÃ³
+KirÃ¡ly-tÃ³i ErdÃ©szlak
+KirÃ¡lytÃ³major
+KirÃ¡ly-tÃ³
+KirÃ¡lyvÃ¶lgy
+KirÃ¡lyzug
+KiritÃ³i SzivattyÃº-telep
+KiritÃ³
+KisacsÃ¡d Ãllami GazdasÃ¡g
+KisacsÃ¡dmajor
+KisÃ¡gerdÅ‘-major
+KisÃ¡gerdÅ‘
+KisÃ¡g
+KisÃ¡gpuszta
 Kisalag
-Kisalföld
-Kis-állás
-Kisállás
-Kisalmásytanya
-Kisalpár
-Kisalsónyomás
-Kis Andaháza-puszta
-Kis András-halom
+KisalfÃ¶ld
+Kis-Ã¡llÃ¡s
+KisÃ¡llÃ¡s
+KisalmÃ¡sytanya
+KisalpÃ¡r
+KisalsÃ³nyomÃ¡s
+Kis AndahÃ¡za-puszta
+Kis AndrÃ¡s-halom
 Kisapaj
-Kisapátihegy
-Kisapáti
-Kisapáti Tanyák
+KisapÃ¡tihegy
+KisapÃ¡ti
+KisapÃ¡ti TanyÃ¡k
 Kisapostag
-Kis Aradványpuszta
+Kis AradvÃ¡nypuszta
 Kisaranyi
 Kisar
 Kisasszond
@@ -10633,249 +10633,249 @@ Kisasszonyfa
 Kisasszony
 Kisasszonypuszta
 Kisasszonytanya
-Kisasszonytér
-Kisaszó
-Kis-Átal-kõ
+KisasszonytÃ©r
+KisaszÃ³
+Kis-Ãtal-kÅ‘
 Kisbabapuszta
 Kisbabod
-Kisbábony
+KisbÃ¡bony
 Kisbabot
-Kisbácsa
+KisbÃ¡csa
 Kisbag
 Kis Bagolai Hegy
 Kisbagola
 Kisbagpuszta
-Kis Bágy Halma
-Kisbágy
-Kisbágyon
+Kis BÃ¡gy Halma
+KisbÃ¡gy
+KisbÃ¡gyon
 Kisbajcs
 Kisbajom
-Kisbaksaháza
-Kis-Balaskó
-Kisbalatondûlõ
+KisbaksahÃ¡za
+Kis-BalaskÃ³
+KisbalatondÅ±lÅ‘
 Kisbalaton
 Kis-Balaton
-Kis-Bánháza
+Kis-BÃ¡nhÃ¡za
 Kisbaranya
-Kisbárapáti
-Kisbaráthegy
-Kisbaráthegy Újtelep
-Kisbarátipuszta
-Kisbarát
-Kisbarátpuszta
+KisbÃ¡rapÃ¡ti
+KisbarÃ¡thegy
+KisbarÃ¡thegy Ãšjtelep
+KisbarÃ¡tipuszta
+KisbarÃ¡t
+KisbarÃ¡tpuszta
 Kisbarca
-Kisbári Hegy
-Kisbárkány
+KisbÃ¡ri Hegy
+KisbÃ¡rkÃ¡ny
 Kisbaromlaktanya
 Kisbartahalom
-Kisbártfai-tanya
-Kisbártfapuszta
+KisbÃ¡rtfai-tanya
+KisbÃ¡rtfapuszta
 Kis-Bashalom
-Kisbátony
-Kisbátor
-Kisbátortanya
-Kisbattyán
+KisbÃ¡tony
+KisbÃ¡tor
+KisbÃ¡tortanya
+KisbattyÃ¡n
 Kisbaytag
 Kisbenedek
-Kisberéndpuszta
-Kisberény
+KisberÃ©ndpuszta
+KisberÃ©ny
 Kisberki
-Kisbér
+KisbÃ©r
 Kisberzseny
-Kisbesenyõdtanya
+KisbesenyÅ‘dtanya
 Kisbesztercei Tanya
 Kisbeszterce
-Kisbicsérd
+KisbicsÃ©rd
 Kis-Bika-halom
 Kisbikk
 Kis-Bittva
-Kisbócsa
+KisbÃ³csa
 Kisbocskaykert
-Kis-Bócs
+Kis-BÃ³cs
 Kisbodak
 Kisbodolya
-Kis-bodzás
-Kis-Bodzás
-Kisbogárd
-Kisbogárzó
-Kisbogdány
-Kis Bojár
+Kis-bodzÃ¡s
+Kis-BodzÃ¡s
+KisbogÃ¡rd
+KisbogÃ¡rzÃ³
+KisbogdÃ¡ny
+Kis BojÃ¡r
 Kisbokros
-Kis-Bölcsi-dûlõ
-Kisbölcsipuszta
-Kisbörcsháza
-Kis Böve-halom
-Kisbozsód
-Kisbózsva
+Kis-BÃ¶lcsi-dÅ±lÅ‘
+KisbÃ¶lcsipuszta
+KisbÃ¶rcshÃ¡za
+Kis BÃ¶ve-halom
+KisbozsÃ³d
+KisbÃ³zsva
 Kisbucsa
-Kisbudmér
-Kis-Büdös-tó
-Kisbudzsák
+KisbudmÃ©r
+Kis-BÃ¼dÃ¶s-tÃ³
+KisbudzsÃ¡k
 Kisbugac
-Kis-Bükk-hegy
-Kisbükk
-Kis-Bükk-tetõ
-Kisbüs
-Kisbûstanya
+Kis-BÃ¼kk-hegy
+KisbÃ¼kk
+Kis-BÃ¼kk-tetÅ‘
+KisbÃ¼s
+KisbÅ±stanya
 Kis Butyka-tanya
 Kiscebe
 Kiscepre-Nagycepre
 Kiscepre
-Kiscinér
-Kiscsákány
-Kiscsákánypuszta
-Kiscsákó
-Kis Csanád-puszta
+KiscinÃ©r
+KiscsÃ¡kÃ¡ny
+KiscsÃ¡kÃ¡nypuszta
+KiscsÃ¡kÃ³
+Kis CsanÃ¡d-puszta
 Kiscsanak
-Kiscsászta
-Kiscsásztatanya
+KiscsÃ¡szta
+KiscsÃ¡sztatanya
 Kis-csatorna
 Kiscsavoly Baja
-Kiscsécs
+KiscsÃ©cs
 Kiscsehi
-Kis Csém
-Kiscsengõd
-Kiscseredûlõ
+Kis CsÃ©m
+KiscsengÅ‘d
+KiscseredÅ±lÅ‘
 Kiscsere
-Kiscserepesdûlõ
+KiscserepesdÅ±lÅ‘
 Kiscserepes
 Kiscseretanya
-Kiscséripuszta
+KiscsÃ©ripuszta
 Kiscser
 Kiscserpuszta
-Kiscsévpuszta
-Kis-csikér-tanya
+KiscsÃ©vpuszta
+Kis-csikÃ©r-tanya
 Kis-Csincse-patak
-Kiscsömöte
-Kiscsonkás
-Kiscsonkás Õrház
-Kis Csopány-hegy
-Kis-Csópány
-Kiscsorvási Tanyák
-Kis-Csorvás
-Kis Csõsz-halom
-Kiscsõszi Tanya
-Kiscsõsz
-Kisdádpuszta
-Kisdéd
-Kisdeindoldûlõ
+KiscsÃ¶mÃ¶te
+KiscsonkÃ¡s
+KiscsonkÃ¡s ÅrhÃ¡z
+Kis CsopÃ¡ny-hegy
+Kis-CsÃ³pÃ¡ny
+KiscsorvÃ¡si TanyÃ¡k
+Kis-CsorvÃ¡s
+Kis CsÅ‘sz-halom
+KiscsÅ‘szi Tanya
+KiscsÅ‘sz
+KisdÃ¡dpuszta
+KisdÃ©d
+KisdeindoldÅ±lÅ‘
 Kisdeindol
-Kis-dél
-Kisdém
-Kisdémpuszta
-Kis-Derenyõ
-Kisdér
+Kis-dÃ©l
+KisdÃ©m
+KisdÃ©mpuszta
+Kis-DerenyÅ‘
+KisdÃ©r
 Kisderzs-tanya
-Kisdiós
-Kisdióspuszta
+KisdiÃ³s
+KisdiÃ³spuszta
 Kisdoboka
-Kisdöbörhegy
-Kisdobszai-árok
+KisdÃ¶bÃ¶rhegy
+Kisdobszai-Ã¡rok
 Kisdobsza
-Kisdombegyház
+KisdombegyhÃ¡z
 Kisdomb
 Kisdomony
-Kisdörgicse
+KisdÃ¶rgicse
 Kisdorog
-Kisdrágszél
+KisdrÃ¡gszÃ©l
 Kisdudar
-Kis Dunaág
+Kis DunaÃ¡g
 Kis Duna
 Kis-Duna
 Kisebbtanya
 Kisecseny
-Kisecsér
-Kisecsértanya
+KisecsÃ©r
+KisecsÃ©rtanya
 Kisecset
-Kisécs
-Kisécstelep
+KisÃ©cs
+KisÃ©cstelep
 Kisegres
 Kis Elek-tanya
-Kis-erdõ
-Kiserdõ
-Kiserdõpuszta
-Kiserdõtanyák
-Kiserdõtanya
-Kis-Erenyõ
-Kisérzug
+Kis-erdÅ‘
+KiserdÅ‘
+KiserdÅ‘puszta
+KiserdÅ‘tanyÃ¡k
+KiserdÅ‘tanya
+Kis-ErenyÅ‘
+KisÃ©rzug
 Kiseszter
 Kiseszterpuszta
 Kisetanya
-Kisfái Iskola
-Kisfái
+KisfÃ¡i Iskola
+KisfÃ¡i
 Kisfakos
-Kisfalud Alsómajor
-Kisfalud Felsõmajor
+Kisfalud AlsÃ³major
+Kisfalud FelsÅ‘major
 Kisfaludi Hegy
 Kisfaluditanya
 Kisfalud
 Kisfaludpuszta
-Kisfalud Újtelep
-Kisfáridûlõ
-Kisfári
+Kisfalud Ãšjtelep
+KisfÃ¡ridÅ±lÅ‘
+KisfÃ¡ri
 Kis Farkashalom
-Kisfás
-Kisfástanya
-Kisfehértó
-Kisfernekág
-Kisfertõboz
-Kis-fertõ
-Kisfertõ
+KisfÃ¡s
+KisfÃ¡stanya
+KisfehÃ©rtÃ³
+KisfernekÃ¡g
+KisfertÅ‘boz
+Kis-fertÅ‘
+KisfertÅ‘
 Kisfiter-puszta
-Kisfokdûlõ
-Kisfoktõ
-Kisföldeki Oncsatelep
-Kisföldek
-Kisföld
-Kisfolyásidûlõ
-Kisfüzes
+KisfokdÅ±lÅ‘
+KisfoktÅ‘
+KisfÃ¶ldeki Oncsatelep
+KisfÃ¶ldek
+KisfÃ¶ld
+KisfolyÃ¡sidÅ±lÅ‘
+KisfÃ¼zes
 Kisgajla
-Kis-galagonyás
+Kis-galagonyÃ¡s
 Kis Galla-hegy
 Kis-Galla
 Kis-galya
 Kisganna
-Kisgátidûlõ
-Kisgát
-Kisgátpuszta
-Kisgéc
+KisgÃ¡tidÅ±lÅ‘
+KisgÃ¡t
+KisgÃ¡tpuszta
+KisgÃ©c
 Kisgecsenymajor
 Kisgecseny
-Kis-Gellért-hegy
-Kis-Gellérthegy
+Kis-GellÃ©rt-hegy
+Kis-GellÃ©rthegy
 Kis Gerence-patak
 Kis-gerenda
 Kisgeresd
-Kisgõbölyjárás
-Kisgólyástanya
+KisgÅ‘bÃ¶lyjÃ¡rÃ¡s
+KisgÃ³lyÃ¡stanya
 Kisgombos
-Kisgörbõ
-Kisgörény
-Kisgörénypuszta
-Kisgörénytanya
-Kisgórés
-Kisgörgeteg-puszta
-Kisgórica
-Kisgyalán
-Kisgyanté
-Kisgyékényes
-Kisgyékényes-tanya
+KisgÃ¶rbÅ‘
+KisgÃ¶rÃ©ny
+KisgÃ¶rÃ©nypuszta
+KisgÃ¶rÃ©nytanya
+KisgÃ³rÃ©s
+KisgÃ¶rgeteg-puszta
+KisgÃ³rica
+KisgyalÃ¡n
+KisgyantÃ©
+KisgyÃ©kÃ©nyes
+KisgyÃ©kÃ©nyes-tanya
 Kisgyenetanya
-Kis-gyepi-fõcsatorna
+Kis-gyepi-fÅ‘csatorna
 Kisgyep
-Kisgyócs
-Kisgyónbánya
-Kisgyón
-Kisgyõr
-Kisgyõrpuszta
+KisgyÃ³cs
+KisgyÃ³nbÃ¡nya
+KisgyÃ³n
+KisgyÅ‘r
+KisgyÅ‘rpuszta
 Kisgyula
-Kishács
-Kis-hagymás
-Kishajmás
-Kishalászitanyák
-Kishalmidûlõ
-Kishalogy Alsó
-Kishalogy Felsõ
+KishÃ¡cs
+Kis-hagymÃ¡s
+KishajmÃ¡s
+KishalÃ¡szitanyÃ¡k
+KishalmidÅ±lÅ‘
+Kishalogy AlsÃ³
+Kishalogy FelsÅ‘
 Kishalogy
 Kis-halom
 Kishalom
@@ -10883,543 +10883,543 @@ Kishalompuszta
 Kis-Hanta-patak
 Kishantos
 Kisharang
-Kisharány
-Kis Hársagy
-Kishárságy
-Kisharsány
-Kis-hársas-tanya
-Kishartyán
-Kisházapuszta
-Kisházasidûlõ
-Kisház-major
-Kisház
-Kishegydûlõ
+KisharÃ¡ny
+Kis HÃ¡rsagy
+KishÃ¡rsÃ¡gy
+KisharsÃ¡ny
+Kis-hÃ¡rsas-tanya
+KishartyÃ¡n
+KishÃ¡zapuszta
+KishÃ¡zasidÅ±lÅ‘
+KishÃ¡z-major
+KishÃ¡z
+KishegydÅ±lÅ‘
 Kishegyes-hegy
-Kishegyesihatár
+KishegyesihatÃ¡r
 Kis-hegyes
 Kishegyes
-Kishegyhátitag
+KishegyhÃ¡titag
 Kis-hegy
 Kishegy
 Kis Hegy
-Kishegyszõllõ
+KishegyszÅ‘llÅ‘
 Kishenye
-Kisherceghajtás
+KisherceghajtÃ¡s
 Kis Hercegtag
 Kisherend
-Kisherkály
-Kishermány-hegy
-Kis-Hermány
-Kis-Hernád
+KisherkÃ¡ly
+KishermÃ¡ny-hegy
+Kis-HermÃ¡ny
+Kis-HernÃ¡d
 Kishertelend
-Kishidi Dûlõ
-Kishídja
-Kishídköz
-Kis-híd-patak
+Kishidi DÅ±lÅ‘
+KishÃ­dja
+KishÃ­dkÃ¶z
+Kis-hÃ­d-patak
 Kishird
 Kishobol
-Kishódos
+KishÃ³dos
 Kis Homoki Halom
 Kis-homok
 Kishomok
-Kishomokos Község
+Kishomokos KÃ¶zsÃ©g
 Kishomokos
 Kishomokostanya
 Kishomokpuszta
 Kishomoktanya
-Kishörcsökpuszta
+KishÃ¶rcsÃ¶kpuszta
 Kishortyi
-Kishorvát
-Kishosszúrétdûlõ
-Kishosszúrét
+KishorvÃ¡t
+KishosszÃºrÃ©tdÅ±lÅ‘
+KishosszÃºrÃ©t
 Kis Hubert-major
 Kis Hubert-tanya
 Kishuta
 Kisibafa
-Kisigmánd
+KisigmÃ¡nd
 Kisigrice
 Kisinci
-Kisinóci Menedékház
-Kis-Inóc
-Kisirtáspuszta
-Kisivánmajor
-Kisivánpuszta
-Kisizsák
+KisinÃ³ci MenedÃ©khÃ¡z
+Kis-InÃ³c
+KisirtÃ¡spuszta
+KisivÃ¡nmajor
+KisivÃ¡npuszta
+KisizsÃ¡k
 Kisjakabfalva
-Kisjákó
-Kis János Halom
-Kis-járandó
-Kisjárás
+KisjÃ¡kÃ³
+Kis JÃ¡nos Halom
+Kis-jÃ¡randÃ³
+KisjÃ¡rÃ¡s
 Kisjustus
 Kiskaba
 Kis-Kaba
 Kiskajdacs
-Kiskálló
+KiskÃ¡llÃ³
 Kiskamond
 Kiskanizsa
-Kiskánya
+KiskÃ¡nya
 Kiskapi
 Kiskapornak
 Kiskapud
-Kis Karácsony Puszta
-Kiskarácsonyszállás
-Kiskarróspuszta
+Kis KarÃ¡csony Puszta
+KiskarÃ¡csonyszÃ¡llÃ¡s
+KiskarrÃ³spuszta
 Kiskartal
 Kiskassa
-Kiskecskemégy
-Kiskecskés
-Kiskékes
-Kiskeléd
+KiskecskemÃ©gy
+KiskecskÃ©s
+KiskÃ©kes
+KiskelÃ©d
 Kiskercse
 Kis-Kerecse
-Kiskeresztúr
+KiskeresztÃºr
 Kiskerka
 Kis-Kerka
-Kiskérpuszta
+KiskÃ©rpuszta
 Kiskerttanya
-Kiskettõs
-Kiskettõstanya
+KiskettÅ‘s
+KiskettÅ‘stanya
 Kiskinizsi Malom
 Kiskinizs
-Kiskirályság Major
-Kiskirályság
-Kis-Klágya
-Kisköcsk
-Kiskócstanya
-Kis Kõhegy
+KiskirÃ¡lysÃ¡g Major
+KiskirÃ¡lysÃ¡g
+Kis-KlÃ¡gya
+KiskÃ¶csk
+KiskÃ³cstanya
+Kis KÅ‘hegy
 Kiskokasd
-Kis-kõkötõ-dûlõ
-Kiskõkötõ
-Kiskomáromi-csatorna
-Kiskomáromi Hegy
-Kiskomárom
+Kis-kÅ‘kÃ¶tÅ‘-dÅ±lÅ‘
+KiskÅ‘kÃ¶tÅ‘
+KiskomÃ¡romi-csatorna
+KiskomÃ¡romi Hegy
+KiskomÃ¡rom
 Kiskondai-halastavak
 Kiskondai-patak
 Kiskonda
 Kis-Konda
 Kiskondorosi-halastavak
 Kiskondoros
-Kis-kõ
-Kiskõ
-Kis-Koppány
-Kis-Koppány-patak
-Kiskörei-Víztároló
-Kisköre
-Kisköre-Tiszahíd
-Kis-Körös-csatorna
-Kis-Körös-fõcsatorna
-Kis-Körös
-Kiskõrös
-Kiskorpád
-Kis-Kötöny
-Kiskovácsimajor
-Kiskovácsi
-Kiskovácsi-puszta
-Kiskovácstanya
-Kisköveshegy
-Kiskozári Újhegy
-Kisközépdûlõ
-Kis-Középút-dûlõ
-Kisköz
+Kis-kÅ‘
+KiskÅ‘
+Kis-KoppÃ¡ny
+Kis-KoppÃ¡ny-patak
+KiskÃ¶rei-VÃ­ztÃ¡rolÃ³
+KiskÃ¶re
+KiskÃ¶re-TiszahÃ­d
+Kis-KÃ¶rÃ¶s-csatorna
+Kis-KÃ¶rÃ¶s-fÅ‘csatorna
+Kis-KÃ¶rÃ¶s
+KiskÅ‘rÃ¶s
+KiskorpÃ¡d
+Kis-KÃ¶tÃ¶ny
+KiskovÃ¡csimajor
+KiskovÃ¡csi
+KiskovÃ¡csi-puszta
+KiskovÃ¡cstanya
+KiskÃ¶veshegy
+KiskozÃ¡ri Ãšjhegy
+KiskÃ¶zÃ©pdÅ±lÅ‘
+Kis-KÃ¶zÃ©pÃºt-dÅ±lÅ‘
+KiskÃ¶z
 Kiskundorozsma
-Kiskunfélegyháza
-Kiskunfélegyházi Gépállomás
-Kiskunfélegyházi Határút
-Kiskunfélegyházi Tanyák
-Kiskunfélegyházi Út
+KiskunfÃ©legyhÃ¡za
+KiskunfÃ©legyhÃ¡zi GÃ©pÃ¡llomÃ¡s
+KiskunfÃ©legyhÃ¡zi HatÃ¡rÃºt
+KiskunfÃ©legyhÃ¡zi TanyÃ¡k
+KiskunfÃ©legyhÃ¡zi Ãšt
 Kiskunhalas
 Kiskunhalos
-Kiskunlacháza
-Kiskunlacházi Bankháza
+KiskunlachÃ¡za
+KiskunlachÃ¡zi BankhÃ¡za
 Kis-Kun-lapos
 Kiskunmajsa
 Kiskunmajzsa
-Kiskunsági-fõcsatorna
-Kiskunsági-öntözõcsatorna
-Kiskunság
-Kiskúria-hegy
-Kiskúria
-Kis Kúria-puszta
-Kiskürtöspuszta
-Kiskustyán
+KiskunsÃ¡gi-fÅ‘csatorna
+KiskunsÃ¡gi-Ã¶ntÃ¶zÅ‘csatorna
+KiskunsÃ¡g
+KiskÃºria-hegy
+KiskÃºria
+Kis KÃºria-puszta
+KiskÃ¼rtÃ¶spuszta
+KiskustyÃ¡n
 Kiskutas
 Kis Kutas-tanya
-Kiskútihegy
-Kiskúti Patak
-Kiskútitelek
-Kis-kút
-Kiskút
-Kiskút-tanya
-Kiskvadrát
+KiskÃºtihegy
+KiskÃºti Patak
+KiskÃºtitelek
+Kis-kÃºt
+KiskÃºt
+KiskÃºt-tanya
+KiskvadrÃ¡t
 Kis Lajos-tanya
 Kislakos
 Kislakpuszta
-Kisláng
-Kislányositanya
-Kislányostanya
-Kis-laposi-szõlõk
+KislÃ¡ng
+KislÃ¡nyositanya
+KislÃ¡nyostanya
+Kis-laposi-szÅ‘lÅ‘k
 Kislapos
-Kislászlóhegy
-Kislegelõ
+KislÃ¡szlÃ³hegy
+KislegelÅ‘
 Kis Lendvaytanya
 Kislengyeli-patak
 Kislengyel-patak
-Kis-lesvári-major
-Kislesvármajor
-Kisléta
+Kis-lesvÃ¡ri-major
+KislesvÃ¡rmajor
+KislÃ©ta
 Kis-liget
-Kislippó
-Kislõdi-hegy
-Kislõdi Tanyák
-Kislõd
-Kis-Lóka
-Kislók
-Kislókpuszta
-Kislóktelep
-Kislónya
-Kislózsmajor
-Kislózs
+KislippÃ³
+KislÅ‘di-hegy
+KislÅ‘di TanyÃ¡k
+KislÅ‘d
+Kis-LÃ³ka
+KislÃ³k
+KislÃ³kpuszta
+KislÃ³ktelep
+KislÃ³nya
+KislÃ³zsmajor
+KislÃ³zs
 Kislujzihegy
 Kismacs
-Kis Madarasi-tó
-Kismagyarmál
+Kis Madarasi-tÃ³
+KismagyarmÃ¡l
 Kis-major
 Kismajor
-Kismákfa
-Kis-malomér
+KismÃ¡kfa
+Kis-malomÃ©r
 Kismalom
 Kismalomtelep
 Kismalomzug
-Kismányok
+KismÃ¡nyok
 Kismargita
 Kismarja
 Kismaros
 Kismarton
 Kismaszling
-Kismátyusháza
+KismÃ¡tyushÃ¡za
 Kismedves
 Kismeggyes
 Kis Meggyes-tanya
 Kismegyer
 Kis-Megyer
-Kismélyvölgydûlõ
-Kismélyvölgy
-Kis-Mérges
-Kismezõ-major
-Kismezõ
-Kismezõpuszta
-Kismezõtag
-Kismezõtanya
+KismÃ©lyvÃ¶lgydÅ±lÅ‘
+KismÃ©lyvÃ¶lgy
+Kis-MÃ©rges
+KismezÅ‘-major
+KismezÅ‘
+KismezÅ‘puszta
+KismezÅ‘tag
+KismezÅ‘tanya
 Kismicske
-Kismihálytódûlõ
-Kismihálytó
-Kis Mihály-tó
-Kismindszenti Út
-Kismogyorós
-Kismohács
-Kismonostori Tanyák
+KismihÃ¡lytÃ³dÅ±lÅ‘
+KismihÃ¡lytÃ³
+Kis MihÃ¡ly-tÃ³
+Kismindszenti Ãšt
+KismogyorÃ³s
+KismohÃ¡cs
+Kismonostori TanyÃ¡k
 Kis-Montaj
-Kismórágy
-Kismorotvaközdûlõ
-Kis-morotvaköz
+KismÃ³rÃ¡gy
+KismorotvakÃ¶zdÅ±lÅ‘
+Kis-morotvakÃ¶z
 Kis-morotva
 Kis-Musak
-Kisnádas
-Kis-Nádas-oldal
-Kisnamény
-Kisnána
+KisnÃ¡das
+Kis-NÃ¡das-oldal
+KisnamÃ©ny
+KisnÃ¡na
 Kisnarda
-Kisnémapuszta
-Kisnémedi
+KisnÃ©mapuszta
+KisnÃ©medi
 Kisnyalkapuszta
-Kisnyárád
-Kisnyék
-Kisnyomás
-Kisölbõ
-Kisományitanya
-Kisomány
-Kisömböly
+KisnyÃ¡rÃ¡d
+KisnyÃ©k
+KisnyomÃ¡s
+KisÃ¶lbÅ‘
+KisomÃ¡nyitanya
+KisomÃ¡ny
+KisÃ¶mbÃ¶ly
 Kisordastanya
 Kisorosipuszta
 Kisorosi Tanya
 Kis-Oros
 Kisoroszi
-Kisörspuszta
-Kis-Oszlár
-Kisötvöspuszta
-Kispalád
-Kispalánk
-Kispalánkpuszta
-Kispáli
-Kispándihegy
-Kispánd
-Kispándzsa-ér
-Kis-Pándzsa
+KisÃ¶rspuszta
+Kis-OszlÃ¡r
+KisÃ¶tvÃ¶spuszta
+KispalÃ¡d
+KispalÃ¡nk
+KispalÃ¡nkpuszta
+KispÃ¡li
+KispÃ¡ndihegy
+KispÃ¡nd
+KispÃ¡ndzsa-Ã©r
+Kis-PÃ¡ndzsa
 Kis-Pap-hegy
 Kis-Papod
 Kis-Papucs-hegy
 Kisparnakpuszta
 Kispart
-Kispáskom
+KispÃ¡skom
 Kis-patak
 Kispatak
 Kispataytag
-Kispatkós
-Kispéc
-Kispengyomdûlõ
+KispatkÃ³s
+KispÃ©c
+KispengyomdÅ±lÅ‘
 Kispengyom
-Kisperjés
-Kisperjés-tanya
+KisperjÃ©s
+KisperjÃ©s-tanya
 Kispervat
-Kispervátpuszta
+KispervÃ¡tpuszta
 Kispest
 Kispeterd
-Kispéterfa
-Kispéteridûlõ
+KispÃ©terfa
+KispÃ©teridÅ±lÅ‘
 Kispilis
 Kispiricse
 Kispiricse-tanya
 Kispirit
-Kispóczapuszta
-Kispodárpuszta
-Kis-Póhamara
-Kispóka
-Kispókatanya
-Kispó
-Kispópuszta
+KispÃ³czapuszta
+KispodÃ¡rpuszta
+Kis-PÃ³hamara
+KispÃ³ka
+KispÃ³katanya
+KispÃ³
+KispÃ³puszta
 Kispozsag
-Kispród
-Kis-Púpos-halom
-Kispusztaidûlõ
+KisprÃ³d
+Kis-PÃºpos-halom
+KispusztaidÅ±lÅ‘
 Kispuszta
 Kis Puszta
-Kis-Rába
+Kis-RÃ¡ba
 Kisrada
-Kisrádóc
-Kisradócz
-Kisrákos
-Kisrakottyás
-Kisráta
-Kisrécse
+KisrÃ¡dÃ³c
+KisradÃ³cz
+KisrÃ¡kos
+KisrakottyÃ¡s
+KisrÃ¡ta
+KisrÃ©cse
 Kisrekesztanya
-Kis-Répce
-Kis-rét
-Kisrét
-Kisrétpuszta
-Kisrévû-Duna-ág
-Kis-Rezét
-Kisrócse
-Kisrózsási Tanya
-Kis-rózsás
-Kisrozvágy
-Kis-Sajó
-Kis-Salgó
-Kis-Sallér
-Kissallérpuszta
-Kissároslak
-Kis-Sárrét
-Kiss Dénesné-tanya
-Kissdûlõ
-Kis-séd
-Kiss Ernõ Tag
-Kiss-Erõstanya
-Kiss Ignác-dûlõ
-Kissikátor
-Kissíkdûlõ
+Kis-RÃ©pce
+Kis-rÃ©t
+KisrÃ©t
+KisrÃ©tpuszta
+KisrÃ©vÅ±-Duna-Ã¡g
+Kis-RezÃ©t
+KisrÃ³cse
+KisrÃ³zsÃ¡si Tanya
+Kis-rÃ³zsÃ¡s
+KisrozvÃ¡gy
+Kis-SajÃ³
+Kis-SalgÃ³
+Kis-SallÃ©r
+KissallÃ©rpuszta
+KissÃ¡roslak
+Kis-SÃ¡rrÃ©t
+Kiss DÃ©nesnÃ©-tanya
+KissdÅ±lÅ‘
+Kis-sÃ©d
+Kiss ErnÅ‘ Tag
+Kiss-ErÅ‘stanya
+Kiss IgnÃ¡c-dÅ±lÅ‘
+KissikÃ¡tor
+KissÃ­kdÅ±lÅ‘
 Kissik
 Kiss I.-tanya
 Kissitke
-Kiss József-kilátó
-Kiss Károly-tanya
-Kis Somlyóhegy
-Kis-Somlyó
-Kissomlyó
-Kis-Sõre-föld
+Kiss JÃ³zsef-kilÃ¡tÃ³
+Kiss KÃ¡roly-tanya
+Kis SomlyÃ³hegy
+Kis-SomlyÃ³
+KissomlyÃ³
+Kis-SÅ‘re-fÃ¶ld
 Kis-Sorok
-Kis-Sóstó
+Kis-SÃ³stÃ³
 Kisspuszta
 Kisstag
 Kisstanya
-Kis Süldõs-halom
-Kissulymosháttanya
+Kis SÃ¼ldÅ‘s-halom
+KissulymoshÃ¡ttanya
 Kis-sulymos
 Kisszabar
-Kisszakál
-Kiss Zakariás-tanya
-Kisszálasdûlõ
-Kisszállá
-Kisszállás Állomás
-Kisszállás
-Kisszegegyháza
+KisszakÃ¡l
+Kiss ZakariÃ¡s-tanya
+KisszÃ¡lasdÅ±lÅ‘
+KisszÃ¡llÃ¡
+KisszÃ¡llÃ¡s ÃllomÃ¡s
+KisszÃ¡llÃ¡s
+KisszegegyhÃ¡za
 Kis-szeg
-Kisszékely
+KisszÃ©kely
 Kisszekeres
-Kis-Széksóstó
-Kisszénás
-Kisszentgrót
-Kisszentgyörgy
-Kisszentjános
-Kisszentlászló
-Kisszentmárton
-Kisszentmiklós
-Kisszentmiklóstelep
-Kisszentpál
-Kisszentpálpuszta
-Kisszépalma
-Kisszépalmapuszta
+Kis-SzÃ©ksÃ³stÃ³
+KisszÃ©nÃ¡s
+KisszentgrÃ³t
+KisszentgyÃ¶rgy
+KisszentjÃ¡nos
+KisszentlÃ¡szlÃ³
+KisszentmÃ¡rton
+KisszentmiklÃ³s
+KisszentmiklÃ³stelep
+KisszentpÃ¡l
+KisszentpÃ¡lpuszta
+KisszÃ©palma
+KisszÃ©palmapuszta
 Kisszerdahely
-Kis Szeszgyár
-Kisszeszgyártanya
-Kisszigetdûlõ
+Kis SzeszgyÃ¡r
+KisszeszgyÃ¡rtanya
+KisszigetdÅ±lÅ‘
 Kis-sziget
 Kissziget
-Kisszöcsköd
-Kisszõllõ
-Kisszõllõs
-Kis-szõlõ
-Kisszõlõs
-Kisszõnyi-dûlõ
-Kistabód
-Kistád
+KisszÃ¶cskÃ¶d
+KisszÅ‘llÅ‘
+KisszÅ‘llÅ‘s
+Kis-szÅ‘lÅ‘
+KisszÅ‘lÅ‘s
+KisszÅ‘nyi-dÅ±lÅ‘
+KistabÃ³d
+KistÃ¡d
 Kistag
 Kistag-tanya
 Kistagyospuszta
-Kistamási
-Kistanyadûlõ
+KistamÃ¡si
+KistanyadÅ±lÅ‘
 Kistanya
-Kistápé
-Kistápió
+KistÃ¡pÃ©
+KistÃ¡piÃ³
 Kistapolca
 Kistarcsa
 Kistarcspuszta
-Kistárkányi Tanya
-Kistárkánypuszta
-Kistarnóca
-Kistatárvár
+KistÃ¡rkÃ¡nyi Tanya
+KistÃ¡rkÃ¡nypuszta
+KistarnÃ³ca
+KistatÃ¡rvÃ¡r
 Kistava
 Kistavapuszta
 Kistelekibokor
 Kisteleki-csatorna
-Kisteleki-fõcsatorna
+Kisteleki-fÅ‘csatorna
 Kisteleki Puszta
-Kisteleki Szõlõk
-Kistelekitanyák
+Kisteleki SzÅ‘lÅ‘k
+KistelekitanyÃ¡k
 Kistelekitanya
-Kistelekiújkert
+KistelekiÃºjkert
 Kis-telek
 Kistelek
-Kistelek Szõllõk
+Kistelek SzÅ‘llÅ‘k
 Kis Telek Tanya
 Kistelep
 Kistemplomtanya
 Kistenke
-Kistény
-Kisterenye Bányatelep Megállóhely
-Kisterenye-Bányatelep
+KistÃ©ny
+Kisterenye BÃ¡nyatelep MegÃ¡llÃ³hely
+Kisterenye-BÃ¡nyatelep
 Kisterenye
-Kistés
-Kistéspuszta
-Kistés-tanya
+KistÃ©s
+KistÃ©spuszta
+KistÃ©s-tanya
 Kistikos
 Kistikostanya
 Kistilos
 Kistima
 Kistimapuszta
-Kistiszahát
+KistiszahÃ¡t
 Kis-tisza
 Kis-Tisza
-Kistóidûlõ
+KistÃ³idÅ±lÅ‘
 Kistokaj
-Kistõke
-Kistölgyfamajor
-Kistölgyfapuszta
-Kistolmács
-Kistölösidûlõ
+KistÅ‘ke
+KistÃ¶lgyfamajor
+KistÃ¶lgyfapuszta
+KistolmÃ¡cs
+KistÃ¶lÃ¶sidÅ±lÅ‘
 Kis-Tompa
 Kistompapuszta
-Kistormás
-Kistótfalu Megálló
-Kistótfalu
-Kis Tóth-tanya
-Kistótipuszta
-Kistótváros
-Kistóvölgy
-Kistúlakörös
+KistormÃ¡s
+KistÃ³tfalu MegÃ¡llÃ³
+KistÃ³tfalu
+Kis TÃ³th-tanya
+KistÃ³tipuszta
+KistÃ³tvÃ¡ros
+KistÃ³vÃ¶lgy
+KistÃºlakÃ¶rÃ¶s
 Kistullus
 Kisudvarmajor
 Kisudvar
 Kisudvar-telep
 Kis-Ugaj
 Kisugajpuszta
-Kisújbánya
-Kisujszállási Csorba
-Kisújszállás
-Kisújváros
+KisÃºjbÃ¡nya
+KisujszÃ¡llÃ¡si Csorba
+KisÃºjszÃ¡llÃ¡s
+KisÃºjvÃ¡ros
 Kisunyom
 Kisuzsapuszta
-Kis-Vadas-dûlõ
+Kis-Vadas-dÅ±lÅ‘
 Kisvadas
 Kisvadaspuszta
 Kisvadastanya
-Kisvágás
-Kisvárda Hármasút
-Kisvárdai-szõllõk
-Kisvárda
-Kisvarsányhát
-Kisvarsány
-Kisvártanya
-Kisvásárhely
+KisvÃ¡gÃ¡s
+KisvÃ¡rda HÃ¡rmasÃºt
+KisvÃ¡rdai-szÅ‘llÅ‘k
+KisvÃ¡rda
+KisvarsÃ¡nyhÃ¡t
+KisvarsÃ¡ny
+KisvÃ¡rtanya
+KisvÃ¡sÃ¡rhely
 Kisvaszar
 Kisvejke
 Kisvelence
 Kisvelencze
-Kisvénkert
-Kisvenyimalsópuszta
-Kisvenyimfelsõpuszta
+KisvÃ©nkert
+KisvenyimalsÃ³puszta
+KisvenyimfelsÅ‘puszta
 Kisvenyim
-Kisvidákpuszta
+KisvidÃ¡kpuszta
 Kisvid
 Kisvidpuszta
-Kisvillongó
-Kisvíz
+KisvillongÃ³
+KisvÃ­z
 Kisvizslak
 Kisvizslaktanya
-Kisvókonya
-Kis-völgy
-Kisvölgypuszta
-Kisvörcsök
+KisvÃ³konya
+Kis-vÃ¶lgy
+KisvÃ¶lgypuszta
+KisvÃ¶rcsÃ¶k
 Kis-Zagyva
-Kis Zakariás Tanya
-Kis-Zelemér
-Kiszelydûlõ
+Kis ZakariÃ¡s Tanya
+Kis-ZelemÃ©r
+KiszelydÅ±lÅ‘
 Kiszelytanya
 Kiszer
 Kiszombor
 Kiszsennyemajor
 Kiszsennye
 Kiszsenye-puszta
-Kiszsidány
-Kiszsombosdûlõ
-Kiszsombósújtelep
+KiszsidÃ¡ny
+KiszsombosdÅ±lÅ‘
+KiszsombÃ³sÃºjtelep
 Kis-Zsunyi-hegy
 Kisztanya
-Kitérõgyár
-Kivadár
-Kiván-tó
-Kivéstanya
-Kláber Szõllõ Telep
-Klábertelep
-Klágya-Duna
-Klárafalva-Gizella-telep
-Klárafalva
-Klárafalvitanyák
-Klárafalvi Tanya
-Kláraháza
-Kláramajor
-Klára-tanya
-Kláratelep
+KitÃ©rÅ‘gyÃ¡r
+KivadÃ¡r
+KivÃ¡n-tÃ³
+KivÃ©stanya
+KlÃ¡ber SzÅ‘llÅ‘ Telep
+KlÃ¡bertelep
+KlÃ¡gya-Duna
+KlÃ¡rafalva-Gizella-telep
+KlÃ¡rafalva
+KlÃ¡rafalvitanyÃ¡k
+KlÃ¡rafalvi Tanya
+KlÃ¡rahÃ¡za
+KlÃ¡ramajor
+KlÃ¡ra-tanya
+KlÃ¡ratelep
 Klastrompuszta
-Klátyiktanya
+KlÃ¡tyiktanya
 Klein Dunau
 Kleine Donau
 Kleiner Blocksberg
@@ -11429,1046 +11429,1046 @@ Kleintanya
 Klementina
 Klementinatanya
 Klementinmajor
-Klisovácdûlõ
+KlisovÃ¡cdÅ±lÅ‘
 Klokocsik
 Klokocsimajor
-Klonácz
+KlonÃ¡cz
 Klotildliget
 Klotildtelep
-Kõaljai Dûlõ
-Kõalja
+KÅ‘aljai DÅ±lÅ‘
+KÅ‘alja
 Kobakhegy
-Kõbánya Alsó
-Kõbánya-bérc
-Kõbánya-hegy
-Kõbanyai Alsó Pályaudvar
-Kõbányai Hegy
-Kõbánya-Kispest
-Kõbánya
-Kõbányatelep
-Köblény
-Köblösmajor
-Köblös
-Köblös-puszta
-Köböl-hegy
-Köbölkút
-Köbölkúttanya
-Kóborlótanya
-Kobzos István-tanya
+KÅ‘bÃ¡nya AlsÃ³
+KÅ‘bÃ¡nya-bÃ©rc
+KÅ‘bÃ¡nya-hegy
+KÅ‘banyai AlsÃ³ PÃ¡lyaudvar
+KÅ‘bÃ¡nyai Hegy
+KÅ‘bÃ¡nya-Kispest
+KÅ‘bÃ¡nya
+KÅ‘bÃ¡nyatelep
+KÃ¶blÃ©ny
+KÃ¶blÃ¶smajor
+KÃ¶blÃ¶s
+KÃ¶blÃ¶s-puszta
+KÃ¶bÃ¶l-hegy
+KÃ¶bÃ¶lkÃºt
+KÃ¶bÃ¶lkÃºttanya
+KÃ³borlÃ³tanya
+Kobzos IstvÃ¡n-tanya
 Kocatelek
 Kochpuszta
 Kochtanya
 Kocoba
 Kocobatanya
-Kócos-hegy
-Kocsér
+KÃ³cos-hegy
+KocsÃ©r
 Kocsi Halom-hegy
 Kocsihegy
-Kocsi Keserûvíztelep
+Kocsi KeserÅ±vÃ­ztelep
 Kocsilapos
 Kocsi Patak
-Kócsi-patak
-Kocsisházapuszta
+KÃ³csi-patak
+KocsishÃ¡zapuszta
 Kocsistanya
-Kocsis-tó
-Köcsk
-Kocsma-tó
+Kocsis-tÃ³
+KÃ¶csk
+Kocsma-tÃ³
 Kocs
-Kócsod-patak
+KÃ³csod-patak
 Kocsolai Tanya
 Kocsola
 Kocsoras
-Kocsord Alsó
-Kocsordi-fõcsatorna
+Kocsord AlsÃ³
+Kocsordi-fÅ‘csatorna
 Kocsord
 Kocsordos
-Kocsordostanyák
+KocsordostanyÃ¡k
 Kocsorhegy
 Kocsoros
 Kocsortanya
-Kócspuszta
-Kóczántanya
+KÃ³cspuszta
+KÃ³czÃ¡ntanya
 Koczoghtanya
-Kóczytanya
+KÃ³czytanya
 Kodahegy
 Kodehegy
-Kódé
-Kódertanya
-Ködmönösdûlõ
-Ködmönös
-Kõdomb
-Kodó
-Kodó-patak
-Kodormány
-Kõember
-Kõ-erdõ-tetõ
-Kõ-ér
-Kõ-ér-patak
-Kõfej
-Kõfejtõ
-Kõforráspuszta
-Kógyár-berki
-Kógyári-hegy
-Kõgyescsatár
-Kõgyes
-Kõ-halom
-Kõ Halom
-Kõhányás
-Kõhányáspuszta
-Kohány
-Kohánypuszta
-Kõharasztiszõllõk
-Kõ-haraszt-szõlõ
-Kohári-kút-dûlõ
-Kohárimalom
-Kohárykúttanya
-Kohárymajor Állomás
-Kohárymajor
-Koháry Szõllõk
-Kõhát
-Kõhát-Szõlõhegy
-Kóházimajor
-Kõhegyalja
-Kõhegyaljapuszta
-Kõhegydûlõ
-Kõ-hegy
-Kõhegy
-Kõhegypuszta
-Köhér
-Köhértanyák
-Kõhiditábla
-Kõhiditanyák
-Kõhíd
-Kõhídtanyák
-Kõhídtelep
+KÃ³dÃ©
+KÃ³dertanya
+KÃ¶dmÃ¶nÃ¶sdÅ±lÅ‘
+KÃ¶dmÃ¶nÃ¶s
+KÅ‘domb
+KodÃ³
+KodÃ³-patak
+KodormÃ¡ny
+KÅ‘ember
+KÅ‘-erdÅ‘-tetÅ‘
+KÅ‘-Ã©r
+KÅ‘-Ã©r-patak
+KÅ‘fej
+KÅ‘fejtÅ‘
+KÅ‘forrÃ¡spuszta
+KÃ³gyÃ¡r-berki
+KÃ³gyÃ¡ri-hegy
+KÅ‘gyescsatÃ¡r
+KÅ‘gyes
+KÅ‘-halom
+KÅ‘ Halom
+KÅ‘hÃ¡nyÃ¡s
+KÅ‘hÃ¡nyÃ¡spuszta
+KohÃ¡ny
+KohÃ¡nypuszta
+KÅ‘harasztiszÅ‘llÅ‘k
+KÅ‘-haraszt-szÅ‘lÅ‘
+KohÃ¡ri-kÃºt-dÅ±lÅ‘
+KohÃ¡rimalom
+KohÃ¡rykÃºttanya
+KohÃ¡rymajor ÃllomÃ¡s
+KohÃ¡rymajor
+KohÃ¡ry SzÅ‘llÅ‘k
+KÅ‘hÃ¡t
+KÅ‘hÃ¡t-SzÅ‘lÅ‘hegy
+KÃ³hÃ¡zimajor
+KÅ‘hegyalja
+KÅ‘hegyaljapuszta
+KÅ‘hegydÅ±lÅ‘
+KÅ‘-hegy
+KÅ‘hegy
+KÅ‘hegypuszta
+KÃ¶hÃ©r
+KÃ¶hÃ©rtanyÃ¡k
+KÅ‘hiditÃ¡bla
+KÅ‘hiditanyÃ¡k
+KÅ‘hÃ­d
+KÅ‘hÃ­dtanyÃ¡k
+KÅ‘hÃ­dtelep
 Kohntanya
 Koitanya
 Kokad
-Kókai Tanya
-Kóka
-Kõkapu
-Kokasdi Dûlõ
+KÃ³kai Tanya
+KÃ³ka
+KÅ‘kapu
+Kokasdi DÅ±lÅ‘
 Kokashegy
 Kokastanya
 Kokavicstanya
-Kökényesi-hegy
-Kökényesipuszta
-Kökényesmindszent
-Kökényes
-Kökényespuszta
-Kökényestanya
-Kökényi Puszta
-Kökény
-Kökénypuszta
-Kökényvölgytanya
-Kõ-kert
-Kók-hegy
+KÃ¶kÃ©nyesi-hegy
+KÃ¶kÃ©nyesipuszta
+KÃ¶kÃ©nyesmindszent
+KÃ¶kÃ©nyes
+KÃ¶kÃ©nyespuszta
+KÃ¶kÃ©nyestanya
+KÃ¶kÃ©nyi Puszta
+KÃ¶kÃ©ny
+KÃ¶kÃ©nypuszta
+KÃ¶kÃ©nyvÃ¶lgytanya
+KÅ‘-kert
+KÃ³k-hegy
 Kokonyapuszta
-Kõkoporsó
-Kõkosártanya
-Kõkötõ-hegy
-Kõkötõ
-Koktóitanya
-Kõkútdûlõ
-Kõkút-hát-dûlõ
-Kõkúthát
-Kõkút-hegy
-Kõkútlaposa
-Kõkút
-Kõkútpuszta
-Kõkúttanya
-Kõlápapuszta
-Kõlapos
-Kolbárttanya
-Kolbászhegy
-Kolbászi Legelõ
-Kolbász
-Kolbász-széki-tározó
-Kölcsei Kendergyár
-Kölcse
-Kölcsér
-Kölcsey-tag
-Kölcseytanya
-Koldus-gödör
-Koldusgödörpuszta
+KÅ‘koporsÃ³
+KÅ‘kosÃ¡rtanya
+KÅ‘kÃ¶tÅ‘-hegy
+KÅ‘kÃ¶tÅ‘
+KoktÃ³itanya
+KÅ‘kÃºtdÅ±lÅ‘
+KÅ‘kÃºt-hÃ¡t-dÅ±lÅ‘
+KÅ‘kÃºthÃ¡t
+KÅ‘kÃºt-hegy
+KÅ‘kÃºtlaposa
+KÅ‘kÃºt
+KÅ‘kÃºtpuszta
+KÅ‘kÃºttanya
+KÅ‘lÃ¡papuszta
+KÅ‘lapos
+KolbÃ¡rttanya
+KolbÃ¡szhegy
+KolbÃ¡szi LegelÅ‘
+KolbÃ¡sz
+KolbÃ¡sz-szÃ©ki-tÃ¡rozÃ³
+KÃ¶lcsei KendergyÃ¡r
+KÃ¶lcse
+KÃ¶lcsÃ©r
+KÃ¶lcsey-tag
+KÃ¶lcseytanya
+Koldus-gÃ¶dÃ¶r
+KoldusgÃ¶dÃ¶rpuszta
 Kolera-sziget
-Kölesd-Alsótengelic
-Kölesdimajor
-Kölesd
-Kölesdpuszta
-Kölesdûlõtag
-Köles-ér-fõcsatorna
-Köles-éri-csatorna
-Köles-ér
-Kölesfenékidûlõ
-Kölesföldi Tanyák
-Kölesföld
-Köleshalom
-Köles-hát
-Kölesháttanya
-Kölesmajor
-Kölestelek
-Koleszártanya
+KÃ¶lesd-AlsÃ³tengelic
+KÃ¶lesdimajor
+KÃ¶lesd
+KÃ¶lesdpuszta
+KÃ¶lesdÅ±lÅ‘tag
+KÃ¶les-Ã©r-fÅ‘csatorna
+KÃ¶les-Ã©ri-csatorna
+KÃ¶les-Ã©r
+KÃ¶lesfenÃ©kidÅ±lÅ‘
+KÃ¶lesfÃ¶ldi TanyÃ¡k
+KÃ¶lesfÃ¶ld
+KÃ¶leshalom
+KÃ¶les-hÃ¡t
+KÃ¶leshÃ¡ttanya
+KÃ¶lesmajor
+KÃ¶lestelek
+KoleszÃ¡rtanya
 Kolinatanya
-Kölkedi Csárda
-Kölkedi Tanya
-Kölked
-Kollártanya
-Kollerrész
+KÃ¶lkedi CsÃ¡rda
+KÃ¶lkedi Tanya
+KÃ¶lked
+KollÃ¡rtanya
+KollerrÃ©sz
 Kollertanya
-Kolompéroscsárda
+KolompÃ©roscsÃ¡rda
 Kolomposmajor
 Kolompos
 Kolompostanya
-Kolom tó
-Kolónia
+Kolom tÃ³
+KolÃ³nia
 Kolonmajor
 Kolon
-Kolontár Alja
-Kolontár
-Kolon-tói-csatorna
-Kolon-tói-övcsatorna
-Kolon-tó
-Kolopfürdõ
-Kolsõ-séda
-Koltáry Major Állomás
-Kõlyuk-galya
-Kõlyuk
-Kõlyúktetõ
-Komádi
+KolontÃ¡r Alja
+KolontÃ¡r
+Kolon-tÃ³i-csatorna
+Kolon-tÃ³i-Ã¶vcsatorna
+Kolon-tÃ³
+KolopfÃ¼rdÅ‘
+KolsÅ‘-sÃ©da
+KoltÃ¡ry Major ÃllomÃ¡s
+KÅ‘lyuk-galya
+KÅ‘lyuk
+KÅ‘lyÃºktetÅ‘
+KomÃ¡di
 Komaiti
-Kõmáj-kocsma
-Kõmáj
-Kõmalomirtás
-Kõ-malom
-Kõmalom
+KÅ‘mÃ¡j-kocsma
+KÅ‘mÃ¡j
+KÅ‘malomirtÃ¡s
+KÅ‘-malom
+KÅ‘malom
 Komarom County
-Komárom-Esztergom Megye
-Komárom-Esztergom
-Komáromi Csatorna
-Komáromi-ér
-Komáromi-hegy
-Komáromitanya
-Komárom Megye
-Komárom
-Komáromújváros
-Komáromy-tanya
-Komárváros
+KomÃ¡rom-Esztergom Megye
+KomÃ¡rom-Esztergom
+KomÃ¡romi Csatorna
+KomÃ¡romi-Ã©r
+KomÃ¡romi-hegy
+KomÃ¡romitanya
+KomÃ¡rom Megye
+KomÃ¡rom
+KomÃ¡romÃºjvÃ¡ros
+KomÃ¡romy-tanya
+KomÃ¡rvÃ¡ros
 Komisz-kert
 Komitats Kanal
-Komjáthy-tag
-Komjáthytanya
-Komjáti
-Kömlõd
-Komlódtótfalu
-Komló
-Kömlõ
-Komlósd
-Komlósfecskési Tanyák
-Komlósfecskéspuszta
-Komlóshegy
-Komlósi-puszta
-Komlóska
-Komlós
-Komlóspuszta
-Komló Teherpályaudvar
-Komóczitanya
+KomjÃ¡thy-tag
+KomjÃ¡thytanya
+KomjÃ¡ti
+KÃ¶mlÅ‘d
+KomlÃ³dtÃ³tfalu
+KomlÃ³
+KÃ¶mlÅ‘
+KomlÃ³sd
+KomlÃ³sfecskÃ©si TanyÃ¡k
+KomlÃ³sfecskÃ©spuszta
+KomlÃ³shegy
+KomlÃ³si-puszta
+KomlÃ³ska
+KomlÃ³s
+KomlÃ³spuszta
+KomlÃ³ TeherpÃ¡lyaudvar
+KomÃ³czitanya
 Komoplt
-Komoróci-tag
-Komorócitanya
-Komoróczikert
-Komoróczitag
-Komoróczytanya
-Komoró
-Kömörõ
-Kömpöc
+KomorÃ³ci-tag
+KomorÃ³citanya
+KomorÃ³czikert
+KomorÃ³czitag
+KomorÃ³czytanya
+KomorÃ³
+KÃ¶mÃ¶rÅ‘
+KÃ¶mpÃ¶c
 Kompolt
-Köncsög Állomás
-Köncsög
-Köncsögpuszta
-Koncsorgó
+KÃ¶ncsÃ¶g ÃllomÃ¡s
+KÃ¶ncsÃ¶g
+KÃ¶ncsÃ¶gpuszta
+KoncsorgÃ³
 Konctanya
-Kondai-árok
-Kondáshalom
-Kondás Tó
-Kondászhalom
-Kondó
+Kondai-Ã¡rok
+KondÃ¡shalom
+KondÃ¡s TÃ³
+KondÃ¡szhalom
+KondÃ³
 Kondorfa
-Kondorirtásdûlõ
-Kondorirtás
+KondorirtÃ¡sdÅ±lÅ‘
+KondorirtÃ¡s
 Kondor
-Kondoros Ér
-Kondorosi Tanyák
+Kondoros Ã‰r
+Kondorosi TanyÃ¡k
 Kondoros
-Kondoros-vízfolyás
+Kondoros-vÃ­zfolyÃ¡s
 Kondorpuszta
 Kondor-tag
 Kondortanya
-Kondor-tó
-Kongó
-Kongópuszta
+Kondor-tÃ³
+KongÃ³
+KongÃ³puszta
 Konkolyosi Hegy
 Konkolyos
-Konrádmajor
+KonrÃ¡dmajor
 Konstanczermalom
 Konta
 Konti-malom
-Kontradûlõ
+KontradÅ±lÅ‘
 Kontra
 Kontra Sor
-Konturkáka
-Kónyadûlõ
-Kónya-hegy
-Kónyai-halastavak
-Kónyai-tó
-Kónya
-Konyári Sósfürdõ
-Konyári-sóstófürdõ
-Konyári-tag
-Konyári Tanyák
-Konyár
-Kónyaszék
-Kónyatelep
-Konyhadûlõ
-Kóny
-Konzármajor
-Kõóra
-Kõ Orra
-Koóstanya
-Kõpad
-Kopalicadûlõ
-Kopáncs
-Kõparadûlõ
-Kopárhát
-Kopárpuszta
+KonturkÃ¡ka
+KÃ³nyadÅ±lÅ‘
+KÃ³nya-hegy
+KÃ³nyai-halastavak
+KÃ³nyai-tÃ³
+KÃ³nya
+KonyÃ¡ri SÃ³sfÃ¼rdÅ‘
+KonyÃ¡ri-sÃ³stÃ³fÃ¼rdÅ‘
+KonyÃ¡ri-tag
+KonyÃ¡ri TanyÃ¡k
+KonyÃ¡r
+KÃ³nyaszÃ©k
+KÃ³nyatelep
+KonyhadÅ±lÅ‘
+KÃ³ny
+KonzÃ¡rmajor
+KÅ‘Ã³ra
+KÅ‘ Orra
+KoÃ³stanya
+KÅ‘pad
+KopalicadÅ±lÅ‘
+KopÃ¡ncs
+KÅ‘paradÅ±lÅ‘
+KopÃ¡rhÃ¡t
+KopÃ¡rpuszta
 Kopasz-agyagos
 Kopasz Domb
-Kopaszdûlõ
-Kopasz-Hallgató
+KopaszdÅ±lÅ‘
+Kopasz-HallgatÃ³
 Kopaszhalmi Tanya
 Kopasz-halom
-Kopaszhegyi Szõllõsor
+Kopaszhegyi SzÅ‘llÅ‘sor
 Kopasz-hegy
 Kopaszhegy
 Kopasz Hegy
 Kopasz
-Kopasz-tetõ
-Kopaszvölgy
-Köpecitanya
+Kopasz-tetÅ‘
+KopaszvÃ¶lgy
+KÃ¶pecitanya
 Kopec
-Kópháza
-Kópházimajor
-Kópházipuszta
-Köpi Puszta
-Koplaló Halom
-Koplalói Tanyák
-Koplalókert
-Koplaló
-Koplalópuszta
-Koplalótanya
-Kopócsapáti
-Kopócs-hegy
-Kopolya-dûlõ
+KÃ³phÃ¡za
+KÃ³phÃ¡zimajor
+KÃ³phÃ¡zipuszta
+KÃ¶pi Puszta
+KoplalÃ³ Halom
+KoplalÃ³i TanyÃ¡k
+KoplalÃ³kert
+KoplalÃ³
+KoplalÃ³puszta
+KoplalÃ³tanya
+KopÃ³csapÃ¡ti
+KopÃ³cs-hegy
+Kopolya-dÅ±lÅ‘
 Kopolya
-Koponyás és Környéke
-Koponyás
-Kõporos
+KoponyÃ¡s Ã©s KÃ¶rnyÃ©ke
+KoponyÃ¡s
+KÅ‘poros
 Koportos-hegy
 Koportos
-Koportyók-hegy
+KoportyÃ³k-hegy
 Koportyok
-Koppánmonostor
-Koppányi-puszta
-Koppánymegyer
-Koppánymonostor
-Koppány
-Koppány-patak
-Koppányszántó
-Köptanya
-Köpüsvölgy
-Kõrakás
-Korbásstanya
+KoppÃ¡nmonostor
+KoppÃ¡nyi-puszta
+KoppÃ¡nymegyer
+KoppÃ¡nymonostor
+KoppÃ¡ny
+KoppÃ¡ny-patak
+KoppÃ¡nyszÃ¡ntÃ³
+KÃ¶ptanya
+KÃ¶pÃ¼svÃ¶lgy
+KÅ‘rakÃ¡s
+KorbÃ¡sstanya
 Korbulytanya
-Korcó-tanya
-Korcovágy
-Korcsánypuszta
+KorcÃ³-tanya
+KorcovÃ¡gy
+KorcsÃ¡nypuszta
 Korcsina-csatorna
-Korcsina-fõcsatorna
+Korcsina-fÅ‘csatorna
 Korcsina
-Korcsmástanya
-Korcsó
-Körcsönye-erdõ
-Körcsönyei Erdõ
-Körcsönye
-Körcsönyepuszta
+KorcsmÃ¡stanya
+KorcsÃ³
+KÃ¶rcsÃ¶nye-erdÅ‘
+KÃ¶rcsÃ¶nyei ErdÅ‘
+KÃ¶rcsÃ¶nye
+KÃ¶rcsÃ¶nyepuszta
 Korda-oldal
 Korda-sziget
-Kordovánbokor
-Köréppuszta
-Kórésérdûlõ
-Korhánköz
-Korhán
-Korhányátalja
-Korhány-halom
-Korhánykert
-Korhány
-Korhánypuszta
-Korhánysziget
-Korhányszõllõ
-Korhányszõlõ
-Korhánytanya
-Kórházdûlõ
-Kórháztelep
-Kõrises-berki-vízfolyás
-Kõrises
-Körises Vís
-Kõrises Víz
-Kõrisgyõr
-Kõris-hegy
-Kõris
-Kõris-patak
-Kõrispuszta
-Kõris-tetõ
-Körkemence
-Korlát-hegy
-Korlát
-Korlát-Vizsoly
-Kormádpuszta
-Kormánytanya
-Körmendipuszta
-Körmenditanya
-Körmend Külsõ
-Körmend
-Körmendypuszta
-Körmendytanya
-Körme
-Körmepuszta
-Kormódpuszta
-Körmöndi-tanya
-Kormó
-Körmösdpuszta
-Kormosdûlõ
-Kormosházipuszta
+KordovÃ¡nbokor
+KÃ¶rÃ©ppuszta
+KÃ³rÃ©sÃ©rdÅ±lÅ‘
+KorhÃ¡nkÃ¶z
+KorhÃ¡n
+KorhÃ¡nyÃ¡talja
+KorhÃ¡ny-halom
+KorhÃ¡nykert
+KorhÃ¡ny
+KorhÃ¡nypuszta
+KorhÃ¡nysziget
+KorhÃ¡nyszÅ‘llÅ‘
+KorhÃ¡nyszÅ‘lÅ‘
+KorhÃ¡nytanya
+KÃ³rhÃ¡zdÅ±lÅ‘
+KÃ³rhÃ¡ztelep
+KÅ‘rises-berki-vÃ­zfolyÃ¡s
+KÅ‘rises
+KÃ¶rises VÃ­s
+KÅ‘rises VÃ­z
+KÅ‘risgyÅ‘r
+KÅ‘ris-hegy
+KÅ‘ris
+KÅ‘ris-patak
+KÅ‘rispuszta
+KÅ‘ris-tetÅ‘
+KÃ¶rkemence
+KorlÃ¡t-hegy
+KorlÃ¡t
+KorlÃ¡t-Vizsoly
+KormÃ¡dpuszta
+KormÃ¡nytanya
+KÃ¶rmendipuszta
+KÃ¶rmenditanya
+KÃ¶rmend KÃ¼lsÅ‘
+KÃ¶rmend
+KÃ¶rmendypuszta
+KÃ¶rmendytanya
+KÃ¶rme
+KÃ¶rmepuszta
+KormÃ³dpuszta
+KÃ¶rmÃ¶ndi-tanya
+KormÃ³
+KÃ¶rmÃ¶sdpuszta
+KormosdÅ±lÅ‘
+KormoshÃ¡zipuszta
 Kormospuszta
-Kormos-verõ
-Kormó Tó
-Kormuthdûlõ
-Környebánya
-Környei Major
-Környemajor
-Környe
-Kornyi-tó
-Kornyódûlõ
-Kornyó
+Kormos-verÅ‘
+KormÃ³ TÃ³
+KormuthdÅ±lÅ‘
+KÃ¶rnyebÃ¡nya
+KÃ¶rnyei Major
+KÃ¶rnyemajor
+KÃ¶rnye
+Kornyi-tÃ³
+KornyÃ³dÅ±lÅ‘
+KornyÃ³
 Korog
-Kórógy-árok
-Kórógy-éri-fõcsatorna
-Kórógy-ér
-Kórógy
-Kórógyoldal
-Kórógyszentgyörgy
+KÃ³rÃ³gy-Ã¡rok
+KÃ³rÃ³gy-Ã©ri-fÅ‘csatorna
+KÃ³rÃ³gy-Ã©r
+KÃ³rÃ³gy
+KÃ³rÃ³gyoldal
+KÃ³rÃ³gyszentgyÃ¶rgy
 Koromla
-Köröm
+KÃ¶rÃ¶m
 Korompa-patak
 Koronaliget
-Koronás
+KoronÃ¡s
 Koronceg
-Koroncó
+KoroncÃ³
 Korongimajor
 Korongi-tag
 Korongmajor
 Koroninitanya
 Korosa Hegy
-Körös-csatorna
-Köröserdõ
-Körösérhát
-Kõrös-éri-fõcsatorna
-Koros-ér
-Kóros-ér
-Kórósér
-Kõrös-ér
-Kõrös-hegy
-Kõröshegy
-Kõrösi-ér
-Kõrösihegy
-Kõrösimalom
-Kõrösitanya
-Körösladány
-Körös-Maros Köze
-Körös-Maros-Tisza Köze
-Körös-mellék
-Körösnagyharsány
-Körös
-Kõrös
-Kórós
-Kõrösoldal
-Körösös
-Körösöspuszta
-Körös-patak
-Kõrös-patak
-Kõrös Patak
-Kõröspuszta
-Kõrössytanya
-Körösszakál
-Körösszegapáti
-Kóróssziget
-Köröstarcsa
-Kõröstetétlen
-Körösújfalú
-Körösújfalu
-Körösztvölgy
-Köröszug
-Kõrózsa-tetõ
-Korpáddûlõ
-Korpád
-Korpa-hát-dûlõ
+KÃ¶rÃ¶s-csatorna
+KÃ¶rÃ¶serdÅ‘
+KÃ¶rÃ¶sÃ©rhÃ¡t
+KÅ‘rÃ¶s-Ã©ri-fÅ‘csatorna
+Koros-Ã©r
+KÃ³ros-Ã©r
+KÃ³rÃ³sÃ©r
+KÅ‘rÃ¶s-Ã©r
+KÅ‘rÃ¶s-hegy
+KÅ‘rÃ¶shegy
+KÅ‘rÃ¶si-Ã©r
+KÅ‘rÃ¶sihegy
+KÅ‘rÃ¶simalom
+KÅ‘rÃ¶sitanya
+KÃ¶rÃ¶sladÃ¡ny
+KÃ¶rÃ¶s-Maros KÃ¶ze
+KÃ¶rÃ¶s-Maros-Tisza KÃ¶ze
+KÃ¶rÃ¶s-mellÃ©k
+KÃ¶rÃ¶snagyharsÃ¡ny
+KÃ¶rÃ¶s
+KÅ‘rÃ¶s
+KÃ³rÃ³s
+KÅ‘rÃ¶soldal
+KÃ¶rÃ¶sÃ¶s
+KÃ¶rÃ¶sÃ¶spuszta
+KÃ¶rÃ¶s-patak
+KÅ‘rÃ¶s-patak
+KÅ‘rÃ¶s Patak
+KÅ‘rÃ¶spuszta
+KÅ‘rÃ¶ssytanya
+KÃ¶rÃ¶sszakÃ¡l
+KÃ¶rÃ¶sszegapÃ¡ti
+KÃ³rÃ³ssziget
+KÃ¶rÃ¶starcsa
+KÅ‘rÃ¶stetÃ©tlen
+KÃ¶rÃ¶sÃºjfalÃº
+KÃ¶rÃ¶sÃºjfalu
+KÃ¶rÃ¶sztvÃ¶lgy
+KÃ¶rÃ¶szug
+KÅ‘rÃ³zsa-tetÅ‘
+KorpÃ¡ddÅ±lÅ‘
+KorpÃ¡d
+Korpa-hÃ¡t-dÅ±lÅ‘
 Korpa-hegy
 Korpamajor
-Korpavár
-Korsóstanyák
-Korsóstanya
-Körtefa-dûlõ
-Körtefa
-Körte Fõ
-Körteles
-Körtélyesmajor
-Körtélyes
-Körtés-dûlõ
-Körtésdûlõ
-Körtés
-Körtéstelep
-Körtönyeibükk
-Körtvélyesdûlõ
-Körtvélyesmajor
-Körtvélyes
-Körtvélyes Patak
-Körtvélyespuszta
-Körtvélyes-sziget
-Körtvélyestanya
-Kortyogó
-Körvélyes
-Kósa-hegy
-Kósa
-Kosár-halom
-Kosárhegy
-Kõsaszõlõ
-Kósatanya
-Kósa Vára Tetõ
+KorpavÃ¡r
+KorsÃ³stanyÃ¡k
+KorsÃ³stanya
+KÃ¶rtefa-dÅ±lÅ‘
+KÃ¶rtefa
+KÃ¶rte FÅ‘
+KÃ¶rteles
+KÃ¶rtÃ©lyesmajor
+KÃ¶rtÃ©lyes
+KÃ¶rtÃ©s-dÅ±lÅ‘
+KÃ¶rtÃ©sdÅ±lÅ‘
+KÃ¶rtÃ©s
+KÃ¶rtÃ©stelep
+KÃ¶rtÃ¶nyeibÃ¼kk
+KÃ¶rtvÃ©lyesdÅ±lÅ‘
+KÃ¶rtvÃ©lyesmajor
+KÃ¶rtvÃ©lyes
+KÃ¶rtvÃ©lyes Patak
+KÃ¶rtvÃ©lyespuszta
+KÃ¶rtvÃ©lyes-sziget
+KÃ¶rtvÃ©lyestanya
+KortyogÃ³
+KÃ¶rvÃ©lyes
+KÃ³sa-hegy
+KÃ³sa
+KosÃ¡r-halom
+KosÃ¡rhegy
+KÅ‘saszÅ‘lÅ‘
+KÃ³satanya
+KÃ³sa VÃ¡ra TetÅ‘
 Kosba
-Kósdi-fõcsatorna
+KÃ³sdi-fÅ‘csatorna
 Kosd
-Kósdombitanya
+KÃ³sdombitanya
 Kosdombtanya
-Kösély
-Kösélyszeg
-Koshodály
+KÃ¶sÃ©ly
+KÃ¶sÃ©lyszeg
+KoshodÃ¡ly
 Kosiktanya
-Kóspallag
-Kospartdûlõ
+KÃ³spallag
+KospartdÅ±lÅ‘
 Kospart
-Kossuthdûlõ
-Kossuthkertiszõllõ
+KossuthdÅ±lÅ‘
+KossuthkertiszÅ‘llÅ‘
 Kossuthkert
 Kossuth Lajos-telep
-Kossuth Lajos-úti Tanya
+Kossuth Lajos-Ãºti Tanya
 Kossuthpuszta
 Kossuthtelep
-Kossuthvölgy
-Kõszárhegy
-Kõszegdoroszló
-Kõszegfalva
-Kõszegi-hegység
-Kõszeg
-Kõszegpaty
-Kõszegszerdahely
-Kõszegszerhadely
-Kõszén-bánya-telep
-Kõszénbányatelep
-Kõsziget
-Kõszirt
-Köszörûkõ-hegy
-Köszörû
-Köszörûpuszta
-Köszörûshegy
-Koszorús
-Köszörûtanya
+KossuthvÃ¶lgy
+KÅ‘szÃ¡rhegy
+KÅ‘szegdoroszlÃ³
+KÅ‘szegfalva
+KÅ‘szegi-hegysÃ©g
+KÅ‘szeg
+KÅ‘szegpaty
+KÅ‘szegszerdahely
+KÅ‘szegszerhadely
+KÅ‘szÃ©n-bÃ¡nya-telep
+KÅ‘szÃ©nbÃ¡nyatelep
+KÅ‘sziget
+KÅ‘szirt
+KÃ¶szÃ¶rÅ±kÅ‘-hegy
+KÃ¶szÃ¶rÅ±
+KÃ¶szÃ¶rÅ±puszta
+KÃ¶szÃ¶rÅ±shegy
+KoszorÃºs
+KÃ¶szÃ¶rÅ±tanya
 Kosztatag
-Kosztolánci Tanya
-Kosztolánczitanya
-Kosztolányipuszta
-Kosztolányi-tanya
-Köszvényes-patak
-Kótaji Szõllõk
-Kótaj
-Kotántanya
-Kötcse
-Kötegyán
-Kõtelek
-Kötelesdûlõ
-Köteles
-Kötény-halom
-Kötésimalom
-Kotlátordûlõ
-Kotló-hegy
-Kotlóhegy
-Kotló
-Kötöny
-Kötönypuszta
-Kõtörés Major
-Kõtörés
-Kotormány Hegy
+KosztolÃ¡nci Tanya
+KosztolÃ¡nczitanya
+KosztolÃ¡nyipuszta
+KosztolÃ¡nyi-tanya
+KÃ¶szvÃ©nyes-patak
+KÃ³taji SzÅ‘llÅ‘k
+KÃ³taj
+KotÃ¡ntanya
+KÃ¶tcse
+KÃ¶tegyÃ¡n
+KÅ‘telek
+KÃ¶telesdÅ±lÅ‘
+KÃ¶teles
+KÃ¶tÃ©ny-halom
+KÃ¶tÃ©simalom
+KotlÃ¡tordÅ±lÅ‘
+KotlÃ³-hegy
+KotlÃ³hegy
+KotlÃ³
+KÃ¶tÃ¶ny
+KÃ¶tÃ¶nypuszta
+KÅ‘tÃ¶rÃ©s Major
+KÅ‘tÃ¶rÃ©s
+KotormÃ¡ny Hegy
 Kotormany
-Kõtörõ
-Kótpuszta
-Kotrocópuszta
+KÅ‘tÃ¶rÅ‘
+KÃ³tpuszta
+KotrocÃ³puszta
 Kottatanya
-Kötteny Hegy
-Köttönitanyák
-Kotvénydûlõ
-Kotyháza-Bányatelep
-Kotyháza
-Kotyházatelep
-Kõudvar
-Kovács-berek
-Kovácsbokor
-Kovácsbükkitanyák
-Kovácsbükki Tanya
-Kovácsdûlõ
-Kovács-halom
-Kovácshányás
-Kovácsházi-kerület
-Kovácsházi-külterület
-Kovácsházipuszta
-Kovácsházi Út
-Kovács-hegy
-Kovácshida Állomás
-Kovácshida
+KÃ¶tteny Hegy
+KÃ¶ttÃ¶nitanyÃ¡k
+KotvÃ©nydÅ±lÅ‘
+KotyhÃ¡za-BÃ¡nyatelep
+KotyhÃ¡za
+KotyhÃ¡zatelep
+KÅ‘udvar
+KovÃ¡cs-berek
+KovÃ¡csbokor
+KovÃ¡csbÃ¼kkitanyÃ¡k
+KovÃ¡csbÃ¼kki Tanya
+KovÃ¡csdÅ±lÅ‘
+KovÃ¡cs-halom
+KovÃ¡cshÃ¡nyÃ¡s
+KovÃ¡cshÃ¡zi-kerÃ¼let
+KovÃ¡cshÃ¡zi-kÃ¼lterÃ¼let
+KovÃ¡cshÃ¡zipuszta
+KovÃ¡cshÃ¡zi Ãšt
+KovÃ¡cs-hegy
+KovÃ¡cshida ÃllomÃ¡s
+KovÃ¡cshida
 Kovacsicstanya
-Kovácsi Hegy
-Kovácsi
-Kovácsipuszta
-Kovács I.-tanya
-Kovácskert
-Kovács-kõ
-Kovácsmajor
-Kovácsmalom
-Kovacsóczytanya
-Kovács Ödön-tanya
-Kovacsosdûlõ
-Kovács-patak
-Kovácspuszta
-Kovácsrét
-Kovács Sándor-tanya
-Kovácsszénája
-Kovácssziget
-Kovácsszõllõ
-Kovács-tag
-Kovácstag
-Kovács-tanya
-Kovácstanya
-Kovácsvágás
-Kõvágásdûlõ
-Kõvágó-dûlõ
-Kõvágóér
-Kõvágó
-Kõvágóörs
-Kõvágóörs-Révfülöp
-Kõvágószõllõs
-Kõvágószõlõs
-Kõvágótanyák
-Kõvágó-tetõ
-Kõvágótõttõs
-Kováktanya
-Kõváralja
-Kõvár-telep
-Kovásos Telek
-Kovásznaitanya
-Kövecses-hegy
-Kövecses
-Kövegyi Puszta
-Kövegyitanyák
-Kövegy
-Kövegypuszta
-Kövendi-tanya
-Kövendytanya
-Kövesdi-hegy
-Kövesdi-tag
-Kövesdmajor
-Kövesd
-Köves-domb
-Kövesdpuszta
-Kövesdy Nagy Tanya
-Kövesdytanya
-Kövesgyûr
-Kövesgyûrpuszta
-Köves-halom
-Köveshalom
-Köves-hegy
-Köveshegy
-Köves Hegy
-Köveskál
-Köveskútpuszta
-Kövesmajor
-Köves-mál-tetõ
-Köves Patak
-Kövestelek
-Köves-tetõ
-Kövestetõ
-Köves Tetõ
-Kövesút
-Köves Verõ
-Köves-völgy
-Kõ-völgyi-árok
-Kozár-Borzó
-Kozár-Borzó-patak
-Kozárd
-Kozári Kõbánya
-Kozármajor
-Kozármisleny
-Kozár
-Kozár-patak
-Kozárpuszta
-Közbirtokossági Tanya
-Kozeldûlõ
-Középadacs
-Középbérci Tanyák
-Közép-bérc
-Közép-berek
-Középbikád
-Középbogárd
-Középcebe
-Középcsala
-Középdabrony
-Középdánosi Tanyák
-Középdeindoldûlõ
-Középdeindol
-Középdobos
-Középdûlõ
-Középerdõ
-Közép-ér
-Közép-föld
-Középhalom
-Középhard
-Közép-hát
-Középhegyes
-Középhegyhát
-Közép-hegy
-Középhegy
-Középhencse-puszta
-Középhídvég
-Középhomokerdõ
-Középiszkáz
-Középkert
-Középkölked
-Közép-Kovács-gyep
-Középkóvácsgyöp
-Középmáj
-Középmajor
-Középmalom
-Középmarosd
-Közép-mezõ
-Középmezõtanya
-Középnyíres
-Középnyírespuszta
-Középnyirvármajor
-Közép-Ódány
-Középpeszér
-Középpuszta
-Kõzép Répás-major
-Középrét
-Középrigóc
-Középsõcsér
-Középsõcsesztapuszta
-Középsõdûlõ
-Középsõ-Hajag-hegy
-Középsõ-Hajag
-Középsõ Hegy
-Középsõ Horváthmalom
-Középsõjárás
-Középsõmalom
-Középsõnyomás
-Középsõ-patak
-Középsõtanya
-Középsõvasdinnyepuszta
-Középszállás
-Középszentamás
-Középszentiván
-Középszentivánpuszta
-Középszenttamás
-Középszigeti Tanyák
-Középszolgaegyháza
-Középszór
-Középtabód
-Középtanyák
-Középtanya
-Középvasdinnyepuszta
-Középzok
+KovÃ¡csi Hegy
+KovÃ¡csi
+KovÃ¡csipuszta
+KovÃ¡cs I.-tanya
+KovÃ¡cskert
+KovÃ¡cs-kÅ‘
+KovÃ¡csmajor
+KovÃ¡csmalom
+KovacsÃ³czytanya
+KovÃ¡cs Ã–dÃ¶n-tanya
+KovacsosdÅ±lÅ‘
+KovÃ¡cs-patak
+KovÃ¡cspuszta
+KovÃ¡csrÃ©t
+KovÃ¡cs SÃ¡ndor-tanya
+KovÃ¡csszÃ©nÃ¡ja
+KovÃ¡cssziget
+KovÃ¡csszÅ‘llÅ‘
+KovÃ¡cs-tag
+KovÃ¡cstag
+KovÃ¡cs-tanya
+KovÃ¡cstanya
+KovÃ¡csvÃ¡gÃ¡s
+KÅ‘vÃ¡gÃ¡sdÅ±lÅ‘
+KÅ‘vÃ¡gÃ³-dÅ±lÅ‘
+KÅ‘vÃ¡gÃ³Ã©r
+KÅ‘vÃ¡gÃ³
+KÅ‘vÃ¡gÃ³Ã¶rs
+KÅ‘vÃ¡gÃ³Ã¶rs-RÃ©vfÃ¼lÃ¶p
+KÅ‘vÃ¡gÃ³szÅ‘llÅ‘s
+KÅ‘vÃ¡gÃ³szÅ‘lÅ‘s
+KÅ‘vÃ¡gÃ³tanyÃ¡k
+KÅ‘vÃ¡gÃ³-tetÅ‘
+KÅ‘vÃ¡gÃ³tÅ‘ttÅ‘s
+KovÃ¡ktanya
+KÅ‘vÃ¡ralja
+KÅ‘vÃ¡r-telep
+KovÃ¡sos Telek
+KovÃ¡sznaitanya
+KÃ¶vecses-hegy
+KÃ¶vecses
+KÃ¶vegyi Puszta
+KÃ¶vegyitanyÃ¡k
+KÃ¶vegy
+KÃ¶vegypuszta
+KÃ¶vendi-tanya
+KÃ¶vendytanya
+KÃ¶vesdi-hegy
+KÃ¶vesdi-tag
+KÃ¶vesdmajor
+KÃ¶vesd
+KÃ¶ves-domb
+KÃ¶vesdpuszta
+KÃ¶vesdy Nagy Tanya
+KÃ¶vesdytanya
+KÃ¶vesgyÅ±r
+KÃ¶vesgyÅ±rpuszta
+KÃ¶ves-halom
+KÃ¶veshalom
+KÃ¶ves-hegy
+KÃ¶veshegy
+KÃ¶ves Hegy
+KÃ¶veskÃ¡l
+KÃ¶veskÃºtpuszta
+KÃ¶vesmajor
+KÃ¶ves-mÃ¡l-tetÅ‘
+KÃ¶ves Patak
+KÃ¶vestelek
+KÃ¶ves-tetÅ‘
+KÃ¶vestetÅ‘
+KÃ¶ves TetÅ‘
+KÃ¶vesÃºt
+KÃ¶ves VerÅ‘
+KÃ¶ves-vÃ¶lgy
+KÅ‘-vÃ¶lgyi-Ã¡rok
+KozÃ¡r-BorzÃ³
+KozÃ¡r-BorzÃ³-patak
+KozÃ¡rd
+KozÃ¡ri KÅ‘bÃ¡nya
+KozÃ¡rmajor
+KozÃ¡rmisleny
+KozÃ¡r
+KozÃ¡r-patak
+KozÃ¡rpuszta
+KÃ¶zbirtokossÃ¡gi Tanya
+KozeldÅ±lÅ‘
+KÃ¶zÃ©padacs
+KÃ¶zÃ©pbÃ©rci TanyÃ¡k
+KÃ¶zÃ©p-bÃ©rc
+KÃ¶zÃ©p-berek
+KÃ¶zÃ©pbikÃ¡d
+KÃ¶zÃ©pbogÃ¡rd
+KÃ¶zÃ©pcebe
+KÃ¶zÃ©pcsala
+KÃ¶zÃ©pdabrony
+KÃ¶zÃ©pdÃ¡nosi TanyÃ¡k
+KÃ¶zÃ©pdeindoldÅ±lÅ‘
+KÃ¶zÃ©pdeindol
+KÃ¶zÃ©pdobos
+KÃ¶zÃ©pdÅ±lÅ‘
+KÃ¶zÃ©perdÅ‘
+KÃ¶zÃ©p-Ã©r
+KÃ¶zÃ©p-fÃ¶ld
+KÃ¶zÃ©phalom
+KÃ¶zÃ©phard
+KÃ¶zÃ©p-hÃ¡t
+KÃ¶zÃ©phegyes
+KÃ¶zÃ©phegyhÃ¡t
+KÃ¶zÃ©p-hegy
+KÃ¶zÃ©phegy
+KÃ¶zÃ©phencse-puszta
+KÃ¶zÃ©phÃ­dvÃ©g
+KÃ¶zÃ©phomokerdÅ‘
+KÃ¶zÃ©piszkÃ¡z
+KÃ¶zÃ©pkert
+KÃ¶zÃ©pkÃ¶lked
+KÃ¶zÃ©p-KovÃ¡cs-gyep
+KÃ¶zÃ©pkÃ³vÃ¡csgyÃ¶p
+KÃ¶zÃ©pmÃ¡j
+KÃ¶zÃ©pmajor
+KÃ¶zÃ©pmalom
+KÃ¶zÃ©pmarosd
+KÃ¶zÃ©p-mezÅ‘
+KÃ¶zÃ©pmezÅ‘tanya
+KÃ¶zÃ©pnyÃ­res
+KÃ¶zÃ©pnyÃ­respuszta
+KÃ¶zÃ©pnyirvÃ¡rmajor
+KÃ¶zÃ©p-Ã“dÃ¡ny
+KÃ¶zÃ©ppeszÃ©r
+KÃ¶zÃ©ppuszta
+KÅ‘zÃ©p RÃ©pÃ¡s-major
+KÃ¶zÃ©prÃ©t
+KÃ¶zÃ©prigÃ³c
+KÃ¶zÃ©psÅ‘csÃ©r
+KÃ¶zÃ©psÅ‘csesztapuszta
+KÃ¶zÃ©psÅ‘dÅ±lÅ‘
+KÃ¶zÃ©psÅ‘-Hajag-hegy
+KÃ¶zÃ©psÅ‘-Hajag
+KÃ¶zÃ©psÅ‘ Hegy
+KÃ¶zÃ©psÅ‘ HorvÃ¡thmalom
+KÃ¶zÃ©psÅ‘jÃ¡rÃ¡s
+KÃ¶zÃ©psÅ‘malom
+KÃ¶zÃ©psÅ‘nyomÃ¡s
+KÃ¶zÃ©psÅ‘-patak
+KÃ¶zÃ©psÅ‘tanya
+KÃ¶zÃ©psÅ‘vasdinnyepuszta
+KÃ¶zÃ©pszÃ¡llÃ¡s
+KÃ¶zÃ©pszentamÃ¡s
+KÃ¶zÃ©pszentivÃ¡n
+KÃ¶zÃ©pszentivÃ¡npuszta
+KÃ¶zÃ©pszenttamÃ¡s
+KÃ¶zÃ©pszigeti TanyÃ¡k
+KÃ¶zÃ©pszolgaegyhÃ¡za
+KÃ¶zÃ©pszÃ³r
+KÃ¶zÃ©ptabÃ³d
+KÃ¶zÃ©ptanyÃ¡k
+KÃ¶zÃ©ptanya
+KÃ¶zÃ©pvasdinnyepuszta
+KÃ¶zÃ©pzok
 Kozlikmajor
 Kozliktanya
 Kozmadombja
-Kozma-dûlõ
-Kozmadûlõ
+Kozma-dÅ±lÅ‘
+KozmadÅ±lÅ‘
 Kozmafa
-Kozmagyümölcs
-Kozmagyümölcsös
+KozmagyÃ¼mÃ¶lcs
+KozmagyÃ¼mÃ¶lcsÃ¶s
 Kozma
 Kozmaolaszfa
 Kozmapuszta
-Kozmáritanya
+KozmÃ¡ritanya
 Kozma-tag
 Kozma-tanya
 Kozmatanya
-Közös-fõcsatorna
-Közös
-Közöspuszta
-Közöstanya
-Központi Bánya-telep
-Központimajor
-Központitanya
-Községi Erdõ
-Községi Puszta
-Községi Szõllõk
-Községi Szõlõk
-Községi Tanya
-Községkert
-Község Sor
-Kõzúzótelep
-Közvágóhíd
+KÃ¶zÃ¶s-fÅ‘csatorna
+KÃ¶zÃ¶s
+KÃ¶zÃ¶spuszta
+KÃ¶zÃ¶stanya
+KÃ¶zponti BÃ¡nya-telep
+KÃ¶zpontimajor
+KÃ¶zpontitanya
+KÃ¶zsÃ©gi ErdÅ‘
+KÃ¶zsÃ©gi Puszta
+KÃ¶zsÃ©gi SzÅ‘llÅ‘k
+KÃ¶zsÃ©gi SzÅ‘lÅ‘k
+KÃ¶zsÃ©gi Tanya
+KÃ¶zsÃ©gkert
+KÃ¶zsÃ©g Sor
+KÅ‘zÃºzÃ³telep
+KÃ¶zvÃ¡gÃ³hÃ­d
 Kra2mer-tanya
-Krájapuszta
-Krakkó
-Krakkópuszta
-Krakkó-völgy
-Krakó-csatorna
+KrÃ¡japuszta
+KrakkÃ³
+KrakkÃ³puszta
+KrakkÃ³-vÃ¶lgy
+KrakÃ³-csatorna
 Krasna
 Kraszna-csatorna
 Kraszna
 Krasznokvajda
-Krázsovicspuszta
-Krekácsdûlõ
-Krémertag
+KrÃ¡zsovicspuszta
+KrekÃ¡csdÅ±lÅ‘
+KrÃ©mertag
 Kremsbergermalom
-Krezsák-hegy
+KrezsÃ¡k-hegy
 Kriksztanya
 Kriskitanya
-Kristóf-dûlõ
-Kristófhalom
-Kristófkert
-Kriston Endréné-tanya
-Kristontanyák
+KristÃ³f-dÅ±lÅ‘
+KristÃ³fhalom
+KristÃ³fkert
+Kriston EndrÃ©nÃ©-tanya
+KristontanyÃ¡k
 Kristontanya
 Krisztinamajor
 Krisztinazug
-Kriváchypuszta
-Krizsán
-Krizsánszõllõk
+KrivÃ¡chypuszta
+KrizsÃ¡n
+KrizsÃ¡nszÅ‘llÅ‘k
 Kroisbach
 Krucsatanya
 Krucsatelep
 Krumplistanya
 Krusevlya
-Krypton-gyár
+Krypton-gyÃ¡r
 Kryptontelep
 Kuba-hegy
-Kübekháza
+KÃ¼bekhÃ¡za
 Kubiktanya
 Kubinyitag
 Kubinyi-tanya
 Kubinyitanya
 Kubovicstanya
-Kuccótanya
-Kuckótanya
-Kucorioldaldûlõ
+KuccÃ³tanya
+KuckÃ³tanya
+KucorioldaldÅ±lÅ‘
 Kucserkatanya
-Kuczkótanya
+KuczkÃ³tanya
 Kudelatanya
-Kuhárek
-Kujándûlõ
-Kukacos-tó
+KuhÃ¡rek
+KujÃ¡ndÅ±lÅ‘
+Kukacos-tÃ³
 Kukli-hegy
-Kukoricaföld
-Kukoricaháttanya
+KukoricafÃ¶ld
+KukoricahÃ¡ttanya
 Kukucsamajor
 Kukuk
 Kukulamajor
 Kukullamajor
-Kukulló
-Küküllõtanya
+KukullÃ³
+KÃ¼kÃ¼llÅ‘tanya
 Kukutyinmajor
 Kulapuszta
-Külbogyiszló
-Kulcsármajor
-Kulcsár-puszta
-Kulcsártanya
-Kulcsár-völgyi-patak
-Kulcsár-völgy
+KÃ¼lbogyiszlÃ³
+KulcsÃ¡rmajor
+KulcsÃ¡r-puszta
+KulcsÃ¡rtanya
+KulcsÃ¡r-vÃ¶lgyi-patak
+KulcsÃ¡r-vÃ¶lgy
 Kulcs
 Kulcspuszta
-Kuldó
-Külfürgedi-rész
-Külfürged
+KuldÃ³
+KÃ¼lfÃ¼rgedi-rÃ©sz
+KÃ¼lfÃ¼rged
 Kuliktanya
 Kulintanya
 Kulistanya
-Kül-Karasz
-Kullancskút-Dûlõk
-Kullancskút
-Kullér
-Küllüstanya
-Külmajori Tanya
-Külmajor
-Külsõakol
-Külsõballószög
-Külsõbáránd
-Külsõ-Béda
-Külsõberek-hegy
-Külsõbõcs
-Külsõcsongráddûlõ
-Külsõ Csongrád
-Külsõcsorna
-Külso-dalla-puszta
-Külsõdûlõ
-Külsõecser
-Külsõerzsébet
-Külsõerzsébettanya
-Külsõfeckéspuszta
-Külsõ-Fecskési Kerület
-Külsõfecskéspuszta
-Külsõ-föld
-Külsõgyács
-Külsõgyepi Tanya
-Külsõ-gyep
-Külsõhatvan
-Külsõhegy
-Külsõ Hegy
-Külsõiszap
-Külsõjárandó
-Külsõjárás
-Külsõjegestelep
-Külsõkajtor
-Külsõkisperkátapuszta
-Külsõlajtamajor
-Külsõmajor
-Külsõmántelek
-Külsõ Mezeitanyák
-Külsõmezõ
-Külsõnaplásdûlõ
-Külsõnyír
-Külsõohat
-Külsõpötöllepuszta
-Külsõpusztadalla
-Külsõrétdûlõ
-Külsõsáp
-Külsõsárd
-Külsõsári
-Külsõsáripuszta
-Külsõ-Somogy
-Külsõszakáldûlõ
-Külsõszakál
-Külsõszentgyörgy
-Külsõszõllõhegy
-Külsõszõlõhegy
-Külsõszúnyog
-Külsõtanyák
-Külsõtanya
-Külsõtelep
-Külsõtükrös
-Külsõ Új Sor
-Külsõ-Üsti-hegy
-Külsõvat
-Külvölgyipuszta
+KÃ¼l-Karasz
+KullancskÃºt-DÅ±lÅ‘k
+KullancskÃºt
+KullÃ©r
+KÃ¼llÃ¼stanya
+KÃ¼lmajori Tanya
+KÃ¼lmajor
+KÃ¼lsÅ‘akol
+KÃ¼lsÅ‘ballÃ³szÃ¶g
+KÃ¼lsÅ‘bÃ¡rÃ¡nd
+KÃ¼lsÅ‘-BÃ©da
+KÃ¼lsÅ‘berek-hegy
+KÃ¼lsÅ‘bÅ‘cs
+KÃ¼lsÅ‘csongrÃ¡ddÅ±lÅ‘
+KÃ¼lsÅ‘ CsongrÃ¡d
+KÃ¼lsÅ‘csorna
+KÃ¼lso-dalla-puszta
+KÃ¼lsÅ‘dÅ±lÅ‘
+KÃ¼lsÅ‘ecser
+KÃ¼lsÅ‘erzsÃ©bet
+KÃ¼lsÅ‘erzsÃ©bettanya
+KÃ¼lsÅ‘feckÃ©spuszta
+KÃ¼lsÅ‘-FecskÃ©si KerÃ¼let
+KÃ¼lsÅ‘fecskÃ©spuszta
+KÃ¼lsÅ‘-fÃ¶ld
+KÃ¼lsÅ‘gyÃ¡cs
+KÃ¼lsÅ‘gyepi Tanya
+KÃ¼lsÅ‘-gyep
+KÃ¼lsÅ‘hatvan
+KÃ¼lsÅ‘hegy
+KÃ¼lsÅ‘ Hegy
+KÃ¼lsÅ‘iszap
+KÃ¼lsÅ‘jÃ¡randÃ³
+KÃ¼lsÅ‘jÃ¡rÃ¡s
+KÃ¼lsÅ‘jegestelep
+KÃ¼lsÅ‘kajtor
+KÃ¼lsÅ‘kisperkÃ¡tapuszta
+KÃ¼lsÅ‘lajtamajor
+KÃ¼lsÅ‘major
+KÃ¼lsÅ‘mÃ¡ntelek
+KÃ¼lsÅ‘ MezeitanyÃ¡k
+KÃ¼lsÅ‘mezÅ‘
+KÃ¼lsÅ‘naplÃ¡sdÅ±lÅ‘
+KÃ¼lsÅ‘nyÃ­r
+KÃ¼lsÅ‘ohat
+KÃ¼lsÅ‘pÃ¶tÃ¶llepuszta
+KÃ¼lsÅ‘pusztadalla
+KÃ¼lsÅ‘rÃ©tdÅ±lÅ‘
+KÃ¼lsÅ‘sÃ¡p
+KÃ¼lsÅ‘sÃ¡rd
+KÃ¼lsÅ‘sÃ¡ri
+KÃ¼lsÅ‘sÃ¡ripuszta
+KÃ¼lsÅ‘-Somogy
+KÃ¼lsÅ‘szakÃ¡ldÅ±lÅ‘
+KÃ¼lsÅ‘szakÃ¡l
+KÃ¼lsÅ‘szentgyÃ¶rgy
+KÃ¼lsÅ‘szÅ‘llÅ‘hegy
+KÃ¼lsÅ‘szÅ‘lÅ‘hegy
+KÃ¼lsÅ‘szÃºnyog
+KÃ¼lsÅ‘tanyÃ¡k
+KÃ¼lsÅ‘tanya
+KÃ¼lsÅ‘telep
+KÃ¼lsÅ‘tÃ¼krÃ¶s
+KÃ¼lsÅ‘ Ãšj Sor
+KÃ¼lsÅ‘-Ãœsti-hegy
+KÃ¼lsÅ‘vat
+KÃ¼lvÃ¶lgyipuszta
 Kunadacs
-Kunadûlõ
-Kunágasegyháza
-Kunágotai Tanyák
-Kunágota
+KunadÅ±lÅ‘
+KunÃ¡gasegyhÃ¡za
+KunÃ¡gotai TanyÃ¡k
+KunÃ¡gota
 Kunbaja
 Kunbajapuszta
 Kunbaracs
 Kuncsorba
-Kundlerszõllõ
-Kunérdûlõ
-Kunér
-Kun-Fehér-tó
-Kunfehértó
-Küngös
-Kungyalu Alsó
+KundlerszÅ‘llÅ‘
+KunÃ©rdÅ±lÅ‘
+KunÃ©r
+Kun-FehÃ©r-tÃ³
+KunfehÃ©rtÃ³
+KÃ¼ngÃ¶s
+Kungyalu AlsÃ³
 Kungyalu
-Kungyócs
-Kun György-tanya
-Kun György-tó
+KungyÃ³cs
+Kun GyÃ¶rgy-tanya
+Kun GyÃ¶rgy-tÃ³
 Kunhalmi Major
 Kunhalom
 Kunhegyes
-Kunkápolnás
-Kunképdûlõ
+KunkÃ¡polnÃ¡s
+KunkÃ©pdÅ±lÅ‘
 Kunlapos
 Kunlapostanya
-Kunlegelõ
+KunlegelÅ‘
 Kunmadaras
-Kunpárdûlõ
-Kunpeszér
+KunpÃ¡rdÅ±lÅ‘
+KunpeszÃ©r
 Kunpuszta
-Kunszállás
-Kunszékidûlõ
-Kunszéki Tanya
-Kunszentmárton-Érpart
-Kunszentmárton
-Kunszentmiklós
-Kunszentmiklós-Tass
+KunszÃ¡llÃ¡s
+KunszÃ©kidÅ±lÅ‘
+KunszÃ©ki Tanya
+KunszentmÃ¡rton-Ã‰rpart
+KunszentmÃ¡rton
+KunszentmiklÃ³s
+KunszentmiklÃ³s-Tass
 Kunsziget
 Kun-tag
 Kuntanya
 Kuntelep
-Kunülés
-Kupai-kovács Major
+KunÃ¼lÃ©s
+Kupai-kovÃ¡cs Major
 Kupa
 Kupa-puszta
 Kupapuszta
 Kup
-Kuranó
-Kurázsi Szõllõ
-Kurázsiszõlõ
-Kurázs
-Kurázsszõllõ
-Kurca-dûlõ
+KuranÃ³
+KurÃ¡zsi SzÅ‘llÅ‘
+KurÃ¡zsiszÅ‘lÅ‘
+KurÃ¡zs
+KurÃ¡zsszÅ‘llÅ‘
+Kurca-dÅ±lÅ‘
 Kurca
 Kurca-oldal
-Kurca-rét
+Kurca-rÃ©t
 Kurconmajor
-Kurcori-folyás
+Kurcori-folyÃ¡s
 Kurcza
 Kurczonmajor
-Kurd-Csibrák
+Kurd-CsibrÃ¡k
 Kurd
-Kúriadûlõ
-Kuriák-dûlõ
-Kuriákdûlõ
-Kúriák
-Kúria
-Kúriaszõllõ
-Kúriaszõlõ
-Kuripintyó
-Kurityán
-Kurjákdûlõ
+KÃºriadÅ±lÅ‘
+KuriÃ¡k-dÅ±lÅ‘
+KuriÃ¡kdÅ±lÅ‘
+KÃºriÃ¡k
+KÃºria
+KÃºriaszÅ‘llÅ‘
+KÃºriaszÅ‘lÅ‘
+KuripintyÃ³
+KurityÃ¡n
+KurjÃ¡kdÅ±lÅ‘
 Kurjamajor
-Kurjantó
-Kurjantópuszta
+KurjantÃ³
+KurjantÃ³puszta
 Kurjapuszta
-Kurtadûlõ
+KurtadÅ±lÅ‘
 Kurtamajor
-Kurtanána Hegy
+KurtanÃ¡na Hegy
 Kurta
 Kurtapuszta
-Kurta-tó
-Kürtilaposdûlõ
-Kürtilapos
-Kürti-völgy
-Kürtöshegy
-Kürtös
-Kürtös-patak
-Kürtöspuszta
-Kuruc-bérc
+Kurta-tÃ³
+KÃ¼rtilaposdÅ±lÅ‘
+KÃ¼rtilapos
+KÃ¼rti-vÃ¶lgy
+KÃ¼rtÃ¶shegy
+KÃ¼rtÃ¶s
+KÃ¼rtÃ¶s-patak
+KÃ¼rtÃ¶spuszta
+Kuruc-bÃ©rc
 Kuruchalom
 Kuruckereszttelep
 Kurucmajor
@@ -12478,148 +12478,148 @@ Kuructanya
 Kurucz Halom
 Kuruczmajor
 Kurucztanya
-Kuruttyoló
+KuruttyolÃ³
 Kurzhegy
 Kusnyamajor
-Kustánszeg Hegy
-Kustánszeg
-Kustány
-Kustyán-hegy
-Kustyán
-Kustyánpuszta
-Küszler
-Küszöb Orra
-Kusztusidûlõ
+KustÃ¡nszeg Hegy
+KustÃ¡nszeg
+KustÃ¡ny
+KustyÃ¡n-hegy
+KustyÃ¡n
+KustyÃ¡npuszta
+KÃ¼szler
+KÃ¼szÃ¶b Orra
+KusztusidÅ±lÅ‘
 Kusztus
-Kútágapuszta
-Kútágasdûlõ
-Kútágas
+KÃºtÃ¡gapuszta
+KÃºtÃ¡gasdÅ±lÅ‘
+KÃºtÃ¡gas
 Kutas Csatorna
-Kutasdûlõ
-Kutaserdõ
-Kutas Erdõõrház
-Kutas-fõcsatorna
-Kutasi Erdõõrház
+KutasdÅ±lÅ‘
+KutaserdÅ‘
+Kutas ErdÅ‘Å‘rhÃ¡z
+Kutas-fÅ‘csatorna
+Kutasi ErdÅ‘Å‘rhÃ¡z
 Kutaskozma
 Kutas-major
 Kutas
-Kutasó
+KutasÃ³
 Kutaspuszta
 Kutastorok
-Kút-berek
-Kutberek-õrház
-Kútberekpuszta
-Kútdûlõ
-Kútéri
-Kútfeji Hegy
-Kútfej
-Kútfejpuszta
-Kútfõoldalitanya
-Kútfõ-oldal
-Kútfõpuszta
-Kúthalom
-Kútidûlõ
+KÃºt-berek
+Kutberek-Å‘rhÃ¡z
+KÃºtberekpuszta
+KÃºtdÅ±lÅ‘
+KÃºtÃ©ri
+KÃºtfeji Hegy
+KÃºtfej
+KÃºtfejpuszta
+KÃºtfÅ‘oldalitanya
+KÃºtfÅ‘-oldal
+KÃºtfÅ‘puszta
+KÃºthalom
+KÃºtidÅ±lÅ‘
 Kuti
-Kúti
-Kútjárás
-Kútlaposdûlõ
-Kútlapos
-Kútlapostanya
-Kútos
+KÃºti
+KÃºtjÃ¡rÃ¡s
+KÃºtlaposdÅ±lÅ‘
+KÃºtlapos
+KÃºtlapostanya
+KÃºtos
 Kutospuszta
 Kutostanya
-Kútpatka
-Kútrét
-Kút-sebes
-Kütteltanya
-Kútvölgydûlõ
-Kút-völgyi-dûlõ
-Kútvölgyidûlõ
-Kútvölgyi Gyógyintézet
-Kútvölgyi Szekérdûlõ
-Kútvölgyitanya
-Kútvölgy-Kakasszéki-csatorna
-Kút-völgy
-Kútvölgy
-Kútvölgyszekér
-Kútvölgy-szék
-Kutyabontdûlõ
-Kutyabonti Dûlõ
-Kutyabonti Tanyák
-Kutya-hát
-Kutyahegyidûlõ
+KÃºtpatka
+KÃºtrÃ©t
+KÃºt-sebes
+KÃ¼tteltanya
+KÃºtvÃ¶lgydÅ±lÅ‘
+KÃºt-vÃ¶lgyi-dÅ±lÅ‘
+KÃºtvÃ¶lgyidÅ±lÅ‘
+KÃºtvÃ¶lgyi GyÃ³gyintÃ©zet
+KÃºtvÃ¶lgyi SzekÃ©rdÅ±lÅ‘
+KÃºtvÃ¶lgyitanya
+KÃºtvÃ¶lgy-KakasszÃ©ki-csatorna
+KÃºt-vÃ¶lgy
+KÃºtvÃ¶lgy
+KÃºtvÃ¶lgyszekÃ©r
+KÃºtvÃ¶lgy-szÃ©k
+KutyabontdÅ±lÅ‘
+Kutyabonti DÅ±lÅ‘
+Kutyabonti TanyÃ¡k
+Kutya-hÃ¡t
+KutyahegyidÅ±lÅ‘
 Kutya-hegy
 Kutyahegy
-Kutyánszki
-Kutyor és Danlos
+KutyÃ¡nszki
+Kutyor Ã©s Danlos
 Kutyor
-Kûvölgyi Folyás
-Küzdés Hegy
-Küzdés
+KÅ±vÃ¶lgyi FolyÃ¡s
+KÃ¼zdÃ©s Hegy
+KÃ¼zdÃ©s
 Kvassaytelep
-Lábadozó
-Lábadozótanya
+LÃ¡badozÃ³
+LÃ¡badozÃ³tanya
 Labanctanya
-Lábasmalom
-Lábatlan
-Lábdi
-Lábodi-Rinya
-Lábod
-Lábos-tanya
-Lácacséke
-Lácaitanya
-Láca
+LÃ¡basmalom
+LÃ¡batlan
+LÃ¡bdi
+LÃ¡bodi-Rinya
+LÃ¡bod
+LÃ¡bos-tanya
+LÃ¡cacsÃ©ke
+LÃ¡caitanya
+LÃ¡ca
 Lacaytanya
 Lacimajor
 Lacipuszta
 Laci-sziget
 Lacitanya
 Lacitelek
-Lackó-halom
+LackÃ³-halom
 Laczitanya
-Láda-homok
-Ladánybene
-Ladányigyümölcsös
-Ladányiürbõ
-Ladány
-Ladány-völgy
-Ládbesenyõ
-Ládháza
+LÃ¡da-homok
+LadÃ¡nybene
+LadÃ¡nyigyÃ¼mÃ¶lcsÃ¶s
+LadÃ¡nyiÃ¼rbÅ‘
+LadÃ¡ny
+LadÃ¡ny-vÃ¶lgy
+LÃ¡dbesenyÅ‘
+LÃ¡dhÃ¡za
 Lad
-Ladomány
+LadomÃ¡ny
 Lafnitz
-Lágymányos
-Lajerházidûlõ
-Lajmér
-Lajmértanya
+LÃ¡gymÃ¡nyos
+LajerhÃ¡zidÅ±lÅ‘
+LajmÃ©r
+LajmÃ©rtanya
 Lajos Bertalan-tanya
 Lajosfapuszta
 Lajoshalom
-Lajosháza
-Lajosházapuszta
-Lajosházimajor
-Lajosházipuszta
-Lajoskomárom
+LajoshÃ¡za
+LajoshÃ¡zapuszta
+LajoshÃ¡zimajor
+LajoshÃ¡zipuszta
+LajoskomÃ¡rom
 Lajosmajor
-Lajosmizse Alsó
+Lajosmizse AlsÃ³
 Lajosmizse
 Lajos-patak
 Lajospuszta
-Lajosszállás
-Lajosszénási Tanyák
-Lajosszénás
+LajosszÃ¡llÃ¡s
+LajosszÃ©nÃ¡si TanyÃ¡k
+LajosszÃ©nÃ¡s
 Lajos-tanya
 Lajostanya
 Lajostelep
-Lajos-tó
+Lajos-tÃ³
 Lajszka
 Lajszk
 Lajta Csatorna
 Lajta
-Lajvér-csatorna
-Lajvér
-Lajvér-patak
-Lajvérpuszta
+LajvÃ©r-csatorna
+LajvÃ©r
+LajvÃ©r-patak
+LajvÃ©rpuszta
 Lakatmajor
 Lakatosbokor
 Lakatos F.-tanya
@@ -12627,7 +12627,7 @@ Lakatosmajor
 Lakatosmalom
 Lakatos-tanya
 Lakatostanya
-Lakdûlõ
+LakdÅ±lÅ‘
 Lakhalom
 Lakhegy
 Lakihegy
@@ -12636,266 +12636,266 @@ Lakipuszta
 Lakitelek
 Laknertanya
 Lak
-Lakócsa
-Lakótanya
+LakÃ³csa
+LakÃ³tanya
 Laktanya
 Lamos
-Lamos Tó
-Lampartgyár
+Lamos TÃ³
+LampartgyÃ¡r
 Lampartmajor
-Lámpásvölgy
+LÃ¡mpÃ¡svÃ¶lgy
 Lampertmajor
-Láncitanya
-Lánci-Übõ
-Lánczi-tanya
+LÃ¡ncitanya
+LÃ¡nci-ÃœbÅ‘
+LÃ¡nczi-tanya
 Landesmanntelep
 Landitanya
-Landler Jenõ Jármûjavító
+Landler JenÅ‘ JÃ¡rmÅ±javÃ­tÃ³
 Landord
 Landordpuszta
-Lándorhegy
-Lándzsás
-Lángmajor
-Lángos Hegy
-Lángtanya
+LÃ¡ndorhegy
+LÃ¡ndzsÃ¡s
+LÃ¡ngmajor
+LÃ¡ngos Hegy
+LÃ¡ngtanya
 Lankakert
 Lanka
-Lánka
-Lánka-patak
-Lánkapuszta
-Lanka Tetõ
-Lankócpuszta
+LÃ¡nka
+LÃ¡nka-patak
+LÃ¡nkapuszta
+Lanka TetÅ‘
+LankÃ³cpuszta
 Lantostanya
-Lánya
-Lánycsók
-Lápafõ
-Lápai Hegy
-Lapálydûlõ
-Lapáncsa
-Lapánymajor
-Lapány
-Lapány Puszta
+LÃ¡nya
+LÃ¡nycsÃ³k
+LÃ¡pafÅ‘
+LÃ¡pai Hegy
+LapÃ¡lydÅ±lÅ‘
+LapÃ¡ncsa
+LapÃ¡nymajor
+LapÃ¡ny
+LapÃ¡ny Puszta
 Lapapuszta
-Lapásdpuszta
-Lápastódûlõ
-Lápastóhegy
-Lapatári Malom
-Lápi Csatorna
-Lápi-fõcsatorna
+LapÃ¡sdpuszta
+LÃ¡pastÃ³dÅ±lÅ‘
+LÃ¡pastÃ³hegy
+LapatÃ¡ri Malom
+LÃ¡pi Csatorna
+LÃ¡pi-fÅ‘csatorna
 Lapin-csatorna
 Lapincs
 Lapincs-patak
-Lapistó
-Lápitanyák
-Lápló
-Láp
+LapistÃ³
+LÃ¡pitanyÃ¡k
+LÃ¡plÃ³
+LÃ¡p
 Lapocka
-Láp-oldal
+LÃ¡p-oldal
 Laponyag
 Laposcser
 Laposcserpuszta
-Lapos-dûlõ
-Laposdûlõ
+Lapos-dÅ±lÅ‘
+LaposdÅ±lÅ‘
 Laposhad
 Laposhalmi-tanya
 Lapos-halom
 Laposhalom
 Laposhegy
-Laposidûlõ
-Laposiföldek
-Laposiszõllõ
+LaposidÅ±lÅ‘
+LaposifÃ¶ldek
+LaposiszÅ‘llÅ‘
 Lapositanya
-Lapos-mezõ
-Laposmezõ
+Lapos-mezÅ‘
+LaposmezÅ‘
 Lapos
-Lápos
-Laposokerdõ
+LÃ¡pos
+LaposokerdÅ‘
 Laposok
-Laposrét
+LaposrÃ©t
 Lapos-szeg
-Laposszõllõ
+LaposszÅ‘llÅ‘
 Lapostanya
 Lapos-telek
-Lápostói Szõlõk
-Lapos-tó
+LÃ¡postÃ³i SzÅ‘lÅ‘k
+Lapos-tÃ³
 Lappanpuszta
 Lapseny
-Láró Lapos
-Láró
-Lárótanya
+LÃ¡rÃ³ Lapos
+LÃ¡rÃ³
+LÃ¡rÃ³tanya
 Laskod
-Laskó
-Laskó-patak
+LaskÃ³
+LaskÃ³-patak
 Lassi
-Laszipdûlõ
-Lászipuszta
-Lászitanya
-Laszkástanya
-Lászlófalva
-Lászlóföldimajor
-Lászlóháza
-Lászlókert
-Lászlómajor
-Lászlómalom
-Lászlópuszta
-Lászlótag
-Lászlótanya
-Lászlótelek-major
-Lászlótelek
-Lászlótelep
-Lászlóvölgy
-Lászlóvölgypuszta
+LaszipdÅ±lÅ‘
+LÃ¡szipuszta
+LÃ¡szitanya
+LaszkÃ¡stanya
+LÃ¡szlÃ³falva
+LÃ¡szlÃ³fÃ¶ldimajor
+LÃ¡szlÃ³hÃ¡za
+LÃ¡szlÃ³kert
+LÃ¡szlÃ³major
+LÃ¡szlÃ³malom
+LÃ¡szlÃ³puszta
+LÃ¡szlÃ³tag
+LÃ¡szlÃ³tanya
+LÃ¡szlÃ³telek-major
+LÃ¡szlÃ³telek
+LÃ¡szlÃ³telep
+LÃ¡szlÃ³vÃ¶lgy
+LÃ¡szlÃ³vÃ¶lgypuszta
 Lasztonya
 Lasztonyatag
-Látó-halom
-Látó-hegy
-Látóhegy
-Látó Hegy
-Látókép
-Látókõ
+LÃ¡tÃ³-halom
+LÃ¡tÃ³-hegy
+LÃ¡tÃ³hegy
+LÃ¡tÃ³ Hegy
+LÃ¡tÃ³kÃ©p
+LÃ¡tÃ³kÅ‘
 Lator-patak
 Latortanya
-Lator Út
-Latránpuszta
-Latrán-tanya
-Látrány
-Látymányosdûlõ
+Lator Ãšt
+LatrÃ¡npuszta
+LatrÃ¡n-tanya
+LÃ¡trÃ¡ny
+LÃ¡tymÃ¡nyosdÅ±lÅ‘
 Laubtanya
 Lauertanya
-Laufercsárda
+LaufercsÃ¡rda
 Lavaszi
-Lázár-tó
-Láz-bérci-víztároló
-Lázi
-Lázlópuszta
+LÃ¡zÃ¡r-tÃ³
+LÃ¡z-bÃ©rci-vÃ­ztÃ¡rolÃ³
+LÃ¡zi
+LÃ¡zlÃ³puszta
 Lazonyapuszta
 Lazsnakpuszta
-Leányágtanya
-Leányfalumalom
-Leányfalu
-Leányfalutanya
-Leányka-ér
-Leányvágó
-Leányvár-Csév
-Leányvár
-Lébényi Tanyák
-Lébénymiklós
-Lébény-Mosonszentmiklós
-Lébény
-Lebõ-halom
-Lebótag
-Lebótanya
+LeÃ¡nyÃ¡gtanya
+LeÃ¡nyfalumalom
+LeÃ¡nyfalu
+LeÃ¡nyfalutanya
+LeÃ¡nyka-Ã©r
+LeÃ¡nyvÃ¡gÃ³
+LeÃ¡nyvÃ¡r-CsÃ©v
+LeÃ¡nyvÃ¡r
+LÃ©bÃ©nyi TanyÃ¡k
+LÃ©bÃ©nymiklÃ³s
+LÃ©bÃ©ny-MosonszentmiklÃ³s
+LÃ©bÃ©ny
+LebÅ‘-halom
+LebÃ³tag
+LebÃ³tanya
 Lebuj Halom
 Lebuj
 Lebujtanya
-Lebújtanya
-Lebuki Csárda
+LebÃºjtanya
+Lebuki CsÃ¡rda
 Lebuki
 Lebukipuszta
-Lebukirész
+LebukirÃ©sz
 Leceitanya
 Lece
 Ledava
-Lédigtanya
-Ledinadûlõ
-Ledmadûlõ
+LÃ©digtanya
+LedinadÅ±lÅ‘
+LedmadÅ±lÅ‘
 Ledneckipuszta
 Ledneczkipuszta
-Legelõ-dûlõ
-Legelõdûlõ
-Legelõrét
-Legelõszél
-Legénd
-Legénytanya
-Légrádimajor
-Légrádi Út
-Legyesbénye
+LegelÅ‘-dÅ±lÅ‘
+LegelÅ‘dÅ±lÅ‘
+LegelÅ‘rÃ©t
+LegelÅ‘szÃ©l
+LegÃ©nd
+LegÃ©nytanya
+LÃ©grÃ¡dimajor
+LÃ©grÃ¡di Ãšt
+LegyesbÃ©nye
 Legyestanya
-Lehegõdûlõ
-Lehegõ
-Léhej
-Léhértihegy
+LehegÅ‘dÅ±lÅ‘
+LehegÅ‘
+LÃ©hej
+LÃ©hÃ©rtihegy
 Lehnerpuszta
-Léh
-Lehõc-malát
-Lehótanya
+LÃ©h
+LehÅ‘c-malÃ¡t
+LehÃ³tanya
 Leichttanya
 Leidenfrostmajor
 Leitha Kanal
 Leitha
-Leitnerföld
+LeitnerfÃ¶ld
 Leitnertanya
-Lejtõ
-Lejtõsi-dûlõ
-Lejtõtanya
+LejtÅ‘
+LejtÅ‘si-dÅ±lÅ‘
+LejtÅ‘tanya
 Leke-halom
 Lelbachpuszta
 Leledhidi Puszta
-Lelédhíd
+LelÃ©dhÃ­d
 Leleszi-patak
 Leleszi-Tarna
 Lempegtanya
-Lénárddaróc
-Lénárthtanya
-Lénárttanya
+LÃ©nÃ¡rddarÃ³c
+LÃ©nÃ¡rthtanya
+LÃ©nÃ¡rttanya
 Lencipuszta
 Lencse-hegy
 Lencsen
 Lencsenpuszta
-Lencsésdûlõ
-Lencsés-halom
-Lencsés
-Lencséstanya
-Lencsésvilágos
-Lencse-tetõ
+LencsÃ©sdÅ±lÅ‘
+LencsÃ©s-halom
+LencsÃ©s
+LencsÃ©stanya
+LencsÃ©svilÃ¡gos
+Lencse-tetÅ‘
 Lenczipuszta
 Lencztanya
 Lendava
-Lendérdûlõ
+LendÃ©rdÅ±lÅ‘
 Lendvadedes
-Lendvai-Kecskés
+Lendvai-KecskÃ©s
 Lendvajakabfa
-Lendvakecskés
+LendvakecskÃ©s
 Lendva
-Lendvaújfalu
-Leneserdõ
+LendvaÃºjfalu
+LeneserdÅ‘
 Leneskert
 Lenes
-Lengenádasdûlõ
-Lengenádas
-Lengyár
+LengenÃ¡dasdÅ±lÅ‘
+LengenÃ¡das
+LengyÃ¡r
 Lengyelfalva
 Lengyel
 Lengyelpuszta
 Lengyeltag
 Lengyeltanya
-Lengyeltóti
+LengyeltÃ³ti
 Len-hegy
 Lenin-telep
-Leninváros
+LeninvÃ¡ros
 Lenkemajor
 Lentihegy
 Lenti Hegy
-Lentikápolnaimajor
-Lentikápolna
+LentikÃ¡polnaimajor
+LentikÃ¡polna
 Lenti
 Lentiszombathely
-Leokádiapuszta
-Leokádipuszta
+LeokÃ¡diapuszta
+LeokÃ¡dipuszta
 Lepence
 Lepence-patak
 Lepencepatak
 Leperd
 Leperdpuszta
-Lepõmalom
+LepÅ‘malom
 Lepotya
-Lepsény-domb
-Lepsény
+LepsÃ©ny-domb
+LepsÃ©ny
 Lesaljamajor
-Lesálló
-Lesállótanya
+LesÃ¡llÃ³
+LesÃ¡llÃ³tanya
 Lesencefalu
-Lesenceistvánd
+LesenceistvÃ¡nd
 Lesence
 Lesence-patak
 Lesencetomaj
@@ -12906,45 +12906,45 @@ Leshegy
 Les Hegy
 Lesialja
 Leski-halom
-Leskótanya
-Lesvárpuszta
-Leszürge-hegy
-Létai-ér
-Létapuszta
-Létavértes
+LeskÃ³tanya
+LesvÃ¡rpuszta
+LeszÃ¼rge-hegy
+LÃ©tai-Ã©r
+LÃ©tapuszta
+LÃ©tavÃ©rtes
 Letenyei Hegy
 Letenye
-Letkés
-Lévaidûlõ
-Lévaitanya
-Lévaytanya
-Levelekiföldek
+LetkÃ©s
+LÃ©vaidÅ±lÅ‘
+LÃ©vaitanya
+LÃ©vaytanya
+LevelekifÃ¶ldek
 Levelek-Magy
 Levelek
-Levelényimajor
-Levelény
+LevelÃ©nyimajor
+LevelÃ©ny
 Levelespuszta
 Levelestanya
-Levél
-Levélúti Tanyák
+LevÃ©l
+LevÃ©lÃºti TanyÃ¡k
 Leventehegy
 Levenyetanya
 Leves
 Lhjosmajor
 Libabokor
 Liba-hegy
-Libalegelõ
+LibalegelÅ‘
 Libatanya
-Libbentõitanya
+LibbentÅ‘itanya
 Libenica
 Libic-hegy
 Libickozma
 Lichtmanntanya
-Lickó-patak
-Lickópuszta
-Lickóvadamos
-Liczkóvadamos
-Liebner Alsómajor
+LickÃ³-patak
+LickÃ³puszta
+LickÃ³vadamos
+LiczkÃ³vadamos
+Liebner AlsÃ³major
 Liebnermajor
 Ligetfalva
 Ligeti Puszta
@@ -12956,349 +12956,349 @@ Liget
 Liget-patak
 Ligetpuszta
 Liget Sor
-Ligetszög
-Ligetszögtanya
-Ligettanyák
+LigetszÃ¶g
+LigetszÃ¶gtanya
+LigettanyÃ¡k
 Liget-tanya
 Ligettanya
 Ligettelep
-Liget Tócsa
+Liget TÃ³csa
 Lijosmajor
 Likacsdomb
 Likacsosdomb
 Likas-hegy
-Likas-kõ
-Likócs
-Likócspuszta
-Likócsszõllõ
-Likócsszõlõk
+Likas-kÅ‘
+LikÃ³cs
+LikÃ³cspuszta
+LikÃ³csszÅ‘llÅ‘
+LikÃ³csszÅ‘lÅ‘k
 Liliom-hegy
 Liliommajor
 Liliompuszta
-Lillafüred
+LillafÃ¼red
 Linahegy
-Linkai Rész
-Linkó
-Linkó-patak
+Linkai RÃ©sz
+LinkÃ³
+LinkÃ³-patak
 Lipan Hegy
-Lipárt
-Lipcsehát
-Lipcsei Hát
-Lipcseiháttelep
+LipÃ¡rt
+LipcsehÃ¡t
+Lipcsei HÃ¡t
+LipcseihÃ¡ttelep
 Lipina
 Lipini
-Lipócpuszta
-Lipóczilaposdûlõ
-Lipóczilapos
+LipÃ³cpuszta
+LipÃ³czilaposdÅ±lÅ‘
+LipÃ³czilapos
 Lipoldamajor
-Lipótfa
-Lipót-hát
-Lipót-hegy
-Lipótmajor
-Lipót
-Lipótpuszta
+LipÃ³tfa
+LipÃ³t-hÃ¡t
+LipÃ³t-hegy
+LipÃ³tmajor
+LipÃ³t
+LipÃ³tpuszta
 Lippapuszta
-Lippó
+LippÃ³
 Lipse
-Liptákföldek
-Lipták-tanya
+LiptÃ¡kfÃ¶ldek
+LiptÃ¡k-tanya
 Liptaytag
 Liptaytanya
-Liptód
-Liptódpuszta
+LiptÃ³d
+LiptÃ³dpuszta
 Lispe
-Lispeszentadorján
+LispeszentadorjÃ¡n
 Liszkaitanya
 Liszkaytanya
-Liszkómalom
-Liszkó
-Liszkópuszta
-Liszói Szõllõ-hegy
-Liszó
+LiszkÃ³malom
+LiszkÃ³
+LiszkÃ³puszta
+LiszÃ³i SzÅ‘llÅ‘-hegy
+LiszÃ³
 Lisztes
-Litér
+LitÃ©r
 Litka
 Litke
 Little Alfold
 Little Danube River
 Little Hungarian Plain
 Little Plain
-Lityók-cigánytelep
-Lityók
+LityÃ³k-cigÃ¡nytelep
+LityÃ³k
 Livadapuszta
-Líviai-és Cikolai-halastavak
-Líviai-halastavak
-Líviamajor
-Líviapuszta
+LÃ­viai-Ã©s Cikolai-halastavak
+LÃ­viai-halastavak
+LÃ­viamajor
+LÃ­viapuszta
 Livinca-hegy
 Livinca
 Livoda
 Livodapuszta
-Lizáktanya
+LizÃ¡ktanya
 Lobbmajor
 Lobb
 Lobkovitztanya
 Loboclitanya
-Lõbör-szeg
-Lócibokor
-Lõcseszõllõtelep
-Lócs
+LÅ‘bÃ¶r-szeg
+LÃ³cibokor
+LÅ‘cseszÅ‘llÅ‘telep
+LÃ³cs
 Locsod
-Lóczibokor
-Lóditag
-Lõdmajor
-Lódombpuszta
-Lodri Tó
-Lófartanya
-Lófej-hegy
-Lõffler-major
-Löfflermalom
-Löfflertanya
-Lófõ
-Lógó-kert
-Ló-hegyi-patak
-Ló-hegy
-Lóhegy
-Lóhegy-patak
-Lóhegypuszta
-Lóherésdûlõ
-Lóherés
-Lóhullás
-Lóhullás-tetõ
-Lójatanya
-Lóka
-Lök Bérc
-Lókerti Tanyák
-Lókert
-Lóki-patak
-Lökösháza
-Lõkösháza
-Lökösihatár
-Lökösi Tanyák
-Lókos
-Lókos-patak
-Lókostelep
-Lókpuszta
-Lókút
+LÃ³czibokor
+LÃ³ditag
+LÅ‘dmajor
+LÃ³dombpuszta
+Lodri TÃ³
+LÃ³fartanya
+LÃ³fej-hegy
+LÅ‘ffler-major
+LÃ¶fflermalom
+LÃ¶fflertanya
+LÃ³fÅ‘
+LÃ³gÃ³-kert
+LÃ³-hegyi-patak
+LÃ³-hegy
+LÃ³hegy
+LÃ³hegy-patak
+LÃ³hegypuszta
+LÃ³herÃ©sdÅ±lÅ‘
+LÃ³herÃ©s
+LÃ³hullÃ¡s
+LÃ³hullÃ¡s-tetÅ‘
+LÃ³jatanya
+LÃ³ka
+LÃ¶k BÃ©rc
+LÃ³kerti TanyÃ¡k
+LÃ³kert
+LÃ³ki-patak
+LÃ¶kÃ¶shÃ¡za
+LÅ‘kÃ¶shÃ¡za
+LÃ¶kÃ¶sihatÃ¡r
+LÃ¶kÃ¶si TanyÃ¡k
+LÃ³kos
+LÃ³kos-patak
+LÃ³kostelep
+LÃ³kpuszta
+LÃ³kÃºt
 Lom-hegy
 Lomos
-Lönei-puszta
-Longerdõ
+LÃ¶nei-puszta
+LongerdÅ‘
 Longitanya
 Longtanya
 Lonkacser
 Lonkahegy
 Lonovics Nagy-tanya
 Lonovicstanya
-Lónyai-csatorna
-Lónyai-fõcsatorna
-Lónya
-Lónyat Csatorna
-Lónyay-csatorna
+LÃ³nyai-csatorna
+LÃ³nyai-fÅ‘csatorna
+LÃ³nya
+LÃ³nyat Csatorna
+LÃ³nyay-csatorna
 Loos Bach
 Lop-hegy
-Lopóhalomjárás
-Lopóhalom
-Lopókerttanya
-Lórántffydûlõ
-Lórántffykert
-Lórántháza
-Lóré
-Lórét-csatorna
-Lóréttanya
-Lórév
-Lõrinci
-Lõrincitanya
-Lõrincke-alja
-Lõrincke
-Lõrincmajor
-Lõrinctanyák
-Lõrinctanya
-Lõrincztanyák
-Lõrincztanya
-Lõrinte
-Lõrintepuszta
-Lósi-patak
-Losonc Állami Csikó-telep
-Losonciház
+LopÃ³halomjÃ¡rÃ¡s
+LopÃ³halom
+LopÃ³kerttanya
+LÃ³rÃ¡ntffydÅ±lÅ‘
+LÃ³rÃ¡ntffykert
+LÃ³rÃ¡nthÃ¡za
+LÃ³rÃ©
+LÃ³rÃ©t-csatorna
+LÃ³rÃ©ttanya
+LÃ³rÃ©v
+LÅ‘rinci
+LÅ‘rincitanya
+LÅ‘rincke-alja
+LÅ‘rincke
+LÅ‘rincmajor
+LÅ‘rinctanyÃ¡k
+LÅ‘rinctanya
+LÅ‘rincztanyÃ¡k
+LÅ‘rincztanya
+LÅ‘rinte
+LÅ‘rintepuszta
+LÃ³si-patak
+Losonc Ãllami CsikÃ³-telep
+LosoncihÃ¡z
 Losonctelep
 Losonczitelep
-Lószegpuszta
-Lõtértábor
-Lõtértanya
-Lothárd
+LÃ³szegpuszta
+LÅ‘tÃ©rtÃ¡bor
+LÅ‘tÃ©rtanya
+LothÃ¡rd
 Lovadpuszta
-Lovasberény
+LovasberÃ©ny
 Lovasci
 Lovas
 Lovasovic
 Lovaspuszta
 Lovassytanya
-Lovászhetány
-Lovászhetény
-Lovászi
-Lovászmajor
-Lovász
-Lovászpatona
-Lövõ
-Lövõpetri
-Lõwytanya
-Lózertanya
+LovÃ¡szhetÃ¡ny
+LovÃ¡szhetÃ©ny
+LovÃ¡szi
+LovÃ¡szmajor
+LovÃ¡sz
+LovÃ¡szpatona
+LÃ¶vÅ‘
+LÃ¶vÅ‘petri
+LÅ‘wytanya
+LÃ³zertanya
 Lubickitanya
 Lubiczkitanya
-Lucernás
+LucernÃ¡s
 Lucfalva
 Luci Sziget
-Luckó Patak
+LuckÃ³ Patak
 Lucskapuszta
 Lucska-szeg
-Lucskatetõ
-Ludaddûlõ
+LucskatetÅ‘
+LudaddÅ±lÅ‘
 Ludad
 Ludadpuszta
-Ludányhalászi
-Ludány
-Ludasdûlõ
-Ludas Föld
-Ludashát
-Ludasi Dûlõ
-Ludasiszõlõ
+LudÃ¡nyhalÃ¡szi
+LudÃ¡ny
+LudasdÅ±lÅ‘
+Ludas FÃ¶ld
+LudashÃ¡t
+Ludasi DÅ±lÅ‘
+LudasiszÅ‘lÅ‘
 Ludas
-Ludasszállás
+LudasszÃ¡llÃ¡s
 Ludastanya
-Ludastódûlõtanya
-Ludas-tó
-Ludastó
-Ludas Tó
-Ludastószõllõ
+LudastÃ³dÅ±lÅ‘tanya
+Ludas-tÃ³
+LudastÃ³
+Ludas TÃ³
+LudastÃ³szÅ‘llÅ‘
 Ludmillapuszta
 Ludnapuszta
-Ludvigdûlõ
+LudvigdÅ±lÅ‘
 Ludvigtanya
-Lugasi Szállás
+Lugasi SzÃ¡llÃ¡s
 Lugas
 Lugosi-patak
 Lugos
 Lugos-patak
 Luischthal
 Lujza-hegy
-Lujzamajori-dûlõ
+Lujzamajori-dÅ±lÅ‘
 Lujzamajor
 Lujzatanya
-Lukáca
-Lukácsfenék
-Lukácsháza Alsó
-Lukácsháza
-Lukácstanya
-Lukaháza
+LukÃ¡ca
+LukÃ¡csfenÃ©k
+LukÃ¡cshÃ¡za AlsÃ³
+LukÃ¡cshÃ¡za
+LukÃ¡cstanya
+LukahÃ¡za
 Lukahegy
 Lukatanya
 Lukatelek
 Lukod
-Lukó
+LukÃ³
 Lullahegy
 Lulla
 Lullapuszta
 Lulu
 Lulupuszta
 Luppa-sziget
-Lusánidûlõ
-Lusta-völgy
-Lusztrét
-Lúzsok
+LusÃ¡nidÅ±lÅ‘
+Lusta-vÃ¶lgy
+LusztrÃ©t
+LÃºzsok
 Lyukas-domb
 Lyukas-halom
-Lyukasmezõ
+LyukasmezÅ‘
 Lyukas
 Lyukas Szik
 Lyukhegyi Major
 Lyukva
 Lyukvapuszta
-Lyukvölgy
-Lyukvölgypuszta
-Maártanya
-Macakás Tó
+LyukvÃ¶lgy
+LyukvÃ¶lgypuszta
+MaÃ¡rtanya
+MacakÃ¡s TÃ³
 Macfamajor
 Macfa
-Mackótanya
-Macólapos
+MackÃ³tanya
+MacÃ³lapos
 Maconka
-Macózug
-Mácsa
-Macsi-ér
-Macskaárokpuszta
+MacÃ³zug
+MÃ¡csa
+Macsi-Ã©r
+MacskaÃ¡rokpuszta
 Macska-domb
 Macskahalom
 Macska-hegy
-Macskalikatetõ
-Macskalik-tetõ
-Macskás
+MacskalikatetÅ‘
+Macskalik-tetÅ‘
+MacskÃ¡s
 Macs
 Macsugatanya
-Macsújosztás
-Maczkótanya
+MacsÃºjosztÃ¡s
+MaczkÃ³tanya
 Maczkytag
-Maczó-lapos
-Maczonkadûlõ
-Maczó-zug
-Madáchtanya
-Madáchtelep
-Madaiász Tó
-Madarasi Rész
-Madarasi Szállás
-Madarasi-tó
+MaczÃ³-lapos
+MaczonkadÅ±lÅ‘
+MaczÃ³-zug
+MadÃ¡chtanya
+MadÃ¡chtelep
+MadaiÃ¡sz TÃ³
+Madarasi RÃ©sz
+Madarasi SzÃ¡llÃ¡s
+Madarasi-tÃ³
 Madaras
-Madarassyszõllõ
+MadarassyszÅ‘llÅ‘
 Madarassytanya
-Madarászpuszta
-Madarász-sziget
-Madarász-tó
-Madársárapuszta
-Mádencia
-Mádi Szõllõ
-Mádi Tanyák
-Mádi Út
+MadarÃ¡szpuszta
+MadarÃ¡sz-sziget
+MadarÃ¡sz-tÃ³
+MadÃ¡rsÃ¡rapuszta
+MÃ¡dencia
+MÃ¡di SzÅ‘llÅ‘
+MÃ¡di TanyÃ¡k
+MÃ¡di Ãšt
 Madjarska
-Mád
+MÃ¡d
 Madocsa
-Mágahíd
-Mága
+MÃ¡gahÃ­d
+MÃ¡ga
 Magas-Bakony
-Magas-bérc
+Magas-bÃ©rc
 Magasd
 Magas-domb
-Magasdombrév
+MagasdombrÃ©v
 Magasdpuszta
-Magashatárdûlõ
-Magas-határ
+MagashatÃ¡rdÅ±lÅ‘
+Magas-hatÃ¡r
 Magashegyitanya
 Magas-hegy
 Magashegy
 Magas Hegy
-Magashegypalánti
+MagashegypalÃ¡nti
 Magashegypuszta
-Magas-már
+Magas-mÃ¡r
 Magas
 Magas-orom
-Magastetõ Hegy
-Magas-tetõ
-Magas-verõ
-Magdolna-ér
+MagastetÅ‘ Hegy
+Magas-tetÅ‘
+Magas-verÅ‘
+Magdolna-Ã©r
 Magdolna
 Magitanya
-Maglóca
-Maglódi Nyaraló
-Maglód
-Mágocs-Alsómocsolád
-Mágocs-ér
-Mágócsi-csatorna
-Mágocsi Ér
-Mágocsi Hegy
-Mágocsioldal
-Mágocs
-Mágocsoldal
-Mágori-domb
-Mágor
+MaglÃ³ca
+MaglÃ³di NyaralÃ³
+MaglÃ³d
+MÃ¡gocs-AlsÃ³mocsolÃ¡d
+MÃ¡gocs-Ã©r
+MÃ¡gÃ³csi-csatorna
+MÃ¡gocsi Ã‰r
+MÃ¡gocsi Hegy
+MÃ¡gocsioldal
+MÃ¡gocs
+MÃ¡gocsoldal
+MÃ¡gori-domb
+MÃ¡gor
 Magosak
 Magosdpuszta
 Magos-hegy
@@ -13306,296 +13306,296 @@ Magoshegy
 Magos Hegy
 Magoska
 Magosliget
-Magostetõstanya
-Magsáritanyák
-Magtárilapos
-Magtárlapos
+MagostetÅ‘stanya
+MagsÃ¡ritanyÃ¡k
+MagtÃ¡rilapos
+MagtÃ¡rlapos
 Magyal
-Magyaloserdõ
+MagyaloserdÅ‘
 Magyalos-hegy
-Magyalosi Erdõ
+Magyalosi ErdÅ‘
 Magyalos
-Magyalos Víz
+Magyalos VÃ­z
 Magyalpuszta
-Magyal-tetõ
-Magyarád-puszta
-Magyaralmás
-Magyaratád-Batéi Patak
-Magyaratád
-Magyarbánhegyesi Tanyák
-Magyarbánhegyes
+Magyal-tetÅ‘
+MagyarÃ¡d-puszta
+MagyaralmÃ¡s
+MagyaratÃ¡d-BatÃ©i Patak
+MagyaratÃ¡d
+MagyarbÃ¡nhegyesi TanyÃ¡k
+MagyarbÃ¡nhegyes
 Magyarbarnag
 Magyarbokor
-Magyarbóly
-Magyar-bükkös Telep
-Magyarbükös
-Magyarbükstelep
-Magyarcsanádi Tanyák
-Magyarcsanád
-Magyardombegház
-Magyardombegyházi Dûlõ
-Magyardombegyházi Tanyák
-Magyardombegyház
-Magyardûlõ
+MagyarbÃ³ly
+Magyar-bÃ¼kkÃ¶s Telep
+MagyarbÃ¼kÃ¶s
+MagyarbÃ¼kstelep
+MagyarcsanÃ¡di TanyÃ¡k
+MagyarcsanÃ¡d
+MagyardombeghÃ¡z
+MagyardombegyhÃ¡zi DÅ±lÅ‘
+MagyardombegyhÃ¡zi TanyÃ¡k
+MagyardombegyhÃ¡z
+MagyardÅ±lÅ‘
 Magyaregregy
 Magyaregres
 Magyarfalva
-Magyarföld
-Magyargéc
+MagyarfÃ¶ld
+MagyargÃ©c
 Magyargencs
 Magyar-hegy
 Magyarhertelend
 Magyarhomorog
-Magyaridûlõ
+MagyaridÅ±lÅ‘
 Magyari
 Magyaripuszta
 Magyari-tanya
 Magyaritanya
 Magyarka
-Magyarkeresztúr
-Magyarkeresztúr-Zsebeháza
-Magyarkér
+MagyarkeresztÃºr
+MagyarkeresztÃºr-ZsebehÃ¡za
+MagyarkÃ©r
 Magyarkert
 Magyarkeszi
 Magyarkimle
-Magyar-kosár-hegy
-Magyar Köztársaság
-Magyarkúti-patak
-Magyarkút
-Magyarkút-Verõcemaros
+Magyar-kosÃ¡r-hegy
+Magyar KÃ¶ztÃ¡rsasÃ¡g
+MagyarkÃºti-patak
+MagyarkÃºt
+MagyarkÃºt-VerÅ‘cemaros
 Magyarlad
 Magyarlak
 Magyarlukafa
 Magyar-major
-Magyarmál
+MagyarmÃ¡l
 Magyarmecske
-Magyarnádalja
-Magyarnándor
-Magyar Népköztársaság
-Magyaródpuszta
-Magyarország
-Magyarósdomb
-Magyarossi Szõllõk
-Magyarós Tetõ
-Magyaróvár
-Magyaróvölgy
-Magyarpolány
-Magyarsarlós
-Magyarszecsõd
-Magyarszék
-Magyarszék-Sikonda Gyógyfürdõ
-Magyarszentmiklós
+MagyarnÃ¡dalja
+MagyarnÃ¡ndor
+Magyar NÃ©pkÃ¶ztÃ¡rsasÃ¡g
+MagyarÃ³dpuszta
+MagyarorszÃ¡g
+MagyarÃ³sdomb
+Magyarossi SzÅ‘llÅ‘k
+MagyarÃ³s TetÅ‘
+MagyarÃ³vÃ¡r
+MagyarÃ³vÃ¶lgy
+MagyarpolÃ¡ny
+MagyarsarlÃ³s
+MagyarszecsÅ‘d
+MagyarszÃ©k
+MagyarszÃ©k-Sikonda GyÃ³gyfÃ¼rdÅ‘
+MagyarszentmiklÃ³s
 Magyarszerdahely
 Magyarszombatfa
 Magyar-tanya
 Magyartanya
 Magyartelek
-Magyartés
-Magyarürügy
+MagyartÃ©s
+MagyarÃ¼rÃ¼gy
 Magyarytanya
 Magy
-Mágyva
-Máhomfa
-Mahomoki Õrház
-Má-homok
-Maïarsko
-Mailáthgárdony
-Mailáthpuszta
+MÃ¡gyva
+MÃ¡homfa
+Mahomoki ÅrhÃ¡z
+MÃ¡-homok
+MaÄarsko
+MailÃ¡thgÃ¡rdony
+MailÃ¡thpuszta
 Majar
 Majkapuszta
-Majkászdûlõ
-Majkász
+MajkÃ¡szdÅ±lÅ‘
+MajkÃ¡sz
 Majkpuszta
-Majkszentjános
-Majkszentjánospuszta
-Majláthpuszta
-Majláthtelep
+MajkszentjÃ¡nos
+MajkszentjÃ¡nospuszta
+MajlÃ¡thpuszta
+MajlÃ¡thtelep
 Major-hegy
-Majori Dûlõ
+Majori DÅ±lÅ‘
 Majoritanya
-Majori Út
+Majori Ãšt
 Major
-Majorosdûlõ
+MajorosdÅ±lÅ‘
 Majorostanya
 Majortanya
-Majosháza
+MajoshÃ¡za
 Majos-hegy
 Majos
 Majsa-Dorozsmai-csatorna
-Majsa-Dorozsmai-fõcsatorna
-Majsa-Fehértavi-csatorna
-Majsa-Fehértói-fõcsatorna
-Majsai Határdûlõ
-Majsai Úti Tanyák
-Majsamiklósvár
+Majsa-Dorozsmai-fÅ‘csatorna
+Majsa-FehÃ©rtavi-csatorna
+Majsa-FehÃ©rtÃ³i-fÅ‘csatorna
+Majsai HatÃ¡rdÅ±lÅ‘
+Majsai Ãšti TanyÃ¡k
+MajsamiklÃ³svÃ¡r
 Majsapuszta
 Majs
-Majtalán
-Majtás-csere
+MajtalÃ¡n
+MajtÃ¡s-csere
 Majtis
 Majzik
-Makádi Tanyák
-Makád
-Makáraljadûlõ
-Makárdûlõ
-Makár-hegy
-Makár
-Makártanya
+MakÃ¡di TanyÃ¡k
+MakÃ¡d
+MakÃ¡raljadÅ±lÅ‘
+MakÃ¡rdÅ±lÅ‘
+MakÃ¡r-hegy
+MakÃ¡r
+MakÃ¡rtanya
 Makaytanya
-Mákfai-hegy
-Mákfa
-Mákföld-hegy
-Mákföld
-Mákhalomdûlõ
-Mák-halom
+MÃ¡kfai-hegy
+MÃ¡kfa
+MÃ¡kfÃ¶ld-hegy
+MÃ¡kfÃ¶ld
+MÃ¡khalomdÅ±lÅ‘
+MÃ¡k-halom
 Makkod
-Makkosdûlõ
-Makkoshát
+MakkosdÅ±lÅ‘
+MakkoshÃ¡t
 Makkoshotyka
 Makkos
 Makkos-tanya
 Makkostanya
 Makkpuszta
 Makktelep
-Maklány
-Makláritanya
-Maklár
-Maklártálya
-Makói Határdûlõ
-Makó
-Makópuszta
-Mákosdûlõ
-Makótanya
-Makó-Újváros
-Makó-Újvásártér
+MaklÃ¡ny
+MaklÃ¡ritanya
+MaklÃ¡r
+MaklÃ¡rtÃ¡lya
+MakÃ³i HatÃ¡rdÅ±lÅ‘
+MakÃ³
+MakÃ³puszta
+MÃ¡kosdÅ±lÅ‘
+MakÃ³tanya
+MakÃ³-ÃšjvÃ¡ros
+MakÃ³-ÃšjvÃ¡sÃ¡rtÃ©r
 Makra
-Makra-völgy
-Maksár
+Makra-vÃ¶lgy
+MaksÃ¡r
 Maksatanya
-Mákszem
-Mákvölgytanya
+MÃ¡kszem
+MÃ¡kvÃ¶lgytanya
 Malachegy
-Málai-patak
+MÃ¡lai-patak
 Malajdok Halom
 Malajdok
-Malá Karèava
+MalÃ¡ KarÄava
 Mala Krka
-Malátó-hegy
-Malátom-dûlõ
-Malátom
-Máldûlõ
+MalÃ¡tÃ³-hegy
+MalÃ¡tom-dÅ±lÅ‘
+MalÃ¡tom
+MÃ¡ldÅ±lÅ‘
 Maleckitanya
-Málé-hegy
-Máléhegy
-Málé-patak
-Mália
-Malí Krka
+MÃ¡lÃ©-hegy
+MÃ¡lÃ©hegy
+MÃ¡lÃ©-patak
+MÃ¡lia
+MalÃ­ Krka
 Mallerd Fatelep
-Mallerd-házak
+Mallerd-hÃ¡zak
 Mallertanya
 Malmok
-Malmos-dûlõ
-Malmosdûlõ
+Malmos-dÅ±lÅ‘
+MalmosdÅ±lÅ‘
 Malmos
 Malmostanya
 Malmostelep
-Málna-hegy
-Malomárok
-Malombér
-Malombirtokosság
+MÃ¡lna-hegy
+MalomÃ¡rok
+MalombÃ©r
+MalombirtokossÃ¡g
 Malom-csatorna
 Malomcsatorna
-Malom-dûlõ
-Malomdûlõ
-Maloméri-dûlõ
-Malomér
+Malom-dÅ±lÅ‘
+MalomdÅ±lÅ‘
+MalomÃ©ri-dÅ±lÅ‘
+MalomÃ©r
 Malomfa
-Malomféli Szõllõskert
-Malomfoki Gátõrház
-Malomfolyás
-Malomgáti Hegy
-Malomház
+MalomfÃ©li SzÅ‘llÅ‘skert
+Malomfoki GÃ¡tÅ‘rhÃ¡z
+MalomfolyÃ¡s
+MalomgÃ¡ti Hegy
+MalomhÃ¡z
 Malom-hegy
 Malomhegy
 Malomhegytanya
 Malomhely
-Malomidûlõ
+MalomidÅ±lÅ‘
 Malomi Patak
 Malomitanya
-Malomkertdûlõ
+MalomkertdÅ±lÅ‘
 Malomkert
-Malom-köz
-Malomköz
-Malommelletti Dûlõ
+Malom-kÃ¶z
+MalomkÃ¶z
+Malommelletti DÅ±lÅ‘
 Malom
-Málom
+MÃ¡lom
 Malompart
 Malom-patak
 Malompatak
 Malompuszta
-Malom-rét-dûlõ
-Malomrétdûlõ
-Malomrét
+Malom-rÃ©t-dÅ±lÅ‘
+MalomrÃ©tdÅ±lÅ‘
+MalomrÃ©t
 Malomsok
-Malomsûrû
-Malomszög
+MalomsÅ±rÅ±
+MalomszÃ¶g
 Malomtanya
 Malomtelek
 Malomtelep
-Malom-tetõ
-Malomtó-major
-Malomtó
-Malom-völgyi-patak
-Malom-völgy
-Malomvölgy
-Malomvölgy-patak
+Malom-tetÅ‘
+MalomtÃ³-major
+MalomtÃ³
+Malom-vÃ¶lgyi-patak
+Malom-vÃ¶lgy
+MalomvÃ¶lgy
+MalomvÃ¶lgy-patak
 Malomzugi-kert
-Malomzugi Szõllõskert
+Malomzugi SzÅ‘llÅ‘skert
 Malomzugkert
 Malom-zug
-Malı Dunaj
-Mályinka
-Mályi
-Mályvád
-Mályvás
-Máma-halom
-Máma
-Mámapuszta
+MalÃ½ Dunaj
+MÃ¡lyinka
+MÃ¡lyi
+MÃ¡lyvÃ¡d
+MÃ¡lyvÃ¡s
+MÃ¡ma-halom
+MÃ¡ma
+MÃ¡mapuszta
 Mamocspuszta
 Mandabokor I.
-Mánd
-Mándok
-Mandulásdûlõ
-Mandulás
-Mándytanya
+MÃ¡nd
+MÃ¡ndok
+MandulÃ¡sdÅ±lÅ‘
+MandulÃ¡s
+MÃ¡ndytanya
 Manettamajor
-Mánfai Hegy
-Mánfa
+MÃ¡nfai Hegy
+MÃ¡nfa
 Mangatelep
-Mangó-tetõ
-Mániktelep
-Mankósdûlõ
-Mankoshalomdûlõ
-Manómajor
-Manó
-Mántai-patak
-Mántanya
-Mánta-patak
-Mányaidûlõ
-Mány
-Manyókadûlõ
-Maort Centrálé
-Maradékdûlõ
+MangÃ³-tetÅ‘
+MÃ¡niktelep
+MankÃ³sdÅ±lÅ‘
+MankoshalomdÅ±lÅ‘
+ManÃ³major
+ManÃ³
+MÃ¡ntai-patak
+MÃ¡ntanya
+MÃ¡nta-patak
+MÃ¡nyaidÅ±lÅ‘
+MÃ¡ny
+ManyÃ³kadÅ±lÅ‘
+Maort CentrÃ¡lÃ©
+MaradÃ©kdÅ±lÅ‘
 Marakodipuszta
-Marász-halom
-Maráza
-Marázapuszta
-Marazd-ér
-Márcadó
-Márcadópuszta
+MarÃ¡sz-halom
+MarÃ¡za
+MarÃ¡zapuszta
+Marazd-Ã©r
+MÃ¡rcadÃ³
+MÃ¡rcadÃ³puszta
 Marcalgergelyi
-Marcali-dombhát
-Marcali-hát
+Marcali-dombhÃ¡t
+Marcali-hÃ¡t
 Marcali Hegy
 Marcali major
 Marcali
@@ -13604,568 +13604,568 @@ Marcalmajor
 Marcal-medence
 Marcal
 Marcaltelep
-Marcaltõ
-Marcal-völgyi
+MarcaltÅ‘
+Marcal-vÃ¶lgyi
 Marceltanya
-Marcinkaház
+MarcinkahÃ¡z
 Marcinkatanya
 Marci-tanya
-Márcitanya
+MÃ¡rcitanya
 Marco-halom
 Marcsamajor
 Marczpuszta
-Márczytanya
-Márévár
-Márfa
+MÃ¡rczytanya
+MÃ¡rÃ©vÃ¡r
+MÃ¡rfa
 Margaret Island
-Margitaerdõ
+MargitaerdÅ‘
 Margita-hegy
 Margita
 Margita-sziget
-Margitháza
+MargithÃ¡za
 Margitliget
 Margit-major
 Margitmajor
 Margitpuszta
 Margit-sziget
-Margittadûlõ
+MargittadÅ±lÅ‘
 Margitta
 Margittanya
 Margittatanya
 Margittelep
-Máriaannapuszta
-Máriabesnyõ
-Máriadûlõ
-Máriafürdõ
-Máriagyûd Állomás
-Máriagyûdi Tanya
-Máriagyûd
-Mária-halom
-Máriahalom
-Máriahalompuszta
-Mária-hegy
-Máriahegy
-Máriakálnok
-Máriakéménd
-Márialaka
-Márialigeti Malom
-Márialiget
-Mária Magdolna-major
-Máriamagdolnapuszta
-Máriamajor
-Máriamakk
-Marianna-dûlõ
+MÃ¡riaannapuszta
+MÃ¡riabesnyÅ‘
+MÃ¡riadÅ±lÅ‘
+MÃ¡riafÃ¼rdÅ‘
+MÃ¡riagyÅ±d ÃllomÃ¡s
+MÃ¡riagyÅ±di Tanya
+MÃ¡riagyÅ±d
+MÃ¡ria-halom
+MÃ¡riahalom
+MÃ¡riahalompuszta
+MÃ¡ria-hegy
+MÃ¡riahegy
+MÃ¡riakÃ¡lnok
+MÃ¡riakÃ©mÃ©nd
+MÃ¡rialaka
+MÃ¡rialigeti Malom
+MÃ¡rialiget
+MÃ¡ria Magdolna-major
+MÃ¡riamagdolnapuszta
+MÃ¡riamajor
+MÃ¡riamakk
+Marianna-dÅ±lÅ‘
 Mariannamajor
 Mariannapuszta
-Márianosztra
-Máriapócsi-fõfolyás
-Máriapócsi-folyás
-Máriapócs
-Mária-puszta
-Máriapuszta
-Máriás
-Mária-tanya
-Máriatanya
-Máriatelep
-Máriaudvar
-Máriaújfalu
-Máriavölgy
+MÃ¡rianosztra
+MÃ¡riapÃ³csi-fÅ‘folyÃ¡s
+MÃ¡riapÃ³csi-folyÃ¡s
+MÃ¡riapÃ³cs
+MÃ¡ria-puszta
+MÃ¡riapuszta
+MÃ¡riÃ¡s
+MÃ¡ria-tanya
+MÃ¡riatanya
+MÃ¡riatelep
+MÃ¡riaudvar
+MÃ¡riaÃºjfalu
+MÃ¡riavÃ¶lgy
 Mariettapuszta
-Mári-major
-Mariskadûlõ
+MÃ¡ri-major
+MariskadÅ±lÅ‘
 Mariska-major
 Mariskapuszta
 Marispuszta
-Márisszállás
+MÃ¡risszÃ¡llÃ¡s
 Marisus
 Marjaitanya
-Marjántanya
-Markazi-víztároló
+MarjÃ¡ntanya
+Markazi-vÃ­ztÃ¡rolÃ³
 Markaz
-Márkháza
-Márkházapuszta
-Márkierdõ
-Markóbokor
-Markóc
-Márkó
-Markotabödöge
+MÃ¡rkhÃ¡za
+MÃ¡rkhÃ¡zapuszta
+MÃ¡rkierdÅ‘
+MarkÃ³bokor
+MarkÃ³c
+MÃ¡rkÃ³
+MarkotabÃ¶dÃ¶ge
 Markovicstanya
 Markscheidtanya
-Márktanya
-Márkus-hegy
-Márkus
-Márkus Szekrénye
-Márkustag
-Márkustanya
-Márkút
-Márkút-tanya
-Márkytanya
+MÃ¡rktanya
+MÃ¡rkus-hegy
+MÃ¡rkus
+MÃ¡rkus SzekrÃ©nye
+MÃ¡rkustag
+MÃ¡rkustanya
+MÃ¡rkÃºt
+MÃ¡rkÃºt-tanya
+MÃ¡rkytanya
 Marlyin-puszta
 Marlyintelep
-Máróci Patak
-Maróc
-Marócsa
-Marócsatanya
-Marókászmán
-Marókászmány
-Márokföld
-Márokipuszta
-Márok
-Márokpapi
-Márokpapi Tanya
-Márokpuszta
-Maros-dûlõ
-Marosica-dûlõ
-Marosidûlõ
+MÃ¡rÃ³ci Patak
+MarÃ³c
+MarÃ³csa
+MarÃ³csatanya
+MarÃ³kÃ¡szmÃ¡n
+MarÃ³kÃ¡szmÃ¡ny
+MÃ¡rokfÃ¶ld
+MÃ¡rokipuszta
+MÃ¡rok
+MÃ¡rokpapi
+MÃ¡rokpapi Tanya
+MÃ¡rokpuszta
+Maros-dÅ±lÅ‘
+Marosica-dÅ±lÅ‘
+MarosidÅ±lÅ‘
 Maroskert
-Maros-Körös Köze
-Maros-Körös-Tisza Köze
-Marosleleitanyák
+Maros-KÃ¶rÃ¶s KÃ¶ze
+Maros-KÃ¶rÃ¶s-Tisza KÃ¶ze
+MarosleleitanyÃ¡k
 Maroslele
 Maroslelle
 Maros
 Marosparti Tanya
 Marospart
-Marostöltés
-Marostõ
-Maróti-hegyek
-Marótpuszta
-Marótszentmárton
-Marót-völgyi-csatorna
-Marót-völgyi-patak
-Marót-zug
+MarostÃ¶ltÃ©s
+MarostÅ‘
+MarÃ³ti-hegyek
+MarÃ³tpuszta
+MarÃ³tszentmÃ¡rton
+MarÃ³t-vÃ¶lgyi-csatorna
+MarÃ³t-vÃ¶lgyi-patak
+MarÃ³t-zug
 Marovszkytanya
-Mártadûlõ
-Mártákdûlõ
-Mártamajor
-Mártapuszta
-Mártasor
-Mártatanya
-Mártélyi Tanyák
-Mártély
-Martfûi Tanyák
-Martfû
+MÃ¡rtadÅ±lÅ‘
+MÃ¡rtÃ¡kdÅ±lÅ‘
+MÃ¡rtamajor
+MÃ¡rtapuszta
+MÃ¡rtasor
+MÃ¡rtatanya
+MÃ¡rtÃ©lyi TanyÃ¡k
+MÃ¡rtÃ©ly
+MartfÅ±i TanyÃ¡k
+MartfÅ±
 Martinca
 Martinka
 Martinpuszta
 Martonfa Malom
 Martonfa
 Martonfapuszta
-Mártonffipuszta
-Mártonffypuszta
-Mártonffytanya
-Mártonfitanya
-Marton-földek
-Mártonfytanya
-Márton-halom
-Mártonháza
-Mártonházapuszta
+MÃ¡rtonffipuszta
+MÃ¡rtonffypuszta
+MÃ¡rtonffytanya
+MÃ¡rtonfitanya
+Marton-fÃ¶ldek
+MÃ¡rtonfytanya
+MÃ¡rton-halom
+MÃ¡rtonhÃ¡za
+MÃ¡rtonhÃ¡zapuszta
 Marton-hegy
-Márton-hegy
-Mártonhegy
-Martonkút
-Martonkútpuszta
-Márton Lajos-tanya
+MÃ¡rton-hegy
+MÃ¡rtonhegy
+MartonkÃºt
+MartonkÃºtpuszta
+MÃ¡rton Lajos-tanya
 Marton-major
 Marton
 Martonpuszta
-Mártonszállás
-Mártontanya
-Martonvásár
+MÃ¡rtonszÃ¡llÃ¡s
+MÃ¡rtontanya
+MartonvÃ¡sÃ¡r
 Martonyi
-Márványkõfejtõ-hegy
-Márvány-völgy
-Másodikkerületi Bányatelep
-Második Mándi Bokor
-Második Rozsréti Bokor
-Máspataka
-Más-Ságod
+MÃ¡rvÃ¡nykÅ‘fejtÅ‘-hegy
+MÃ¡rvÃ¡ny-vÃ¶lgy
+MÃ¡sodikkerÃ¼leti BÃ¡nyatelep
+MÃ¡sodik MÃ¡ndi Bokor
+MÃ¡sodik RozsrÃ©ti Bokor
+MÃ¡spataka
+MÃ¡s-SÃ¡god
 Massiktanya
 Maszling
-Mászlony
-Masznyik Úti-dûlõ
-Masznyikúti Tanyák
-Máta
-Mátéfalvitanya
-Mátéháza
-Mátéházapuszta Állomás
-Mátéházapuszta
-Mátéházi Major
-Máté-hegy
-Mátéhegy
-Mátéka
-Mátéka-tetõ
-Mátélapos
-Mátés-hegy
-Mátészalka
+MÃ¡szlony
+Masznyik Ãšti-dÅ±lÅ‘
+MasznyikÃºti TanyÃ¡k
+MÃ¡ta
+MÃ¡tÃ©falvitanya
+MÃ¡tÃ©hÃ¡za
+MÃ¡tÃ©hÃ¡zapuszta ÃllomÃ¡s
+MÃ¡tÃ©hÃ¡zapuszta
+MÃ¡tÃ©hÃ¡zi Major
+MÃ¡tÃ©-hegy
+MÃ¡tÃ©hegy
+MÃ¡tÃ©ka
+MÃ¡tÃ©ka-tetÅ‘
+MÃ¡tÃ©lapos
+MÃ¡tÃ©s-hegy
+MÃ¡tÃ©szalka
 Matesztanya
-Máté-tanya
-Mátétanya
-Mátételkei-gyûjtõág
-Mátételkei-Kígyós-csatorna
-Mátételkei-Kígyós
-Mátételke
-Mátételki Felsõtanyák
-Mátételkitanyák
-Mátéüléspuszta
-Mátéüléstanya
-Mátévölgye
-Máthétanya
+MÃ¡tÃ©-tanya
+MÃ¡tÃ©tanya
+MÃ¡tÃ©telkei-gyÅ±jtÅ‘Ã¡g
+MÃ¡tÃ©telkei-KÃ­gyÃ³s-csatorna
+MÃ¡tÃ©telkei-KÃ­gyÃ³s
+MÃ¡tÃ©telke
+MÃ¡tÃ©telki FelsÅ‘tanyÃ¡k
+MÃ¡tÃ©telkitanyÃ¡k
+MÃ¡tÃ©Ã¼lÃ©spuszta
+MÃ¡tÃ©Ã¼lÃ©stanya
+MÃ¡tÃ©vÃ¶lgye
+MÃ¡thÃ©tanya
 Matiasfold
 Matildhegy
 Matildmajor
 Matildpuszta
-Matildsárgaház
-Matkói Tó
-Matkó
+MatildsÃ¡rgahÃ¡z
+MatkÃ³i TÃ³
+MatkÃ³
 Matolcsitanya
 Matolcs
-Matótatamya
-Mátraalja
-Mátraaranybányaház
-Mátraballa
-Mátrabánya
-Mátracser
-Mátracserpuszta
-Mátraderecske
-Mátraerõmûtelep
-Mátrafüred
-Mátraháza
-Mátra Hegység
-Mátraitanya
-Mátrakeresztesi Tanya
-Mátrakeresztes
-Mátramindszent
-Mátra
-Mátranovák-Bányatelep
-Mátranovák-Homokterenye
-Mátranovák
-Mátraszele
-Mátraszentimre
-Mátraszentistván
-Mátraszentlászló
-Mátraszõllõs
-Mátraszõlõs-Hasznos
-Mátraszõlõs
-Mátra-tanya
-Mátraterenye
-Mátraverebély
-Mátravezekény
-Mátravidéki Erõmû
-Mátravidéki Erõmûtelep
+MatÃ³tatamya
+MÃ¡traalja
+MÃ¡traaranybÃ¡nyahÃ¡z
+MÃ¡traballa
+MÃ¡trabÃ¡nya
+MÃ¡tracser
+MÃ¡tracserpuszta
+MÃ¡traderecske
+MÃ¡traerÅ‘mÅ±telep
+MÃ¡trafÃ¼red
+MÃ¡trahÃ¡za
+MÃ¡tra HegysÃ©g
+MÃ¡traitanya
+MÃ¡trakeresztesi Tanya
+MÃ¡trakeresztes
+MÃ¡tramindszent
+MÃ¡tra
+MÃ¡tranovÃ¡k-BÃ¡nyatelep
+MÃ¡tranovÃ¡k-Homokterenye
+MÃ¡tranovÃ¡k
+MÃ¡traszele
+MÃ¡traszentimre
+MÃ¡traszentistvÃ¡n
+MÃ¡traszentlÃ¡szlÃ³
+MÃ¡traszÅ‘llÅ‘s
+MÃ¡traszÅ‘lÅ‘s-Hasznos
+MÃ¡traszÅ‘lÅ‘s
+MÃ¡tra-tanya
+MÃ¡traterenye
+MÃ¡traverebÃ©ly
+MÃ¡travezekÃ©ny
+MÃ¡travidÃ©ki ErÅ‘mÅ±
+MÃ¡travidÃ©ki ErÅ‘mÅ±telep
 Matravidek
-Mattyi Tanyák
-Mattyi-tó
+Mattyi TanyÃ¡k
+Mattyi-tÃ³
 Matty
-Mátyásbokor
-Mátyásdomb
-Mátyásföld Alsó
-Mátyásföld
-Mátyásforrás
-Mátyásgaz
-Mátyáshalmi-csatorna
-Mátyáshalmi-fõcsatorna
-Mátyáshalom-Csomorkányi-csatorna
-Mátyás-halom
-Mátyáshalom
-Mátyás-hegy
-Mátyásmajor
-Mátyás-sziget
-Mátyás-teleki-dûlõ
-Mátyástelek
-Matyódûlõ
-Matyóföld
-Matyótelep
-Mátyusháza
-Mátyusi Homok
-Mátyus
+MÃ¡tyÃ¡sbokor
+MÃ¡tyÃ¡sdomb
+MÃ¡tyÃ¡sfÃ¶ld AlsÃ³
+MÃ¡tyÃ¡sfÃ¶ld
+MÃ¡tyÃ¡sforrÃ¡s
+MÃ¡tyÃ¡sgaz
+MÃ¡tyÃ¡shalmi-csatorna
+MÃ¡tyÃ¡shalmi-fÅ‘csatorna
+MÃ¡tyÃ¡shalom-CsomorkÃ¡nyi-csatorna
+MÃ¡tyÃ¡s-halom
+MÃ¡tyÃ¡shalom
+MÃ¡tyÃ¡s-hegy
+MÃ¡tyÃ¡smajor
+MÃ¡tyÃ¡s-sziget
+MÃ¡tyÃ¡s-teleki-dÅ±lÅ‘
+MÃ¡tyÃ¡stelek
+MatyÃ³dÅ±lÅ‘
+MatyÃ³fÃ¶ld
+MatyÃ³telep
+MÃ¡tyushÃ¡za
+MÃ¡tyusi Homok
+MÃ¡tyus
 Mauertanya
 Maulusztanya
-Maurány
+MaurÃ¡ny
 Mauthnertelep
 Maxitag
 Mayerpuszta
 Mayer-tag
 Mayertanya
-Máza
-Mázaszászvár Alsó
-Mázaszászvár
-Mazsoláshát
+MÃ¡za
+MÃ¡zaszÃ¡szvÃ¡r AlsÃ³
+MÃ¡zaszÃ¡szvÃ¡r
+MazsolÃ¡shÃ¡t
 Mazsor
-Mazsúr
-Mazsúr-tetõ
+MazsÃºr
+MazsÃºr-tetÅ‘
 Meced Sabolc
 Mecek Sabolc
-Mecsekalja-Cserkút
+Mecsekalja-CserkÃºt
 Mecsekalja
-Mecsek-csúcs
+Mecsek-csÃºcs
 Mecsekfalu
-Mecsekhát
-Mecsek Hegység
+MecsekhÃ¡t
+Mecsek HegysÃ©g
 Mecseki Villatelep
-Mecsekjánosi
-Mecsekjánosi Puszta
+MecsekjÃ¡nosi
+MecsekjÃ¡nosi Puszta
 Mecsek Mountains
-Mecseknádasd
+MecseknÃ¡dasd
 Mecsek
-Mecsekpölöske
-Mecsekrákos
+MecsekpÃ¶lÃ¶ske
+MecsekrÃ¡kos
 Mecsekszabolcs
-Mecsekszakál
-Mecsekszentkút
-Mecsek-tetõ
-Mecsektó
-Mecsér
-Mecsértelep
-Medgyesbodzás
-Medgyesegyháza
-Medgyesegyházi Tanyák
-Medgyesiszõllõ
+MecsekszakÃ¡l
+MecsekszentkÃºt
+Mecsek-tetÅ‘
+MecsektÃ³
+MecsÃ©r
+MecsÃ©rtelep
+MedgyesbodzÃ¡s
+MedgyesegyhÃ¡za
+MedgyesegyhÃ¡zi TanyÃ¡k
+MedgyesiszÅ‘llÅ‘
 Medgyes
-Médimajor
+MÃ©dimajor
 Medina-halom
 Medina
-Médiumtanya
-Medvegydûlõ
+MÃ©diumtanya
+MedvegydÅ±lÅ‘
 Medves Magasa
 Medves
 Medvespuszta
 Medvetanya
-Meggyescsárda
-Meggyes-erdõ
-Meggyeserdõ
-Meggyesitanyák
-Meggyeskovácsi
+MeggyescsÃ¡rda
+Meggyes-erdÅ‘
+MeggyeserdÅ‘
+MeggyesitanyÃ¡k
+MeggyeskovÃ¡csi
 Meggyes
 Meggyespele
 Meggyespuszta
 Meggyesszeg
 Meggyes-tanya
 Meggyesytanya
-Megyágó
-Megyágótanya
-Megyaszó
-Megyedûlõ
-Megyefacigánysor
+MegyÃ¡gÃ³
+MegyÃ¡gÃ³tanya
+MegyaszÃ³
+MegyedÅ±lÅ‘
+MegyefacigÃ¡nysor
 Megyefa
 Megye-hegy
 Megyehid
 Megyei-csatorna
 Megyei Csatorna
 Megyei Csetorna
-Megye-kanális
+Megye-kanÃ¡lis
 Megyerhegy
-Megyeridûlõ
+MegyeridÅ±lÅ‘
 Megyeri Puszta
 Megyerke
 Megyerkepuszta
 Megyer
 Megyerytanya
-Megyes Erdõ
-Megyimóri Tanya
-Mehádiapuszta
-Méhesek
-Méhes
-Méhespuszta
-Méhestanya
-Méhestelep
-Méhesvölgyitanya
-Méhkeréki Tanyák
-Méhkerék
-Méhtelek
+Megyes ErdÅ‘
+MegyimÃ³ri Tanya
+MehÃ¡diapuszta
+MÃ©hesek
+MÃ©hes
+MÃ©hespuszta
+MÃ©hestanya
+MÃ©hestelep
+MÃ©hesvÃ¶lgyitanya
+MÃ©hkerÃ©ki TanyÃ¡k
+MÃ©hkerÃ©k
+MÃ©htelek
 Meidlingertanya
 Meisznertanya
-Mekényesi Tanya
-Mekényes
-Mekszikópuszta
-Melániatanya
-Meleg Folyás
+MekÃ©nyesi Tanya
+MekÃ©nyes
+MekszikÃ³puszta
+MelÃ¡niatanya
+Meleg FolyÃ¡s
 Meleg-hegy
 Meleghegy
 Meleghtanya
-Melegmájdûlõ
-Meleg-máj
+MelegmÃ¡jdÅ±lÅ‘
+Meleg-mÃ¡j
 Melegoldal
-Meleg-víz
-Melegvölgy
-Melindaitanyák
+Meleg-vÃ­z
+MelegvÃ¶lgy
+MelindaitanyÃ¡k
 Melindamajor
 Melittamajor
-Mély-ér
-Mélykúti Tanyák
-Mélykútiúti Tanya
-Mély-kút
-Mélykút
-Mélykútpuszta
-Mély-sár
-Mélyvölgyi-tanya
-Mélyvölgy
-Mélyvölgypuszta
-Mélyvölgytanya
+MÃ©ly-Ã©r
+MÃ©lykÃºti TanyÃ¡k
+MÃ©lykÃºtiÃºti Tanya
+MÃ©ly-kÃºt
+MÃ©lykÃºt
+MÃ©lykÃºtpuszta
+MÃ©ly-sÃ¡r
+MÃ©lyvÃ¶lgyi-tanya
+MÃ©lyvÃ¶lgy
+MÃ©lyvÃ¶lgypuszta
+MÃ©lyvÃ¶lgytanya
 Mencshely
-Méncsikótelep
+MÃ©ncsikÃ³telep
 Mende
-Menedékház
-Ménesjárásdûlõ
-Ménesjárás
-Ménesjáráspuszta
-Ménes-lapos
-Ménesmajor
-Ménes-patak
-Ménestelep
-Ménfõcsanak Felsõ
-Ménfõcsanak
-Méntelek
-Méntelep
-Mentettrét
+MenedÃ©khÃ¡z
+MÃ©nesjÃ¡rÃ¡sdÅ±lÅ‘
+MÃ©nesjÃ¡rÃ¡s
+MÃ©nesjÃ¡rÃ¡spuszta
+MÃ©nes-lapos
+MÃ©nesmajor
+MÃ©nes-patak
+MÃ©nestelep
+MÃ©nfÅ‘csanak FelsÅ‘
+MÃ©nfÅ‘csanak
+MÃ©ntelek
+MÃ©ntelep
+MentettrÃ©t
 Menyecskehegy
 Menyeke
-Menyétdomb
-Menyõd
-Menyõd-puszta
-Meránfölditanyák
-Méra
+MenyÃ©tdomb
+MenyÅ‘d
+MenyÅ‘d-puszta
+MerÃ¡nfÃ¶lditanyÃ¡k
+MÃ©ra
 Mercse-patak
 Mercset Patak
-Merenyei-víztároló
+Merenyei-vÃ­ztÃ¡rolÃ³
 Merenye
 Mereta
-Méreymajor
-Mérges-ér-hát
-Mérges-halom
-Mérges
-Mérgeszug
-Merikó
-Merikótanya
-Merítõ
-Merítõpuszta
+MÃ©reymajor
+MÃ©rges-Ã©r-hÃ¡t
+MÃ©rges-halom
+MÃ©rges
+MÃ©rgeszug
+MerikÃ³
+MerikÃ³tanya
+MerÃ­tÅ‘
+MerÃ­tÅ‘puszta
 Merkei-patak
 Merkepuszta
-Mérk
+MÃ©rk
 Mernyei-hegy
 Mernye
-Mernyeszentmiklós
+MernyeszentmiklÃ³s
 Merse
-Mersevát
+MersevÃ¡t
 Merzatanya
 Meselia
-Mesélõ Hegy
-Mésöly-puszta
+MesÃ©lÅ‘ Hegy
+MÃ©sÃ¶ly-puszta
 Messelia
-Messzelátódûlõ
-Messzelátó Hegy
-Messzelátó
-Messzelátópuszta
+MesszelÃ¡tÃ³dÅ±lÅ‘
+MesszelÃ¡tÃ³ Hegy
+MesszelÃ¡tÃ³
+MesszelÃ¡tÃ³puszta
 Mester-berek
-Mesterháza
+MesterhÃ¡za
 Mester-hegy
 Mesteri
-Mesterszállási Tanyák
-Mesterszállás
+MesterszÃ¡llÃ¡si TanyÃ¡k
+MesterszÃ¡llÃ¡s
 Mestertanya
-Mészárosdomb
-Mészáros Domb
-Mészárosdûlõ
-Mészáros-hegy
-Mészárosmalom
-Mészárostanya
-Mészégetõ Bányatelep
+MÃ©szÃ¡rosdomb
+MÃ©szÃ¡ros Domb
+MÃ©szÃ¡rosdÅ±lÅ‘
+MÃ©szÃ¡ros-hegy
+MÃ©szÃ¡rosmalom
+MÃ©szÃ¡rostanya
+MÃ©szÃ©getÅ‘ BÃ¡nyatelep
 Meszes-hegy
 Meszesidunapart
 Meszesmajor
 Meszes
 Meszestelepek
 Meszestelep
-Meszes-tetõ
-Mész-hegy
-Mészi Domb
-Mészkemence
+Meszes-tetÅ‘
+MÃ©sz-hegy
+MÃ©szi Domb
+MÃ©szkemence
 Meszlen
-Mészmû
-Meszölypuszta
-Mészöly-rész
-Mészölytanya
-Mészõtanya
-Mészpesttanya
-Mesztegnyõ
-Mésztelep
-Métnekpuszta
-Metõc-patak
-Mexikói Dûlõ
-Mexikói Út
-Mexikó
-Mexikópuszta
-Mexikótelep
-Mexikóvölgy
-Mézaszászvár
+MÃ©szmÅ±
+MeszÃ¶lypuszta
+MÃ©szÃ¶ly-rÃ©sz
+MÃ©szÃ¶lytanya
+MÃ©szÅ‘tanya
+MÃ©szpesttanya
+MesztegnyÅ‘
+MÃ©sztelep
+MÃ©tnekpuszta
+MetÅ‘c-patak
+MexikÃ³i DÅ±lÅ‘
+MexikÃ³i Ãšt
+MexikÃ³
+MexikÃ³puszta
+MexikÃ³telep
+MexikÃ³vÃ¶lgy
+MÃ©zaszÃ¡szvÃ¡r
 Mezeimalom
 Mezeitag
-Mezeitanyák
+MezeitanyÃ¡k
 Mezeitanya
-Mezenyõ
-Mézeshegy
-Mézeskúti Dûlõ
-Mézes-máj-halom
-Mézesmály
-Mézes-völgy
+MezenyÅ‘
+MÃ©zeshegy
+MÃ©zeskÃºti DÅ±lÅ‘
+MÃ©zes-mÃ¡j-halom
+MÃ©zesmÃ¡ly
+MÃ©zes-vÃ¶lgy
 Mezeytag
-Mezõberény
-Mezõcsát
-Mezõcsokonya
-Mezõdidûlõ
-Mezõdipuszta
-Mezõdi Tanya
-Mezõd
-Mezõ-dûlõ
-Mezõdûlõ
-Mezõeörs
-Mezõfalva
-Mezõföld
-Mezõgyáni Tanyák
-Mezõgyán
-Mezõhegyesi-Élõvíz-csatorna
-Mezõhegyesi Út Menti Tanyák
-Mezõhegyes
-Mezõhegy
-Mezõhék
-Mezõhídvég
-Mezõkeresztesi Tanya
-Mezõkeresztes-Mezõnyárád
-Mezõkeresztes
-Mezõkomárom
-Mezõkovácsháza Felsõ
-Mezõkovácsháza
-Mezõkovácsházi Puszta
-Mezõkövesd Felsõ
-Mezõkövesd
-Mezõladány
-Mezõlak Állomás
-Mezõlaki-séd
-Mezõlak
-Mezõmegyeri Tanyák
-Mezõmegyer
-Mezõnagymihály
-Mezõnyárád
-Mezõnyék
-Mezõörs
-Mezõpeterd
-Mezõsasi Tanyák
-Mezõsas
-Mezõség
-Mezõsitanya
-Mezõssytag
-Mezõssytanya
-Mezõssy Tanya
-Mezõszemere
-Mezõszentgyörgy
-Mezõszilas
-Mezõtanya
-Mezõtárkány
-Mezõteperd
-Mezõtó
-Mezõtúriúti Tanyák
-Mezõtúr
-Mezõzombor
+MezÅ‘berÃ©ny
+MezÅ‘csÃ¡t
+MezÅ‘csokonya
+MezÅ‘didÅ±lÅ‘
+MezÅ‘dipuszta
+MezÅ‘di Tanya
+MezÅ‘d
+MezÅ‘-dÅ±lÅ‘
+MezÅ‘dÅ±lÅ‘
+MezÅ‘eÃ¶rs
+MezÅ‘falva
+MezÅ‘fÃ¶ld
+MezÅ‘gyÃ¡ni TanyÃ¡k
+MezÅ‘gyÃ¡n
+MezÅ‘hegyesi-Ã‰lÅ‘vÃ­z-csatorna
+MezÅ‘hegyesi Ãšt Menti TanyÃ¡k
+MezÅ‘hegyes
+MezÅ‘hegy
+MezÅ‘hÃ©k
+MezÅ‘hÃ­dvÃ©g
+MezÅ‘keresztesi Tanya
+MezÅ‘keresztes-MezÅ‘nyÃ¡rÃ¡d
+MezÅ‘keresztes
+MezÅ‘komÃ¡rom
+MezÅ‘kovÃ¡cshÃ¡za FelsÅ‘
+MezÅ‘kovÃ¡cshÃ¡za
+MezÅ‘kovÃ¡cshÃ¡zi Puszta
+MezÅ‘kÃ¶vesd FelsÅ‘
+MezÅ‘kÃ¶vesd
+MezÅ‘ladÃ¡ny
+MezÅ‘lak ÃllomÃ¡s
+MezÅ‘laki-sÃ©d
+MezÅ‘lak
+MezÅ‘megyeri TanyÃ¡k
+MezÅ‘megyer
+MezÅ‘nagymihÃ¡ly
+MezÅ‘nyÃ¡rÃ¡d
+MezÅ‘nyÃ©k
+MezÅ‘Ã¶rs
+MezÅ‘peterd
+MezÅ‘sasi TanyÃ¡k
+MezÅ‘sas
+MezÅ‘sÃ©g
+MezÅ‘sitanya
+MezÅ‘ssytag
+MezÅ‘ssytanya
+MezÅ‘ssy Tanya
+MezÅ‘szemere
+MezÅ‘szentgyÃ¶rgy
+MezÅ‘szilas
+MezÅ‘tanya
+MezÅ‘tÃ¡rkÃ¡ny
+MezÅ‘teperd
+MezÅ‘tÃ³
+MezÅ‘tÃºriÃºti TanyÃ¡k
+MezÅ‘tÃºr
+MezÅ‘zombor
 Michalichtag
 Micitag
 Micske
@@ -14173,45 +14173,45 @@ Micskepuszta
 Micsurintag
 Micsurintanya
 Middle Danubian Basin
-Migazzi-kastély
-Miháldi Öreghegy
-Miháld
-Mihálydomb
-Mihályfa
-Mihályfapuszta
-Mihálygerge
-Mihályhalma
-Mihályhalom
-Mihályháza
-Mihályházapuszta
-Mihályhegy
-Mihályialsópuszta
-Mihályifelsõpuszta
-Mihályi
-Mihálykurta-Mérges-zug
-Mihálykurta
-Mihálymajor
-Mihály Puszta
-Mihálytanya
-Mihálytelek
-Mihálytelep
-Mihályvölgyi Tanya
-Mihályvölgy-tanya
+Migazzi-kastÃ©ly
+MihÃ¡ldi Ã–reghegy
+MihÃ¡ld
+MihÃ¡lydomb
+MihÃ¡lyfa
+MihÃ¡lyfapuszta
+MihÃ¡lygerge
+MihÃ¡lyhalma
+MihÃ¡lyhalom
+MihÃ¡lyhÃ¡za
+MihÃ¡lyhÃ¡zapuszta
+MihÃ¡lyhegy
+MihÃ¡lyialsÃ³puszta
+MihÃ¡lyifelsÅ‘puszta
+MihÃ¡lyi
+MihÃ¡lykurta-MÃ©rges-zug
+MihÃ¡lykurta
+MihÃ¡lymajor
+MihÃ¡ly Puszta
+MihÃ¡lytanya
+MihÃ¡lytelek
+MihÃ¡lytelep
+MihÃ¡lyvÃ¶lgyi Tanya
+MihÃ¡lyvÃ¶lgy-tanya
 Mihompuszta
 Mikebuda
-Mikec Miklós-tanya
-Mikec Pál-tanya
-Mikecz Miklós Tanya
-Mikecz Pál-tanya
+Mikec MiklÃ³s-tanya
+Mikec PÃ¡l-tanya
+Mikecz MiklÃ³s Tanya
+Mikecz PÃ¡l-tanya
 Mikecztag
 Mikecz-tanya
 Mikefa
-Mikekarácsonyfa
-Mikelakadûlõ
+MikekarÃ¡csonyfa
+MikelakadÅ±lÅ‘
 Mikelaka
 Mike
-Mikepércsi Tanyák
-Mikepércs
+MikepÃ©rcsi TanyÃ¡k
+MikepÃ©rcs
 Mikepuszta
 Mikestanya
 Mikesz-tag
@@ -14219,88 +14219,88 @@ Miketelep
 Mikitatanya
 Miklapuszta
 Miklitanya
-Miklósfai-halastavak
-Miklós Fája-hegy
-Miklós Fája
-Miklósfalvi Puszta
-Miklósfa
-Miklósföld
-Miklóshalmi Tanyák
-Miklóshalmi Tanya
-Miklóshalom
-Miklósháza
-Miklós-hegy
-Miklósimajor
-Miklósi
-Miklósitanya
-Miklósmajor
-Miklós Pál-hegy
-Miklóspuszta
-Miklóssytanya
-Miklóstanya
-Miklóstelep
-Miklós-tetõ
-Miklósvár
-Miklós-völgy
-Miklósvölgy
-Miklósvölgy-puszta
-Miklósvölgytelep
-Mikócsa-halom
-Mikófalva
-Mikóháza
-Mikosdkastély
+MiklÃ³sfai-halastavak
+MiklÃ³s FÃ¡ja-hegy
+MiklÃ³s FÃ¡ja
+MiklÃ³sfalvi Puszta
+MiklÃ³sfa
+MiklÃ³sfÃ¶ld
+MiklÃ³shalmi TanyÃ¡k
+MiklÃ³shalmi Tanya
+MiklÃ³shalom
+MiklÃ³shÃ¡za
+MiklÃ³s-hegy
+MiklÃ³simajor
+MiklÃ³si
+MiklÃ³sitanya
+MiklÃ³smajor
+MiklÃ³s PÃ¡l-hegy
+MiklÃ³spuszta
+MiklÃ³ssytanya
+MiklÃ³stanya
+MiklÃ³stelep
+MiklÃ³s-tetÅ‘
+MiklÃ³svÃ¡r
+MiklÃ³s-vÃ¶lgy
+MiklÃ³svÃ¶lgy
+MiklÃ³svÃ¶lgy-puszta
+MiklÃ³svÃ¶lgytelep
+MikÃ³csa-halom
+MikÃ³falva
+MikÃ³hÃ¡za
+MikosdkastÃ©ly
 Mikosdpuszta
-Mikosszéplaki Mezõ
-Mikosszéplak
+MikosszÃ©plaki MezÅ‘
+MikosszÃ©plak
 Mikostanya
-Mikó-tag
-Mikó-tanya
-Mikótanya
-Mikótelek
-Mikóvölgy
+MikÃ³-tag
+MikÃ³-tanya
+MikÃ³tanya
+MikÃ³telek
+MikÃ³vÃ¶lgy
 Miksamajor
-Mikusdûlõ
+MikusdÅ±lÅ‘
 Mikustanya
 Milej
 Milejszeg
-Miliè
-Milinkótanya
-Milkópuszta
+MiliÄ
+MilinkÃ³tanya
+MilkÃ³puszta
 Milkovics-major
 Milkovicstag
-Millér-fõcsatorna
-Milléri-fõcsatorna
-Millér
+MillÃ©r-fÅ‘csatorna
+MillÃ©ri-fÅ‘csatorna
+MillÃ©r
 Milota
-Minálygerge
+MinÃ¡lygerge
 Mindszentgodisa
-Mindszentkálla
+MindszentkÃ¡lla
 Mindszent
 Mindszentpuszta
 Minkatag
 Minketanya
 Mintatelep
-Mirhó
-Misa-réti-árok
-Misaréti Patak
+MirhÃ³
+Misa-rÃ©ti-Ã¡rok
+MisarÃ©ti Patak
 Misefai Hegy
 Misefa
 Misina
-Misina-tetõ
-Misina-Tubes-tetõ
+Misina-tetÅ‘
+Misina-Tubes-tetÅ‘
 Miska-halom
 Miskahalom
-Miskaháza
+MiskahÃ¡za
 Miskehegy
-Miskei Tó
+Miskei TÃ³
 Miske
 Miskepuszta
-Misketanyák
+MisketanyÃ¡k
 Miskitanya
-Miskolc-Gömöri Pályaudvar
-Miskolc Megyei Város
+Miskolc-GÃ¶mÃ¶ri PÃ¡lyaudvar
+Miskolc Megyei VÃ¡ros
 Miskolc
-Miskolc-Tiszai Pályaudvar
+Miskolc-Tiszai PÃ¡lyaudvar
 Miskolczitanya
 Miskolcz
 Miskole
@@ -14308,110 +14308,110 @@ Miskytanya
 Miszla
 Miszla-patak
 Mitlichtanya
-Mitrótanya
+MitrÃ³tanya
 Mitskymajor
 Mitsky
 Mitskytelep
 Mizsepuszta
-Mizserfabánya
-Mizserfa-bányatelep
-Mocfa Csárda
+MizserfabÃ¡nya
+Mizserfa-bÃ¡nyatelep
+Mocfa CsÃ¡rda
 Mocfa
-Mocsai Tanyák
+Mocsai TanyÃ¡k
 Mocsa
-Mocsárdûlõ
-Mocsár-hegy
-Mocsárhegy
-Mocsáridûlõ
-Mocsárka-hegy
-Mocsárka
-Mocsár
-Mocsárositanya
-Mocsáros-puszta
-Mocsárospuszta
-Mocsárostanya
-Mocsár-patak
-Mocsárytanya
-Mõcsényi Hegy
-Möcsény
-Mõcsény
+MocsÃ¡rdÅ±lÅ‘
+MocsÃ¡r-hegy
+MocsÃ¡rhegy
+MocsÃ¡ridÅ±lÅ‘
+MocsÃ¡rka-hegy
+MocsÃ¡rka
+MocsÃ¡r
+MocsÃ¡rositanya
+MocsÃ¡ros-puszta
+MocsÃ¡rospuszta
+MocsÃ¡rostanya
+MocsÃ¡r-patak
+MocsÃ¡rytanya
+MÅ‘csÃ©nyi Hegy
+MÃ¶csÃ©ny
+MÅ‘csÃ©ny
 Mocsi-sziget
-Mocsolyaerdõ
+MocsolyaerdÅ‘
 Mocsolya
-Mocsolyás
-Mocsolyás-patak
-Mocsolyás-puszta
-Mocsolyáspuszta
-Mocsolyás Puszta
-Mocsolyástanya
-Mocsolyástelep
-Mocsolyás Telep
-Mocsolyavölgypuszta
-Moczártanya
-Móczártanya
+MocsolyÃ¡s
+MocsolyÃ¡s-patak
+MocsolyÃ¡s-puszta
+MocsolyÃ¡spuszta
+MocsolyÃ¡s Puszta
+MocsolyÃ¡stanya
+MocsolyÃ¡stelep
+MocsolyÃ¡s Telep
+MocsolyavÃ¶lgypuszta
+MoczÃ¡rtanya
+MÃ³czÃ¡rtanya
 Modovitstanya
 Modrovics-tanya
 Modrovitstag
-Mógártanya
-Moggoróspuszta
-Mög-szeg
-Mögszeg
-Mogyoród
-Mogyorósbánya
-Mogyorós-bérc
-Mogyorósdûlõ
-Mogyorós-halom
-Mogyorós-hegy
-Mogyoróshegy
-Mogyorósi-domb
-Mogyorósidûlõ
-Mogyoróska
-Mogyorós-kert
+MÃ³gÃ¡rtanya
+MoggorÃ³spuszta
+MÃ¶g-szeg
+MÃ¶gszeg
+MogyorÃ³d
+MogyorÃ³sbÃ¡nya
+MogyorÃ³s-bÃ©rc
+MogyorÃ³sdÅ±lÅ‘
+MogyorÃ³s-halom
+MogyorÃ³s-hegy
+MogyorÃ³shegy
+MogyorÃ³si-domb
+MogyorÃ³sidÅ±lÅ‘
+MogyorÃ³ska
+MogyorÃ³s-kert
 Mogyoros
-Mogyorós
-Mogyorós-patak
-Mogyoróspuszta
-Mogyoróssziget
-Mogyoróstag
-Mogyoróstanya
-Mogyoróstelep
-Mogyoró-szeg
-Mogyoró-sziget
+MogyorÃ³s
+MogyorÃ³s-patak
+MogyorÃ³spuszta
+MogyorÃ³ssziget
+MogyorÃ³stag
+MogyorÃ³stanya
+MogyorÃ³stelep
+MogyorÃ³-szeg
+MogyorÃ³-sziget
 Mohacs Island
-Mohácsi-sziget
-Mohácsiszõlõ
-Mohácsmajor
-Mohács
-Mohaèi Siget
+MohÃ¡csi-sziget
+MohÃ¡csiszÅ‘lÅ‘
+MohÃ¡csmajor
+MohÃ¡cs
+MohaÄi Siget
 Moha
-Moha-Rakodó
+Moha-RakodÃ³
 Mohartelek
 Mohora
 Mohosbokor
 Mohos-galya
 Mohos
 Mohostanya
-Mohos-tó
-Mókakert
-Mokárdûlõ
+Mohos-tÃ³
+MÃ³kakert
+MokÃ¡rdÅ±lÅ‘
 Mokcsa
-Mokcsa-rét
+Mokcsa-rÃ©t
 Molaj Telep
-Mölcnerház
-Mölcznertanya
-Móliczkytanya
+MÃ¶lcnerhÃ¡z
+MÃ¶lcznertanya
+MÃ³liczkytanya
 Mollermajor
-Molnár-dûlõ
-Molnárdûlõ
-Molnár-föld-dûlõ
-Molnári
-Molnársziget
-Molnár-tag
-Molnártanya
-Molnár Tanya
-Molnaszecsõd
-Molványhidpuszta
-Molvány
+MolnÃ¡r-dÅ±lÅ‘
+MolnÃ¡rdÅ±lÅ‘
+MolnÃ¡r-fÃ¶ld-dÅ±lÅ‘
+MolnÃ¡ri
+MolnÃ¡rsziget
+MolnÃ¡r-tag
+MolnÃ¡rtanya
+MolnÃ¡r Tanya
+MolnaszecsÅ‘d
+MolvÃ¡nyhidpuszta
+MolvÃ¡ny
 Mona Halma
 Monaj
 Mondok
@@ -14419,275 +14419,275 @@ Mondor-zug
 Mongolzug
 Monok
 Monor-halom
-Monori Alsótanyák
-Monorierdõ
-Monori Erdõ
-Monor-Irsai-dombság
-Monor-Irsai-hátság
-Monoritanyák
+Monori AlsÃ³tanyÃ¡k
+MonorierdÅ‘
+Monori ErdÅ‘
+Monor-Irsai-dombsÃ¡g
+Monor-Irsai-hÃ¡tsÃ¡g
+MonoritanyÃ¡k
 Monor
 Monosa
-Mónosbél
-Mónosokori Tanya
-Mónosokor
-Monostorapáti
+MÃ³nosbÃ©l
+MÃ³nosokori Tanya
+MÃ³nosokor
+MonostorapÃ¡ti
 Monostordombi Tanya
 Monostor-hegy
-Monostoridûlõ
-Monostori-erdõ
-Monostori-tó
+MonostoridÅ±lÅ‘
+Monostori-erdÅ‘
+Monostori-tÃ³
 Monostor
-Monostorpályi
-Monoszló
-Montághi Út
+MonostorpÃ¡lyi
+MonoszlÃ³
+MontÃ¡ghi Ãšt
 Montaghkismajor
 Montaghnagymajor
 Montagh-nagytanya
-Montághy Út
+MontÃ¡ghy Ãšt
 Montaji-Pap-tag
 Montajitanya
 Montaj
-Mónustanya
+MÃ³nustanya
 Monyha Major
 Monyha
 Monyikhalom
-Monyóka
-Monyoród
-Monyoródpuszta
-Monyoróska
-Móra-domb
-Mórágy-Alsónána
-Mórágy
-Mórahalom
+MonyÃ³ka
+MonyorÃ³d
+MonyorÃ³dpuszta
+MonyorÃ³ska
+MÃ³ra-domb
+MÃ³rÃ¡gy-AlsÃ³nÃ¡na
+MÃ³rÃ¡gy
+MÃ³rahalom
 Moravszkytanya
-Mór-Bodajki-vízfolyás
-Mórévárifürdõtelep
-Morgánypuszta
-Morgódûlõ
-Morgógyepi Tanyák
-Morgókúti Tanyák
-Morgó
-Morgó-patak
-Morgó-puszta
-Morgóspuszta
-Morgó-tetõ
-Morgó-völgy
-Móri-árok
-Móricfapuszta
-Móricgát
-Mórichelyi-halastavak
-Mórichely
-Mórichelypuszta
-Mórichidaitanya
-Mórichida
-Móricliget
-Móric-major
-Móricmajor
-Móric
-Móric-puszta
-Móri-csatorna
-Móri Csatorna
-Móriczmajor
-Móricz
-Móriczpuszta
-Móricz-sziget
-Móricztanya
-Móri-hasadék
-Móri-patak
-Móri-víz
-Móri-völgy
-Mór
+MÃ³r-Bodajki-vÃ­zfolyÃ¡s
+MÃ³rÃ©vÃ¡rifÃ¼rdÅ‘telep
+MorgÃ¡nypuszta
+MorgÃ³dÅ±lÅ‘
+MorgÃ³gyepi TanyÃ¡k
+MorgÃ³kÃºti TanyÃ¡k
+MorgÃ³
+MorgÃ³-patak
+MorgÃ³-puszta
+MorgÃ³spuszta
+MorgÃ³-tetÅ‘
+MorgÃ³-vÃ¶lgy
+MÃ³ri-Ã¡rok
+MÃ³ricfapuszta
+MÃ³ricgÃ¡t
+MÃ³richelyi-halastavak
+MÃ³richely
+MÃ³richelypuszta
+MÃ³richidaitanya
+MÃ³richida
+MÃ³ricliget
+MÃ³ric-major
+MÃ³ricmajor
+MÃ³ric
+MÃ³ric-puszta
+MÃ³ri-csatorna
+MÃ³ri Csatorna
+MÃ³riczmajor
+MÃ³ricz
+MÃ³riczpuszta
+MÃ³ricz-sziget
+MÃ³ricztanya
+MÃ³ri-hasadÃ©k
+MÃ³ri-patak
+MÃ³ri-vÃ­z
+MÃ³ri-vÃ¶lgy
+MÃ³r
 Morok
-Morotvaköz
+MorotvakÃ¶z
 Morotva
-Morotva-tó
+Morotva-tÃ³
 Morvaimalom
 Morvaytanya
-Mosdós
-Moslékos
-Moslékostanya
-Mosolygószõllõ
+MosdÃ³s
+MoslÃ©kos
+MoslÃ©kostanya
+MosolygÃ³szÅ‘llÅ‘
 Mosom-patak
-Mosoni Dunaág
+Mosoni DunaÃ¡g
 Mosoni-Duna
-Mosoniúti Tanyák
-Mosonmagyaróvár
+MosoniÃºti TanyÃ¡k
+MosonmagyarÃ³vÃ¡r
 Moson
-Mosonszentjánosi Tanyák
-Mosonszentjános
-Mosonszentmiklósi Tanyák
-Mosonszentmiklós
-Mosonszentpéter
+MosonszentjÃ¡nosi TanyÃ¡k
+MosonszentjÃ¡nos
+MosonszentmiklÃ³si TanyÃ¡k
+MosonszentmiklÃ³s
+MosonszentpÃ©ter
 Mosonszolnok
 Mosontakert
-Mosottó
+MosottÃ³
 Mostohatanya
 Mosztongai-tavak
 Mount Gellert
 Mount Gerhardus
-Mózeshalom
-Mozsgó
-Mözsi Tanyák
-Mözs
+MÃ³zeshalom
+MozsgÃ³
+MÃ¶zsi TanyÃ¡k
+MÃ¶zs
 Mozsola
 Mucipuszta
 Mucsfa
-Mucsihát
+MucsihÃ¡t
 Mucsi-Hidasi-patak
-Mucsi-Hidasi-vízfolyás
+Mucsi-Hidasi-vÃ­zfolyÃ¡s
 Mucsi-Hidas-patak
 Mucsi
-Múcsony
-Mudsonykastély
-Mûhelytelep
+MÃºcsony
+MudsonykastÃ©ly
+MÅ±helytelep
 Muhi
-Mulatóalj
-Mulató-domb
-Mulatóhegydûlõ
-Mulató-hegy
-Mulatópark
-Mullei-szék
-Müllermalom
-Müllerpuszta
-Müller-szék
-Müller-tag
-Müllertanya
-Müller Tanya
+MulatÃ³alj
+MulatÃ³-domb
+MulatÃ³hegydÅ±lÅ‘
+MulatÃ³-hegy
+MulatÃ³park
+Mullei-szÃ©k
+MÃ¼llermalom
+MÃ¼llerpuszta
+MÃ¼ller-szÃ©k
+MÃ¼ller-tag
+MÃ¼llertanya
+MÃ¼ller Tanya
 Mumor
-Munkácsitanya
-Munkástelep
+MunkÃ¡csitanya
+MunkÃ¡stelep
 Munknagytanya
 Mura-hegy
 Murahid
-Murakeresztúr
+MurakeresztÃºr
 Mura
-Murarátka
+MurarÃ¡tka
 Muraszemenye
-Mureº
-Mureºul
+MureÅŸ
+MureÅŸul
 Muresh
-Mû-rét
-Mûrét
+MÅ±-rÃ©t
+MÅ±rÃ©t
 Murga
 Mur
 Murony
 Murva-hegy
 Murvahely
-Mustó
-Mustópuszta
-Muszájerdõdûlõ
-Muszájerdõ
-Muszáj-hegy
-Muszáj
-Muszájszõllõ
-Muszáj-szõlõk
-Muszájtag
-Muszályhegyalja
-Muszály
-Muszálytanya
-Muszkahát
+MustÃ³
+MustÃ³puszta
+MuszÃ¡jerdÅ‘dÅ±lÅ‘
+MuszÃ¡jerdÅ‘
+MuszÃ¡j-hegy
+MuszÃ¡j
+MuszÃ¡jszÅ‘llÅ‘
+MuszÃ¡j-szÅ‘lÅ‘k
+MuszÃ¡jtag
+MuszÃ¡lyhegyalja
+MuszÃ¡ly
+MuszÃ¡lytanya
+MuszkahÃ¡t
 Muzsiktanya
 Muzslai Hegy
 Muzsla
 Muzslapuszta
-Muzsla-tetõ
-Nábrád
-Nádadpuszta
+Muzsla-tetÅ‘
+NÃ¡brÃ¡d
+NÃ¡dadpuszta
 Nadalosiakol
 Nadalos
-Nadályos Patak
+NadÃ¡lyos Patak
 Nadapipad
 Nadap
 Nadarpad
-Nádasakol
-Nádas Bérc
-Nádasbokor
-Nádasdladány
-Nádasd
-Nádasdpuszta
-Nádas-dûlõ
-Nádasdûlõ
-Nádasdypuszta
-Nádas Fertõ
-Nádas-halom
-Nádas Halom
-Nádasibokor
-Nádasi Halom
-Nádaskút
-Nádas Lak
-Nádas
-Nádas Orom
-Nádaspuszta
-Nádas-szeg
-Nádas Szék
-Nádassziget
-Nádas Tanya
-Nádastelep
-Nádastódûlõ
-Nádastói Rét
-Nádas-tó
-Nádastó
-Nádas Tó
-Nádastópuszta
-Nádastótanya
-Nádastóvölgy
-Nádasytelep
+NÃ¡dasakol
+NÃ¡das BÃ©rc
+NÃ¡dasbokor
+NÃ¡dasdladÃ¡ny
+NÃ¡dasd
+NÃ¡dasdpuszta
+NÃ¡das-dÅ±lÅ‘
+NÃ¡dasdÅ±lÅ‘
+NÃ¡dasdypuszta
+NÃ¡das FertÅ‘
+NÃ¡das-halom
+NÃ¡das Halom
+NÃ¡dasibokor
+NÃ¡dasi Halom
+NÃ¡daskÃºt
+NÃ¡das Lak
+NÃ¡das
+NÃ¡das Orom
+NÃ¡daspuszta
+NÃ¡das-szeg
+NÃ¡das SzÃ©k
+NÃ¡dassziget
+NÃ¡das Tanya
+NÃ¡dastelep
+NÃ¡dastÃ³dÅ±lÅ‘
+NÃ¡dastÃ³i RÃ©t
+NÃ¡das-tÃ³
+NÃ¡dastÃ³
+NÃ¡das TÃ³
+NÃ¡dastÃ³puszta
+NÃ¡dastÃ³tanya
+NÃ¡dastÃ³vÃ¶lgy
+NÃ¡dasytelep
 Nadcakanj
-Nád-ér
-Nádhomokdûlõ
-Nádhomok
-Nádiga
-Nádigapuszta
+NÃ¡d-Ã©r
+NÃ¡dhomokdÅ±lÅ‘
+NÃ¡dhomok
+NÃ¡diga
+NÃ¡digapuszta
 Nadka
 Nad Kerka
-Nádlás
-Nádor-csatorna
-Nádorér
-Nádormajor
-Nádor-malomcsatorna
-Nádor
-Nádor-Sárvíz
-Nádortanya
-Nádosi Halom
-Nádosytelep
-Nadrágos-kert
-Nádudvar
-Nádújfalu
-Nágel-major
+NÃ¡dlÃ¡s
+NÃ¡dor-csatorna
+NÃ¡dorÃ©r
+NÃ¡dormajor
+NÃ¡dor-malomcsatorna
+NÃ¡dor
+NÃ¡dor-SÃ¡rvÃ­z
+NÃ¡dortanya
+NÃ¡dosi Halom
+NÃ¡dosytelep
+NadrÃ¡gos-kert
+NÃ¡dudvar
+NÃ¡dÃºjfalu
+NÃ¡gel-major
 Nagelpuszta
-Nágelpuszta
-Nágocsi Tanyák
-Nágocs
+NÃ¡gelpuszta
+NÃ¡gocsi TanyÃ¡k
+NÃ¡gocs
 Nagszal
-Nagyacsád
-Nagyagyagosdûlõ
+NagyacsÃ¡d
+NagyagyagosdÅ±lÅ‘
 Nagyagyagos
-Nagyalásony
-Nagy-állás-dûlõ
-Nagyállásdûlõ
-Nagyállásitanyák
-Nagy-állás
-Nagyállás
-Nagyálláspuszta
-Nagyállástanya
-Nagyalmási Tanya
-Nagy-almás
-Nagy Andaháza-puszta
+NagyalÃ¡sony
+Nagy-Ã¡llÃ¡s-dÅ±lÅ‘
+NagyÃ¡llÃ¡sdÅ±lÅ‘
+NagyÃ¡llÃ¡sitanyÃ¡k
+Nagy-Ã¡llÃ¡s
+NagyÃ¡llÃ¡s
+NagyÃ¡llÃ¡spuszta
+NagyÃ¡llÃ¡stanya
+NagyalmÃ¡si Tanya
+Nagy-almÃ¡s
+Nagy AndahÃ¡za-puszta
 Nagyaranyi
 Nagyaranypuszta
-Nagy-árki-dûlõ
+Nagy-Ã¡rki-dÅ±lÅ‘
 Nagyar
-Nagy-Árnyék-hegy
-Nagy-Árnyék
-Nagyárok Csatorna
-Nagy-árok
-Nagyárpád
+Nagy-ÃrnyÃ©k-hegy
+Nagy-ÃrnyÃ©k
+NagyÃ¡rok Csatorna
+Nagy-Ã¡rok
+NagyÃ¡rpÃ¡d
 Nagyasszony
 Nagyaszostanya
-Nagyatáditelep
-Nagyatád
-Nagy-Átal-kõ
-Nagybábony
+NagyatÃ¡ditelep
+NagyatÃ¡d
+Nagy-Ãtal-kÅ‘
+NagybÃ¡bony
 Nagy-Baglyas
 Nagybagolai Hegy
 Nagy Bagolai Hegy
@@ -14696,295 +14696,295 @@ Nagy-Bagota
 Nagybajcs
 Nagybajom
 Nagybajonta
-Nagybakónak
+NagybakÃ³nak
 Nagybakos
-Nagybakos Tó
-Nagy Bálint-tanya
+Nagybakos TÃ³
+Nagy BÃ¡lint-tanya
 Nagybalogdpuszta
-Nagybánhegyes
-Nagybánhegy
-Nagybányarétivölgy
-Nagybányászó Hegy
-Nagy-Banyászó
+NagybÃ¡nhegyes
+NagybÃ¡nhegy
+NagybÃ¡nyarÃ©tivÃ¶lgy
+NagybÃ¡nyÃ¡szÃ³ Hegy
+Nagy-BanyÃ¡szÃ³
 Nagybaracska
 Nagybaranya
-Nagy-Barátin
+Nagy-BarÃ¡tin
 Nagybaratinpuszta
-Nagybarátipuszta
-Nagybarát
-Nagybarcaibányatelep
+NagybarÃ¡tipuszta
+NagybarÃ¡t
+NagybarcaibÃ¡nyatelep
 Nagybarca
-Nagybárkány
-Nagybartalaposdûlõ
+NagybÃ¡rkÃ¡ny
+NagybartalaposdÅ±lÅ‘
 Nagybartalapos
-Nagybátony
-Nagy Béfõ
+NagybÃ¡tony
+Nagy BÃ©fÅ‘
 Nagy-Bekecs
-Nagybelsõ Tanya
+NagybelsÅ‘ Tanya
 Nagy-Bence-halom
-Nagy-bérc
+Nagy-bÃ©rc
 Nagy-berek
 Nagyberekpuszta
-Nagyberényi Puszta
-Nagyberény
+NagyberÃ©nyi Puszta
+NagyberÃ©ny
 Nagyberki
 Nagyberki-patak
-Nagybérpuszta
+NagybÃ©rpuszta
 Nagyberzseny
 Nagyberzsenypuszta
-Nagybicsérd
+NagybicsÃ©rd
 Nagybikahalom
-Nagy-bocsfõ
+Nagy-bocsfÅ‘
 Nagybocskaykert
-Nagy-Bócs
-Nagy-bodzás
-Nagybogárzó
-Nagy Bogárzó Tó
-Nagy-Bogát-halom
-Nagybogdány
-Nagy Bojár
+Nagy-BÃ³cs
+Nagy-bodzÃ¡s
+NagybogÃ¡rzÃ³
+Nagy BogÃ¡rzÃ³ TÃ³
+Nagy-BogÃ¡t-halom
+NagybogdÃ¡ny
+Nagy BojÃ¡r
 Nagybokros
-Nagyborockás
-Nagybörzsöny
-Nagyböszörményi Szilas
-Nagybot-féle Puszta
-Nagybozsód
-Nagybózsva
+NagyborockÃ¡s
+NagybÃ¶rzsÃ¶ny
+NagybÃ¶szÃ¶rmÃ©nyi Szilas
+Nagybot-fÃ©le Puszta
+NagybozsÃ³d
+NagybÃ³zsva
 Nagy B.-tanya
 Nagy-Bucsa
-Nagybudmér
-Nagybüdös Tó
+NagybudmÃ©r
+NagybÃ¼dÃ¶s TÃ³
 Nagybugac
-Nagy-bükk
-Nagybükk
+Nagy-bÃ¼kk
+NagybÃ¼kk
 Nagybutykatanya
 Nagycenk
 Nagycepre
-Nagy-csáj-tó
-Nagy-Csákány
+Nagy-csÃ¡j-tÃ³
+Nagy-CsÃ¡kÃ¡ny
 Nagy-Csala
-Nagy Csanád-puszta
-Nagycsány
-Nagycsárda
+Nagy CsanÃ¡d-puszta
+NagycsÃ¡ny
+NagycsÃ¡rda
 Nagy-csatorna
-Nagycsécs
+NagycsÃ©cs
 Nagycseger
-Nagycsepelyi Tanyák
+Nagycsepelyi TanyÃ¡k
 Nagycsepely
-Nagycsere Állomás
+Nagycsere ÃllomÃ¡s
 Nagycsere
 Nagy-Cserepes-kert
-Nagycséripuszta
+NagycsÃ©ripuszta
 Nagycserkesz
 Nagy-Cser
-Nagy-csikér-tanya
-Nagy-Csókás-hát
-Nagycsókás
-Nagycsömöte
-Nagycsonkás
-Nagy-Csõsz-halom
-Nagy-Csukás-tó
-Nagydeindoldûlõ
+Nagy-csikÃ©r-tanya
+Nagy-CsÃ³kÃ¡s-hÃ¡t
+NagycsÃ³kÃ¡s
+NagycsÃ¶mÃ¶te
+NagycsonkÃ¡s
+Nagy-CsÅ‘sz-halom
+Nagy-CsukÃ¡s-tÃ³
+NagydeindoldÅ±lÅ‘
 Nagydeindol
-Nagy-dél
-Nagydém
-Nagy-Derenyõ
+Nagy-dÃ©l
+NagydÃ©m
+Nagy-DerenyÅ‘
 Nagy Derzs-tanya
 Nagydinnye
 Nagydoboka
-Nagydobosdûlõ
+NagydobosdÅ±lÅ‘
 Nagydobos
 Nagydobsza
-Nagydombiszõllõ
+NagydombiszÅ‘llÅ‘
 Nagydomb
 Nagydorog
-Nagydrágszél Puszta
-Nagy Duna-ág
+NagydrÃ¡gszÃ©l Puszta
+Nagy Duna-Ã¡g
 Nagydunapart
 Nagyecsedi Tanya
 Nagyecsed
 Nagyecseny
-Nagyecsér
-Nagyecsértanya
-Nagyegeddûlõ
+NagyecsÃ©r
+NagyecsÃ©rtanya
+NagyegeddÅ±lÅ‘
 Nagy Eged-hegy
 Nagyeged
 Nagy-Eged
-Nagyégési-õrház
-Nagyégés
+NagyÃ©gÃ©si-Å‘rhÃ¡z
+NagyÃ©gÃ©s
 Nagyegres Hegy
-Nagyegyháza
-Nagyegyházhalma
-Nagyerdõdûlõ
-Nagy-erdõ-hegy
-Nagyerdõ
-Nagyerdõpuszta
-Nagyerdõtanya
-Nagyérdûlõ
+NagyegyhÃ¡za
+NagyegyhÃ¡zhalma
+NagyerdÅ‘dÅ±lÅ‘
+Nagy-erdÅ‘-hegy
+NagyerdÅ‘
+NagyerdÅ‘puszta
+NagyerdÅ‘tanya
+NagyÃ©rdÅ±lÅ‘
 Nagy-Erebe
-Nagy-éri-csatorna
-Nagyéri Tanya
-Nagy-ér
-Nagyér
-Nagyesztergár
+Nagy-Ã©ri-csatorna
+NagyÃ©ri Tanya
+Nagy-Ã©r
+NagyÃ©r
+NagyesztergÃ¡r
 Nagyfakos
 Nagyfaludpuszta
 Nagyfa Major
 Nagy-fa
 Nagyfa
-Nagyfás
-Nagyfástanya
+NagyfÃ¡s
+NagyfÃ¡stanya
 Nagyfatanya
-Nagy-Fehér-tó
-Nagy-fenék
-Nagyfenék
-Nagyfenyõdûlõ
-Nagyfenyõ
+Nagy-FehÃ©r-tÃ³
+Nagy-fenÃ©k
+NagyfenÃ©k
+NagyfenyÅ‘dÅ±lÅ‘
+NagyfenyÅ‘
 Nagy Ferenc-tanya
-Nagyfernekág
-Nagy-fertõ-dûlõ
-Nagyfertõi Tanyák
-Nagy-fertõ
-Nagyfertõ
+NagyfernekÃ¡g
+Nagy-fertÅ‘-dÅ±lÅ‘
+NagyfertÅ‘i TanyÃ¡k
+Nagy-fertÅ‘
+NagyfertÅ‘
 Nagyfiter
 Nagyfiter-puszta
-Nagyfok-tó
-Nagyfügedi Tanyák
-Nagyfüged
+Nagyfok-tÃ³
+NagyfÃ¼gedi TanyÃ¡k
+NagyfÃ¼ged
 Nagygajla
-Nagy-galagonyás
+Nagy-galagonyÃ¡s
 Nagy Galla Hegy
 Nagy-Galla
 Nagy-Gallya
 Nagy Galya
 Nagyganna
-Nagygáti Beresk
-Nagygátidûlõ
-Nagy-gát
-Nagygát-tó
-Nagygéc
+NagygÃ¡ti Beresk
+NagygÃ¡tidÅ±lÅ‘
+Nagy-gÃ¡t
+NagygÃ¡t-tÃ³
+NagygÃ©c
 Nagygecsenymajor
 Nagy-Gella-hegy
 Nagy-Gella
 Nagy-Gerecse
-Nagygerendáspuszta
+NagygerendÃ¡spuszta
 Nagygeresd
 Nagy Gergely-tanya
 Nagy-Gete-hegy
 Nagy-Gete
-Nagy-göbölyjárás
+Nagy-gÃ¶bÃ¶lyjÃ¡rÃ¡s
 Nagygombos
-Nagygörbõ
-Nagygõzhát
-Nagygyanté
-Nagygyepi-tanyák
+NagygÃ¶rbÅ‘
+NagygÅ‘zhÃ¡t
+NagygyantÃ©
+Nagygyepi-tanyÃ¡k
 Nagygyeptanya
 Nagy Gyilkos-halom
-Nagygyimót
-Nagy-gyócs
-Nagygyón
-Nagygyónpuszta
-Nagygyörgyszállás
-Nagy György-tanya
-Nagy-Hábod
-Nagyhádos
-Nagy-hagymás
-Nagyhajmás
-Nagy-hálás
-Nagyhalászi Kendergyár
-Nagyhalász
-Nagy Hallgató
-Nagyhalomdûlõ
+NagygyimÃ³t
+Nagy-gyÃ³cs
+NagygyÃ³n
+NagygyÃ³npuszta
+NagygyÃ¶rgyszÃ¡llÃ¡s
+Nagy GyÃ¶rgy-tanya
+Nagy-HÃ¡bod
+NagyhÃ¡dos
+Nagy-hagymÃ¡s
+NagyhajmÃ¡s
+Nagy-hÃ¡lÃ¡s
+NagyhalÃ¡szi KendergyÃ¡r
+NagyhalÃ¡sz
+Nagy HallgatÃ³
+NagyhalomdÅ±lÅ‘
 Nagy-halom
 Nagyhalom
 Nagyhalom-puszta
-Nagyhantosierdõmajor
+NagyhantosierdÅ‘major
 Nagyhantos
-Nagyhantos-Újtelep
+Nagyhantos-Ãšjtelep
 Nagyharang
-Nagyhármasitanya
-Nagyhármas
-Nagyhármas-tanya
-Nagy Harsány
-Nagyharsány
-Nagy-hársas
-Nagy-hársas-tanya
-Nagy-hárs
-Nagyhatárdomb
-Nagy Határ
-Nagyhátastanya
-Nagyhátitanya
-Nagy-hát
-Nagyhát
-Nagyhátpuszta
-Nagyhát-tanya
-Nagyháttanya
-Nagyház
-Nagyháztanya
-Nagyhegydûlõ
+NagyhÃ¡rmasitanya
+NagyhÃ¡rmas
+NagyhÃ¡rmas-tanya
+Nagy HarsÃ¡ny
+NagyharsÃ¡ny
+Nagy-hÃ¡rsas
+Nagy-hÃ¡rsas-tanya
+Nagy-hÃ¡rs
+NagyhatÃ¡rdomb
+Nagy HatÃ¡r
+NagyhÃ¡tastanya
+NagyhÃ¡titanya
+Nagy-hÃ¡t
+NagyhÃ¡t
+NagyhÃ¡tpuszta
+NagyhÃ¡t-tanya
+NagyhÃ¡ttanya
+NagyhÃ¡z
+NagyhÃ¡ztanya
+NagyhegydÅ±lÅ‘
 Nagyhegyes
-Nagy-hegy-Hangács
+Nagy-hegy-HangÃ¡cs
 Nagy-hegy
 Nagyhegy
 Nagy Hegy
 Nagyhegypuszta
-Nagyhegyszõllõ
-Nagyhegyszõlõ
+NagyhegyszÅ‘llÅ‘
+NagyhegyszÅ‘lÅ‘
 Nagyhegytanya
 Nagy-Henc
 Nagy Hercegtag
-Nagyherkály
-Nagyhíddûlõ
+NagyherkÃ¡ly
+NagyhÃ­ddÅ±lÅ‘
 Nagy-Hideg-hegy
-Nagy-Hídköz
-Nagyhodályitanya
-Nagyhodály
-Nagyhódos
+Nagy-HÃ­dkÃ¶z
+NagyhodÃ¡lyitanya
+NagyhodÃ¡ly
+NagyhÃ³dos
 Nagyhomok-hegy
 Nagy-homoki-domb
-Nagyhomoki Szõllõ
+Nagyhomoki SzÅ‘llÅ‘
 Nagy-homok
 Nagyhomok
-Nagyhomok-õrház
+Nagyhomok-Å‘rhÃ¡z
 Nagyhomokos
 Nagyhomokpuszta
 Nagyhomoktanya
-Nagyhörcsökpuszta
+NagyhÃ¶rcsÃ¶kpuszta
 Nagyhortyi
-Nagyhorváti
-Nagyhosszúrét
+NagyhorvÃ¡ti
+NagyhosszÃºrÃ©t
 Nagyhuta
 Nagyicce
 Nagyigalmajor
-Nagyigmánd-Bábolna
-Nagyigmándi-tó
-Nagyigmánd
-Nagyimándi-halastavak
-Nagy-Inóc
-Nagyirtáspuszta
-Nagy István Halom
+NagyigmÃ¡nd-BÃ¡bolna
+NagyigmÃ¡ndi-tÃ³
+NagyigmÃ¡nd
+NagyimÃ¡ndi-halastavak
+Nagy-InÃ³c
+NagyirtÃ¡spuszta
+Nagy IstvÃ¡n Halom
 Nagy I.-tanya
-Nagy Ivács-hegy
-Nagyivács
-Nagyiváni Tanyák
-Nagyiván
-Nagy János Major
-Nagyjápláni Major
-Nagy-járandó
-Nagy-járás-dûlõ
-Nagy-járás
-Nagyjárás
-Nagyjátó-hegy
+Nagy IvÃ¡cs-hegy
+NagyivÃ¡cs
+NagyivÃ¡ni TanyÃ¡k
+NagyivÃ¡n
+Nagy JÃ¡nos Major
+NagyjÃ¡plÃ¡ni Major
+Nagy-jÃ¡randÃ³
+Nagy-jÃ¡rÃ¡s-dÅ±lÅ‘
+Nagy-jÃ¡rÃ¡s
+NagyjÃ¡rÃ¡s
+NagyjÃ¡tÃ³-hegy
 Nagykaba
-Nagy Kákástó
-Nagykállói Úti Tanyák
-Nagykállói Vadaspuszta
-Nagykálló
-Nagykamarási Tanyák
-Nagykamarás
+Nagy KÃ¡kÃ¡stÃ³
+NagykÃ¡llÃ³i Ãšti TanyÃ¡k
+NagykÃ¡llÃ³i Vadaspuszta
+NagykÃ¡llÃ³
+NagykamarÃ¡si TanyÃ¡k
+NagykamarÃ¡s
 Nagykamond
 Nagykanizsai-patak
-Nagykanizsa Megyei Város
+Nagykanizsa Megyei VÃ¡ros
 Nagykanizsa
 Nagykapi
 Nagykapornak
@@ -14992,730 +14992,730 @@ Nagykapornok
 Nagy-kapros
 Nagykapros
 Nagykaprostanya
-Nagykarácsony Felsõ
-Nagykarácsonyi-szõllõhegy
-Nagykarácsony
-Nagykarácsony Puszta
-Nagykarácsonyszállás
-Nagykarróspuszta
-Nagykastélykert
+NagykarÃ¡csony FelsÅ‘
+NagykarÃ¡csonyi-szÅ‘llÅ‘hegy
+NagykarÃ¡csony
+NagykarÃ¡csony Puszta
+NagykarÃ¡csonyszÃ¡llÃ¡s
+NagykarrÃ³spuszta
+NagykastÃ©lykert
 Nagykasziba
-Nagykáta
-Nagykecskeritó
-Nagykecskés
-Nagy-Kéményes-dûlõ
+NagykÃ¡ta
+NagykecskeritÃ³
+NagykecskÃ©s
+Nagy-KÃ©mÃ©nyes-dÅ±lÅ‘
 Nagykemestanya
 Nagykereki
-Nagykeresztúr
-Nagykérimajor
+NagykeresztÃºr
+NagykÃ©rimajor
 Nagy-Kerka
 Nagy-kert
 Nagykert
-Nagy-Kettõs
-Nagykettõstanya
-Nagy-Kevély
-Nagykilátó
+Nagy-KettÅ‘s
+NagykettÅ‘stanya
+Nagy-KevÃ©ly
+NagykilÃ¡tÃ³
 Nagykinizs
-Nagykirályhegyespuszta
-Nagykirály
-Nagykirályság
-Nagy Kõbánya-hegy
-Nagyköcsk
-Nagykócs
-Nagy Kõhegy
-Nagykökényes
-Nagykõkötõ
-Nagykölked
-Nagy-Koncsúr
+NagykirÃ¡lyhegyespuszta
+NagykirÃ¡ly
+NagykirÃ¡lysÃ¡g
+Nagy KÅ‘bÃ¡nya-hegy
+NagykÃ¶csk
+NagykÃ³cs
+Nagy KÅ‘hegy
+NagykÃ¶kÃ©nyes
+NagykÅ‘kÃ¶tÅ‘
+NagykÃ¶lked
+Nagy-KoncsÃºr
 Nagykonda
-Nagy-kõ
-Nagykónyi
-Nagykopáncs
+Nagy-kÅ‘
+NagykÃ³nyi
+NagykopÃ¡ncs
 Nagy Kopasz-hegy
 Nagy-Kopasz
-Nagy Koppány
-Nagy-Koppány
-Nagy-Koppány-patak
-Nagykorcsolyás
-Nagy-Kõrös-hegy
-Nagy-Kõrös
-Nagykõrös
-Nagykorpád
-Nagy Korsós Hegy
-Nagy-Korsós
-Nagy-körtvélyes
-Nagykörtvélyestanya
-Nagykörû
-Nagy-kõ-tetõ
-Nagykõ-tetõ
-Nagykovácsi
-Nagykovácsi Part
-Nagykozár
-Nagykunsági-fõcsatorna
-Nagykunsági Öntözõ Fõcsatorna
-Nagykunság
-Nagykúria
-Nagy Kúria-puszta
-Nagykürtöspuszta
-Nagykustyán
+Nagy KoppÃ¡ny
+Nagy-KoppÃ¡ny
+Nagy-KoppÃ¡ny-patak
+NagykorcsolyÃ¡s
+Nagy-KÅ‘rÃ¶s-hegy
+Nagy-KÅ‘rÃ¶s
+NagykÅ‘rÃ¶s
+NagykorpÃ¡d
+Nagy KorsÃ³s Hegy
+Nagy-KorsÃ³s
+Nagy-kÃ¶rtvÃ©lyes
+NagykÃ¶rtvÃ©lyestanya
+NagykÃ¶rÅ±
+Nagy-kÅ‘-tetÅ‘
+NagykÅ‘-tetÅ‘
+NagykovÃ¡csi
+NagykovÃ¡csi Part
+NagykozÃ¡r
+NagykunsÃ¡gi-fÅ‘csatorna
+NagykunsÃ¡gi Ã–ntÃ¶zÅ‘ FÅ‘csatorna
+NagykunsÃ¡g
+NagykÃºria
+Nagy KÃºria-puszta
+NagykÃ¼rtÃ¶spuszta
+NagykustyÃ¡n
 Nagykutas
-Nagykútdûlõ
-Nagykút
-Nagykvadrát
+NagykÃºtdÅ±lÅ‘
+NagykÃºt
+NagykvadrÃ¡t
 Nagy Lajos-tanya
 Nagy Lajos Tanya
-Nagylaki Kendergyár
+Nagylaki KendergyÃ¡r
 Nagylakiugar
 Nagylak
-Nagyláng
-Nagylányfalutanya
-Nagylaposdûlõ
+NagylÃ¡ng
+NagylÃ¡nyfalutanya
+NagylaposdÅ±lÅ‘
 Nagylaposipuszta
-Nagylaposi Újtelep
+Nagylaposi Ãšjtelep
 Nagy-lapos
 Nagylapos
 Nagylapospuszta
 Nagylapostanya
-Nagy László Hegy
-Nagy-leányfalu-tanya
-Nagy Lecsapoló Árok
-Nagylegelõi Pásztorház
-Nagy-legelõ
-Nagylegelõ
+Nagy LÃ¡szlÃ³ Hegy
+Nagy-leÃ¡nyfalu-tanya
+Nagy LecsapolÃ³ Ãrok
+NagylegelÅ‘i PÃ¡sztorhÃ¡z
+Nagy-legelÅ‘
+NagylegelÅ‘
 Nagylengyel
-Nagyléta
+NagylÃ©ta
 Nagyligetes
 Nagyligetestanya
 Nagyliget
-Nagylóc
-Nagylóki Erdõmajor
-Nagy Lóki Hegy
-Nagylók
-Nagylóktelep
-Nagylónya
-Nagylózs
+NagylÃ³c
+NagylÃ³ki ErdÅ‘major
+Nagy LÃ³ki Hegy
+NagylÃ³k
+NagylÃ³ktelep
+NagylÃ³nya
+NagylÃ³zs
 Nagylujzihegy
-Nagymágocs
-Nagy Magyar Alföld
-Nagymajláth
-Nagymajoridûlõ
+NagymÃ¡gocs
+Nagy Magyar AlfÃ¶ld
+NagymajlÃ¡th
+NagymajoridÅ±lÅ‘
 Nagymajoritanya
 Nagymajor
 Nagymajortanya
-Nagymákfa
-Nagymál Kõszénbányatelep
-Nagy-mál-völgy
-Nagy-Mána
-Nagymányok
-Nagy-Mánzsai-dûlõ
-Nagymánzsa
+NagymÃ¡kfa
+NagymÃ¡l KÅ‘szÃ©nbÃ¡nyatelep
+Nagy-mÃ¡l-vÃ¶lgy
+Nagy-MÃ¡na
+NagymÃ¡nyok
+Nagy-MÃ¡nzsai-dÅ±lÅ‘
+NagymÃ¡nzsa
 Nagymaria
 Nagymarja-puszta
 Nagymaros
-Nagymarostõ
-Nagymaros-Visegrád
+NagymarostÅ‘
+Nagymaros-VisegrÃ¡d
 Nagymaszling
-Nagymátétanya
+NagymÃ¡tÃ©tanya
 Nagymedgyes
 Nagymedves-puszta
 Nagy-meggyes
 Nagymegyer
-Nagymérges
+NagymÃ©rges
 Nagy-Meszes
-Nagy-Mész-tetõ
-Nagy-metszés
-Nagy-metzés-csatorna
-Nagy-mezõ-dûlõ
-Nagymezõdûlõ
-Nagy-mezõ
-Nagymezõ
-Nagymezõpuszta
-Nagymezõtanya
+Nagy-MÃ©sz-tetÅ‘
+Nagy-metszÃ©s
+Nagy-metzÃ©s-csatorna
+Nagy-mezÅ‘-dÅ±lÅ‘
+NagymezÅ‘dÅ±lÅ‘
+Nagy-mezÅ‘
+NagymezÅ‘
+NagymezÅ‘puszta
+NagymezÅ‘tanya
 Nagy-Micske
 Nagymicskepuszta
 Nagy Milic
 Nagy Milicz
-Nagymizdó
-Nagymocsárdûlõ
-Nagymogyorós
-Nagymonostori Tanyák
+NagymizdÃ³
+NagymocsÃ¡rdÅ±lÅ‘
+NagymogyorÃ³s
+Nagymonostori TanyÃ¡k
 Nagy-Montaj
-Nagymorotvadûlõ
+NagymorotvadÅ±lÅ‘
 Nagy-morotva
 Nagymorotva
-Nagy Morotva-tó
+Nagy Morotva-tÃ³
 Nagy-Murga
 Nagy-Musak
-Nagy-Nádas-oldal
-Nagy-Nádas-tó
+Nagy-NÃ¡das-oldal
+Nagy-NÃ¡das-tÃ³
 Nagynarda
-Nagynémetegyház
-Nagynyárád Megálló
-Nagynyárád
+NagynÃ©metegyhÃ¡z
+NagynyÃ¡rÃ¡d MegÃ¡llÃ³
+NagynyÃ¡rÃ¡d
 Nagy-Nyerges
-Nagynyíresdûlõ
-Nagynyír
-Nagynyolcaddûlõ
-Nagy-Nyolcadok-dûlõ
-Nagy-nyomás
-Nagynyomás
+NagynyÃ­resdÅ±lÅ‘
+NagynyÃ­r
+NagynyolcaddÅ±lÅ‘
+Nagy-Nyolcadok-dÅ±lÅ‘
+Nagy-nyomÃ¡s
+NagynyomÃ¡s
 Nagy-oldal
 Nagyoldalpuszta
-Nagyományi-tanyák
-Nagyománytanya
+NagyomÃ¡nyi-tanyÃ¡k
+NagyomÃ¡nytanya
 Nagy-orom
-Nagy-óros Bérc
+Nagy-Ã³ros BÃ©rc
 Nagyoros
 Nagyoroszi
 Nagyostoros
-Nagyoszlár
-Nagypalánkpuszta
-Nagy Pál Dûlõ
-Nagypáli
+NagyoszlÃ¡r
+NagypalÃ¡nkpuszta
+Nagy PÃ¡l DÅ±lÅ‘
+NagypÃ¡li
 Nagypall
-Nagy Pál Sismánd
-Nagypáltanya
-Nagy Pál-tanya
-Nagy Pál Telep
-Nagypáncélos
+Nagy PÃ¡l SismÃ¡nd
+NagypÃ¡ltanya
+Nagy PÃ¡l-tanya
+Nagy PÃ¡l Telep
+NagypÃ¡ncÃ©los
 Nagypandursziget
-Nagy-Pándzsa-ér
-Nagy-Pándzsa
-Nagy-Pánzsa
+Nagy-PÃ¡ndzsa-Ã©r
+Nagy-PÃ¡ndzsa
+Nagy-PÃ¡nzsa
 Nagy-Papaj
 Nagy-Papucs-hegy
 Nagy-parlag
 Nagyparlag
 Nagyparlagpuszta
 Nagyparnakpuszta
-Nagy-páskom
-Nagypáskom
+Nagy-pÃ¡skom
+NagypÃ¡skom
 Nagy-patak
 Nagypatak
-Nagypatárpuszta
-Nagy-Patkó
-Nagy-patkós
-Nagypatkó-sziget
-Nagypéli Határrész
-Nagypél
-Nagyperkáta
-Nagy-Perkáta
+NagypatÃ¡rpuszta
+Nagy-PatkÃ³
+Nagy-patkÃ³s
+NagypatkÃ³-sziget
+NagypÃ©li HatÃ¡rrÃ©sz
+NagypÃ©l
+NagyperkÃ¡ta
+Nagy-PerkÃ¡ta
 Nagypeterd
 Nagypirit
 Nagy Pisznice
-Nagyplacskó
-Nagypóczapuszta
-Nagy-Podár
-Nagypodárpodárpuszta
-Nagypóka
-Nagypókatanya
+NagyplacskÃ³
+NagypÃ³czapuszta
+Nagy-PodÃ¡r
+NagypodÃ¡rpodÃ¡rpuszta
+NagypÃ³ka
+NagypÃ³katanya
 Nagyponyipuszta
-Nagyporonoki Hegygazdaság
-Nagypród
-Nagy-Púpos-halom
+Nagyporonoki HegygazdasÃ¡g
+NagyprÃ³d
+Nagy-PÃºpos-halom
 Nagypuszta
-Nagyrábé
+NagyrÃ¡bÃ©
 Nagyrada
-Nagyrákos
-Nagyrakottyás
-Nagyrátamajor
-Nagyráta
-Nagyrécse
-Nagyréde
-Nagy-répás
-Nagyrétdûlõ
-Nagyrétidûlõ
-Nagy Rétimajor
-Nagyréti Patak
-Nagyréti Tanyák
-Nagyréti Tanya
-Nagy-rét
-Nagyrét
-Nagy Rét
-Nagyrévi Szõllõk
-Nagyrévitanyák
-Nagyrév
-Nagyrezét
+NagyrÃ¡kos
+NagyrakottyÃ¡s
+NagyrÃ¡tamajor
+NagyrÃ¡ta
+NagyrÃ©cse
+NagyrÃ©de
+Nagy-rÃ©pÃ¡s
+NagyrÃ©tdÅ±lÅ‘
+NagyrÃ©tidÅ±lÅ‘
+Nagy RÃ©timajor
+NagyrÃ©ti Patak
+NagyrÃ©ti TanyÃ¡k
+NagyrÃ©ti Tanya
+Nagy-rÃ©t
+NagyrÃ©t
+Nagy RÃ©t
+NagyrÃ©vi SzÅ‘llÅ‘k
+NagyrÃ©vitanyÃ¡k
+NagyrÃ©v
+NagyrezÃ©t
 Nagyrinya Puszta
-Nagyrót
-Nagyrózsásitanya
-Nagy-rózsás
-Nagyrozvágy
+NagyrÃ³t
+NagyrÃ³zsÃ¡sitanya
+Nagy-rÃ³zsÃ¡s
+NagyrozvÃ¡gy
 Nagy Rudas
-Nagy-Salgó
-Nagysallérpuszta
-Nagy Sándor-tanya
-Nagysáp
-Nagy-sári-hegy
-Nagysári Puszta
-Nagysárostó
-Nagysárpuszta
-Nagy-sárrét
+Nagy-SalgÃ³
+NagysallÃ©rpuszta
+Nagy SÃ¡ndor-tanya
+NagysÃ¡p
+Nagy-sÃ¡ri-hegy
+NagysÃ¡ri Puszta
+NagysÃ¡rostÃ³
+NagysÃ¡rpuszta
+Nagy-sÃ¡rrÃ©t
 Nagy-Sas-hegy
 Nagysas-patak
-Nagy-Sás-tó
-Nagyséd
-Nagy Seg Tó
-Nagysíkdûlõ
-Nagy-sík
-Nagysíktanya
+Nagy-SÃ¡s-tÃ³
+NagysÃ©d
+Nagy Seg TÃ³
+NagysÃ­kdÅ±lÅ‘
+Nagy-sÃ­k
+NagysÃ­ktanya
 Nagysimonyi
-Nagysismánd
+NagysismÃ¡nd
 Nagysitke
-Nagy Sménkes
-Nagy-Som Erdészlak
+Nagy SmÃ©nkes
+Nagy-Som ErdÃ©szlak
 Nagy-Som-hegy
-Nagy Somló-hegy
-Nagy-Somló
-Nagy-Somlyó-hegy
-Nagy-Somlyó
-Nagy Somlyóvár
-Nagy-Somlyóvár
+Nagy SomlÃ³-hegy
+Nagy-SomlÃ³
+Nagy-SomlyÃ³-hegy
+Nagy-SomlyÃ³
+Nagy SomlyÃ³vÃ¡r
+Nagy-SomlyÃ³vÃ¡r
 Nagysom
-Nagy-Som-tetõ
-Nagy-sóstó
+Nagy-Som-tetÅ‘
+Nagy-sÃ³stÃ³
 Nagy S.-tanya
-Nagysulymosháttanya
+NagysulymoshÃ¡ttanya
 Nagy-sulymos
-Nagysumár
-Nagysúr
-Nagyszakácsi
-Nagy Szakási
+NagysumÃ¡r
+NagysÃºr
+NagyszakÃ¡csi
+Nagy SzakÃ¡si
 Nagyszalasznya-patak
-Nagyszállásitanya
-Nagyszállás
-Nagyszállástanya
-Nagyszál
+NagyszÃ¡llÃ¡sitanya
+NagyszÃ¡llÃ¡s
+NagyszÃ¡llÃ¡stanya
+NagyszÃ¡l
 Nagy-Szalonta
 Nagyszanda
-Nagy-Szegegyháza
+Nagy-SzegegyhÃ¡za
 Nagyszeg
-Nagy-szék-dûlõ
-Nagyszékdûlõ
-Nagyszékely
+Nagy-szÃ©k-dÅ±lÅ‘
+NagyszÃ©kdÅ±lÅ‘
+NagyszÃ©kely
 Nagyszekeres
-Nagyszékestanya
-Nagy-széki-dûlõ
-Nagyszékidûlõ
-Nagyszéklápa-tanya
-Nagy-szék-lapos
-Nagy-szék
-Nagyszék
-Nagyszéksós
-Nagy-Széksós-tó
-Nagy Szék Tó
-Nagy-Széna-hegy
-Nagy-szénás
-Nagyszénás
+NagyszÃ©kestanya
+Nagy-szÃ©ki-dÅ±lÅ‘
+NagyszÃ©kidÅ±lÅ‘
+NagyszÃ©klÃ¡pa-tanya
+Nagy-szÃ©k-lapos
+Nagy-szÃ©k
+NagyszÃ©k
+NagyszÃ©ksÃ³s
+Nagy-SzÃ©ksÃ³s-tÃ³
+Nagy SzÃ©k TÃ³
+Nagy-SzÃ©na-hegy
+Nagy-szÃ©nÃ¡s
+NagyszÃ©nÃ¡s
 Nagyszentanna-puszta
-Nagyszentjános
-Nagyszentmiklóspuszta
-Nagyszentpál-puszta
-Nagyszigetdûlõ
-Nagyszigeti Lakóház
-Nagyszigeti Tanyák
+NagyszentjÃ¡nos
+NagyszentmiklÃ³spuszta
+NagyszentpÃ¡l-puszta
+NagyszigetdÅ±lÅ‘
+Nagyszigeti LakÃ³hÃ¡z
+Nagyszigeti TanyÃ¡k
 Nagy-sziget
 Nagysziget
 Nagy Sziget
 Nagyszigettanya
-Nagy-sziki-tó
-Nagyszik-tó
-Nagy Szik-tó
+Nagy-sziki-tÃ³
+Nagyszik-tÃ³
+Nagy Szik-tÃ³
 Nagy-Szoba-hegy
-Nagyszög
-Nagyszögtanya
-Nagyszokolyi Tanyák
+NagyszÃ¶g
+NagyszÃ¶gtanya
+Nagyszokolyi TanyÃ¡k
 Nagyszokoly
-Nagyszõllõ-hegy
-Nagyszõllõ
-Nagyszõllõtanya
-Nagy-szõlõhegy
-Nagy-szõlõ
-Nagyszõlõ
-Nagy-Szoplák
-Nagy-Szór-hegy
-Nagy-szóri-völgy
-Nagy-Szór
+NagyszÅ‘llÅ‘-hegy
+NagyszÅ‘llÅ‘
+NagyszÅ‘llÅ‘tanya
+Nagy-szÅ‘lÅ‘hegy
+Nagy-szÅ‘lÅ‘
+NagyszÅ‘lÅ‘
+Nagy-SzoplÃ¡k
+Nagy-SzÃ³r-hegy
+Nagy-szÃ³ri-vÃ¶lgy
+Nagy-SzÃ³r
 Nagy-Szuha
-Nagy-Tábor-hegy
+Nagy-TÃ¡bor-hegy
 Nagytag
 Nagytagyospuszta
-Nagytálya
+NagytÃ¡lya
 Nagytamota
-Nagytanyadûlõ
+NagytanyadÅ±lÅ‘
 Nagy-tanya
 Nagytanya
 Nagytarcsa
 Nagytarcs
 Nagytarcspuszta
-Nagytárkányitanya
-Nagytárkánypuszta
-Nagytatárvár
+NagytÃ¡rkÃ¡nyitanya
+NagytÃ¡rkÃ¡nypuszta
+NagytatÃ¡rvÃ¡r
 Nagytelek
 Nagytelep
 Nagytemplomilak
-Nagytétény-Diósd
-Nagytétény-Érdliget
-Nagytétény
+NagytÃ©tÃ©ny-DiÃ³sd
+NagytÃ©tÃ©ny-Ã‰rdliget
+NagytÃ©tÃ©ny
 Nagytevel
 Nagy-Tiba
 Nagytilaji Hegy
 Nagytilaj
-Nagytõke
+NagytÅ‘ke
 Nagytoldipuszta
-Nagytöltés
-Nagy-tó
-Nagytó
-Nagy Tó
-Nagy-tormás
-Nagytormás
-Nagytormáspuszta
-Nagytótfalu
-Nagytótipuszta
-Nagytótitanya
-Nagytótváros
-Nagytúlakörös
+NagytÃ¶ltÃ©s
+Nagy-tÃ³
+NagytÃ³
+Nagy TÃ³
+Nagy-tormÃ¡s
+NagytormÃ¡s
+NagytormÃ¡spuszta
+NagytÃ³tfalu
+NagytÃ³tipuszta
+NagytÃ³titanya
+NagytÃ³tvÃ¡ros
+NagytÃºlakÃ¶rÃ¶s
 Nagy-Tullus
 Nagyugartanya
-Nagyújváros
-Nagyút
+NagyÃºjvÃ¡ros
+NagyÃºt
 Nagyuzsapuszta
-Nagy-vadálló
+Nagy-vadÃ¡llÃ³
 Nagy-vadas
 Nagyvadastanya
-Nagy-Vadas-tó
+Nagy-Vadas-tÃ³
 Nagy-Vajas
-Nagyvájás
+NagyvÃ¡jÃ¡s
 Nagyvajastanya
-Nagyvarsányhát
-Nagyvarsány
+NagyvarsÃ¡nyhÃ¡t
+NagyvarsÃ¡ny
 Nagy Vaskapu
-Nagyváty
-Nagyvátyon-puszta
-Nagyvázsony
+NagyvÃ¡ty
+NagyvÃ¡tyon-puszta
+NagyvÃ¡zsony
 Nagy Vejkei Hegy
 Nagyvejke
 Nagyveleg
-Nagyvénkert
+NagyvÃ©nkert
 Nagyvenyimi Major
 Nagyvenyim
 Nagyvenyimpuszta
 Nagy-Vidi-halom
-Nagyvillám
-Nagyvillongó
+NagyvillÃ¡m
+NagyvillongÃ³
 Nagy Vince-tanya
-Nagyvisnyó-Dédes
-Nagyvisnyó
-Nagyvókonya
-Nagy-völgy-dûlõ
-Nagyvölgydûlõ
-Nagyvölgy Feje
-Nagy-völgyi-dûlõ
-Nagy-völgyi-patak
-Nagy-völgy
-Nagyvölgy
-Nagy-völgy Patak
-Nagyvölgypuszta
-Nagyvölgytanya
-Nagyvölgy-telep
-Nagy-Zelemér
-Nagy Ziribár
+NagyvisnyÃ³-DÃ©des
+NagyvisnyÃ³
+NagyvÃ³konya
+Nagy-vÃ¶lgy-dÅ±lÅ‘
+NagyvÃ¶lgydÅ±lÅ‘
+NagyvÃ¶lgy Feje
+Nagy-vÃ¶lgyi-dÅ±lÅ‘
+Nagy-vÃ¶lgyi-patak
+Nagy-vÃ¶lgy
+NagyvÃ¶lgy
+Nagy-vÃ¶lgy Patak
+NagyvÃ¶lgypuszta
+NagyvÃ¶lgytanya
+NagyvÃ¶lgy-telep
+Nagy-ZelemÃ©r
+Nagy ZiribÃ¡r
 Nagyzomlin
 Nagyzomlinpuszta
 Nagy-Zsunyi-hegy
-Nagyzuhogó
+NagyzuhogÃ³
 Nairlugos
 Naki Major
 Nak
 NAME NOT KNOWN
-Namény Alja
-Nána
-Nánásiúti Tanyák
-Nánássy István-tanya
-Nánássy M.-tanya
-Nánássytanya
-Nándorliget
-Nándormajor
-Nándorpuszta
-Naphegydûlõ
+NamÃ©ny Alja
+NÃ¡na
+NÃ¡nÃ¡siÃºti TanyÃ¡k
+NÃ¡nÃ¡ssy IstvÃ¡n-tanya
+NÃ¡nÃ¡ssy M.-tanya
+NÃ¡nÃ¡ssytanya
+NÃ¡ndorliget
+NÃ¡ndormajor
+NÃ¡ndorpuszta
+NaphegydÅ±lÅ‘
 Nap-hegy
 Naphegy
 Napkor
-Naplás-dûlõ
-Naplókert
-Naplómajor
-Naplopó-tanya
+NaplÃ¡s-dÅ±lÅ‘
+NaplÃ³kert
+NaplÃ³major
+NaplopÃ³-tanya
 Naposd
-Napos-dûlõ
-Náprádfa
-Napraforgópuszta
-Napsugár
-Nárai
+Napos-dÅ±lÅ‘
+NÃ¡prÃ¡dfa
+NapraforgÃ³puszta
+NapsugÃ¡r
+NÃ¡rai
 Narda
-Naszály
-Nátka
-Necsõ Legelõ
-Necsõ
-Negyedidûlõ
-Négyegyenesdûlõ
-Négyesjárás
-Négyes
-Négyessytanya
-Négyesszõllõtelep
-Négyes-telep
-Négyestelep
-Négyföldespuszta
-Négyszállás
-Négyszegmajor
-Négyszögmajor
+NaszÃ¡ly
+NÃ¡tka
+NecsÅ‘ LegelÅ‘
+NecsÅ‘
+NegyedidÅ±lÅ‘
+NÃ©gyegyenesdÅ±lÅ‘
+NÃ©gyesjÃ¡rÃ¡s
+NÃ©gyes
+NÃ©gyessytanya
+NÃ©gyesszÅ‘llÅ‘telep
+NÃ©gyes-telep
+NÃ©gyestelep
+NÃ©gyfÃ¶ldespuszta
+NÃ©gyszÃ¡llÃ¡s
+NÃ©gyszegmajor
+NÃ©gyszÃ¶gmajor
 Negyvenhold
 Negyvenicsorna
 Negyven
-Negyvenszállás
+NegyvenszÃ¡llÃ¡s
 Neidharttanya
 Nekeresdmajor
 Nekeresd
-Nekézseny
-Nelásd
-Nelásdpuszta
-Némahegy
-Némedimajor
-Némediszõlõ
-Némeditanya
-Némedi Út
-Nemerõ
-Nemerõpuszta
-Nemesapáti
-Nemesbikki Tanyák
+NekÃ©zseny
+NelÃ¡sd
+NelÃ¡sdpuszta
+NÃ©mahegy
+NÃ©medimajor
+NÃ©mediszÅ‘lÅ‘
+NÃ©meditanya
+NÃ©medi Ãšt
+NemerÅ‘
+NemerÅ‘puszta
+NemesapÃ¡ti
+Nemesbikki TanyÃ¡k
 Nemesbikk
-Nemesbõd
+NemesbÅ‘d
 Nemesboldogasszonyfa
 Nemesborzova
-Nemesbükk
-Nemesbük
-Nemescsó
-Nemesdéd
-Nemeserdõ
-Nemeserdõtanya
-Nemesgörzsöny
-Nemesgulács-Kisapáti
-Nemesgulács
+NemesbÃ¼kk
+NemesbÃ¼k
+NemescsÃ³
+NemesdÃ©d
+NemeserdÅ‘
+NemeserdÅ‘tanya
+NemesgÃ¶rzsÃ¶ny
+NemesgulÃ¡cs-KisapÃ¡ti
+NemesgulÃ¡cs
 Nemeshanyi Tanya
 Nemeshany
-Nemeshetés
+NemeshetÃ©s
 Nemesi-tagbirtok
 Nemeske
 Nemeskepuszta
-Nemeskér-Egyházasfalu
-Nemeskeresztúr
-Nemeskér
+NemeskÃ©r-EgyhÃ¡zasfalu
+NemeskeresztÃºr
+NemeskÃ©r
 Nemeskisfalud
 Nemeskocs
 Nemeskolta
-Nemesládony
-Nemesleányfalu
+NemeslÃ¡dony
+NemesleÃ¡nyfalu
 Nemesmedves
-Nemesnádudvar
-Nemesnépi Patak
-Nemesnép
-Nemespátró
-Nemespécselyi Puszta
-Nemespécsely
-Nemesráda
-Nemesrádó
-Nemesrempehollós
-Nemessándorháza
-Nemesszalók
-Nemesszentandrás
+NemesnÃ¡dudvar
+NemesnÃ©pi Patak
+NemesnÃ©p
+NemespÃ¡trÃ³
+NemespÃ©cselyi Puszta
+NemespÃ©csely
+NemesrÃ¡da
+NemesrÃ¡dÃ³
+NemesrempehollÃ³s
+NemessÃ¡ndorhÃ¡za
+NemesszalÃ³k
+NemesszentandrÃ¡s
 Nemesszer
 Nemestag
 Nemestanya
-Nemestördemic
-Nemesvámosi Tanyák
-Nemesvámos
+NemestÃ¶rdemic
+NemesvÃ¡mosi TanyÃ¡k
+NemesvÃ¡mos
 Nemesvid
 Nemesvita
-Nemeszalók
-Német-árok
-Németbánya
-Németbarnag
-Nemetbóly
-Németbóly
-Német-Dalmand
-Németdûlõ
-Német-éri-csatorna
-Német-éri-fõcsatorna
-Németfalumajor
-Németfalu
-Németföldi Tanya
-Német-föld
-Németháza
-Németházdûlõ
-Német-hegy
-Némethmajor
-Némethtanya
-Némethykert
-Némethy Tanya
-Németi Major
-Németi
-Németipuszta
-Németitag
-Németitanya
-Németjáró
-Németkér
-Németlad
-Németlukafapuszta
-Németmárok
-Németpalkonyai Puszta
-Németpalkonya
-Németszállási Dûlõ
-Németszállás
-Német-sziget
-Némettanya
-Német-telek
-Németzsidány
+NemeszalÃ³k
+NÃ©met-Ã¡rok
+NÃ©metbÃ¡nya
+NÃ©metbarnag
+NemetbÃ³ly
+NÃ©metbÃ³ly
+NÃ©met-Dalmand
+NÃ©metdÅ±lÅ‘
+NÃ©met-Ã©ri-csatorna
+NÃ©met-Ã©ri-fÅ‘csatorna
+NÃ©metfalumajor
+NÃ©metfalu
+NÃ©metfÃ¶ldi Tanya
+NÃ©met-fÃ¶ld
+NÃ©methÃ¡za
+NÃ©methÃ¡zdÅ±lÅ‘
+NÃ©met-hegy
+NÃ©methmajor
+NÃ©methtanya
+NÃ©methykert
+NÃ©methy Tanya
+NÃ©meti Major
+NÃ©meti
+NÃ©metipuszta
+NÃ©metitag
+NÃ©metitanya
+NÃ©metjÃ¡rÃ³
+NÃ©metkÃ©r
+NÃ©metlad
+NÃ©metlukafapuszta
+NÃ©metmÃ¡rok
+NÃ©metpalkonyai Puszta
+NÃ©metpalkonya
+NÃ©metszÃ¡llÃ¡si DÅ±lÅ‘
+NÃ©metszÃ¡llÃ¡s
+NÃ©met-sziget
+NÃ©mettanya
+NÃ©met-telek
+NÃ©metzsidÃ¡ny
 Nemti
 Nemtipuszta
-Nénai Erdészlak
-Néna
-Nép Iskola
-Nép-sziget
-Neptun Horgásztanya
-Neptun Horgásztelep
-Neszehíd
+NÃ©nai ErdÃ©szlak
+NÃ©na
+NÃ©p Iskola
+NÃ©p-sziget
+Neptun HorgÃ¡sztanya
+Neptun HorgÃ¡sztelep
+NeszehÃ­d
 Neszele
 Nesze
-Neszmélyi Téglagyár
-Neszmély
-Neszûri-szõlõ
-Neszûr
-Netóla
+NeszmÃ©lyi TÃ©glagyÃ¡r
+NeszmÃ©ly
+NeszÅ±ri-szÅ‘lÅ‘
+NeszÅ±r
+NetÃ³la
 Neu-Pest
 Neviczkytanya
 Nezde
 Nezdepuszta
-Nézõdomb
-Nézõdombtanya
-Nézsa
+NÃ©zÅ‘domb
+NÃ©zÅ‘dombtanya
+NÃ©zsa
 Nick
-Niczki Dûlõ
-Niczkiföld
-Niczkyföld
-Niczkyrét
+Niczki DÅ±lÅ‘
+NiczkifÃ¶ld
+NiczkyfÃ¶ld
+NiczkyrÃ©t
 Nikitschbach
 Nikitscher Bach
 Nikitscher Wald
 Nikla
 Nincstelentelep
-Noétanya
-Nóétanya
+NoÃ©tanya
+NÃ³Ã©tanya
 Nograd County
-Nógrádgárdony
-Nógrádi-medence
-Nógrádi-patak
-Nógrádkövesd
-Nógrádmarcal
-Nógrád Megye
-Nógrádmegyer
-Nógrád
-Nógrádsáp
-Nógrádsipek
-Nógrádszakál
-Nógrádverõce
+NÃ³grÃ¡dgÃ¡rdony
+NÃ³grÃ¡di-medence
+NÃ³grÃ¡di-patak
+NÃ³grÃ¡dkÃ¶vesd
+NÃ³grÃ¡dmarcal
+NÃ³grÃ¡d Megye
+NÃ³grÃ¡dmegyer
+NÃ³grÃ¡d
+NÃ³grÃ¡dsÃ¡p
+NÃ³grÃ¡dsipek
+NÃ³grÃ¡dszakÃ¡l
+NÃ³grÃ¡dverÅ‘ce
 Nolltanya
-Nóráp
+NÃ³rÃ¡p
 Normafa
 Noszlopitag
 Noszlopi Tanya
 Noszlop
-Nosztány
+NosztÃ¡ny
 Noszvaj
-Nõtincs
-Novajidrány
+NÅ‘tincs
+NovajidrÃ¡ny
 Novaji-patak
 Novaj
-Nováki-csatorna
-Novák
-Novákpuszta
-Nováktanya
+NovÃ¡ki-csatorna
+NovÃ¡k
+NovÃ¡kpuszta
+NovÃ¡ktanya
 Nova
-Nové Mesto Pod ©iatrom
+NovÃ© Mesto Pod Å iatrom
 Novothtanya
-Numerusitanyák
-Nyakashát
-Nyakasháza
-Nyakasházapuszta
+NumerusitanyÃ¡k
+NyakashÃ¡t
+NyakashÃ¡za
+NyakashÃ¡zapuszta
 Nyakas
 Nyakastanya
-Nyakas-tetõ
-Nyakvágó-halom
-Nyalakodódûlõ
-Nyalakodó
-Nyálas-tó
+Nyakas-tetÅ‘
+NyakvÃ¡gÃ³-halom
+NyalakodÃ³dÅ±lÅ‘
+NyalakodÃ³
+NyÃ¡las-tÃ³
 Nyalka
-Nyámánd
-Nyámándpuszta
-Nyáráditanya
-Nyárád
-Nyárádytanya
-Nyárasd
-Nyáras-hegy
-Nyáras
-Nyáras-patak
-Nyáregyházai Tanyák
-Nyáregyháza
-Nyárfacsere
-Nyárfacsere-út
-Nyárfadûlõ
-Nyárfáslaposa
-Nyárfás-lapos
-Nyárfás
-Nyárfáspuszta
-Nyárfástanya
-Nyáriakolmajor
-Nyáriastanya
-Nyári Hatod
-Nyárijárás
-Nyárjasitanyák
-Nyárjas
-Nyárjaspuszta
-Nyárjastanya
-Nyárjasvölgy
-Nyárkútrétdûlõ
-Nyárkútrét
-Nyárlõrinc-Alpári-csatorna
-Nyárlõrinc-Alpári-fõcsatorna
-Nyárlõrinc Alsó
-Nyárlõrinci Szõlõk
-Nyárlõrinc
-Nyárlõrinc Szõlõk
-Nyárlõrinc Szõlõ
-Nyárosalja
-Nyárosdi Dûlõ
-Nyárosdûlõ
-Nyáros-ér
-Nyárosimajor
-Nyárosi-sziget
-Nyáros-major
-Nyáros-sziget
-Nyáros Tetõ
-Nyársapát
-Nyárs-patak
-Nyártó
-Nyárvesztõ
-Nyárzug
+NyÃ¡mÃ¡nd
+NyÃ¡mÃ¡ndpuszta
+NyÃ¡rÃ¡ditanya
+NyÃ¡rÃ¡d
+NyÃ¡rÃ¡dytanya
+NyÃ¡rasd
+NyÃ¡ras-hegy
+NyÃ¡ras
+NyÃ¡ras-patak
+NyÃ¡regyhÃ¡zai TanyÃ¡k
+NyÃ¡regyhÃ¡za
+NyÃ¡rfacsere
+NyÃ¡rfacsere-Ãºt
+NyÃ¡rfadÅ±lÅ‘
+NyÃ¡rfÃ¡slaposa
+NyÃ¡rfÃ¡s-lapos
+NyÃ¡rfÃ¡s
+NyÃ¡rfÃ¡spuszta
+NyÃ¡rfÃ¡stanya
+NyÃ¡riakolmajor
+NyÃ¡riastanya
+NyÃ¡ri Hatod
+NyÃ¡rijÃ¡rÃ¡s
+NyÃ¡rjasitanyÃ¡k
+NyÃ¡rjas
+NyÃ¡rjaspuszta
+NyÃ¡rjastanya
+NyÃ¡rjasvÃ¶lgy
+NyÃ¡rkÃºtrÃ©tdÅ±lÅ‘
+NyÃ¡rkÃºtrÃ©t
+NyÃ¡rlÅ‘rinc-AlpÃ¡ri-csatorna
+NyÃ¡rlÅ‘rinc-AlpÃ¡ri-fÅ‘csatorna
+NyÃ¡rlÅ‘rinc AlsÃ³
+NyÃ¡rlÅ‘rinci SzÅ‘lÅ‘k
+NyÃ¡rlÅ‘rinc
+NyÃ¡rlÅ‘rinc SzÅ‘lÅ‘k
+NyÃ¡rlÅ‘rinc SzÅ‘lÅ‘
+NyÃ¡rosalja
+NyÃ¡rosdi DÅ±lÅ‘
+NyÃ¡rosdÅ±lÅ‘
+NyÃ¡ros-Ã©r
+NyÃ¡rosimajor
+NyÃ¡rosi-sziget
+NyÃ¡ros-major
+NyÃ¡ros-sziget
+NyÃ¡ros TetÅ‘
+NyÃ¡rsapÃ¡t
+NyÃ¡rs-patak
+NyÃ¡rtÃ³
+NyÃ¡rvesztÅ‘
+NyÃ¡rzug
 Nyavajkatanya
-Nyedámpuszta
-Nyékidûlõ
-Nyéki-kistanya
-Nyékimajor
-Nyéki-nagytanya
-Nyékipuszta
-Nyékitelek
-Nyékládháza
-Nyék Patak
-Nyékpuszta
-Nyergesdûlõ
+NyedÃ¡mpuszta
+NyÃ©kidÅ±lÅ‘
+NyÃ©ki-kistanya
+NyÃ©kimajor
+NyÃ©ki-nagytanya
+NyÃ©kipuszta
+NyÃ©kitelek
+NyÃ©klÃ¡dhÃ¡za
+NyÃ©k Patak
+NyÃ©kpuszta
+NyergesdÅ±lÅ‘
 Nyerges-hegy
 Nyergesi Patak
 Nyerges
@@ -15723,274 +15723,274 @@ Nyerges-patak
 Nyerges Patak
 Nyergespuszta
 Nyergestanya
-Nyerges-tetõ
-Nyergestetõ
-Nyergesújfalu Felsõ
-Nyergesújfalu
-Nyerjesszõllõ
+Nyerges-tetÅ‘
+NyergestetÅ‘
+NyergesÃºjfalu FelsÅ‘
+NyergesÃºjfalu
+NyerjesszÅ‘llÅ‘
 Nyeskenye
-Nyésta
+NyÃ©sta
 Nyestekert
 Nyestemajor
-Nyeste-Nyárs-patak
+Nyeste-NyÃ¡rs-patak
 Nyest-hegy
 Nyesthegypuszta
-Nyestidûlõ
+NyestidÅ±lÅ‘
 Nyeszkenyepuszta
 Nyika
 Nyikom
-Nyikorgó
-Nyilak-dûlõ
+NyikorgÃ³
+Nyilak-dÅ±lÅ‘
 Nyilaktanya
-Nyilasdûlõ
+NyilasdÅ±lÅ‘
 Nyilas-hegy
 Nyilas
-Nyilás
+NyilÃ¡s
 Nyimitanya
 Nyim
-Nyírábrány
-Nyíracsád
-Nyirád
-Nyíradony
-Nyirántanya
-Nyírbátor
-Nyírbéltek
-Nyírbetek
-Nyírbogát
-Nyírbogdány
+NyÃ­rÃ¡brÃ¡ny
+NyÃ­racsÃ¡d
+NyirÃ¡d
+NyÃ­radony
+NyirÃ¡ntanya
+NyÃ­rbÃ¡tor
+NyÃ­rbÃ©ltek
+NyÃ­rbetek
+NyÃ­rbogÃ¡t
+NyÃ­rbogdÃ¡ny
 Nyirbognt
-Nyírcsaholy
-Nyírcsászári
-Nyírderzsi Tanyák
-Nyírderzs
-Nyíregyháza Külsõ
-Nyíregyháza Megyei Város
-Nyíregyháza
-Nyíregyháza-Petõfi Tér
-Nyíregyházi Rátót
-Nyíregyházi Úti Tanyák
+NyÃ­rcsaholy
+NyÃ­rcsÃ¡szÃ¡ri
+NyÃ­rderzsi TanyÃ¡k
+NyÃ­rderzs
+NyÃ­regyhÃ¡za KÃ¼lsÅ‘
+NyÃ­regyhÃ¡za Megyei VÃ¡ros
+NyÃ­regyhÃ¡za
+NyÃ­regyhÃ¡za-PetÅ‘fi TÃ©r
+NyÃ­regyhÃ¡zi RÃ¡tÃ³t
+NyÃ­regyhÃ¡zi Ãšti TanyÃ¡k
 Nyiresi Hegy
 Nyiresimalom
-Nyíresipuszta
+NyÃ­resipuszta
 Nyiresi-tanya
-Nyíresitanya
-Nyíresi Tanya
+NyÃ­resitanya
+NyÃ­resi Tanya
 Nyires-major
 Nyiresmajor
-Nyíresmajor
-Nyíres
+NyÃ­resmajor
+NyÃ­res
 Nyirespuszta
-Nyíres Puszta
-Nyiresszõllõtelep
-Nyíresszõlõtelep
-Nyírestag
-Nyírestanya
-Nyírgelsei Helyiérdekû
-Nyírgelse
-Nyírgyulaj
-Nyíribrony
-Nyíri
-Nyíri-patak
-Nyíritag
-Nyíritanya
-Nyíri Tanya
-Nyírjákó
-Nyírjes
-Nyírjespuszta
+NyÃ­res Puszta
+NyiresszÅ‘llÅ‘telep
+NyÃ­resszÅ‘lÅ‘telep
+NyÃ­restag
+NyÃ­restanya
+NyÃ­rgelsei HelyiÃ©rdekÅ±
+NyÃ­rgelse
+NyÃ­rgyulaj
+NyÃ­ribrony
+NyÃ­ri
+NyÃ­ri-patak
+NyÃ­ritag
+NyÃ­ritanya
+NyÃ­ri Tanya
+NyÃ­rjÃ¡kÃ³
+NyÃ­rjes
+NyÃ­rjespuszta
 Nyirjestanya
-Nyírjestanya
-Nyírjes Tanya
-Nyírkarász
-Nyírkáta
-Nyírkércs
-Nyír-kúti-hegy
-Nyírlak-major
-Nyírlak
-Nyírlakosa
-Nyírlakpuszta
-Nyírlövõ
-Nyírlugos
-Nyírmada
+NyÃ­rjestanya
+NyÃ­rjes Tanya
+NyÃ­rkarÃ¡sz
+NyÃ­rkÃ¡ta
+NyÃ­rkÃ©rcs
+NyÃ­r-kÃºti-hegy
+NyÃ­rlak-major
+NyÃ­rlak
+NyÃ­rlakosa
+NyÃ­rlakpuszta
+NyÃ­rlÃ¶vÅ‘
+NyÃ­rlugos
+NyÃ­rmada
 Nyirma
-Nyírmártonfalva
-Nyírmedpuszta
-Nyírmeggyes
-Nyírmeg
-Nyírmegyipuszta
-Nyírmihálydi
-Nyírõhadály
-Nyírõ
-Nyírparasznya
-Nyírpazonyi Legelõ
-Nyírpazony
-Nyírpilis
-Nyírség
-Nyírszõllõs
-Nyírszõlõs
-Nyírtanya
-Nyírtass
-Nyírtelek
-Nyírtét
-Nyír-tó
-Nyírtura
-Nyírvasvári
-Nyírvasvári Tanya
-Nyír-völgy
-Nyistek-dûlõ
+NyÃ­rmÃ¡rtonfalva
+NyÃ­rmedpuszta
+NyÃ­rmeggyes
+NyÃ­rmeg
+NyÃ­rmegyipuszta
+NyÃ­rmihÃ¡lydi
+NyÃ­rÅ‘hadÃ¡ly
+NyÃ­rÅ‘
+NyÃ­rparasznya
+NyÃ­rpazonyi LegelÅ‘
+NyÃ­rpazony
+NyÃ­rpilis
+NyÃ­rsÃ©g
+NyÃ­rszÅ‘llÅ‘s
+NyÃ­rszÅ‘lÅ‘s
+NyÃ­rtanya
+NyÃ­rtass
+NyÃ­rtelek
+NyÃ­rtÃ©t
+NyÃ­r-tÃ³
+NyÃ­rtura
+NyÃ­rvasvÃ¡ri
+NyÃ­rvasvÃ¡ri Tanya
+NyÃ­r-vÃ¶lgy
+Nyistek-dÅ±lÅ‘
 Nyistek
-Nyõgér
-Nyögõ-patak
-Nyomár
-Nyomásdûlõ
-Nyomási Tanya
-Nyomás
-Nyomásszél
-Nyomástanya
+NyÅ‘gÃ©r
+NyÃ¶gÅ‘-patak
+NyomÃ¡r
+NyomÃ¡sdÅ±lÅ‘
+NyomÃ¡si Tanya
+NyomÃ¡s
+NyomÃ¡sszÃ©l
+NyomÃ¡stanya
 Nyomja
-Nyugat-Dunántúl
-Nyugati-fõcsatorna
-Nyugati-Gyöngyös
-Nyugatikápolnáshegy
-Nyugati Kõhíddûlõ
-Nyugati-övcsatorna
-Nyugati Pályaudvar
-Nyugatirész
-Nyugatzalai-Dombság
-Nyugat-Zalai-dombság
-Nyugodó
-Nyûgösgyep
+Nyugat-DunÃ¡ntÃºl
+Nyugati-fÅ‘csatorna
+Nyugati-GyÃ¶ngyÃ¶s
+NyugatikÃ¡polnÃ¡shegy
+Nyugati KÅ‘hÃ­ddÅ±lÅ‘
+Nyugati-Ã¶vcsatorna
+Nyugati PÃ¡lyaudvar
+NyugatirÃ©sz
+Nyugatzalai-DombsÃ¡g
+Nyugat-Zalai-dombsÃ¡g
+NyugodÃ³
+NyÅ±gÃ¶sgyep
 Nyugoti Major
-Nyugoti Pályaudvar
-Nyugotszenterzsébet
-Nyulaskaszõllõ
-Nyulaskaszõlõ
+Nyugoti PÃ¡lyaudvar
+NyugotszenterzsÃ©bet
+NyulaskaszÅ‘llÅ‘
+NyulaskaszÅ‘lÅ‘
 Nyulas
-Nyulasszõllõ
+NyulasszÅ‘llÅ‘
 Nyulastanya
-Nyulas Tó
-Nyúldûlõ
-Nyúli Hegy
-Nyúl
-Nyúlvár
-Nyúl-zug
-Nyúlzug
-Nyúzó Part
-Óalmás
-Óballapuszta
-Óbányai Tanyák
-Óbánya
-Óbányapuszta
-Óbarok
-Óbarokpuszta
-Obbástanya
-Óbébai Úti Tanyák
-Óbébiúti Tanyák
-Óberek
-Óberekpuszta
-Óbiród
-Óbis
-Óbög
+Nyulas TÃ³
+NyÃºldÅ±lÅ‘
+NyÃºli Hegy
+NyÃºl
+NyÃºlvÃ¡r
+NyÃºl-zug
+NyÃºlzug
+NyÃºzÃ³ Part
+Ã“almÃ¡s
+Ã“ballapuszta
+Ã“bÃ¡nyai TanyÃ¡k
+Ã“bÃ¡nya
+Ã“bÃ¡nyapuszta
+Ã“barok
+Ã“barokpuszta
+ObbÃ¡stanya
+Ã“bÃ©bai Ãšti TanyÃ¡k
+Ã“bÃ©biÃºti TanyÃ¡k
+Ã“berek
+Ã“berekpuszta
+Ã“birÃ³d
+Ã“bis
+Ã“bÃ¶g
 Obornak
-Óbudai-sziget
-Óbuda
-Óbudavár
-Ócsaifertõdûlõ
-Ócsai Szõllõk
-Ócsai Szõlõk
-Ócsa
-Ócsárd
-Ocsenástanya
-Õcsény
+Ã“budai-sziget
+Ã“buda
+Ã“budavÃ¡r
+Ã“csaifertÅ‘dÅ±lÅ‘
+Ã“csai SzÅ‘llÅ‘k
+Ã“csai SzÅ‘lÅ‘k
+Ã“csa
+Ã“csÃ¡rd
+OcsenÃ¡stanya
+ÅcsÃ©ny
 Ocskaitanya
-Ocsmád
-Ocsmánd
-Öcs
-Öcsödi Úti Tanyák
-Öcsöd
-Ódalmand
-Ódány
-Ódánypuszta
-Ödenburger Gebirge
-Ödenburg
-Ódöbrönte
-Ödönmajor
-Ödönpuszta
-Ödönvölgypuszta
-Ödönyvölgy
+OcsmÃ¡d
+OcsmÃ¡nd
+Ã–cs
+Ã–csÃ¶di Ãšti TanyÃ¡k
+Ã–csÃ¶d
+Ã“dalmand
+Ã“dÃ¡ny
+Ã“dÃ¡nypuszta
+Ã–denburger Gebirge
+Ã–denburg
+Ã“dÃ¶brÃ¶nte
+Ã–dÃ¶nmajor
+Ã–dÃ¶npuszta
+Ã–dÃ¶nvÃ¶lgypuszta
+Ã–dÃ¶nyvÃ¶lgy
 Odor-hegy
 Odorogd
-Ódörögd
-Ódörögdpuszta
-Odorvár
+Ã“dÃ¶rÃ¶gd
+Ã“dÃ¶rÃ¶gdpuszta
+OdorvÃ¡r
 Odvas-hegy
-Öeszeszék
-Ófalui Part
-Ófalu
-Ófehértó
+Ã–eszeszÃ©k
+Ã“falui Part
+Ã“falu
+Ã“fehÃ©rtÃ³
 Ofen
 Offnertelep
 Ofimajor
 Ofnertelep
-Óföldeák
-Óföldeákpuszta
-Óhalász
-Ohat-Pusztakócs
-Óház
-Ó-hecske
-Ó-hegy
-Óhegy
-Óhid
-Óhódospuszta
-Okányi Tanya
-Okány
+Ã“fÃ¶ldeÃ¡k
+Ã“fÃ¶ldeÃ¡kpuszta
+Ã“halÃ¡sz
+Ohat-PusztakÃ³cs
+Ã“hÃ¡z
+Ã“-hecske
+Ã“-hegy
+Ã“hegy
+Ã“hid
+Ã“hÃ³dospuszta
+OkÃ¡nyi Tanya
+OkÃ¡ny
 Okecie
-Ókécske
-Ókenéz
-Ó-Kenéz
-Ókenéztanya
-Ókeske
-Ókígyósi Tanyák és Környéke
-Ókigyós
-Ököföldi Lapos
-Okorág-Kárászpuszta
-Okorág
-Okor-Bükkösdi-víz
-Ökördi
-Ökörföldi Lapos
-Ökörföldi Puszta
-Ökörhalmidûlõ
-Ökörhalomdûlõ
-Ökör-hegy
-Ököritófülpös
-Ököri-tó
-Ökörjárásdûlõ
-Ökörjárás
-Ökörjárástanyák
-Ökörjárástanya
-Ökörkút
+Ã“kÃ©cske
+Ã“kenÃ©z
+Ã“-KenÃ©z
+Ã“kenÃ©ztanya
+Ã“keske
+Ã“kÃ­gyÃ³si TanyÃ¡k Ã©s KÃ¶rnyÃ©ke
+Ã“kigyÃ³s
+Ã–kÃ¶fÃ¶ldi Lapos
+OkorÃ¡g-KÃ¡rÃ¡szpuszta
+OkorÃ¡g
+Okor-BÃ¼kkÃ¶sdi-vÃ­z
+Ã–kÃ¶rdi
+Ã–kÃ¶rfÃ¶ldi Lapos
+Ã–kÃ¶rfÃ¶ldi Puszta
+Ã–kÃ¶rhalmidÅ±lÅ‘
+Ã–kÃ¶rhalomdÅ±lÅ‘
+Ã–kÃ¶r-hegy
+Ã–kÃ¶ritÃ³fÃ¼lpÃ¶s
+Ã–kÃ¶ri-tÃ³
+Ã–kÃ¶rjÃ¡rÃ¡sdÅ±lÅ‘
+Ã–kÃ¶rjÃ¡rÃ¡s
+Ã–kÃ¶rjÃ¡rÃ¡stanyÃ¡k
+Ã–kÃ¶rjÃ¡rÃ¡stanya
+Ã–kÃ¶rkÃºt
 Okor
-Okor-víz
-Okorvölgy
+Okor-vÃ­z
+OkorvÃ¶lgy
 Okovicstanya
-Okráddûlõ
-Okrádi-patak
-Okrádi Puszta
-Okrád
-Okrádpuszta
-Ökrös-hegy
-Ökrös Patak
+OkrÃ¡ddÅ±lÅ‘
+OkrÃ¡di-patak
+OkrÃ¡di Puszta
+OkrÃ¡d
+OkrÃ¡dpuszta
+Ã–krÃ¶s-hegy
+Ã–krÃ¶s Patak
 Oktalan
-Óladány
+Ã“ladÃ¡ny
 Olad
-Oláhállás
-Oláhházdûlõ
-Oláhházidûlõ
-Oláhtanyák
-Oláhtanya
+OlÃ¡hÃ¡llÃ¡s
+OlÃ¡hhÃ¡zdÅ±lÅ‘
+OlÃ¡hhÃ¡zidÅ±lÅ‘
+OlÃ¡htanyÃ¡k
+OlÃ¡htanya
 Olajhegy
-Olajkútidûlõ
+OlajkÃºtidÅ±lÅ‘
 Olajtelep
-Oláritó
+OlÃ¡ritÃ³
 Olaszfalu
 Olaszfa
 Olaszka
@@ -15999,470 +15999,470 @@ Olaszliszka-Tolcsva
 Olasz
 Olasztanya
 Olaszzug
-Ölbõ-Alsószeleste
-Ölbõ
-Ölbõpuszta
-Olchvárytag
-Olcsvaapáti
+Ã–lbÅ‘-AlsÃ³szeleste
+Ã–lbÅ‘
+Ã–lbÅ‘puszta
+OlchvÃ¡rytag
+OlcsvaapÃ¡ti
 Olcsva
 Oldal-hegy
-Oldalkosár
-Oldalvölgy
+OldalkosÃ¡r
+OldalvÃ¶lgy
 Old
-Ólegyenitanyák
-Ólegyen
+Ã“legyenitanyÃ¡k
+Ã“legyen
 Olgamajor
-Ól-hegy
-Ólmod
-Ólom-hegy
-Oltárc
-Oltovány
-Oltványi Tanya
-Ó-Ludadpuszta
-Ólvölgy
-Ölyved
-Ölyvös-csatorna
-Ölyvös-ér-mellékcsatorna
-Ölyvös-ér
-Ölyvös-fõcsatorna
-Ölyvös
-Ölyvöstanya
-Ómajor
-Ómalomsok
-Ómassa
-Ömböly
-Ómezõhegyesi Tanyák
-Ómezõhegyes
-Omsós
-Ónána
-Oncsaszéltanya
+Ã“l-hegy
+Ã“lmod
+Ã“lom-hegy
+OltÃ¡rc
+OltovÃ¡ny
+OltvÃ¡nyi Tanya
+Ã“-Ludadpuszta
+Ã“lvÃ¶lgy
+Ã–lyved
+Ã–lyvÃ¶s-csatorna
+Ã–lyvÃ¶s-Ã©r-mellÃ©kcsatorna
+Ã–lyvÃ¶s-Ã©r
+Ã–lyvÃ¶s-fÅ‘csatorna
+Ã–lyvÃ¶s
+Ã–lyvÃ¶stanya
+Ã“major
+Ã“malomsok
+Ã“massa
+Ã–mbÃ¶ly
+Ã“mezÅ‘hegyesi TanyÃ¡k
+Ã“mezÅ‘hegyes
+OmsÃ³s
+Ã“nÃ¡na
+OncsaszÃ©ltanya
 Oncsatelep
 Ondi-tanya
 Ond
-Ondód
-Ondótanya
+OndÃ³d
+OndÃ³tanya
 Onga
-Ongaújfalu
-Ónoditanya
-Ónod
-Ónódyszõllõk
-Ónszeg-hegy
-Öntésmajor
+OngaÃºjfalu
+Ã“noditanya
+Ã“nod
+Ã“nÃ³dyszÅ‘llÅ‘k
+Ã“nszeg-hegy
+Ã–ntÃ©smajor
 Ontimajor
 Ontipuszta
-Ópályi
-Ópusztaszer
-Orbán-hegy
-Orbántanya
-Orbányosfa
-Orbó
-Orbópuszta
-Õrbottyán
+Ã“pÃ¡lyi
+Ã“pusztaszer
+OrbÃ¡n-hegy
+OrbÃ¡ntanya
+OrbÃ¡nyosfa
+OrbÃ³
+OrbÃ³puszta
+ÅrbottyÃ¡n
 Orci
 Orci-patak
 Ordacsehi
 Ordasi-sziget
-Ordasi Tanyák
+Ordasi TanyÃ¡k
 Ordas
 Ordaspuszta
 Ordas-sziget
-Ordító
-Ördögárka
-Ördög-árok
-Ördögásta Hegy
-Ördögégetõ
-Ördögfalva
-Ördög-hát
-Ördöghát
-Ördögház
-Ördög-hegyi-dûlõ
-Ördöghegyimajor
-Ördög-hegy
-Ördöghomlok
-Ördög-küllõje
-Ördögmalom
-Ördögmalompuszta
-Ördögoszlás
-Ördögosztás
-Ördög-tó
-Ördöngõs
-Öreg-állás
-Öregárok
-Öregbánhegy
-Öregbeke
-Öreg-Borotai-szõlõk
-Öreg-bükk
-Öreg-Cselõte
-Öregcselõtepuszta
-Öregcsemõ
-Öregcsertõ
-Öreg-Disznóhát
-Öreg Döbrönte
-Öregerdõ
-Öregerdõtanya
-Öregfalui-dûlõ
-Öregfalu
-Öregföldi Tanya
-Öreg-Futóné-hegy
-Öreg-Futóné
-Öreg-Gella
-Öreg-Hajta-patak
-Öreghálás
-Öreghaleszszõllõ
-Öreg-Halyagos-hegy
-Öreg-hangyás
-Öreghangyásszõllõ
-Öreghegydûlõ
-Öreghegyi Szõllõk
-Öreghegyiszõllõ
-Öreghegyiszõlõk
-Öreg-hegyi Út
-Öreg-hegy
-Öreghegy
-Öreg Hegy
-Öreghegypuszta
-Öreghegy Sor
-Öreghenye
-Öreg-Homokkert
-Öreghosszúhegy
-Öreg János-dombja
-Öregkereszt-hegy
-Öreg Kereszt
-Öreg Kettõs Hegy
-Öreg-kõ
-Öreg-Kovács-hegy
-Öreg-Kovács
-Öreg-köz
-Öregkúria
-Öreglak
-Öreglakpuszta
-Öregmajor
-Öregnémapuszta
-Öregnyulas
-Öreg Petre Hegy
-Öregpuszta
-Öreg-séd
-Öreg Semlék
-Öreg-szigetek
-Öreg-sziget
-Öregsziget
-Öregszik
-Öregszõllõdûlõ
-Öregszõllõ-hegy
-Öreg Szõllõ-hegy
-Öregszõllõk
-Öreg Szõllõk
-Öreg-Szõllõk
-Öreg-szõllõ
-Öregszõllõ
-Öregszõllõskert
-Öreg-szõlõ-dûlõ
-Öregszõlõ-hegy
-Öreg Szõlõ-hegy
-Öreg-szõlõk
-Öregszõlõk
-Öregszõlõ
-Öregszõlõskert
-Öregtárnok
-Öregtény
-Öregtima
-Öreg-tó
-Öregtó
-Öreg-Túr
-Öreg-vágási-hegy
-Öregvajka
-Öregvizvölgy
-Orémuszhegy
-Oreskószõllõ
+OrdÃ­tÃ³
+Ã–rdÃ¶gÃ¡rka
+Ã–rdÃ¶g-Ã¡rok
+Ã–rdÃ¶gÃ¡sta Hegy
+Ã–rdÃ¶gÃ©getÅ‘
+Ã–rdÃ¶gfalva
+Ã–rdÃ¶g-hÃ¡t
+Ã–rdÃ¶ghÃ¡t
+Ã–rdÃ¶ghÃ¡z
+Ã–rdÃ¶g-hegyi-dÅ±lÅ‘
+Ã–rdÃ¶ghegyimajor
+Ã–rdÃ¶g-hegy
+Ã–rdÃ¶ghomlok
+Ã–rdÃ¶g-kÃ¼llÅ‘je
+Ã–rdÃ¶gmalom
+Ã–rdÃ¶gmalompuszta
+Ã–rdÃ¶goszlÃ¡s
+Ã–rdÃ¶gosztÃ¡s
+Ã–rdÃ¶g-tÃ³
+Ã–rdÃ¶ngÅ‘s
+Ã–reg-Ã¡llÃ¡s
+Ã–regÃ¡rok
+Ã–regbÃ¡nhegy
+Ã–regbeke
+Ã–reg-Borotai-szÅ‘lÅ‘k
+Ã–reg-bÃ¼kk
+Ã–reg-CselÅ‘te
+Ã–regcselÅ‘tepuszta
+Ã–regcsemÅ‘
+Ã–regcsertÅ‘
+Ã–reg-DisznÃ³hÃ¡t
+Ã–reg DÃ¶brÃ¶nte
+Ã–regerdÅ‘
+Ã–regerdÅ‘tanya
+Ã–regfalui-dÅ±lÅ‘
+Ã–regfalu
+Ã–regfÃ¶ldi Tanya
+Ã–reg-FutÃ³nÃ©-hegy
+Ã–reg-FutÃ³nÃ©
+Ã–reg-Gella
+Ã–reg-Hajta-patak
+Ã–reghÃ¡lÃ¡s
+Ã–reghaleszszÅ‘llÅ‘
+Ã–reg-Halyagos-hegy
+Ã–reg-hangyÃ¡s
+Ã–reghangyÃ¡sszÅ‘llÅ‘
+Ã–reghegydÅ±lÅ‘
+Ã–reghegyi SzÅ‘llÅ‘k
+Ã–reghegyiszÅ‘llÅ‘
+Ã–reghegyiszÅ‘lÅ‘k
+Ã–reg-hegyi Ãšt
+Ã–reg-hegy
+Ã–reghegy
+Ã–reg Hegy
+Ã–reghegypuszta
+Ã–reghegy Sor
+Ã–reghenye
+Ã–reg-Homokkert
+Ã–reghosszÃºhegy
+Ã–reg JÃ¡nos-dombja
+Ã–regkereszt-hegy
+Ã–reg Kereszt
+Ã–reg KettÅ‘s Hegy
+Ã–reg-kÅ‘
+Ã–reg-KovÃ¡cs-hegy
+Ã–reg-KovÃ¡cs
+Ã–reg-kÃ¶z
+Ã–regkÃºria
+Ã–reglak
+Ã–reglakpuszta
+Ã–regmajor
+Ã–regnÃ©mapuszta
+Ã–regnyulas
+Ã–reg Petre Hegy
+Ã–regpuszta
+Ã–reg-sÃ©d
+Ã–reg SemlÃ©k
+Ã–reg-szigetek
+Ã–reg-sziget
+Ã–regsziget
+Ã–regszik
+Ã–regszÅ‘llÅ‘dÅ±lÅ‘
+Ã–regszÅ‘llÅ‘-hegy
+Ã–reg SzÅ‘llÅ‘-hegy
+Ã–regszÅ‘llÅ‘k
+Ã–reg SzÅ‘llÅ‘k
+Ã–reg-SzÅ‘llÅ‘k
+Ã–reg-szÅ‘llÅ‘
+Ã–regszÅ‘llÅ‘
+Ã–regszÅ‘llÅ‘skert
+Ã–reg-szÅ‘lÅ‘-dÅ±lÅ‘
+Ã–regszÅ‘lÅ‘-hegy
+Ã–reg SzÅ‘lÅ‘-hegy
+Ã–reg-szÅ‘lÅ‘k
+Ã–regszÅ‘lÅ‘k
+Ã–regszÅ‘lÅ‘
+Ã–regszÅ‘lÅ‘skert
+Ã–regtÃ¡rnok
+Ã–regtÃ©ny
+Ã–regtima
+Ã–reg-tÃ³
+Ã–regtÃ³
+Ã–reg-TÃºr
+Ã–reg-vÃ¡gÃ¡si-hegy
+Ã–regvajka
+Ã–regvizvÃ¶lgy
+OrÃ©muszhegy
+OreskÃ³szÅ‘llÅ‘
 Orfalu
-Örfa-tetõ
-Orfû
-Orgonás
-Orgoványidûlõ
-Orgoványi-rét
-Orgovány
-Orgyális
-Õrhalmi Szõllõk
-Õrhalmiszõlõk
-Õrhalom
-Õr-halom-zug
-Õr-hegy
-Õrhegy
-Õrhegytanya
-Óriás-hegy
-Õrimagyarósd
-Õri-major
-Õrisáp
-Õriszentpéter
-Õritag
-Õritanya
-Õrjegi Major
-Õrjeg
-Õrjegpuszta
-Örkény-hegy
-Örkényi Tagsor
-Örkény
-Örkénypuszta
-Örkénytábor
-Örkénytelep
-Õr-kõ
-Ormándlak
-Ormánd
-Ormándpuszta
-Ormánság
-Ormánypuszta
-Ormányság
-Örményes
-Örménykút
-Örmény-zug
-Ormosbánya
+Ã–rfa-tetÅ‘
+OrfÅ±
+OrgonÃ¡s
+OrgovÃ¡nyidÅ±lÅ‘
+OrgovÃ¡nyi-rÃ©t
+OrgovÃ¡ny
+OrgyÃ¡lis
+Århalmi SzÅ‘llÅ‘k
+ÅrhalmiszÅ‘lÅ‘k
+Århalom
+År-halom-zug
+År-hegy
+Århegy
+Århegytanya
+Ã“riÃ¡s-hegy
+ÅrimagyarÃ³sd
+Åri-major
+ÅrisÃ¡p
+ÅriszentpÃ©ter
+Åritag
+Åritanya
+Årjegi Major
+Årjeg
+Årjegpuszta
+Ã–rkÃ©ny-hegy
+Ã–rkÃ©nyi Tagsor
+Ã–rkÃ©ny
+Ã–rkÃ©nypuszta
+Ã–rkÃ©nytÃ¡bor
+Ã–rkÃ©nytelep
+År-kÅ‘
+OrmÃ¡ndlak
+OrmÃ¡nd
+OrmÃ¡ndpuszta
+OrmÃ¡nsÃ¡g
+OrmÃ¡nypuszta
+OrmÃ¡nysÃ¡g
+Ã–rmÃ©nyes
+Ã–rmÃ©nykÃºt
+Ã–rmÃ©ny-zug
+OrmosbÃ¡nya
 Ormosi Tanya
 Ormos
 Ormos-patak
-Ormóspuszta
-Õrnagybirtok
-Õr
+OrmÃ³spuszta
+Årnagybirtok
+År
 Ornsteintanya
-Örök-földek
-Örökföldek
-Örökföldi Tanya
-Örökföld
-Örök-hegy
-Oroklán
-Örökösföldek
-Örökösföld
-Örököspeszérpuszta
-Öröktárna-bánya
-Oromdûlõ
-Öröm-hegy
-Örömhegy
+Ã–rÃ¶k-fÃ¶ldek
+Ã–rÃ¶kfÃ¶ldek
+Ã–rÃ¶kfÃ¶ldi Tanya
+Ã–rÃ¶kfÃ¶ld
+Ã–rÃ¶k-hegy
+OroklÃ¡n
+Ã–rÃ¶kÃ¶sfÃ¶ldek
+Ã–rÃ¶kÃ¶sfÃ¶ld
+Ã–rÃ¶kÃ¶speszÃ©rpuszta
+Ã–rÃ¶ktÃ¡rna-bÃ¡nya
+OromdÅ±lÅ‘
+Ã–rÃ¶m-hegy
+Ã–rÃ¶mhegy
 Orom
-Orom-tetõ
-Örömvölgyi Major
-Örömvölgytanya
+Orom-tetÅ‘
+Ã–rÃ¶mvÃ¶lgyi Major
+Ã–rÃ¶mvÃ¶lgytanya
 Orondpuszta
-Orondszõllõk
-Orosháza Alsó
-Orosháza Felsõ
-Orosháza Külsõ
-Orosháza-Medgyesbodzási-csatorna
-Orosháza
-Orosháza-Üveggyár
-Orosházi
-Orosházi Tanyák
+OrondszÅ‘llÅ‘k
+OroshÃ¡za AlsÃ³
+OroshÃ¡za FelsÅ‘
+OroshÃ¡za KÃ¼lsÅ‘
+OroshÃ¡za-MedgyesbodzÃ¡si-csatorna
+OroshÃ¡za
+OroshÃ¡za-ÃœveggyÃ¡r
+OroshÃ¡zi
+OroshÃ¡zi TanyÃ¡k
 Orosipuszta
 Orositanya
 Oros
 Orospuszta
-Oroszdûlõ
-Oroszéri Tanyák
+OroszdÅ±lÅ‘
+OroszÃ©ri TanyÃ¡k
 Oroszimajor
 Oroszi
 Oroszipuszta
-Oroszlánybánya
-Oroszlány
-Oroszló
+OroszlÃ¡nybÃ¡nya
+OroszlÃ¡ny
+OroszlÃ³
 Oroszpuszta
 Orosz-tanya
 Orosztanya
-Orosztonyi Tanyák
+Orosztonyi TanyÃ¡k
 Orosztony
-Örötvény Köze
-Örötvényköz
-Örötvény
-Orozd-dûlõ
-Orozd-tó
-Õrség Hegyhát
-Õrség
-Örs-hegy
-Örsi-hegy
-Örsihegy
-Örsitanya
-Orsószög
-Örspuszta
-Országosfegyház
+Ã–rÃ¶tvÃ©ny KÃ¶ze
+Ã–rÃ¶tvÃ©nykÃ¶z
+Ã–rÃ¶tvÃ©ny
+Orozd-dÅ±lÅ‘
+Orozd-tÃ³
+ÅrsÃ©g HegyhÃ¡t
+ÅrsÃ©g
+Ã–rs-hegy
+Ã–rsi-hegy
+Ã–rsihegy
+Ã–rsitanya
+OrsÃ³szÃ¶g
+Ã–rspuszta
+OrszÃ¡gosfegyhÃ¡z
 Orszagosfegyintezet
-Országútdûlõi Tanyák
-Országútdûlõ
-Országútidûlõ
-Országútitanyák
-Országúti Tanyák
-Országúti Tanya
-Országút
-Országúttanya
-Õr-szeg
-Õrszem
-Õrszemtanya
-Õrszentmiklós
-Õrszentmiklós - Vácbottyán
-Ortaháza
-Ortás
-Ortáspuszta
-Õrtilos
-Ortvány-szénbánya
-Örvényeshegy
-Örvényes Hegy
-Örvényesi-séd
-Örvényes
-Örvényhegy
-Örvény-kõ
-Örvény
-Örvényszög
-Örvényszögtanya
+OrszÃ¡gÃºtdÅ±lÅ‘i TanyÃ¡k
+OrszÃ¡gÃºtdÅ±lÅ‘
+OrszÃ¡gÃºtidÅ±lÅ‘
+OrszÃ¡gÃºtitanyÃ¡k
+OrszÃ¡gÃºti TanyÃ¡k
+OrszÃ¡gÃºti Tanya
+OrszÃ¡gÃºt
+OrszÃ¡gÃºttanya
+År-szeg
+Årszem
+Årszemtanya
+ÅrszentmiklÃ³s
+ÅrszentmiklÃ³s - VÃ¡cbottyÃ¡n
+OrtahÃ¡za
+OrtÃ¡s
+OrtÃ¡spuszta
+Årtilos
+OrtvÃ¡ny-szÃ©nbÃ¡nya
+Ã–rvÃ©nyeshegy
+Ã–rvÃ©nyes Hegy
+Ã–rvÃ©nyesi-sÃ©d
+Ã–rvÃ©nyes
+Ã–rvÃ©nyhegy
+Ã–rvÃ©ny-kÅ‘
+Ã–rvÃ©ny
+Ã–rvÃ©nyszÃ¶g
+Ã–rvÃ©nyszÃ¶gtanya
 Orvos-hegy
-Õsagárd
-Ósákpuszta
-Ósára
+ÅsagÃ¡rd
+Ã“sÃ¡kpuszta
+Ã“sÃ¡ra
 Osca
-Õsi
-Ósiska
-Oskoladûlõ
-Öskü
+Åsi
+Ã“siska
+OskoladÅ±lÅ‘
+Ã–skÃ¼
 Osli
-Összeszék
-Ostffyasszonyfa Állomás
+Ã–sszeszÃ©k
+Ostffyasszonyfa ÃllomÃ¡s
 Ostffyasszonyfa
 Ostffymajor
-Ostordûlõ
+OstordÅ±lÅ‘
 Ostorosi Patak
 Ostoros
 Ostoros-patak
 Ostromos Hegy
 Ostsfyasszonvfa
-Ósükösd
-Ösvény
-Ószanda-Nagymajor
-Ószanda
-Ószanda-Újtelep
-Ószentiván
-Õsz-erdõ
-Õszerdõ-tanya
-Öszeszék
-Õsze-szék
-Õszeszék
-Õszeszék-tó
-Õszhalom
-Ószhelylesvár
-Ószhelypuszta
-Õszidûlõ
-Ószilas-puszta
-Oszkármajor
-Oszkó
+Ã“sÃ¼kÃ¶sd
+Ã–svÃ©ny
+Ã“szanda-Nagymajor
+Ã“szanda
+Ã“szanda-Ãšjtelep
+Ã“szentivÃ¡n
+Åsz-erdÅ‘
+ÅszerdÅ‘-tanya
+Ã–szeszÃ©k
+Åsze-szÃ©k
+ÅszeszÃ©k
+ÅszeszÃ©k-tÃ³
+Åszhalom
+Ã“szhelylesvÃ¡r
+Ã“szhelypuszta
+ÅszidÅ±lÅ‘
+Ã“szilas-puszta
+OszkÃ¡rmajor
+OszkÃ³
 Oszla
-Oszlányitanya
-Oszlár
-Oszlárpuszta
-Oszlási Hegy
+OszlÃ¡nyitanya
+OszlÃ¡r
+OszlÃ¡rpuszta
+OszlÃ¡si Hegy
 Oszlatanya
-Ószõllõkert
-Ószõllõk
-Ószõllõ
-Ószõllõskert
-Ó-szõlõkert
-Ó-szõlõk
-Ószõlõk
-Ószõlõ
-Ószõlõskert
-Ó-Szöny
-Öszpötei Erdõsház
-Öszpöte
-Oszra-tetõ
-Osztopán
-Osztottföld
-Osztott-rét
-Ösztövér
-Osztózsilip
+Ã“szÅ‘llÅ‘kert
+Ã“szÅ‘llÅ‘k
+Ã“szÅ‘llÅ‘
+Ã“szÅ‘llÅ‘skert
+Ã“-szÅ‘lÅ‘kert
+Ã“-szÅ‘lÅ‘k
+Ã“szÅ‘lÅ‘k
+Ã“szÅ‘lÅ‘
+Ã“szÅ‘lÅ‘skert
+Ã“-SzÃ¶ny
+Ã–szpÃ¶tei ErdÅ‘shÃ¡z
+Ã–szpÃ¶te
+Oszra-tetÅ‘
+OsztopÃ¡n
+OsztottfÃ¶ld
+Osztott-rÃ©t
+Ã–sztÃ¶vÃ©r
+OsztÃ³zsilip
 Oszvaldmalom
-Ótanya
-Ótarcspuszta
-Ótelek
-Ötfa
-Öt-halom
-Öthalom
-Ötház
-Ötházpuszta
-Ötödrészidûlõ
-Ötödrésziszõlõ
-Ötödrész
-Ótokodbánya
-Ótokod
-Ötömösi Bukor Hegy
-Ótompahát
-Ótompa
-Ótotthegy
-Öttevény
+Ã“tanya
+Ã“tarcspuszta
+Ã“telek
+Ã–tfa
+Ã–t-halom
+Ã–thalom
+Ã–thÃ¡z
+Ã–thÃ¡zpuszta
+Ã–tÃ¶drÃ©szidÅ±lÅ‘
+Ã–tÃ¶drÃ©sziszÅ‘lÅ‘
+Ã–tÃ¶drÃ©sz
+Ã“tokodbÃ¡nya
+Ã“tokod
+Ã–tÃ¶mÃ¶si Bukor Hegy
+Ã“tompahÃ¡t
+Ã“tompa
+Ã“totthegy
+Ã–ttevÃ©ny
 Ottmajo
 Ottmajor
-Ottóhalom
-Ottómajor
-Öttömösitanyák
-Öttömös Központi Tanyák
-Öttömös
-Ottótanya
-Ötvenéves Erdõk
-Ötvenéveserdõ
-Ötvöskónyi
-Ötvös
-Ötvöspuszta
-Ötvöstanya
-Óvár
-Óvarsány
-Óvarsánypuszta
-Óvarsány-tanya
-Övcsatorna
-Óvirághegyszõllõ
-Óvirághegyszõlõ
-Ózd Alsó
-Ózdfalu
-Ózdi-patak
-Ózd
-Ózd-patak
-Õzedi-halom
-Õzedmajor
-Õzénhalma
-Õzepuszta
-Õzes
-Õzetanya
-Õzhalom
-Õz-hegy
-Ozmánbük
+OttÃ³halom
+OttÃ³major
+Ã–ttÃ¶mÃ¶sitanyÃ¡k
+Ã–ttÃ¶mÃ¶s KÃ¶zponti TanyÃ¡k
+Ã–ttÃ¶mÃ¶s
+OttÃ³tanya
+Ã–tvenÃ©ves ErdÅ‘k
+Ã–tvenÃ©veserdÅ‘
+Ã–tvÃ¶skÃ³nyi
+Ã–tvÃ¶s
+Ã–tvÃ¶spuszta
+Ã–tvÃ¶stanya
+Ã“vÃ¡r
+Ã“varsÃ¡ny
+Ã“varsÃ¡nypuszta
+Ã“varsÃ¡ny-tanya
+Ã–vcsatorna
+Ã“virÃ¡ghegyszÅ‘llÅ‘
+Ã“virÃ¡ghegyszÅ‘lÅ‘
+Ã“zd AlsÃ³
+Ã“zdfalu
+Ã“zdi-patak
+Ã“zd
+Ã“zd-patak
+Åzedi-halom
+Åzedmajor
+ÅzÃ©nhalma
+Åzepuszta
+Åzes
+Åzetanya
+Åzhalom
+Åz-hegy
+OzmÃ¡nbÃ¼k
 Ozora
 Ozors
-Õzpár
-Õzsetanya
-Õzugró
-Pácánydûlõ
-Pácin
+ÅzpÃ¡r
+Åzsetanya
+ÅzugrÃ³
+PÃ¡cÃ¡nydÅ±lÅ‘
+PÃ¡cin
 Packahegy
 Packa
 Pac
-Pácodpuszta
-Pacona-tó
+PÃ¡codpuszta
+Pacona-tÃ³
 Pacsahegy
 Pacsai Malom
 Pacsamalom
 Pacsa
 Pacsapuszta
-Pacsatüttös
-Pacsérvisnye
-Pacsirta-dûlõ
+PacsatÃ¼ttÃ¶s
+PacsÃ©rvisnye
+Pacsirta-dÅ±lÅ‘
 Pacsirta-hegy
 Pacsmag
-Pácsony
-Pácsonyújmajor
-Pácsonyújtelep
-Padár
-Pádártanya
-Pádártelep
-Pados-tetõ
-Pádpuszta
-Padragkút
+PÃ¡csony
+PÃ¡csonyÃºjmajor
+PÃ¡csonyÃºjtelep
+PadÃ¡r
+PÃ¡dÃ¡rtanya
+PÃ¡dÃ¡rtelep
+Pados-tetÅ‘
+PÃ¡dpuszta
+PadragkÃºt
 Padrag
-Páfrányos
+PÃ¡frÃ¡nyos
 Pagettanya
 Pagony
-Páhegy
-Páhi
+PÃ¡hegy
+PÃ¡hi
 Paisspuszta
 Paizs-puszta
 Pajhegy
@@ -16471,236 +16471,236 @@ Pajorok
 Pajortanya
 Pajtapuszta
 Pajzostanya
-Pajzos-tetõ
+Pajzos-tetÅ‘
 Pakac
-Páka-halom
-Pákai-Válicka
-Páka
+PÃ¡ka-halom
+PÃ¡kai-VÃ¡licka
+PÃ¡ka
 Pakaricshegy
 Pakod-hegy
 Pakodhegy
 Pakod
-Pákozd
-Pákra Tó
-Paks-Faddi-fõcsatorna
-Paksikertdûlõ
+PÃ¡kozd
+PÃ¡kra TÃ³
+Paks-Faddi-fÅ‘csatorna
+PaksikertdÅ±lÅ‘
 Paks
 Paksypuszta
 Palacsinta Tanya
 Palaczkipuszta
-Paládicspuszta
+PalÃ¡dicspuszta
 Palaj
 Palajpuszta
-Palánkihegy
-Palánki Mezõgazdasági Iskola
-Palánk
-Palánkosmajor
-Palánkospuszta
-Palánttelep
-Palánt-tetõ
+PalÃ¡nkihegy
+PalÃ¡nki MezÅ‘gazdasÃ¡gi Iskola
+PalÃ¡nk
+PalÃ¡nkosmajor
+PalÃ¡nkospuszta
+PalÃ¡nttelep
+PalÃ¡nt-tetÅ‘
 Palaticstanya
 Palatinca
-Pál-bikk
-Pál-bükk
-Pálcitanya
+PÃ¡l-bikk
+PÃ¡l-bÃ¼kk
+PÃ¡lcitanya
 Palda
-Palé
-Pálfaibánomdûlõ
-Pálfai Bánom
-Pálfaja Bánom
-Pálfalvi Tanya
-Pálfa
-Pálffy-sziget
-Pálffytanya
-Pálfiszeg
-Pálfi-sziget
-Pálfitanya
-Pálföldje
-Pál-föld
-Pálhalma
-Pálhalmapuszta
-Pálháza
-Pálházapuszta
-Pálházi-hegy
-Pálházi Ipartelep
-Pálházipuszta
-Pálházitanya
-Pál-hegy
-Pálihálás
-Páliháláspuszta
+PalÃ©
+PÃ¡lfaibÃ¡nomdÅ±lÅ‘
+PÃ¡lfai BÃ¡nom
+PÃ¡lfaja BÃ¡nom
+PÃ¡lfalvi Tanya
+PÃ¡lfa
+PÃ¡lffy-sziget
+PÃ¡lffytanya
+PÃ¡lfiszeg
+PÃ¡lfi-sziget
+PÃ¡lfitanya
+PÃ¡lfÃ¶ldje
+PÃ¡l-fÃ¶ld
+PÃ¡lhalma
+PÃ¡lhalmapuszta
+PÃ¡lhÃ¡za
+PÃ¡lhÃ¡zapuszta
+PÃ¡lhÃ¡zi-hegy
+PÃ¡lhÃ¡zi Ipartelep
+PÃ¡lhÃ¡zipuszta
+PÃ¡lhÃ¡zitanya
+PÃ¡l-hegy
+PÃ¡lihÃ¡lÃ¡s
+PÃ¡lihÃ¡lÃ¡spuszta
 Palinapuszta
-Palinkaháza
-Pálinkaház Felett
-Pálinkaház
-Pálinkaház-puszta
-Pálinkaházpuszta
-Pálinkásdûlõ
-Palinkás Halom
-Pálinkás
+PalinkahÃ¡za
+PÃ¡linkahÃ¡z Felett
+PÃ¡linkahÃ¡z
+PÃ¡linkahÃ¡z-puszta
+PÃ¡linkahÃ¡zpuszta
+PÃ¡linkÃ¡sdÅ±lÅ‘
+PalinkÃ¡s Halom
+PÃ¡linkÃ¡s
 Palin
-Páli
-Páli-Vadosfa
+PÃ¡li
+PÃ¡li-Vadosfa
 Palkonya
 Palkonyapuszta
-Palkótanya
-Pálköve
-Palkovicstanyák
-Pálközipuszta
-Pálkutatanya
-Pál-kúti-dûlõ
-Pallagdûlõ
+PalkÃ³tanya
+PÃ¡lkÃ¶ve
+PalkovicstanyÃ¡k
+PÃ¡lkÃ¶zipuszta
+PÃ¡lkutatanya
+PÃ¡l-kÃºti-dÅ±lÅ‘
+PallagdÅ±lÅ‘
 Pallag
 Pallagok
 Pallagpuszta Major
 Pallagpuszta
-Pallag-ráta
-Pál-liget
-Pallódomb
-Pálmajor
-Pálmalom
-Pálmatér
-Pálmonostora
-Palocsadûlõ
+Pallag-rÃ¡ta
+PÃ¡l-liget
+PallÃ³domb
+PÃ¡lmajor
+PÃ¡lmalom
+PÃ¡lmatÃ©r
+PÃ¡lmonostora
+PalocsadÅ±lÅ‘
 Palocsa
-Pálóczi Horváth-puszta
-Pálóczipuszta
-Pálos Domb
-Pálosmalom
-Pálos Puszta
-Pálostanya
-Pálosvörösmart
-Palotaaljadûlõ
+PÃ¡lÃ³czi HorvÃ¡th-puszta
+PÃ¡lÃ³czipuszta
+PÃ¡los Domb
+PÃ¡losmalom
+PÃ¡los Puszta
+PÃ¡lostanya
+PÃ¡losvÃ¶rÃ¶smart
+PalotaaljadÅ±lÅ‘
 Palotabozsok
 Palota-hegy
 Palotai-patak
 Palotai Patak
 Palotai Sziget
-Palotarész
-Palotáshalom
-Palotási-víztároló
-Palotás
-Palotás-puszta
-Palotásszentiván
+PalotarÃ©sz
+PalotÃ¡shalom
+PalotÃ¡si-vÃ­ztÃ¡rolÃ³
+PalotÃ¡s
+PalotÃ¡s-puszta
+PalotÃ¡sszentivÃ¡n
 Paloznak
-Pál-telek
-Páltelek
-Pálvargadûlõ
-Pamlény
-Pámpuktelep
+PÃ¡l-telek
+PÃ¡ltelek
+PÃ¡lvargadÅ±lÅ‘
+PamlÃ©ny
+PÃ¡mpuktelep
 Pamuki Domb
 Pamuk
-Pancadûlõ
-Páncél Örökös Tanya
-Páncéltanya
-Pándivölgyi Tanya
-Pándivölgy
-Pánd
+PancadÅ±lÅ‘
+PÃ¡ncÃ©l Ã–rÃ¶kÃ¶s Tanya
+PÃ¡ncÃ©ltanya
+PÃ¡ndivÃ¶lgyi Tanya
+PÃ¡ndivÃ¶lgy
+PÃ¡nd
 Pandur
 Pandur-sziget
-Pándzsaér
-Pándzsa
-Pándzsa-patak
-Pangyér-hegy
+PÃ¡ndzsaÃ©r
+PÃ¡ndzsa
+PÃ¡ndzsa-patak
+PangyÃ©r-hegy
 Panhida
 Pankasz
 Pankotaitanya
 Pankota
 Pannonhalma
-Pannonhalmi-dombság
-Pannonhalmi-halomvidék
-Pannónia-lakótelep
+Pannonhalmi-dombsÃ¡g
+Pannonhalmi-halomvidÃ©k
+PannÃ³nia-lakÃ³telep
 Pannonian Basin
 Pannonian Plain
 Pannoniapuszta
 Pannonia Telep
-Pannóniatelep
+PannÃ³niatelep
 Panonska Nizija
 Panonska Nizina
 Panonski Basen
-Pántlikakaszáló
-Pántlikamajor
-Pántlika
-Pántpuszta
-Pányád-major
-Pányád
-Pányizugdûlõ
-Pányi-zug
-Pányok
+PÃ¡ntlikakaszÃ¡lÃ³
+PÃ¡ntlikamajor
+PÃ¡ntlika
+PÃ¡ntpuszta
+PÃ¡nyÃ¡d-major
+PÃ¡nyÃ¡d
+PÃ¡nyizugdÅ±lÅ‘
+PÃ¡nyi-zug
+PÃ¡nyok
 Panyola
-Pápadereske
-Pápai-Bakony-ér
-Pápaimajor
-Pápakovácsi
-Pápa
-Pápanyõgér
-Pápasalamon
-Pápateszér
-Pápavár
-Papcsárda
+PÃ¡padereske
+PÃ¡pai-Bakony-Ã©r
+PÃ¡paimajor
+PÃ¡pakovÃ¡csi
+PÃ¡pa
+PÃ¡panyÅ‘gÃ©r
+PÃ¡pasalamon
+PÃ¡pateszÃ©r
+PÃ¡pavÃ¡r
+PapcsÃ¡rda
 Papdi Hegy
 Papd
-Pap-dûlõ
-Papdûlõ
+Pap-dÅ±lÅ‘
+PapdÅ±lÅ‘
 Pap Elek-tanya
-Pap-fertõ-dûlõ
-Papföld
-Papfolyódûlõ
-Papfolyójadûlõ
+Pap-fertÅ‘-dÅ±lÅ‘
+PapfÃ¶ld
+PapfolyÃ³dÅ±lÅ‘
+PapfolyÃ³jadÅ±lÅ‘
 Paphalma
-Pap-halmi-dûlõ
-Paphalmitanyák
+Pap-halmi-dÅ±lÅ‘
+PaphalmitanyÃ¡k
 Paphalmi Tanya
 Pap-halom
 Paphalom-puszta
-Paphalomtanyák
+PaphalomtanyÃ¡k
 Pap-hegy
 Paphegy
 Pap Hegy
-Papírgyári Lakótelep
+PapÃ­rgyÃ¡ri LakÃ³telep
 Papishalom
 Papitanya
-Papkerterdõ
+PapkerterdÅ‘
 Papkeszi
 Papkutapuszta
-Papkútdûlõ
+PapkÃºtdÅ±lÅ‘
 Paplapos
 Pap Lyukas-hegy
 Pap-lyukas
 Papmajor
 Papmalompuszta
 Pap
-Pápoc
+PÃ¡poc
 Papod Hegy
 Papod
-Papodtetõ
+PapodtetÅ‘
 Papos
-Papp-dûlõ
+Papp-dÅ±lÅ‘
 Papp-puszta
-Pappszállás
+PappszÃ¡llÃ¡s
 Papptanya
 Papp Tanya
 Papptavai Domb
 Papptelek
 Pappuszta
-Páprádipuszta
-Páprádi Tanya
-Páprád
-Páprádpuszta
-Páprágypuszta
-Paprányos
-Papréti Tanyák
-Pap-rét
-Paprét
-Pap-rév-zug
-Paprika-ürbõ
-Paprikaürbõtanya
-Papsomárka
-Papsómárok
-Papszállás
-Papszékdûlõ
-Papszékfaludûlõ
+PÃ¡prÃ¡dipuszta
+PÃ¡prÃ¡di Tanya
+PÃ¡prÃ¡d
+PÃ¡prÃ¡dpuszta
+PÃ¡prÃ¡gypuszta
+PaprÃ¡nyos
+PaprÃ©ti TanyÃ¡k
+Pap-rÃ©t
+PaprÃ©t
+Pap-rÃ©v-zug
+Paprika-Ã¼rbÅ‘
+PaprikaÃ¼rbÅ‘tanya
+PapsomÃ¡rka
+PapsÃ³mÃ¡rok
+PapszÃ¡llÃ¡s
+PapszÃ©kdÅ±lÅ‘
+PapszÃ©kfaludÅ±lÅ‘
 Pap-sziget
-Papszög
+PapszÃ¶g
 Pap-tag
 Paptag
 Paptag-tanya
@@ -16710,99 +16710,99 @@ Pap Tava-hegy
 Paptava
 Pap Tava
 Pap-telek
-Pap-tó
+Pap-tÃ³
 Paptova
 Papucshegy
-Pap-völgy
+Pap-vÃ¶lgy
 Papytag
-Parádfürdõ
-Parádfürdõ-Peres
+ParÃ¡dfÃ¼rdÅ‘
+ParÃ¡dfÃ¼rdÅ‘-Peres
 Paradicsommajor
 Paradicsom-puszta
 Paradicsompuszta
-Parádi Tanyák
-Parádi-Tarna
-Parád
-Parádóhuta
-Parádsasvár
-Paragáti-dûlõ
-Paragvárpuszta
+ParÃ¡di TanyÃ¡k
+ParÃ¡di-Tarna
+ParÃ¡d
+ParÃ¡dÃ³huta
+ParÃ¡dsasvÃ¡r
+ParagÃ¡ti-dÅ±lÅ‘
+ParagvÃ¡rpuszta
 Parassapuszta
 Parasza
 Paraszatelep
 Parasznya
-Pârãul Szaráz
-Pãrãu Saraz
-Paráz-dûlõ
-Paráz
-Parcellák
+PÃ¢rÄƒul SzarÃ¡z
+PÄƒrÄƒu Saraz
+ParÃ¡z-dÅ±lÅ‘
+ParÃ¡z
+ParcellÃ¡k
 Parcelok
-Párditanya
-Parésbörc
-Párgásdûlõ
-Párgás
-Pári
-Parlag-dûlõ
-Parlagdûlõ
+PÃ¡rditanya
+ParÃ©sbÃ¶rc
+PÃ¡rgÃ¡sdÅ±lÅ‘
+PÃ¡rgÃ¡s
+PÃ¡ri
+Parlag-dÅ±lÅ‘
+ParlagdÅ±lÅ‘
 Parlaghalom
 Parlag
 Parlagpuszta
-Parlagráta
+ParlagrÃ¡ta
 Parnaki Halom
-Parragát
+ParragÃ¡t
 Parraghegy
 Parraghpuszta
 Parrag
 Parragpuszta
-Parragvárpuszta
+ParragvÃ¡rpuszta
 Partalja
-Partfõidûlõ
-Partföledûlõ
-Part-fõ
+PartfÅ‘idÅ±lÅ‘
+PartfÃ¶ledÅ±lÅ‘
+Part-fÅ‘
 Parti Major
 Part
 Partoskert
-Pártos Szék
-Páskomdûlõ
-Paskomföldek
-Páskomföld
-Páskom
-Paskomszõllõk
-Páskomtanya
-Páskumföld
-Páskum-hegy
-Paskumitanyák
-Páskumitanyák
-Páskum
-Páskumtanya
-Paszabcsúcs
-Paszabcsúcs-tanya
+PÃ¡rtos SzÃ©k
+PÃ¡skomdÅ±lÅ‘
+PaskomfÃ¶ldek
+PÃ¡skomfÃ¶ld
+PÃ¡skom
+PaskomszÅ‘llÅ‘k
+PÃ¡skomtanya
+PÃ¡skumfÃ¶ld
+PÃ¡skum-hegy
+PaskumitanyÃ¡k
+PÃ¡skumitanyÃ¡k
+PÃ¡skum
+PÃ¡skumtanya
+PaszabcsÃºcs
+PaszabcsÃºcs-tanya
 Paszab
 Paszkalinmajor
-Pásztói Zug
-Pásztó
-Pásztor-bérc
-Pásztordûlõ
-Pásztori
-Pásztor-lápa
-Pásztor
-Pásztor-ormágy
-Pásztortanya
-Pásztorúti Dûlõ
-Pásztor-völgy
-Pásztó-zug
+PÃ¡sztÃ³i Zug
+PÃ¡sztÃ³
+PÃ¡sztor-bÃ©rc
+PÃ¡sztordÅ±lÅ‘
+PÃ¡sztori
+PÃ¡sztor-lÃ¡pa
+PÃ¡sztor
+PÃ¡sztor-ormÃ¡gy
+PÃ¡sztortanya
+PÃ¡sztorÃºti DÅ±lÅ‘
+PÃ¡sztor-vÃ¶lgy
+PÃ¡sztÃ³-zug
 Patacs
 Patacspuszta
-Pataikürtös
-Patajibojár
-Pataji-dûlõ
+PataikÃ¼rtÃ¶s
+PatajibojÃ¡r
+Pataji-dÅ±lÅ‘
 Pataji-Mikla
-Pataji Rész
+Pataji RÃ©sz
 Patajpuszta
-Patakföld
+PatakfÃ¶ld
 Pataki-puszta
 Patakipuszta
-Patakköz
+PatakkÃ¶z
 Patakmalom
 Patak
 Patakpuszta
@@ -16811,36 +16811,36 @@ Patalomi Major
 Patalom
 Pata
 Patapoklosi
-Pátapuszta
-Patayrész
+PÃ¡tapuszta
+PatayrÃ©sz
 Patca
-Páterhomok
-Patihídpuszta
-Patikárustanya
+PÃ¡terhomok
+PatihÃ­dpuszta
+PatikÃ¡rustanya
 Patikasarok
-Pátkai Tanyák
-Pátka
-Patkányos
-Patkányospuszta
-Patkányos-tanya
-Patkó
-Patkós
-Patkóssziget
-Patkó-zug
+PÃ¡tkai TanyÃ¡k
+PÃ¡tka
+PatkÃ¡nyos
+PatkÃ¡nyospuszta
+PatkÃ¡nyos-tanya
+PatkÃ³
+PatkÃ³s
+PatkÃ³ssziget
+PatkÃ³-zug
 Pat
-Patonaiház
+PatonaihÃ¡z
 Patonai
 Patonai Patak
 Patosfa
 Patpuszta
-Pátroha
-Pátrói Tanya
-Pátró
+PÃ¡troha
+PÃ¡trÃ³i Tanya
+PÃ¡trÃ³
 Patvarc
-Patyiház
-Pátyi-völgy
-Páty
-Pátyod
+PatyihÃ¡z
+PÃ¡tyi-vÃ¶lgy
+PÃ¡ty
+PÃ¡tyod
 Paulamajor
 Paulapuszta
 Paulatanya
@@ -16851,141 +16851,141 @@ Paulinmajor
 Paulovics
 Paulovicztanya
 Paulovitzmajor
-Pázdány
-Pázmándfalui Tanyák
-Pázmándfalu
-Pázmándhegy
-Pázmánd
-Pázmándpuszta
-Pázmán
-Pázmány-lapos
-Pázmány
+PÃ¡zdÃ¡ny
+PÃ¡zmÃ¡ndfalui TanyÃ¡k
+PÃ¡zmÃ¡ndfalu
+PÃ¡zmÃ¡ndhegy
+PÃ¡zmÃ¡nd
+PÃ¡zmÃ¡ndpuszta
+PÃ¡zmÃ¡n
+PÃ¡zmÃ¡ny-lapos
+PÃ¡zmÃ¡ny
 Pazsag
-Pazsag-tetõ
-Pazséri Malom
-Pazsér-szállás
+Pazsag-tetÅ‘
+PazsÃ©ri Malom
+PazsÃ©r-szÃ¡llÃ¡s
 Pazsir
-Péceli-tag
-Pécel
+PÃ©celi-tag
+PÃ©cel
 Pece
-Pecércéshát
-Pecercés
+PecÃ©rcÃ©shÃ¡t
+PecercÃ©s
 Peces Halom
 Pechtltanya
-Péchy-dûlõ
-Péchytag
-Péchy-tanya
-Péchytanya
-Peckés
-Peckéstanya
-Pecöl
-Pecölrózsamajor
-Pécsbagota
-Pécsbánya
-Pécsbánya Rendezõ Pályaudvar
-Pécsbányatelep
-Pécsbudafa
-Pécsdevecser
-Pécselyipuszta
-Pécsely
-Pécsely-patak
-Pécs Felsõ
-Pécs-Gyárváros
-Pécsi Hegy
-Pécsi-síkság
-Pécsiszállás
-Pécsi-tag
-Pécsi-víz
-Pécs-kõ
-Pécskõpuszta
-Pécs Külváros
-Pécs Megyei Város
-Pécs
-Pécsszabolcs
-Pécsudvard
-Pécsújhegy
-Pécsvárad
-Pécs-Vasas
-Pedrócmajor
-Peèuj
-Pejrét
-Pekácsirész
-Pekártanya
-Pekárytanya
-Peksidûlõ
-Péli-Élõvíz-csatorna
-Péliföldszentkereszt
-Pellei-rész
-Pellérdi-halastavak
-Pellérdi-tárolok
-Pellérd
+PÃ©chy-dÅ±lÅ‘
+PÃ©chytag
+PÃ©chy-tanya
+PÃ©chytanya
+PeckÃ©s
+PeckÃ©stanya
+PecÃ¶l
+PecÃ¶lrÃ³zsamajor
+PÃ©csbagota
+PÃ©csbÃ¡nya
+PÃ©csbÃ¡nya RendezÅ‘ PÃ¡lyaudvar
+PÃ©csbÃ¡nyatelep
+PÃ©csbudafa
+PÃ©csdevecser
+PÃ©cselyipuszta
+PÃ©csely
+PÃ©csely-patak
+PÃ©cs FelsÅ‘
+PÃ©cs-GyÃ¡rvÃ¡ros
+PÃ©csi Hegy
+PÃ©csi-sÃ­ksÃ¡g
+PÃ©csiszÃ¡llÃ¡s
+PÃ©csi-tag
+PÃ©csi-vÃ­z
+PÃ©cs-kÅ‘
+PÃ©cskÅ‘puszta
+PÃ©cs KÃ¼lvÃ¡ros
+PÃ©cs Megyei VÃ¡ros
+PÃ©cs
+PÃ©csszabolcs
+PÃ©csudvard
+PÃ©csÃºjhegy
+PÃ©csvÃ¡rad
+PÃ©cs-Vasas
+PedrÃ³cmajor
+PeÄuj
+PejrÃ©t
+PekÃ¡csirÃ©sz
+PekÃ¡rtanya
+PekÃ¡rytanya
+PeksidÅ±lÅ‘
+PÃ©li-Ã‰lÅ‘vÃ­z-csatorna
+PÃ©lifÃ¶ldszentkereszt
+Pellei-rÃ©sz
+PellÃ©rdi-halastavak
+PellÃ©rdi-tÃ¡rolok
+PellÃ©rd
 Pelletmajor
 Pellet-tag
-Pélpuszta
-Pelsõcitanya
-Pelsõczitanya
-Pélyhatári Tanyák
-Pélyi-határ
-Pély
+PÃ©lpuszta
+PelsÅ‘citanya
+PelsÅ‘czitanya
+PÃ©lyhatÃ¡ri TanyÃ¡k
+PÃ©lyi-hatÃ¡r
+PÃ©ly
 Penc
-Penészlek
-Péntek-halom
-Péntekhegyi Szõllõ
-Péntekhegyi Szõlõ
-Péntek-hegy
-Péntektanya
+PenÃ©szlek
+PÃ©ntek-halom
+PÃ©ntekhegyi SzÅ‘llÅ‘
+PÃ©ntekhegyi SzÅ‘lÅ‘
+PÃ©ntek-hegy
+PÃ©ntektanya
 Penyige
-Pénzásás
-Pénzásásújtelep
-Pénzenvett
-Pénzesgyõr
-Pénzeskert
-Pénzeskút
-Pénzesmajor
-Pénzespertdûlõ
-Pénzestanya
-Pénzpatak
-Pénzverõ
+PÃ©nzÃ¡sÃ¡s
+PÃ©nzÃ¡sÃ¡sÃºjtelep
+PÃ©nzenvett
+PÃ©nzesgyÅ‘r
+PÃ©nzeskert
+PÃ©nzeskÃºt
+PÃ©nzesmajor
+PÃ©nzespertdÅ±lÅ‘
+PÃ©nzestanya
+PÃ©nzpatak
+PÃ©nzverÅ‘
 Pepi-kert
-Perbál
-Percelitanyák
-Perceliúti Tanyák
+PerbÃ¡l
+PercelitanyÃ¡k
+PerceliÃºti TanyÃ¡k
 Percsorai Major
 Percsora Major
 Perde
-Perdócmajor
-Perecdûlõ
-Perecesbánya
-Perecesbányatelep
-Pereces-kõ
+PerdÃ³cmajor
+PerecdÅ±lÅ‘
+PerecesbÃ¡nya
+PerecesbÃ¡nyatelep
+Pereces-kÅ‘
 Pereces
 Perecmajor
 Perecse
 Perecsenypuszta
 Peregadacs
 Pereghalom
-Peregihalmi Dûlõ
+Peregihalmi DÅ±lÅ‘
 Peregpuszta
 Pere-halom
 Perekedi Hegy
 Pereked
-Peremarton-Gyártelep
+Peremarton-GyÃ¡rtelep
 Peremarton
 Pere
 Perenye
-Perényitanya
-Peresárok
-Peres-bérc
-Peres-dûlõ
-Peresdûlõ
-Peresföld
+PerÃ©nyitanya
+PeresÃ¡rok
+Peres-bÃ©rc
+Peres-dÅ±lÅ‘
+PeresdÅ±lÅ‘
+PeresfÃ¶ld
 Peres-hegy
 Peresi Iskola
-Peresitanyák
-Peresi Tanyák
+PeresitanyÃ¡k
+Peresi TanyÃ¡k
 Peresi Tanya
-Pereskõ
-Pereskútdûlõ
+PereskÅ‘
+PereskÃºtdÅ±lÅ‘
 Peres
 Peres-oldal
 Perespuszta
@@ -16993,219 +16993,219 @@ Peres Puszta
 Perestanya
 Peresznye
 Pereszteg
-Peresztegtacskánd
-Pergelõtanya
-Pergenyõ
+PeresztegtacskÃ¡nd
+PergelÅ‘tanya
+PergenyÅ‘
 Pergertanya
-Pergyó Hegy
+PergyÃ³ Hegy
 Perint
 Perint-patak
-Perjászó-tetõ
+PerjÃ¡szÃ³-tetÅ‘
 Perje-csatorna
-Perje-fõcsatorna
+Perje-fÅ‘csatorna
 Perje
-Perjéshátdûlõ
-Perjés Hát
-Perjésitanyák
-Perjésitanya
-Perjés
-Perjéspuszta
-Perjéstanyák
-Perkátainagy
-Perkáta
+PerjÃ©shÃ¡tdÅ±lÅ‘
+PerjÃ©s HÃ¡t
+PerjÃ©sitanyÃ¡k
+PerjÃ©sitanya
+PerjÃ©s
+PerjÃ©spuszta
+PerjÃ©stanyÃ¡k
+PerkÃ¡tainagy
+PerkÃ¡ta
 Perkedpuszta
 Perkedtanya
-Perkóchegy
+PerkÃ³chegy
 Perkupa
 Perlakimajor
 Perlsteintanya
 Pernaki-halom
 Pernec-patak
-Pér
-Pernyéshát
-Pernyéspuszta
-Pernyéstanya
-Perõcsény
-Perõcsitanya
-Pervátpuszta
+PÃ©r
+PernyÃ©shÃ¡t
+PernyÃ©spuszta
+PernyÃ©stanya
+PerÅ‘csÃ©ny
+PerÅ‘csitanya
+PervÃ¡tpuszta
 Pesitanya
-Peskõ-hegy
-Pes-kõ
+PeskÅ‘-hegy
+Pes-kÅ‘
 Pest County
-Pesterzsébet Felsõ
-Pesterzsébet
-Pesthidegkút
+PesterzsÃ©bet FelsÅ‘
+PesterzsÃ©bet
+PesthidegkÃºt
 Pesth
 Pesthytanya
-Pestidûlõ
+PestidÅ±lÅ‘
 Pestimalom
-Pestimre Felsõ
+Pestimre FelsÅ‘
 Pestimre
-Pesti-síkság
-Pestiúti Kültelek
+Pesti-sÃ­ksÃ¡g
+PestiÃºti KÃ¼ltelek
 Pestj
-Pestlõrinc
+PestlÅ‘rinc
 Pest Megye
 Pest
-Pestszenterzsébet
+PestszenterzsÃ©bet
 Pestszentimre
-Pestszentlõrinc
-Pestújhely
-Pestyánszkytanya
-Peszéradacs
-Peszéri Erdõ
+PestszentlÅ‘rinc
+PestÃºjhely
+PestyÃ¡nszkytanya
+PeszÃ©radacs
+PeszÃ©ri ErdÅ‘
 Peszti-hegy
 Petendi-domb
 Petendpuszta
 Petenyepuszta
-Péter Deák Dûlõ
-Péterdeák
-Péterdi Hegy
+PÃ©ter DeÃ¡k DÅ±lÅ‘
+PÃ©terdeÃ¡k
+PÃ©terdi Hegy
 Peterdipuszta
 Peterd
 Peterdpuszta
-Péterdûlõ
-Péterfai Hegy
-Péterfa
-Péterfapuszta
-Péterfiadûlõ
-Péterfitanya
-Péter Földje
-Péterföld
-Péter-halom
-Péterhalom
-Péterhalomtanya
-Péterháti Dûlõ
-Péter-hát
-Péterhát Puszta
-Péterházapuszta
-Péterhegydûlõ
-Péter-hegy
-Péterhegy
-Péterhida-Komlósd
-Péterhida
-Péteri Csárda
-Péteri
-Péteri-tó
-Péterkert
-Pétermajor
-Pétermonostora
-Pétermonstora
-Péterné-tetõ
-Péterpuszta
-Péterszállás
-Péterszögi Tanyák
-Péterszög
-Péterszögtanya
-Pétervására
-Péter-völgy
-Pétervölgypuszta
+PÃ©terdÅ±lÅ‘
+PÃ©terfai Hegy
+PÃ©terfa
+PÃ©terfapuszta
+PÃ©terfiadÅ±lÅ‘
+PÃ©terfitanya
+PÃ©ter FÃ¶ldje
+PÃ©terfÃ¶ld
+PÃ©ter-halom
+PÃ©terhalom
+PÃ©terhalomtanya
+PÃ©terhÃ¡ti DÅ±lÅ‘
+PÃ©ter-hÃ¡t
+PÃ©terhÃ¡t Puszta
+PÃ©terhÃ¡zapuszta
+PÃ©terhegydÅ±lÅ‘
+PÃ©ter-hegy
+PÃ©terhegy
+PÃ©terhida-KomlÃ³sd
+PÃ©terhida
+PÃ©teri CsÃ¡rda
+PÃ©teri
+PÃ©teri-tÃ³
+PÃ©terkert
+PÃ©termajor
+PÃ©termonostora
+PÃ©termonstora
+PÃ©ternÃ©-tetÅ‘
+PÃ©terpuszta
+PÃ©terszÃ¡llÃ¡s
+PÃ©terszÃ¶gi TanyÃ¡k
+PÃ©terszÃ¶g
+PÃ©terszÃ¶gtanya
+PÃ©tervÃ¡sÃ¡ra
+PÃ©ter-vÃ¶lgy
+PÃ©tervÃ¶lgypuszta
 Petesmalom
-Pétfürdõ
+PÃ©tfÃ¼rdÅ‘
 Pethesmalom
-Pethõhenye
-Pethõtanya
-Péti-hegy
-Petkevár
-Petki Vár
+PethÅ‘henye
+PethÅ‘tanya
+PÃ©ti-hegy
+PetkevÃ¡r
+Petki VÃ¡r
 Petlend
 Petlendpuszta
-Petneháza
-Petneházitanya
-Petõc-puszta
-Petõctag
-Petõcz
-Petõczpuszta
-Petõczpuszta-Vigonvár
-Petõcztag
-Petõdûlõ
-Petõfa
-Petõfibánya
-Petõfi Bányatelep
-Petõfidûlõ
-Petõfiföldek
-Petõfipuszta
-Petõfiszállási Tanyák
-Petõfiszállás
-Petõfitanya
-Petõfitelep
-Petõfi Tér
-Petõ-halom
-Petõháza
-Petõ Hegy
-Petõhenye
-Petõi Szõllõk
-Petõi Szõlõk
-Petõmihályfa
-Petõrész
-Petõtanya
-Petrács
-Petrácspuszta
-Petrányitanya
+PetnehÃ¡za
+PetnehÃ¡zitanya
+PetÅ‘c-puszta
+PetÅ‘ctag
+PetÅ‘cz
+PetÅ‘czpuszta
+PetÅ‘czpuszta-VigonvÃ¡r
+PetÅ‘cztag
+PetÅ‘dÅ±lÅ‘
+PetÅ‘fa
+PetÅ‘fibÃ¡nya
+PetÅ‘fi BÃ¡nyatelep
+PetÅ‘fidÅ±lÅ‘
+PetÅ‘fifÃ¶ldek
+PetÅ‘fipuszta
+PetÅ‘fiszÃ¡llÃ¡si TanyÃ¡k
+PetÅ‘fiszÃ¡llÃ¡s
+PetÅ‘fitanya
+PetÅ‘fitelep
+PetÅ‘fi TÃ©r
+PetÅ‘-halom
+PetÅ‘hÃ¡za
+PetÅ‘ Hegy
+PetÅ‘henye
+PetÅ‘i SzÅ‘llÅ‘k
+PetÅ‘i SzÅ‘lÅ‘k
+PetÅ‘mihÃ¡lyfa
+PetÅ‘rÃ©sz
+PetÅ‘tanya
+PetrÃ¡cs
+PetrÃ¡cspuszta
+PetrÃ¡nyitanya
 Petresi-malom
 Petrici-malom
-Petrikeresztúr
+PetrikeresztÃºr
 Petritanya
 Petrivente
-Petróci-puszta
-Petrócpuszta
-Petróczkitanya
-Petróczkytanya
-Petróczpuszta
-Petróczy-hegy
-Petroleumfinomító
-Petróleumgyártelep
-Petrótanya
+PetrÃ³ci-puszta
+PetrÃ³cpuszta
+PetrÃ³czkitanya
+PetrÃ³czkytanya
+PetrÃ³czpuszta
+PetrÃ³czy-hegy
+PetroleumfinomÃ­tÃ³
+PetrÃ³leumgyÃ¡rtelep
+PetrÃ³tanya
 Pettendi Domb
 Pettend
-Pettyán
-Petyér Hegy
-Petyvandûlõ
-Piac-dûlõ
+PettyÃ¡n
+PetyÃ©r Hegy
+PetyvandÅ±lÅ‘
+Piac-dÅ±lÅ‘
 Pickpuszta
 Picsor
 Picsor-puszta
 Picsortanya
 Picula Hegy
-Pihenõ
-Pihenõpuszta
+PihenÅ‘
+PihenÅ‘puszta
 Pikatanya
 Pikk-puszta
-Pikói Tanyák
-Pikó
-Piliczföld
-Pilinyi Várhegy
+PikÃ³i TanyÃ¡k
+PikÃ³
+PiliczfÃ¶ld
+Pilinyi VÃ¡rhegy
 Piliny
-Pilinyvár-hegy
-Pilisborosjenõ
-Piliscsaba Alsó
-Piliscsabai Tábor
-Piliscsaba-Jászfalu
+PilinyvÃ¡r-hegy
+PilisborosjenÅ‘
+Piliscsaba AlsÃ³
+Piliscsabai TÃ¡bor
+Piliscsaba-JÃ¡szfalu
 Piliscsaba
-Piliscsév
+PiliscsÃ©v
 Pilis-csoport
 Pilis-hegy
-Pilisi-hegység
+Pilisi-hegysÃ©g
 Pilisi-patak
 Pilisi-tag
-Pilisjászfalu
+PilisjÃ¡szfalu
 Piliske
 Pilisliget
-Pilismarót
+PilismarÃ³t
 Pilis
 Pilis-patak
-Pilisszántó
+PilisszÃ¡ntÃ³
 Pilisszenkereszt
-Pilisszentiván
+PilisszentivÃ¡n
 Pilisszentkereszt
-Pilisszentlászló
-Pilisszentlélek
+PilisszentlÃ¡szlÃ³
+PilisszentlÃ©lek
 Pilistanya
-Pilisújtanya
-Pilisvörösvár
+PilisÃºjtanya
+PilisvÃ¶rÃ¶svÃ¡r
 Pillants-hegy
 Pillertanya
-Pillingérpuszta
+PillingÃ©rpuszta
 Piltai-puszta
 Piltatanya
 Pincecsere
@@ -17213,54 +17213,54 @@ Pince-halom
 Pincehegy
 Pincehegytanya
 Pincehely
-Pincelakás
+PincelakÃ¡s
 Pincepart
-Pincéshat
-Pincésháttanya
-Pincés-hegy
-Pincés-kút-dûlõ
-Pincés
+PincÃ©shat
+PincÃ©shÃ¡ttanya
+PincÃ©s-hegy
+PincÃ©s-kÃºt-dÅ±lÅ‘
+PincÃ©s
 Pincesor
-Pince-tetõ
-Pincevölgy
+Pince-tetÅ‘
+PincevÃ¶lgy
 Pinkamindszent
 Pinka
-Pinke-kút
-Pinkóci-dûlõ
-Pinkócimajor
-Pinkóc
-Pinkócpuszta
-Pinkóczytanya
-Pinnyéd
+Pinke-kÃºt
+PinkÃ³ci-dÅ±lÅ‘
+PinkÃ³cimajor
+PinkÃ³c
+PinkÃ³cpuszta
+PinkÃ³czytanya
+PinnyÃ©d
 Pinnye
-Pintér-dûlõ
-Pintér Sor
-Pintértanya
-Pinty-tetõ
-Piócásdûlõ
-Piócás
-Pipagyújtósor
+PintÃ©r-dÅ±lÅ‘
+PintÃ©r Sor
+PintÃ©rtanya
+Pinty-tetÅ‘
+PiÃ³cÃ¡sdÅ±lÅ‘
+PiÃ³cÃ¡s
+PipagyÃºjtÃ³sor
 Pipahegy
-Pipázó-hegy
-Pipishalomdûlõ
+PipÃ¡zÃ³-hegy
+PipishalomdÅ±lÅ‘
 Pipis-halom
-Pipishát
+PipishÃ¡t
 Pipis-hegy
 Pipiske
-Pipiske-tetõ
-Pîrãul Saraz
+Pipiske-tetÅ‘
+PÃ®rÄƒul Saraz
 Piricse
 Piricsizma
-Piripócs
-Piripócspuszta
-Piripócstelep
+PiripÃ³cs
+PiripÃ³cspuszta
+PiripÃ³cstelep
 Piri Sor
-Pirittyó-tetõ
+PirittyÃ³-tetÅ‘
 Piroscserepestanya
-Pirosház
+PiroshÃ¡z
 Piros-hegy
-Piroskahát
-Piroskaház
+PiroskahÃ¡t
+PiroskahÃ¡z
 Piroska-hegy
 Piroskamajor
 Piroska
@@ -17269,21 +17269,21 @@ Piroskatanya
 Pirosmajor
 Piros
 Pirostanya
-Pirtó Állomás
-Pirtói Szõllõk
-Pirtói Szõlõk
-Pirtó
-Pirtópuszta
-Piskõ
-Piskó
-Pistakút-major
-Pistakút
-Pistáldûlõ
-Pistály
-Pistavölgytanya
+PirtÃ³ ÃllomÃ¡s
+PirtÃ³i SzÅ‘llÅ‘k
+PirtÃ³i SzÅ‘lÅ‘k
+PirtÃ³
+PirtÃ³puszta
+PiskÅ‘
+PiskÃ³
+PistakÃºt-major
+PistakÃºt
+PistÃ¡ldÅ±lÅ‘
+PistÃ¡ly
+PistavÃ¶lgytanya
 Piszke
 Piszkeritanya
-Piszkés-tetõ
+PiszkÃ©s-tetÅ‘
 Piszkulaitanya
 Piszkula
 Pisznice
@@ -17293,248 +17293,248 @@ Pitricsom
 Pitricson
 Pitvaras
 Pitvaros
-Pitvaros Völgy
+Pitvaros VÃ¶lgy
 Pityerdomb
-Pityerdûlõ
+PityerdÅ±lÅ‘
 Pityermajor
 Pityer
-Pityókadûlõ
-Pityóka
-Pityómajor
+PityÃ³kadÅ±lÅ‘
+PityÃ³ka
+PityÃ³major
 Piuspuszta
 Piuszpuszta
 Plachypuszta
-Plannerdõk
+PlannerdÅ‘k
 Plathy-tanya
 Platten See
-Pleszkántanya
+PleszkÃ¡ntanya
 Pletnicsmajor
 Pletnits-major
 Plihal-puszta
-Pliháltanya
-Pócapuszta
+PlihÃ¡ltanya
+PÃ³capuszta
 Pocem
-Pöcökdûlõ
-Pöcöki Szõllõk
-Pöcökiszõlõk
-Pócostanya
+PÃ¶cÃ¶kdÅ±lÅ‘
+PÃ¶cÃ¶ki SzÅ‘llÅ‘k
+PÃ¶cÃ¶kiszÅ‘lÅ‘k
+PÃ³costanya
 Pocos-zug
-Pocsaj-Esztár
+Pocsaj-EsztÃ¡r
 Pocsaj
 Pocsajtanya
-Pócsa
-Pócsapuszta
-Pócsmegyeri Tanyák
-Pócsmegyer
-Pócspallag
-Pócspetri
-Pócsvölgyi-tetõ
-Póczostanya
-Podó-patak
-Pogácsahegy
-Pogány-domb
-Pogány-hegy
-Pogányi-víz
-Pogány
-Pogány-patak
-Pogányszentpéter
-Pogány-sziget
-Pogányvár
-Pogányvár-puszta
-Pogányvárpuszta
-Pogányvár-tetõ
-Pogány-völgyi-vízfolyás
-Pogány-völgyi-víz
+PÃ³csa
+PÃ³csapuszta
+PÃ³csmegyeri TanyÃ¡k
+PÃ³csmegyer
+PÃ³cspallag
+PÃ³cspetri
+PÃ³csvÃ¶lgyi-tetÅ‘
+PÃ³czostanya
+PodÃ³-patak
+PogÃ¡csahegy
+PogÃ¡ny-domb
+PogÃ¡ny-hegy
+PogÃ¡nyi-vÃ­z
+PogÃ¡ny
+PogÃ¡ny-patak
+PogÃ¡nyszentpÃ©ter
+PogÃ¡ny-sziget
+PogÃ¡nyvÃ¡r
+PogÃ¡nyvÃ¡r-puszta
+PogÃ¡nyvÃ¡rpuszta
+PogÃ¡nyvÃ¡r-tetÅ‘
+PogÃ¡ny-vÃ¶lgyi-vÃ­zfolyÃ¡s
+PogÃ¡ny-vÃ¶lgyi-vÃ­z
 Pogonyipuszta
 Pogony
-Póhalom
-Póhamara
-Pöhmmajor
-Pókaháza Ér
-Póka-hegy
-Pókahegy
-Pókahegytanya
-Pókaszepetk
-Pókháza
+PÃ³halom
+PÃ³hamara
+PÃ¶hmmajor
+PÃ³kahÃ¡za Ã‰r
+PÃ³ka-hegy
+PÃ³kahegy
+PÃ³kahegytanya
+PÃ³kaszepetk
+PÃ³khÃ¡za
 Poklondos
-Poklosdûlõ
+PoklosdÅ±lÅ‘
 Poklosi
 Poklos
 Pokoltanya
-Pokol-völgy
-Pokolvölgy
-Pokvár
-Pókvárpuszta
+Pokol-vÃ¶lgy
+PokolvÃ¶lgy
+PokvÃ¡r
+PÃ³kvÃ¡rpuszta
 Pola
-Polányi-hegy
-Polány
-Pólavölgy
-Polgárdi Ipartelepek
-Polgárdi-Ipartelepek
-Polgárdi
-Polgárdi Szõllõ
-Polgárdi Szõlõk
-Polgárditekeres
-Polgárdi-Tekerespuszta
-Polgárhalomdûlõ
-Polgárhalom
-Polgárhegy
-Polgár
-Polgárpuszta
-Polgártanyák
-Polgártanya
-Policerlegelõ
-Pollákovitsmajor
-Polonkai Tanyák
-Pölöskefõ
-Pölöskei Erdõ
-Pölöskeitanya
-Pölöske
-Polyákbokor
-Polyákhalom
-Polyáktanya
-Polyáktelep
+PolÃ¡nyi-hegy
+PolÃ¡ny
+PÃ³lavÃ¶lgy
+PolgÃ¡rdi Ipartelepek
+PolgÃ¡rdi-Ipartelepek
+PolgÃ¡rdi
+PolgÃ¡rdi SzÅ‘llÅ‘
+PolgÃ¡rdi SzÅ‘lÅ‘k
+PolgÃ¡rditekeres
+PolgÃ¡rdi-Tekerespuszta
+PolgÃ¡rhalomdÅ±lÅ‘
+PolgÃ¡rhalom
+PolgÃ¡rhegy
+PolgÃ¡r
+PolgÃ¡rpuszta
+PolgÃ¡rtanyÃ¡k
+PolgÃ¡rtanya
+PolicerlegelÅ‘
+PollÃ¡kovitsmajor
+Polonkai TanyÃ¡k
+PÃ¶lÃ¶skefÅ‘
+PÃ¶lÃ¶skei ErdÅ‘
+PÃ¶lÃ¶skeitanya
+PÃ¶lÃ¶ske
+PolyÃ¡kbokor
+PolyÃ¡khalom
+PolyÃ¡ktanya
+PolyÃ¡ktelep
 Polya
-Pomáz
-Pongosér
-Pongrác-tag
-Pongráctanya
-Pongrácztanya
+PomÃ¡z
+PongosÃ©r
+PongrÃ¡c-tag
+PongrÃ¡ctanya
+PongrÃ¡cztanya
 Pongyer-hegy
-Pontonhíd
+PontonhÃ­d
 Ponyipuszta
-Ponyvád
-Pörböl
-Pörböly
-Porcsákos-dûlõ
-Porcsákos
+PonyvÃ¡d
+PÃ¶rbÃ¶l
+PÃ¶rbÃ¶ly
+PorcsÃ¡kos-dÅ±lÅ‘
+PorcsÃ¡kos
 Porcsalmaitanya
 Porcsalma
 Porcsalma-Tyukod
-Pördefölde
-Pórétanya
-Porgány-ér
-Porgány
-Pörgõlény
-Pörgölin
+PÃ¶rdefÃ¶lde
+PÃ³rÃ©tanya
+PorgÃ¡ny-Ã©r
+PorgÃ¡ny
+PÃ¶rgÅ‘lÃ©ny
+PÃ¶rgÃ¶lin
 Porhaza Tanya
 Por-hegy
-Pörjéspuszta
-Porkoláb-gyep
-Porkoláb
-Porkolábpuszta
-Porkolábvölgy
-Pornóapáti
+PÃ¶rjÃ©spuszta
+PorkolÃ¡b-gyep
+PorkolÃ¡b
+PorkolÃ¡bpuszta
+PorkolÃ¡bvÃ¶lgy
+PornÃ³apÃ¡ti
 Porond
 Porong
-Porosállás
-Pörösi-dûlõ
-Pörösipuszta
-Pörös-major
-Pörös
-Pörösök
-Pöröspuszta
-Poroszlódûlõ
-Poroszlóidûlõ
-Poroszló
-Porpác
-Porpáczytanya
+PorosÃ¡llÃ¡s
+PÃ¶rÃ¶si-dÅ±lÅ‘
+PÃ¶rÃ¶sipuszta
+PÃ¶rÃ¶s-major
+PÃ¶rÃ¶s
+PÃ¶rÃ¶sÃ¶k
+PÃ¶rÃ¶spuszta
+PoroszlÃ³dÅ±lÅ‘
+PoroszlÃ³idÅ±lÅ‘
+PoroszlÃ³
+PorpÃ¡c
+PorpÃ¡czytanya
 Porrog
-Porrogszentkirály
-Porrogszentpál
-Pórszalók
-Pórszombat
+PorrogszentkirÃ¡ly
+PorrogszentpÃ¡l
+PÃ³rszalÃ³k
+PÃ³rszombat
 Porteleki Templom
 Portelek
 Porva-Csesznek
 Porva
-Pósa-halom
-Pósahalom
-Pósatanya
-Pöse
-Pósfa
+PÃ³sa-halom
+PÃ³sahalom
+PÃ³satanya
+PÃ¶se
+PÃ³sfa
 Posgaytag
-Pós-patak
-Pössze
-Pösszepuszta
-Postafölddûlõ
+PÃ³s-patak
+PÃ¶ssze
+PÃ¶sszepuszta
+PostafÃ¶lddÅ±lÅ‘
 Posta-hegy
 Posta-kert
-Postaszállás
+PostaszÃ¡llÃ¡s
 Posta-tag
-Postavölgy
-Póstelek
-Pösténypuszta
-Pósváripuszta
-Pósvárpuszta
-Pösze
-Pöszéripuszta
-Pöszesugó
-Potácsház
-Pótharasztpuszta
-Pótlék
+PostavÃ¶lgy
+PÃ³stelek
+PÃ¶stÃ©nypuszta
+PÃ³svÃ¡ripuszta
+PÃ³svÃ¡rpuszta
+PÃ¶sze
+PÃ¶szÃ©ripuszta
+PÃ¶szesugÃ³
+PotÃ¡cshÃ¡z
+PÃ³tharasztpuszta
+PÃ³tlÃ©k
 Potoczkitanya
 Potoczkytanya
-Pötölle
-Pötöllepuszta
-Potoly-földek
+PÃ¶tÃ¶lle
+PÃ¶tÃ¶llepuszta
+Potoly-fÃ¶ldek
 Potoly
 Potony
 Potonypuszta
-Pötréte
-Pótvelence
+PÃ¶trÃ©te
+PÃ³tvelence
 Potya-major
-Potyapáltelek
-Potyogótanya
+PotyapÃ¡ltelek
+PotyogÃ³tanya
 Potyond
 Potypuszta
-Potyrózsamajor
-Povád
-Pozderkahalomdûlõ
+PotyrÃ³zsamajor
+PovÃ¡d
+PozderkahalomdÅ±lÅ‘
 Pozderkahalom
-Pozsáros
-Pozsgaitanyák
-Pozsony-dûlõ
-Pozsonyidûlõ
-Pózva
-Prazsáktanya
-Prazsóktanya
-Pre¹ovsko-Tojaské Pohoøí
-Pre¹ovsko-Tokajské Pohoøí
-Prédikáló-hegy
-Prédikálószék-hegy
-Prédikálószék
+PozsÃ¡ros
+PozsgaitanyÃ¡k
+Pozsony-dÅ±lÅ‘
+PozsonyidÅ±lÅ‘
+PÃ³zva
+PrazsÃ¡ktanya
+PrazsÃ³ktanya
+PreÅ¡ovsko-TojaskÃ© PohoÅ™Ã­
+PreÅ¡ovsko-TokajskÃ© PohoÅ™Ã­
+PrÃ©dikÃ¡lÃ³-hegy
+PrÃ©dikÃ¡lÃ³szÃ©k-hegy
+PrÃ©dikÃ¡lÃ³szÃ©k
 Preiziktelep
-Prénihalom
-Prépost-hegy
-Prépostmajor
-Prépostpuszta
-Préskert
-Presznyáktag
+PrÃ©nihalom
+PrÃ©post-hegy
+PrÃ©postmajor
+PrÃ©postpuszta
+PrÃ©skert
+PresznyÃ¡ktag
 Priglitanya
-Prikadûlõ
+PrikadÅ±lÅ‘
 Prikatelep
-Principális-csatorna
+PrincipÃ¡lis-csatorna
 Princztanya
-Pristyáktanya
-Prisztókatanya
+PristyÃ¡ktanya
+PrisztÃ³katanya
 Prochenovtanya
 Proktanya
-Proliföld
+ProlifÃ¶ld
 Promontor
-Prónayfalva Felsõtelep
-Prónayfalva
+PrÃ³nayfalva FelsÅ‘telep
+PrÃ³nayfalva
 Propper-tag
 Proppertanya
-Prószapuszta
-Prügy
+PrÃ³szapuszta
+PrÃ¼gy
 Pruvosznya
 Psikpuszta
-Pucokszállás
-Puhaházmajor
+PucokszÃ¡llÃ¡s
+PuhahÃ¡zmajor
 Pukkanc
 Pukkanctanya
-Puky-Komáromytanya
+Puky-KomÃ¡romytanya
 Pulaitag
 Pula
 Pulapuszta
@@ -17543,171 +17543,171 @@ Pulya-hegy
 Pulya
 Pulykahegy
 Pulykahely
-Pulykás-dûlõ
-Pünkösd-hát
-Pünkösd-hegy
-Pünkösdhegy
+PulykÃ¡s-dÅ±lÅ‘
+PÃ¼nkÃ¶sd-hÃ¡t
+PÃ¼nkÃ¶sd-hegy
+PÃ¼nkÃ¶sdhegy
 Pupi-hegy
-Púposhalom
+PÃºposhalom
 Purga-hegy
 Purga
 Purglypuszta
 Purglytag
-Purglytanyák
-Pusárföldek
+PurglytanyÃ¡k
+PusÃ¡rfÃ¶ldek
 Puskaporos
-Puskártanya
-Puskástanya
-Püski
-Püski Tanyák
-Püspökalap
-Püspökbogád
-Püspökbóly
-Püspök-dûlõ
-Püspökhatvan
-Püspöki Major
-Püspöki Tanya
-Püspökladány
-Püspökladány Vásártér
-Püspöklak
-Püspöklele
-Püspökmagyalos
-Püspökmajor
-Püspökmárok
-Püspökmolnári
-Püspöknádasd
-Püspökpusztai-csatorna
-Püspökpuszta
-Püspökrét
-Püspökszenterzsebet
-Püspökszentlászló
-Püspökszilágy
-Püspöktamási
-Püspökugar
-Pustomérges
-Puszfamérges
+PuskÃ¡rtanya
+PuskÃ¡stanya
+PÃ¼ski
+PÃ¼ski TanyÃ¡k
+PÃ¼spÃ¶kalap
+PÃ¼spÃ¶kbogÃ¡d
+PÃ¼spÃ¶kbÃ³ly
+PÃ¼spÃ¶k-dÅ±lÅ‘
+PÃ¼spÃ¶khatvan
+PÃ¼spÃ¶ki Major
+PÃ¼spÃ¶ki Tanya
+PÃ¼spÃ¶kladÃ¡ny
+PÃ¼spÃ¶kladÃ¡ny VÃ¡sÃ¡rtÃ©r
+PÃ¼spÃ¶klak
+PÃ¼spÃ¶klele
+PÃ¼spÃ¶kmagyalos
+PÃ¼spÃ¶kmajor
+PÃ¼spÃ¶kmÃ¡rok
+PÃ¼spÃ¶kmolnÃ¡ri
+PÃ¼spÃ¶knÃ¡dasd
+PÃ¼spÃ¶kpusztai-csatorna
+PÃ¼spÃ¶kpuszta
+PÃ¼spÃ¶krÃ©t
+PÃ¼spÃ¶kszenterzsebet
+PÃ¼spÃ¶kszentlÃ¡szlÃ³
+PÃ¼spÃ¶kszilÃ¡gy
+PÃ¼spÃ¶ktamÃ¡si
+PÃ¼spÃ¶kugar
+PustomÃ©rges
+PuszfamÃ©rges
 Puszlikatanya
-Pusztaalmás
-Pusztaalsóiván
-Pusztaapáti
-Pusztabáb
-Pusztabábocka
+PusztaalmÃ¡s
+PusztaalsÃ³ivÃ¡n
+PusztaapÃ¡ti
+PusztabÃ¡b
+PusztabÃ¡bocka
 Pusztaballa
-Pusztabánréve
-Pusztaberény
+PusztabÃ¡nrÃ©ve
+PusztaberÃ©ny
 Pusztaberki
-Pusztacsalád
-Pusztacsász
-Pusztacsikójárás
-Pusztacsó
+PusztacsalÃ¡d
+PusztacsÃ¡sz
+PusztacsikÃ³jÃ¡rÃ¡s
+PusztacsÃ³
 Pusztadobos
-Pusztadomaháza
-Pusztadombháza
+PusztadomahÃ¡za
+PusztadombhÃ¡za
 Pusztadorog
-Puszta-dûlõ
-Pusztadûlõ
+Puszta-dÅ±lÅ‘
+PusztadÅ±lÅ‘
 Pusztaecseg
 Pusztaederics
-Pusztaegresi Tarnóca
+Pusztaegresi TarnÃ³ca
 Pusztaegres
-Puszta-ér
-Pusztaerzsébet
-Pusztafácánkert
+Puszta-Ã©r
+PusztaerzsÃ©bet
+PusztafÃ¡cÃ¡nkert
 Pusztafajzat
 Pusztafalu
 Pusztafeketehalom
-Pusztafelsõiván
+PusztafelsÅ‘ivÃ¡n
 Pusztafoeldvar
 Pusztafogacs
-Pusztaföldvár
-Pusztaforró
-Puszta-füzes
+PusztafÃ¶ldvÃ¡r
+PusztaforrÃ³
+Puszta-fÃ¼zes
 Pusztagacsa
-Pusztagát
-Pusztagyimót Alsó
-Pusztagyimót Felsõ
-Pusztagyimót
+PusztagÃ¡t
+PusztagyimÃ³t AlsÃ³
+PusztagyimÃ³t FelsÅ‘
+PusztagyimÃ³t
 Pusztahanyi
 Pusztaharaszt
 Pusztahatrongyos
 Puszta-hegy
 Pusztahencse
-Pusztahidvég
+PusztahidvÃ©g
 Pusztahomok
 Pusztahorga
 Pusztahugat
-Pusztaidûlõ
-Pusztakajmád
-Pusztakalaznó
-Pusztakápolna
-Pusztakatymárd
+PusztaidÅ±lÅ‘
+PusztakajmÃ¡d
+PusztakalaznÃ³
+PusztakÃ¡polna
+PusztakatymÃ¡rd
 Pusztakengyel
 Pusztakerekudvar
 Puszta-kert
-Pusztakettõs
+PusztakettÅ‘s
 Pusztakilences
 Pusztakisfalu
 Pusztakishatrongyos
-Pusztakiskér
-Pusztakócs
-Pusztakõkút
-Pusztakovácsi
-Pusztaközpont
-Pusztakúria
-Pusztakürt
+PusztakiskÃ©r
+PusztakÃ³cs
+PusztakÅ‘kÃºt
+PusztakovÃ¡csi
+PusztakÃ¶zpont
+PusztakÃºria
+PusztakÃ¼rt
 Pusztalak
-Pusztalánc
+PusztalÃ¡nc
 Pusztalekehalom
-Pusztalöb
+PusztalÃ¶b
 Pusztalocsod
-Pusztamagyaród
-Pusztamagyoród
+PusztamagyarÃ³d
+PusztamagyorÃ³d
 Pusztamalom
-Pusztamárkháza
-Pusztamarót
-Pusztamérges
-Pusztamezõ
-Pusztamezõ-Szõlõhegy
-Pusztamezõtelep
+PusztamÃ¡rkhÃ¡za
+PusztamarÃ³t
+PusztamÃ©rges
+PusztamezÅ‘
+PusztamezÅ‘-SzÅ‘lÅ‘hegy
+PusztamezÅ‘telep
 Pusztamiske
 Pusztamizse
-Pusztamocsolyás
+PusztamocsolyÃ¡s
 Pusztamonostor
 Puszta
-Pusztaördögfalva
+PusztaÃ¶rdÃ¶gfalva
 Pusztaottlaka
 Pusztapatak
-Pusztapátka
+PusztapÃ¡tka
 Pusztaperes
-Pusztapó
-Pusztapótharaszt
-Pusztaráboly
-Pusztaradvány
-Pusztarozsnakfõ
-Pusztasándor
+PusztapÃ³
+PusztapÃ³tharaszt
+PusztarÃ¡boly
+PusztaradvÃ¡ny
+PusztarozsnakfÅ‘
+PusztasÃ¡ndor
 Pusztasomodor
 Pusztasomorja
 Pusztaszabolcs
-Pusztaszakállas
-Pusztaszántó
-Pusztaszárazbõ
+PusztaszakÃ¡llas
+PusztaszÃ¡ntÃ³
+PusztaszÃ¡razbÅ‘
 Pusztaszemes
-Pusztaszentgyörgy
-Pusztaszentistván
-Pusztaszentiván
+PusztaszentgyÃ¶rgy
+PusztaszentistvÃ¡n
+PusztaszentivÃ¡n
 Pusztaszentjakab
-Pusztaszentkirály
-Pusztaszentlászló
-Pusztaszentmihályfa
-Pusztaszentpéter
+PusztaszentkirÃ¡ly
+PusztaszentlÃ¡szlÃ³
+PusztaszentmihÃ¡lyfa
+PusztaszentpÃ©ter
 Pusztaszenttornya
-Pusztaszerioldali Tanyák
-Pusztaszeri Úti Tanyák
+Pusztaszerioldali TanyÃ¡k
+Pusztaszeri Ãšti TanyÃ¡k
 Pusztaszer
-Pusztaszikszó
-Puszta Szõllõ-hegy
-Puszta Szõlõ-hegy
-Pusztatárnokhát
+PusztaszikszÃ³
+Puszta SzÅ‘llÅ‘-hegy
+Puszta SzÅ‘lÅ‘-hegy
+PusztatÃ¡rnokhÃ¡t
 Pusztataskony
 Pusztatemplom
 Pusztatenk
@@ -17715,712 +17715,712 @@ Pusztaterem
 Pusztatiribes
 Pusztatomaj
 Pusztatorda
-Pusztatúrpásztó
-Pusztaújfalu
+PusztatÃºrpÃ¡sztÃ³
+PusztaÃºjfalu
 Pusztavacs
-Pusztavám
-Pusztavárdomb
-Pusztazámor
+PusztavÃ¡m
+PusztavÃ¡rdomb
+PusztazÃ¡mor
 Putnok
-Putridûlõ
+PutridÅ±lÅ‘
 Putrik
 Putrimajor
 Putri
 Putripuszta
 Putrisarok
 Raab
-Ráadás
-Rábabogyoszló
-Rábacsanak
-Rábacsécsény
-Rába Folyó
-Rábafüzes
-Rábagyarmat
-Rábahidvég
-Rábakecöl
-Rábakecséd
-Rába Keczöl
-Rábakethely
-Rábakisfalud
-Rábakovácsi
-Rábakövesd
-Rábaköz
-Rábamolnári
-Rábánalul
-Rába
-Rábapatona
-Rábapaty
-Rábapordány
-Rábapüspöki
-Rábarétmajor
-Rábasebes
-Rábasömjén
-Rábaszentandrás
-Rábaszentmihály
-Rábaszentmiklós
-Rábaszenttamás
-Rábaszovát
-Rábatamási
+RÃ¡adÃ¡s
+RÃ¡babogyoszlÃ³
+RÃ¡bacsanak
+RÃ¡bacsÃ©csÃ©ny
+RÃ¡ba FolyÃ³
+RÃ¡bafÃ¼zes
+RÃ¡bagyarmat
+RÃ¡bahidvÃ©g
+RÃ¡bakecÃ¶l
+RÃ¡bakecsÃ©d
+RÃ¡ba KeczÃ¶l
+RÃ¡bakethely
+RÃ¡bakisfalud
+RÃ¡bakovÃ¡csi
+RÃ¡bakÃ¶vesd
+RÃ¡bakÃ¶z
+RÃ¡bamolnÃ¡ri
+RÃ¡bÃ¡nalul
+RÃ¡ba
+RÃ¡bapatona
+RÃ¡bapaty
+RÃ¡bapordÃ¡ny
+RÃ¡bapÃ¼spÃ¶ki
+RÃ¡barÃ©tmajor
+RÃ¡basebes
+RÃ¡basÃ¶mjÃ©n
+RÃ¡baszentandrÃ¡s
+RÃ¡baszentmihÃ¡ly
+RÃ¡baszentmiklÃ³s
+RÃ¡baszenttamÃ¡s
+RÃ¡baszovÃ¡t
+RÃ¡batamÃ¡si
 Rabatapuszta
-Rábatótfalu
-Rábatöttös
-Rábaújfalu
-Rábca-hegy
-Rábcakapi
-Rábca
-Rábcatanya
+RÃ¡batÃ³tfalu
+RÃ¡batÃ¶ttÃ¶s
+RÃ¡baÃºjfalu
+RÃ¡bca-hegy
+RÃ¡bcakapi
+RÃ¡bca
+RÃ¡bcatanya
 Rabenschwanz
-Rabgazdaság
-Rabina-erdõ
+RabgazdasÃ¡g
+Rabina-erdÅ‘
 Rabina
-Rabkertészet
-Ráblmajor
-Rabócky-tanya
-Rabócky Völgy
-Rábolymajor
-Rácalmási Nagysziget
-Rácalmás
-Rác-egres
-Rácegres
-Rácegrestanya
-Rácházi Tó
-Rác-hegy
-Ráchegy
-Ráckeresztdûlõ
-Ráckeresztúr
-Ráckevei-Duna
-Ráckeve
-Ráckozári Hegy
-Rácörs
-Rácskitelep
-Rácszentmiklós
-Rácszentpéter
-Ráctanya
-Rác Tanya
-Rácváros
-Rácvölgy
-Ráczalmas
-Ráczdûlõ
-Ráczhegy
-Rácz Hegy
-Ráczkert
-Ráczmajor
-Rácz
-Ráczokszõllõ
-Ráczszentpéter
-Rácztag
-Rácz-tanya
-Rácztanya
-Rácz Tanya
-Ráczug
-Radaháza
-Rádaiszõllõk
-Rádaiszõllõ
-Rádfalva
-Rádfa
-Rádfapuszta
+RabkertÃ©szet
+RÃ¡blmajor
+RabÃ³cky-tanya
+RabÃ³cky VÃ¶lgy
+RÃ¡bolymajor
+RÃ¡calmÃ¡si Nagysziget
+RÃ¡calmÃ¡s
+RÃ¡c-egres
+RÃ¡cegres
+RÃ¡cegrestanya
+RÃ¡chÃ¡zi TÃ³
+RÃ¡c-hegy
+RÃ¡chegy
+RÃ¡ckeresztdÅ±lÅ‘
+RÃ¡ckeresztÃºr
+RÃ¡ckevei-Duna
+RÃ¡ckeve
+RÃ¡ckozÃ¡ri Hegy
+RÃ¡cÃ¶rs
+RÃ¡cskitelep
+RÃ¡cszentmiklÃ³s
+RÃ¡cszentpÃ©ter
+RÃ¡ctanya
+RÃ¡c Tanya
+RÃ¡cvÃ¡ros
+RÃ¡cvÃ¶lgy
+RÃ¡czalmas
+RÃ¡czdÅ±lÅ‘
+RÃ¡czhegy
+RÃ¡cz Hegy
+RÃ¡czkert
+RÃ¡czmajor
+RÃ¡cz
+RÃ¡czokszÅ‘llÅ‘
+RÃ¡czszentpÃ©ter
+RÃ¡cztag
+RÃ¡cz-tanya
+RÃ¡cztanya
+RÃ¡cz Tanya
+RÃ¡czug
+RadahÃ¡za
+RÃ¡daiszÅ‘llÅ‘k
+RÃ¡daiszÅ‘llÅ‘
+RÃ¡dfalva
+RÃ¡dfa
+RÃ¡dfapuszta
 Radicsa
 Radicsapuszta
-Radicsdûlõ
+RadicsdÅ±lÅ‘
 Radics
 Radicstanya
-Rádiháza
-Rádiházapuszta
-Rádi-tó
+RÃ¡dihÃ¡za
+RÃ¡dihÃ¡zapuszta
+RÃ¡di-tÃ³
 Radits-halom
-Radnótitag
-Rád
-Rádóckölked
-Rádócújfalu
-Radócziföldek
-Radódûlõ
-Radóháza
-Radóházapuszta
-Radóhegy
-Radó-major
-Radómajor
-Rádó
-Radópuszta
-Radostyán
-Rádpuszta
-Radványi Bérc
-Radványitanya
-Radvány
-Radvány-patak
-Radvány-tetõ
+RadnÃ³titag
+RÃ¡d
+RÃ¡dÃ³ckÃ¶lked
+RÃ¡dÃ³cÃºjfalu
+RadÃ³czifÃ¶ldek
+RadÃ³dÅ±lÅ‘
+RadÃ³hÃ¡za
+RadÃ³hÃ¡zapuszta
+RadÃ³hegy
+RadÃ³-major
+RadÃ³major
+RÃ¡dÃ³
+RadÃ³puszta
+RadostyÃ¡n
+RÃ¡dpuszta
+RadvÃ¡nyi BÃ©rc
+RadvÃ¡nyitanya
+RadvÃ¡ny
+RadvÃ¡ny-patak
+RadvÃ¡ny-tetÅ‘
 Rafai-tanya
 Raffaitanya
 Ragaca-hegy
-Ragácsa
-Ragáli
-Ragályi-tag
-Ragályitanya
-Ragály
-Ragánpuszta
+RagÃ¡csa
+RagÃ¡li
+RagÃ¡lyi-tag
+RagÃ¡lyitanya
+RagÃ¡ly
+RagÃ¡npuszta
 Ragdocatanya
-Ragyogó
-Ragyvás-fõ
-Ragyvásfõtanya
+RagyogÃ³
+RagyvÃ¡s-fÅ‘
+RagyvÃ¡sfÅ‘tanya
 Rajka
 Rajki Hegy
-Rajkitómajor
-Rajki-tó
-Rajnadûlõ
+RajkitÃ³major
+Rajki-tÃ³
+RajnadÅ±lÅ‘
 Rajnicstanya
 Rakaca
 Rakaca-patak
 Rakacaszend
-Rakaca-víztároló
-Rakaca-völgy
+Rakaca-vÃ­ztÃ¡rolÃ³
+Rakaca-vÃ¶lgy
 Rakamaz
-Rákhát
-Rákhegy
-Rákipuszta
-Ráknyipuszta
-Rákóczibánya
-Rákóczibokor
-Rákóczi-domb
-Rákóczidûlõ
-Rákóczifalva
-Rákóczifalvi Tanyák
-Rákóczi-kert
-Rákóczikert
-Rákóczimajor
-Rákócziszõllõskert
-Rákóczitanya
-Rákóczitelep
-Rákócziújfalu
-Rákóczi Út
-Rákóczytanya
-Rakoncás
-Rákópuszta
-Rákoscsaba
-Rákoscsaba-Újtelep
-Rákosdûlõ
-Rákoserei Tanya
-Rákos Ér
-Rákoshegy
-Rákosi Csárda
-Rákositanyák
-Rákosi Tanya
-Rákositelep
-Rákosiugar
-Rákosi Út
-Rákoskeresztúr
-Rákoskert
-Rákos-lápa-bérc
-Rákosliget
-Rákosmajor
-Rákosmalom
-Rákos
-Rákospalota-Kertváros
-Rákospalota
-Rákospalota-Újpest
-Rákos-patak
-Rákos-puszta
-Rákosrendezõ Pályaudvar
-Rákosszentmihály
-Rákostanya
-Rákostelep
-Rákos-Urmös-hát
-Rákosváros
-Rakottyás-dûlõ
-Rakottyásitanya
-Rakottyás
-Rák-patak
-Ráksi
-Ráksipuszta
-Rám
-Ramocsaháza
+RÃ¡khÃ¡t
+RÃ¡khegy
+RÃ¡kipuszta
+RÃ¡knyipuszta
+RÃ¡kÃ³czibÃ¡nya
+RÃ¡kÃ³czibokor
+RÃ¡kÃ³czi-domb
+RÃ¡kÃ³czidÅ±lÅ‘
+RÃ¡kÃ³czifalva
+RÃ¡kÃ³czifalvi TanyÃ¡k
+RÃ¡kÃ³czi-kert
+RÃ¡kÃ³czikert
+RÃ¡kÃ³czimajor
+RÃ¡kÃ³cziszÅ‘llÅ‘skert
+RÃ¡kÃ³czitanya
+RÃ¡kÃ³czitelep
+RÃ¡kÃ³cziÃºjfalu
+RÃ¡kÃ³czi Ãšt
+RÃ¡kÃ³czytanya
+RakoncÃ¡s
+RÃ¡kÃ³puszta
+RÃ¡koscsaba
+RÃ¡koscsaba-Ãšjtelep
+RÃ¡kosdÅ±lÅ‘
+RÃ¡koserei Tanya
+RÃ¡kos Ã‰r
+RÃ¡koshegy
+RÃ¡kosi CsÃ¡rda
+RÃ¡kositanyÃ¡k
+RÃ¡kosi Tanya
+RÃ¡kositelep
+RÃ¡kosiugar
+RÃ¡kosi Ãšt
+RÃ¡koskeresztÃºr
+RÃ¡koskert
+RÃ¡kos-lÃ¡pa-bÃ©rc
+RÃ¡kosliget
+RÃ¡kosmajor
+RÃ¡kosmalom
+RÃ¡kos
+RÃ¡kospalota-KertvÃ¡ros
+RÃ¡kospalota
+RÃ¡kospalota-Ãšjpest
+RÃ¡kos-patak
+RÃ¡kos-puszta
+RÃ¡kosrendezÅ‘ PÃ¡lyaudvar
+RÃ¡kosszentmihÃ¡ly
+RÃ¡kostanya
+RÃ¡kostelep
+RÃ¡kos-UrmÃ¶s-hÃ¡t
+RÃ¡kosvÃ¡ros
+RakottyÃ¡s-dÅ±lÅ‘
+RakottyÃ¡sitanya
+RakottyÃ¡s
+RÃ¡k-patak
+RÃ¡ksi
+RÃ¡ksipuszta
+RÃ¡m
+RamocsahÃ¡za
 Ramocsa
-Ranódfa
-Ranódfapuszta
-Rapács
-Rápca
-Rápcza Folyó
-Rápolt
+RanÃ³dfa
+RanÃ³dfapuszta
+RapÃ¡cs
+RÃ¡pca
+RÃ¡pcza FolyÃ³
+RÃ¡polt
 Raposkai Major
 Raposka
-Ráró-hegy
-Rárós
-Ráróspuszta
-Ráskói Folyó
-Ráskói-patak
-Ráskópuszta
-Rásony
-Rásonysápberencs
-Rassangháti Tanyák
-Rassang-hát
-Rát Hegy
-Ráth-major
-Ráthpuszta
-Ráthtanya
-Rátka
-Rátka-patak
-Ratkóca
-Ratkócapuszta
-Rátos-tetõ
-Rátót
+RÃ¡rÃ³-hegy
+RÃ¡rÃ³s
+RÃ¡rÃ³spuszta
+RÃ¡skÃ³i FolyÃ³
+RÃ¡skÃ³i-patak
+RÃ¡skÃ³puszta
+RÃ¡sony
+RÃ¡sonysÃ¡pberencs
+RassanghÃ¡ti TanyÃ¡k
+Rassang-hÃ¡t
+RÃ¡t Hegy
+RÃ¡th-major
+RÃ¡thpuszta
+RÃ¡thtanya
+RÃ¡tka
+RÃ¡tka-patak
+RatkÃ³ca
+RatkÃ³capuszta
+RÃ¡tos-tetÅ‘
+RÃ¡tÃ³t
 Rauakna
-Râu Bârcãu
-Râul Criºu Negru
-Râul Someº
+RÃ¢u BÃ¢rcÄƒu
+RÃ¢ul CriÅŸu Negru
+RÃ¢ul SomeÅŸ
 Rautelep
-Ravaszér
+RavaszÃ©r
 Ravaszi Patak
 Ravaszlyuk
-Ravaszmájdûlõ
+RavaszmÃ¡jdÅ±lÅ‘
 Ravasz
-Ravaszrészpuszta
-Ravaszrésztanya
+RavaszrÃ©szpuszta
+RavaszrÃ©sztanya
 Ravasz-tanya
 Ravazd-Csanaki-dombok
 Ravazd
-Rázompuszta
+RÃ¡zompuszta
 Rebecpuszta
-Rebecsákhíd
-Recsák-hegy
+RebecsÃ¡khÃ­d
+RecsÃ¡k-hegy
 Recsek-hegy
 Recsk
-Recsk-Parádfürdõ
+Recsk-ParÃ¡dfÃ¼rdÅ‘
 Redbergertanya
-Rédei-Nagy-patak
-Rédeitanya
-Réde
-Rédeymajor
-Rédeyoros
-Rédeytanya
-Rédics
-Rednekdûlõ
+RÃ©dei-Nagy-patak
+RÃ©deitanya
+RÃ©de
+RÃ©deymajor
+RÃ©deyoros
+RÃ©deytanya
+RÃ©dics
+RednekdÅ±lÅ‘
 Rednek
-Réfipaptanya
-Reformátuskovácsháza
-Reformátuskovácsházi Tanyák
-Reformátuspaptanya
-Reformátustanya
-Reformátustovácsháza
-Református Újtelep
-Regálé
-Regálétanya
-Regéc
+RÃ©fipaptanya
+ReformÃ¡tuskovÃ¡cshÃ¡za
+ReformÃ¡tuskovÃ¡cshÃ¡zi TanyÃ¡k
+ReformÃ¡tuspaptanya
+ReformÃ¡tustanya
+ReformÃ¡tustovÃ¡cshÃ¡za
+ReformÃ¡tus Ãšjtelep
+RegÃ¡lÃ©
+RegÃ¡lÃ©tanya
+RegÃ©c
 Regenye
-Régialigvárda
-Régialigvárta
-Régimalomház
-Régiszõllõkert
-Régi-szõlõskert
-Régi Temetõ Dûlõ
-Régivágóhíd
-Régivillanytelep
-Regõly
-Regöly
-Réhely
+RÃ©gialigvÃ¡rda
+RÃ©gialigvÃ¡rta
+RÃ©gimalomhÃ¡z
+RÃ©giszÅ‘llÅ‘kert
+RÃ©gi-szÅ‘lÅ‘skert
+RÃ©gi TemetÅ‘ DÅ±lÅ‘
+RÃ©givÃ¡gÃ³hÃ­d
+RÃ©givillanytelep
+RegÅ‘ly
+RegÃ¶ly
+RÃ©hely
 Reichardtag
 Reinersdorfer Bach
-Réiszállás
+RÃ©iszÃ¡llÃ¡s
 Reizman-tag
 Reizmantanya
 Reje
 Rejetanya
-Rékas-hegy
+RÃ©kas-hegy
 Reke-homoka
-Rekeszhát
-Rekettye-Bogárzó-csatorna
+RekeszhÃ¡t
+Rekettye-BogÃ¡rzÃ³-csatorna
 Rekettye
 Rekettyepuszta
-Rekettyési Dûlõ
-Rekettyési Tanyák
-Rekettyés
-Rekettyés-sor
-Rékos Hegy
+RekettyÃ©si DÅ±lÅ‘
+RekettyÃ©si TanyÃ¡k
+RekettyÃ©s
+RekettyÃ©s-sor
+RÃ©kos Hegy
 Rektanya
 Remanencia
 Remecse
 Remecse-puszta
 Remecsetanya
 Remegtanya
-Reményhegy
+RemÃ©nyhegy
 Remenyik-tag
 Remenyiktanya
-Reménysor
-Reménytelep
-Remerenció
+RemÃ©nysor
+RemÃ©nytelep
+RemerenciÃ³
 Remete-hegy
 Remetekertearos
-Remetekertváros
+RemetekertvÃ¡ros
 Remetelapos
 Remete
 Remetepuszta
-Remeteség
-Remeteszõlõs
-Remete-tetõ
+RemetesÃ©g
+RemeteszÅ‘lÅ‘s
+Remete-tetÅ‘
 Remetezug
 Remigpuszta
-Rémi Tanyák
-Rém
+RÃ©mi TanyÃ¡k
+RÃ©m
 Rendeki-hegy
 Rendeki Malom
 Rendekpuszta
-Rendek-völgy
-Rendõrfalu
-Renget-bérc
-Rengetfõ
-Rengetitanyák
+Rendek-vÃ¶lgy
+RendÅ‘rfalu
+Renget-bÃ©rc
+RengetfÅ‘
+RengetitanyÃ¡k
 Rengetitanya
-Rengetláh-tanya
-Répa-hegy
+RengetlÃ¡h-tanya
+RÃ©pa-hegy
 Repahuta
-Répalaposdûlõ
-Répás-hát
-Répáshuta
-Répásitanya
-Répásmajor
-Répás
-Répáspuszta
-Répástanya
-Répavölgypuszta
-Répcelaki Tanya
-Répcelak
-Répce Mellék
-Repcésdûlõ
-Repcés-és Tagosdûlõ
-Repcés Tó
-Répceszemere
-Répceszentgyörgy
-Répcevis
+RÃ©palaposdÅ±lÅ‘
+RÃ©pÃ¡s-hÃ¡t
+RÃ©pÃ¡shuta
+RÃ©pÃ¡sitanya
+RÃ©pÃ¡smajor
+RÃ©pÃ¡s
+RÃ©pÃ¡spuszta
+RÃ©pÃ¡stanya
+RÃ©pavÃ¶lgypuszta
+RÃ©pcelaki Tanya
+RÃ©pcelak
+RÃ©pce MellÃ©k
+RepcÃ©sdÅ±lÅ‘
+RepcÃ©s-Ã©s TagosdÅ±lÅ‘
+RepcÃ©s TÃ³
+RÃ©pceszemere
+RÃ©pceszentgyÃ¶rgy
+RÃ©pcevis
 Republic of Hungary
-Repülõdûlõ
-Repülõfalui Dûlõ
+RepÃ¼lÅ‘dÅ±lÅ‘
+RepÃ¼lÅ‘falui DÅ±lÅ‘
 Resznek
-Résztelek-Keserûtelek
-Résztelek
-Részvény
-Reszvényszõlõ
-Rétalap
-Rétalja
-Rét-árok
-Rét-domb
-Rét-dûlõ
-Rétdûlõ
-Rétföld
-Rét-folyás
-Réthely
-Réthtanya
-Réthy-major
-Réthy-tanya
-Réti-dûlõ
-Rétidûlõ
-Réti-halom
-Rétiház
-Rétilegelõ
-Rétimajor
-Rétimalom
-Rétimalomtelep
-Réti Nagy-tanya
-Réti
-Rétipálya
-Rétipuszta
-Rétitanyák
-Réti Tanyák
-Rétitanya
-Rétkerti Patak
-Rétközberencs
-Rétköz
-Rét
-Rét-part
-Rétpart
-Rét-patak
-Rét-pótlék
-Rétredûlõ
-Rétság
-Rétsarki-major
-Rétsarokmajor
-Rétsarok
-Rétszilas Alsó
-Rétszilas
-Réttanya
-Révaranyos
-Révbér
-Révésztanya
-Revetekdûlõ
-Révfalu
-Révfülöp
-Rév-halom
-Revickirész
+RÃ©sztelek-KeserÅ±telek
+RÃ©sztelek
+RÃ©szvÃ©ny
+ReszvÃ©nyszÅ‘lÅ‘
+RÃ©talap
+RÃ©talja
+RÃ©t-Ã¡rok
+RÃ©t-domb
+RÃ©t-dÅ±lÅ‘
+RÃ©tdÅ±lÅ‘
+RÃ©tfÃ¶ld
+RÃ©t-folyÃ¡s
+RÃ©thely
+RÃ©thtanya
+RÃ©thy-major
+RÃ©thy-tanya
+RÃ©ti-dÅ±lÅ‘
+RÃ©tidÅ±lÅ‘
+RÃ©ti-halom
+RÃ©tihÃ¡z
+RÃ©tilegelÅ‘
+RÃ©timajor
+RÃ©timalom
+RÃ©timalomtelep
+RÃ©ti Nagy-tanya
+RÃ©ti
+RÃ©tipÃ¡lya
+RÃ©tipuszta
+RÃ©titanyÃ¡k
+RÃ©ti TanyÃ¡k
+RÃ©titanya
+RÃ©tkerti Patak
+RÃ©tkÃ¶zberencs
+RÃ©tkÃ¶z
+RÃ©t
+RÃ©t-part
+RÃ©tpart
+RÃ©t-patak
+RÃ©t-pÃ³tlÃ©k
+RÃ©tredÅ±lÅ‘
+RÃ©tsÃ¡g
+RÃ©tsarki-major
+RÃ©tsarokmajor
+RÃ©tsarok
+RÃ©tszilas AlsÃ³
+RÃ©tszilas
+RÃ©ttanya
+RÃ©varanyos
+RÃ©vbÃ©r
+RÃ©vÃ©sztanya
+RevetekdÅ±lÅ‘
+RÃ©vfalu
+RÃ©vfÃ¼lÃ¶p
+RÃ©v-halom
+RevickirÃ©sz
 Reviczkitag
-Reviczky-föld
-Reviczkygát
-Reviczky-rész
+Reviczky-fÃ¶ld
+ReviczkygÃ¡t
+Reviczky-rÃ©sz
 Reviczkytanya
-Révleányvár
-Rév-zug
+RÃ©vleÃ¡nyvÃ¡r
+RÃ©v-zug
 Rezes Hegy
 Rezes
-Réz-hegy
+RÃ©z-hegy
 Rezi
-Réz-part
-Rezsõtanya
+RÃ©z-part
+RezsÅ‘tanya
 Ribaritstanya
 Ricepuszta
-Richárdmajor
-Richlidûlõ
+RichÃ¡rdmajor
+RichlidÅ±lÅ‘
 Ricsei-csatorna
-Ricsei-fõcsatorna
+Ricsei-fÅ‘csatorna
 Ricse
 Ricsikatanya
-Ricsó-hegy
-Ricsóváribérlet
+RicsÃ³-hegy
+RicsÃ³vÃ¡ribÃ©rlet
 Riczepuszta
 Rienestanya
-Rigács
+RigÃ¡cs
 Rigalyos
-Rigóci-árok
-Rigócikastély
-Rigóc
-Rigóc-patak
-Rigóderdûlõ
-Rigódertetõ
-Rigódûlõ
-Rigó-halom
-Rigóhegyalja
-Rigó-hegy
-Rigópuszta
-Rigós-csatorna
-Rigós-fõcsatorna
-Rigósi-fõcsatorna
-Rigós
-Rigótanya
-Rigyáci Hegy
-Rigyáci-patak
-Rigyác
+RigÃ³ci-Ã¡rok
+RigÃ³cikastÃ©ly
+RigÃ³c
+RigÃ³c-patak
+RigÃ³derdÅ±lÅ‘
+RigÃ³dertetÅ‘
+RigÃ³dÅ±lÅ‘
+RigÃ³-halom
+RigÃ³hegyalja
+RigÃ³-hegy
+RigÃ³puszta
+RigÃ³s-csatorna
+RigÃ³s-fÅ‘csatorna
+RigÃ³si-fÅ‘csatorna
+RigÃ³s
+RigÃ³tanya
+RigyÃ¡ci Hegy
+RigyÃ¡ci-patak
+RigyÃ¡c
 Riha
-Riha-tó
+Riha-tÃ³
 Rikimajor
 Rima
-Rimánymajor
-Rimány
-Rimóc
+RimÃ¡nymajor
+RimÃ¡ny
+RimÃ³c
 Ringhegy
 Ringtanya
 Rinszkymajor
-Rinyabesenyõ
-Rinyabesnyõ
-Rinya-folyó
-Rinyahosszúfalu
-Rinyakovácsi
+RinyabesenyÅ‘
+RinyabesnyÅ‘
+Rinya-folyÃ³
+RinyahosszÃºfalu
+RinyakovÃ¡csi
 Rinya
 Rinya-patak
 Rinyapuszta
-Rinyaszentkirály
-Rinyatamási
-Rinyaújlak
-Rinyaújnép
+RinyaszentkirÃ¡ly
+RinyatamÃ¡si
+RinyaÃºjlak
+RinyaÃºjnÃ©p
 Riticspuszta
-Ritkaháza
+RitkahÃ¡za
 Ritka-hegy
 Ritlitanya
 Rittersporntanya
 Rizapuszta
-Rizskásamalom
-Rizskása
+RizskÃ¡samalom
+RizskÃ¡sa
 Rizstelep
-Róbertvölgy
-Róbertvölgy Szállás
+RÃ³bertvÃ¶lgy
+RÃ³bertvÃ¶lgy SzÃ¡llÃ¡s
 Robina-puszta
-Robogány-puszta
+RobogÃ¡ny-puszta
 Robozhegy
 Roboz-puszta
 Roboztanya
-Rócsildszõllõ
-Ródli Széktó
-Rögtöntanya
+RÃ³csildszÅ‘llÅ‘
+RÃ³dli SzÃ©ktÃ³
+RÃ¶gtÃ¶ntanya
 Rohling-tag
 Rohoda
 Rohod
 Rohoncztanya
-Rohrer-föld
-Röjtökmuzsaj
-Rókabokor
-Rókahát
-Rókaházamajor
-Róka-hegy
-Rókalikok
-Rókalyukak
-Rókalyukakútdûlõ
-Rókalyukasdûlõ
-Rókalyukas
-Rókalyukdûlõ
-Rókalyukdûlõtanya
-Rókalyukhegy
-Rókalyuk
-Rókalyuktanya
-Rókamajor
-Róka
-Rókapuszta
-Rókás Halom
-Rókás-hegy
-Rókás Hegy
-Rókás
-Rókászi
-Rókászipuszta
-Rokkant-földek
-Rokkantföld
-Rokkantrét
-Rókusifeketeföldek
-Rókusi Feketeföldek
-Rókus
-Rollaháza
+Rohrer-fÃ¶ld
+RÃ¶jtÃ¶kmuzsaj
+RÃ³kabokor
+RÃ³kahÃ¡t
+RÃ³kahÃ¡zamajor
+RÃ³ka-hegy
+RÃ³kalikok
+RÃ³kalyukak
+RÃ³kalyukakÃºtdÅ±lÅ‘
+RÃ³kalyukasdÅ±lÅ‘
+RÃ³kalyukas
+RÃ³kalyukdÅ±lÅ‘
+RÃ³kalyukdÅ±lÅ‘tanya
+RÃ³kalyukhegy
+RÃ³kalyuk
+RÃ³kalyuktanya
+RÃ³kamajor
+RÃ³ka
+RÃ³kapuszta
+RÃ³kÃ¡s Halom
+RÃ³kÃ¡s-hegy
+RÃ³kÃ¡s Hegy
+RÃ³kÃ¡s
+RÃ³kÃ¡szi
+RÃ³kÃ¡szipuszta
+Rokkant-fÃ¶ldek
+RokkantfÃ¶ld
+RokkantrÃ©t
+RÃ³kusifeketefÃ¶ldek
+RÃ³kusi FeketefÃ¶ldek
+RÃ³kus
+RollahÃ¡za
 Rolzmalom
-Rómahegy
-Római-domb
-Rómaifürdõ
-Románd
-Romántanya
-Romcótanya
-Romhányi-hegy
-Romhány
-Romogyi-dûlõ
+RÃ³mahegy
+RÃ³mai-domb
+RÃ³maifÃ¼rdÅ‘
+RomÃ¡nd
+RomÃ¡ntanya
+RomcÃ³tanya
+RomhÃ¡nyi-hegy
+RomhÃ¡ny
+Romogyi-dÅ±lÅ‘
 Romogy
 Romogypuszta
 Romonya
-Rónabánya
-Róna Bérc
-Rónafõ
-Rónafõ-telep
-Róna-hát
-Rónaitanya
-Rónalápa
-Rónalápatanya
-Róna
-Rondavár
+RÃ³nabÃ¡nya
+RÃ³na BÃ©rc
+RÃ³nafÅ‘
+RÃ³nafÅ‘-telep
+RÃ³na-hÃ¡t
+RÃ³naitanya
+RÃ³nalÃ¡pa
+RÃ³nalÃ¡patanya
+RÃ³na
+RondavÃ¡r
 Rongyos-Halyagos
 Rongyos
-Rönök
-Rontótanya
-Rónyapuszta
-Ronyva-árapasztó
+RÃ¶nÃ¶k
+RontÃ³tanya
+RÃ³nyapuszta
+Ronyva-Ã¡rapasztÃ³
 Ronyva
 Ronyva Patak
-Roòava
-Roòva
-Ropó-bérc
+RoÅˆava
+RoÅˆva
+RopÃ³-bÃ©rc
 Ropolpuszta
-Röske
-Rosszerdõ
+RÃ¶ske
+RosszerdÅ‘
 Rossz-homok
 Rosszhomoktanya
 Rosszmalom
-Rosszvízitanyák
-Rostálló
-Rostállóvölgy
-Rostarét
-Rostáspuszta
-Rostástanya
-Roszikdûlõ
-Röszke
-Röszketanya
-Roszvizi Tanyák
+RosszvÃ­zitanyÃ¡k
+RostÃ¡llÃ³
+RostÃ¡llÃ³vÃ¶lgy
+RostarÃ©t
+RostÃ¡spuszta
+RostÃ¡stanya
+RoszikdÅ±lÅ‘
+RÃ¶szke
+RÃ¶szketanya
+Roszvizi TanyÃ¡k
 Rothadt Halom
-Róth Pál-völgy
-Róthpuszta
-Róthtanya
-Rõtivölgy
-Rótkútdûlõ
-Rót Pál-völgy
-Rotschildszõlõ
-Rott-kút-dûlõ
-Röviddûlõ
-Rövidekdûlõ
-Rövid Hegy
-Rövidjánka
-Rövidvölgy
-Rozáliamajor
-Rózentanya
-Rózner-tag
-Róznertanya
-Rózsadomb
-Rózsa-dûlõ
-Rózsadûlõ
-Rózsafa
-Rózsa-halom
-Rózsahegyi Puszta
-Rózsahegyitanya
-Rózsa-hegy
-Rózsahegy
-Rózsa-homok
-Rózsalaposdûlõ
-Rózsaligettanya
-Rozsályi Szõllõskert
-Rozsályi Szõlõskert
-Rozsály
-Rozsálypuszta
-Rózsamáj
-Rózsamajori-dûlõ
-Rózsa-major
-Rózsamajor
-Rózsapuszta
-Rózsaréti-szõllõk
-Rózsásalmáspuszta
-Rózsás Csatorna
-Rózsásdûlõ
-Rózsás-hegy
-Rózsás
-Rózsasor
-Rózsás-puszta
-Rózsásszeg
-Rózsástanya
-Rózsástelep
-Rózsás-tetõ
-Rózsástetõ
-Rózsa-szék
-Rózsaszentmárton
-Rózsa-tag
-Rózsa-tanya
-Rózsatanya
-Rózsavölgyitanya
-Rózsavölgy
-Rozsdásserpenyõ
+RÃ³th PÃ¡l-vÃ¶lgy
+RÃ³thpuszta
+RÃ³thtanya
+RÅ‘tivÃ¶lgy
+RÃ³tkÃºtdÅ±lÅ‘
+RÃ³t PÃ¡l-vÃ¶lgy
+RotschildszÅ‘lÅ‘
+Rott-kÃºt-dÅ±lÅ‘
+RÃ¶viddÅ±lÅ‘
+RÃ¶videkdÅ±lÅ‘
+RÃ¶vid Hegy
+RÃ¶vidjÃ¡nka
+RÃ¶vidvÃ¶lgy
+RozÃ¡liamajor
+RÃ³zentanya
+RÃ³zner-tag
+RÃ³znertanya
+RÃ³zsadomb
+RÃ³zsa-dÅ±lÅ‘
+RÃ³zsadÅ±lÅ‘
+RÃ³zsafa
+RÃ³zsa-halom
+RÃ³zsahegyi Puszta
+RÃ³zsahegyitanya
+RÃ³zsa-hegy
+RÃ³zsahegy
+RÃ³zsa-homok
+RÃ³zsalaposdÅ±lÅ‘
+RÃ³zsaligettanya
+RozsÃ¡lyi SzÅ‘llÅ‘skert
+RozsÃ¡lyi SzÅ‘lÅ‘skert
+RozsÃ¡ly
+RozsÃ¡lypuszta
+RÃ³zsamÃ¡j
+RÃ³zsamajori-dÅ±lÅ‘
+RÃ³zsa-major
+RÃ³zsamajor
+RÃ³zsapuszta
+RÃ³zsarÃ©ti-szÅ‘llÅ‘k
+RÃ³zsÃ¡salmÃ¡spuszta
+RÃ³zsÃ¡s Csatorna
+RÃ³zsÃ¡sdÅ±lÅ‘
+RÃ³zsÃ¡s-hegy
+RÃ³zsÃ¡s
+RÃ³zsasor
+RÃ³zsÃ¡s-puszta
+RÃ³zsÃ¡sszeg
+RÃ³zsÃ¡stanya
+RÃ³zsÃ¡stelep
+RÃ³zsÃ¡s-tetÅ‘
+RÃ³zsÃ¡stetÅ‘
+RÃ³zsa-szÃ©k
+RÃ³zsaszentmÃ¡rton
+RÃ³zsa-tag
+RÃ³zsa-tanya
+RÃ³zsatanya
+RÃ³zsavÃ¶lgyitanya
+RÃ³zsavÃ¶lgy
+RozsdÃ¡sserpenyÅ‘
 Rozs-hegy
 Rozsnaki-patak
 Rozsnak-patak
-Rozsnyáros
-Rozsnyok-tetõ
-Rozsos-dombi-dûlõ
-Rozsosdûlõ
-Rozsos-és Vilmosdombidûlõ
+RozsnyÃ¡ros
+Rozsnyok-tetÅ‘
+Rozsos-dombi-dÅ±lÅ‘
+RozsosdÅ±lÅ‘
+Rozsos-Ã©s VilmosdombidÅ±lÅ‘
 Rozsos
-Rozsrétbokor I.
-Rozsréti Szõllõk
-Rozsrétszõlõ
+RozsrÃ©tbokor I.
+RozsrÃ©ti SzÅ‘llÅ‘k
+RozsrÃ©tszÅ‘lÅ‘
 Rubonya
-Rückerakna
-Rudabányácska
-Rudabányai-hegység
-Rudabánya
-Rudáktelep
-Ruda-tetõ
+RÃ¼ckerakna
+RudabÃ¡nyÃ¡cska
+RudabÃ¡nyai-hegysÃ©g
+RudabÃ¡nya
+RudÃ¡ktelep
+Ruda-tetÅ‘
 Rudics
 Rudnaykert
 Rudnok
-Rudnokosi-dûlõ
+Rudnokosi-dÅ±lÅ‘
 Rudolf-major
 Rudolfmajor
 Rudolftanya
 Rudolftelep
-Ruggyantaárúgyár
-Ruggyantagyár
-Rúgós-hegy
+RuggyantaÃ¡rÃºgyÃ¡r
+RuggyantagyÃ¡r
+RÃºgÃ³s-hegy
 Rukavai-part
 Rullpuszta
 Rum
-Ruszka-dûlõ
+Ruszka-dÅ±lÅ‘
 Ruszka
 Ruszkatanya
 Ruzsaberek
 Ruzsahegy
 Ruzsama
 Ruzsa
-Ruzsástanya
+RuzsÃ¡stanya
 Ruzsatanya
 Ruzsiczkytanya
 Ruzsintanya
@@ -18428,405 +18428,405 @@ Ruzsitsmalom
 Ruzska
 Sabarhegy
 Sabaria
-Sabariszõlõ
+SabariszÅ‘lÅ‘
 Sabar
-Sáfáriszõllõ
-Sáfártanya
-Sáfáryszõllõ
-Sáfáry-tanya
-Sáfránkert
-Sáfrányosi Tanyák
-Sáfrány-rét
-Ságalja
+SÃ¡fÃ¡riszÅ‘llÅ‘
+SÃ¡fÃ¡rtanya
+SÃ¡fÃ¡ryszÅ‘llÅ‘
+SÃ¡fÃ¡ry-tanya
+SÃ¡frÃ¡nkert
+SÃ¡frÃ¡nyosi TanyÃ¡k
+SÃ¡frÃ¡ny-rÃ©t
+SÃ¡galja
 Sagar
-Ság-hegy
-Sághegy
-Ság Hegy
-Sághpuszta
-Sági-hegy
-Ságihegy
-Sági Hegy
-Ságikút
-Ságitanya
-Ságmajor
-Ság
-Ságodi-rét
-Ságod
-Ság-oldal
+SÃ¡g-hegy
+SÃ¡ghegy
+SÃ¡g Hegy
+SÃ¡ghpuszta
+SÃ¡gi-hegy
+SÃ¡gihegy
+SÃ¡gi Hegy
+SÃ¡gikÃºt
+SÃ¡gitanya
+SÃ¡gmajor
+SÃ¡g
+SÃ¡godi-rÃ©t
+SÃ¡god
+SÃ¡g-oldal
 Sagot Puszta
-Ságpuszta
-Ságújfalu
-Ságváriliget
-Ságvár
+SÃ¡gpuszta
+SÃ¡gÃºjfalu
+SÃ¡gvÃ¡riliget
+SÃ¡gvÃ¡r
 Sajc
 Sajcpuszta
 Saj-foki-csatorna
-Saj-foki-fõcsatorna
-Sajgó-hegy
-Sajgó
-Sajgó-patak
-Sajikút-hegy
-Sajóbábony
-Sajó Bal Parti Dombság és Sajó Jobb Parti Dombság
-Sajócsatorna
-Sajóecseg
-Sajógalgóc
-Sajóhidvég
-Sajóivánka
-Sajókápolna
-Sajókaza
-Sajókazinc
-Sajókeresztúr
-Sajólád
-Sajólászlófalva
-Sajó-medence
-Sajómercse
-Sajónémeti
-Sajó
-Sajóntúli Állami Gazdaság
-Sajóntúli Dûlõ
-Sajóntúli Puszta
-Sajóörös
-Sajópálfala
-Sajópetri
-Sajópüspöki
-Sajósenye
-Sajószentpéter
-Sajószentpéter Piactér
-Sajószögdûlõ
-Sajószöged
-Sajó-szög
-Sajótanya
-Sajóvámos
-Sajóvárkony
-Sajóvelezd
-Sajó-völgy
+Saj-foki-fÅ‘csatorna
+SajgÃ³-hegy
+SajgÃ³
+SajgÃ³-patak
+SajikÃºt-hegy
+SajÃ³bÃ¡bony
+SajÃ³ Bal Parti DombsÃ¡g Ã©s SajÃ³ Jobb Parti DombsÃ¡g
+SajÃ³csatorna
+SajÃ³ecseg
+SajÃ³galgÃ³c
+SajÃ³hidvÃ©g
+SajÃ³ivÃ¡nka
+SajÃ³kÃ¡polna
+SajÃ³kaza
+SajÃ³kazinc
+SajÃ³keresztÃºr
+SajÃ³lÃ¡d
+SajÃ³lÃ¡szlÃ³falva
+SajÃ³-medence
+SajÃ³mercse
+SajÃ³nÃ©meti
+SajÃ³
+SajÃ³ntÃºli Ãllami GazdasÃ¡g
+SajÃ³ntÃºli DÅ±lÅ‘
+SajÃ³ntÃºli Puszta
+SajÃ³Ã¶rÃ¶s
+SajÃ³pÃ¡lfala
+SajÃ³petri
+SajÃ³pÃ¼spÃ¶ki
+SajÃ³senye
+SajÃ³szentpÃ©ter
+SajÃ³szentpÃ©ter PiactÃ©r
+SajÃ³szÃ¶gdÅ±lÅ‘
+SajÃ³szÃ¶ged
+SajÃ³-szÃ¶g
+SajÃ³tanya
+SajÃ³vÃ¡mos
+SajÃ³vÃ¡rkony
+SajÃ³velezd
+SajÃ³-vÃ¶lgy
 Sajtakitanya
-Sajtár-szék-dûlõ
-Sajtár-szék
+SajtÃ¡r-szÃ©k-dÅ±lÅ‘
+SajtÃ¡r-szÃ©k
 Sajti Halom
-Sajtoskál
+SajtoskÃ¡l
 Sajtostanya
-Saj-völgyi-patak
-Saj-völgy
-Sajvölgypuszta
-Sákola-tetõ
+Saj-vÃ¶lgyi-patak
+Saj-vÃ¶lgy
+SajvÃ¶lgypuszta
+SÃ¡kola-tetÅ‘
 Salamonbokor
 Salamon-hegy
 Salamonhegy
 Salamonta
 Salamontanya
 Salamonta-tanya
-Salamoszõllõ
-Salföld
-Salgó
-Salgópuszta
-Salgótarjáni Szénbánkyák
-Salgótarjáni Szénbányák
-Salgótarján Külsõ Pályaudvar
-Salgótarján
-Salgóvár-hegy
-Salgóvár
-Saliháza
-Saliház
+SalamoszÅ‘llÅ‘
+SalfÃ¶ld
+SalgÃ³
+SalgÃ³puszta
+SalgÃ³tarjÃ¡ni SzÃ©nbÃ¡nkyÃ¡k
+SalgÃ³tarjÃ¡ni SzÃ©nbÃ¡nyÃ¡k
+SalgÃ³tarjÃ¡n KÃ¼lsÅ‘ PÃ¡lyaudvar
+SalgÃ³tarjÃ¡n
+SalgÃ³vÃ¡r-hegy
+SalgÃ³vÃ¡r
+SalihÃ¡za
+SalihÃ¡z
 Salipuszta
-Salköveskút
-Salköveskút-Vassurány
-Sallairész
+SalkÃ¶veskÃºt
+SalkÃ¶veskÃºt-VassurÃ¡ny
+SallairÃ©sz
 Salomfa-hegy
 Salomfa
-Salomvár
-Sályi-patak
-Sály
-Sámágy
-Sámod
-Sámson-Apátfalvi-csatorna
-Sámson-Apátfalvi-fõcsatorna
-Sámson-Apátfalvi-Szárazér
-Sámsonháza
-Sámsoni Kert
-Sámsonitanyák
-Sámsontanya
-Sáncdûlõ
-Sánc-hegy
-Sánchegy
-Sánci Major
-Sánc-major
-Sánc
-Sáncpuszta
-Sándipuszta
-Sándli-tag
+SalomvÃ¡r
+SÃ¡lyi-patak
+SÃ¡ly
+SÃ¡mÃ¡gy
+SÃ¡mod
+SÃ¡mson-ApÃ¡tfalvi-csatorna
+SÃ¡mson-ApÃ¡tfalvi-fÅ‘csatorna
+SÃ¡mson-ApÃ¡tfalvi-SzÃ¡razÃ©r
+SÃ¡msonhÃ¡za
+SÃ¡msoni Kert
+SÃ¡msonitanyÃ¡k
+SÃ¡msontanya
+SÃ¡ncdÅ±lÅ‘
+SÃ¡nc-hegy
+SÃ¡nchegy
+SÃ¡nci Major
+SÃ¡nc-major
+SÃ¡nc
+SÃ¡ncpuszta
+SÃ¡ndipuszta
+SÃ¡ndli-tag
 Sandlmajor
 Sandlpuszta
 Sand
-Sándorbánya
-Sándordûlõ
-Sándor-ér
-Sándorfalva
-Sándor-halma
-Sándorhalma-puszta
-Sándorhalmatanya
-Sándorhát
-Sándorháza-dûlõ
-Sándorházamajor
-Sándorháza
-Sándorházapuszta
-Sándorházimajor
-Sándorhegydûlõ
-Sándor-hegy
-Sándorhegy
-Sándor Imre-tanya
-Sándor János-fûrésztelep
-Sándorka
-Sándorkapuszta
-Sándor-kút
-Sándormajori-földek
-Sándor-major
-Sándormajor
-Sándorok
-Sándoros
-Sándorpuszta
-Sándor Puszta
-Sándorréti Puszta
-Sándorrét
-Sándorrétpuszta
-Sándorszállás
-Sándortanyák
-Sándortanya
-Sánka-halom
-Sánka
+SÃ¡ndorbÃ¡nya
+SÃ¡ndordÅ±lÅ‘
+SÃ¡ndor-Ã©r
+SÃ¡ndorfalva
+SÃ¡ndor-halma
+SÃ¡ndorhalma-puszta
+SÃ¡ndorhalmatanya
+SÃ¡ndorhÃ¡t
+SÃ¡ndorhÃ¡za-dÅ±lÅ‘
+SÃ¡ndorhÃ¡zamajor
+SÃ¡ndorhÃ¡za
+SÃ¡ndorhÃ¡zapuszta
+SÃ¡ndorhÃ¡zimajor
+SÃ¡ndorhegydÅ±lÅ‘
+SÃ¡ndor-hegy
+SÃ¡ndorhegy
+SÃ¡ndor Imre-tanya
+SÃ¡ndor JÃ¡nos-fÅ±rÃ©sztelep
+SÃ¡ndorka
+SÃ¡ndorkapuszta
+SÃ¡ndor-kÃºt
+SÃ¡ndormajori-fÃ¶ldek
+SÃ¡ndor-major
+SÃ¡ndormajor
+SÃ¡ndorok
+SÃ¡ndoros
+SÃ¡ndorpuszta
+SÃ¡ndor Puszta
+SÃ¡ndorrÃ©ti Puszta
+SÃ¡ndorrÃ©t
+SÃ¡ndorrÃ©tpuszta
+SÃ¡ndorszÃ¡llÃ¡s
+SÃ¡ndortanyÃ¡k
+SÃ¡ndortanya
+SÃ¡nka-halom
+SÃ¡nka
 Sankt Gerhardsberg
 Sankt-Johann
 Sanos Hegy
-Sántamalom
-Sántavölgy
-Sántosi Tanyák
-Sántos
-Sápa
-Sápapuszta
-Sápi-dûlõ
-Sápi-ér
-Sápi-patak
-Sápi Tanyák
-Sápitanya
-Sáp
-Sáppuszta
-Sárállás
-Sárándi Tanya
-Sáránd
-Sára
-Sárási Kõhegy
-Sárási-kõ
+SÃ¡ntamalom
+SÃ¡ntavÃ¶lgy
+SÃ¡ntosi TanyÃ¡k
+SÃ¡ntos
+SÃ¡pa
+SÃ¡papuszta
+SÃ¡pi-dÅ±lÅ‘
+SÃ¡pi-Ã©r
+SÃ¡pi-patak
+SÃ¡pi TanyÃ¡k
+SÃ¡pitanya
+SÃ¡p
+SÃ¡ppuszta
+SÃ¡rÃ¡llÃ¡s
+SÃ¡rÃ¡ndi Tanya
+SÃ¡rÃ¡nd
+SÃ¡ra
+SÃ¡rÃ¡si KÅ‘hegy
+SÃ¡rÃ¡si-kÅ‘
 Saras
-Sárás
-Sáráspuszta
-Sárazsadány
-Sár-berek
-Sárbogárd
-Sárdipuszta
-Sárdirend
-Sárdos-ér
-Sárdos
-Sárdpuszta
-Sáregres
-Sárfimizdó
-Sárgagát
-Sárga Halom
-Sárgaháza
-Sárgaház
-Sárgakútlapos
-Sárga-major
-Sárga
-Sárgapartidûlõ
-Sárgapuszta
-Sárgatanya
-Sárga Tanya
-Sárgödre
-Sárhalmidûlõ
-Sárhalom
-Sárhát
-Sár-hegy
-Sárhida
-Sárhídpuszta
-Sári-csatorna
-Sáridûlõ
-Sárihegy
-Sári
-Sáripuszta
-Sárisáp
-Sári Szõllõk
-Sári-szõlõk
-Sári-tag
-Sáritanya
-Sáriújmajor
-Sári Víz
+SÃ¡rÃ¡s
+SÃ¡rÃ¡spuszta
+SÃ¡razsadÃ¡ny
+SÃ¡r-berek
+SÃ¡rbogÃ¡rd
+SÃ¡rdipuszta
+SÃ¡rdirend
+SÃ¡rdos-Ã©r
+SÃ¡rdos
+SÃ¡rdpuszta
+SÃ¡regres
+SÃ¡rfimizdÃ³
+SÃ¡rgagÃ¡t
+SÃ¡rga Halom
+SÃ¡rgahÃ¡za
+SÃ¡rgahÃ¡z
+SÃ¡rgakÃºtlapos
+SÃ¡rga-major
+SÃ¡rga
+SÃ¡rgapartidÅ±lÅ‘
+SÃ¡rgapuszta
+SÃ¡rgatanya
+SÃ¡rga Tanya
+SÃ¡rgÃ¶dre
+SÃ¡rhalmidÅ±lÅ‘
+SÃ¡rhalom
+SÃ¡rhÃ¡t
+SÃ¡r-hegy
+SÃ¡rhida
+SÃ¡rhÃ­dpuszta
+SÃ¡ri-csatorna
+SÃ¡ridÅ±lÅ‘
+SÃ¡rihegy
+SÃ¡ri
+SÃ¡ripuszta
+SÃ¡risÃ¡p
+SÃ¡ri SzÅ‘llÅ‘k
+SÃ¡ri-szÅ‘lÅ‘k
+SÃ¡ri-tag
+SÃ¡ritanya
+SÃ¡riÃºjmajor
+SÃ¡ri VÃ­z
 Sarkad-csatorna
-Sarkadi-Cukorgyár
-Sarkadkeresztúr
+Sarkadi-CukorgyÃ¡r
+SarkadkeresztÃºr
 Sarkad
-Sarkadõsipuszta
-Sarkad-Sároséri-fõcsatorna
+SarkadÅ‘sipuszta
+Sarkad-SÃ¡rosÃ©ri-fÅ‘csatorna
 Sarkadtanya
 Sarkad Teteje
-Sarkalyér
+SarkalyÃ©r
 Sarkaly
-Sarkantyúsdûlõ
-Sarkantyúsi Tanya
-Sárkánydûlõ
-Sárkány-erdõ
-Sárkány-ér
-Sárkányfok
-Sárkánylyuk-völgy
-Sárkánymajor
-Sárkány
-Sárkány-patak
-Sárkánypuszta
-Sárkány-sziget
-Sárkánytanya
-Sárkánytópuszta
-Sárkeresztes
-Sárkeresztúr
-Sárkeszi-Alsómajor
-Sárkeszi Felsõmajor
-Sárkeszi
+SarkantyÃºsdÅ±lÅ‘
+SarkantyÃºsi Tanya
+SÃ¡rkÃ¡nydÅ±lÅ‘
+SÃ¡rkÃ¡ny-erdÅ‘
+SÃ¡rkÃ¡ny-Ã©r
+SÃ¡rkÃ¡nyfok
+SÃ¡rkÃ¡nylyuk-vÃ¶lgy
+SÃ¡rkÃ¡nymajor
+SÃ¡rkÃ¡ny
+SÃ¡rkÃ¡ny-patak
+SÃ¡rkÃ¡nypuszta
+SÃ¡rkÃ¡ny-sziget
+SÃ¡rkÃ¡nytanya
+SÃ¡rkÃ¡nytÃ³puszta
+SÃ¡rkeresztes
+SÃ¡rkeresztÃºr
+SÃ¡rkeszi-AlsÃ³major
+SÃ¡rkeszi FelsÅ‘major
+SÃ¡rkeszi
 Sarkodpart
-Sárközidûlõ
-Sárközi-fõcsatorna
-Sárközi-tanya
-Sárköz
-Sárközydûlõ
-Sárkúttanya
+SÃ¡rkÃ¶zidÅ±lÅ‘
+SÃ¡rkÃ¶zi-fÅ‘csatorna
+SÃ¡rkÃ¶zi-tanya
+SÃ¡rkÃ¶z
+SÃ¡rkÃ¶zydÅ±lÅ‘
+SÃ¡rkÃºttanya
 Sarlaymajor
-Sarlósár
-Sármánpuszta
-Sármáséri Tanyák
-Sármás-ér
-Sármellék
-Sármezey-tanya
-Sármezõ
-Sarokhatárdûlõ
-Sarokhatár
-Sárok
+SarlÃ³sÃ¡r
+SÃ¡rmÃ¡npuszta
+SÃ¡rmÃ¡sÃ©ri TanyÃ¡k
+SÃ¡rmÃ¡s-Ã©r
+SÃ¡rmellÃ©k
+SÃ¡rmezey-tanya
+SÃ¡rmezÅ‘
+SarokhatÃ¡rdÅ±lÅ‘
+SarokhatÃ¡r
+SÃ¡rok
 Saroltamajor
 Saroltapuszta
-Sárosd
-Sárosd-Seregélyesi-vízfolyás
-Sárosdûlõ
-Sáros-ér-hát
-Sáros-ér
-Sárosfõmajor
-Sárosfõpuszta
-Sárosgödör
-Sáros
-Sárospatak
-Sáros Szék
-Sárostanya
-Sárpentele
-Sárpilis
-Sárpilis-Várdomb
-Sárréti Csatorna
-Sárréti-fõcsatorna
-Sárrétjemajor
-Sárrét
-Sárrétudvardi
-Sárrétudvari
-Sárrétudvari Tanyák
-Sarród
-Sárszegtanya
-Sárszentágota
-Sárszentlõrinc
-Sárszentmihály
-Sárszentmiklós
-Sár-sziget
-Sársziget
-Sár-szög
-Sárszög
-Sárszögpuszta
-Sártó
-Sártványpuszta
-Sarud-foki-fõcsatorna
+SÃ¡rosd
+SÃ¡rosd-SeregÃ©lyesi-vÃ­zfolyÃ¡s
+SÃ¡rosdÅ±lÅ‘
+SÃ¡ros-Ã©r-hÃ¡t
+SÃ¡ros-Ã©r
+SÃ¡rosfÅ‘major
+SÃ¡rosfÅ‘puszta
+SÃ¡rosgÃ¶dÃ¶r
+SÃ¡ros
+SÃ¡rospatak
+SÃ¡ros SzÃ©k
+SÃ¡rostanya
+SÃ¡rpentele
+SÃ¡rpilis
+SÃ¡rpilis-VÃ¡rdomb
+SÃ¡rrÃ©ti Csatorna
+SÃ¡rrÃ©ti-fÅ‘csatorna
+SÃ¡rrÃ©tjemajor
+SÃ¡rrÃ©t
+SÃ¡rrÃ©tudvardi
+SÃ¡rrÃ©tudvari
+SÃ¡rrÃ©tudvari TanyÃ¡k
+SarrÃ³d
+SÃ¡rszegtanya
+SÃ¡rszentÃ¡gota
+SÃ¡rszentlÅ‘rinc
+SÃ¡rszentmihÃ¡ly
+SÃ¡rszentmiklÃ³s
+SÃ¡r-sziget
+SÃ¡rsziget
+SÃ¡r-szÃ¶g
+SÃ¡rszÃ¶g
+SÃ¡rszÃ¶gpuszta
+SÃ¡rtÃ³
+SÃ¡rtvÃ¡nypuszta
+Sarud-foki-fÅ‘csatorna
 Sarud
 Sarud-sajfoki-csatorna
 Sarvaly-major
 Sarvaly
 Sarvalypuszta
-Sárvár
-Sárvíz Canal
-Sárviz Csatorna
-Sárvíz-csatorna
-Sárvízi-malomcsatorna
-Sárvíz-malomcsatorna
-Sárvíz-Nádor
-Sárvíz
-Sárvíz-patak
-Sárvölgymajor
-Sas-bérc
-Sasbércpuszta
-Sásdi-árok
-Sásd
-Sasdûlõ
-Sashalmi Tér
+SÃ¡rvÃ¡r
+SÃ¡rvÃ­z Canal
+SÃ¡rviz Csatorna
+SÃ¡rvÃ­z-csatorna
+SÃ¡rvÃ­zi-malomcsatorna
+SÃ¡rvÃ­z-malomcsatorna
+SÃ¡rvÃ­z-NÃ¡dor
+SÃ¡rvÃ­z
+SÃ¡rvÃ­z-patak
+SÃ¡rvÃ¶lgymajor
+Sas-bÃ©rc
+SasbÃ©rcpuszta
+SÃ¡sdi-Ã¡rok
+SÃ¡sd
+SasdÅ±lÅ‘
+Sashalmi TÃ©r
 Sashalom-Cinkotai Nagyicce
-Sashalomdûlõ
+SashalomdÅ±lÅ‘
 Sas-halom
 Sashalom
 Sashalom Puszta
-Sas-hegy-dûlõ
-Sashegydûlõ
-Sashegyi-dûlõ
+Sas-hegy-dÅ±lÅ‘
+SashegydÅ±lÅ‘
+Sashegyi-dÅ±lÅ‘
 Sas-hegy
 Sashegy
 Sashegypuszta
-Sasheverõ-hegy
-Sasheverõ
-Sásierdõ
-Sáskalapos
-Sáska
-Sáskás
-Sas-kút
-Sasos-cigánytelep
+SasheverÅ‘-hegy
+SasheverÅ‘
+SÃ¡sierdÅ‘
+SÃ¡skalapos
+SÃ¡ska
+SÃ¡skÃ¡s
+Sas-kÃºt
+Sasos-cigÃ¡nytelep
 Sasos
 Sas-patak
-Sás-patak
-Sásrétpuszta
+SÃ¡s-patak
+SÃ¡srÃ©tpuszta
 Sastanya
-Sástelekdûlõ
-Sás-tó
-Sástópuszta
+SÃ¡stelekdÅ±lÅ‘
+SÃ¡s-tÃ³
+SÃ¡stÃ³puszta
 Sastya
 Sastya-tanya
-Sasülés Halom
-Sasülés
-Sasvár-hegy
-Sasvár Utca
-Sáta-derék
-Sáta
+SasÃ¼lÃ©s Halom
+SasÃ¼lÃ©s
+SasvÃ¡r-hegy
+SasvÃ¡r Utca
+SÃ¡ta-derÃ©k
+SÃ¡ta
 Satoraijaujhely
-Sátoraljaújhely
-Sátor-hegy
-Sátorhegy
-Sátorhely
-Sátorkõpuszta
-Sátorkõtanya
-Sátorma-hegy
-Sátormapuszta
-Sátor
-Sátorosdûlõ
-Sátoros-hegy
-Sátoros
-Sátorrét
+SÃ¡toraljaÃºjhely
+SÃ¡tor-hegy
+SÃ¡torhegy
+SÃ¡torhely
+SÃ¡torkÅ‘puszta
+SÃ¡torkÅ‘tanya
+SÃ¡torma-hegy
+SÃ¡tormapuszta
+SÃ¡tor
+SÃ¡torosdÅ±lÅ‘
+SÃ¡toros-hegy
+SÃ¡toros
+SÃ¡torrÃ©t
 Sattelbergertanya
-Savanyúkút
-Savanyúmajor
-Savanyú
+SavanyÃºkÃºt
+SavanyÃºmajor
+SavanyÃº
 Savaria
 Savar
-Sávolyi Major
-Sávoly
-Sávolypuszta
-Savós-Gút
-Savóskút-erdõ
-Savóskúti Erdõ
+SÃ¡volyi Major
+SÃ¡voly
+SÃ¡volypuszta
+SavÃ³s-GÃºt
+SavÃ³skÃºt-erdÅ‘
+SavÃ³skÃºti ErdÅ‘
 Scarabantia
 Scarbantia
 Scha2ffertanya
@@ -18835,7 +18835,7 @@ Scheidertag
 Schellermalom
 Schelltanya
 Schemelzermalom
-Scherbház
+ScherbhÃ¡z
 Scherctanya
 Schillmajor
 Schleimingertanya
@@ -18843,47 +18843,47 @@ Schmelczermalom
 Schmidttanya
 Schmidtvilla
 Schneeberg
-Schnelle see Sebes-Körös
-Schranzbergdûlõ
+Schnelle see Sebes-KÃ¶rÃ¶s
+SchranzbergdÅ±lÅ‘
 Schrempfmalom
-Schüllertanya
+SchÃ¼llertanya
 Schumacherpuszta
 Schwabenberg
 Schwarckopftanya
-Schwarcszõllõ
+SchwarcszÅ‘llÅ‘
 Schwarctelep
 Schwarcztag
 Schwartztanya
 Schweizerei
-Sebes-éri-dûlõ
-Sebes-ér
-Sebesér
+Sebes-Ã©ri-dÅ±lÅ‘
+Sebes-Ã©r
+SebesÃ©r
 Sebesfapuszta
 Sebesics
 Sebesics Sor
 Sebespuszta
 Sebestanya
-Sebõktanya
-Sebõtanya
-Séd Folyó
-Séd
-Séd-patak
-Sédredûlõ
-Sédvölgy
+SebÅ‘ktanya
+SebÅ‘tanya
+SÃ©d FolyÃ³
+SÃ©d
+SÃ©d-patak
+SÃ©dredÅ±lÅ‘
+SÃ©dvÃ¶lgy
 Seermanntanya
-Segédakna
+SegÃ©dakna
 Segedin
 Segesd
 Seghedin
 Sejce
-Sejekmöge
-Sejpes Ér
+SejekmÃ¶ge
+Sejpes Ã‰r
 Selekta
-Selgpes-ér
+Selgpes-Ã©r
 Sellye
 Selyeb
-Selyemerdõdûlõ
-Selyemgyártelep
+SelyemerdÅ‘dÅ±lÅ‘
+SelyemgyÃ¡rtelep
 Selyem-halom
 Selyem-hegy
 Selyemmajor
@@ -18894,489 +18894,489 @@ Selyemtelek
 Selyemtelekpuszta
 Selymes
 Selymespuszta
-Selymes Szõlõk
-Selypicukorgyár
+Selymes SzÅ‘lÅ‘k
+SelypicukorgyÃ¡r
 Selyp
 Semetka
-Semjénháza
-Semjén
-Semjénsuka
-Semjéntelep
-Semlyékes-tó
-Semlyékitanya
-Semlyék
+SemjÃ©nhÃ¡za
+SemjÃ©n
+SemjÃ©nsuka
+SemjÃ©ntelep
+SemlyÃ©kes-tÃ³
+SemlyÃ©kitanya
+SemlyÃ©k
 Semseitanya
-Sé
-Sénye
+SÃ©
+SÃ©nye
 Senye Patak
-Sényõiúti Szõllõk
-Sényõi Úti Szõlõ
-Senyõ
-Sényõ
-Seregélyesdûlõ
-Seregélyesi Tanyák
-Seregélyes
-Seregélyes-Szõlõhegy
-Seregélyházamajor
-Seregélyházi Major
-Serényfalva
-Serényifalva
-Seresdûlõ
+SÃ©nyÅ‘iÃºti SzÅ‘llÅ‘k
+SÃ©nyÅ‘i Ãšti SzÅ‘lÅ‘
+SenyÅ‘
+SÃ©nyÅ‘
+SeregÃ©lyesdÅ±lÅ‘
+SeregÃ©lyesi TanyÃ¡k
+SeregÃ©lyes
+SeregÃ©lyes-SzÅ‘lÅ‘hegy
+SeregÃ©lyhÃ¡zamajor
+SeregÃ©lyhÃ¡zi Major
+SerÃ©nyfalva
+SerÃ©nyifalva
+SeresdÅ±lÅ‘
 Serestanya
-Seres Tó
-Sérfenyõsziget
+Seres TÃ³
+SÃ©rfenyÅ‘sziget
 Serflektanya
-Serfõzõdûlõ
-Serház-hegy
-Serház-sziget
-Sér-hegy
-Serkeszékdûlõ
-Serkeszék
-Sérseki-hegy
-Sérseki Tanyák
-Sérsek
-Sérsekszõllõsi Tanyák
-Sérsekszõllõs
-Sérsekszõlõs
-Sertés-ér
-Sertéstelep
-Setétkerékpuszta
-Shóduna
-Siadûlõ
+SerfÅ‘zÅ‘dÅ±lÅ‘
+SerhÃ¡z-hegy
+SerhÃ¡z-sziget
+SÃ©r-hegy
+SerkeszÃ©kdÅ±lÅ‘
+SerkeszÃ©k
+SÃ©rseki-hegy
+SÃ©rseki TanyÃ¡k
+SÃ©rsek
+SÃ©rsekszÅ‘llÅ‘si TanyÃ¡k
+SÃ©rsekszÅ‘llÅ‘s
+SÃ©rsekszÅ‘lÅ‘s
+SertÃ©s-Ã©r
+SertÃ©stelep
+SetÃ©tkerÃ©kpuszta
+ShÃ³duna
+SiadÅ±lÅ‘
 Sibrikmajor
 Sibrik
 Siegeltanya
 Sige-hegy
 Sigepuszta
-Sigéri-dûlõ
-Sigértanya
-Sikátor-hegy
-Sikátor
-Sikátorpuszta
+SigÃ©ri-dÅ±lÅ‘
+SigÃ©rtanya
+SikÃ¡tor-hegy
+SikÃ¡tor
+SikÃ¡torpuszta
 Sikefa
 Sik Hegy
 Sikkony
-Siklósbodony
-Siklósi-hegyek
-Siklósi Szõlõk Megálló
-Siklósi Szõlõk
-Siklósnagyfalu
-Siklós
-Siklós-Villányi-hegy
-Sík
-Sikondagyógyfürdõ
+SiklÃ³sbodony
+SiklÃ³si-hegyek
+SiklÃ³si SzÅ‘lÅ‘k MegÃ¡llÃ³
+SiklÃ³si SzÅ‘lÅ‘k
+SiklÃ³snagyfalu
+SiklÃ³s
+SiklÃ³s-VillÃ¡nyi-hegy
+SÃ­k
+SikondagyÃ³gyfÃ¼rdÅ‘
 Sikonda
-Sikótanya
+SikÃ³tanya
 Sikotapuszta
-Síkvölgypuszta
-Sima-hát
-Simaháza
-Simaházapuszta
+SÃ­kvÃ¶lgypuszta
+Sima-hÃ¡t
+SimahÃ¡za
+SimahÃ¡zapuszta
 Sima-hegy
-Simai-fõfolyás
-Simai-gazdaság
+Simai-fÅ‘folyÃ¡s
+Simai-gazdasÃ¡g
 Simai-halom
 Simaiha
-Simaihát
+SimaihÃ¡t
 Simai-zug
 Sima
 Simapuszta
-Simárdpuszta
-Simaság
+SimÃ¡rdpuszta
+SimasÃ¡g
 Simasziget
-Síma Tó
-Simkótanya
+SÃ­ma TÃ³
+SimkÃ³tanya
 Simonditanya
 Simonfa
-Simonfertõdûlõ
+SimonfertÅ‘dÅ±lÅ‘
 Simon-hegy
 Simonmajor
-Simonos-tetõ
+Simonos-tetÅ‘
 Simonpuszta
 Simon-szer
 Simonszerpuszta
 Simontag
 Simontanya
-Simon Tó
+Simon TÃ³
 Simontornya
-Simonvölgytanya
-Sínai-hegy
+SimonvÃ¶lgytanya
+SÃ­nai-hegy
 Siniglatanya
 Sinka-hegy
-Sinkár-patak
+SinkÃ¡r-patak
 Sinkatanya
-Sinka-tetõ
-Sióagárd
-Sió Canal
-Sió-csatorna
-Sió-Fluss
-Siófok
-Siójut
-Sió-Kapos-csatorna
-Sió-Kapos
-Siómaros
-Sió
-Sió-patak
-Siópuszta
-Siórét
-Sipák
-Sipákszõllõ
-Sípoló-hegy
+Sinka-tetÅ‘
+SiÃ³agÃ¡rd
+SiÃ³ Canal
+SiÃ³-csatorna
+SiÃ³-Fluss
+SiÃ³fok
+SiÃ³jut
+SiÃ³-Kapos-csatorna
+SiÃ³-Kapos
+SiÃ³maros
+SiÃ³
+SiÃ³-patak
+SiÃ³puszta
+SiÃ³rÃ©t
+SipÃ¡k
+SipÃ¡kszÅ‘llÅ‘
+SÃ­polÃ³-hegy
 Sipostanya
-Sipsadûlõ
-Sipsai-dûlõ
+SipsadÅ±lÅ‘
+Sipsai-dÅ±lÅ‘
 Sipsa
 Sipsatanya
-Sirály-dûlõ
-Sirálytanya
-Sirató-hegy
-Siratói Szõllõk
-Siratói-szõlõk
-Sirató
-Sirató Szõlõk
-Sirató-zug
+SirÃ¡ly-dÅ±lÅ‘
+SirÃ¡lytanya
+SiratÃ³-hegy
+SiratÃ³i SzÅ‘llÅ‘k
+SiratÃ³i-szÅ‘lÅ‘k
+SiratÃ³
+SiratÃ³ SzÅ‘lÅ‘k
+SiratÃ³-zug
 Sirok
 Sisa
-Sisáripuszta
-Sisárpuszta
-Siskás
-Siskástanya
+SisÃ¡ripuszta
+SisÃ¡rpuszta
+SiskÃ¡s
+SiskÃ¡stanya
 Siter
-Sitkaitanyák
+SitkaitanyÃ¡k
 Sitka
-Sitkei Tanyák
+Sitkei TanyÃ¡k
 Sitke
-Sivác
-Siványdûlõ
-Siványidûlõ
-Sivóföld
-Sivó-tanya
-Skultéthymajor
-Slaná
-Slovenskı Kras
-Snéberg
-Sóbánya-bérc
-Soblányas Hegy
+SivÃ¡c
+SivÃ¡nydÅ±lÅ‘
+SivÃ¡nyidÅ±lÅ‘
+SivÃ³fÃ¶ld
+SivÃ³-tanya
+SkultÃ©thymajor
+SlanÃ¡
+SlovenskÃ½ Kras
+SnÃ©berg
+SÃ³bÃ¡nya-bÃ©rc
+SoblÃ¡nyas Hegy
 Sobor
-Socózug
-Sóczózug
+SocÃ³zug
+SÃ³czÃ³zug
 Sodakpuszta
 Sodarpuszta
-Sóderbánya
-Sóhely-orom
-Söjpuszta
-Söjtör
-Sokoróalja
-Sokorói-Bakony-ér
-Sokorói-halomvidék
-Sokoró
-Sokorópátka
-Söld Halom
+SÃ³derbÃ¡nya
+SÃ³hely-orom
+SÃ¶jpuszta
+SÃ¶jtÃ¶r
+SokorÃ³alja
+SokorÃ³i-Bakony-Ã©r
+SokorÃ³i-halomvidÃ©k
+SokorÃ³
+SokorÃ³pÃ¡tka
+SÃ¶ld Halom
 Soldostelep
-Sólinka
-Sólinkó
-Sölösimalom
-Soltésztanya
+SÃ³linka
+SÃ³linkÃ³
+SÃ¶lÃ¶simalom
+SoltÃ©sztanya
 Solti-halom
-Solti Lapály
-Solti-síkság
+Solti LapÃ¡ly
+Solti-sÃ­ksÃ¡g
 Solt
-Solt-palé
+Solt-palÃ©
 Soltszentimre
 Soltvadkert
-Solymár
-Solymositanyák
+SolymÃ¡r
+SolymositanyÃ¡k
 Solymosmajor
 Solymostanya
-Solymos-tó
-Sóly
-Sólyombánya
-Sólyombányatelep
-Sólyombatelep
-Sólyom-dûlõ
-Sólyom-halom
-Sólyomhát
-Sólyom-sziget
-Sólyomvölgydûlõ
+Solymos-tÃ³
+SÃ³ly
+SÃ³lyombÃ¡nya
+SÃ³lyombÃ¡nyatelep
+SÃ³lyombatelep
+SÃ³lyom-dÅ±lÅ‘
+SÃ³lyom-halom
+SÃ³lyomhÃ¡t
+SÃ³lyom-sziget
+SÃ³lyomvÃ¶lgydÅ±lÅ‘
 Somaly-patak
 Som-berek-hegy
-Sombereki Tanyák
+Sombereki TanyÃ¡k
 Som-berek
 Somberek
-Som-berek-séd
+Som-berek-sÃ©d
 Sombokor
-Somdûlõ
-Someº
-Someº River
-Someºul Mare
-Someºul
-Somháti-major
-Som-hát
+SomdÅ±lÅ‘
+SomeÅŸ
+SomeÅŸ River
+SomeÅŸul Mare
+SomeÅŸul
+SomhÃ¡ti-major
+Som-hÃ¡t
 Som-hegy
 Somhegy
 Somhegypuszta
-Sömjéni Cser
-Somjén
-Somkõ-tetõ
-Sömlék
-Sömlény
-Somló-hegy
-Somlóhegy
-Somlójenõ
-Somló
-Somlószõllõs
-Somlószõlõs
-Somlóvár
-Somlóvásárhely
-Somlóvecse
-Sömlyék
-Somlyó Bánya
-Somlyó Bányatelep
-Somlyód
-Somlyódûlõ
-Somlyó-hegy
-Somlyóhegy
-Somlyó Hegy
-Somlyó
-Somlyópuszta
-Somlyósziget
-Somlyótelep
-Somlyóvár
-Sommásházak
-Som-Nagyberény
+SÃ¶mjÃ©ni Cser
+SomjÃ©n
+SomkÅ‘-tetÅ‘
+SÃ¶mlÃ©k
+SÃ¶mlÃ©ny
+SomlÃ³-hegy
+SomlÃ³hegy
+SomlÃ³jenÅ‘
+SomlÃ³
+SomlÃ³szÅ‘llÅ‘s
+SomlÃ³szÅ‘lÅ‘s
+SomlÃ³vÃ¡r
+SomlÃ³vÃ¡sÃ¡rhely
+SomlÃ³vecse
+SÃ¶mlyÃ©k
+SomlyÃ³ BÃ¡nya
+SomlyÃ³ BÃ¡nyatelep
+SomlyÃ³d
+SomlyÃ³dÅ±lÅ‘
+SomlyÃ³-hegy
+SomlyÃ³hegy
+SomlyÃ³ Hegy
+SomlyÃ³
+SomlyÃ³puszta
+SomlyÃ³sziget
+SomlyÃ³telep
+SomlyÃ³vÃ¡r
+SommÃ¡shÃ¡zak
+Som-NagyberÃ©ny
 Som
-Somodidûlõ
+SomodidÅ±lÅ‘
 Somodor
 Somodorpuszta
-Somodor-Somogyaszló
+Somodor-SomogyaszlÃ³
 Somogyacsa
-Somogyapáti
+SomogyapÃ¡ti
 Somogyaracs
-Somogyaszaló
+SomogyaszalÃ³
 Somogybabod
-Somogybükkösd
+SomogybÃ¼kkÃ¶sd
 Somogy County
-Somogycsicsó
-Somogydöröcske
+SomogycsicsÃ³
+SomogydÃ¶rÃ¶cske
 Somogyegres
 Somogyfajsz
-Somogyfehéregyház
+SomogyfehÃ©regyhÃ¡z
 Somogyfok
-Somogyfok Szõllõskert
+Somogyfok SzÅ‘llÅ‘skert
 Somogygeszti
-Somogyhárságy
+SomogyhÃ¡rsÃ¡gy
 Somogyhatvan
-Somogyi-dombság
-Somogyi-dombvidék
+Somogyi-dombsÃ¡g
+Somogyi-dombvidÃ©k
 Somogyitanya
 Somogyitelep
-Somogyjád
+SomogyjÃ¡d
 Somogymeggyes
 Somogy Megye
 Somogy
-Somogysámson
-Somogysárd
+SomogysÃ¡mson
+SomogysÃ¡rd
 Somogysimonyi
 Somogyszentimre
 Somogy Szent Imrepuszta
-Somogyszentmiklós
-Somogyszentpál
+SomogyszentmiklÃ³s
+SomogyszentpÃ¡l
 Somogyszil
 Somogyszob
-Somogytarnóca
+SomogytarnÃ³ca
 Somogy Tarnocza
-Somogytúr
+SomogytÃºr
 Somogyudvarhely
-Somogyvámos
-Somogyvár
+SomogyvÃ¡mos
+SomogyvÃ¡r
 Somogy-Vasas
 Somogyvisonta
-Somogyviszló
-Somogy-Zalai-határárok
+SomogyviszlÃ³
+Somogy-Zalai-hatÃ¡rÃ¡rok
 Somogyzsitfa
 Somorjasziget
 Somos-hegy
 Somoshegy
 Somos Hegy
-Somós Hegy
+SomÃ³s Hegy
 Somoska2
-Somoskõ
-Somoskõújfalu
+SomoskÅ‘
+SomoskÅ‘Ãºjfalu
 Somosmajor
-Somosmál
+SomosmÃ¡l
 Somos
 Somostanya
 Somotatanya
-Somrétidûlõ
-Somsálybánya
-Somsályfõ Bánya-telep
-Somsályfõ
+SomrÃ©tidÅ±lÅ‘
+SomsÃ¡lybÃ¡nya
+SomsÃ¡lyfÅ‘ BÃ¡nya-telep
+SomsÃ¡lyfÅ‘
 Somsaly
 Somssichmajor
-Som-tetõ
-Sonkád
-Soósdûlõ
-Soósitanya
-Soóskert
-Soóspuszta
-Soóstanya
+Som-tetÅ‘
+SonkÃ¡d
+SoÃ³sdÅ±lÅ‘
+SoÃ³sitanya
+SoÃ³skert
+SoÃ³spuszta
+SoÃ³stanya
 Soponya
 Soponyapuszta
-Sopronbánfalva
-Sopron-Déli Pályaudvar
-Sopronhorpács
-Soproni-hegység
-Soproni-hegyvidék
+SopronbÃ¡nfalva
+Sopron-DÃ©li PÃ¡lyaudvar
+SopronhorpÃ¡cs
+Soproni-hegysÃ©g
+Soproni-hegyvidÃ©k
 Soproni-medence
 Soproni Puszta
-Sopronkõhida
-Sopronkövesd
-Sopron Megyei Város
-Sopronnémeti
+SopronkÅ‘hida
+SopronkÃ¶vesd
+Sopron Megyei VÃ¡ros
+SopronnÃ©meti
 Sopron
 Sopronpuszta
-Sopronszécseny
+SopronszÃ©cseny
 Soprony
-Söprõs
-Söprûstanya
-Söpte
-Söptéri Dûlõ
-Söptérihatári Dûlõ
-Söptéri-határra Dûlõ
-Söptér
-Söpterpuszta
-Sördeföld
-Söréd
-Sõreföld
-Sõregiföld
-Sõregi Parcellák
-Sõregpuszta
-Sõrekúttanya
-Sõre
-Sörházmajor
-Sorhegyi Dûlõ
-Sorkád
-Sörkedûlõk
-Sörkemajor
-Sörke
+SÃ¶prÅ‘s
+SÃ¶prÅ±stanya
+SÃ¶pte
+SÃ¶ptÃ©ri DÅ±lÅ‘
+SÃ¶ptÃ©rihatÃ¡ri DÅ±lÅ‘
+SÃ¶ptÃ©ri-hatÃ¡rra DÅ±lÅ‘
+SÃ¶ptÃ©r
+SÃ¶pterpuszta
+SÃ¶rdefÃ¶ld
+SÃ¶rÃ©d
+SÅ‘refÃ¶ld
+SÅ‘regifÃ¶ld
+SÅ‘regi ParcellÃ¡k
+SÅ‘regpuszta
+SÅ‘rekÃºttanya
+SÅ‘re
+SÃ¶rhÃ¡zmajor
+Sorhegyi DÅ±lÅ‘
+SorkÃ¡d
+SÃ¶rkedÅ±lÅ‘k
+SÃ¶rkemajor
+SÃ¶rke
 Sorkifalud
-Sorkikápolna
+SorkikÃ¡polna
 Sorkikisfalud
-Sorkipolány
-Sorkitótfalu
+SorkipolÃ¡ny
+SorkitÃ³tfalu
 Sormas
-Sormás
-Sormás-patak
-Sörnyepuszta
+SormÃ¡s
+SormÃ¡s-patak
+SÃ¶rnyepuszta
 Sorok
 Sorok-patak
 Sorok-Perint
-Sorokpolány
+SorokpolÃ¡ny
 Sorokpuszta
-Soroksár Felsõ
-Soroksári-ág
-Soroksári Dunaág
-Soroksári Duna
-Soroksári Út
-Soroksár
-Sorokújfalu
-Soroskirály
-Sörös Tó
-Sósalja
-Sósborház
-Sósér
-Sós-halom
-Sóshalom
-Sóshartyán
-Sós-hegy
-Sóshegy
-Sósi Rét
-Sóskadomb
-Sóska-halom
-Sóskáshát
-Sóskás
-Sóskútere
-Sóskúterepuszta
-Sóskúti-halastó
-Sóskút
-Sóskút-puszta
-Sóskút-telek
-Sósmajor
-Sóspál Halom
-Sóspart
-Sós-patak
-Sóspuszta
-Sósrét
-Sósrév
-Sósrévpuszta
-Sósszik
-Sóstanya
-Sós-tetõ
-Sóstó-domb
-Sóstódûlõ
-Sóstófalva
-Sóstófark
-Sóstófürdõ
-Sóstógyógyfürdõ
-Sóstó-halom
-Sóstóhegy
-Sóstói-csatorna
-Sóstói-erdõ
-Sostói Major
-Sóstói-part
-Sóstóiugar
-Sóstólaposdûlõ
-Sós-tó
-Sóstó
-Sós Tó
-Sóstóparti Dûlõ
-Sóstóparti-halom-dûlõ
-Sóstópart
-Sóstópuszta
-Sóstótanya
-Sós Úti Dûlõ
-Sósúti Tanya
-Sós Út
-Sósvertike
-Sós Víz
-Sószik
-Sötétesaljdûlõ
-Sötét-kerék
-Sötétlápapuszta
-Sötéttanya
-Sötét-völgy
-Sótony
-Sotópuszta
-Soványdûlõ
-Soványhát
-Sövényháza
-Sövénykút
-Sövénykútpuszta
-Sövénykúttanya
-Spárgaház
+SoroksÃ¡r FelsÅ‘
+SoroksÃ¡ri-Ã¡g
+SoroksÃ¡ri DunaÃ¡g
+SoroksÃ¡ri Duna
+SoroksÃ¡ri Ãšt
+SoroksÃ¡r
+SorokÃºjfalu
+SoroskirÃ¡ly
+SÃ¶rÃ¶s TÃ³
+SÃ³salja
+SÃ³sborhÃ¡z
+SÃ³sÃ©r
+SÃ³s-halom
+SÃ³shalom
+SÃ³shartyÃ¡n
+SÃ³s-hegy
+SÃ³shegy
+SÃ³si RÃ©t
+SÃ³skadomb
+SÃ³ska-halom
+SÃ³skÃ¡shÃ¡t
+SÃ³skÃ¡s
+SÃ³skÃºtere
+SÃ³skÃºterepuszta
+SÃ³skÃºti-halastÃ³
+SÃ³skÃºt
+SÃ³skÃºt-puszta
+SÃ³skÃºt-telek
+SÃ³smajor
+SÃ³spÃ¡l Halom
+SÃ³spart
+SÃ³s-patak
+SÃ³spuszta
+SÃ³srÃ©t
+SÃ³srÃ©v
+SÃ³srÃ©vpuszta
+SÃ³sszik
+SÃ³stanya
+SÃ³s-tetÅ‘
+SÃ³stÃ³-domb
+SÃ³stÃ³dÅ±lÅ‘
+SÃ³stÃ³falva
+SÃ³stÃ³fark
+SÃ³stÃ³fÃ¼rdÅ‘
+SÃ³stÃ³gyÃ³gyfÃ¼rdÅ‘
+SÃ³stÃ³-halom
+SÃ³stÃ³hegy
+SÃ³stÃ³i-csatorna
+SÃ³stÃ³i-erdÅ‘
+SostÃ³i Major
+SÃ³stÃ³i-part
+SÃ³stÃ³iugar
+SÃ³stÃ³laposdÅ±lÅ‘
+SÃ³s-tÃ³
+SÃ³stÃ³
+SÃ³s TÃ³
+SÃ³stÃ³parti DÅ±lÅ‘
+SÃ³stÃ³parti-halom-dÅ±lÅ‘
+SÃ³stÃ³part
+SÃ³stÃ³puszta
+SÃ³stÃ³tanya
+SÃ³s Ãšti DÅ±lÅ‘
+SÃ³sÃºti Tanya
+SÃ³s Ãšt
+SÃ³svertike
+SÃ³s VÃ­z
+SÃ³szik
+SÃ¶tÃ©tesaljdÅ±lÅ‘
+SÃ¶tÃ©t-kerÃ©k
+SÃ¶tÃ©tlÃ¡papuszta
+SÃ¶tÃ©ttanya
+SÃ¶tÃ©t-vÃ¶lgy
+SÃ³tony
+SotÃ³puszta
+SovÃ¡nydÅ±lÅ‘
+SovÃ¡nyhÃ¡t
+SÃ¶vÃ©nyhÃ¡za
+SÃ¶vÃ©nykÃºt
+SÃ¶vÃ©nykÃºtpuszta
+SÃ¶vÃ©nykÃºttanya
+SpÃ¡rgahÃ¡z
 Spiccermajor
 Spici-hegy
 Spilkamajor
 Spinc
 Spincpuszta
-Spinyér
-Spisáktanya
+SpinyÃ©r
+SpisÃ¡ktanya
 Spitzermajor
 Sporttelep
-Sramkótanya
+SramkÃ³tanya
 Srebenitanya
 Sredne-Dunayskaya Ravnina
-Stájerházak
+StÃ¡jerhÃ¡zak
 Stalinvaros
 Staltertanya
 Staudingertanya
 Staukert
-Stayerházak
-Steerszõllõ
-Steerszõlõ
-Stefániamajor
+StayerhÃ¡zak
+SteerszÅ‘llÅ‘
+SteerszÅ‘lÅ‘
+StefÃ¡niamajor
 Stefanovicsmajor
-Stégertanya
+StÃ©gertanya
 Steibertanya
 Steiertag
 Steinamanger
@@ -19384,725 +19384,725 @@ Steinermajor
 Sterntanya
 Stichtanya
 Stimatanya
-Strandfürdõ
+StrandfÃ¼rdÅ‘
 Strand
 Strausztanya
 Straza Hegy
-Strázsa-halom
-Strázsa-hegy
-Strázsahegy
+StrÃ¡zsa-halom
+StrÃ¡zsa-hegy
+StrÃ¡zsahegy
 Strembach
 Strem
 Strisstanya
 Subasahegy
 Subatanya
-Suggó
-Súggó-tanya
-Sugoró-hegy
-Sugoró
-Sugótanya
+SuggÃ³
+SÃºggÃ³-tanya
+SugorÃ³-hegy
+SugorÃ³
+SugÃ³tanya
 Sugovica
-Sügyi
-Sügyipuszta
+SÃ¼gyi
+SÃ¼gyipuszta
 Suha
-Suhatagdûlõ
+SuhatagdÅ±lÅ‘
 Suhatag
-Suhogó Hegy
+SuhogÃ³ Hegy
 Sukori Hegy
 Sukoro
-Sukoró
-Sükösd
-Süldõs Ér
-Sülitanya
-Sültfejmajor
-Sulyánbokor
-Sülye-völgyi-bérc
-Sülyi Nagymajor
-Sulymos-ér
+SukorÃ³
+SÃ¼kÃ¶sd
+SÃ¼ldÅ‘s Ã‰r
+SÃ¼litanya
+SÃ¼ltfejmajor
+SulyÃ¡nbokor
+SÃ¼lye-vÃ¶lgyi-bÃ©rc
+SÃ¼lyi Nagymajor
+Sulymos-Ã©r
 Sulymos Fok
 Sulymos Hegy
 Sulymos
 Sulymos-tanya
 Sulymostanya
-Sulymos-tó
-Sulymos Tó
-Sulymos Tõ
+Sulymos-tÃ³
+Sulymos TÃ³
+Sulymos TÅ‘
 Sulyok
 Sulyoktag
 Sulyoktanya
 Sulyonalja
-Sülysáp
-Sülysziget
-Sumárdûlõ
-Sumár
-Sümegcsehi
-Sümegi Bazaltbánya
-Sümeg
-Sümegprága
-Sumonyi-halastó
+SÃ¼lysÃ¡p
+SÃ¼lysziget
+SumÃ¡rdÅ±lÅ‘
+SumÃ¡r
+SÃ¼megcsehi
+SÃ¼megi BazaltbÃ¡nya
+SÃ¼meg
+SÃ¼megprÃ¡ga
+Sumonyi-halastÃ³
 Sumony
 Sumonypuszta
-Supatanyák
+SupatanyÃ¡k
 Supatanya
-Surányi
-Surányi-patak
-Surányitanya
-Surányitelep
-Surányi Üdülõtelep
-Súrcsatár
+SurÃ¡nyi
+SurÃ¡nyi-patak
+SurÃ¡nyitanya
+SurÃ¡nyitelep
+SurÃ¡nyi ÃœdÃ¼lÅ‘telep
+SÃºrcsatÃ¡r
 Surd
-Surgótmajor
-Surgót-tag
-Surgót-tanya
-Süri-puszta
+SurgÃ³tmajor
+SurgÃ³t-tag
+SurgÃ³t-tanya
+SÃ¼ri-puszta
 Surjan
-Surján-patak
+SurjÃ¡n-patak
 Surjany
-Surjány
-Surjány-telep
-Surjánytelep
-Surjányújtelep
+SurjÃ¡ny
+SurjÃ¡ny-telep
+SurjÃ¡nytelep
+SurjÃ¡nyÃºjtelep
 Surmantanya
-Súr
-Sûrû-bérc
-Sûrû-hegy
-Sûrûpuszta
-Sûrûtanya
-Susánhát
+SÃºr
+SÅ±rÅ±-bÃ©rc
+SÅ±rÅ±-hegy
+SÅ±rÅ±puszta
+SÅ±rÅ±tanya
+SusÃ¡nhÃ¡t
 Susa
-Susány
-Susánypuszta
-Susnyár
+SusÃ¡ny
+SusÃ¡nypuszta
+SusnyÃ¡r
 Sutapatak
-Sütfeji-major
-Sütõtag
-Sütõtanya
-Sütõ-völgy
-Süttõ Felsõ
-Süttõ
-Süttör
-Sütvény
-Sütvénypuszta
-Süveges-hegy
-Süvegestanya
-Svábbokor
-Svábföld
-Sváb-hegy
-Sváb Hegy
-Svábmajor
-Svébistanya
+SÃ¼tfeji-major
+SÃ¼tÅ‘tag
+SÃ¼tÅ‘tanya
+SÃ¼tÅ‘-vÃ¶lgy
+SÃ¼ttÅ‘ FelsÅ‘
+SÃ¼ttÅ‘
+SÃ¼ttÃ¶r
+SÃ¼tvÃ©ny
+SÃ¼tvÃ©nypuszta
+SÃ¼veges-hegy
+SÃ¼vegestanya
+SvÃ¡bbokor
+SvÃ¡bfÃ¶ld
+SvÃ¡b-hegy
+SvÃ¡b Hegy
+SvÃ¡bmajor
+SvÃ©bistanya
 Svitztagitanya
-Szabadbattyánállomás
-Szabadbattyán
-Szabadegyháza
-Szabadföldek
-Szabad-föld
-Szabadföld
+SzabadbattyÃ¡nÃ¡llomÃ¡s
+SzabadbattyÃ¡n
+SzabadegyhÃ¡za
+SzabadfÃ¶ldek
+Szabad-fÃ¶ld
+SzabadfÃ¶ld
 Szabad-hegy
 Szabadhegy
-Szabadhidvég
+SzabadhidvÃ©g
 Szabadi
 Szabadja
-Szabadkai Szõllõk
-Szabadkai-szõlõk
+Szabadkai SzÅ‘llÅ‘k
+Szabadkai-szÅ‘lÅ‘k
 Szabadka
-Szabadkígyós Alsó
-Szabadkígyós
+SzabadkÃ­gyÃ³s AlsÃ³
+SzabadkÃ­gyÃ³s
 Szabad
 Szabadpuszta
-Szabadrét
-Szabadságdûlõ
-Szabadságföldek
-Szabadságforrás
-Szabadság-hegy
-Szabadsághegy
-Szabadságkút
-Szabadságliget
-Szabadságmajor
-Szabadságpuszta
-Szabadságtanya
-Szabadságtelep
-Szabadságtér
-Szabadszállás
-Szabadszállástanya
-Szabadszentkirály
-Szabadvölgyi Tó
-Szabási-Rinya
-Szabás
+SzabadrÃ©t
+SzabadsÃ¡gdÅ±lÅ‘
+SzabadsÃ¡gfÃ¶ldek
+SzabadsÃ¡gforrÃ¡s
+SzabadsÃ¡g-hegy
+SzabadsÃ¡ghegy
+SzabadsÃ¡gkÃºt
+SzabadsÃ¡gliget
+SzabadsÃ¡gmajor
+SzabadsÃ¡gpuszta
+SzabadsÃ¡gtanya
+SzabadsÃ¡gtelep
+SzabadsÃ¡gtÃ©r
+SzabadszÃ¡llÃ¡s
+SzabadszÃ¡llÃ¡stanya
+SzabadszentkirÃ¡ly
+SzabadvÃ¶lgyi TÃ³
+SzabÃ¡si-Rinya
+SzabÃ¡s
 Szabaton
 Szabatonpuszta
-Szabóház
-Szabó-hegy
-Szabóhegy
-Szabóhegytelep
-Szabóhomoka
-Szabóhomok
-Szabó J.-tanya
-Szabó K.-tanya
-Szabó László-tanya
-Szabolcsbákailiget
-Szabolcsbákai Tanya
-Szabolcsbáka
+SzabÃ³hÃ¡z
+SzabÃ³-hegy
+SzabÃ³hegy
+SzabÃ³hegytelep
+SzabÃ³homoka
+SzabÃ³homok
+SzabÃ³ J.-tanya
+SzabÃ³ K.-tanya
+SzabÃ³ LÃ¡szlÃ³-tanya
+SzabolcsbÃ¡kailiget
+SzabolcsbÃ¡kai Tanya
+SzabolcsbÃ¡ka
 Szabolcsitanya
-Szabolcsiúti Háromfa
+SzabolcsiÃºti HÃ¡romfa
 Szabolcs
 Szabolcspuszta
-Szabolcsszállás
-Szabolcs-Szatmár-Bereg Megye
-Szabolcs-Szatmár-Bereg
+SzabolcsszÃ¡llÃ¡s
+Szabolcs-SzatmÃ¡r-Bereg Megye
+Szabolcs-SzatmÃ¡r-Bereg
 Szabolcs-Szatmar County
-Szabolcs-Szatmár Megye
+Szabolcs-SzatmÃ¡r Megye
 Szabolcstanya
 Szabolcsveresmart
-Szabómalom
-Szabó M.-tanya
-Szabópuszta
-Szabó-tag
-Szabótag
-Szabótanyák
-Szabó-tanya
-Szabótanya
-Szabótiszta Csárda
-Szabótiszta
+SzabÃ³malom
+SzabÃ³ M.-tanya
+SzabÃ³puszta
+SzabÃ³-tag
+SzabÃ³tag
+SzabÃ³tanyÃ¡k
+SzabÃ³-tanya
+SzabÃ³tanya
+SzabÃ³tiszta CsÃ¡rda
+SzabÃ³tiszta
 Szadai Tanya
 Szada
-Szágelszõllõ
-Szágelszõlõ
-Szágodótanya
-Szágy
-Szaján-szög
-Szajánszög-tanya
+SzÃ¡gelszÅ‘llÅ‘
+SzÃ¡gelszÅ‘lÅ‘
+SzÃ¡godÃ³tanya
+SzÃ¡gy
+SzajÃ¡n-szÃ¶g
+SzajÃ¡nszÃ¶g-tanya
 Szajkahalom
-Szajki Erdõ
+Szajki ErdÅ‘
 Szajk
-Szajkó-halom
-Szajkótanya
+SzajkÃ³-halom
+SzajkÃ³tanya
 Szajkpuszta
 Szajla
-Szajoli Tanyák
+Szajoli TanyÃ¡k
 Szajol
-Szajordûlõ
+SzajordÅ±lÅ‘
 Szajortelep
-Szakácsi
-Szakadát
+SzakÃ¡csi
+SzakadÃ¡t
 Szaka-halom
-Szákahegy
-Szakáld
-Szakállas Barta
-Szakállasdûlõ
-Szakállasibartadûlõ
-Szakállasirétdûlõ
-Szakállas
-Szakállastelep
-Szakállasújtelep
-Szakálldûlõ
-Szakály-Hõgyész
-Szakály
-Szakaszhát
+SzÃ¡kahegy
+SzakÃ¡ld
+SzakÃ¡llas Barta
+SzakÃ¡llasdÅ±lÅ‘
+SzakÃ¡llasibartadÅ±lÅ‘
+SzakÃ¡llasirÃ©tdÅ±lÅ‘
+SzakÃ¡llas
+SzakÃ¡llastelep
+SzakÃ¡llasÃºjtelep
+SzakÃ¡lldÅ±lÅ‘
+SzakÃ¡ly-HÅ‘gyÃ©sz
+SzakÃ¡ly
+SzakaszhÃ¡t
 Szakcsimajor
-Szakcsi Új-major
+Szakcsi Ãšj-major
 Szakcs
 Szakes
-Szakmár
-Szák
-Szaknyér
-Szakó-hegy
+SzakmÃ¡r
+SzÃ¡k
+SzaknyÃ©r
+SzakÃ³-hegy
 Szakolyikert
 Szakolyikert Puszta
 Szakolyitanya
 Szakolykert
 Szakoly
-Szakó-nyereg
+SzakÃ³-nyereg
 Szakonyfalu
 Szakonyfalvi Patak
 Szakonymajor
 Szakony
 Szakony-patak
-Szák-Szend Állomás
-Szák-Szend
-Szákszend
+SzÃ¡k-Szend ÃllomÃ¡s
+SzÃ¡k-Szend
+SzÃ¡kszend
 Szalacskai Hegy
 Szalacska
 Szalacskapuszta
 Szalacsy-puszta
-Szalafõ
-Szalaicsárda
+SzalafÅ‘
+SzalaicsÃ¡rda
 Szalaimajor
 Szalaipuszta
 Szalaitanya
-Szalajka-forrás
-Szalajkaház
-Szalajkaháztanya
+Szalajka-forrÃ¡s
+SzalajkahÃ¡z
+SzalajkahÃ¡ztanya
 Szalajka
 Szalajka-patak
-Szalajkavölgy
-Szalánczynagytanya
+SzalajkavÃ¶lgy
+SzalÃ¡nczynagytanya
 Szala
-Szalánta
-Szalántatelep
+SzalÃ¡nta
+SzalÃ¡ntatelep
 Szalapa
-Szálás Hegy
-Száláskapuszta
-Szálástói Hegy
+SzÃ¡lÃ¡s Hegy
+SzÃ¡lÃ¡skapuszta
+SzÃ¡lÃ¡stÃ³i Hegy
 Szalaszend
-Szalasztópuszta
+SzalasztÃ³puszta
 Szalatnak
 Szalaymajor
 Szalaypuszta
 Szalay-tanya
 Szalcmajor
-Szálikert
-Szálkadûlõ
-Szálkahalomdûlõ
-Szálkahalom
-Szálkai-hegy
+SzÃ¡likert
+SzÃ¡lkadÅ±lÅ‘
+SzÃ¡lkahalomdÅ±lÅ‘
+SzÃ¡lkahalom
+SzÃ¡lkai-hegy
 Szalkaitanya
-Szálka
+SzÃ¡lka
 Szalki Sziget
 Szalk
-Szalkszentmárton
-Szállasföldi Tanyák
-Szállásföld
-Szállásháttanya
-Szállás-hegy
-Szálláshelyimajor
-Szálláshely-major
-Szálláshely
-Szálláska
-Szálláska-puszta
-Szálláskút
-Szálláskútpuszta
-Szállás
-Szállaspuszta
-Szálláspuszta
-Szállástanya
-Szállásverõ
+SzalkszentmÃ¡rton
+SzÃ¡llasfÃ¶ldi TanyÃ¡k
+SzÃ¡llÃ¡sfÃ¶ld
+SzÃ¡llÃ¡shÃ¡ttanya
+SzÃ¡llÃ¡s-hegy
+SzÃ¡llÃ¡shelyimajor
+SzÃ¡llÃ¡shely-major
+SzÃ¡llÃ¡shely
+SzÃ¡llÃ¡ska
+SzÃ¡llÃ¡ska-puszta
+SzÃ¡llÃ¡skÃºt
+SzÃ¡llÃ¡skÃºtpuszta
+SzÃ¡llÃ¡s
+SzÃ¡llaspuszta
+SzÃ¡llÃ¡spuszta
+SzÃ¡llÃ¡stanya
+SzÃ¡llÃ¡sverÅ‘
 Szallertanya
 Szalmadpuszta
-Szalmaré
-Szalmás Major
-Szalmássytelep
-Szalmástanya
+SzalmarÃ©
+SzalmÃ¡s Major
+SzalmÃ¡ssytelep
+SzalmÃ¡stanya
 Szalmatelep
 Szalmatercs
-Szalmázódûlõ
-Szalmázóhegydûlõ
-Szalókapuszta
-Szalóki-rét
-Szalokma-völgy
-Szalonnai-hegység
+SzalmÃ¡zÃ³dÅ±lÅ‘
+SzalmÃ¡zÃ³hegydÅ±lÅ‘
+SzalÃ³kapuszta
+SzalÃ³ki-rÃ©t
+Szalokma-vÃ¶lgy
+Szalonnai-hegysÃ©g
 Szalonna
-Szalontaiszállás
+SzalontaiszÃ¡llÃ¡s
 Szalontaitanya
 Szamarhegy
-Szamár-hegy
-Szamár-tetõ
-Szamóalja
-Szamóc
-Szamó
+SzamÃ¡r-hegy
+SzamÃ¡r-tetÅ‘
+SzamÃ³alja
+SzamÃ³c
+SzamÃ³
 Szamosangyalos
 Szamosbecs
-Szamoskér
-Szamosköz
+SzamoskÃ©r
+SzamoskÃ¶z
 Szamos
-Szamossályi
+SzamossÃ¡lyi
 Szamosszeg
-Szamostatárfalva
-Szamosújlak
-Szána-bérc
-Szanácsitelep
-Szana-fõ
-Szanai Árok
-Szánasalja
-Szánas
-Szánaspuszta
+SzamostatÃ¡rfalva
+SzamosÃºjlak
+SzÃ¡na-bÃ©rc
+SzanÃ¡csitelep
+Szana-fÅ‘
+Szanai Ãrok
+SzÃ¡nasalja
+SzÃ¡nas
+SzÃ¡naspuszta
 Szandaaljapuszta
 Szanda-hegy
-Szandai-Bástya-hegy
-Szandai Szõllõk
+Szandai-BÃ¡stya-hegy
+Szandai SzÅ‘llÅ‘k
 Szandalik
 Szanda
 Szanda-patak
-Szandaszõllõs
-Szandaszõlõs
-Szandaváralja
+SzandaszÅ‘llÅ‘s
+SzandaszÅ‘lÅ‘s
+SzandavÃ¡ralja
 Szand Hegy
-Szaniszlótelep
+SzaniszlÃ³telep
 Szank
-Szántaitanya
-Szánthótanya
+SzÃ¡ntaitanya
+SzÃ¡nthÃ³tanya
 Szanticska
-Szántód-Fürdõtelep
-Szántódi Rév
-Szántódi-szoros
-Szántód
-Szántódpuszta
-Szántódûlõ
-Szántóföldtanya
-Szántóhalmitanya
-Szántóhalom
-Szántóhalomtanya
-Szántó-hegy
-Szántó
-Szántópuszta
-Szántórész
-Szántó-szék
-Szántótanya
-Szántótelep
+SzÃ¡ntÃ³d-FÃ¼rdÅ‘telep
+SzÃ¡ntÃ³di RÃ©v
+SzÃ¡ntÃ³di-szoros
+SzÃ¡ntÃ³d
+SzÃ¡ntÃ³dpuszta
+SzÃ¡ntÃ³dÅ±lÅ‘
+SzÃ¡ntÃ³fÃ¶ldtanya
+SzÃ¡ntÃ³halmitanya
+SzÃ¡ntÃ³halom
+SzÃ¡ntÃ³halomtanya
+SzÃ¡ntÃ³-hegy
+SzÃ¡ntÃ³
+SzÃ¡ntÃ³puszta
+SzÃ¡ntÃ³rÃ©sz
+SzÃ¡ntÃ³-szÃ©k
+SzÃ¡ntÃ³tanya
+SzÃ¡ntÃ³telep
 Szany
-Szany-Rábaszentandrás
-Szapárfalu
-Szápár-hegy
-Szápár
-Szapárytanya
-Szaplányos
+Szany-RÃ¡baszentandrÃ¡s
+SzapÃ¡rfalu
+SzÃ¡pÃ¡r-hegy
+SzÃ¡pÃ¡r
+SzapÃ¡rytanya
+SzaplÃ¡nyos
 Szaporca
 Szaporea
-Szaporhegyi Tanyák
+Szaporhegyi TanyÃ¡k
 Szaporhegy
-Szappanosdûlõ
-Szappanosi-szõlõk
+SzappanosdÅ±lÅ‘
+Szappanosi-szÅ‘lÅ‘k
 Szappanosmajor
 Szappanos
-Szappanos-tó
+Szappanos-tÃ³
 Szappanos-zug
-Szappan-szék
+Szappan-szÃ©k
 Szappanyos Halom
-Szappanyos Szõlõk
-Szapud-árok
+Szappanyos SzÅ‘lÅ‘k
+Szapud-Ã¡rok
 Szaput-patak
-Szár Alsó
-Szárász
-Szárazberencs
-Száraz-Bõ
-Szárazd
-Szárazdûlõ
-Száraz-ér-csatorna
-Szárazér-csatorna
-Szárazerdõ
-Szárazéri Tanyák
-Szárazéri Tanyasor
-Szárazériugar
-Száraz-ér
-Szárazér
-Száraz Ér
-Szárazér-Porgányi-csatorna
-Szárazér-Porgányi-fõcsatorna
-Száraz-gödör
-Szárazhegyi-dûlõ
-Száraz-hegy
-Szárazhegy
-Szárazhegytelep
-Szárazkék
-Száraz
-Száraz-patak
-Száraz Patak
-Szárazrétek
-Száraz-rét
-Szárazrét
-Szárazrétpuszta
-Száraztag
-Száraztói Völgy
-Száraz-tó-völgy
-Száraz-völgy
-Szárcsás
+SzÃ¡r AlsÃ³
+SzÃ¡rÃ¡sz
+SzÃ¡razberencs
+SzÃ¡raz-BÅ‘
+SzÃ¡razd
+SzÃ¡razdÅ±lÅ‘
+SzÃ¡raz-Ã©r-csatorna
+SzÃ¡razÃ©r-csatorna
+SzÃ¡razerdÅ‘
+SzÃ¡razÃ©ri TanyÃ¡k
+SzÃ¡razÃ©ri Tanyasor
+SzÃ¡razÃ©riugar
+SzÃ¡raz-Ã©r
+SzÃ¡razÃ©r
+SzÃ¡raz Ã‰r
+SzÃ¡razÃ©r-PorgÃ¡nyi-csatorna
+SzÃ¡razÃ©r-PorgÃ¡nyi-fÅ‘csatorna
+SzÃ¡raz-gÃ¶dÃ¶r
+SzÃ¡razhegyi-dÅ±lÅ‘
+SzÃ¡raz-hegy
+SzÃ¡razhegy
+SzÃ¡razhegytelep
+SzÃ¡razkÃ©k
+SzÃ¡raz
+SzÃ¡raz-patak
+SzÃ¡raz Patak
+SzÃ¡razrÃ©tek
+SzÃ¡raz-rÃ©t
+SzÃ¡razrÃ©t
+SzÃ¡razrÃ©tpuszta
+SzÃ¡raztag
+SzÃ¡raztÃ³i VÃ¶lgy
+SzÃ¡raz-tÃ³-vÃ¶lgy
+SzÃ¡raz-vÃ¶lgy
+SzÃ¡rcsÃ¡s
 Szardai Patak
-Szárdóka
-Szárföld
-Szár-hegy-dûlõ
-Szár-hegy
-Szárhegy
-Szárító
-Szárítópuszta
+SzÃ¡rdÃ³ka
+SzÃ¡rfÃ¶ld
+SzÃ¡r-hegy-dÅ±lÅ‘
+SzÃ¡r-hegy
+SzÃ¡rhegy
+SzÃ¡rÃ­tÃ³
+SzÃ¡rÃ­tÃ³puszta
 Szarka-hegy
 Szarkahegy
-Szarka-Kúti-patak
-Szarkakút-patak
-Szarkásdûlõ
-Szarkási Legelõ
-Szarkás
-Szarkáspuszta
-Szarkástópuszta
+Szarka-KÃºti-patak
+SzarkakÃºt-patak
+SzarkÃ¡sdÅ±lÅ‘
+SzarkÃ¡si LegelÅ‘
+SzarkÃ¡s
+SzarkÃ¡spuszta
+SzarkÃ¡stÃ³puszta
 Szarkatanya
-Szarkavár
-Szárliget
-Szár Megálló
-Szár
-Szárnyék
-Szársomlyó
-Szár-Szárliget
+SzarkavÃ¡r
+SzÃ¡rliget
+SzÃ¡r MegÃ¡llÃ³
+SzÃ¡r
+SzÃ¡rnyÃ©k
+SzÃ¡rsomlyÃ³
+SzÃ¡r-SzÃ¡rliget
 Szartos
-Szárújtelep
-Szarv-ágy
-Szarv-ágy-patak
-Szarv-ágy-vízfolyás
-Szarvas-bükk
-Szarvascsárda
+SzÃ¡rÃºjtelep
+Szarv-Ã¡gy
+Szarv-Ã¡gy-patak
+Szarv-Ã¡gy-vÃ­zfolyÃ¡s
+Szarvas-bÃ¼kk
+SzarvascsÃ¡rda
 Szarvasd
-Szarvasdûlõ
+SzarvasdÅ±lÅ‘
 Szarvasgede
-Szarvashegyi Dûlõ
+Szarvashegyi DÅ±lÅ‘
 Szarvas-hegy
 Szarvashegy
 Szarvashely
-Szarvasi-Holt-Körös
+Szarvasi-Holt-KÃ¶rÃ¶s
 Szarvaskendi Major
 Szarvaskend
-Szarvas-kõ
-Szarvaskõ
-Szarvaskútdûlõ
-Szarvaskút
-Szarvaskútpuszta
+Szarvas-kÅ‘
+SzarvaskÅ‘
+SzarvaskÃºtdÅ±lÅ‘
+SzarvaskÃºt
+SzarvaskÃºtpuszta
 Szarvas
 Szarvas-patak
-Szarvaspusztaforduló
+SzarvaspusztafordulÃ³
 Szarvaspuszta
 Szarvastanya
-Szarvas-tó
-Szarvastó
-Szarvasvölgy
-Szászberek
-Szászfa
-Szász-halom
-Szászipuszta
-Szászitelep
-Szászvárbányatelep
-Szászvári Tanyák
-Szászvár
-Szászvölgy
-Szászytelep
-Szatina-kishajmás
+Szarvas-tÃ³
+SzarvastÃ³
+SzarvasvÃ¶lgy
+SzÃ¡szberek
+SzÃ¡szfa
+SzÃ¡sz-halom
+SzÃ¡szipuszta
+SzÃ¡szitelep
+SzÃ¡szvÃ¡rbÃ¡nyatelep
+SzÃ¡szvÃ¡ri TanyÃ¡k
+SzÃ¡szvÃ¡r
+SzÃ¡szvÃ¶lgy
+SzÃ¡szytelep
+Szatina-kishajmÃ¡s
 Szatina
-Szatmárcseke
-Szatmári-Erdõhát
-Szatmáritag
-Szatmáritanya
-Szatmári-Tiszahát
-Szatmáriúti Tanyák
-Szatmárököritó
-Szátok
+SzatmÃ¡rcseke
+SzatmÃ¡ri-ErdÅ‘hÃ¡t
+SzatmÃ¡ritag
+SzatmÃ¡ritanya
+SzatmÃ¡ri-TiszahÃ¡t
+SzatmÃ¡riÃºti TanyÃ¡k
+SzatmÃ¡rÃ¶kÃ¶ritÃ³
+SzÃ¡tok
 Szattai-hegy
 Szatta
 Szatymazi Halom
 Szatymaz
 Szauerweintanya
-Szávaerdõ
+SzÃ¡vaerdÅ‘
 Szava-hegy
 Szavai Hegy
 Szava
-Szávica
-Százhalombatta
-Százhalom
-Százhold
+SzÃ¡vica
+SzÃ¡zhalombatta
+SzÃ¡zhalom
+SzÃ¡zhold
 Szazhold-parlag
-Százkút
-Százkúttanya
-Százölkútipuszta
-Százölpuszta
-Százvég
-Szebegyinszkidûlõ
+SzÃ¡zkÃºt
+SzÃ¡zkÃºttanya
+SzÃ¡zÃ¶lkÃºtipuszta
+SzÃ¡zÃ¶lpuszta
+SzÃ¡zvÃ©g
+SzebegyinszkidÅ±lÅ‘
 Szebenye
-Szebény
-Széchenyi-hegy
-Széchenyi Hill
-Széchenyikert
-Széchenyilepled
-Széchenyiliget
-Széchenyitelep
-Széchény
-Szécsénke
-Szécsényfelfalu
-Szécsényhalászi
-Szécsény
-Szécsi-halom
-Szécsisziget
-Szécsitanya
-Szecsõ
-Szederjesér
+SzebÃ©ny
+SzÃ©chenyi-hegy
+SzÃ©chenyi Hill
+SzÃ©chenyikert
+SzÃ©chenyilepled
+SzÃ©chenyiliget
+SzÃ©chenyitelep
+SzÃ©chÃ©ny
+SzÃ©csÃ©nke
+SzÃ©csÃ©nyfelfalu
+SzÃ©csÃ©nyhalÃ¡szi
+SzÃ©csÃ©ny
+SzÃ©csi-halom
+SzÃ©csisziget
+SzÃ©csitanya
+SzecsÅ‘
+SzederjesÃ©r
 Szederjesihegy
 Szederjes
 Szederjespuszta
 Szederjestanya
-Szederjés Tetõ
-Szederkény
-Szederkénypuszta
+SzederjÃ©s TetÅ‘
+SzederkÃ©ny
+SzederkÃ©nypuszta
 Szedertanya
-Szedres-dûlõ
+Szedres-dÅ±lÅ‘
 Szedres-halom
 Szedresi Telep
 Szedres
 Szedrespuszta
 Szedria
-Szegediföld
+SzegedifÃ¶ld
 Szegedin
 Szegeditanya
-Szeged Megyei Város
+Szeged Megyei VÃ¡ros
 Szeged
-Szeged-Rókus
-Szegénytanya
-Szegerdõ
-Szegerdõtelep
+Szeged-RÃ³kus
+SzegÃ©nytanya
+SzegerdÅ‘
+SzegerdÅ‘telep
 Szegfalusihegy
-Szegfûdûlõ
+SzegfÅ±dÅ±lÅ‘
 Szeghalom
-Szeg-határ
+Szeg-hatÃ¡r
 Szeg-hegy
 Szegilong
 Szegi
 Szegi Tanya
 Szeglepuszta
-Szegõkertészet
-Szegvár
-Szeikõ
+SzegÅ‘kertÃ©szet
+SzegvÃ¡r
+SzeikÅ‘
 Szeitztanya
-Székácsföldek
-Székács-major
-Székácstanya
-Székdûlõ
-Székek
-Székekpuszta
-Székelyitag
-Székely
-Székelyszabar
-Székelyszõllõtelep
-Székelytanya
-Székelytelep
-Szekercés-szék
+SzÃ©kÃ¡csfÃ¶ldek
+SzÃ©kÃ¡cs-major
+SzÃ©kÃ¡cstanya
+SzÃ©kdÅ±lÅ‘
+SzÃ©kek
+SzÃ©kekpuszta
+SzÃ©kelyitag
+SzÃ©kely
+SzÃ©kelyszabar
+SzÃ©kelyszÅ‘llÅ‘telep
+SzÃ©kelytanya
+SzÃ©kelytelep
+SzekercÃ©s-szÃ©k
 Szekerek
 Szekerekpuszta
 Szekeresbokor
-Szekeresbükki Banya-telep
-Szekeresbükk
-Szekeresszeri Dûlõ
+SzekeresbÃ¼kki Banya-telep
+SzekeresbÃ¼kk
+Szekeresszeri DÅ±lÅ‘
 Szekeres-tag
 Szekerestanya
-Szekeres-tó
-Székes-dûlõ
-Székesdûlõ
-Székesfehérvár Megyei Város
-Székesfehérvár
-Székesfehérvár Repülõtér VasútiMegállóhely
-Székesitanya
-Székes
-Székes Tó
-Szék-folyás-dûlõ
-Szekfûmajor
-Szekfû-malom
-Szék-halmi-dûlõ
-Székhalomdûlõ
-Szék-halom
-Székhalom
-Szék-hát
-Székhát-tetõ
-Székipuszta
-Székkutas
-Széklápa
-Szék
-Székpart
-Székpuszta
-Szekrényes
-Szekrény-hegy
+Szekeres-tÃ³
+SzÃ©kes-dÅ±lÅ‘
+SzÃ©kesdÅ±lÅ‘
+SzÃ©kesfehÃ©rvÃ¡r Megyei VÃ¡ros
+SzÃ©kesfehÃ©rvÃ¡r
+SzÃ©kesfehÃ©rvÃ¡r RepÃ¼lÅ‘tÃ©r VasÃºtiMegÃ¡llÃ³hely
+SzÃ©kesitanya
+SzÃ©kes
+SzÃ©kes TÃ³
+SzÃ©k-folyÃ¡s-dÅ±lÅ‘
+SzekfÅ±major
+SzekfÅ±-malom
+SzÃ©k-halmi-dÅ±lÅ‘
+SzÃ©khalomdÅ±lÅ‘
+SzÃ©k-halom
+SzÃ©khalom
+SzÃ©k-hÃ¡t
+SzÃ©khÃ¡t-tetÅ‘
+SzÃ©kipuszta
+SzÃ©kkutas
+SzÃ©klÃ¡pa
+SzÃ©k
+SzÃ©kpart
+SzÃ©kpuszta
+SzekrÃ©nyes
+SzekrÃ©ny-hegy
 Szekrenykepuszta
-Szekrényvölgy
-Széksós-tavi-csatorna
-Széksóstói-fõcsatorna
-Szekszárd-Bátai-fõcsatorna
-Szekszárd-Bátai-rög
-Szekszárdi-dombság
-Szekszárdi Hegy
-Szekszárd
-Szekszárd-Palánk
-Széktói Hegy
-Szék-tó
-Széktó
-Székvölgypuszta
+SzekrÃ©nyvÃ¶lgy
+SzÃ©ksÃ³s-tavi-csatorna
+SzÃ©ksÃ³stÃ³i-fÅ‘csatorna
+SzekszÃ¡rd-BÃ¡tai-fÅ‘csatorna
+SzekszÃ¡rd-BÃ¡tai-rÃ¶g
+SzekszÃ¡rdi-dombsÃ¡g
+SzekszÃ¡rdi Hegy
+SzekszÃ¡rd
+SzekszÃ¡rd-PalÃ¡nk
+SzÃ©ktÃ³i Hegy
+SzÃ©k-tÃ³
+SzÃ©ktÃ³
+SzÃ©kvÃ¶lgypuszta
 Szelcepuszta
 Szeleczkymajor
-Szeleczkyrész
-Szeleiúti Tanyák
-Szelencés
-Szelényitanya
+SzeleczkyrÃ©sz
+SzeleiÃºti TanyÃ¡k
+SzelencÃ©s
+SzelÃ©nyitanya
 Szelep
 Szeleptanya
-Szelérd
+SzelÃ©rd
 Szelesbokor
-Szélescsapás
-Szelescsárda
+SzÃ©lescsapÃ¡s
+SzelescsÃ¡rda
 Szeles Domb
-Szelesdûlõ
-Szélesdûlõ
-Szeles-hát
-Szeleshát
-Széles Hegy
-Széles Kõ
-Széleskútdûlõ
-Széleskútidûlõ
-Széles Lyuk-hegy
-Szélesmajor
+SzelesdÅ±lÅ‘
+SzÃ©lesdÅ±lÅ‘
+Szeles-hÃ¡t
+SzeleshÃ¡t
+SzÃ©les Hegy
+SzÃ©les KÅ‘
+SzÃ©leskÃºtdÅ±lÅ‘
+SzÃ©leskÃºtidÅ±lÅ‘
+SzÃ©les Lyuk-hegy
+SzÃ©lesmajor
 Szeles
 Szelestanya
-Szélestanya
+SzÃ©lestanya
 Szeleste
-Széles Tó
-Szélestótanya
-Szelesürbõ
-Széles Víz
-Szélesvölgy
-Szelevény
-Szélföld
-Szélgyep
-Szélgyöpmajor
-Szélgyöp
-Szelidi-tó
-Szeliditópart
+SzÃ©les TÃ³
+SzÃ©lestÃ³tanya
+SzelesÃ¼rbÅ‘
+SzÃ©les VÃ­z
+SzÃ©lesvÃ¶lgy
+SzelevÃ©ny
+SzÃ©lfÃ¶ld
+SzÃ©lgyep
+SzÃ©lgyÃ¶pmajor
+SzÃ©lgyÃ¶p
+Szelidi-tÃ³
+SzeliditÃ³part
 Szelid
 Szelidpuszta
-Szellõ-hát
-Szellõhát
-Szellõ
-Szél-lyuk
-Széllyuktanya
-Szélmezõpuszta
-Szélrész
-Szél-rét Alja
-Szélrét
-Szélsõbokor
-Szélsõ-halom
-Szélsõpogányvár
-Szél-víz
-Szélylyuk-tanya
+SzellÅ‘-hÃ¡t
+SzellÅ‘hÃ¡t
+SzellÅ‘
+SzÃ©l-lyuk
+SzÃ©llyuktanya
+SzÃ©lmezÅ‘puszta
+SzÃ©lrÃ©sz
+SzÃ©l-rÃ©t Alja
+SzÃ©lrÃ©t
+SzÃ©lsÅ‘bokor
+SzÃ©lsÅ‘-halom
+SzÃ©lsÅ‘pogÃ¡nyvÃ¡r
+SzÃ©l-vÃ­z
+SzÃ©lylyuk-tanya
 Szemcse
 Szemcsepuszta
 Szemely
-Szemenyecsörnye
+SzemenyecsÃ¶rnye
 Szemenyei Hegy
 Szemenye
 Szemere
-Szemereszõllõ
+SzemereszÅ‘llÅ‘
 Szemeretanya
 Szemeretelep
 Szemeri-tag
 Szemeritanya
-Szemöldhalom
-Szemõt-halom
-Szemszúródûlõ
-Szemszúró
-Széna Fõ
-Széna-háti-dûlõ
-Szénahát
-Széna-hegy
-Szénás-hegy
-Szénáskert
-Szénás
-Szénáspuszta
-Szénástelek
-Szénásvölgy
-Szénásvölgypuszta
-Szénavölgy
+SzemÃ¶ldhalom
+SzemÅ‘t-halom
+SzemszÃºrÃ³dÅ±lÅ‘
+SzemszÃºrÃ³
+SzÃ©na FÅ‘
+SzÃ©na-hÃ¡ti-dÅ±lÅ‘
+SzÃ©nahÃ¡t
+SzÃ©na-hegy
+SzÃ©nÃ¡s-hegy
+SzÃ©nÃ¡skert
+SzÃ©nÃ¡s
+SzÃ©nÃ¡spuszta
+SzÃ©nÃ¡stelek
+SzÃ©nÃ¡svÃ¶lgy
+SzÃ©nÃ¡svÃ¶lgypuszta
+SzÃ©navÃ¶lgy
 Szendehely
 Szendetanya
-Szendi-ér
-Szendi Határ-hegy
+Szendi-Ã©r
+Szendi HatÃ¡r-hegy
 Szendi-hegy
 Szendihegy
 Szenditanya
@@ -20110,93 +20110,93 @@ Szend
 Szendpuszta
 Szendreimajor
 Szendreymajor
-Szendrõ Felsõ
-Szendrõlád
-Szendrõ
-Szénégetõ-hegy
-Szénégetõ
-Szénégetõ-patak
-Szénégetõpuszta
-Szénégetõ-tanya
+SzendrÅ‘ FelsÅ‘
+SzendrÅ‘lÃ¡d
+SzendrÅ‘
+SzÃ©nÃ©getÅ‘-hegy
+SzÃ©nÃ©getÅ‘
+SzÃ©nÃ©getÅ‘-patak
+SzÃ©nÃ©getÅ‘puszta
+SzÃ©nÃ©getÅ‘-tanya
 Szenespuszta
 Szenettatanya
-Szén Hegy
-Szenke-fõcsatorna
+SzÃ©n Hegy
+Szenke-fÅ‘csatorna
 Szenke-patak
-Szennafõ
-Szenna-híd
-Szennai Szõllõhegy
-Szennai Szõlõhegy
+SzennafÅ‘
+Szenna-hÃ­d
+Szennai SzÅ‘llÅ‘hegy
+Szennai SzÅ‘lÅ‘hegy
 Szenna
-Szennyes-árok
+Szennyes-Ã¡rok
 Szennyespuszta
-Szennyvíz-árok
-Szén-patak
-Szentadorján
-Szent Andrási Puszta
-Szentandrás
-Szentandráspuszta
+SzennyvÃ­z-Ã¡rok
+SzÃ©n-patak
+SzentadorjÃ¡n
+Szent AndrÃ¡si Puszta
+SzentandrÃ¡s
+SzentandrÃ¡spuszta
 Szentannapuszta
 Szenta
 Szentantalfa
 Szentantalhegy
-Szentaújmajor
-Szentbalázs
-Szentbékkála
-Szentbékkálla
+SzentaÃºjmajor
+SzentbalÃ¡zs
+SzentbÃ©kkÃ¡la
+SzentbÃ©kkÃ¡lla
 Szentbenedek
-Szentborbás
+SzentborbÃ¡s
 Szentdemeter-puszta
-Szentdénes
+SzentdÃ©nes
 Szentdienes
-Szentdomján Külsõpuszta
-Szentdomján
-Szentdomjánpuszta
+SzentdomjÃ¡n KÃ¼lsÅ‘puszta
+SzentdomjÃ¡n
+SzentdomjÃ¡npuszta
 Szentdomonkos
-Szentegát
+SzentegÃ¡t
 Szentegyedpuszta
-Széntelep
-Szentendrei Dunaág
+SzÃ©ntelep
+Szentendrei DunaÃ¡g
 Szentendrei-Duna
 Szentendrei-sziget
 Szentendre
 Szent Endre szigete
 Szent Endre-sziget
-Szentendre-Visegrádi-hegység
+Szentendre-VisegrÃ¡di-hegysÃ©g
 Szente
-Szenterzsébethegy
+SzenterzsÃ©bethegy
 Szentes
 Szentespuszta
 Szentetornya
-Szent Gáli Hegy
-Szentgáli Tanyák
-Szentgál
-Szentgáloskér
-Szentgálpuszta
-Szent Gellért-Hegy
-Szentgotthárd
-Szent György-csatorna
-Szentgyörgy-hegy
-Szentgyörgyhegy
-Szent György-hegy
-Szentgyörgyi-ér
-Szentgyörgyitanya
-Szentgyörgy
-Szent György
-Szent György-patak
-Szentgyörgypuszta
-Szentgyörgytelep
-Szentgyörgyvárihegy
-Szentgyörgyvári Hegy
-Szentgyörgyvár
-Szentgyörgyvölgy
-Szentháromságpuszta
-Szentilonadûlõ
-Szentimre Alsópuszta
-Szentimrebócsa
+Szent GÃ¡li Hegy
+SzentgÃ¡li TanyÃ¡k
+SzentgÃ¡l
+SzentgÃ¡loskÃ©r
+SzentgÃ¡lpuszta
+Szent GellÃ©rt-Hegy
+SzentgotthÃ¡rd
+Szent GyÃ¶rgy-csatorna
+SzentgyÃ¶rgy-hegy
+SzentgyÃ¶rgyhegy
+Szent GyÃ¶rgy-hegy
+SzentgyÃ¶rgyi-Ã©r
+SzentgyÃ¶rgyitanya
+SzentgyÃ¶rgy
+Szent GyÃ¶rgy
+Szent GyÃ¶rgy-patak
+SzentgyÃ¶rgypuszta
+SzentgyÃ¶rgytelep
+SzentgyÃ¶rgyvÃ¡rihegy
+SzentgyÃ¶rgyvÃ¡ri Hegy
+SzentgyÃ¶rgyvÃ¡r
+SzentgyÃ¶rgyvÃ¶lgy
+SzenthÃ¡romsÃ¡gpuszta
+SzentilonadÅ±lÅ‘
+Szentimre AlsÃ³puszta
+SzentimrebÃ³csa
 Szentimrefalva
-Szentimre Felsõpuszta
-Szentimre Hegyközség
+Szentimre FelsÅ‘puszta
+Szentimre HegykÃ¶zsÃ©g
 Szent Imre Hegy
 Szentimremajor
 Szentimre
@@ -20205,124 +20205,124 @@ Szentimretanya
 Szentimretelep
 Szentimrey Tanya
 Szentirmai-puszta
-Szentistvánakna
-Szentistvánbaksa
-Szentistvánhegy
-Szent István-hegy
-Szentistvánlak
-Szentistvánmajor
-Szentistván
-Szentistvánpuszta
-Szentivánfa
-Szentivánhalom
-Szentivánpuszta
-Szentiványi-ér
-Szentiványimajor
-Szentiványi Puszta
+SzentistvÃ¡nakna
+SzentistvÃ¡nbaksa
+SzentistvÃ¡nhegy
+Szent IstvÃ¡n-hegy
+SzentistvÃ¡nlak
+SzentistvÃ¡nmajor
+SzentistvÃ¡n
+SzentistvÃ¡npuszta
+SzentivÃ¡nfa
+SzentivÃ¡nhalom
+SzentivÃ¡npuszta
+SzentivÃ¡nyi-Ã©r
+SzentivÃ¡nyimajor
+SzentivÃ¡nyi Puszta
 Szentjakabfa
 Szentjakabi-patak
 Szentjakab
 Szentjakabpuszta
-Szentjánosdûlõ
-Szentjánoshegy
-Szent János-hegy
-Szentjánoskúti Dûlõ
-Szentjánosmalom
-Szent-János-malom-telep
-Szent-János
-Szentjánospuszta
-Szentjózsefpuszta
+SzentjÃ¡nosdÅ±lÅ‘
+SzentjÃ¡noshegy
+Szent JÃ¡nos-hegy
+SzentjÃ¡noskÃºti DÅ±lÅ‘
+SzentjÃ¡nosmalom
+Szent-JÃ¡nos-malom-telep
+Szent-JÃ¡nos
+SzentjÃ¡nospuszta
+SzentjÃ³zsefpuszta
 Szentkatalin
 Szentkata
-Szentkereszt-bérc
+Szentkereszt-bÃ©rc
 Szentkereszthegypuszta
 Szentkeresztmajor
 Szentkeresztpuszta
-Szentkirály-dûlõ
-Szentkirályi-dûlõ
-Szentkirályi-Duna-dûlõ
-Szentkirályitanya
-Szentkirálymalom
-Szentkirály
-Szentkirályszabadja
+SzentkirÃ¡ly-dÅ±lÅ‘
+SzentkirÃ¡lyi-dÅ±lÅ‘
+SzentkirÃ¡lyi-Duna-dÅ±lÅ‘
+SzentkirÃ¡lyitanya
+SzentkirÃ¡lymalom
+SzentkirÃ¡ly
+SzentkirÃ¡lyszabadja
 Szentkozmadombja
 Szentkozma
-Szentkútimajor
-Szentkútipuszta
-Szentkút
-Szentkútpuszta
-Szentlászlóhegy
-Szent László-hegy
-Szentlászlói-tó
-Szentlászlómonostora
-Szentlászló
-Szent László-patak
-Szentlászlópuszta
-Szentlászlótelke
-Szent László Vize
-Szent László-vízfolyás
-Szent László-víz
-Szentlélek
-Szentlélek-patak
-Szentlélekpuszta
-Szentléránt
-Szentliszló
-Szentlõrinckáta
-Szentlõrinc
-Szentlõrinc-puszta
+SzentkÃºtimajor
+SzentkÃºtipuszta
+SzentkÃºt
+SzentkÃºtpuszta
+SzentlÃ¡szlÃ³hegy
+Szent LÃ¡szlÃ³-hegy
+SzentlÃ¡szlÃ³i-tÃ³
+SzentlÃ¡szlÃ³monostora
+SzentlÃ¡szlÃ³
+Szent LÃ¡szlÃ³-patak
+SzentlÃ¡szlÃ³puszta
+SzentlÃ¡szlÃ³telke
+Szent LÃ¡szlÃ³ Vize
+Szent LÃ¡szlÃ³-vÃ­zfolyÃ¡s
+Szent LÃ¡szlÃ³-vÃ­z
+SzentlÃ©lek
+SzentlÃ©lek-patak
+SzentlÃ©lekpuszta
+SzentlÃ©rÃ¡nt
+SzentliszlÃ³
+SzentlÅ‘rinckÃ¡ta
+SzentlÅ‘rinc
+SzentlÅ‘rinc-puszta
 Szentlukapuszta
 Szentmargita-puszta
 Szentmargitfalva
 Szentmargittapuszta
 Szentmargittelep
-Szentmártoni Hegy
-Szentmártoni-patak
-Szentmártonkáta
-Szentmártonmajor
-Szentmárton-puszta
-Szentmártonpuszta
-Szentmárton Újpuszta
-Szentmihálydûlõ
-Szentmihályfai-patak
-Szentmihályfapuszta
-Szentmihályhegy
-Szent Mihály-hegy
-Szentmihálymalom
-Szentmihály
-Szent Mihály
-Szentmihálypuszta
-Szentmihálytanya
-Szentmihálytelek
-Szentmihály-telep
-Szent Miklósi Hegy
-Szentmiklóspuszta
-Szentmiklóssytanya
-Szentmiklószug
-Szentódorfa
-Szentpálhegyi Tanya
-Szent Pál-hegy
-Szentpál
-Szentpálpuszta
-Szentpéterfa
-Szentpéterfölde
-Szent Péter-halom
-Szent Péteri
-Szentpéteri Tó
-Szent Péter
-Szent-péter-puszta
-Szentpéterszeg
-Szentpéterúr
+SzentmÃ¡rtoni Hegy
+SzentmÃ¡rtoni-patak
+SzentmÃ¡rtonkÃ¡ta
+SzentmÃ¡rtonmajor
+SzentmÃ¡rton-puszta
+SzentmÃ¡rtonpuszta
+SzentmÃ¡rton Ãšjpuszta
+SzentmihÃ¡lydÅ±lÅ‘
+SzentmihÃ¡lyfai-patak
+SzentmihÃ¡lyfapuszta
+SzentmihÃ¡lyhegy
+Szent MihÃ¡ly-hegy
+SzentmihÃ¡lymalom
+SzentmihÃ¡ly
+Szent MihÃ¡ly
+SzentmihÃ¡lypuszta
+SzentmihÃ¡lytanya
+SzentmihÃ¡lytelek
+SzentmihÃ¡ly-telep
+Szent MiklÃ³si Hegy
+SzentmiklÃ³spuszta
+SzentmiklÃ³ssytanya
+SzentmiklÃ³szug
+SzentÃ³dorfa
+SzentpÃ¡lhegyi Tanya
+Szent PÃ¡l-hegy
+SzentpÃ¡l
+SzentpÃ¡lpuszta
+SzentpÃ©terfa
+SzentpÃ©terfÃ¶lde
+Szent PÃ©ter-halom
+Szent PÃ©teri
+SzentpÃ©teri TÃ³
+Szent PÃ©ter
+Szent-pÃ©ter-puszta
+SzentpÃ©terszeg
+SzentpÃ©terÃºr
 Szentsimon
-Szentszög-hegy
-Szent-szög
-Szent Tamás-hegy
-Szenttamás
-Szent Tamás
-Szenttamáspuszta
-Szentterézmajor
-Szenyér
-Szeötstanya
-Szépalmapuszta
+SzentszÃ¶g-hegy
+Szent-szÃ¶g
+Szent TamÃ¡s-hegy
+SzenttamÃ¡s
+Szent TamÃ¡s
+SzenttamÃ¡spuszta
+SzentterÃ©zmajor
+SzenyÃ©r
+SzeÃ¶tstanya
+SzÃ©palmapuszta
 Szepeshalom
 Szepesitanya
 Szepes
@@ -20330,118 +20330,118 @@ Szepessytanya
 Szepetk
 Szepetkpuszta
 Szepetnek
-Szepezdfürdõ
-Szép-fa
-Szépfapuszta
-Széphalom
-Szép-hegy
-Széplábi Major
-Széplábitanya
-Széplak
-Széplak-patak
-Széplány-bérc
-Szépmagas
-Szép-mezõ-bérc
-Széppataki-puszta
-Szép-patak
-Széppatak
-Széppatakpuszta
-Széptölgyes
-Szépvölgyimajor
-Szépvölgymajor
-Szépvölgy
-Szerdahelyidûlõ
+SzepezdfÃ¼rdÅ‘
+SzÃ©p-fa
+SzÃ©pfapuszta
+SzÃ©phalom
+SzÃ©p-hegy
+SzÃ©plÃ¡bi Major
+SzÃ©plÃ¡bitanya
+SzÃ©plak
+SzÃ©plak-patak
+SzÃ©plÃ¡ny-bÃ©rc
+SzÃ©pmagas
+SzÃ©p-mezÅ‘-bÃ©rc
+SzÃ©ppataki-puszta
+SzÃ©p-patak
+SzÃ©ppatak
+SzÃ©ppatakpuszta
+SzÃ©ptÃ¶lgyes
+SzÃ©pvÃ¶lgyimajor
+SzÃ©pvÃ¶lgymajor
+SzÃ©pvÃ¶lgy
+SzerdahelyidÅ±lÅ‘
 Szerdahelyi-patak
 Szerdahelyitanya
 Szerdahely
 Szerdahely-patak
-Szerecseni Újtelep
+Szerecseni Ãšjtelep
 Szerecseny
 Szeredihegy
-Szeredvény
-Szeredvénytanya
-Szeregyháza
-Szerelemdûlõ
+SzeredvÃ©ny
+SzeredvÃ©nytanya
+SzeregyhÃ¡za
+SzerelemdÅ±lÅ‘
 Szerelemtag
-Szeremlei Dunaág
+Szeremlei DunaÃ¡g
 Szeremlei-Duna
 Szeremle
-Szerencsi-dombság
+Szerencsi-dombsÃ¡g
 Szerencsi-patak
 Szerencs
 Szerencs-patak
 Szerep
-Szergény
-Szerkõ-tetõ
-Szérük
-Szeszgyárdûlõ
-Szeszgyármajor
-Szeszgyár
-Szeszgyártanya
-Szeszgyártelep
+SzergÃ©ny
+SzerkÅ‘-tetÅ‘
+SzÃ©rÃ¼k
+SzeszgyÃ¡rdÅ±lÅ‘
+SzeszgyÃ¡rmajor
+SzeszgyÃ¡r
+SzeszgyÃ¡rtanya
+SzeszgyÃ¡rtelep
 Szesztaitanya
 Szesztaytanya
 Szeteharaszt
 Szeteharaszt-puszta
-Szévíz
-Sziágypuszta
-Szidó
+SzÃ©vÃ­z
+SziÃ¡gypuszta
+SzidÃ³
 Sziebertpuszta
 Sziegltanya
 Szigentmiklos
 Szigetbecse
-Szigetcsépi Tanyák
-Szigetcsép
-Szigetdûlõi Tanyák
-Sziget-dûlõ
-Szigetdûlõ
+SzigetcsÃ©pi TanyÃ¡k
+SzigetcsÃ©p
+SzigetdÅ±lÅ‘i TanyÃ¡k
+Sziget-dÅ±lÅ‘
+SzigetdÅ±lÅ‘
 Szigethalom
 Szigethegy
-Szigetidûlõ
+SzigetidÅ±lÅ‘
 Szigeti-patak
-Szigetitanyák
+SzigetitanyÃ¡k
 Szigetitanya
-Szigetkös
-Szigetköz
+SzigetkÃ¶s
+SzigetkÃ¶z
 Szigetmajor
 Szigetmonostor
 Sziget
-Szigetõri Malom
+SzigetÅ‘ri Malom
 Szigetor
-Szigetõr
-Szigetorri-dûlõ
+SzigetÅ‘r
+Szigetorri-dÅ±lÅ‘
 Szigetorr
 Sziget-puszta
 Szigetpuszta
 Szigetsentmiklos
-Szigetszász
-Szigetszentmárton
-Szigetszentmárton-Szigetújfalu
-Szigetszentmiklós Gyártelep
-Szigetszentmiklós
+SzigetszÃ¡sz
+SzigetszentmÃ¡rton
+SzigetszentmÃ¡rton-SzigetÃºjfalu
+SzigetszentmiklÃ³s GyÃ¡rtelep
+SzigetszentmiklÃ³s
 Szigetszer
-Szigetszõllõstelep
+SzigetszÅ‘llÅ‘stelep
 Sziget-tanya
 Szigettanya
-Szigetújfalu
-Szigetvár
-Szigetvárosalja
+SzigetÃºjfalu
+SzigetvÃ¡r
+SzigetvÃ¡rosalja
 Szigliget
-Szihágy
+SzihÃ¡gy
 Szihalom
-Szijártóháza
-Szikáncs
-Szikegy-ér
+SzijÃ¡rtÃ³hÃ¡za
+SzikÃ¡ncs
+Szikegy-Ã©r
 Szikelet
-Szik-ér-hát
-Szikérháttanya
-Szikes-dûlõ
-Szikhát
-Szikháttanya
+Szik-Ã©r-hÃ¡t
+SzikÃ©rhÃ¡ttanya
+Szikes-dÅ±lÅ‘
+SzikhÃ¡t
+SzikhÃ¡ttanya
 Szikigyakor
 Szik-kert
 Sziklafal
-Sziklaforrás
+SziklaforrÃ¡s
 Sziklaitanya
 Szik
 Szikoratanya
@@ -20449,59 +20449,59 @@ Szikramajor
 Szikra
 Szikratanya
 Szikre
-Szikszaidûlõ
+SzikszaidÅ±lÅ‘
 Szikszaitanya
 Szikszaytanya
-Szikszó
-Szikszótanya
-Szikszó-Vásártér
+SzikszÃ³
+SzikszÃ³tanya
+SzikszÃ³-VÃ¡sÃ¡rtÃ©r
 Sziladmajor
 Szilad
-Szilágy-hegy
-Szilágyi Kis-tanya
-Szilágyimajor
-Szilágyi-patak
-Szilágyiszõllõ
-Szilágyi-tag
-Szilágyitanyák
+SzilÃ¡gy-hegy
+SzilÃ¡gyi Kis-tanya
+SzilÃ¡gyimajor
+SzilÃ¡gyi-patak
+SzilÃ¡gyiszÅ‘llÅ‘
+SzilÃ¡gyi-tag
+SzilÃ¡gyitanyÃ¡k
 Szilagyi-tanya
-Szilágyitanya
-Szilágyitelep
-Szilágykispuszta
-Szilágy
+SzilÃ¡gyitanya
+SzilÃ¡gyitelep
+SzilÃ¡gykispuszta
+SzilÃ¡gy
 Szilaj Halom
-Szilajszópuszta
+SzilajszÃ³puszta
 Szilajtanya
 Szilaljai Tanya
 Szil Alja
 Szilaljatanya
 Szilapos
 Szilapos-puszta
-Szilas-Balhás
-Szilasdûlõ
-Szilas-fõ
-Szilashát
-Szilasidûlõ
+Szilas-BalhÃ¡s
+SzilasdÅ±lÅ‘
+Szilas-fÅ‘
+SzilashÃ¡t
+SzilasidÅ±lÅ‘
 Szilas
 Szilas-patak
 Szilaspogony
 Szilaspuszta
-Szilassytanyák
+SzilassytanyÃ¡k
 Szilastanya
-Szilas-tetõ
-Szil-aszó
-Szilerdõ-dûlõ
-Szilerdõ
-Szilfa-dûlõ
-Szilfadûlõ
-Szilfalaposdûlõ
+Szilas-tetÅ‘
+Szil-aszÃ³
+SzilerdÅ‘-dÅ±lÅ‘
+SzilerdÅ‘
+Szilfa-dÅ±lÅ‘
+SzilfadÅ±lÅ‘
+SzilfalaposdÅ±lÅ‘
 Szilfamajor
 Szilfa
-Szilfás
-Szilfástanya
+SzilfÃ¡s
+SzilfÃ¡stanya
 Szilfatanya
-Szil-hát
-Szilháttelep
+Szil-hÃ¡t
+SzilhÃ¡ttelep
 Szilipuszta
 Szilitanya
 Szil
@@ -20510,39 +20510,39 @@ Szilosalja
 Szilos
 Szilospuszta
 Szilostanya
-Szilos-tetõ
+Szilos-tetÅ‘
 Szilota
 Szilpuszta
-Szilsárkány
-Szil-Sopronnémeti
+SzilsÃ¡rkÃ¡ny
+Szil-SopronnÃ©meti
 Sziluskapuszta
-Szilvácsku
-Szilvácskúttanya
-Szilvágy
-Szilvásdûlõ
-Szilvásfürdõ
-Szilvásgödörpuszta
-Szilvásgödörtanya
-Szilvási-dûlõ
-Szilvási-tanya
-Szilvásitanya
-Szilvás-kõ
-Szilváskõpuszta
-Szilvás
-Szilvás-patak
-Szilvás Patak
-Szilváspuszta
-Szilvássitanya
-Szilvássytanya
-Szilvásszentmárton
-Szilvástanya
-Szilvásvárad
-Szilvásvárad-Szalajkavölgy
-Szilvásvölgy
+SzilvÃ¡csku
+SzilvÃ¡cskÃºttanya
+SzilvÃ¡gy
+SzilvÃ¡sdÅ±lÅ‘
+SzilvÃ¡sfÃ¼rdÅ‘
+SzilvÃ¡sgÃ¶dÃ¶rpuszta
+SzilvÃ¡sgÃ¶dÃ¶rtanya
+SzilvÃ¡si-dÅ±lÅ‘
+SzilvÃ¡si-tanya
+SzilvÃ¡sitanya
+SzilvÃ¡s-kÅ‘
+SzilvÃ¡skÅ‘puszta
+SzilvÃ¡s
+SzilvÃ¡s-patak
+SzilvÃ¡s Patak
+SzilvÃ¡spuszta
+SzilvÃ¡ssitanya
+SzilvÃ¡ssytanya
+SzilvÃ¡sszentmÃ¡rton
+SzilvÃ¡stanya
+SzilvÃ¡svÃ¡rad
+SzilvÃ¡svÃ¡rad-SzalajkavÃ¶lgy
+SzilvÃ¡svÃ¶lgy
 Szilvesztermajor
 Szima-halom
 Szinai Hegy
-Színai-hegy
+SzÃ­nai-hegy
 Szincsehalom
 Szincsetanya
 Szinesemajor
@@ -20555,810 +20555,810 @@ Szionda-halom
 Szionda II.
 Szionda I.
 Szionda
-Szipaárok
+SzipaÃ¡rok
 Szipa-csatorna
-Szipa-fõcsatorna
+Szipa-fÅ‘csatorna
 Szipa
 Szipazsilip
-Szippankó
-Sziráczkiföldek
-Sziráczkymajor
-Szirák
-Szirákópuszta
-Szirmabesenyõ
+SzippankÃ³
+SzirÃ¡czkifÃ¶ldek
+SzirÃ¡czkymajor
+SzirÃ¡k
+SzirÃ¡kÃ³puszta
+SzirmabesenyÅ‘
 Szirmaitanya
 Szirma
 Szirond
-Szirtes-tetõ
-Szirtó
-Szirtos Szék
-Szitányi Béla-puszta
-Szitányi Vilmos-puszta
-Szitásmalom
-Szitás
-Szithatanyák
-Szító
-Szittyóürbõ
-Szivác
+Szirtes-tetÅ‘
+SzirtÃ³
+Szirtos SzÃ©k
+SzitÃ¡nyi BÃ©la-puszta
+SzitÃ¡nyi Vilmos-puszta
+SzitÃ¡smalom
+SzitÃ¡s
+SzithatanyÃ¡k
+SzÃ­tÃ³
+SzittyÃ³Ã¼rbÅ‘
+SzivÃ¡c
 Szivadalpuszta
-Sziváktanya
-Szivárványos Hegy
+SzivÃ¡ktanya
+SzivÃ¡rvÃ¡nyos Hegy
 Szivastanya
-Szivattyu Kék
-Szivattyü
-Szivattyútelep
-Szívhegy
-Szívíz
-Szívós-szék
-Szivóstanya
-Szívóstanya
-Szkenderjárás
+Szivattyu KÃ©k
+SzivattyÃ¼
+SzivattyÃºtelep
+SzÃ­vhegy
+SzÃ­vÃ­z
+SzÃ­vÃ³s-szÃ©k
+SzivÃ³stanya
+SzÃ­vÃ³stanya
+SzkenderjÃ¡rÃ¡s
 Szkender
-Szkokódûlõ
-Szkókó
-Szkolkadûlõ
-Szlányidûlõ
-Szlányi
-Szlány-rét
+SzkokÃ³dÅ±lÅ‘
+SzkÃ³kÃ³
+SzkolkadÅ±lÅ‘
+SzlÃ¡nyidÅ±lÅ‘
+SzlÃ¡nyi
+SzlÃ¡ny-rÃ©t
 Szlatina
 Szlatinapuszta
-Szlávitanya
+SzlÃ¡vitanya
 Szlobodatanya
-Szloszjárdûlõ
+SzloszjÃ¡rdÅ±lÅ‘
 Szluhahard
 Szluhapuszta
-Szluha-tó
-Szmrecsányi-dûlõ
-Szmrecsányitanya
-Szob Alsó
+Szluha-tÃ³
+SzmrecsÃ¡nyi-dÅ±lÅ‘
+SzmrecsÃ¡nyitanya
+Szob AlsÃ³
 Szob
-Szobonyaszõllõ
+SzobonyaszÅ‘llÅ‘
 Szobonya Telep
-Szoboszlai Dûlõ
+Szoboszlai DÅ±lÅ‘
 Szoboszlai-tag
 Szoboszlaitanya
 Szoboszlay Kis-tanya
 Szoboszlaytanya
-Szoboszlóitanya
-Szoboszló
-Szõcehegy
-Szõce
-Szõci Tanya
-Szõc
-Szõcsénypuszta
-Szöcsködipuszta
-Szöcsköd
-Szõcze
-Szódatanya
-Szõdliget
-Szõd
-Szödöny
-Szõdrákosi-patak
-Szõd-Rákos-patak
-Szõd-Szõdliget
-Szög-határ-dûlõ
-Szöghatár
-Szögliget
-Szögyénitag
-Szõgyénitanya
-Szõgye
-Szõgyényitanya
-Szõkedencs
-Szõkédi Puszta
-Szõkéd
-Szõkédpuszta
-Szõke Ér
-Szõkehalom
-Szõke-hát
-Szõke-hegy
-Szõke Hegy
-Szõke Kálmánné-major
+SzoboszlÃ³itanya
+SzoboszlÃ³
+SzÅ‘cehegy
+SzÅ‘ce
+SzÅ‘ci Tanya
+SzÅ‘c
+SzÅ‘csÃ©nypuszta
+SzÃ¶cskÃ¶dipuszta
+SzÃ¶cskÃ¶d
+SzÅ‘cze
+SzÃ³datanya
+SzÅ‘dliget
+SzÅ‘d
+SzÃ¶dÃ¶ny
+SzÅ‘drÃ¡kosi-patak
+SzÅ‘d-RÃ¡kos-patak
+SzÅ‘d-SzÅ‘dliget
+SzÃ¶g-hatÃ¡r-dÅ±lÅ‘
+SzÃ¶ghatÃ¡r
+SzÃ¶gliget
+SzÃ¶gyÃ©nitag
+SzÅ‘gyÃ©nitanya
+SzÅ‘gye
+SzÅ‘gyÃ©nyitanya
+SzÅ‘kedencs
+SzÅ‘kÃ©di Puszta
+SzÅ‘kÃ©d
+SzÅ‘kÃ©dpuszta
+SzÅ‘ke Ã‰r
+SzÅ‘kehalom
+SzÅ‘ke-hÃ¡t
+SzÅ‘ke-hegy
+SzÅ‘ke Hegy
+SzÅ‘ke KÃ¡lmÃ¡nnÃ©-major
 Szoke-major
-Szõke
-Szõkenyíres
-Szõkenyírestanya
-Szõke-puszta
-Szõkepuszta
-Szõkéskút
-Szõkéskúttanya
-Szõkeszélitanya
-Szõke-sziget
-Szõketanya
-Szõke-tó
-Szokó-hegy
+SzÅ‘ke
+SzÅ‘kenyÃ­res
+SzÅ‘kenyÃ­restanya
+SzÅ‘ke-puszta
+SzÅ‘kepuszta
+SzÅ‘kÃ©skÃºt
+SzÅ‘kÃ©skÃºttanya
+SzÅ‘keszÃ©litanya
+SzÅ‘ke-sziget
+SzÅ‘ketanya
+SzÅ‘ke-tÃ³
+SzokÃ³-hegy
 Szokolics
 Szokolicstanya
 Szokolya-hegy
 Szokolya
-Szokolya-tetõ
+Szokolya-tetÅ‘
 Szokolyi-tanya
-Szóládimajor
-Szólád
-Szóláti-patak
-Szolgaegyháza
-Szolgagyõr-erdészház
-Szolgagyõr
-Szolgagyõrpuszta
-Szõllõaljadûlõ
-Szõllõalja
-Szõllõalj
-Szõllõcskedûlõ
-Szõllõdomb
-Szõllõ Domb
-Szõllõdûlõ
-Szõllõhát
-Szõllõhátuljadûlõ
-Szõllõház
-Szõllõhegyek
-Szõllõ-hegy
-Szõllõhegy
-Szõllõkalja
-Szõllõkaljapuszta
-Szõllõkert
-Szõllõkújtelep
-Szõllõkunyhó
-Szõllõlapos
-Szõllõmájhát
-Szõllõmájtanya
-Szõllõmegi Bérc
-Szõllõsardó
+SzÃ³lÃ¡dimajor
+SzÃ³lÃ¡d
+SzÃ³lÃ¡ti-patak
+SzolgaegyhÃ¡za
+SzolgagyÅ‘r-erdÃ©szhÃ¡z
+SzolgagyÅ‘r
+SzolgagyÅ‘rpuszta
+SzÅ‘llÅ‘aljadÅ±lÅ‘
+SzÅ‘llÅ‘alja
+SzÅ‘llÅ‘alj
+SzÅ‘llÅ‘cskedÅ±lÅ‘
+SzÅ‘llÅ‘domb
+SzÅ‘llÅ‘ Domb
+SzÅ‘llÅ‘dÅ±lÅ‘
+SzÅ‘llÅ‘hÃ¡t
+SzÅ‘llÅ‘hÃ¡tuljadÅ±lÅ‘
+SzÅ‘llÅ‘hÃ¡z
+SzÅ‘llÅ‘hegyek
+SzÅ‘llÅ‘-hegy
+SzÅ‘llÅ‘hegy
+SzÅ‘llÅ‘kalja
+SzÅ‘llÅ‘kaljapuszta
+SzÅ‘llÅ‘kert
+SzÅ‘llÅ‘kÃºjtelep
+SzÅ‘llÅ‘kunyhÃ³
+SzÅ‘llÅ‘lapos
+SzÅ‘llÅ‘mÃ¡jhÃ¡t
+SzÅ‘llÅ‘mÃ¡jtanya
+SzÅ‘llÅ‘megi BÃ©rc
+SzÅ‘llÅ‘sardÃ³
 Szollos Arod
-Szõllõsgyörök
-Szõllõs-halom
-Szõllõs Hegy
-Szõllõsi Tanyák
-Szõllõsitanya
-Szõllõske
-Szõllõskertek
-Szõllõskert
-Szõllõskislak
-Szõllõsor
-Szõllõspuszta
-Szõllõssytanya
-Szõllõssziget
-Szõllõstanya
-Szõllõsy-tanya
-Szõllõtanya
-Szõllõtelek
-Szõllõtelep
-Szõllõ-tetõ
-Szõllõverõpuszta
+SzÅ‘llÅ‘sgyÃ¶rÃ¶k
+SzÅ‘llÅ‘s-halom
+SzÅ‘llÅ‘s Hegy
+SzÅ‘llÅ‘si TanyÃ¡k
+SzÅ‘llÅ‘sitanya
+SzÅ‘llÅ‘ske
+SzÅ‘llÅ‘skertek
+SzÅ‘llÅ‘skert
+SzÅ‘llÅ‘skislak
+SzÅ‘llÅ‘sor
+SzÅ‘llÅ‘spuszta
+SzÅ‘llÅ‘ssytanya
+SzÅ‘llÅ‘ssziget
+SzÅ‘llÅ‘stanya
+SzÅ‘llÅ‘sy-tanya
+SzÅ‘llÅ‘tanya
+SzÅ‘llÅ‘telek
+SzÅ‘llÅ‘telep
+SzÅ‘llÅ‘-tetÅ‘
+SzÅ‘llÅ‘verÅ‘puszta
 Szolnok County
 Szolnokihegy
-Szölnöki-patak
-Szolnok Megyei Város
+SzÃ¶lnÃ¶ki-patak
+Szolnok Megyei VÃ¡ros
 Szolnok Megye
 Szolnok
-Szolnok Személy Pályaudvar
-Szolnok Teher Pályaudvar
-Szolnok-tó
-Szõlõaljadûlõ
-Szõlõ Alja
-Szõlõalji Tanyák
-Szõlõ Domb
-Szõlõhátuljadûlõ
-Szõlõ-hegy
-Szõlõhegy
-Szõlõhegy-tetõ
-Szõlõkalja
-Szõlõkaljapuszta
-Szõlõkert
-Szõlõ-lapos
-Szõlõ-máj-hát
-Szõlõmáj-tanya
-Szõlõmegi Bérc
-Szõlõ Megi-hegy
-Szõlõ
-Szõlõsardó
-Szõlõsgyörök
-Szõlõs-halom
-Szõlõs-hegy
-Szõlõsitanya
-Szõlõske
-Szõlõskert
-Szõlõskislak
-Szõlõspuszta
-Szõlõssziget
-Szõlõstelep
-Szõlõtelep
-Szõlõújtelep
+Szolnok SzemÃ©ly PÃ¡lyaudvar
+Szolnok Teher PÃ¡lyaudvar
+Szolnok-tÃ³
+SzÅ‘lÅ‘aljadÅ±lÅ‘
+SzÅ‘lÅ‘ Alja
+SzÅ‘lÅ‘alji TanyÃ¡k
+SzÅ‘lÅ‘ Domb
+SzÅ‘lÅ‘hÃ¡tuljadÅ±lÅ‘
+SzÅ‘lÅ‘-hegy
+SzÅ‘lÅ‘hegy
+SzÅ‘lÅ‘hegy-tetÅ‘
+SzÅ‘lÅ‘kalja
+SzÅ‘lÅ‘kaljapuszta
+SzÅ‘lÅ‘kert
+SzÅ‘lÅ‘-lapos
+SzÅ‘lÅ‘-mÃ¡j-hÃ¡t
+SzÅ‘lÅ‘mÃ¡j-tanya
+SzÅ‘lÅ‘megi BÃ©rc
+SzÅ‘lÅ‘ Megi-hegy
+SzÅ‘lÅ‘
+SzÅ‘lÅ‘sardÃ³
+SzÅ‘lÅ‘sgyÃ¶rÃ¶k
+SzÅ‘lÅ‘s-halom
+SzÅ‘lÅ‘s-hegy
+SzÅ‘lÅ‘sitanya
+SzÅ‘lÅ‘ske
+SzÅ‘lÅ‘skert
+SzÅ‘lÅ‘skislak
+SzÅ‘lÅ‘spuszta
+SzÅ‘lÅ‘ssziget
+SzÅ‘lÅ‘stelep
+SzÅ‘lÅ‘telep
+SzÅ‘lÅ‘Ãºjtelep
 Szoma-hegy
 Szomajom
 Szombatehly
-Szombathelyitanyák
-Szombathely Megyei Város
+SzombathelyitanyÃ¡k
+Szombathely Megyei VÃ¡ros
 Szombathely
-Szombathely-Szõlõs
+Szombathely-SzÅ‘lÅ‘s
 Szombatitanya
 Szombat-kereki
-Szombatkereki Tanyák
+Szombatkereki TanyÃ¡k
 Szombatnely
 Szomfova
-Szomjasdûlõ
+SzomjasdÅ±lÅ‘
 Szomjas Tanya
-Szomjú-hát
-Szomjúhát
-Szomjúháttanya
+SzomjÃº-hÃ¡t
+SzomjÃºhÃ¡t
+SzomjÃºhÃ¡ttanya
 Szomoditanya
-Szomód
-Szomolló
-Szomollótanya
+SzomÃ³d
+SzomollÃ³
+SzomollÃ³tanya
 Szomolya
 Szomolyapuszta
 Szomolyom
-Szomorák
-Szomordûlõ
+SzomorÃ¡k
+SzomordÅ±lÅ‘
 Szomor
 Szomortanya
-Szomorúdûlõ
-Szomorúpuszta
-Szomorúvölgy
-Szompácspuszta
+SzomorÃºdÅ±lÅ‘
+SzomorÃºpuszta
+SzomorÃºvÃ¶lgy
+SzompÃ¡cspuszta
 Szonditanya
 Szondi Tanya
 Szondymajor
 Szondytanya
-Szõny-Déli
-Szõnyegitanya
-Szõnyi Tanyák
-Szõny
-Szopogató
-Szopókás
+SzÅ‘ny-DÃ©li
+SzÅ‘nyegitanya
+SzÅ‘nyi TanyÃ¡k
+SzÅ‘ny
+SzopogatÃ³
+SzopÃ³kÃ¡s
 Szopor
-Szórádidûlõ
-Szórádmalom
-Szóráttanya
-Szõregitanyák
-Szõreg
-Szörény
-Szõrfû
+SzÃ³rÃ¡didÅ±lÅ‘
+SzÃ³rÃ¡dmalom
+SzÃ³rÃ¡ttanya
+SzÅ‘regitanyÃ¡k
+SzÅ‘reg
+SzÃ¶rÃ©ny
+SzÅ‘rfÅ±
 Szorgalmatos
 Szorgalmatostelep
-Szõrhalom
-Szõr-hát-dûlõ
-Szõrhátitanyák
-Szõr-hát
-Szõrhát
-Szorítómajor
-Szörnyûgödör
-Szörnyûpuszta
-Szóró
-Szórópuszta
+SzÅ‘rhalom
+SzÅ‘r-hÃ¡t-dÅ±lÅ‘
+SzÅ‘rhÃ¡titanyÃ¡k
+SzÅ‘r-hÃ¡t
+SzÅ‘rhÃ¡t
+SzorÃ­tÃ³major
+SzÃ¶rnyÅ±gÃ¶dÃ¶r
+SzÃ¶rnyÅ±puszta
+SzÃ³rÃ³
+SzÃ³rÃ³puszta
 Szorosad
-Szõröshalomdûlõ
-Szõrös-halom
+SzÅ‘rÃ¶shalomdÅ±lÅ‘
+SzÅ‘rÃ¶s-halom
 Szorosihegy
-Szõrösipuszta
-Szoroslápapuszta
-Szõrös
-Szõrösparcella
-Szorospatakbányatelep
-Szorospataki Bányatelep
+SzÅ‘rÃ¶sipuszta
+SzoroslÃ¡papuszta
+SzÅ‘rÃ¶s
+SzÅ‘rÃ¶sparcella
+SzorospatakbÃ¡nyatelep
+Szorospataki BÃ¡nyatelep
 Szoros-patak
 Szorospatak
-Szõröspuszta
-Szõrös-tanya
-Szoros-tó
-Szõr-part
+SzÅ‘rÃ¶spuszta
+SzÅ‘rÃ¶s-tanya
+Szoros-tÃ³
+SzÅ‘r-part
 Szorpron
-Szórvágydûlõ
-Szórványtanya
-Szováti Dûlõ
-Szováti-útfél
-Szövécspuszta
-Szövetentanya
-Szövetkezeti Major
-Szövetkezetitanya
-Sztálin-telep
-Sztálinváros Külsõ
-Sztálinváros
-Sztankovánszkytanya
+SzÃ³rvÃ¡gydÅ±lÅ‘
+SzÃ³rvÃ¡nytanya
+SzovÃ¡ti DÅ±lÅ‘
+SzovÃ¡ti-ÃºtfÃ©l
+SzÃ¶vÃ©cspuszta
+SzÃ¶vetentanya
+SzÃ¶vetkezeti Major
+SzÃ¶vetkezetitanya
+SztÃ¡lin-telep
+SztÃ¡linvÃ¡ros KÃ¼lsÅ‘
+SztÃ¡linvÃ¡ros
+SztankovÃ¡nszkytanya
 Sztaszikovszkymajor
-Sztipicsjárás
-Sztipityjárás
-Sztrehovszkidûlõ
-Sztupákvölgy
-Szucsányitanya
-Szûcsdûlõ
-Szücsényvölgy
-Szûcsidûlõ
-Szücsi
-Szûcsi
-Szûcsiszõllõk
-Szücskü-hegy
-Szûcsmajor
-Szücs
-Szúcs
-Szûcs-tanya
-Szûcstanya
-Szûcs-tó
+SztipicsjÃ¡rÃ¡s
+SztipityjÃ¡rÃ¡s
+SztrehovszkidÅ±lÅ‘
+SztupÃ¡kvÃ¶lgy
+SzucsÃ¡nyitanya
+SzÅ±csdÅ±lÅ‘
+SzÃ¼csÃ©nyvÃ¶lgy
+SzÅ±csidÅ±lÅ‘
+SzÃ¼csi
+SzÅ±csi
+SzÅ±csiszÅ‘llÅ‘k
+SzÃ¼cskÃ¼-hegy
+SzÅ±csmajor
+SzÃ¼cs
+SzÃºcs
+SzÅ±cs-tanya
+SzÅ±cstanya
+SzÅ±cs-tÃ³
 Szugoly
-Szügy
-Szuhafõ
+SzÃ¼gy
+SzuhafÅ‘
 Szuhahuta
-Szuhakálló-Múcsony
-Szuhakálló
+SzuhakÃ¡llÃ³-MÃºcsony
+SzuhakÃ¡llÃ³
 Szuha
-Szuhányi-tag
-Szuhányitanya
+SzuhÃ¡nyi-tag
+SzuhÃ¡nyitanya
 Szuha-patak
 Szuhapuszta
 Szuhatanya
 Szuhogy
-Szulaiszõlõ
+SzulaiszÅ‘lÅ‘
 Szula
-Szulaszõllõhegy
-Szulimán
-Szülleölle
+SzulaszÅ‘llÅ‘hegy
+SzulimÃ¡n
+SzÃ¼lleÃ¶lle
 Szulok
-Szünösei Patak
-Szúnyogár
-Szúnyogcsárda
-Szúnyog-domb
-Szúnyogdûlõ
-Szúnyogháza
-Szúnyogház
-Szúnyoghdûlõ
-Szúnyog-hegy
+SzÃ¼nÃ¶sei Patak
+SzÃºnyogÃ¡r
+SzÃºnyogcsÃ¡rda
+SzÃºnyog-domb
+SzÃºnyogdÅ±lÅ‘
+SzÃºnyoghÃ¡za
+SzÃºnyoghÃ¡z
+SzÃºnyoghdÅ±lÅ‘
+SzÃºnyog-hegy
 Szunyoghtanya
-Szúnyogmajor
-Szúnyog
-Szúnyogos
-Szúnyogpuszta
-Szúnyogsziget
-Szúnyogtanya
-Szunyogvár
-Szúpatak
+SzÃºnyogmajor
+SzÃºnyog
+SzÃºnyogos
+SzÃºnyogpuszta
+SzÃºnyogsziget
+SzÃºnyogtanya
+SzunyogvÃ¡r
+SzÃºpatak
 Szupukatanya
 Szurdapuszta
 Szurdok Alja
 Szurdok
-Szurdokpüspöki
-Szurdok-tetõ
+SzurdokpÃ¼spÃ¶ki
+Szurdok-tetÅ‘
 Szurkos
 Szurkostanya
-Szûr
-Szurokfõzõdûlõ
+SzÅ±r
+SzurokfÅ‘zÅ‘dÅ±lÅ‘
 Szurok-hegy
 Szurokhegy
-Szúró
-Szürük
-Szürüktanya
+SzÃºrÃ³
+SzÃ¼rÃ¼k
+SzÃ¼rÃ¼ktanya
 Szuszki
 Szutortanya
-Szvidrántanya
+SzvidrÃ¡ntanya
 Szvitajka
 Szvitajkapuszta
 Tabajd
-Tabán
-Tabányi-telek
+TabÃ¡n
+TabÃ¡nyi-telek
 Tabdi
-Tábér
-Tábitanya
-Tábla-hegy
+TÃ¡bÃ©r
+TÃ¡bitanya
+TÃ¡bla-hegy
 Tab
-Tabód
-Tabódszerdahely
-Táborfalva
-Táborhegydûlõ
-Tábor-hegyi-dûlõ
-Táborhegyidûlõ
-Tábor-hegy
-Táborhegy
-Táborhely
-Táborszálláspuszta
-Táborújosztás
-Taborvölgy
-Tác
+TabÃ³d
+TabÃ³dszerdahely
+TÃ¡borfalva
+TÃ¡borhegydÅ±lÅ‘
+TÃ¡bor-hegyi-dÅ±lÅ‘
+TÃ¡borhegyidÅ±lÅ‘
+TÃ¡bor-hegy
+TÃ¡borhegy
+TÃ¡borhely
+TÃ¡borszÃ¡llÃ¡spuszta
+TÃ¡borÃºjosztÃ¡s
+TaborvÃ¶lgy
+TÃ¡c
 Tadra
-Tafája
-Tagi Dûlõ
+TafÃ¡ja
+Tagi DÅ±lÅ‘
 Tagi Major
 Tagi-nyilas
 Tagipuszta
 Tagitanya
 Tag
-Tagosdûlõ
-Tagosztály
+TagosdÅ±lÅ‘
+TagosztÃ¡ly
 Tag-tanya
 Tagtanya
 Tagyonhegy
 Tagyon
 Tagyos
-Tahitófalu
-Tahitótfalu
-Tájaktanya
-Tajó
-Takácsházapuszta
-Takácshegy
-Takácsi Gúla
-Takácsi
-Takácstanya
+TahitÃ³falu
+TahitÃ³tfalu
+TÃ¡jaktanya
+TajÃ³
+TakÃ¡cshÃ¡zapuszta
+TakÃ¡cshegy
+TakÃ¡csi GÃºla
+TakÃ¡csi
+TakÃ¡cstanya
 Takaros
 Takarostanya
-Tákó-ér
-Tákos
-Taksásház
+TÃ¡kÃ³-Ã©r
+TÃ¡kos
+TaksÃ¡shÃ¡z
 Taksony
-Taktabáj
+TaktabÃ¡j
 Takta-csatorna
-Takta-ér
-Taktaföldvár
-Taktaharkány
-Taktakenéz
-Takta Köze
-Taktaköz
+Takta-Ã©r
+TaktafÃ¶ldvÃ¡r
+TaktaharkÃ¡ny
+TaktakenÃ©z
+Takta KÃ¶ze
+TaktakÃ¶z
 Takta
-Takta-övcsatorna
+Takta-Ã¶vcsatorna
 Taktaszada
-Tálagy
+TÃ¡lagy
 Talapatka
-Tálasbükk-hegy
-Tálas-bükk
-Talfája
-Taliándörögd
-Taligás-tag
-Taligástanya
-Talliánpuszta
-Tallián-tanya
-Tállya
-Tályog-hegy
-Talytódûlõ
-Tamásbokor
-Tamásfájatanya
-Tamás-halom
-Tamásháti Tanyák
-Tamásháti Tanya
-Tamás-hát
-Tamáshegydûlõ
-Tamás-hegy
-Tamáshegy
-Tamási
-Tamásipuszta
-Tamáskáta
+TÃ¡lasbÃ¼kk-hegy
+TÃ¡las-bÃ¼kk
+TalfÃ¡ja
+TaliÃ¡ndÃ¶rÃ¶gd
+TaligÃ¡s-tag
+TaligÃ¡stanya
+TalliÃ¡npuszta
+TalliÃ¡n-tanya
+TÃ¡llya
+TÃ¡lyog-hegy
+TalytÃ³dÅ±lÅ‘
+TamÃ¡sbokor
+TamÃ¡sfÃ¡jatanya
+TamÃ¡s-halom
+TamÃ¡shÃ¡ti TanyÃ¡k
+TamÃ¡shÃ¡ti Tanya
+TamÃ¡s-hÃ¡t
+TamÃ¡shegydÅ±lÅ‘
+TamÃ¡s-hegy
+TamÃ¡shegy
+TamÃ¡si
+TamÃ¡sipuszta
+TamÃ¡skÃ¡ta
 Tampa
 Tanakajd
-Táncos Domb
-Táncos-halom
-Táncoshalom
-Táncsicsdûlõ
-Táncsicstanya
-Táncsicstelep
-Tangazdaság
-Tanyaföldek
+TÃ¡ncos Domb
+TÃ¡ncos-halom
+TÃ¡ncoshalom
+TÃ¡ncsicsdÅ±lÅ‘
+TÃ¡ncsicstanya
+TÃ¡ncsicstelep
+TangazdasÃ¡g
+TanyafÃ¶ldek
 Tanyahegy
-Tanyákalja
-Tanyákköze
+TanyÃ¡kalja
+TanyÃ¡kkÃ¶ze
 Tanyasor
-Tanyaszél
-Tanyavölgy
-Tápéi Ér
-Tápéi Halom
-Tápé
-Tápióbicske
-Tápiógyörgye
-Tápióhalesz
-Tápiói Kismajor
-Tápiói Tanyák
-Tápiókaszáló
-Tápiómajor
-Tápió Mente
-Tápió
-Tápió-patak
-Tápióság
-Tápiósáp
-Tápiósüly
-Tápiószecsõ
-Tápiószele
-Tápiószentgyörgy
-Tápiószentmárton
-Tápiószõllõs
-Tápiószõlõs
-Tápió-vidék
-Tápipuszta
-Táplánszentkereszt
-Táplány
-Táplánypuszta
-Taplós
-Táp
-Tapolcafõ
+TanyaszÃ©l
+TanyavÃ¶lgy
+TÃ¡pÃ©i Ã‰r
+TÃ¡pÃ©i Halom
+TÃ¡pÃ©
+TÃ¡piÃ³bicske
+TÃ¡piÃ³gyÃ¶rgye
+TÃ¡piÃ³halesz
+TÃ¡piÃ³i Kismajor
+TÃ¡piÃ³i TanyÃ¡k
+TÃ¡piÃ³kaszÃ¡lÃ³
+TÃ¡piÃ³major
+TÃ¡piÃ³ Mente
+TÃ¡piÃ³
+TÃ¡piÃ³-patak
+TÃ¡piÃ³sÃ¡g
+TÃ¡piÃ³sÃ¡p
+TÃ¡piÃ³sÃ¼ly
+TÃ¡piÃ³szecsÅ‘
+TÃ¡piÃ³szele
+TÃ¡piÃ³szentgyÃ¶rgy
+TÃ¡piÃ³szentmÃ¡rton
+TÃ¡piÃ³szÅ‘llÅ‘s
+TÃ¡piÃ³szÅ‘lÅ‘s
+TÃ¡piÃ³-vidÃ©k
+TÃ¡pipuszta
+TÃ¡plÃ¡nszentkereszt
+TÃ¡plÃ¡ny
+TÃ¡plÃ¡nypuszta
+TaplÃ³s
+TÃ¡p
+TapolcafÅ‘
 Tapolcai-medence
-Tapolcai Tanyák
+Tapolcai TanyÃ¡k
 Tapolca
 Tapolca-patak
 Tapolcza
 Tapolezai
 Tapolnok-patak
-Tapsoló
+TapsolÃ³
 Tapsonyi Hegy
 Tapsony
-Tápszentmiklós
-Tarafû
-Tarányimajor
+TÃ¡pszentmiklÃ³s
+TarafÅ±
+TarÃ¡nyimajor
 Taranyi-Rinya
 Tarany
-Tarattyó
+TarattyÃ³
 Tarcal
-Tárca
-Tárcapuszta
-Tárcatanya
+TÃ¡rca
+TÃ¡rcapuszta
+TÃ¡rcatanya
 Tarcsai Halom
 Tarcsa
 Tarcsa-puszta
 Tarcsapuszta
-Tarcsi Tó
-Tardi-ér
+Tarcsi TÃ³
+Tardi-Ã©r
 Tardi-hegy
 Tardi-patak
 Tardi Patak
 Tard
-Tardonai-dombság
+Tardonai-dombsÃ¡g
 Tardona
 Tardona-patak
-Tardosbánya
+TardosbÃ¡nya
 Tardosi Hegy
-Tardosi Kõbányák
-Tardosi Kõbánya
+Tardosi KÅ‘bÃ¡nyÃ¡k
+Tardosi KÅ‘bÃ¡nya
 Tardos
 Tardpuszta
-Targony Állomás
+Targony ÃllomÃ¡s
 Targyi-halom
 Tarhos
 Tarizsapuszta
-Tarjáni-patak
-Tarjánitanya
-Tarjáni Tanya
-Tarjánkai-dûlõ
-Tarján
-Tarján-patak
-Tarjánpuszta
-Tarkalovasdûlõ
-Tárkány-Csép
-Tárkányi-tag
-Tárkány
-Tárkánypuszta
+TarjÃ¡ni-patak
+TarjÃ¡nitanya
+TarjÃ¡ni Tanya
+TarjÃ¡nkai-dÅ±lÅ‘
+TarjÃ¡n
+TarjÃ¡n-patak
+TarjÃ¡npuszta
+TarkalovasdÅ±lÅ‘
+TÃ¡rkÃ¡ny-CsÃ©p
+TÃ¡rkÃ¡nyi-tag
+TÃ¡rkÃ¡ny
+TÃ¡rkÃ¡nypuszta
 Tarkert
-Tar-kõ
-Tarlógyér
-Tarlóra-hegy
+Tar-kÅ‘
+TarlÃ³gyÃ©r
+TarlÃ³ra-hegy
 Tarnabod
 Tarnai Major
 Tarnaitanya
 Tarnalelesz
 Tarnamajor
-Tarnaméra
+TarnamÃ©ra
 Tarna
-Tarnaõrs
-Tarnaörs
-Tarnaszentmária
-Tarnaszentmiklósi Tanyák
-Tarnaszentmiklós
+TarnaÅ‘rs
+TarnaÃ¶rs
+TarnaszentmÃ¡ria
+TarnaszentmiklÃ³si TanyÃ¡k
+TarnaszentmiklÃ³s
 Tarna-tanya
-Tarnazsadány
-Tarnóca
-Tarnóca-patak
-Tarnócapuszta
-Tarnóc
-Tárnokhegy
-Tárnok
-Tárnokpuszta
-Tárnokréti
+TarnazsadÃ¡ny
+TarnÃ³ca
+TarnÃ³ca-patak
+TarnÃ³capuszta
+TarnÃ³c
+TÃ¡rnokhegy
+TÃ¡rnok
+TÃ¡rnokpuszta
+TÃ¡rnokrÃ©ti
 Tar
-Taródháza
-Taró-fõ
-Tárolómedence
-Tar Órahegy
-Tározó-tó
+TarÃ³dhÃ¡za
+TarÃ³-fÅ‘
+TÃ¡rolÃ³medence
+Tar Ã“rahegy
+TÃ¡rozÃ³-tÃ³
 Tarpai-domb
 Tarpai-hegy
 Tarpa-Nagy-hegy
 Tarpa
-Tarpétertelep
-Tarrós
-Tartalócapuszta
-Tartalócatanya
-Tartalóctanya
+TarpÃ©tertelep
+TarrÃ³s
+TartalÃ³capuszta
+TartalÃ³catanya
+TartalÃ³ctanya
 Tartanya
-Tarvölgy
-Táska
+TarvÃ¶lgy
+TÃ¡ska
 Tas
 Tas-puszta
-Tassidûlõ
+TassidÅ±lÅ‘
 Tassitanya
-Tassi Út
+Tassi Ãšt
 Tasskertes
 Tass
 Tassonyitanya
 Tasspuszta
-Tassytanyák
+TassytanyÃ¡k
 Tasypuszta
-Taszári Patak
-Taszár
-Tasziló-hegy
-Tatabánya Alsó
-Tatabánya Felsõ
-Tatabánya Megyei Város
-Tatabánya
-Tataháza
-Tatai-árok
-Tataifolyó
-Tatai-Nagy-tó
-Tatai-tó
+TaszÃ¡ri Patak
+TaszÃ¡r
+TaszilÃ³-hegy
+TatabÃ¡nya AlsÃ³
+TatabÃ¡nya FelsÅ‘
+TatabÃ¡nya Megyei VÃ¡ros
+TatabÃ¡nya
+TatahÃ¡za
+Tatai-Ã¡rok
+TataifolyÃ³
+Tatai-Nagy-tÃ³
+Tatai-tÃ³
 Tata
-Tatárárok
-Tatárdûlõ
-Tatárföldimajor
-Tatár Halom
-Tatárhányásdûlõ
-Tatárhányás
-Tatársánc
-Tatárszentgyörgy
-Tatatóváros
-Tata-Váli-árok
-Tata-Váli-törés
-Tátikahidegkút
-Tátika
-Tátikapuszta
-Táti-sziget
-Táti-vízfolyás
-Tát
-Tátomhegy
-Tátompuszta
+TatÃ¡rÃ¡rok
+TatÃ¡rdÅ±lÅ‘
+TatÃ¡rfÃ¶ldimajor
+TatÃ¡r Halom
+TatÃ¡rhÃ¡nyÃ¡sdÅ±lÅ‘
+TatÃ¡rhÃ¡nyÃ¡s
+TatÃ¡rsÃ¡nc
+TatÃ¡rszentgyÃ¶rgy
+TatatÃ³vÃ¡ros
+Tata-VÃ¡li-Ã¡rok
+Tata-VÃ¡li-tÃ¶rÃ©s
+TÃ¡tikahidegkÃºt
+TÃ¡tika
+TÃ¡tikapuszta
+TÃ¡ti-sziget
+TÃ¡ti-vÃ­zfolyÃ¡s
+TÃ¡t
+TÃ¡tomhegy
+TÃ¡tompuszta
 Tatos
 Tauscher Bach
-Tavasdûlõ
+TavasdÅ±lÅ‘
 Tavas
 Tavaszmajor
 Tazar
-Tázerdei Szõllõk
-Tázerdõdûlõ
-Tázerdõ
-Tázlár
+TÃ¡zerdei SzÅ‘llÅ‘k
+TÃ¡zerdÅ‘dÅ±lÅ‘
+TÃ¡zerdÅ‘
+TÃ¡zlÃ¡r
 Tebepuszta
-Téb-erdõ
+TÃ©b-erdÅ‘
 Tece
 Tece-patak
-Técsipuszta
+TÃ©csipuszta
 Tedej
 Tedely
 Tegehalom
 Tegetmajor
 Teget
-Tégladûlõ
-Téglaégetõ
-Téglagyáridûlõ
-Téglagyár
-Téglahát
-Téglaházidûlõ
-Téglaházi Dûlõ
-Téglaházipuszta
-Téglaházitanya
-Téglaházpuszta
-Téglaháztanya
-Téglásdûlõ
-Tégláskert
-Téglás-kút
-Téglás
-Téglássytanya
-Téglásszõllõ
-Téglatelep
-Téglavetõdûlõ
+TÃ©gladÅ±lÅ‘
+TÃ©glaÃ©getÅ‘
+TÃ©glagyÃ¡ridÅ±lÅ‘
+TÃ©glagyÃ¡r
+TÃ©glahÃ¡t
+TÃ©glahÃ¡zidÅ±lÅ‘
+TÃ©glahÃ¡zi DÅ±lÅ‘
+TÃ©glahÃ¡zipuszta
+TÃ©glahÃ¡zitanya
+TÃ©glahÃ¡zpuszta
+TÃ©glahÃ¡ztanya
+TÃ©glÃ¡sdÅ±lÅ‘
+TÃ©glÃ¡skert
+TÃ©glÃ¡s-kÃºt
+TÃ©glÃ¡s
+TÃ©glÃ¡ssytanya
+TÃ©glÃ¡sszÅ‘llÅ‘
+TÃ©glatelep
+TÃ©glavetÅ‘dÅ±lÅ‘
 Tehenes
-Tehén-hegy
-Tehénjárás
-Tehéntáncihegy
+TehÃ©n-hegy
+TehÃ©njÃ¡rÃ¡s
+TehÃ©ntÃ¡ncihegy
 Tejfalusziget
 Tejfalusziget-puszta
 Tejhegy
 Tekenye
 Tekepuszta
 Tekeres-berek
-Tekeres-berki-árok
+Tekeres-berki-Ã¡rok
 Tekeres-berki-patak
 Tekeres
 Tekeres-patak
 Tekerespuszta
-Tekerõ
-Tekerület-hegy
-Tékesi-erdõ
-Tékes
-Tékes-patak
-Tékespuszta
+TekerÅ‘
+TekerÃ¼let-hegy
+TÃ©kesi-erdÅ‘
+TÃ©kes
+TÃ©kes-patak
+TÃ©kespuszta
 Teklafalu
 Teklefalu
-Teknõshalom
-Telbisz-dûlõ
+TeknÅ‘shalom
+Telbisz-dÅ±lÅ‘
 Telbiszpuszta
 Telbisztanya
 Telecske
-Telegdidûlõ
-Telegdiszõllõ
-Telegdiszõlõ
-Telegér
+TelegdidÅ±lÅ‘
+TelegdiszÅ‘llÅ‘
+TelegdiszÅ‘lÅ‘
+TelegÃ©r
 Telegi-tanya
 Telekalja
-Telekdûlõ
+TelekdÅ±lÅ‘
 Telekes
 Telekes-oldal
-Telekföld
-Telekgerendás
+TelekfÃ¶ld
+TelekgerendÃ¡s
 Telekhalmi-halastavak
 Telek-halom
-Telekidûlõ
+TelekidÅ±lÅ‘
 Teleki Hegy
 Teleki
 Telekipuszta
 Teleki Puszta
-Telekiszõllõk
-Telekiszõlõk
-Telekiszõlõ-telep
-Teleki Tanyák
+TelekiszÅ‘llÅ‘k
+TelekiszÅ‘lÅ‘k
+TelekiszÅ‘lÅ‘-telep
+Teleki TanyÃ¡k
 Telekitanya
-Telekitó
+TelekitÃ³
 Telek-major
 Telekmajor
 Telekmegyer
 Telek
-Telekpartitanyák
+TelekpartitanyÃ¡k
 Telekpuszta
 Telekszeg
 Telektanya
-Telekút-dûlõ
+TelekÃºt-dÅ±lÅ‘
 Teleky-major
-Telelõi-földek
-Telelõmajor
-Telelõpartdûlõ
-Telelõpart
+TelelÅ‘i-fÃ¶ldek
+TelelÅ‘major
+TelelÅ‘partdÅ±lÅ‘
+TelelÅ‘part
 Telep
-Télizöldes
-Télizöldhegy
-Telkibánya
+TÃ©lizÃ¶ldes
+TÃ©lizÃ¶ldhegy
+TelkibÃ¡nya
 Telki
-Temesváridûlõ
-Temetõ-domb
-Temetõdûlõ
-Temetõ-halom
-Temetõ Halom
-Temetõhegydûlõ
-Temetõ-hegy
-Temetõhegy
-Temetõ Tábla
+TemesvÃ¡ridÅ±lÅ‘
+TemetÅ‘-domb
+TemetÅ‘dÅ±lÅ‘
+TemetÅ‘-halom
+TemetÅ‘ Halom
+TemetÅ‘hegydÅ±lÅ‘
+TemetÅ‘-hegy
+TemetÅ‘hegy
+TemetÅ‘ TÃ¡bla
 Templom-domb
 Templomdomb
-Templom-dûlõ
-Templomdûlõ
+Templom-dÅ±lÅ‘
+TemplomdÅ±lÅ‘
 Templom-halom
 Templom-hegy
 Templompuszta
 Templom Sor
-Templomtér
+TemplomtÃ©r
 Templomzug
-Tenczlingerszállás
+TenczlingerszÃ¡llÃ¡s
 Tengelic
 Tengeri
 Tengeritanya
 Tengeri-zug
 Tengerszem
-Tengõd
+TengÅ‘d
 Tenke
 Tenke-puszta
-Tenkérpart
+TenkÃ©rpart
 Tenkes Hegy
 Tenkes
 Tenketanya
 Tenk
-Tényõ
-Tenyõszállás
-Tenyõsziget
-Tenyõ-tanya
-Tepécshegy
-Tepécs
-Tepélypuszta
-Tépe
+TÃ©nyÅ‘
+TenyÅ‘szÃ¡llÃ¡s
+TenyÅ‘sziget
+TenyÅ‘-tanya
+TepÃ©cshegy
+TepÃ©cs
+TepÃ©lypuszta
+TÃ©pe
 Tepke-hegy
 Tepke
 Tercsimajor
-Térdes
+TÃ©rdes
 Terdik-tanya
 Terebezdi Hegy
 Terebezd
@@ -21371,88 +21371,88 @@ Terehegy
 Teremitanya
 Terem
 Terem-szeg
-Terem-szög
-Terény
+Terem-szÃ¶g
+TerÃ©ny
 Tereske
-Terestyénjákfa
+TerestyÃ©njÃ¡kfa
 Teresznek Patak
 Teresztenye
 Tereszyteye
-Terézhalom Major
-Terézhalom
-Teréziamajor
-Terézia
-Teréziatelep
-Terézlak
-Terézmajor
+TerÃ©zhalom Major
+TerÃ©zhalom
+TerÃ©ziamajor
+TerÃ©zia
+TerÃ©ziatelep
+TerÃ©zlak
+TerÃ©zmajor
 Terhel
 Terhelpuszta
 Terhestanya
-Terlakóca
-Termelõszövetkezeti Major
+TerlakÃ³ca
+TermelÅ‘szÃ¶vetkezeti Major
 Terpes
-Térvár
+TÃ©rvÃ¡r
 Terzlaktanya
-Tésa
-Tésenfa
-Téseny
-Tési-fennsík
+TÃ©sa
+TÃ©senfa
+TÃ©seny
+TÃ©si-fennsÃ­k
 Teskandi Malom
-Teskándi Tanyák
-Teskánd
-Tés
+TeskÃ¡ndi TanyÃ¡k
+TeskÃ¡nd
+TÃ©s
 Tessedik-zug
 Testhalom
-Testvesháti Tanya
-Tetélen
-Tétel-halom
-Tételháti Rét
-Tétel-hát
-Tétel-hegy
-Tételhegy
+TestveshÃ¡ti Tanya
+TetÃ©len
+TÃ©tel-halom
+TÃ©telhÃ¡ti RÃ©t
+TÃ©tel-hÃ¡t
+TÃ©tel-hegy
+TÃ©telhegy
 Tetemhegy
 Tetenke-hegy
 Tetenke
-Tétényi-fennsík
-Tétényi-plató
+TÃ©tÃ©nyi-fennsÃ­k
+TÃ©tÃ©nyi-platÃ³
 Tetepuszta
-Tetétlen
-Tétketanya
-Tétlesvár
-Tét
-Tetõvár
-Tét-Szentkút
-Tettyedûlõ
-Tetû-halom
-Tetûvár
-Tetves-árok
+TetÃ©tlen
+TÃ©tketanya
+TÃ©tlesvÃ¡r
+TÃ©t
+TetÅ‘vÃ¡r
+TÃ©t-SzentkÃºt
+TettyedÅ±lÅ‘
+TetÅ±-halom
+TetÅ±vÃ¡r
+Tetves-Ã¡rok
 Tetves-patak
 Tevel-hegy
 Tevel
 Thalypuszta
 Thomkatanya
 Thullnertanya
-Thúritanya
+ThÃºritanya
 Tibolamajor
 Tibolapuszta
-Tibolddaróc
+TibolddarÃ³c
 Tiboldmajor
 Tibold
 Tibormajor
-Tiborszállás
+TiborszÃ¡llÃ¡s
 Tibortanya
 Tibortelep
 Tibrik
-Tihamérdûlõ
-Tihamér
-Tihanyi-félsziget
+TihamÃ©rdÅ±lÅ‘
+TihamÃ©r
+Tihanyi-fÃ©lsziget
 Tihanyikert
-Tihanyi-kút
-Tihanyi Rév
+Tihanyi-kÃºt
+Tihanyi RÃ©v
 Tihanyi-szoros
 Tihany
 Tihany Peninsula
-Tihany-rév Hajóállomás
+Tihany-rÃ©v HajÃ³Ã¡llomÃ¡s
 Tihitanya
 Tik-hegy
 Tikhegy
@@ -21462,10 +21462,10 @@ Tikos
 Tikostanya
 Tilaj
 Tilajpuszta
-Tilajújhegy
-Tilalmas-bérc
-Tilalmasdûlõ
-Tilalmasfürdõ
+TilajÃºjhegy
+Tilalmas-bÃ©rc
+TilalmasdÅ±lÅ‘
+TilalmasfÃ¼rdÅ‘
 Tilalmas
 Tilalmas Patak
 Tilalmastanya
@@ -21474,563 +21474,563 @@ Tillpuszta
 Tilos Alja
 Tilos
 Tilospuszta
-Tiltványpuszta
-Timár
-Timárpuszta
-Timártanya
-Timár Utca
+TiltvÃ¡nypuszta
+TimÃ¡r
+TimÃ¡rpuszta
+TimÃ¡rtanya
+TimÃ¡r Utca
 Tinnye
-Tinókadûlõ
-Tinóka-ér
-Tinóka
-Tinós-hegy
-Tipán Csupordûlõ
-Tipászó
-Tipóka
+TinÃ³kadÅ±lÅ‘
+TinÃ³ka-Ã©r
+TinÃ³ka
+TinÃ³s-hegy
+TipÃ¡n CsupordÅ±lÅ‘
+TipÃ¡szÃ³
+TipÃ³ka
 Tirapuszta
 Tiribespuszta
 Tiringertanya
-Tirpáktanya
+TirpÃ¡ktanya
 Tirringertanya
 T"isantuli Keleti Focsatorna
 Tischlertanya
 Tissantul
 Tiszaadony
-Tiszaalpár Alsó
-Tiszaalpár Felsõ
-Tiszaalpár
-Tiszabábolna
+TiszaalpÃ¡r AlsÃ³
+TiszaalpÃ¡r FelsÅ‘
+TiszaalpÃ¡r
+TiszabÃ¡bolna
 Tiszabecs
 Tiszabercel
 Tiszaberki Tanya
-Tiszabezdéd
-Tiszabõ
-Tiszabûd
+TiszabezdÃ©d
+TiszabÅ‘
+TiszabÅ±d
 Tiszabura
-Tiszacsécse
+TiszacsÃ©cse
 Tiszacsege
 Tiszacsermely
 Tiszadada
 Tiszaderzs
-Tiszád
+TiszÃ¡d
 Tiszadob
 Tiszadorogma
-Tiszaeszlár
+TiszaeszlÃ¡r
 Tiszafiired
-Tiszaföldvár
-Tiszafüredi-fõcsatorna
-Tiszafüredi Öntözõ Fõcsatorna
-Tiszafüred
+TiszafÃ¶ldvÃ¡r
+TiszafÃ¼redi-fÅ‘csatorna
+TiszafÃ¼redi Ã–ntÃ¶zÅ‘ FÅ‘csatorna
+TiszafÃ¼red
 Tiszagyenda
-Tiszagyulaháza
-Tiszahajlati Tanyák
-Tisza-hát
-Tiszahát
-Tiszahíd
+TiszagyulahÃ¡za
+Tiszahajlati TanyÃ¡k
+Tisza-hÃ¡t
+TiszahÃ¡t
+TiszahÃ­d
 Tiszaigar
 Tiszainoka
-Tiszajenõ Alsó
-Tiszajenõ
-Tiszajenõ-Vezseny
-Tiszakanyár
-Tiszakarádi-csatorna
-Tiszakarádi-fõcsatorna
-Tiszakarád
-Tiszakécske
+TiszajenÅ‘ AlsÃ³
+TiszajenÅ‘
+TiszajenÅ‘-Vezseny
+TiszakanyÃ¡r
+TiszakarÃ¡di-csatorna
+TiszakarÃ¡di-fÅ‘csatorna
+TiszakarÃ¡d
+TiszakÃ©cske
 Tiszakerecseny
 Tiszakeszi
 Tiszakisfalud
-Tiszakóród
-Tisza-Körös-Maros Köze
-Tisza Köze
-Tiszaköztanya
-Tiszakür
-Tiszakürti Korhányszõllõ
-Tiszakürti Öregszõllõ
-Tiszakürti Tanyák
-Tiszakürt
-Tiszaladány
-Tiszalöki Vízmûvek
-Tiszalök
-Tiszalúc
+TiszakÃ³rÃ³d
+Tisza-KÃ¶rÃ¶s-Maros KÃ¶ze
+Tisza KÃ¶ze
+TiszakÃ¶ztanya
+TiszakÃ¼r
+TiszakÃ¼rti KorhÃ¡nyszÅ‘llÅ‘
+TiszakÃ¼rti Ã–regszÅ‘llÅ‘
+TiszakÃ¼rti TanyÃ¡k
+TiszakÃ¼rt
+TiszaladÃ¡ny
+TiszalÃ¶ki VÃ­zmÅ±vek
+TiszalÃ¶k
+TiszalÃºc
 Tiszalucz
-Tiszamogyorós
+TiszamogyorÃ³s
 Tiszamoka
 Tiszanagyfalu
-Tiszanánai Tanyák
-Tiszanána
-Tiszántúli-fõcsatorna
-Tiszántúl
-Tiszaörsi Tanyák
-Tiszaörs
-Tiszaörvény
-Tiszaoszlár
-Tiszapalkonya Erõmû
+TiszanÃ¡nai TanyÃ¡k
+TiszanÃ¡na
+TiszÃ¡ntÃºli-fÅ‘csatorna
+TiszÃ¡ntÃºl
+TiszaÃ¶rsi TanyÃ¡k
+TiszaÃ¶rs
+TiszaÃ¶rvÃ©ny
+TiszaoszlÃ¡r
+Tiszapalkonya ErÅ‘mÅ±
 Tiszapalkonya
-Tiszaparti Szõllõk
+Tiszaparti SzÅ‘llÅ‘k
 Tiszapart
-Tiszapüspöki
-Tiszarád
-Tiszarét
+TiszapÃ¼spÃ¶ki
+TiszarÃ¡d
+TiszarÃ©t
 Tiszaroff
 Tiszasas
-Tiszasülyi Úti Tanyák
-Tiszasüly
+TiszasÃ¼lyi Ãšti TanyÃ¡k
+TiszasÃ¼ly
 Tiszaszalka
 Tiszaszederken
-Tiszaszederkény
-Tiszaszél
+TiszaszederkÃ©ny
+TiszaszÃ©l
 Tiszaszentimre
-Tiszaszentmárton
+TiszaszentmÃ¡rton
 Tiszasziget
-Tiszaszõllõ
-Tiszaszõllõs
-Tiszaszõlõ
-Tiszaszõlõs
+TiszaszÅ‘llÅ‘
+TiszaszÅ‘llÅ‘s
+TiszaszÅ‘lÅ‘
+TiszaszÅ‘lÅ‘s
 Tiszatanya
 Tiszatardos
-Tiszatarján
+TiszatarjÃ¡n
 Tiszatelek
-Tiszatenyõ
+TiszatenyÅ‘
 Tiszaug
-Tiszaug-Tiszahídfõ
-Tiszaújfalu Állomás
-Tiszaújfalu
-Tiszaújváros
+Tiszaug-TiszahÃ­dfÅ‘
+TiszaÃºjfalu ÃllomÃ¡s
+TiszaÃºjfalu
+TiszaÃºjvÃ¡ros
 Tiszavalk
-Tiszavárkony Állomás
-Tiszavárkony
-Tiszavasvári
+TiszavÃ¡rkony ÃllomÃ¡s
+TiszavÃ¡rkony
+TiszavasvÃ¡ri
 Tiszavid
-Tiszavölgy
+TiszavÃ¶lgy
 Tiszazug
-Tisztabereki Tanyák
+Tisztabereki TanyÃ¡k
 Tisztaberek
-Tisztásdûlõ
-Tisztatótanya
-Tiszta-víz
-Tisztavíz
-Tisztviselõtelep
+TisztÃ¡sdÅ±lÅ‘
+TisztatÃ³tanya
+Tiszta-vÃ­z
+TisztavÃ­z
+TisztviselÅ‘telep
 Tita-patak
 Titelhegy-telep
-Titok-berki-árok
+Titok-berki-Ã¡rok
 Tivadar
 Tivador-major
-Tiva-tó
-Tivolicsárda
-Tivoli-dûlõ
-Tivorány
+Tiva-tÃ³
+TivolicsÃ¡rda
+Tivoli-dÅ±lÅ‘
+TivorÃ¡ny
 Tizedesmalomtelep
 Tizedestanya
-Tizediktábla
-Tizenháromsoros
-Tizenháromváros
-Tízholdak
-Tóalmás
-Tobány
-Tobánypuszta
-Tóberek
-Tóberki Malom
-Tóbiás-hegy
-Tóbiástanya
-Tóbytelep
-Tócó-ér
-Tócó
-Tócó-vízfolyás
-Tódebrõ
+TizediktÃ¡bla
+TizenhÃ¡romsoros
+TizenhÃ¡romvÃ¡ros
+TÃ­zholdak
+TÃ³almÃ¡s
+TobÃ¡ny
+TobÃ¡nypuszta
+TÃ³berek
+TÃ³berki Malom
+TÃ³biÃ¡s-hegy
+TÃ³biÃ¡stanya
+TÃ³bytelep
+TÃ³cÃ³-Ã©r
+TÃ³cÃ³
+TÃ³cÃ³-vÃ­zfolyÃ¡s
+TÃ³debrÅ‘
 Todoradola
-Tódor-hegy
-Tóér
-Tófalu
-Tófarka
-Tófej
-Tófûdûlõ
-Tófû
-Tógát
-Tógátpuszta
-Tõgyesszög
-Tóharasztitanya
-Tóharaszt
-Tõhatártanya
-Tóhát-dûlõ
-Tó-hát
-Tóhát
-Tóhát-tanya
-Tóháttanya
-Tó-hegy
-Tóhely-domb
-Tói Csatorna
-Tokaj-dûlõ
+TÃ³dor-hegy
+TÃ³Ã©r
+TÃ³falu
+TÃ³farka
+TÃ³fej
+TÃ³fÅ±dÅ±lÅ‘
+TÃ³fÅ±
+TÃ³gÃ¡t
+TÃ³gÃ¡tpuszta
+TÅ‘gyesszÃ¶g
+TÃ³harasztitanya
+TÃ³haraszt
+TÅ‘hatÃ¡rtanya
+TÃ³hÃ¡t-dÅ±lÅ‘
+TÃ³-hÃ¡t
+TÃ³hÃ¡t
+TÃ³hÃ¡t-tanya
+TÃ³hÃ¡ttanya
+TÃ³-hegy
+TÃ³hely-domb
+TÃ³i Csatorna
+Tokaj-dÅ±lÅ‘
 Tokaj-Eperjes Mountains
 Tokaj-Hegyalja
 Tokaj Hegy
 Tokaji-hegy
 Tokajka
-Tókaj
+TÃ³kaj
 Tokaj
-Tókajpuszta
+TÃ³kajpuszta
 Tokajtanya
 Toka-patak
 Tokatanya
-Tókató Hegy
-Tókert
-Tõkéspuszta
-Tök-halom
-Tokjó
-Tök
-Tokodaltáró
+TÃ³katÃ³ Hegy
+TÃ³kert
+TÅ‘kÃ©spuszta
+TÃ¶k-halom
+TokjÃ³
+TÃ¶k
+TokodaltÃ¡rÃ³
 Tokodilaposa
-Tokodi Laposdûlõ
-Tokodi Üveggyár
+Tokodi LaposdÅ±lÅ‘
+Tokodi ÃœveggyÃ¡r
 Tokod
-Tököl
+TÃ¶kÃ¶l
 Tokorcs
-Tökösdûlõ
-Tökösremete
+TÃ¶kÃ¶sdÅ±lÅ‘
+TÃ¶kÃ¶sremete
 Tokostanya
-Tóköze
-Tó Köze
-Tóközibejáró
-Tóköz
-Tóközpuszta
-Tólága
-Tólágapuszta
-Tólága-tanya
-Tólápa
-Tólápatanya
-Tó-lapos-dûlõ
-Tó-lapos
-Tólapos
+TÃ³kÃ¶ze
+TÃ³ KÃ¶ze
+TÃ³kÃ¶zibejÃ¡rÃ³
+TÃ³kÃ¶z
+TÃ³kÃ¶zpuszta
+TÃ³lÃ¡ga
+TÃ³lÃ¡gapuszta
+TÃ³lÃ¡ga-tanya
+TÃ³lÃ¡pa
+TÃ³lÃ¡patanya
+TÃ³-lapos-dÅ±lÅ‘
+TÃ³-lapos
+TÃ³lapos
 Tolcsva
-Toldikút
+ToldikÃºt
 Toldi Puszta
-Tolditanyák
+TolditanyÃ¡k
 Told
-Tölgyes-Mátra
-Tölgyes
-Tölgyespuszta
-Tölgyes-tanya
-Tölgyestanya
-Tölgyfástanya
-Tölgyvári Hegy
-Töllöspuszta
-Tolmács-hegy
-Tolmács
+TÃ¶lgyes-MÃ¡tra
+TÃ¶lgyes
+TÃ¶lgyespuszta
+TÃ¶lgyes-tanya
+TÃ¶lgyestanya
+TÃ¶lgyfÃ¡stanya
+TÃ¶lgyvÃ¡ri Hegy
+TÃ¶llÃ¶spuszta
+TolmÃ¡cs-hegy
+TolmÃ¡cs
 Tolma
 Tolna County
-Tolnai-hegyhát
-Tolnaitanyák
+Tolnai-hegyhÃ¡t
+TolnaitanyÃ¡k
 Tolnaitelep
 Tolna Megye
-Tolna-Mözs
-Tolnanémedi
+Tolna-MÃ¶zs
+TolnanÃ©medi
 Tolna
-Tölösaljai Puszta
-Tölöshegy
-Tölösipuszta
-Tölösmajor
-Tölös
-Tölöspuszta
-Töltésalja
-Töltéstava
+TÃ¶lÃ¶saljai Puszta
+TÃ¶lÃ¶shegy
+TÃ¶lÃ¶sipuszta
+TÃ¶lÃ¶smajor
+TÃ¶lÃ¶s
+TÃ¶lÃ¶spuszta
+TÃ¶ltÃ©salja
+TÃ¶ltÃ©stava
 Tolvaj-hegy
 Tolvajlapos
 Tolvajos
-Tölyvös-dûlõ
-Tölyvös
-Tölyvöspuszta
-Tomács
+TÃ¶lyvÃ¶s-dÅ±lÅ‘
+TÃ¶lyvÃ¶s
+TÃ¶lyvÃ¶spuszta
+TomÃ¡cs
 Tomajitanya
 Tomajmonostora
 Tomaj
-Tómajor
-Tomarész
-Tömedékakna
-Tomépuszta
+TÃ³major
+TomarÃ©sz
+TÃ¶medÃ©kakna
+TomÃ©puszta
 Tomi-puszta
-Tömlöc-hegy
-Tömölkenyi Major
-Tömörd
-Tömördpuszta
+TÃ¶mlÃ¶c-hegy
+TÃ¶mÃ¶lkenyi Major
+TÃ¶mÃ¶rd
+TÃ¶mÃ¶rdpuszta
 Tomori-puszta
 Tomori-tag
 Tomori-tanya
-Tömörke
-Tömörkényimajor
-Tömörkény
-Tömörke Patak
-Tömörkepuszta
+TÃ¶mÃ¶rke
+TÃ¶mÃ¶rkÃ©nyimajor
+TÃ¶mÃ¶rkÃ©ny
+TÃ¶mÃ¶rke Patak
+TÃ¶mÃ¶rkepuszta
 Tomor
 Tomorpuszta
 Tomorytanya
-Tompa-dûlõ
-Tompahát
-Tompai Örökföldek
+Tompa-dÅ±lÅ‘
+TompahÃ¡t
+Tompai Ã–rÃ¶kfÃ¶ldek
 Tompai Telep
-Tompaládony
+TompalÃ¡dony
 Tompamajor
 Tompa
 Tompapuszta
 Tompatanya
-Tömpekert
-Tömpör
+TÃ¶mpekert
+TÃ¶mpÃ¶r
 Tompos-hegy
-Tömpös
-Tónagyság
-Tónimajor
-Tóniszállás
-Tönkölös-hegy
-Topán-dûlõ
-Topánpuszta
-Tópartdûlõ
-Tóparti Tanya
-Tópart
-Tópartpuszta
-Tóparttanya
-Topástjapuszta
-Tópástyapuszta
-Tópasziget
+TÃ¶mpÃ¶s
+TÃ³nagysÃ¡g
+TÃ³nimajor
+TÃ³niszÃ¡llÃ¡s
+TÃ¶nkÃ¶lÃ¶s-hegy
+TopÃ¡n-dÅ±lÅ‘
+TopÃ¡npuszta
+TÃ³partdÅ±lÅ‘
+TÃ³parti Tanya
+TÃ³part
+TÃ³partpuszta
+TÃ³parttanya
+TopÃ¡stjapuszta
+TÃ³pÃ¡styapuszta
+TÃ³pasziget
 Topola-hegy
 Topolya
 Topolyatanya
-Toponár
-Torbágyi Tanyák
-Torbágy
+ToponÃ¡r
+TorbÃ¡gyi TanyÃ¡k
+TorbÃ¡gy
 Torbaytanya
 Tordahegy
 Tordai-sziget
-Tordasiújmajor
+TordasiÃºjmajor
 Tordas
 Tordosa
-Törekihegy
-Töreki
-Törekipuszta
-Törekpuszta
-Torgyántag
-Torgyán Tanya
-Törikszakadcsárda
-Törjékpuszta
-Törleymajor
-Tormafölde
+TÃ¶rekihegy
+TÃ¶reki
+TÃ¶rekipuszta
+TÃ¶rekpuszta
+TorgyÃ¡ntag
+TorgyÃ¡n Tanya
+TÃ¶rikszakadcsÃ¡rda
+TÃ¶rjÃ©kpuszta
+TÃ¶rleymajor
+TormafÃ¶lde
 Tormahegy
-Tormásdûlõ
-Tormás-hegy
-Tormási-földek
-Tormási-major
-Tormásitanya
-Tormásliget
-Tormás
-Tormáspuszta
-Tormástanya
-Tormás-telek
-Tornaág
+TormÃ¡sdÅ±lÅ‘
+TormÃ¡s-hegy
+TormÃ¡si-fÃ¶ldek
+TormÃ¡si-major
+TormÃ¡sitanya
+TormÃ¡sliget
+TormÃ¡s
+TormÃ¡spuszta
+TormÃ¡stanya
+TormÃ¡s-telek
+TornaÃ¡g
 Tornabarakony
-Tornafõdûlõ
-Tornai-dombság
+TornafÅ‘dÅ±lÅ‘
+Tornai-dombsÃ¡g
 Tornai-karszt
-Tornakápolna
+TornakÃ¡polna
 Tornallyaitanya
 Tornallyay-tanya
-Tornanádaska
+TornanÃ¡daska
 Torna
 Torna-patak
-Tornaszentandrás
+TornaszentandrÃ¡s
 Tornaszentjakab
-Torna Víz
-Tornvosnémeti
-Tornyiszentmiklós
-Tornyó
-Tornyosdûlõ
-Tornyosnémeti
-Tornyospálca
+Torna VÃ­z
+TornvosnÃ©meti
+TornyiszentmiklÃ³s
+TornyÃ³
+TornyosdÅ±lÅ‘
+TornyosnÃ©meti
+TornyospÃ¡lca
 Tornyostanya
-Töröcske
-Törökbálinti-patak
-Törökbálint
-Törökcsapáshegy
-Török-csapás
-Törökcsapás-tanya
-Török-domb
-Török-dûlõ
-Törökér
-Törökértanya
-Törökfái
-Török-halom
-Törökhalompuszta
-Törökhegy
-Törökkoppányi Tanya
-Törökkoppány
-Török-kút-dûlõ
-Törökkúttanya
-Törökmajor
+TÃ¶rÃ¶cske
+TÃ¶rÃ¶kbÃ¡linti-patak
+TÃ¶rÃ¶kbÃ¡lint
+TÃ¶rÃ¶kcsapÃ¡shegy
+TÃ¶rÃ¶k-csapÃ¡s
+TÃ¶rÃ¶kcsapÃ¡s-tanya
+TÃ¶rÃ¶k-domb
+TÃ¶rÃ¶k-dÅ±lÅ‘
+TÃ¶rÃ¶kÃ©r
+TÃ¶rÃ¶kÃ©rtanya
+TÃ¶rÃ¶kfÃ¡i
+TÃ¶rÃ¶k-halom
+TÃ¶rÃ¶khalompuszta
+TÃ¶rÃ¶khegy
+TÃ¶rÃ¶kkoppÃ¡nyi Tanya
+TÃ¶rÃ¶kkoppÃ¡ny
+TÃ¶rÃ¶k-kÃºt-dÅ±lÅ‘
+TÃ¶rÃ¶kkÃºttanya
+TÃ¶rÃ¶kmajor
 Torok
-Török-patak
-Török Patak
-Törökpuszta
-Torokrét
-Török-rét
-Törökrétpuszta
-Törökszenimiklós
-Törökszentmiklós
-Török-sziget
-Töröksziget
-Török-tag
+TÃ¶rÃ¶k-patak
+TÃ¶rÃ¶k Patak
+TÃ¶rÃ¶kpuszta
+TorokrÃ©t
+TÃ¶rÃ¶k-rÃ©t
+TÃ¶rÃ¶krÃ©tpuszta
+TÃ¶rÃ¶kszenimiklÃ³s
+TÃ¶rÃ¶kszentmiklÃ³s
+TÃ¶rÃ¶k-sziget
+TÃ¶rÃ¶ksziget
+TÃ¶rÃ¶k-tag
 Toroktanya
-Török-tanya
-Töröktanya
-Törökugrató
-Török Vár
-Törökzug
+TÃ¶rÃ¶k-tanya
+TÃ¶rÃ¶ktanya
+TÃ¶rÃ¶kugratÃ³
+TÃ¶rÃ¶k VÃ¡r
+TÃ¶rÃ¶kzug
 Toronyitanya
 Torony
-Tõröspuszta
-Torryosnémeti
-Törsökös
-Törtel
-Tortyogó
+TÅ‘rÃ¶spuszta
+TorryosnÃ©meti
+TÃ¶rsÃ¶kÃ¶s
+TÃ¶rtel
+TortyogÃ³
 Torvaj
-Toryosnémeti
-Torzsás
-Törzsök-hegy
-Törzsökhegy
-Törzsökös
-Tõsemöge
-Tõserdõ
-Tõsértanya
-Tósokberénd
-Tósok
-Tószeg
-Tót-ér-hát
-Tõtevényi Tanyák
-Tõtevény
-Tótfalu
-Tótfalupuszta
-Tótfalu-tanya
-Tót Gyurka Szék Dûlõ
-Tótgyurkaszék
-Tóth D.-tanya
-Tót-hegyes
-Tót-hegy
-Tóthegy
-Tóthfalu
-Tóth Ferenc-tag
-Tóthföld
-Tóth Gábor-tag
-Tóth János Dombja
-Tóth László Dûlõ
-Tóth-major
-Tóth-mezõ
-Tóth Miska-halom
-Tóthtag
-Tóthtanya
-Tóthtelep
-Tóti Állami Gazdaság
-Tóti-hegy
-Tótihegy
-Tótimajor
-Tótipuszta
-Tót János Dombja Dûlõ
-Tótkéritanyák
-Tótkmolós
-Tótkomlós-éri-csatorna
-Tótkomlós-éri-fõcsatorna
-Tótkomlós-ér
-Tótkomlósi-ér
-Tótkomlósi Tanyák
-Tótkomlós
-Tótmezõ
-Tótokföldje
-Tótokilap
-Tótréde
-Tótrét
-Tótszentgyögy
-Tótszentgyörgy
-Tótszentmárton
-Tótszerdahely
-Tót-sziget
-Töttös
-Tótújfalu
-Tótvármajor
-Tótvár
-Tótvárosi Hegy
-Tótvárpuszta
-Tótvázsony
-Tótvölgy
-Tóútja
-Tó Útja
-Tóvároskert
-Tóverõtanya
-Tövesmajor
-Tövises
-Tövisestanya
-Töviskeshát
-Töviskes
-Tõviskes
-Tõviskes-puszta
-Töviskestanya
-Tó-völgyi-patak
-Tóvölgyi Patak
-Tó-völgy
-Tóvölgy
-Tõzeggyármajor
-Tõzegtelep
-Tõzsértanyák
-Tõzsértanya
+ToryosnÃ©meti
+TorzsÃ¡s
+TÃ¶rzsÃ¶k-hegy
+TÃ¶rzsÃ¶khegy
+TÃ¶rzsÃ¶kÃ¶s
+TÅ‘semÃ¶ge
+TÅ‘serdÅ‘
+TÅ‘sÃ©rtanya
+TÃ³sokberÃ©nd
+TÃ³sok
+TÃ³szeg
+TÃ³t-Ã©r-hÃ¡t
+TÅ‘tevÃ©nyi TanyÃ¡k
+TÅ‘tevÃ©ny
+TÃ³tfalu
+TÃ³tfalupuszta
+TÃ³tfalu-tanya
+TÃ³t Gyurka SzÃ©k DÅ±lÅ‘
+TÃ³tgyurkaszÃ©k
+TÃ³th D.-tanya
+TÃ³t-hegyes
+TÃ³t-hegy
+TÃ³thegy
+TÃ³thfalu
+TÃ³th Ferenc-tag
+TÃ³thfÃ¶ld
+TÃ³th GÃ¡bor-tag
+TÃ³th JÃ¡nos Dombja
+TÃ³th LÃ¡szlÃ³ DÅ±lÅ‘
+TÃ³th-major
+TÃ³th-mezÅ‘
+TÃ³th Miska-halom
+TÃ³thtag
+TÃ³thtanya
+TÃ³thtelep
+TÃ³ti Ãllami GazdasÃ¡g
+TÃ³ti-hegy
+TÃ³tihegy
+TÃ³timajor
+TÃ³tipuszta
+TÃ³t JÃ¡nos Dombja DÅ±lÅ‘
+TÃ³tkÃ©ritanyÃ¡k
+TÃ³tkmolÃ³s
+TÃ³tkomlÃ³s-Ã©ri-csatorna
+TÃ³tkomlÃ³s-Ã©ri-fÅ‘csatorna
+TÃ³tkomlÃ³s-Ã©r
+TÃ³tkomlÃ³si-Ã©r
+TÃ³tkomlÃ³si TanyÃ¡k
+TÃ³tkomlÃ³s
+TÃ³tmezÅ‘
+TÃ³tokfÃ¶ldje
+TÃ³tokilap
+TÃ³trÃ©de
+TÃ³trÃ©t
+TÃ³tszentgyÃ¶gy
+TÃ³tszentgyÃ¶rgy
+TÃ³tszentmÃ¡rton
+TÃ³tszerdahely
+TÃ³t-sziget
+TÃ¶ttÃ¶s
+TÃ³tÃºjfalu
+TÃ³tvÃ¡rmajor
+TÃ³tvÃ¡r
+TÃ³tvÃ¡rosi Hegy
+TÃ³tvÃ¡rpuszta
+TÃ³tvÃ¡zsony
+TÃ³tvÃ¶lgy
+TÃ³Ãºtja
+TÃ³ Ãštja
+TÃ³vÃ¡roskert
+TÃ³verÅ‘tanya
+TÃ¶vesmajor
+TÃ¶vises
+TÃ¶visestanya
+TÃ¶viskeshÃ¡t
+TÃ¶viskes
+TÅ‘viskes
+TÅ‘viskes-puszta
+TÃ¶viskestanya
+TÃ³-vÃ¶lgyi-patak
+TÃ³vÃ¶lgyi Patak
+TÃ³-vÃ¶lgy
+TÃ³vÃ¶lgy
+TÅ‘zeggyÃ¡rmajor
+TÅ‘zegtelep
+TÅ‘zsÃ©rtanyÃ¡k
+TÅ‘zsÃ©rtanya
 Transdanubia
 Transtisia
 Transtisza
-Trecskódûlõ
+TrecskÃ³dÅ±lÅ‘
 Trefortpuszta
-Trékitanya
-Trencsényitanya
-Trinitás
-Tripoliszlakótelep
+TrÃ©kitanya
+TrencsÃ©nyitanya
+TrinitÃ¡s
+TripoliszlakÃ³telep
 Trischlerpuszta
 Trizs
-Trokártanya
-Trombitásmalom
-Trombitás
-Trombitás Tanya
+TrokÃ¡rtanya
+TrombitÃ¡smalom
+TrombitÃ¡s
+TrombitÃ¡s Tanya
 Truskovszkytanya
 Tschurlmajor
 Tubes
 Tubuka-hegy
 Tubuka
-Tücsökmajor
-Tücsöktanya
-Tukaszilágy
-Tükörmajor
-Tükör-tó
-Tukótanya
-Tükrösmajor
-Tükrös
-Tükröspuszta
-Tükrösújtelep
-Tulád
-Túladunadûlõ
-Túladuna
-Túladunatanya
-Túlahegy
-Tulákitanya
-Túl a Körös
-Túlatarna
-Tuláti Nagyrét
-Tuláti Tanyák
-Tulát
-Túlát
-Tulipánház
-Tulipánkert
-Tullusi-dûlõ
+TÃ¼csÃ¶kmajor
+TÃ¼csÃ¶ktanya
+TukaszilÃ¡gy
+TÃ¼kÃ¶rmajor
+TÃ¼kÃ¶r-tÃ³
+TukÃ³tanya
+TÃ¼krÃ¶smajor
+TÃ¼krÃ¶s
+TÃ¼krÃ¶spuszta
+TÃ¼krÃ¶sÃºjtelep
+TulÃ¡d
+TÃºladunadÅ±lÅ‘
+TÃºladuna
+TÃºladunatanya
+TÃºlahegy
+TulÃ¡kitanya
+TÃºl a KÃ¶rÃ¶s
+TÃºlatarna
+TulÃ¡ti NagyrÃ©t
+TulÃ¡ti TanyÃ¡k
+TulÃ¡t
+TÃºlÃ¡t
+TulipÃ¡nhÃ¡z
+TulipÃ¡nkert
+Tullusi-dÅ±lÅ‘
 Tullus
-Túlsóángyád
-Túlsópáskom
-Tündérhalom
-Tündérmajor
-Tündér-tó
+TÃºlsÃ³Ã¡ngyÃ¡d
+TÃºlsÃ³pÃ¡skom
+TÃ¼ndÃ©rhalom
+TÃ¼ndÃ©rmajor
+TÃ¼ndÃ©r-tÃ³
 Tunglimajor
 Tungli-malom
 Tunyog-hegy
-Tunyogmatolcs Alsó
+Tunyogmatolcs AlsÃ³
 Tunyogmatolcsi-Holt-Szamos
 Tunyogmatolcs
 Tunyog
@@ -22038,103 +22038,103 @@ Tunyok-hegy
 Turai Tanya
 Tura
 Turaytanya
-Turbék
-Turbékpuszta
-Túr-belvízfõcsatorna
+TurbÃ©k
+TurbÃ©kpuszta
+TÃºr-belvÃ­zfÅ‘csatorna
 Turbina
 Turbucztanya
-Turcsányimalom
-Túrcsatorna
-Túr-fõcsatorna
+TurcsÃ¡nyimalom
+TÃºrcsatorna
+TÃºr-fÅ‘csatorna
 Turgony
-Túrhidja
-Túristvándi
-Túritanya
-Turjánosdûlõ
-Turjános
-Turjántanya
-Turjányos
-Türje
-Túrkeddi-kert
-Túrkeddi Szõllõ
-Túrkedd
-Túrkevei-Csorba
-Túrkeve
-Túrmöge
+TÃºrhidja
+TÃºristvÃ¡ndi
+TÃºritanya
+TurjÃ¡nosdÅ±lÅ‘
+TurjÃ¡nos
+TurjÃ¡ntanya
+TurjÃ¡nyos
+TÃ¼rje
+TÃºrkeddi-kert
+TÃºrkeddi SzÅ‘llÅ‘
+TÃºrkedd
+TÃºrkevei-Csorba
+TÃºrkeve
+TÃºrmÃ¶ge
 Tur
-Túr
-Túróczitanya
-Túródi
-Túródmajor
-Túróhegy
-Túró-mezõ
-Túrony
-Túrpásztó
-Túr-patak
-Turpéter Telep
-Túrricse
-Túr-tõ
+TÃºr
+TÃºrÃ³czitanya
+TÃºrÃ³di
+TÃºrÃ³dmajor
+TÃºrÃ³hegy
+TÃºrÃ³-mezÅ‘
+TÃºrony
+TÃºrpÃ¡sztÃ³
+TÃºr-patak
+TurpÃ©ter Telep
+TÃºrricse
+TÃºr-tÅ‘
 Turul
 Turu
-Túr-víz
-Túrytanya
+TÃºr-vÃ­z
+TÃºrytanya
 Tusakos
-Tusáktanya
-Tuskatány Tanya
-Tüskei-árok
-Tüske
-Tüskés-dûlõ
-Tüskésdûlõ
-Tüskés-major
-Tüskésmajor
-Tüskés
-Tüskéspuszta
-Tüskeszentpéter
-Tüskevárimajor
-Tüskevár
-Tuskóföld
-Tuskómajor
-Tuskó
-Tuskópuszta
-Tuskósmajor
-Tuskós
-Tüskös
-Tuskóspuszta
-Tüttös
-Tutucska-dûlõ
+TusÃ¡ktanya
+TuskatÃ¡ny Tanya
+TÃ¼skei-Ã¡rok
+TÃ¼ske
+TÃ¼skÃ©s-dÅ±lÅ‘
+TÃ¼skÃ©sdÅ±lÅ‘
+TÃ¼skÃ©s-major
+TÃ¼skÃ©smajor
+TÃ¼skÃ©s
+TÃ¼skÃ©spuszta
+TÃ¼skeszentpÃ©ter
+TÃ¼skevÃ¡rimajor
+TÃ¼skevÃ¡r
+TuskÃ³fÃ¶ld
+TuskÃ³major
+TuskÃ³
+TuskÃ³puszta
+TuskÃ³smajor
+TuskÃ³s
+TÃ¼skÃ¶s
+TuskÃ³spuszta
+TÃ¼ttÃ¶s
+Tutucska-dÅ±lÅ‘
 Tutucskapuszta
 Tutyimajor
-Túzberek
-Túzberekpuszta
-Tüzérlaktanya
-Tüzesszõllõ
-Tüzesszõlõ
-Tûzkõ-hegy
-Tûzkõhegy
-Tûzköves-halom
-Tûzköves
-Túzok-hegy
-Túzokmajor
-Túzok
-Túzokosi-tanyák
-Túzokosmajor
-Túzokos
-Túzokos-tanya
+TÃºzberek
+TÃºzberekpuszta
+TÃ¼zÃ©rlaktanya
+TÃ¼zesszÅ‘llÅ‘
+TÃ¼zesszÅ‘lÅ‘
+TÅ±zkÅ‘-hegy
+TÅ±zkÅ‘hegy
+TÅ±zkÃ¶ves-halom
+TÅ±zkÃ¶ves
+TÃºzok-hegy
+TÃºzokmajor
+TÃºzok
+TÃºzokosi-tanyÃ¡k
+TÃºzokosmajor
+TÃºzokos
+TÃºzokos-tanya
 Tuzsa
-Tuzsér
-Tyúkhegy
+TuzsÃ©r
+TyÃºkhegy
 Tyukodi Csatorna
-Tyukodi Újtelep
-Tyukodi-vájás
+Tyukodi Ãšjtelep
+Tyukodi-vÃ¡jÃ¡s
 Tyukod
-Tyúkos-dûlõ
-Tyúkosdûlõ
-Tyúkos Halom
+TyÃºkos-dÅ±lÅ‘
+TyÃºkosdÅ±lÅ‘
+TyÃºkos Halom
 Tyukospuszta
-Tyúktelep
-Úbaldpuszta
+TyÃºktelep
+Ãšbaldpuszta
 Ucekaj
-Üdülõtelep
+ÃœdÃ¼lÅ‘telep
 Udvarditelep
 Udvardytelep
 Udvarhelypuszta
@@ -22143,220 +22143,220 @@ Udvarnoki Tanya
 Udvarnok
 Udvar
 Ugajpuszta
-Ugardûlõ
-Ugaritanyák
-Ugari Tanyák
+UgardÅ±lÅ‘
+UgaritanyÃ¡k
+Ugari TanyÃ¡k
 Ugar
 Ugartelek
 Ugod
 Ugornya
-Ugriszõllõk
-Ugri-szõlõ
-Ugrócz
-Ugyeri-szõlõk
+UgriszÅ‘llÅ‘k
+Ugri-szÅ‘lÅ‘
+UgrÃ³cz
+Ugyeri-szÅ‘lÅ‘k
 Ugyer
-Ugyer Szõllõk
-Ugyerszõlõ
-Újakna
-Újakna-telep
-Újaladár
-Újállás-hegy
-Újavaspuszta
-Újbalázsfalva
-Újballa
-Újballatag
-Újbarok
-Újberek
-Újberekpuszta
-Újbiród
-Újbogaras
-Újbogárdpuszta
-Újbög
-Újborjád
-Újcsáford
-Újcsanálos
-Újdalmand
-Újdombóvár
-Újdombrád
-Újdongókút
-Újdörögd
-Újdörögdpuszta
-Újdrágszél
-Újerdõmajor
-Újerdõ
-Újerdõstanya
-Újfalu
+Ugyer SzÅ‘llÅ‘k
+UgyerszÅ‘lÅ‘
+Ãšjakna
+Ãšjakna-telep
+ÃšjaladÃ¡r
+ÃšjÃ¡llÃ¡s-hegy
+Ãšjavaspuszta
+ÃšjbalÃ¡zsfalva
+Ãšjballa
+Ãšjballatag
+Ãšjbarok
+Ãšjberek
+Ãšjberekpuszta
+ÃšjbirÃ³d
+Ãšjbogaras
+ÃšjbogÃ¡rdpuszta
+ÃšjbÃ¶g
+ÃšjborjÃ¡d
+ÃšjcsÃ¡ford
+ÃšjcsanÃ¡los
+Ãšjdalmand
+ÃšjdombÃ³vÃ¡r
+ÃšjdombrÃ¡d
+ÃšjdongÃ³kÃºt
+ÃšjdÃ¶rÃ¶gd
+ÃšjdÃ¶rÃ¶gdpuszta
+ÃšjdrÃ¡gszÃ©l
+ÃšjerdÅ‘major
+ÃšjerdÅ‘
+ÃšjerdÅ‘stanya
+Ãšjfalu
 Ujfalusi Major
-Újfalussytag
-Újfalussytanya
-Újfehértói Úti Tanyák
-Újfehértó
-Új Fejertó
-Újfenyõs
-Új-fogás-tetõ
-Újfokitanya
-Újfok
-Újföldek
-Újföld
-Újgalambos
-Újgalambospuszta
-Ujgút
-Újhangyási Szõllõ
-Újharangod
-Újhartyán
-Újházhelyek
-Újházhely
-Újházitanya
-Újházmajor
-Újházpuszta
-Újhedrehely
-Újhegyidûlõk
-Újhegyi Szõllõk
-Új-hegy
-Újhegy
-Új Hegy
-Újhelyitanya
-Újhely
-Újhidegkútpuszta
-Újhídi-major
-Újhídmajor
-Újhódospuszta
-Új-Homokkert
-Újiráz
-Újireg
-Újiskola
-Újistálló
-Újistállópuszta
-Újjárás
-Újkécske
-Újkenéz
-Újkereszt-tetõ
-Újkér
-Új-kert
-Újkert
-Újkerttanya
-Újkígyós
-Újkiosztás
-Újkóvár
-Új-kút-dûlõ
-Újkútdûlõ
-Újkút
-Újkútpuszta
-Új-kút-tetõ
-Újladány
-Új-Ladány
-Újlakitanya
-Újlakpuszta
-Újlengyel
-Újlétai Tanyák
-Újléta
-Újlivadapuszta
-Újlõrincfalva
-Új-Magasd
-Új-major
-Újmajor
-Újmalom
-Újmalomsok
-Újmassa
-Újmegyes
-Újmenyõd
-Újmeszestelepek
-Újmezõhegyes
-Újmihályfa
-Újmohács
-Újnéppuszta
-Újosztálydûlõ
-Ujosztás
-Új-osztás
-Újosztás
-Újosztástelep
-Újpest
-Új-Péterhida
-Újpetre
-Újpogány
-Újpuszta
-Újrakodó
-Új Romogy-puszta
-Újrónafõ
-Újsajó
-Újsályi
-Újsiska
-Újsolt
-Újsomló
-Újsor
-Újsörnyepuszta
-Újsortanya
-Újszabar
-Újszajdamajor
-Újszálláspuszta
-Újszalontai Tanyák
-Újszalonta
-Újszanda
-Újszanda Sírbolt
-Új-Szász-halom
-Újszász
-Újszeged
-Újszentgyörgy
-Uj Szent-György Puszta
-Újszentiván
-Újszentmargita Állomás
-Újszentmargita
-Új-sziget
-Újszilas-puszta
-Újszilvás
-Újszõllõdûlõ
-Újszõllõ-hegy
-Újszõllõk
-Újszõllõ
-Újszõllõskert
-Újszõllõstanya
-Újszõllõtelep
-Új-szõlõhegy
-Új-szõlõk
-Új-szõlõ
-Újszõlõ
-Újszõlõskert
+Ãšjfalussytag
+Ãšjfalussytanya
+ÃšjfehÃ©rtÃ³i Ãšti TanyÃ¡k
+ÃšjfehÃ©rtÃ³
+Ãšj FejertÃ³
+ÃšjfenyÅ‘s
+Ãšj-fogÃ¡s-tetÅ‘
+Ãšjfokitanya
+Ãšjfok
+ÃšjfÃ¶ldek
+ÃšjfÃ¶ld
+Ãšjgalambos
+Ãšjgalambospuszta
+UjgÃºt
+ÃšjhangyÃ¡si SzÅ‘llÅ‘
+Ãšjharangod
+ÃšjhartyÃ¡n
+ÃšjhÃ¡zhelyek
+ÃšjhÃ¡zhely
+ÃšjhÃ¡zitanya
+ÃšjhÃ¡zmajor
+ÃšjhÃ¡zpuszta
+Ãšjhedrehely
+ÃšjhegyidÅ±lÅ‘k
+Ãšjhegyi SzÅ‘llÅ‘k
+Ãšj-hegy
+Ãšjhegy
+Ãšj Hegy
+Ãšjhelyitanya
+Ãšjhely
+ÃšjhidegkÃºtpuszta
+ÃšjhÃ­di-major
+ÃšjhÃ­dmajor
+ÃšjhÃ³dospuszta
+Ãšj-Homokkert
+ÃšjirÃ¡z
+Ãšjireg
+Ãšjiskola
+ÃšjistÃ¡llÃ³
+ÃšjistÃ¡llÃ³puszta
+ÃšjjÃ¡rÃ¡s
+ÃšjkÃ©cske
+ÃšjkenÃ©z
+Ãšjkereszt-tetÅ‘
+ÃšjkÃ©r
+Ãšj-kert
+Ãšjkert
+Ãšjkerttanya
+ÃšjkÃ­gyÃ³s
+ÃšjkiosztÃ¡s
+ÃšjkÃ³vÃ¡r
+Ãšj-kÃºt-dÅ±lÅ‘
+ÃšjkÃºtdÅ±lÅ‘
+ÃšjkÃºt
+ÃšjkÃºtpuszta
+Ãšj-kÃºt-tetÅ‘
+ÃšjladÃ¡ny
+Ãšj-LadÃ¡ny
+Ãšjlakitanya
+Ãšjlakpuszta
+Ãšjlengyel
+ÃšjlÃ©tai TanyÃ¡k
+ÃšjlÃ©ta
+Ãšjlivadapuszta
+ÃšjlÅ‘rincfalva
+Ãšj-Magasd
+Ãšj-major
+Ãšjmajor
+Ãšjmalom
+Ãšjmalomsok
+Ãšjmassa
+Ãšjmegyes
+ÃšjmenyÅ‘d
+Ãšjmeszestelepek
+ÃšjmezÅ‘hegyes
+ÃšjmihÃ¡lyfa
+ÃšjmohÃ¡cs
+ÃšjnÃ©ppuszta
+ÃšjosztÃ¡lydÅ±lÅ‘
+UjosztÃ¡s
+Ãšj-osztÃ¡s
+ÃšjosztÃ¡s
+ÃšjosztÃ¡stelep
+Ãšjpest
+Ãšj-PÃ©terhida
+Ãšjpetre
+ÃšjpogÃ¡ny
+Ãšjpuszta
+ÃšjrakodÃ³
+Ãšj Romogy-puszta
+ÃšjrÃ³nafÅ‘
+ÃšjsajÃ³
+ÃšjsÃ¡lyi
+Ãšjsiska
+Ãšjsolt
+ÃšjsomlÃ³
+Ãšjsor
+ÃšjsÃ¶rnyepuszta
+Ãšjsortanya
+Ãšjszabar
+Ãšjszajdamajor
+ÃšjszÃ¡llÃ¡spuszta
+Ãšjszalontai TanyÃ¡k
+Ãšjszalonta
+Ãšjszanda
+Ãšjszanda SÃ­rbolt
+Ãšj-SzÃ¡sz-halom
+ÃšjszÃ¡sz
+Ãšjszeged
+ÃšjszentgyÃ¶rgy
+Uj Szent-GyÃ¶rgy Puszta
+ÃšjszentivÃ¡n
+Ãšjszentmargita ÃllomÃ¡s
+Ãšjszentmargita
+Ãšj-sziget
+Ãšjszilas-puszta
+ÃšjszilvÃ¡s
+ÃšjszÅ‘llÅ‘dÅ±lÅ‘
+ÃšjszÅ‘llÅ‘-hegy
+ÃšjszÅ‘llÅ‘k
+ÃšjszÅ‘llÅ‘
+ÃšjszÅ‘llÅ‘skert
+ÃšjszÅ‘llÅ‘stanya
+ÃšjszÅ‘llÅ‘telep
+Ãšj-szÅ‘lÅ‘hegy
+Ãšj-szÅ‘lÅ‘k
+Ãšj-szÅ‘lÅ‘
+ÃšjszÅ‘lÅ‘
+ÃšjszÅ‘lÅ‘skert
 Ujszony
-Újtábladûlõ
-Újtábla
-Újtagmajor
-Új-tag
-Újtanya
-Újtelekbokor
-Újtelek
-Újtelep
-Újtelkibokor
-Újtikos
-Újtitkos
-Újtompa
-Újtörésdûlõ
-Újtótanya
-Újudvar
-Újvárfalva
-Újvárhegy
-Újváritanya
-Új-városi Hegy
-Újváros
-Újvarsány
-Újvarsánypuszta
-Újvarsány-tanya
-Újvártanya
-Újvenyim
-Újviág
-Újvilág
-Újvillasor
-Újvillongó
-Újvirághegyszõllõ
-Újvölgyimajor
-Újvölgy
-Újzoborpuszta
-Újzsippó
-Újzsúnypuszta
+ÃšjtÃ¡bladÅ±lÅ‘
+ÃšjtÃ¡bla
+Ãšjtagmajor
+Ãšj-tag
+Ãšjtanya
+Ãšjtelekbokor
+Ãšjtelek
+Ãšjtelep
+Ãšjtelkibokor
+Ãšjtikos
+Ãšjtitkos
+Ãšjtompa
+ÃšjtÃ¶rÃ©sdÅ±lÅ‘
+ÃšjtÃ³tanya
+Ãšjudvar
+ÃšjvÃ¡rfalva
+ÃšjvÃ¡rhegy
+ÃšjvÃ¡ritanya
+Ãšj-vÃ¡rosi Hegy
+ÃšjvÃ¡ros
+ÃšjvarsÃ¡ny
+ÃšjvarsÃ¡nypuszta
+ÃšjvarsÃ¡ny-tanya
+ÃšjvÃ¡rtanya
+Ãšjvenyim
+ÃšjviÃ¡g
+ÃšjvilÃ¡g
+Ãšjvillasor
+ÃšjvillongÃ³
+ÃšjvirÃ¡ghegyszÅ‘llÅ‘
+ÃšjvÃ¶lgyimajor
+ÃšjvÃ¶lgy
+Ãšjzoborpuszta
+ÃšjzsippÃ³
+ÃšjzsÃºnypuszta
 Ukk
-Ükmös
-Üllési Tanyák
-Üllés
-Üllõ
+ÃœkmÃ¶s
+ÃœllÃ©si TanyÃ¡k
+ÃœllÃ©s
+ÃœllÅ‘
 Ultra
 Und
 Ungaria
@@ -22369,125 +22369,125 @@ Ungjakabfa
 Ung
 Ungor-major
 Ungortanya
-Ungvárirész
-Únyi-patak
-Úny
+UngvÃ¡rirÃ©sz
+Ãšnyi-patak
+Ãšny
 Upper Hungarian Plain
-Upponyi-hegység
+Upponyi-hegysÃ©g
 Upponyi-vonulat
 Uppony
-Uradalmi Szõllõtelep
+Uradalmi SzÅ‘llÅ‘telep
 Uraitanya
-Uraiújfalu
+UraiÃºjfalu
 Uraj
 Urak Asztala
 Ura
-Urasági Dûlõ
-Urasági-Felsõ-tag
-Uraságitag
+UrasÃ¡gi DÅ±lÅ‘
+UrasÃ¡gi-FelsÅ‘-tag
+UrasÃ¡gitag
 Urasztala
 Uraytanya
-Urbán-dûlõ
+UrbÃ¡n-dÅ±lÅ‘
 Urbanikmalom
-Urbán József-tanya
-Urbán-nagy-major
-Urbántanya
-Urbárium
-Úrbér-erdészház
-Úrbérpuszta
-Ürbõpuszta
-Üreghuta
-Ürgehátiföld
-Ürgehát
-Ürgehegy
-Ürgemajor
-Ürgés-dûlõ
-Ürgéskert
-Ürgés
-Ürgéspuszta
-Ürgetanya
-Ürgevár
-Ürgevárpuszta
-Úrházimalom
-Úrházi-patak
-Úrhegyipuszta
-Úr-hegy
-Úrhegy
-Úrhida
-Úrihegy
-Úri
+UrbÃ¡n JÃ³zsef-tanya
+UrbÃ¡n-nagy-major
+UrbÃ¡ntanya
+UrbÃ¡rium
+ÃšrbÃ©r-erdÃ©szhÃ¡z
+ÃšrbÃ©rpuszta
+ÃœrbÅ‘puszta
+Ãœreghuta
+ÃœrgehÃ¡tifÃ¶ld
+ÃœrgehÃ¡t
+Ãœrgehegy
+Ãœrgemajor
+ÃœrgÃ©s-dÅ±lÅ‘
+ÃœrgÃ©skert
+ÃœrgÃ©s
+ÃœrgÃ©spuszta
+Ãœrgetanya
+ÃœrgevÃ¡r
+ÃœrgevÃ¡rpuszta
+ÃšrhÃ¡zimalom
+ÃšrhÃ¡zi-patak
+Ãšrhegyipuszta
+Ãšr-hegy
+Ãšrhegy
+Ãšrhida
+Ãšrihegy
+Ãšri
 Urkom
 Urkomtanya
-Úrkút
-Ürmös Halom
-Ürmöshát Állomás
-Ürmöshát
-Ürmöstanya
-Üröm
-Úrrét
-Úrréttanya
-Úrszegmajor
-Úr-szeg
-Urszinyi-dûlõ
-Úrszinyipuszta
-Ürümajor
-Üsökfõtanya
-Üstihegyalja
-Üsti-hegy
-Üstök-fõ
+ÃšrkÃºt
+ÃœrmÃ¶s Halom
+ÃœrmÃ¶shÃ¡t ÃllomÃ¡s
+ÃœrmÃ¶shÃ¡t
+ÃœrmÃ¶stanya
+ÃœrÃ¶m
+ÃšrrÃ©t
+ÃšrrÃ©ttanya
+Ãšrszegmajor
+Ãšr-szeg
+Urszinyi-dÅ±lÅ‘
+Ãšrszinyipuszta
+ÃœrÃ¼major
+ÃœsÃ¶kfÅ‘tanya
+Ãœstihegyalja
+Ãœsti-hegy
+ÃœstÃ¶k-fÅ‘
 Uszka
-Uszóditanyák
-Uszód
-Üszög
-Üszögpuszta
-Úszótanya
-Úsztatódûlõ
-Úsztatómajor
-Úsztató
+UszÃ³ditanyÃ¡k
+UszÃ³d
+ÃœszÃ¶g
+ÃœszÃ¶gpuszta
+ÃšszÃ³tanya
+ÃšsztatÃ³dÅ±lÅ‘
+ÃšsztatÃ³major
+ÃšsztatÃ³
 Uszthegy
-Útagitanyák
-Útféldûlõ
-Úthegy
-Útõrház
-Úttörõ
-Üveghegy
-Üveghuta
+ÃštagitanyÃ¡k
+ÃštfÃ©ldÅ±lÅ‘
+Ãšthegy
+ÃštÅ‘rhÃ¡z
+ÃšttÃ¶rÅ‘
+Ãœveghegy
+Ãœveghuta
 Uzd
 Uzdpuszta
 Uzovicstelep
-Uzsabánya Alsó
-Uzsa-Erdésztelep
+UzsabÃ¡nya AlsÃ³
+Uzsa-ErdÃ©sztelep
 Uzsalpuszta
 Uzsa
 Uzsa-puszta
-Vaáli-víz
-Vác-Alsóváros
-Vácbottyán
-Vácduka
-Vácegres
-Vácharaszt
-Váchartyán
-Vác-hegy
-Váci-hegy
-Vácitanya
-Váckisújfalu
-Václiget
-Vác
-Vácrátót
+VaÃ¡li-vÃ­z
+VÃ¡c-AlsÃ³vÃ¡ros
+VÃ¡cbottyÃ¡n
+VÃ¡cduka
+VÃ¡cegres
+VÃ¡charaszt
+VÃ¡chartyÃ¡n
+VÃ¡c-hegy
+VÃ¡ci-hegy
+VÃ¡citanya
+VÃ¡ckisÃºjfalu
+VÃ¡cliget
+VÃ¡c
+VÃ¡crÃ¡tÃ³t
 Vacsihegy
-Vácszentlászló
-Váczitanya
-Vácz
-Vadalmás
-Vadasása-major
-Vadasása
-Vadasásapuszta
+VÃ¡cszentlÃ¡szlÃ³
+VÃ¡czitanya
+VÃ¡cz
+VadalmÃ¡s
+VadasÃ¡sa-major
+VadasÃ¡sa
+VadasÃ¡sapuszta
 Vadasbokor
-Vadasdûlõ
-Vadas Fertõ
-Vadas Föld
+VadasdÅ±lÅ‘
+Vadas FertÅ‘
+Vadas FÃ¶ld
 Vadaskertimajor
-Vadaskerti-mezõ
+Vadaskerti-mezÅ‘
 Vadaskert
 Vadaskertpuszta
 Vadas-major
@@ -22496,21 +22496,21 @@ Vadas
 Vadasok
 Vadaspuszta
 Vadastanya
-Vadászcsárda
-Vadászdûlõ
-Vadász-hegy
-Vadászkastély
-Vadászkerttanya
-Vadászlaki Szõllõk
-Vadászmajor
-Vadász-patak
-Vadászszállás
-Vadászvölgy
-Vadépuszta
-Vadhányás-hegy
+VadÃ¡szcsÃ¡rda
+VadÃ¡szdÅ±lÅ‘
+VadÃ¡sz-hegy
+VadÃ¡szkastÃ©ly
+VadÃ¡szkerttanya
+VadÃ¡szlaki SzÅ‘llÅ‘k
+VadÃ¡szmajor
+VadÃ¡sz-patak
+VadÃ¡szszÃ¡llÃ¡s
+VadÃ¡szvÃ¶lgy
+VadÃ©puszta
+VadhÃ¡nyÃ¡s-hegy
 Vadicsapuszta
-Vadkeléstanya
-Vadkerti-tó
+VadkelÃ©stanya
+Vadkerti-tÃ³
 Vadkert
 Vadmeggyes
 Vadmeggyestanya
@@ -22518,292 +22518,292 @@ Vadna
 Vadosfa
 Vados
 Vadpuszta
-Vadritka-rét
+Vadritka-rÃ©t
 Vadritkatanya
-Vadszõllõtelep
+VadszÅ‘llÅ‘telep
 Vadtelep
-Vad-tó
+Vad-tÃ³
 Vadvizes
-Vágás-hegy
-Vágáshuta
-Vágás
-Vágáspuszta
-Vágat
-Vág
-Vágóháztanya
-Vágó Hegy
-Vágóhíd
-Vágot
-Vágotpuszta
-Vágotterdõ
-Vágott-halom
-Vágott Halom
-Vágott-hegy
-Vágott
-Vágottnyiresdûlõ
-Vágottnyíres
-Vagyonváltságföldek
-Vagyonváltságföld
-Vajácsbánya
-Vajácsbánya Telep
+VÃ¡gÃ¡s-hegy
+VÃ¡gÃ¡shuta
+VÃ¡gÃ¡s
+VÃ¡gÃ¡spuszta
+VÃ¡gat
+VÃ¡g
+VÃ¡gÃ³hÃ¡ztanya
+VÃ¡gÃ³ Hegy
+VÃ¡gÃ³hÃ­d
+VÃ¡got
+VÃ¡gotpuszta
+VÃ¡gotterdÅ‘
+VÃ¡gott-halom
+VÃ¡gott Halom
+VÃ¡gott-hegy
+VÃ¡gott
+VÃ¡gottnyiresdÅ±lÅ‘
+VÃ¡gottnyÃ­res
+VagyonvÃ¡ltsÃ¡gfÃ¶ldek
+VagyonvÃ¡ltsÃ¡gfÃ¶ld
+VajÃ¡csbÃ¡nya
+VajÃ¡csbÃ¡nya Telep
 Vaja-hegy
-Vajai-fõfolyás
-Vajai-folyás
-Vajai Nagy Rét
+Vajai-fÅ‘folyÃ¡s
+Vajai-folyÃ¡s
+Vajai Nagy RÃ©t
 Vaja
 Vaja-Rohod
 Vajas-fok
 Vajas
 Vajastanya
-Vajas-toroki Gátõrház
+Vajas-toroki GÃ¡tÅ‘rhÃ¡z
 Vajastorok
 Vajdabokor
-Vajdácska
-Vajdadûlõ
+VajdÃ¡cska
+VajdadÅ±lÅ‘
 Vajda-hegy
 Vajdakistanya
 Vajdamajor
 Vajdanagytanya
 Vajda-sarok
 Vajdatanya
-Vajdavár
+VajdavÃ¡r
 Vajertanya
-Vajkai Dunaág
+Vajkai DunaÃ¡g
 Vajka
 Vajkapuszta
 Vajnatanya
-Vajó-zug
-Vajszló
+VajÃ³-zug
+VajszlÃ³
 Vajta
-Vaj-tó
-Vakarás
-Vakárok-puszta
+Vaj-tÃ³
+VakarÃ¡s
+VakÃ¡rok-puszta
 Vakaroshegy
 Vakcsa
-Vakhelydûlõ
+VakhelydÅ±lÅ‘
 Vakmalom
 Vakola
-Vak-rét
-Válaspuszta
-Választódûlõ
-Valencei-hegység
-Valériadûlõ
-Valéria-major
-Valériamajor
-Valériapuszta
-Válicka
-Válicka-patak
-Válickapuszta
-Válickatanya
-Váli-csatorna
-Váli-patak
-Váli-víz
-Valkói-ág
-Valkó
+Vak-rÃ©t
+VÃ¡laspuszta
+VÃ¡lasztÃ³dÅ±lÅ‘
+Valencei-hegysÃ©g
+ValÃ©riadÅ±lÅ‘
+ValÃ©ria-major
+ValÃ©riamajor
+ValÃ©riapuszta
+VÃ¡licka
+VÃ¡licka-patak
+VÃ¡lickapuszta
+VÃ¡lickatanya
+VÃ¡li-csatorna
+VÃ¡li-patak
+VÃ¡li-vÃ­z
+ValkÃ³i-Ã¡g
+ValkÃ³
 Valkonyai Patak
 Valkonya
-Valkótanya
-Vállaj
-Vállóspuszta
-Vállóstanya
-Vállusimajor
-Vállusmajor
-Vállus
-Vál
-Változó-dûlõ
-Vályitag
-Vályitanya
-Válytanya
-Vámosatya
-Vámoscsalád
-Vámosgyörki Út Dûlõ
-Vámosgyörkiúti Dûlõ
-Vámosgyörk
-Vámosi-Sajó
-Vámosmajor
-Vámosmikola
-Vámos
-Vámosoroszi
-Vámospércs
-Vámosszabadi
-Vámosújfalu
-Vámpuszta
+ValkÃ³tanya
+VÃ¡llaj
+VÃ¡llÃ³spuszta
+VÃ¡llÃ³stanya
+VÃ¡llusimajor
+VÃ¡llusmajor
+VÃ¡llus
+VÃ¡l
+VÃ¡ltozÃ³-dÅ±lÅ‘
+VÃ¡lyitag
+VÃ¡lyitanya
+VÃ¡lytanya
+VÃ¡mosatya
+VÃ¡moscsalÃ¡d
+VÃ¡mosgyÃ¶rki Ãšt DÅ±lÅ‘
+VÃ¡mosgyÃ¶rkiÃºti DÅ±lÅ‘
+VÃ¡mosgyÃ¶rk
+VÃ¡mosi-SajÃ³
+VÃ¡mosmajor
+VÃ¡mosmikola
+VÃ¡mos
+VÃ¡mosoroszi
+VÃ¡mospÃ©rcs
+VÃ¡mosszabadi
+VÃ¡mosÃºjfalu
+VÃ¡mpuszta
 Vancsaitelep
 Vancsaytanya
-Váncsod
-Vancsópuszta
+VÃ¡ncsod
+VancsÃ³puszta
 Vanda
 Vandapuszta
-Vand-hát-dûlõ
-Vandhátpuszta
+Vand-hÃ¡t-dÅ±lÅ‘
+VandhÃ¡tpuszta
 Vantsaypuszta
 Vanyarci-patak
 Vanyarc
 Vanyarc-patak
 Vanyicspuszta
 Vanyola
-Váraditag
-Váraditanya
-Váraditelep
-Várad
-Váradvölgyitanya
-Váradytelep
-Várakpuszta
-Váraljahegy
-Váraljai-hegy
-Váralja
-Váraljapuszta
-Várárosfalu
+VÃ¡raditag
+VÃ¡raditanya
+VÃ¡raditelep
+VÃ¡rad
+VÃ¡radvÃ¶lgyitanya
+VÃ¡radytelep
+VÃ¡rakpuszta
+VÃ¡raljahegy
+VÃ¡raljai-hegy
+VÃ¡ralja
+VÃ¡raljapuszta
+VÃ¡rÃ¡rosfalu
 Varasdi-patak
 Varasd
-Varashát
+VarashÃ¡t
 Varas
-Varászló
-Váraszó
-Várbalog
-Vár-berek
-Varbóc
-Varbócska
-Varbó
-Várbükk-hegy
-Vár-bükk
-Várcsalit
-Várcsalitpuszta
-Várda
-Várdapuszta
-Várdiszõllõ
-Várdiszõlõ
-Vár-domb
-Várdomb
-Várerdõpuszta
-Vár-fenék
-Várfölde
+VarÃ¡szlÃ³
+VÃ¡raszÃ³
+VÃ¡rbalog
+VÃ¡r-berek
+VarbÃ³c
+VarbÃ³cska
+VarbÃ³
+VÃ¡rbÃ¼kk-hegy
+VÃ¡r-bÃ¼kk
+VÃ¡rcsalit
+VÃ¡rcsalitpuszta
+VÃ¡rda
+VÃ¡rdapuszta
+VÃ¡rdiszÅ‘llÅ‘
+VÃ¡rdiszÅ‘lÅ‘
+VÃ¡r-domb
+VÃ¡rdomb
+VÃ¡rerdÅ‘puszta
+VÃ¡r-fenÃ©k
+VÃ¡rfÃ¶lde
 Vargabokor
-Vargaház
+VargahÃ¡z
 Varga-hegy
 Vargahegy
 Varga
 Vargaoldal
-Varga Pál
+Varga PÃ¡l
 Vargapuszta
 Vargaszeg
 Vargasziget
 Varga-tanya
 Vargatanya
 Vargatelep
-Varga-tói-patak
-Vargató-patak
+Varga-tÃ³i-patak
+VargatÃ³-patak
 Varga-zug
-Várgesztes
+VÃ¡rgesztes
 Vargyaspuszta
-Várhát
-Várhegydûlõ
-Vár-hegy
-Várhegy
-Vár Hegy
-Várhegytanya
-Várhegytelep
-Várhelydûlõ
-Várhely
-Várhelypuszta
-Várhomok
-Vári Domb
-Vári-dûlõ
-Vári-hegy
-Váripuszta
+VÃ¡rhÃ¡t
+VÃ¡rhegydÅ±lÅ‘
+VÃ¡r-hegy
+VÃ¡rhegy
+VÃ¡r Hegy
+VÃ¡rhegytanya
+VÃ¡rhegytelep
+VÃ¡rhelydÅ±lÅ‘
+VÃ¡rhely
+VÃ¡rhelypuszta
+VÃ¡rhomok
+VÃ¡ri Domb
+VÃ¡ri-dÅ±lÅ‘
+VÃ¡ri-hegy
+VÃ¡ripuszta
 Varjak
 Varjakpuszta
-Varjasdûlõ
-Varjasi Tanyák
+VarjasdÅ±lÅ‘
+Varjasi TanyÃ¡k
 Varjas
 Varjaspuszta
-Varjas-szeg-dûlõ
+Varjas-szeg-dÅ±lÅ‘
 Varjasszeg
-Varjasszögtanya
-Varjastanyák
+VarjasszÃ¶gtanya
+VarjastanyÃ¡k
 Varjas-tanya
 Varjastanya
-Varjúdûlõ
-Varjú-hegy
-Varjúlapos
-Varjuvár
-Varjú-völgy
-Várkert
-Várkeszõ
-Várkõ
-Várkonyitanya
-Vármegyehatár
-Várnaitanya
-Vár
+VarjÃºdÅ±lÅ‘
+VarjÃº-hegy
+VarjÃºlapos
+VarjuvÃ¡r
+VarjÃº-vÃ¶lgy
+VÃ¡rkert
+VÃ¡rkeszÅ‘
+VÃ¡rkÅ‘
+VÃ¡rkonyitanya
+VÃ¡rmegyehatÃ¡r
+VÃ¡rnaitanya
+VÃ¡r
 Varnyas
 Varnyaspuszta
-Varnyas Tetõ
-Váróczidûlõ II
-Váróczidûlõ I.
-Váróczidûlõ
-Vároldal
-Várong
-Városerdõ
-Városföld
-Városhegyidûlõ
-Város-hegy
-Városhegy
-Városi Erdõ
-Városi Halastavak
-Városi Nádasok
-Városi Park
-Varosi Vízmû-telep
-Városkert
-Városlõdi Tanyák
-Városlõd-Kislõd
-Városlõd
-Város-major
-Városmajor
-Városrétidûlõ
-Várpalota
-Vár-patak
-Vár-puszta
-Varró-lapos
-Varsád
-Varsánygyüre
-Varsány-hát
-Varsányhely
-Varsány
-Varsány-tanya
-Várszeg
-Várszó
-Vártanya
-Vár-tetõ
-Várvölgyi Alsószõllõ
-Várvölgyi Alsószõlõhegy
-Várvölgy
-Várytag
+Varnyas TetÅ‘
+VÃ¡rÃ³czidÅ±lÅ‘ II
+VÃ¡rÃ³czidÅ±lÅ‘ I.
+VÃ¡rÃ³czidÅ±lÅ‘
+VÃ¡roldal
+VÃ¡rong
+VÃ¡roserdÅ‘
+VÃ¡rosfÃ¶ld
+VÃ¡roshegyidÅ±lÅ‘
+VÃ¡ros-hegy
+VÃ¡roshegy
+VÃ¡rosi ErdÅ‘
+VÃ¡rosi Halastavak
+VÃ¡rosi NÃ¡dasok
+VÃ¡rosi Park
+Varosi VÃ­zmÅ±-telep
+VÃ¡roskert
+VÃ¡roslÅ‘di TanyÃ¡k
+VÃ¡roslÅ‘d-KislÅ‘d
+VÃ¡roslÅ‘d
+VÃ¡ros-major
+VÃ¡rosmajor
+VÃ¡rosrÃ©tidÅ±lÅ‘
+VÃ¡rpalota
+VÃ¡r-patak
+VÃ¡r-puszta
+VarrÃ³-lapos
+VarsÃ¡d
+VarsÃ¡nygyÃ¼re
+VarsÃ¡ny-hÃ¡t
+VarsÃ¡nyhely
+VarsÃ¡ny
+VarsÃ¡ny-tanya
+VÃ¡rszeg
+VÃ¡rszÃ³
+VÃ¡rtanya
+VÃ¡r-tetÅ‘
+VÃ¡rvÃ¶lgyi AlsÃ³szÅ‘llÅ‘
+VÃ¡rvÃ¶lgyi AlsÃ³szÅ‘lÅ‘hegy
+VÃ¡rvÃ¶lgy
+VÃ¡rytag
 Vasadihegy
-Vasadi Tanyák
+Vasadi TanyÃ¡k
 Vasad
 Vasalja
-Vásárhalom
-Vásárhát
-Vásár-hegy
-Vásárhelyi D.-major
-Vásárhelyi-dûlõ
-Vásárhelyi-tanya
-Vásárhelykutas
-Vásárosbéc
-Vásárosdombó
-Vásárosfalu
-Vásáros-halom
-Vásároshalom
-Vásáros-hegy
-Vásárosmiske
-Vásárosnamény Külsõ
-Vásárosnamény
-Vásártér Fatelep
-Vásártér
-Vasas-Belvárdi-vízfolyás
-Vasas-Belvárdi Viz
+VÃ¡sÃ¡rhalom
+VÃ¡sÃ¡rhÃ¡t
+VÃ¡sÃ¡r-hegy
+VÃ¡sÃ¡rhelyi D.-major
+VÃ¡sÃ¡rhelyi-dÅ±lÅ‘
+VÃ¡sÃ¡rhelyi-tanya
+VÃ¡sÃ¡rhelykutas
+VÃ¡sÃ¡rosbÃ©c
+VÃ¡sÃ¡rosdombÃ³
+VÃ¡sÃ¡rosfalu
+VÃ¡sÃ¡ros-halom
+VÃ¡sÃ¡roshalom
+VÃ¡sÃ¡ros-hegy
+VÃ¡sÃ¡rosmiske
+VÃ¡sÃ¡rosnamÃ©ny KÃ¼lsÅ‘
+VÃ¡sÃ¡rosnamÃ©ny
+VÃ¡sÃ¡rtÃ©r Fatelep
+VÃ¡sÃ¡rtÃ©r
+Vasas-BelvÃ¡rdi-vÃ­zfolyÃ¡s
+Vasas-BelvÃ¡rdi Viz
 Vasas-Hird
-Vasasi-mellékág
+Vasasi-mellÃ©kÃ¡g
 Vasaslapos
 Vasas
 Vasasszonyfa
@@ -22814,172 +22814,172 @@ Vas County
 Vasdinnye-puszta
 Vasegerszeg
 Vas-halom
-Vashámori Malom
+VashÃ¡mori Malom
 Vashegyalja
 Vas-hegy
 Vashegy
-Vashosszúfalu
-Vasi-dombság
-Vasi-hát
+VashosszÃºfalu
+Vasi-dombsÃ¡g
+Vasi-hÃ¡t
 Vaskapu-hegy
 Vaskapu
 Vaskapupuszta
-Vaskapuszõllõ
+VaskapuszÅ‘llÅ‘
 Vaskeresztes
-Vaskó-hegy
-Vaskótanya
-Vaskút
+VaskÃ³-hegy
+VaskÃ³tanya
+VaskÃºt
 Vas Megye
 Vasmegyer
 Vas
 Vasonca
 Vasonca-patak
-Vaspör
+VaspÃ¶r
 Vaspuszta
-Vas-Soproni-síkság
+Vas-Soproni-sÃ­ksÃ¡g
 Vasstanya
-Vassurány
-Vasszécseny
-Vasszentmihály
-Vasszilvágy
+VassurÃ¡ny
+VasszÃ©cseny
+VasszentmihÃ¡ly
+VasszilvÃ¡gy
 Vastaghalompuszta
 Vastag-hegy
 Vastag
 Vastanya
-Vasútállomás Apafája
-Vasútdûlõ
-Vasúti Megállóhely Várda
-Vasútisor
-Vasúti Újlaktanya
-Vasvári Pál-telep
-Vasvár
+VasÃºtÃ¡llomÃ¡s ApafÃ¡ja
+VasÃºtdÅ±lÅ‘
+VasÃºti MegÃ¡llÃ³hely VÃ¡rda
+VasÃºtisor
+VasÃºti Ãšjlaktanya
+VasvÃ¡ri PÃ¡l-telep
+VasvÃ¡r
 Vaszari Tanya
 Vaszar
-Vaszkó-halom
-Vászoly
-Vasztély
-Vasztélypuszta
-Vát
+VaszkÃ³-halom
+VÃ¡szoly
+VasztÃ©ly
+VasztÃ©lypuszta
+VÃ¡t
 Vattaitanya
 Vatta
 Vatya
-Vátyonpuszta
+VÃ¡tyonpuszta
 Vaytag
 Vay-tanya
 Vaytanya
-Vázsnok
-Vázsonyi-séd
-Vázsonypuszta
+VÃ¡zsnok
+VÃ¡zsonyi-sÃ©d
+VÃ¡zsonypuszta
 Vecseiudvar
-Vécseivölgy
-Vecseny-ér
-Vécsenyi Ér
+VÃ©cseivÃ¶lgy
+Vecseny-Ã©r
+VÃ©csenyi Ã‰r
 Vecseny
 Vecsenypuszta
 Vecser
-Vecsés Kertekalja Vasúti Megálló
-Vecsés
-Vécsetáltanya
+VecsÃ©s Kertekalja VasÃºti MegÃ¡llÃ³
+VecsÃ©s
+VÃ©csetÃ¡ltanya
 Vecsey-tag
-Vécseytanya
-Vécseyvölgy
-Vécsitanya
-Vécs
-Vedres-dûlõ
-Vedresháza
-Végardó
-Végegyháza Alsó
-Végegyháza
-Végesstanya
-Vég-halom
-Véghmajor
-Véghparcella
-Véghtanya
-Véghtelep
-Vég-máli-hegy
-Végmalom
-Végvincedûlõ
+VÃ©cseytanya
+VÃ©cseyvÃ¶lgy
+VÃ©csitanya
+VÃ©cs
+Vedres-dÅ±lÅ‘
+VedreshÃ¡za
+VÃ©gardÃ³
+VÃ©gegyhÃ¡za AlsÃ³
+VÃ©gegyhÃ¡za
+VÃ©gesstanya
+VÃ©g-halom
+VÃ©ghmajor
+VÃ©ghparcella
+VÃ©ghtanya
+VÃ©ghtelep
+VÃ©g-mÃ¡li-hegy
+VÃ©gmalom
+VÃ©gvincedÅ±lÅ‘
 Veimpuszta
 Vejkemajor
 Vejke
 Vejte
-Vejtetanyák
+VejtetanyÃ¡k
 Vejti
-Vejtirév
-Vékény
+VejtirÃ©v
+VÃ©kÃ©ny
 Veker-csatorna
 Vekerd
-Veker-éri-fõcsatorna
-Veker-ér
-Veker-fõcsatorna
-Vekerhát
-Vekeritanyák
-Vekerlápos
+Veker-Ã©ri-fÅ‘csatorna
+Veker-Ã©r
+Veker-fÅ‘csatorna
+VekerhÃ¡t
+VekeritanyÃ¡k
+VekerlÃ¡pos
 Vekerzug
-Vékony-ér
-Veleméri-hegy
-Velemér
+VÃ©kony-Ã©r
+VelemÃ©ri-hegy
+VelemÃ©r
 Velem
-Velencefürdõ
+VelencefÃ¼rdÅ‘
 Velence-hegy
-Velencei-hegység
-Velencei-tó
+Velencei-hegysÃ©g
+Velencei-tÃ³
 Velence Lake
 Velence
-Velenceszél
-Velény
-Veléte
+VelenceszÃ©l
+VelÃ©ny
+VelÃ©te
 Velis
 Velistanya
-Véménd
-Vencsellõ
-Véncserdûlõ
-Vén-cser
-Véndekhegy
-Vendeldûlõ
-Vének
-Vén-hegy
-Vén-kert
-Vénkert
-Vén Szõllõhegy
-Vénszõlõ-hegy
-Vén-szõlõ
-Véntanya
+VÃ©mÃ©nd
+VencsellÅ‘
+VÃ©ncserdÅ±lÅ‘
+VÃ©n-cser
+VÃ©ndekhegy
+VendeldÅ±lÅ‘
+VÃ©nek
+VÃ©n-hegy
+VÃ©n-kert
+VÃ©nkert
+VÃ©n SzÅ‘llÅ‘hegy
+VÃ©nszÅ‘lÅ‘-hegy
+VÃ©n-szÅ‘lÅ‘
+VÃ©ntanya
 Ventepuszta
-Venyinidûlõ
-Veörösmajor
-Vép
-Verbõczibokor
+VenyinidÅ±lÅ‘
+VeÃ¶rÃ¶smajor
+VÃ©p
+VerbÅ‘czibokor
 Vercel
-Vérdûlõ
+VÃ©rdÅ±lÅ‘
 Verdungos
-Verébdûlõ
+VerÃ©bdÅ±lÅ‘
 Verebes
 Verebes-tanya
 Verebestanya
-Verébhegyalja
-Veréb-hegy
-Verebiúti Újtelep
+VerÃ©bhegyalja
+VerÃ©b-hegy
+VerebiÃºti Ãšjtelep
 Vereb
-Verébtanya
+VerÃ©btanya
 Verecepadja
 Verecepad
 Vereczepad
-Verem Bérc
+Verem BÃ©rc
 Verempart
-Veresegyháza
-Veresegyház
-Veresföld
-Veres-gyûrûs
-Veresgyûrûs
-Veresgyûrûs-puszta
+VeresegyhÃ¡za
+VeresegyhÃ¡z
+VeresfÃ¶ld
+Veres-gyÅ±rÅ±s
+VeresgyÅ±rÅ±s
+VeresgyÅ±rÅ±s-puszta
 Veres Halom
-Veresháttanya
-Veres Ház
-Veresháztanya
+VereshÃ¡ttanya
+Veres HÃ¡z
+VereshÃ¡ztanya
 Veres-hegy
 Vereshegy
-Vereshomoki-tó
+Vereshomoki-tÃ³
 Veres Imre-tanya
 Veresipuszta
 Vereskert
@@ -22988,853 +22988,853 @@ Veres Kutas
 Veres-major
 Veresmajor
 Verespuszta
-Veresrétdûlõtanya
-Veresrét
-Veres Rét
-Veres Sándor-tanya
+VeresrÃ©tdÅ±lÅ‘tanya
+VeresrÃ©t
+Veres RÃ©t
+Veres SÃ¡ndor-tanya
 Veress Becskei-tanya
 Veressmajor
 Veresstanya
-Veresszikdûlõ
+VeresszikdÅ±lÅ‘
 Veres-tag
 Verestanya
 Verestenger
-Vérgamási-árok
-Vergyálomdûlõ
-Vergyálom
-Verikitanyák
-Vérmány
-Vermekdûlõ
-Vermes-dûlõ
+VÃ©rgamÃ¡si-Ã¡rok
+VergyÃ¡lomdÅ±lÅ‘
+VergyÃ¡lom
+VerikitanyÃ¡k
+VÃ©rmÃ¡ny
+VermekdÅ±lÅ‘
+Vermes-dÅ±lÅ‘
 Vermes Halom
-Vermeshátdûlõ
-Vermeshátidûlõ
-Vermesjárás
+VermeshÃ¡tdÅ±lÅ‘
+VermeshÃ¡tidÅ±lÅ‘
+VermesjÃ¡rÃ¡s
 Vermes
 Vermes-patak
 Vernekert
-Verõcemaros Felsõ
-Verõcemaros
-Verõce
-Verõ-kõ-bérc
-Verõ-máj
-Verõ-tetõ
-Vér-patak
-Verpelét
+VerÅ‘cemaros FelsÅ‘
+VerÅ‘cemaros
+VerÅ‘ce
+VerÅ‘-kÅ‘-bÃ©rc
+VerÅ‘-mÃ¡j
+VerÅ‘-tetÅ‘
+VÃ©r-patak
+VerpelÃ©t
 Versegi Patak
 Verseg
 Versendi Puszta
 Versend
-Vértesacsa
-Vértesboglár
-Vértesdoboz
-Vértes-hegység
-Vérteskethely
-Vérteskoma
-Vérteskozma
-Vértesliget
-Vértesnána
-Vértes
-Vértessomló
-Vértesszõllõs
-Vértesszõlõs
-Vértestolna
+VÃ©rtesacsa
+VÃ©rtesboglÃ¡r
+VÃ©rtesdoboz
+VÃ©rtes-hegysÃ©g
+VÃ©rteskethely
+VÃ©rteskoma
+VÃ©rteskozma
+VÃ©rtesliget
+VÃ©rtesnÃ¡na
+VÃ©rtes
+VÃ©rtessomlÃ³
+VÃ©rtesszÅ‘llÅ‘s
+VÃ©rtesszÅ‘lÅ‘s
+VÃ©rtestolna
 Vertintanya
-Vérti-völgy
-Vért
-Vértpuszta
-Vése
-Vessprém
-Vesszõs-erdõ
-Vesszõsér
-Vesszõs
-Vesszõstanya
-Vesszõstelep
-Veszettkút
-Veszettkút-puszta
-Veszkény
-Veszõsér
+VÃ©rti-vÃ¶lgy
+VÃ©rt
+VÃ©rtpuszta
+VÃ©se
+VessprÃ©m
+VesszÅ‘s-erdÅ‘
+VesszÅ‘sÃ©r
+VesszÅ‘s
+VesszÅ‘stanya
+VesszÅ‘stelep
+VeszettkÃºt
+VeszettkÃºt-puszta
+VeszkÃ©ny
+VeszÅ‘sÃ©r
 Veszprem County
-Veszprémfajsz
-Veszprémgalsa
-Veszprémi-fennsík
-Veszprémi-Séd
-Veszprém Külsõ Pályaudvar
-Veszprém Megyei Város
-Veszprém Megye
-Veszprém
-Veszprémpinkóc
-Veszprémvarsány Állomás
-Veszprémvarsány
-Veszprémy-dûlõ
-Veszprémytanya
-Vésztõ
-Vészverés
-Vetésitanya
+VeszprÃ©mfajsz
+VeszprÃ©mgalsa
+VeszprÃ©mi-fennsÃ­k
+VeszprÃ©mi-SÃ©d
+VeszprÃ©m KÃ¼lsÅ‘ PÃ¡lyaudvar
+VeszprÃ©m Megyei VÃ¡ros
+VeszprÃ©m Megye
+VeszprÃ©m
+VeszprÃ©mpinkÃ³c
+VeszprÃ©mvarsÃ¡ny ÃllomÃ¡s
+VeszprÃ©mvarsÃ¡ny
+VeszprÃ©my-dÅ±lÅ‘
+VeszprÃ©mytanya
+VÃ©sztÅ‘
+VÃ©szverÃ©s
+VetÃ©sitanya
 Vetlepuszta
 Vettlepuszta
-Vettrét
-Vetyehát
-Vétyempuszta
+VettrÃ©t
+VetyehÃ¡t
+VÃ©tyempuszta
 Vetye
-Vezseny Állomás
-Vezseny-ér
-Vezsenyi Tanyák
+Vezseny ÃllomÃ¡s
+Vezseny-Ã©r
+Vezsenyi TanyÃ¡k
 Vezseny
 Vica
-Viciántanya
-Viciántelep
+ViciÃ¡ntanya
+ViciÃ¡ntelep
 Vicsepuszta
 Vicsorimajor
 Vicsori
 Vicsoripuszta
-Vicziántanya
-Viczmánditanya
-Viczmándytanya
-Vidák-árok
+VicziÃ¡ntanya
+ViczmÃ¡nditanya
+ViczmÃ¡ndytanya
+VidÃ¡k-Ã¡rok
 Vidakert
-Vidák
-Vidák Patak
-Vidákpuszta
-Vidámháza
-Vidámházpuszta
+VidÃ¡k
+VidÃ¡k Patak
+VidÃ¡kpuszta
+VidÃ¡mhÃ¡za
+VidÃ¡mhÃ¡zpuszta
 Vidatanya
-Vidi-ér
-Vidiföld
+Vidi-Ã©r
+VidifÃ¶ld
 Vid
-Vidólapos
+VidÃ³lapos
 Vidovicstanya
 Vidpuszta
 Vienermajor
-Vigadó-hegy
-Vigadó Szõlõ Hegy
-Vigánt
-Vigántpetend
-Vigaszvár
-Víghegy
-Vighméhestanya
+VigadÃ³-hegy
+VigadÃ³ SzÅ‘lÅ‘ Hegy
+VigÃ¡nt
+VigÃ¡ntpetend
+VigaszvÃ¡r
+VÃ­ghegy
+VighmÃ©hestanya
 Vightanya
-Víglaki-domb
-Vignerföld
+VÃ­glaki-domb
+VignerfÃ¶ld
 Vigtanya
-Vigváritanya
+VigvÃ¡ritanya
 Viharsarok
-Viktóriamajor
+ViktÃ³riamajor
 Viktorinmajor
 Viktormajor
 Viktorpuszta
 Viktortelep
-Világosdûlõ
-Világos-hegy
-Világoshegy
-Világos Hegy
-Világos-major
-Világosmajor
-Világos
-Világospuszta
-Világos Puszta
-Világostanya
-Világostelep
-Világosvár
+VilÃ¡gosdÅ±lÅ‘
+VilÃ¡gos-hegy
+VilÃ¡goshegy
+VilÃ¡gos Hegy
+VilÃ¡gos-major
+VilÃ¡gosmajor
+VilÃ¡gos
+VilÃ¡gospuszta
+VilÃ¡gos Puszta
+VilÃ¡gostanya
+VilÃ¡gostelep
+VilÃ¡gosvÃ¡r
 Vilhelmtanya
-Villámvölgy
+VillÃ¡mvÃ¶lgy
 Villa
-Villány Állomás
-Villányi-hegység
-Villánykövesd
-Villány
-Villány-Pogányi-vízfolyás
-Villány-Pogányi-víz
+VillÃ¡ny ÃllomÃ¡s
+VillÃ¡nyi-hegysÃ©g
+VillÃ¡nykÃ¶vesd
+VillÃ¡ny
+VillÃ¡ny-PogÃ¡nyi-vÃ­zfolyÃ¡s
+VillÃ¡ny-PogÃ¡nyi-vÃ­z
 Villanytelep
-Villástanya
-Villogó-csatorna
-Villogó-fõcsatorna
-Villogói-fõcsatorna
-Villogó
-Villó-hegy
-Villongó-ér
-Villongó
-Villó
+VillÃ¡stanya
+VillogÃ³-csatorna
+VillogÃ³-fÅ‘csatorna
+VillogÃ³i-fÅ‘csatorna
+VillogÃ³
+VillÃ³-hegy
+VillongÃ³-Ã©r
+VillongÃ³
+VillÃ³
 Vilmamajor
-Vilmányi Major
-Vilmánykisfalu
-Vilmány
+VilmÃ¡nyi Major
+VilmÃ¡nykisfalu
+VilmÃ¡ny
 Vilmapuszta
-Vilmaszállás
+VilmaszÃ¡llÃ¡s
 Vilmatanya
-Vilmosdombidûlõ
+VilmosdombidÅ±lÅ‘
 Vilmosmajor
-Vilonya-Királyszentistván
+Vilonya-KirÃ¡lyszentistvÃ¡n
 Vilonya
 Vilyipuszta
-Vilyvitány
-Vinár
-Vincefõpuszta
-Vincellértanya
+VilyvitÃ¡ny
+VinÃ¡r
+VincefÅ‘puszta
+VincellÃ©rtanya
 Vince-major
 Vincemajor
 Vincetanya
-Vincetér
-Vincsága
+VincetÃ©r
+VincsÃ¡ga
 Vindispuszta
 Vindornyafok
 Vindornyalak
-Vindornyaszõllõs
-Vindornyaszõlõs
-Vinkedûlõ
+VindornyaszÅ‘llÅ‘s
+VindornyaszÅ‘lÅ‘s
+VinkedÅ±lÅ‘
 Vinterpuszta
 Vinye
-Vinyesándormajor
-Vióka
+VinyesÃ¡ndormajor
+ViÃ³ka
 Violamajor
 Violatag
-Virág-hegy
-Virághegy
-Virághtanya
-Virág-lapos
-Virágmajor
-Virágosdûlõ
-Virágoshalomdûlõ
-Virágoshalom
-Virágosi Tanya
-Virágoskút
-Virágos-major
-Virágosmajor
-Virágos
-Virágospuszta
-Virágostanya
-Virágos-zug
-Virág-puszta
-Virágtanya
-Virágvölgy
-Virányitanya
-Virányosdûlõ
-Virányos
-Virányos Szõlõk
+VirÃ¡g-hegy
+VirÃ¡ghegy
+VirÃ¡ghtanya
+VirÃ¡g-lapos
+VirÃ¡gmajor
+VirÃ¡gosdÅ±lÅ‘
+VirÃ¡goshalomdÅ±lÅ‘
+VirÃ¡goshalom
+VirÃ¡gosi Tanya
+VirÃ¡goskÃºt
+VirÃ¡gos-major
+VirÃ¡gosmajor
+VirÃ¡gos
+VirÃ¡gospuszta
+VirÃ¡gostanya
+VirÃ¡gos-zug
+VirÃ¡g-puszta
+VirÃ¡gtanya
+VirÃ¡gvÃ¶lgy
+VirÃ¡nyitanya
+VirÃ¡nyosdÅ±lÅ‘
+VirÃ¡nyos
+VirÃ¡nyos SzÅ‘lÅ‘k
 Viriusztelep
 Viruj
-Visegrádi-hegység
-Visegrád
+VisegrÃ¡di-hegysÃ©g
+VisegrÃ¡d
 Visitag
 Visitagpuszta
 Visnyeitag
 Visnyei-tanya
 Visnye
-Visnyeszéplak
-Visontai Szõllõtelep
-Visontai Szõlõtelep
+VisnyeszÃ©plak
+Visontai SzÅ‘llÅ‘telep
+Visontai SzÅ‘lÅ‘telep
 Visonta
 Viss
-Viszák
+ViszÃ¡k
 Viszakpuszta
 Viszi Puszta
-Viszlói-oldal
-Viszlói Patak
-Viszló
-Viszló-oldal
-Viszlópuszta
-Viszneki Tanyák
-Viszneki-tó-dûlõ
+ViszlÃ³i-oldal
+ViszlÃ³i Patak
+ViszlÃ³
+ViszlÃ³-oldal
+ViszlÃ³puszta
+Viszneki TanyÃ¡k
+Viszneki-tÃ³-dÅ±lÅ‘
 Visznek
 Visz
 Visztamajor
 Vita-halom
-Vitális Halom
-Vitéz Endre-telep
-Vitézipuszta
-Vitézitag
-Vitézitanya
-Vitézitelek
-Vitézitelektanya
-Vitézitelep
-Vitéztanya
-Vitéztelek
-Vitéztelep
-Vitéztelkek
+VitÃ¡lis Halom
+VitÃ©z Endre-telep
+VitÃ©zipuszta
+VitÃ©zitag
+VitÃ©zitanya
+VitÃ©zitelek
+VitÃ©zitelektanya
+VitÃ©zitelep
+VitÃ©ztanya
+VitÃ©ztelek
+VitÃ©ztelep
+VitÃ©ztelkek
 Vitka
 Vitketanya
-Vitnyéd-Csermajor
-Vitnyéd
-Vitorág
-Vitorágpuszta
+VitnyÃ©d-Csermajor
+VitnyÃ©d
+VitorÃ¡g
+VitorÃ¡gpuszta
 Vittmajor
-Vityakõ
+VityakÅ‘
 Vityapuszta
 Vityitag
 Vitzmantanya
-Vízállás-Gátérdûlõ
-Vízállásgátér
-Vizállás
-Vizállódûlõ
-Vízállótanya
-Vizesbánom
-Vizesdûlõ
-Vizesfás
+VÃ­zÃ¡llÃ¡s-GÃ¡tÃ©rdÅ±lÅ‘
+VÃ­zÃ¡llÃ¡sgÃ¡tÃ©r
+VizÃ¡llÃ¡s
+VizÃ¡llÃ³dÅ±lÅ‘
+VÃ­zÃ¡llÃ³tanya
+VizesbÃ¡nom
+VizesdÅ±lÅ‘
+VizesfÃ¡s
 Vizes-hegy
-Vizesitanyák
+VizesitanyÃ¡k
 Vizesmalom
 Vizespuszta
-Vizes-völgy hegyese
-Vízfõ
-Vízierõtelep
-Vízimalom
-Víziszárnyastelep
-Vízjárásdûlõ
-Vízjárási Tanya
-Vizjárás
-Vízköz
-Vízkútmalom
-Vízmesteritelep
-Vízmestertelep
-Vízmosási Dûlõ
-Vízmosás
-Vízmûtelep
-Vízmûvek
+Vizes-vÃ¶lgy hegyese
+VÃ­zfÅ‘
+VÃ­zierÅ‘telep
+VÃ­zimalom
+VÃ­ziszÃ¡rnyastelep
+VÃ­zjÃ¡rÃ¡sdÅ±lÅ‘
+VÃ­zjÃ¡rÃ¡si Tanya
+VizjÃ¡rÃ¡s
+VÃ­zkÃ¶z
+VÃ­zkÃºtmalom
+VÃ­zmesteritelep
+VÃ­zmestertelep
+VÃ­zmosÃ¡si DÅ±lÅ‘
+VÃ­zmosÃ¡s
+VÃ­zmÅ±telep
+VÃ­zmÅ±vek
 Vizslak
-Vizslás
-Vizslás-patak
+VizslÃ¡s
+VizslÃ¡s-patak
 Vizsoly
 Vizsoly-puszta
-Víztelen Hegy
-Víztelep
-Víz Tisztája
-Víztisztatanya
-Vízválasztó
-Vizvári Tanya
-Vízváritanya
-Vizvár
-Vízvár
-Vízvölgypuszta
-Vöcköndi Major
-Vöcköndmajor
-Vöckönd
-Vödör-völgy
-Vogyiszkaitanyák
+VÃ­ztelen Hegy
+VÃ­ztelep
+VÃ­z TisztÃ¡ja
+VÃ­ztisztatanya
+VÃ­zvÃ¡lasztÃ³
+VizvÃ¡ri Tanya
+VÃ­zvÃ¡ritanya
+VizvÃ¡r
+VÃ­zvÃ¡r
+VÃ­zvÃ¶lgypuszta
+VÃ¶ckÃ¶ndi Major
+VÃ¶ckÃ¶ndmajor
+VÃ¶ckÃ¶nd
+VÃ¶dÃ¶r-vÃ¶lgy
+VogyiszkaitanyÃ¡k
 Vogyiszkatanya
-Vokány Állomás
-Vokány Hengermalom
-Vokányi Hegy
-Vokányi Hengermalom
-Vokány
-Völcsej-hegy
-Völcseji-hegy
-Völcsej
-Völgy-árok
-Völgyeskert
-Völgyes
-Völgyfõház
-Völgyfõ
-Völgyfõpuszta
-Völgyfõtanya
-Völgyidûlõ
-Völgyi-rét
-Völgyitag
-Völgyitanya
-Völgyközihegy
-Völgy
-Völgységi-patak
-Völgység
-Völgységy
-Völgysor
-Völkertelep
-Võ Malom
-Vönöck
-Vontatóhalom
+VokÃ¡ny ÃllomÃ¡s
+VokÃ¡ny Hengermalom
+VokÃ¡nyi Hegy
+VokÃ¡nyi Hengermalom
+VokÃ¡ny
+VÃ¶lcsej-hegy
+VÃ¶lcseji-hegy
+VÃ¶lcsej
+VÃ¶lgy-Ã¡rok
+VÃ¶lgyeskert
+VÃ¶lgyes
+VÃ¶lgyfÅ‘hÃ¡z
+VÃ¶lgyfÅ‘
+VÃ¶lgyfÅ‘puszta
+VÃ¶lgyfÅ‘tanya
+VÃ¶lgyidÅ±lÅ‘
+VÃ¶lgyi-rÃ©t
+VÃ¶lgyitag
+VÃ¶lgyitanya
+VÃ¶lgykÃ¶zihegy
+VÃ¶lgy
+VÃ¶lgysÃ©gi-patak
+VÃ¶lgysÃ©g
+VÃ¶lgysÃ©gy
+VÃ¶lgysor
+VÃ¶lkertelep
+VÅ‘ Malom
+VÃ¶nÃ¶ck
+VontatÃ³halom
 Vonyarc
 Vonyarcvashegy
 Vonyitapuszta
-Võõmalom
-Vörcsök
-Vörcsökpuszta
+VÅ‘Å‘malom
+VÃ¶rcsÃ¶k
+VÃ¶rcsÃ¶kpuszta
 Vorhota
-Vörösakol
-Vörösakolpuszta
-Vörösakolypuszta
-Vörösalmapuszta
-Vörös-bérc
-Vörösberény
-Vörös Csik
-Vöröscsillag
-Vörös Csillag Termelõszövetkezet
-Vörösdomb
-Vörösegyháza
-Vörösegyház
-Vöröserdõdûlõ
-Vöröshalom-dûlõ
-Vöröshalom
-Vörös-hát
-Vörös-hegy
-Vöröshegy
-Vörös Hegy
-Vöröshíd
-Vöröshomok
-Vörösi-hegy
-Vörösihegy
-Vörösipuszta
-Vöröskastély
-Vöröskeresztdûlõ
-Vörös Kereszt
-Vöröskupapuszta
-Vörös-kutas-dûlõ
-Vöröskutas
-Vörös-kúti-dûlõ
-Vöröskúti Telep
-Vörösmajor
-Vörösmálidûlõ
-Vörösmáliszõlõk
-Vörös-mál
-Vörösmalom-dûlõ
-Vörösmalom
-Vörösmezõ
-Vörös Mihály Hegy
-Vörösnádhát
-Vörös
-Vöröspataki Tanya
-Vörös-patak
-Vöröspatak
-Vöröspuszta
-Vörös-sár-hegy
-Vörösszállás
-Vörösszeg
-Vörösszéldûlõ
-Vöröstelep
-Vörös-tó
-Vöröstó
-Vörös-víz
-Vörösvölgy
-Vörös Völgy
-Vörrü
-Vörs
-Vótapuszta
-Vrányos
+VÃ¶rÃ¶sakol
+VÃ¶rÃ¶sakolpuszta
+VÃ¶rÃ¶sakolypuszta
+VÃ¶rÃ¶salmapuszta
+VÃ¶rÃ¶s-bÃ©rc
+VÃ¶rÃ¶sberÃ©ny
+VÃ¶rÃ¶s Csik
+VÃ¶rÃ¶scsillag
+VÃ¶rÃ¶s Csillag TermelÅ‘szÃ¶vetkezet
+VÃ¶rÃ¶sdomb
+VÃ¶rÃ¶segyhÃ¡za
+VÃ¶rÃ¶segyhÃ¡z
+VÃ¶rÃ¶serdÅ‘dÅ±lÅ‘
+VÃ¶rÃ¶shalom-dÅ±lÅ‘
+VÃ¶rÃ¶shalom
+VÃ¶rÃ¶s-hÃ¡t
+VÃ¶rÃ¶s-hegy
+VÃ¶rÃ¶shegy
+VÃ¶rÃ¶s Hegy
+VÃ¶rÃ¶shÃ­d
+VÃ¶rÃ¶shomok
+VÃ¶rÃ¶si-hegy
+VÃ¶rÃ¶sihegy
+VÃ¶rÃ¶sipuszta
+VÃ¶rÃ¶skastÃ©ly
+VÃ¶rÃ¶skeresztdÅ±lÅ‘
+VÃ¶rÃ¶s Kereszt
+VÃ¶rÃ¶skupapuszta
+VÃ¶rÃ¶s-kutas-dÅ±lÅ‘
+VÃ¶rÃ¶skutas
+VÃ¶rÃ¶s-kÃºti-dÅ±lÅ‘
+VÃ¶rÃ¶skÃºti Telep
+VÃ¶rÃ¶smajor
+VÃ¶rÃ¶smÃ¡lidÅ±lÅ‘
+VÃ¶rÃ¶smÃ¡liszÅ‘lÅ‘k
+VÃ¶rÃ¶s-mÃ¡l
+VÃ¶rÃ¶smalom-dÅ±lÅ‘
+VÃ¶rÃ¶smalom
+VÃ¶rÃ¶smezÅ‘
+VÃ¶rÃ¶s MihÃ¡ly Hegy
+VÃ¶rÃ¶snÃ¡dhÃ¡t
+VÃ¶rÃ¶s
+VÃ¶rÃ¶spataki Tanya
+VÃ¶rÃ¶s-patak
+VÃ¶rÃ¶spatak
+VÃ¶rÃ¶spuszta
+VÃ¶rÃ¶s-sÃ¡r-hegy
+VÃ¶rÃ¶sszÃ¡llÃ¡s
+VÃ¶rÃ¶sszeg
+VÃ¶rÃ¶sszÃ©ldÅ±lÅ‘
+VÃ¶rÃ¶stelep
+VÃ¶rÃ¶s-tÃ³
+VÃ¶rÃ¶stÃ³
+VÃ¶rÃ¶s-vÃ­z
+VÃ¶rÃ¶svÃ¶lgy
+VÃ¶rÃ¶s VÃ¶lgy
+VÃ¶rrÃ¼
+VÃ¶rs
+VÃ³tapuszta
+VrÃ¡nyos
 Vreocz
-Vrócztanya
-Vukájtótanya
-Vulkántelep
+VrÃ³cztanya
+VukÃ¡jtÃ³tanya
+VulkÃ¡ntelep
 Waasen
-Wágnermalom
-Wágner-rész
-Wágnertanya
+WÃ¡gnermalom
+WÃ¡gner-rÃ©sz
+WÃ¡gnertanya
 Wagnertelep
 Waitzen
 Waldbott-tanya
-Walterház
-Wébermalom
+WalterhÃ¡z
+WÃ©bermalom
 Webertanya
 Wegry
-Weifse Körös
+Weifse KÃ¶rÃ¶s
 Weinbergertanya
 Weinstocktanya
-Weisze Körös
+Weisze KÃ¶rÃ¶s
 Weisztanya
 Wekerlekismajor
 Wekerlemajor
-Wekerle Sándor-major
+Wekerle SÃ¡ndor-major
 Weltendorf
 Wenckheim-puszta
 Wernermajor
 Western Main Canal
 Wettendorf
-White Körös
+White KÃ¶rÃ¶s
 Wimmertelep
 Winklertanya
 Winterpuszta
 Wittmanntag
 Wittnertanya
 Wolfmajor
-Würthmajor
+WÃ¼rthmajor
 Zabarla
 Zabar
-Zábonszkytanya
-Zabos-tó
-Zábráczkytanya
-Zab-szék
-Zacskómajor
-Zádokosdûlõ
-Zádor-dûlõ
-Zádordûlõ
-Zádorfalva
-Zádoridûlõ
-Zádorimalom
-Zádor
-Zadravectanyák
+ZÃ¡bonszkytanya
+Zabos-tÃ³
+ZÃ¡brÃ¡czkytanya
+Zab-szÃ©k
+ZacskÃ³major
+ZÃ¡dokosdÅ±lÅ‘
+ZÃ¡dor-dÅ±lÅ‘
+ZÃ¡dordÅ±lÅ‘
+ZÃ¡dorfalva
+ZÃ¡doridÅ±lÅ‘
+ZÃ¡dorimalom
+ZÃ¡dor
+ZadravectanyÃ¡k
 Zadravecztanya
 Zafirtanya
-Zágorhida
-Zagyvabalparti Tanyák
+ZÃ¡gorhida
+Zagyvabalparti TanyÃ¡k
 Zagyvaitanya
-Zagyvajobbparti Tanyák
+Zagyvajobbparti TanyÃ¡k
 Zagyva-medence
 Zagyva
-Zagyvapálfalva
+ZagyvapÃ¡lfalva
 Zagyvapart
-Zagyvarékasi Tanya
-Zagyvarékas
-Zagyvaróna
-Zagyvaszántó
+ZagyvarÃ©kasi Tanya
+ZagyvarÃ©kas
+ZagyvarÃ³na
+ZagyvaszÃ¡ntÃ³
 Zahartanya
-Záhony
-Zajácztanya
+ZÃ¡hony
+ZajÃ¡cztanya
 Zajdamajor
 Zajda
 Zajdapuszta
-Zajgatódûlõ
-Zajgatói-dûlõk
-Zajgatóitanyák
-Zajgató
+ZajgatÃ³dÅ±lÅ‘
+ZajgatÃ³i-dÅ±lÅ‘k
+ZajgatÃ³itanyÃ¡k
+ZajgatÃ³
 Zajki-hegy
 Zajki Patak
 Zajk
 Zajta
-Zákányfalu
-Zákány
-Zákányszék
-Zákánytelep
-Zalaapáti
+ZÃ¡kÃ¡nyfalu
+ZÃ¡kÃ¡ny
+ZÃ¡kÃ¡nyszÃ©k
+ZÃ¡kÃ¡nytelep
+ZalaapÃ¡ti
 Zalabaksa
-Zalabér-Batyk
-Zalabér
-Zalabesenyõ
+ZalabÃ©r-Batyk
+ZalabÃ©r
+ZalabesenyÅ‘
 Zalaboldogfa
 Zala County
-Zalacsány
-Zalacséb
-Zalacséb-Salomvár
-Zalaegerszeg Megyei Város
+ZalacsÃ¡ny
+ZalacsÃ©b
+ZalacsÃ©b-SalomvÃ¡r
+Zalaegerszeg Megyei VÃ¡ros
 Zalaegerszeg
 Zalaegerszeg-Ola
-Zalaerdõd
-Zala-folyó
+ZalaerdÅ‘d
+Zala-folyÃ³
 Zalagalsa
-Zalagyömörõ
-Zalagyömrõ
-Zalahaláp
-Zalaháshágy
-Zalaháshágy-Szõce
-Zalahosszúfalu
-Zalai-dombság
-Zalai-dombvidék
+ZalagyÃ¶mÃ¶rÅ‘
+ZalagyÃ¶mrÅ‘
+ZalahalÃ¡p
+ZalahÃ¡shÃ¡gy
+ZalahÃ¡shÃ¡gy-SzÅ‘ce
+ZalahosszÃºfalu
+Zalai-dombsÃ¡g
+Zalai-dombvidÃ©k
 Zalaigrice
 Zalai Halom
-Zalaistvánd
-Zalai Tanyák
+ZalaistvÃ¡nd
+Zalai TanyÃ¡k
 Zalakarosi Puszta
 Zalakaros
-Zalakomár
-Zalakoppány
-Zalaköszvényes
-Zalaköveskút
-Zalalövõi Tanyák
-Zalalövõ
+ZalakomÃ¡r
+ZalakoppÃ¡ny
+ZalakÃ¶szvÃ©nyes
+ZalakÃ¶veskÃºt
+ZalalÃ¶vÅ‘i TanyÃ¡k
+ZalalÃ¶vÅ‘
 Zalameggyes
 Zala Megye
 Zalamerenye
-Zalanémetfalu
+ZalanÃ©metfalu
 Zala
 Zalapatakalja
 Zalapetend
-Zalasárszeg
-Zala-Somogyi-határárok
+ZalasÃ¡rszeg
+Zala-Somogyi-hatÃ¡rÃ¡rok
 Zalaszabar
-Zalaszántó
-Zalaszegvár
-Zalaszentbalázsi Tanyák
-Zalaszentbalázs
-Zalaszentgróti Tanyák
-Zalaszentgrót
-Zalaszentgyörgy
-Zalaszentiván-Kisfaludpuszta
-Zalaszentiván
+ZalaszÃ¡ntÃ³
+ZalaszegvÃ¡r
+ZalaszentbalÃ¡zsi TanyÃ¡k
+ZalaszentbalÃ¡zs
+ZalaszentgrÃ³ti TanyÃ¡k
+ZalaszentgrÃ³t
+ZalaszentgyÃ¶rgy
+ZalaszentivÃ¡n-Kisfaludpuszta
+ZalaszentivÃ¡n
 Zalaszentjakab
-Zalaszentlászló
-Zalaszentlõrinc
-Zalaszentmárton
-Zalaszentmihályfa
-Zalaszentmihály
-Zalaszentmihály-Pacsa
+ZalaszentlÃ¡szlÃ³
+ZalaszentlÅ‘rinc
+ZalaszentmÃ¡rton
+ZalaszentmihÃ¡lyfa
+ZalaszentmihÃ¡ly
+ZalaszentmihÃ¡ly-Pacsa
 Zalaszombatfa
-Zaláta
-Zalatárnok
+ZalÃ¡ta
+ZalatÃ¡rnok
 Zalaudvarnok
-Zalaújlak
-Zalavár
-Zalavég
+ZalaÃºjlak
+ZalavÃ¡r
+ZalavÃ©g
 Zalkod
-Zálogos-dûlõ
-Zálogos
-Zálogospuszta
-Zálogostanya
-Zalotai Lápos
+ZÃ¡logos-dÅ±lÅ‘
+ZÃ¡logos
+ZÃ¡logospuszta
+ZÃ¡logostanya
+Zalotai LÃ¡pos
 Zalota
-Zamárdi Felsõ
-Zamárdi
-Zamárdi Tanyák
-Zamárhegy
-Zámolyi-bükk
-Zámolyi-medence
-Zámolyitanya
-Zámoly
-Zámori-patak
-Zámorszénégetõ
-Zámorymajor
+ZamÃ¡rdi FelsÅ‘
+ZamÃ¡rdi
+ZamÃ¡rdi TanyÃ¡k
+ZamÃ¡rhegy
+ZÃ¡molyi-bÃ¼kk
+ZÃ¡molyi-medence
+ZÃ¡molyitanya
+ZÃ¡moly
+ZÃ¡mori-patak
+ZÃ¡morszÃ©nÃ©getÅ‘
+ZÃ¡morymajor
 Zanat
-Zánka-Köveskál
-Zánka
-Zánka-Úttörõváros
-Zápolca
-Zarándok
-Zaránkidûlõ
-Zaránki Tanyák
-Zaránk
+ZÃ¡nka-KÃ¶veskÃ¡l
+ZÃ¡nka
+ZÃ¡nka-ÃšttÃ¶rÅ‘vÃ¡ros
+ZÃ¡polca
+ZarÃ¡ndok
+ZarÃ¡nkidÅ±lÅ‘
+ZarÃ¡nki TanyÃ¡k
+ZarÃ¡nk
 Zaranypuszta
-Zárdatanya
-Zardóka
-Zátonyi-Duna
-Zátonysziget
-Zátonytelep
-Závod
-Závoz-völgy
+ZÃ¡rdatanya
+ZardÃ³ka
+ZÃ¡tonyi-Duna
+ZÃ¡tonysziget
+ZÃ¡tonytelep
+ZÃ¡vod
+ZÃ¡voz-vÃ¶lgy
 Zebecke
 Zebeczke
-Zebegény
+ZebegÃ©ny
 Zedregpuszta
 Zehi
 Zehipuszta
 Zeisel Bach
-Zékánkert
-Zelemér
-Zelenák-lapos
-Zelenáklapostanya
-Zél Patak
-Zélpuszta
-Zemplénagárd
-Zempléni-hegység
-Zempléni Hegysor
-Zempléni-szigethegység
-Zengõ
-Zengõvárkony
-Zengõvár
+ZÃ©kÃ¡nkert
+ZelemÃ©r
+ZelenÃ¡k-lapos
+ZelenÃ¡klapostanya
+ZÃ©l Patak
+ZÃ©lpuszta
+ZemplÃ©nagÃ¡rd
+ZemplÃ©ni-hegysÃ©g
+ZemplÃ©ni Hegysor
+ZemplÃ©ni-szigethegysÃ©g
+ZengÅ‘
+ZengÅ‘vÃ¡rkony
+ZengÅ‘vÃ¡r
 Zentai Tanya
 Zertmajor
 Zichy-csatorna
 Zichymajor
 Zichypuszta
-Zichyújfalu
-Zicsi Tanyák
+ZichyÃºjfalu
+Zicsi TanyÃ¡k
 Zics
 Ziliz
-Zimányitanya
-Zimány
-Zimmertetõ
+ZimÃ¡nyitanya
+ZimÃ¡ny
+ZimmertetÅ‘
 Zimona
-Zimona-õrház
+Zimona-Å‘rhÃ¡z
 Zirc
-Zobákpuszta
-Zöcsketelep
-Zódony
-Zók
+ZobÃ¡kpuszta
+ZÃ¶csketelep
+ZÃ³dony
+ZÃ³k
 Zokoga
 Zokogapuszta
-Zolcaitetõ
-Zöldágtanya
-Zöldbokor
-Zöldes
-Zöldhalmidûlõ
-Zöld-halom
-Zöldhalom
-Zöld Halom
-Zöldhalom-tó
-Zöldház
-Zöldház-õrház
-Zöldlapositanyák
-Zöldmáj
-Zöldmajor
-Zöldmalom
+ZolcaitetÅ‘
+ZÃ¶ldÃ¡gtanya
+ZÃ¶ldbokor
+ZÃ¶ldes
+ZÃ¶ldhalmidÅ±lÅ‘
+ZÃ¶ld-halom
+ZÃ¶ldhalom
+ZÃ¶ld Halom
+ZÃ¶ldhalom-tÃ³
+ZÃ¶ldhÃ¡z
+ZÃ¶ldhÃ¡z-Å‘rhÃ¡z
+ZÃ¶ldlapositanyÃ¡k
+ZÃ¶ldmÃ¡j
+ZÃ¶ldmajor
+ZÃ¶ldmalom
 Zollertanya
-Zoltángyümölcsös
-Zoltánháza
-Zoltánmajor
-Zoltánpuszta
-Zoltánszõllõ
-Zoltán-tag
-Zoltántanya
-Zoltántéri Major
-Zoltántér
+ZoltÃ¡ngyÃ¼mÃ¶lcsÃ¶s
+ZoltÃ¡nhÃ¡za
+ZoltÃ¡nmajor
+ZoltÃ¡npuszta
+ZoltÃ¡nszÅ‘llÅ‘
+ZoltÃ¡n-tag
+ZoltÃ¡ntanya
+ZoltÃ¡ntÃ©ri Major
+ZoltÃ¡ntÃ©r
 Zomba
 Zombor-hegy
 Zomboribokor
-Zomborkadûlõ
+ZomborkadÅ±lÅ‘
 Zombor
 Zongormajor
-Zörög-hegy
-Zörög-tetõ
-Zrínyimajor
-Zrínyitelep
-Zsadányhomok
-Zsadányitanyák
-Zsadány
-Zsadánypuszta
-Zsadó-hegy
-Zsáka
-Zsákos
-Zsámbéki-hegy
-Zsámbéki-medence
-Zsámbék
-Zsámbokitanya
-Zsámbok
+ZÃ¶rÃ¶g-hegy
+ZÃ¶rÃ¶g-tetÅ‘
+ZrÃ­nyimajor
+ZrÃ­nyitelep
+ZsadÃ¡nyhomok
+ZsadÃ¡nyitanyÃ¡k
+ZsadÃ¡ny
+ZsadÃ¡nypuszta
+ZsadÃ³-hegy
+ZsÃ¡ka
+ZsÃ¡kos
+ZsÃ¡mbÃ©ki-hegy
+ZsÃ¡mbÃ©ki-medence
+ZsÃ¡mbÃ©k
+ZsÃ¡mbokitanya
+ZsÃ¡mbok
 Zsana
-Zsarókahegy
-Zsarolyán
-Zsarótanya
-Zsebeháza
+ZsarÃ³kahegy
+ZsarolyÃ¡n
+ZsarÃ³tanya
+ZsebehÃ¡za
 Zseber
-Zsédeny
-Zsédértanya
+ZsÃ©deny
+ZsÃ©dÃ©rtanya
 Zsejke
 Zsejkepuszta
 Zselickisfalud
 Zselickislak
 Zselic
-Zselicség
-Zselicszentpáli Puszta
-Zselicszentpál
-Zsellehát
-Zsellérdûlõ
-Zsellérerdõ
-Zsellér-földek
-Zsellérföldek
-Zsellérföldi Tanyák
-Zsellér-föld
-Zsellérföld
-Zsellér-hegy
-Zsellérpáskom
-Zsellértag
+ZselicsÃ©g
+ZselicszentpÃ¡li Puszta
+ZselicszentpÃ¡l
+ZsellehÃ¡t
+ZsellÃ©rdÅ±lÅ‘
+ZsellÃ©rerdÅ‘
+ZsellÃ©r-fÃ¶ldek
+ZsellÃ©rfÃ¶ldek
+ZsellÃ©rfÃ¶ldi TanyÃ¡k
+ZsellÃ©r-fÃ¶ld
+ZsellÃ©rfÃ¶ld
+ZsellÃ©r-hegy
+ZsellÃ©rpÃ¡skom
+ZsellÃ©rtag
 Zsemberitanya
 Zsemenye
-Zsengellérdûlõ
+ZsengellÃ©rdÅ±lÅ‘
 Zsennye
-Zsényeitanya
+ZsÃ©nyeitanya
 Zsenyuktanya
 Zseramajor
-Zsérci-Nagy-dél
+ZsÃ©rci-Nagy-dÃ©l
 Zserc
 Zserc-tanya
 Zsercztanya
-Zsibótiszõlõhegy
-Zsibóti Szõlõk
-Zsibót
+ZsibÃ³tiszÅ‘lÅ‘hegy
+ZsibÃ³ti SzÅ‘lÅ‘k
+ZsibÃ³t
 Zsibrik
 Zsida
-Zsidódipatak
-Zsidód
-Zsidó-halom
-Zsidóhalom
-Zsidó-hegy
-Zsidóhegy
-Zsidókalapmajor
-Zsidó Puszta
-Zsigaháza
-Zsigaházapuszta
+ZsidÃ³dipatak
+ZsidÃ³d
+ZsidÃ³-halom
+ZsidÃ³halom
+ZsidÃ³-hegy
+ZsidÃ³hegy
+ZsidÃ³kalapmajor
+ZsidÃ³ Puszta
+ZsigahÃ¡za
+ZsigahÃ¡zapuszta
 Zsigamajor
-Zsigárdimajor
-Zsigárdmajor
-Zsiga-völgy
-Zsigerháti Oldal
-Zsigerhát
-Zsigeritanyák
+ZsigÃ¡rdimajor
+ZsigÃ¡rdmajor
+Zsiga-vÃ¶lgy
+ZsigerhÃ¡ti Oldal
+ZsigerhÃ¡t
+ZsigeritanyÃ¡k
 Zsiger
 Zsigeroldal
 Zsiger-patak
 Zsiger-puszta
 Zsigerpuszta
-Zsigmondháza
-Zsigmondházapuszta
+ZsigmondhÃ¡za
+ZsigmondhÃ¡zapuszta
 Zsigmond-hegy
 Zsigmond-major
 Zsigmondmajor
 Zsigmond
-Zsigmondpusztai-dûlõ
+Zsigmondpusztai-dÅ±lÅ‘
 Zsigmondpuszta
 Zsigraytanya
 Zsilip
 Zsilletanya
-Zsilló
-Zsillótanya
+ZsillÃ³
+ZsillÃ³tanya
 Zsimba-hegy
 Zsindelyes
 Zsindelyestanya
-Zsinkó Csárda
-Zsinkó
-Zsinór-domb
-Zsiphalomdûlõ
-Zsippóihegy
-Zsippó
-Zsippópuszta
+ZsinkÃ³ CsÃ¡rda
+ZsinkÃ³
+ZsinÃ³r-domb
+ZsiphalomdÅ±lÅ‘
+ZsippÃ³ihegy
+ZsippÃ³
+ZsippÃ³puszta
 Zsira
-Zsíros-hegy
-Zsíroshegy
-Zsíros Hegy
-Zsiróspuszta
-Zsírostanya
+ZsÃ­ros-hegy
+ZsÃ­roshegy
+ZsÃ­ros Hegy
+ZsirÃ³spuszta
+ZsÃ­rostanya
 Zsitfapatak
 Zsitfapuszta
 Zsitva-patak
 Zsitvapuszta
 Zsiva
-Zsivány-hegy
-Zsizsák Hegy
-Zsobrák
-Zsobrákszõllõ
-Zsõcetanya
-Zsodány
-Zsodány-puszta
-Zsófiahegy
-Zsófiamajor
-Zsófiapuszta
-Zsófiatanya
-Zsófi-hegy
+ZsivÃ¡ny-hegy
+ZsizsÃ¡k Hegy
+ZsobrÃ¡k
+ZsobrÃ¡kszÅ‘llÅ‘
+ZsÅ‘cetanya
+ZsodÃ¡ny
+ZsodÃ¡ny-puszta
+ZsÃ³fiahegy
+ZsÃ³fiamajor
+ZsÃ³fiapuszta
+ZsÃ³fiatanya
+ZsÃ³fi-hegy
 Zsolcai-halom
-Zsoldosdûlõ
+ZsoldosdÅ±lÅ‘
 Zsoldos
-Zsombékakol
-Zsombékosdûlõ
-Zsombékos
-Zsombódûlõ
-Zsombókakol
+ZsombÃ©kakol
+ZsombÃ©kosdÅ±lÅ‘
+ZsombÃ©kos
+ZsombÃ³dÅ±lÅ‘
+ZsombÃ³kakol
 Zsombokos
-Zsombó
-Zsombos-tó-dûlõ
-Zsombostó
-Zsörki
-Zsörk
-Zsórytanya
-Zsóvölgypuszta
-Zsühõc
-Zsühõcz
+ZsombÃ³
+Zsombos-tÃ³-dÅ±lÅ‘
+ZsombostÃ³
+ZsÃ¶rki
+ZsÃ¶rk
+ZsÃ³rytanya
+ZsÃ³vÃ¶lgypuszta
+ZsÃ¼hÅ‘c
+ZsÃ¼hÅ‘cz
 Zsujta
 Zsuny-hegy
-Zsúnyi Hegy
+ZsÃºnyi Hegy
 Zsunypuszta
 Zsuphegy
 Zsurk
 Zsuzsannamajor
 Zsuzsatanya
-Zubogórész
-Zubogó-tetõ
+ZubogÃ³rÃ©sz
+ZubogÃ³-tetÅ‘
 Zubogyi Tanya
 Zubogy
-Zuggó
+ZuggÃ³
 Zug-kert
 Zugliget
-Zuglókert
-Zugló
-Zúgó-dûlõ
+ZuglÃ³kert
+ZuglÃ³
+ZÃºgÃ³-dÅ±lÅ‘
 Zugoly
-Zúgó
-Zúgó-tetõ
-Zuhányadûlõ
-Zuhogó
+ZÃºgÃ³
+ZÃºgÃ³-tetÅ‘
+ZuhÃ¡nyadÅ±lÅ‘
+ZuhogÃ³
 Zuppa
-Zuppa-tetõ
-Zuvári-hegy
-Zvaradûlõ
+Zuppa-tetÅ‘
+ZuvÃ¡ri-hegy
+ZvaradÅ±lÅ‘

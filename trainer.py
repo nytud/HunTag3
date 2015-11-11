@@ -92,7 +92,7 @@ class Trainer():
 
     def _makeSparseArray(self, rowNum, colNum):
         print('creating training problem...', end='', file=sys.stderr, flush=True)
-        matrix = csr_matrix((self._data, (self._rows, self._cols)), shape=(rowNum, colNum),
+        matrix = csr_matrix((self._data, (self._rows, self._cols)), shape=(rowNum, self._cols.max()+1),
                             dtype=self._dataSizes['data'])
         del self._rows
         del self._cols
@@ -209,7 +209,7 @@ class Trainer():
         # features are sorted to ensure identical output
         # no matter where the features are coming from
         for featNumber in set([self._featCounter.getNoTrain(feat)
-                           for feat in sorted(tokFeats)]):
+                               for feat in sorted(tokFeats)]):
             rowsAppend(curTok)
             colsAppend(featNumber)
             dataAppend(1)

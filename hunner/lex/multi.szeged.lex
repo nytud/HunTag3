@@ -123,7 +123,7 @@ American Standard
 American Standard Cos
 American Tire Distributors
 American Tower
-América Telecom
+AmÃ©rica Telecom
 AmeriCredit
 AmerisourceBergen
 Ameritrade Holding
@@ -561,7 +561,7 @@ Coventry Health Care
 Cox Communications
 Cox Enterprises
 CR Bard
-Crédit Agricole
+CrÃ©dit Agricole
 Credito Emiliano
 Credit Saison
 Credit Suisse Group
@@ -807,7 +807,7 @@ Follett
 Fondiaria
 Foot Locker
 Ford Motor
-FöreningsSparbanken
+FÃ¶reningsSparbanken
 Forest City Enterprises
 Forest Laboratories
 Forest Labs
@@ -1200,7 +1200,7 @@ Kmart
 Kmart Holding
 Knight Ridder
 Kobe Steel
-Koç Group
+KoÃ§ Group
 Koch Industries
 Kohler
 Kohl's
@@ -1216,7 +1216,7 @@ Kroger
 Krung
 KT
 Kubota
-Kühne
+KÃ¼hne
 Kuraray
 Kyocera
 Kyushu
@@ -1274,7 +1274,7 @@ LNR Property
 Lockheed Martin
 Loews
 Longs Drug Stores
-L'Oréal Group
+L'OrÃ©al Group
 Louisiana
 Love's Travel Stops
 Lowe's Cos
@@ -1456,7 +1456,7 @@ NEC
 Neiman Marcus Group
 Nelnet
 Neptune Orient Lines
-Nestlé
+NestlÃ©
 Network Appliance
 New Balance Athletic Shoe
 New Century Financial
@@ -1530,7 +1530,7 @@ NSK
 NStar
 NTL
 Nucor
-Nürnberger Beteiligungs
+NÃ¼rnberger Beteiligungs
 NVR
 O2
 Obayashi
@@ -1721,7 +1721,7 @@ Raymond James Financial
 Raytheon
 Reckitt Benckiser
 Red Apple Group
-Red Eéctrica de Espaqa
+Red EÃ©ctrica de Espaqa
 Redwood Trust
 Reebok International
 Reed Elsevier
@@ -1925,7 +1925,7 @@ Smith International
 Smiths Group
 Smurfit
 Snecma
-Société Générale Group
+SociÃ©tÃ© GÃ©nÃ©rale Group
 Sodexho Alliance
 Softbank
 Software House Intl
@@ -1984,7 +1984,7 @@ St Paul Cos
 St Paul Travelers Cos
 Structure Tone
 Stryker
-Südzucker
+SÃ¼dzucker
 Suez Group
 Sumikin Bussan
 Sumisho Lease
@@ -2153,10 +2153,10 @@ Trustmark
 TRW Automotive
 TRW Automotive Hldgs
 TUI Group
-Tüpras
+TÃ¼pras
 Turkcell
-Türkiye Garanti Bankasi
-Türkiye Is Bankasi
+TÃ¼rkiye Garanti Bankasi
+TÃ¼rkiye Is Bankasi
 TXU
 Tyco International
 Tyson Foods

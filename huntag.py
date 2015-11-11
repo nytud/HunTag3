@@ -45,7 +45,12 @@ def mainTrain(featureSet, options, inputStream=sys.stdin):
 
 
 def mainTag(featureSet, options, inputStream=sys.stdin):
-    tagger = Tagger(featureSet, options)
+    if not (options['printWeights'] or options['toCRFsuite']):
+        print('loading transition model...', end='', file=sys.stderr, flush=True)
+        transModel = TransModel.getModelFromFile(options['bigramModelFileName'])
+        print('done', file=sys.stderr, flush=True)
+    
+    tagger = Tagger(featureSet, transModel, options)
     if 'inFeatFile' in options and options['inFeatFile']:
         # Tag a featurized file to to STDOUT
         taggerFunc = lambda: tagger.tagFeatures(options['inFeatFile'])
@@ -158,7 +163,7 @@ def parseArgs():
                         help='set relative weight of the language model to L',
                         metavar='L')
 
-    parser.add_argument('-o', '--cutoff', dest='cutoff', type=int, default=2,
+    parser.add_argument('-o', '--cutoff', dest='cutoff', type=int, default=1,
                         help='set global cutoff to C',
                         metavar='C')
 

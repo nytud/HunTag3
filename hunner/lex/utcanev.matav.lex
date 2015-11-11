@@ -18,10 +18,10 @@
 4.sz.
 41-es
 441-es
-45-ös
+45-Ã¶s
 48-as
 49. sz.
-5-ös
+5-Ã¶s
 5.
 501.
 504.
@@ -67,7 +67,7 @@
 6.sz.
 61-es
 61. sz.
-65-ös
+65-Ã¶s
 65. sz.
 67. sz. 
 6718
@@ -76,7 +76,7 @@
 7.
 7. sz.
 70-es
-700 éves
+700 Ã©ves
 71-es
 71.sz.
 77-as
@@ -110,484 +110,484 @@
 97.
 99.
 A
-Á.
-ÁG.
-Ábel
-Ábel Jenõ
-Ábra
-Ábránd
-Ábrányi
-Ábrányi Emil
-Ábrányi Kornél
-Ábrahám
-Ábrahám Géza
-Ábrahámi-szõlõk
-Ábrahámtelek
-Áchim
-Áchim András
-Áchim L. András
-Ács
-Ács József
-Ácsi
-Ádám
-Ádám Gábor
-Ádám Jenõ
-Ádám László
-Ádámvölgy
-Ádándi
-Áfonya
-Áfonyás
-Áfor
-Ág
-Ágacska
-Ágas
-Ágasház
-Ágerdõmajor
-Ágfalvi
-Ágnes
-Ágoston
-Ágoston Péter
-Ágostonpuszta
-Ágota
-Ágyás
-Ákos
-Áldás
-Áldomás
-Áldott
-Áldozat
-Állás
-Állami Gazdaság
-Állami Gazdaság 10/7
-Állami Gazdaság Központ
-Állami Gazdaság Major
-Állampuszta
-Állatkerti
-Állattenyésztõ
-Állomás
-Állomáspuszta
-Állvány
-Álmos
-Álmos vezér
-Álom
-Ámánd-hegy
-Ámor
-Ámos
-Ángyán János
-Ánizs
-Ányos
-Ányos Pál
-Ápád
-Április
-Április 4.
-Áprily Lajos
-Áprily Lajos-völgy
-Ár
-Áram
-Árbóc
-Árbóz
-Árboc
-Árendás
-Árkád
-Árkádos
-Árkász
-Árki
-Árkos
-Árkoskert
-Árkus
-Ármány
-Árnika
-Árnyas
-Árnyékszala
-Árok
-Árokhát
-Árokparti
-Árokszállási
-Ároktõ
-Ároktõi
-Áron
-Árpa
-Árpád
-Árpád-híd
-Árpád-hídi aluljáró
-Árpád fejedelem
-Árpád vezér
-Árpádföldi
-Árpádhalma
-Árpádhalom
-Árpádszállás
-Árpádtetõ
-Árpási
-Árpáskert
-Ártér
-Ártéri
-Ártézi
-Áruház
-Árva
-Árvácska
-Árvaház
-Árvai
-Árvai János
-Árvalányhaj
-Árvavár
-Árvay József
-Árvíz
-Ásító
-Ásó
-Ásvány
-Ásványhát
-Ászok
-Átalszegett
-Átemelõ
-Átkötõ
-Átlós
-Átó
-Átrium
+Ã.
+ÃG.
+Ãbel
+Ãbel JenÅ‘
+Ãbra
+ÃbrÃ¡nd
+ÃbrÃ¡nyi
+ÃbrÃ¡nyi Emil
+ÃbrÃ¡nyi KornÃ©l
+ÃbrahÃ¡m
+ÃbrahÃ¡m GÃ©za
+ÃbrahÃ¡mi-szÅ‘lÅ‘k
+ÃbrahÃ¡mtelek
+Ãchim
+Ãchim AndrÃ¡s
+Ãchim L. AndrÃ¡s
+Ãcs
+Ãcs JÃ³zsef
+Ãcsi
+ÃdÃ¡m
+ÃdÃ¡m GÃ¡bor
+ÃdÃ¡m JenÅ‘
+ÃdÃ¡m LÃ¡szlÃ³
+ÃdÃ¡mvÃ¶lgy
+ÃdÃ¡ndi
+Ãfonya
+ÃfonyÃ¡s
+Ãfor
+Ãg
+Ãgacska
+Ãgas
+ÃgashÃ¡z
+ÃgerdÅ‘major
+Ãgfalvi
+Ãgnes
+Ãgoston
+Ãgoston PÃ©ter
+Ãgostonpuszta
+Ãgota
+ÃgyÃ¡s
+Ãkos
+ÃldÃ¡s
+ÃldomÃ¡s
+Ãldott
+Ãldozat
+ÃllÃ¡s
+Ãllami GazdasÃ¡g
+Ãllami GazdasÃ¡g 10/7
+Ãllami GazdasÃ¡g KÃ¶zpont
+Ãllami GazdasÃ¡g Major
+Ãllampuszta
+Ãllatkerti
+ÃllattenyÃ©sztÅ‘
+ÃllomÃ¡s
+ÃllomÃ¡spuszta
+ÃllvÃ¡ny
+Ãlmos
+Ãlmos vezÃ©r
+Ãlom
+ÃmÃ¡nd-hegy
+Ãmor
+Ãmos
+ÃngyÃ¡n JÃ¡nos
+Ãnizs
+Ãnyos
+Ãnyos PÃ¡l
+ÃpÃ¡d
+Ãprilis
+Ãprilis 4.
+Ãprily Lajos
+Ãprily Lajos-vÃ¶lgy
+Ãr
+Ãram
+ÃrbÃ³c
+ÃrbÃ³z
+Ãrboc
+ÃrendÃ¡s
+ÃrkÃ¡d
+ÃrkÃ¡dos
+ÃrkÃ¡sz
+Ãrki
+Ãrkos
+Ãrkoskert
+Ãrkus
+ÃrmÃ¡ny
+Ãrnika
+Ãrnyas
+ÃrnyÃ©kszala
+Ãrok
+ÃrokhÃ¡t
+Ãrokparti
+ÃrokszÃ¡llÃ¡si
+ÃroktÅ‘
+ÃroktÅ‘i
+Ãron
+Ãrpa
+ÃrpÃ¡d
+ÃrpÃ¡d-hÃ­d
+ÃrpÃ¡d-hÃ­di aluljÃ¡rÃ³
+ÃrpÃ¡d fejedelem
+ÃrpÃ¡d vezÃ©r
+ÃrpÃ¡dfÃ¶ldi
+ÃrpÃ¡dhalma
+ÃrpÃ¡dhalom
+ÃrpÃ¡dszÃ¡llÃ¡s
+ÃrpÃ¡dtetÅ‘
+ÃrpÃ¡si
+ÃrpÃ¡skert
+ÃrtÃ©r
+ÃrtÃ©ri
+ÃrtÃ©zi
+ÃruhÃ¡z
+Ãrva
+ÃrvÃ¡cska
+ÃrvahÃ¡z
+Ãrvai
+Ãrvai JÃ¡nos
+ÃrvalÃ¡nyhaj
+ÃrvavÃ¡r
+Ãrvay JÃ³zsef
+ÃrvÃ­z
+ÃsÃ­tÃ³
+ÃsÃ³
+ÃsvÃ¡ny
+ÃsvÃ¡nyhÃ¡t
+Ãszok
+Ãtalszegett
+ÃtemelÅ‘
+ÃtkÃ¶tÅ‘
+ÃtlÃ³s
+ÃtÃ³
+Ãtrium
 Aba
-Abádi
-Abádszalóki
-Aba Sámuel
+AbÃ¡di
+AbÃ¡dszalÃ³ki
+Aba SÃ¡muel
 Abaliget
 Abaligeti
 Abapuszta
-Abasári
-Abaúji
-Abaújvár
-Abavár
-Abigél
+AbasÃ¡ri
+AbaÃºji
+AbaÃºjvÃ¡r
+AbavÃ¡r
+AbigÃ©l
 Abony
 Abonyfalva
 Abonyi
 Abonyi Lajos
 Abos
 Abroncs
-Abrudbánya
-Acél
-Acélmû
-Acélos
+AbrudbÃ¡nya
+AcÃ©l
+AcÃ©lmÅ±
+AcÃ©los
 Achilles
 Acsa
-Acsádi
-Acsády Ignác
+AcsÃ¡di
+AcsÃ¡dy IgnÃ¡c
 Acsai
 Acsalagi
 Ada
-Adács
+AdÃ¡cs
 Adai
-Adél
-Adler Károly
+AdÃ©l
+Adler KÃ¡roly
 Adonis
 Adony
 Adonyi
-Adorján
-Adorján Újtelep
-Adorjáni
-Adorjánpuszta
+AdorjÃ¡n
+AdorjÃ¡n Ãšjtelep
+AdorjÃ¡ni
+AdorjÃ¡npuszta
 Adria
-Adrián
+AdriÃ¡n
 Adriai
 Ady
 Ady Endre
-Afrika Múzeum
+Afrika MÃºzeum
 Aga
-Agárdi
-Agárdy
+AgÃ¡rdi
+AgÃ¡rdy
 Agancs
-Agarászi
+AgarÃ¡szi
 Aggteleki
 Agip
-Agostyáni
-Agrokémiai telep
+AgostyÃ¡ni
+AgrokÃ©miai telep
 Agyag
-Agyagfejtõ
+AgyagfejtÅ‘
 Agyaghegyi
 Agyagos
 Agyagverem
-Aidinger János
-Ajándék
+Aidinger JÃ¡nos
+AjÃ¡ndÃ©k
 Ajak
 Ajka
-Ajnácskõ
-Ajtó
-Ajtósi
-Ajtósi Dürer
+AjnÃ¡cskÅ‘
+AjtÃ³
+AjtÃ³si
+AjtÃ³si DÃ¼rer
 Ajtony
-Akác
-Akácfa
-Akácillat
-Akácos
-Akácvirág
-Akád
-Akacs Mihály
+AkÃ¡c
+AkÃ¡cfa
+AkÃ¡cillat
+AkÃ¡cos
+AkÃ¡cvirÃ¡g
+AkÃ¡d
+Akacs MihÃ¡ly
 Akada
-Akadály
-Akadémia
+AkadÃ¡ly
+AkadÃ©mia
 Akai
-Akasztó szél
-Akasztófa
-Akasztóhalom
+AkasztÃ³ szÃ©l
+AkasztÃ³fa
+AkasztÃ³halom
 Akna
-Aknász
-Akó
-Alájáró
-Alabástrom
+AknÃ¡sz
+AkÃ³
+AlÃ¡jÃ¡rÃ³
+AlabÃ¡strom
 Alacskai
-Aladár
+AladÃ¡r
 Alag
 Alagi
-Alagút
+AlagÃºt
 Alajos
 Alamand
-Alapi Gáspár
+Alapi GÃ¡spÃ¡r
 Alatka
 Alatkai
-Albán
-Alba Ipari Zóna
-Alba Ipari Zóna XI. Tömb
+AlbÃ¡n
+Alba Ipari ZÃ³na
+Alba Ipari ZÃ³na XI. TÃ¶mb
 Albert
 Albert Ferenc
 Albert Gyula
-Albert István
+Albert IstvÃ¡n
 Albertfalva
 Albertirsai
-Albertkázmérpuszta
+AlbertkÃ¡zmÃ©rpuszta
 Albertmajor
 Album
 Alcsi
 Alcsisziget
-Alcsúti
+AlcsÃºti
 Aldunasor
-Alföld
-Alföldi
-Algír
-Algõver Mihály
-Algyógyi
-Algyõ
-Algyõi
+AlfÃ¶ld
+AlfÃ¶ldi
+AlgÃ­r
+AlgÅ‘ver MihÃ¡ly
+AlgyÃ³gyi
+AlgyÅ‘
+AlgyÅ‘i
 Ali
-Ali Bég
+Ali BÃ©g
 Alig
 Aligai
-Aligvár
-Aligvári
-Aliréti
+AligvÃ¡r
+AligvÃ¡ri
+AlirÃ©ti
 Alisca
-Alispán
-Alivár
+AlispÃ¡n
+AlivÃ¡r
 Aliz
-Alkér
+AlkÃ©r
 Alkony
 Alkonyat
-Alkotás
-Alkotmány
-Alkotó
-Alkotók
+AlkotÃ¡s
+AlkotmÃ¡ny
+AlkotÃ³
+AlkotÃ³k
 Allende
 Alma
-Almádi
-Almár
-Almás
-Almás patak
-Almás puszta
-Almásháza
-Almási
-Almási János
-Almási Pál
-Almáskert
-Almáskút
-Almássy
-Almássy Márton
-Almásy
-Almásy László
+AlmÃ¡di
+AlmÃ¡r
+AlmÃ¡s
+AlmÃ¡s patak
+AlmÃ¡s puszta
+AlmÃ¡shÃ¡za
+AlmÃ¡si
+AlmÃ¡si JÃ¡nos
+AlmÃ¡si PÃ¡l
+AlmÃ¡skert
+AlmÃ¡skÃºt
+AlmÃ¡ssy
+AlmÃ¡ssy MÃ¡rton
+AlmÃ¡sy
+AlmÃ¡sy LÃ¡szlÃ³
 Almafa
 Almagyar
 Almahegy
-Almavirág
-Alpár
-Alpár I.
-Alpár Ignác
-Alpári
-Alpári Gy.
-Alpári Gyula
+AlmavirÃ¡g
+AlpÃ¡r
+AlpÃ¡r I.
+AlpÃ¡r IgnÃ¡c
+AlpÃ¡ri
+AlpÃ¡ri Gy.
+AlpÃ¡ri Gyula
 Alpesi
-Alsó
-Alsó-Duna
-Alsó-Dunasor
-Alsó-Lovarda
-Alsó-Szabadhegyi
-Alsó-malom
-Alsó-újsor
-Alsó Bölcske
-Alsó Egese
-Alsó Héma
-Alsó Kálvária
-Alsó Káposztás
-Alsó Malom
-Alsó Papírgyár
-Alsó Rét
-Alsó Sas
-Alsó Svábhegyi
-Alsó Szinva
-Alsó Tisza-part
-Alsó Törökvész
-Alsó Vasút
-Alsó Zöldmáli
-Alsóárokhegy
-Alsóadacs
-Alsóapsa
-Alsóbabád
-Alsóbadur
-Alsóbaduri
-Alsóbalokány
-Alsóbene
-Alsóberecki-híd
-Alsóbesnyõ
-Alsóbikád
-Alsóbörzsöny
-Alsóborsfai
-Alsóburgundia
-Alsócsalános
-Alsócsöde
-Alsódabas
-Alsódiós
-Alsóérpart
-Alsóerdei
-Alsóerdõ
-Alsóerdõsor
-Alsóesztáva
-Alsófakos
-Alsófõ
-Alsógóla
-Alsógyörgyös
-Alsógyükés
-Alsóharaszt
-Alsóhatár
-Alsóhavi
-Alsóhegy
-Alsóhegyi
-Alsóhídvég
-Alsóhomokerdõ
-Alsójánkahegyi
-Alsójárás
-Alsójózsai
-Alsókáposztás
-Alsókanda
-Alsókara
-Alsókert
-Alsókölked
-Alsóköröspart
-Alsókörtvélyes
-Alsóköz
-Alsókopaszhegyi
-Alsókubin
-Alsólajos
-Alsóleperd
-Alsólõvér
-Alsómánd
-Alsómajor
-Alsómajsa
-Alsómakár
-Alsómalom
-Alsómezõ
-Alsómonostor
-Alsómuskátli
-Alsónánai
-Alsóörsi
-Alsóötház
-Alsóõr
-Alsóõrház
-Alsópáhoki
-Alsópatak
-Alsópél
-Alsópetény
-Alsópincesor
-Alsórét
-Alsóréti
-Alsórév
-Alsósima
-Alsósóskút
-Alsósötét
-Alsósor
-Alsószállás
-Alsószéktó
-Alsószérük
-Alsószemenye
-Alsószer
-Alsósziget
-Alsószikla
-Alsószõlõ
-Alsószõlõk
-Alsótabán
-Alsótapazd
-Alsótekeres
-Alsótekerespuszta
-Alsótelek
-Alsóteleki
-Alsótelep
-Alsótelepi
-Alsótelki
-Alsótemetõ
-Alsótengelic
-Alsóújsor
-Alsóujsor
-Alsóvár
-Alsóvárosi
-Alsóvárosi feketeföldek
-Alsóvadászi
-Alsóvölgy
-Alsóvölgyi
-Alsózsák
-Alsózsólyomka
+AlsÃ³
+AlsÃ³-Duna
+AlsÃ³-Dunasor
+AlsÃ³-Lovarda
+AlsÃ³-Szabadhegyi
+AlsÃ³-malom
+AlsÃ³-Ãºjsor
+AlsÃ³ BÃ¶lcske
+AlsÃ³ Egese
+AlsÃ³ HÃ©ma
+AlsÃ³ KÃ¡lvÃ¡ria
+AlsÃ³ KÃ¡posztÃ¡s
+AlsÃ³ Malom
+AlsÃ³ PapÃ­rgyÃ¡r
+AlsÃ³ RÃ©t
+AlsÃ³ Sas
+AlsÃ³ SvÃ¡bhegyi
+AlsÃ³ Szinva
+AlsÃ³ Tisza-part
+AlsÃ³ TÃ¶rÃ¶kvÃ©sz
+AlsÃ³ VasÃºt
+AlsÃ³ ZÃ¶ldmÃ¡li
+AlsÃ³Ã¡rokhegy
+AlsÃ³adacs
+AlsÃ³apsa
+AlsÃ³babÃ¡d
+AlsÃ³badur
+AlsÃ³baduri
+AlsÃ³balokÃ¡ny
+AlsÃ³bene
+AlsÃ³berecki-hÃ­d
+AlsÃ³besnyÅ‘
+AlsÃ³bikÃ¡d
+AlsÃ³bÃ¶rzsÃ¶ny
+AlsÃ³borsfai
+AlsÃ³burgundia
+AlsÃ³csalÃ¡nos
+AlsÃ³csÃ¶de
+AlsÃ³dabas
+AlsÃ³diÃ³s
+AlsÃ³Ã©rpart
+AlsÃ³erdei
+AlsÃ³erdÅ‘
+AlsÃ³erdÅ‘sor
+AlsÃ³esztÃ¡va
+AlsÃ³fakos
+AlsÃ³fÅ‘
+AlsÃ³gÃ³la
+AlsÃ³gyÃ¶rgyÃ¶s
+AlsÃ³gyÃ¼kÃ©s
+AlsÃ³haraszt
+AlsÃ³hatÃ¡r
+AlsÃ³havi
+AlsÃ³hegy
+AlsÃ³hegyi
+AlsÃ³hÃ­dvÃ©g
+AlsÃ³homokerdÅ‘
+AlsÃ³jÃ¡nkahegyi
+AlsÃ³jÃ¡rÃ¡s
+AlsÃ³jÃ³zsai
+AlsÃ³kÃ¡posztÃ¡s
+AlsÃ³kanda
+AlsÃ³kara
+AlsÃ³kert
+AlsÃ³kÃ¶lked
+AlsÃ³kÃ¶rÃ¶spart
+AlsÃ³kÃ¶rtvÃ©lyes
+AlsÃ³kÃ¶z
+AlsÃ³kopaszhegyi
+AlsÃ³kubin
+AlsÃ³lajos
+AlsÃ³leperd
+AlsÃ³lÅ‘vÃ©r
+AlsÃ³mÃ¡nd
+AlsÃ³major
+AlsÃ³majsa
+AlsÃ³makÃ¡r
+AlsÃ³malom
+AlsÃ³mezÅ‘
+AlsÃ³monostor
+AlsÃ³muskÃ¡tli
+AlsÃ³nÃ¡nai
+AlsÃ³Ã¶rsi
+AlsÃ³Ã¶thÃ¡z
+AlsÃ³Å‘r
+AlsÃ³Å‘rhÃ¡z
+AlsÃ³pÃ¡hoki
+AlsÃ³patak
+AlsÃ³pÃ©l
+AlsÃ³petÃ©ny
+AlsÃ³pincesor
+AlsÃ³rÃ©t
+AlsÃ³rÃ©ti
+AlsÃ³rÃ©v
+AlsÃ³sima
+AlsÃ³sÃ³skÃºt
+AlsÃ³sÃ¶tÃ©t
+AlsÃ³sor
+AlsÃ³szÃ¡llÃ¡s
+AlsÃ³szÃ©ktÃ³
+AlsÃ³szÃ©rÃ¼k
+AlsÃ³szemenye
+AlsÃ³szer
+AlsÃ³sziget
+AlsÃ³szikla
+AlsÃ³szÅ‘lÅ‘
+AlsÃ³szÅ‘lÅ‘k
+AlsÃ³tabÃ¡n
+AlsÃ³tapazd
+AlsÃ³tekeres
+AlsÃ³tekerespuszta
+AlsÃ³telek
+AlsÃ³teleki
+AlsÃ³telep
+AlsÃ³telepi
+AlsÃ³telki
+AlsÃ³temetÅ‘
+AlsÃ³tengelic
+AlsÃ³Ãºjsor
+AlsÃ³ujsor
+AlsÃ³vÃ¡r
+AlsÃ³vÃ¡rosi
+AlsÃ³vÃ¡rosi feketefÃ¶ldek
+AlsÃ³vadÃ¡szi
+AlsÃ³vÃ¶lgy
+AlsÃ³vÃ¶lgyi
+AlsÃ³zsÃ¡k
+AlsÃ³zsÃ³lyomka
 Alsoki
-Alszeghy Kálmán
+Alszeghy KÃ¡lmÃ¡n
 Alszegi
 Alszer
 Alszopori
-Altáró
+AltÃ¡rÃ³
 Althann
-Alugyári
-Alvég
-Alvégi
+AlugyÃ¡ri
+AlvÃ©g
+AlvÃ©gi
 Alvinc
 Alvinci
 Alvinczi
-Alvó
-Amadé László
-Amancsics kapitány
-Ambrózy
+AlvÃ³
+AmadÃ© LÃ¡szlÃ³
+Amancsics kapitÃ¡ny
+AmbrÃ³zy
 Ambrus
-Ambrus Zoltán
+Ambrus ZoltÃ¡n
 Amerikai
-Amfiteátrum
-Amúr
+AmfiteÃ¡trum
+AmÃºr
 Amur
-Ananász
+AnanÃ¡sz
 Anarcsi
-Anasztázia
-Andaházi
+AnasztÃ¡zia
+AndahÃ¡zi
 Andezit
-Andócs
+AndÃ³cs
 Andor
 Andor Ilona
-Andorháza
+AndorhÃ¡za
 Andormajor
 Andornak
-András
-Andrásakna
-Andrásbíró
-Andrásdûlõ
-Andrásfa
-Andrásháza
-Andráshida
-Andrási
-Andrássy
-Andrássy Dénes
-Andrássy Gyula
-Andrásszeri
-Andrástanya
-Andrásvári
-Andra János
+AndrÃ¡s
+AndrÃ¡sakna
+AndrÃ¡sbÃ­rÃ³
+AndrÃ¡sdÅ±lÅ‘
+AndrÃ¡sfa
+AndrÃ¡shÃ¡za
+AndrÃ¡shida
+AndrÃ¡si
+AndrÃ¡ssy
+AndrÃ¡ssy DÃ©nes
+AndrÃ¡ssy Gyula
+AndrÃ¡sszeri
+AndrÃ¡stanya
+AndrÃ¡svÃ¡ri
+Andra JÃ¡nos
 Andris
-Angéla
+AngÃ©la
 Angeli
 Angella
 Anger
@@ -595,594 +595,594 @@ Anger Jakab
 Angol
 Angolkert
 Angolna
-Angster József
+Angster JÃ³zsef
 Angyal
-Angyal Dávid
-Angyal Pál
+Angyal DÃ¡vid
+Angyal PÃ¡l
 Angyaldomb
-Angyalföld
-Angyalföldi
-Angyalházi
+AngyalfÃ¶ld
+AngyalfÃ¶ldi
+AngyalhÃ¡zi
 Angyalka
-Anikó
+AnikÃ³
 Anilin
 Ankara
 Anker
-Ankli József
+Ankli JÃ³zsef
 Anna
 Anna-akna
 Anna-laki
-Anna Kápolna
-Annabánya
-Annafürdõ
+Anna KÃ¡polna
+AnnabÃ¡nya
+AnnafÃ¼rdÅ‘
 Annakert
 Annamajor
-Annavölgy
-Annavölgyi
-Anód
+AnnavÃ¶lgy
+AnnavÃ¶lgyi
+AnÃ³d
 Anonymus
 Antal
-Antal György
-Antal Iván
-Antal János
+Antal GyÃ¶rgy
+Antal IvÃ¡n
+Antal JÃ¡nos
 Antalbokor
 Antalfa
 Antalfalu
 Antalhegyi
-Antali erdészház
-Antall József
-Antalszállás
-Antónia
-Antos János
-Anyácsapuszta
-Anyácska
-Apáca
-Apáczai Csere János
-Apály
-Apát
-Apátfa
-Apátfalvi
-Apáthy István
-Apáti
-Apáti puszta
-Apátistvánfalvi
-Apátság
-Apátsági
-Apadó
+Antali erdÃ©szhÃ¡z
+Antall JÃ³zsef
+AntalszÃ¡llÃ¡s
+AntÃ³nia
+Antos JÃ¡nos
+AnyÃ¡csapuszta
+AnyÃ¡cska
+ApÃ¡ca
+ApÃ¡czai Csere JÃ¡nos
+ApÃ¡ly
+ApÃ¡t
+ApÃ¡tfa
+ApÃ¡tfalvi
+ApÃ¡thy IstvÃ¡n
+ApÃ¡ti
+ApÃ¡ti puszta
+ApÃ¡tistvÃ¡nfalvi
+ApÃ¡tsÃ¡g
+ApÃ¡tsÃ¡gi
+ApadÃ³
 Apafa
-Apafája
+ApafÃ¡ja
 Apaffi
 Apaffy
 Apafi
-Apafi Mihály
+Apafi MihÃ¡ly
 Apagyi
 Apahida
 Apaj
 Apaji
 Apatini
-Apavár
-Apavára
-Apolló
-Apollónia
+ApavÃ¡r
+ApavÃ¡ra
+ApollÃ³
+ApollÃ³nia
 Apor
-Apor Péter
+Apor PÃ©ter
 Apor Vilmos
-Apor Vilmos püspök
-Aporháza
+Apor Vilmos pÃ¼spÃ¶k
+AporhÃ¡za
 Apostol
-Apostol Pál
+Apostol PÃ¡l
 Apostolhegy
 Apponyi
 Apponyi Albert
-Apponyi Károly
-Apró
-Apród
-Apróhomok
-Aprónyárfás
-Arácsi
+Apponyi KÃ¡roly
+AprÃ³
+AprÃ³d
+AprÃ³homok
+AprÃ³nyÃ¡rfÃ¡s
+ArÃ¡csi
 Arad
 Aradi
-Aradi vértanúk
-Aral Benzinkút
+Aradi vÃ©rtanÃºk
+Aral BenzinkÃºt
 Aranka
 Arany
-Arany János
-Aranyász
+Arany JÃ¡nos
+AranyÃ¡sz
 Aranyalma
 Aranybulla
 Aranycsillag
-Aranyegyháza
+AranyegyhÃ¡za
 Aranyember
-Aranyesõ
+AranyesÅ‘
 Aranyfa
-Aranyfácán
-Aranyfürt
-Aranyház
+AranyfÃ¡cÃ¡n
+AranyfÃ¼rt
+AranyhÃ¡z
 Aranyhal
 Aranyhegy
 Aranyhegyi
-Aranyhíd
+AranyhÃ­d
 Aranyhomok
-Aranyi Sándor
-Aranykagyló
-Aranykalász
+Aranyi SÃ¡ndor
+AranykagylÃ³
+AranykalÃ¡sz
 Aranykapu
-Aranykéz
+AranykÃ©z
 Aranykert
-Aranykút
-Aranylúd
+AranykÃºt
+AranylÃºd
 Aranymeggyes
-Aranymeggyes szél
+Aranymeggyes szÃ©l
 Aranyodi
 Aranyos
-Aranyos fürdõ
-Aranyos völgy
+Aranyos fÃ¼rdÅ‘
+Aranyos vÃ¶lgy
 Aranyosi
 Aranyossziget
 Aranypart
 Aranypatak
 Aranyszablya
 Aranyszarvas
-Aranytó
-Aranyvesszõ
-Aranyvirág
-Aranyvölgy
+AranytÃ³
+AranyvesszÅ‘
+AranyvirÃ¡g
+AranyvÃ¶lgy
 Arasz
 Araszt
-Arató
-Arató Emil
-Arborétum
-Aréna
-Argentína
+AratÃ³
+AratÃ³ Emil
+ArborÃ©tum
+ArÃ©na
+ArgentÃ­na
 Argentina
 Arkadat
-Arnóti
-Arnóti bekötõ
-Artézi kút
-Artúr
-Arzén
-Asbóth
-Asbóth József
-Asbóth Sándor
-Aschner Lipót
+ArnÃ³ti
+ArnÃ³ti bekÃ¶tÅ‘
+ArtÃ©zi kÃºt
+ArtÃºr
+ArzÃ©n
+AsbÃ³th
+AsbÃ³th JÃ³zsef
+AsbÃ³th SÃ¡ndor
+Aschner LipÃ³t
 Asszonyfa
-Asszonyrész
-Asszonyszállási tanyák
-Asszonyvásár
-Aszály
-Aszaló
-Aszalvölgyi
-Aszfaltkeverõ telep
-Aszfaltozó
-Aszódi
-Aszparágusz
+AsszonyrÃ©sz
+AsszonyszÃ¡llÃ¡si tanyÃ¡k
+AsszonyvÃ¡sÃ¡r
+AszÃ¡ly
+AszalÃ³
+AszalvÃ¶lgyi
+AszfaltkeverÅ‘ telep
+AszfaltozÃ³
+AszÃ³di
+AszparÃ¡gusz
 Asztag
 Asztalos
-Asztalos Béla
+Asztalos BÃ©la
 Asztalos Ferenc
-Asztalos János
-Asztalos Sándor
-Aszú
-Athéni
+Asztalos JÃ¡nos
+Asztalos SÃ¡ndor
+AszÃº
+AthÃ©ni
 Athinay
 Ati
 Atlasz
-Atléta
+AtlÃ©ta
 Attila
 Augusz Imre
-Auguszt János
+Auguszt JÃ¡nos
 Auguszta
 Augusztus 90.
 Aulich
 Aulich Lajos
-Aurél
-Auróra
-Autóbusz-pályaudvar
-Autóbusz forduló
-Autóbusz pályaudvar
-Autóbuszállomás
-Autóbuszváró
-Autóparkoló
-Autós pihenõ
-Autóspihenõ
+AurÃ©l
+AurÃ³ra
+AutÃ³busz-pÃ¡lyaudvar
+AutÃ³busz fordulÃ³
+AutÃ³busz pÃ¡lyaudvar
+AutÃ³buszÃ¡llomÃ¡s
+AutÃ³buszvÃ¡rÃ³
+AutÃ³parkolÃ³
+AutÃ³s pihenÅ‘
+AutÃ³spihenÅ‘
 Avar
-Avarszállás
+AvarszÃ¡llÃ¡s
 Avas
-Avas kilátó
-Avasárok
+Avas kilÃ¡tÃ³
+AvasÃ¡rok
 Avasalja
 Avashegy
 Avashegyi
 Avasi TV torony
 Avaspuszta
 B.
-B. Szabó József
-B. Tóth Ferenc
+B. SzabÃ³ JÃ³zsef
+B. TÃ³th Ferenc
 BCM
 B szektor
-Bába
-Bába Molnár
-Bábai
-Bábonyibérc
-Bábonyibérc alsó
-Bábonyibérc felsõ
-Bábos
-Bács
-Bácsa
-Bácsai
-Bácsalmás
-Bácsfapuszta
-Bácska
-Bácskai
-Bácskay
-Bádogos
-Bádonfa
-Bádony
-Bájibokor
-Bákonyikert
-Bálics
-Bálics-tetõ
-Bálicsi
-Bálint
-Bálint G.
-Bálint György
-Bálint János
-Bálint Mihály
-Bálint Sándor
-Bálint Zoltán
-Bálint pap
-Bálintbokor
-Bálintmajor
-Bálvány
-Bálványos
-Bán
-Bán Aladár
-Bán Sámuel
-Bán Sándor
-Bán Tibor
-Bán Zsigmond
-Bánát
-Bánáti
-Bánáti Sverák
-Bánat
-Bánfa
-Bánfalvi
-Bánfapuszta
-Bánffy
-Bánffyhunyad
-Bánfibokor
-Bánfolyás
-Bánháza
-Bánhida
-Bánhidai
-Bánhidi
-Bánk
-Bánk bán
-Bánki
-Bánki Donát
-Bánkiszéki
-Bánkõhegyi
-Bánkút
-Bánó
-Bánom
-Bánomi
-Bánomkert
-Bánomkerti
-Bánomszõlõ I.
-Bánomszõlõ II.
-Bánomszõlõ III.
-Bánomszõlõ IV.
-Bánosi
-Bánréve
-Bánság
-Bánszállás
-Bántó
-Bánusz
-Bánvölgy
-Bánvölgye
-Bánya
-Bányácska
-Bányász
-Bányász vértanúk
-Bányászó
-Bánya telep
-Bányahegy
-Bányai
-Bányai Elemér
-Bányai Júlia
-Bányai Kornél
-Bányakápolna
-Bányalég
-Bányamécs
-Bányatelek
-Bányatelep
-Bányató
-Bányaüzem
-Bányavölgy
-Bányihegy
-Báránd
-Bárándi
-Bárándpuszta
-Bárány
-Bárány tetõ
-Bárányér
-Bárányfok
-Bárányház
-Bárányréti
-Bárczai
-Bárczay
-Bárczi
-Bárczi Géza
-Bárczi Gusztáv
-Bárczy Géza
-Bárczy István
-Bárd
-Bárdibükk
-Bárdos
-Bárdos Alice
-Bárdos Artúr
-Bárdos Lajos
-Bárdos lakópark
-Bárdosi Németh János
-Bárduna
-Bári
-Báriuspad
-Bárka
-Bárki
-Báró
-Báró Hirsch
-Báró Hirsh
-Báróczy
-Báróházi
-Bársony
-Bársony István
-Bársony János
-Bársonyka
-Bársonyos
-Bársonyvirág
-Bárszentmihályfai
-Bártfa
-Bártfai
-Básthy
-Bástya
-Bátaszéki tanyák
-Báthori
-Báthori István
-Báthori Zsófia
-Báthori fejedelem
-Báthory
-Báthory István
-Báthory László
-Báthory Schulcz Bódog
-Bátky Zsigmond
-Bátor
-Bátori
-Bátorkeszi
-Bátorszõlõ I.
-Bátorszõlõ II.
-Bátorszõlõ lll.
-Bátyui
-Bázai
-Bázis
-Bázsai öböl
+BÃ¡ba
+BÃ¡ba MolnÃ¡r
+BÃ¡bai
+BÃ¡bonyibÃ©rc
+BÃ¡bonyibÃ©rc alsÃ³
+BÃ¡bonyibÃ©rc felsÅ‘
+BÃ¡bos
+BÃ¡cs
+BÃ¡csa
+BÃ¡csai
+BÃ¡csalmÃ¡s
+BÃ¡csfapuszta
+BÃ¡cska
+BÃ¡cskai
+BÃ¡cskay
+BÃ¡dogos
+BÃ¡donfa
+BÃ¡dony
+BÃ¡jibokor
+BÃ¡konyikert
+BÃ¡lics
+BÃ¡lics-tetÅ‘
+BÃ¡licsi
+BÃ¡lint
+BÃ¡lint G.
+BÃ¡lint GyÃ¶rgy
+BÃ¡lint JÃ¡nos
+BÃ¡lint MihÃ¡ly
+BÃ¡lint SÃ¡ndor
+BÃ¡lint ZoltÃ¡n
+BÃ¡lint pap
+BÃ¡lintbokor
+BÃ¡lintmajor
+BÃ¡lvÃ¡ny
+BÃ¡lvÃ¡nyos
+BÃ¡n
+BÃ¡n AladÃ¡r
+BÃ¡n SÃ¡muel
+BÃ¡n SÃ¡ndor
+BÃ¡n Tibor
+BÃ¡n Zsigmond
+BÃ¡nÃ¡t
+BÃ¡nÃ¡ti
+BÃ¡nÃ¡ti SverÃ¡k
+BÃ¡nat
+BÃ¡nfa
+BÃ¡nfalvi
+BÃ¡nfapuszta
+BÃ¡nffy
+BÃ¡nffyhunyad
+BÃ¡nfibokor
+BÃ¡nfolyÃ¡s
+BÃ¡nhÃ¡za
+BÃ¡nhida
+BÃ¡nhidai
+BÃ¡nhidi
+BÃ¡nk
+BÃ¡nk bÃ¡n
+BÃ¡nki
+BÃ¡nki DonÃ¡t
+BÃ¡nkiszÃ©ki
+BÃ¡nkÅ‘hegyi
+BÃ¡nkÃºt
+BÃ¡nÃ³
+BÃ¡nom
+BÃ¡nomi
+BÃ¡nomkert
+BÃ¡nomkerti
+BÃ¡nomszÅ‘lÅ‘ I.
+BÃ¡nomszÅ‘lÅ‘ II.
+BÃ¡nomszÅ‘lÅ‘ III.
+BÃ¡nomszÅ‘lÅ‘ IV.
+BÃ¡nosi
+BÃ¡nrÃ©ve
+BÃ¡nsÃ¡g
+BÃ¡nszÃ¡llÃ¡s
+BÃ¡ntÃ³
+BÃ¡nusz
+BÃ¡nvÃ¶lgy
+BÃ¡nvÃ¶lgye
+BÃ¡nya
+BÃ¡nyÃ¡cska
+BÃ¡nyÃ¡sz
+BÃ¡nyÃ¡sz vÃ©rtanÃºk
+BÃ¡nyÃ¡szÃ³
+BÃ¡nya telep
+BÃ¡nyahegy
+BÃ¡nyai
+BÃ¡nyai ElemÃ©r
+BÃ¡nyai JÃºlia
+BÃ¡nyai KornÃ©l
+BÃ¡nyakÃ¡polna
+BÃ¡nyalÃ©g
+BÃ¡nyamÃ©cs
+BÃ¡nyatelek
+BÃ¡nyatelep
+BÃ¡nyatÃ³
+BÃ¡nyaÃ¼zem
+BÃ¡nyavÃ¶lgy
+BÃ¡nyihegy
+BÃ¡rÃ¡nd
+BÃ¡rÃ¡ndi
+BÃ¡rÃ¡ndpuszta
+BÃ¡rÃ¡ny
+BÃ¡rÃ¡ny tetÅ‘
+BÃ¡rÃ¡nyÃ©r
+BÃ¡rÃ¡nyfok
+BÃ¡rÃ¡nyhÃ¡z
+BÃ¡rÃ¡nyrÃ©ti
+BÃ¡rczai
+BÃ¡rczay
+BÃ¡rczi
+BÃ¡rczi GÃ©za
+BÃ¡rczi GusztÃ¡v
+BÃ¡rczy GÃ©za
+BÃ¡rczy IstvÃ¡n
+BÃ¡rd
+BÃ¡rdibÃ¼kk
+BÃ¡rdos
+BÃ¡rdos Alice
+BÃ¡rdos ArtÃºr
+BÃ¡rdos Lajos
+BÃ¡rdos lakÃ³park
+BÃ¡rdosi NÃ©meth JÃ¡nos
+BÃ¡rduna
+BÃ¡ri
+BÃ¡riuspad
+BÃ¡rka
+BÃ¡rki
+BÃ¡rÃ³
+BÃ¡rÃ³ Hirsch
+BÃ¡rÃ³ Hirsh
+BÃ¡rÃ³czy
+BÃ¡rÃ³hÃ¡zi
+BÃ¡rsony
+BÃ¡rsony IstvÃ¡n
+BÃ¡rsony JÃ¡nos
+BÃ¡rsonyka
+BÃ¡rsonyos
+BÃ¡rsonyvirÃ¡g
+BÃ¡rszentmihÃ¡lyfai
+BÃ¡rtfa
+BÃ¡rtfai
+BÃ¡sthy
+BÃ¡stya
+BÃ¡taszÃ©ki tanyÃ¡k
+BÃ¡thori
+BÃ¡thori IstvÃ¡n
+BÃ¡thori ZsÃ³fia
+BÃ¡thori fejedelem
+BÃ¡thory
+BÃ¡thory IstvÃ¡n
+BÃ¡thory LÃ¡szlÃ³
+BÃ¡thory Schulcz BÃ³dog
+BÃ¡tky Zsigmond
+BÃ¡tor
+BÃ¡tori
+BÃ¡torkeszi
+BÃ¡torszÅ‘lÅ‘ I.
+BÃ¡torszÅ‘lÅ‘ II.
+BÃ¡torszÅ‘lÅ‘ lll.
+BÃ¡tyui
+BÃ¡zai
+BÃ¡zis
+BÃ¡zsai Ã¶bÃ¶l
 Baba
 Babarc
-Babarózsa
-Babér
+BabarÃ³zsa
+BabÃ©r
 Babits
-Babits Mihály
-Babóchay
-Babóti
+Babits MihÃ¡ly
+BabÃ³chay
+BabÃ³ti
 Babocsay
-Babocsay Sándor
+Babocsay SÃ¡ndor
 Babos
-Bacsák
-Bacsinszky András
-Bacsó
-Bacsó Béla
-Bacsó Nándor
-Badár Balázs
+BacsÃ¡k
+Bacsinszky AndrÃ¡s
+BacsÃ³
+BacsÃ³ BÃ©la
+BacsÃ³ NÃ¡ndor
+BadÃ¡r BalÃ¡zs
 Badacsony
 Badacsonyi
-Badacsonyköz
-Badacsonyörsi
-Bagamér
-Bagaméri
-Bagaméri Lajos
+BadacsonykÃ¶z
+BadacsonyÃ¶rsi
+BagamÃ©r
+BagamÃ©ri
+BagamÃ©ri Lajos
 Bagaria
 Baghy Gyula
-Bagi László
-Bagiföld
+Bagi LÃ¡szlÃ³
+BagifÃ¶ld
 Baglas
 Baglyasi
-Baglyasszél
-Bagó-vasút
-Bagódombi
+BaglyasszÃ©l
+BagÃ³-vasÃºt
+BagÃ³dombi
 Bagolai
 Bagoly
-Bagolyvár
-Bagolyvári
-Bagolyvölgy
+BagolyvÃ¡r
+BagolyvÃ¡ri
+BagolyvÃ¶lgy
 Bagosi
 Bagosi tag
 Bagota
 Baja
-Bajáki Elemér
-Bajáki Ferenc
-Baján
+BajÃ¡ki ElemÃ©r
+BajÃ¡ki Ferenc
+BajÃ¡n
 Bajai
 Bajcs
 Bajcsai
 Bajcsy-Zsilinszky
 Bajcsy-Zsilinszky Endre
-Bajcsy-Zsilinszky tömbbelsõ
+Bajcsy-Zsilinszky tÃ¶mbbelsÅ‘
 Baji
-Bajkai Gábor
+Bajkai GÃ¡bor
 Bajmi
-Bajmóci
+BajmÃ³ci
 Bajnai
 Bajnok
 Bajonett
 Bajor
-Bajor Ágost
+Bajor Ãgost
 Bajor Gizi
 Bajorhegy
-Bajtárs
+BajtÃ¡rs
 Bajtnerkapuszta
-Bajuszfû
-Bajvívó
+BajuszfÅ±
+BajvÃ­vÃ³
 Bajza
-Bajzát
-Bajza József
+BajzÃ¡t
+Bajza JÃ³zsef
 Baka
-Bakács
-Bakáts
+BakÃ¡cs
+BakÃ¡ts
 Bakacs
 Bakancsos
-Bakaszállás
+BakaszÃ¡llÃ¡s
 Bakator
-Bakay Árpád
-Bakay Nándor
-Bakérsor
-Bakfark Bálint
-Bakó
-Bakó József
-Bakóc
-Bakóczy
-Bakópuszta
+Bakay ÃrpÃ¡d
+Bakay NÃ¡ndor
+BakÃ©rsor
+Bakfark BÃ¡lint
+BakÃ³
+BakÃ³ JÃ³zsef
+BakÃ³c
+BakÃ³czy
+BakÃ³puszta
 Bakony
-Bakonybánk
-Bakonyér
+BakonybÃ¡nk
+BakonyÃ©r
 Bakonyi
 Bakonykuti
 Bakos
 Bakosdombi
-Baksaházi
-Baksai Sándor
+BaksahÃ¡zi
+Baksai SÃ¡ndor
 Baksaszer
 Baksay
-Baksay Sándor
+Baksay SÃ¡ndor
 Baktai
 Bakti
-Baktói
-Baktói kiskertek
-Bakule Márton
+BaktÃ³i
+BaktÃ³i kiskertek
+Bakule MÃ¡rton
 Bal
-Balás Árpád
-Balásházy János
-Balázs
-Balázs-völgy
-Balázs Árpád
-Balázs Béla
-Balázs Ferenc
-Balázs János
-Balázs Jenõ
-Balázsdiák
-Balázsfai
-Balázskert
-Balázspuszta
-Balabás
+BalÃ¡s ÃrpÃ¡d
+BalÃ¡shÃ¡zy JÃ¡nos
+BalÃ¡zs
+BalÃ¡zs-vÃ¶lgy
+BalÃ¡zs ÃrpÃ¡d
+BalÃ¡zs BÃ©la
+BalÃ¡zs Ferenc
+BalÃ¡zs JÃ¡nos
+BalÃ¡zs JenÅ‘
+BalÃ¡zsdiÃ¡k
+BalÃ¡zsfai
+BalÃ¡zskert
+BalÃ¡zspuszta
+BalabÃ¡s
 Balajthy
 Balassa
-Balassa Bálint
-Balassa János
+Balassa BÃ¡lint
+Balassa JÃ¡nos
 Balassagyarmat
 Balassi
-Balassi Bálint
+Balassi BÃ¡lint
 Balaton
-Balatonarács Lóczy Lajos
-Balatonfüredi
-Balatonfüzfõi
-Balatonhídvég
+BalatonarÃ¡cs LÃ³czy Lajos
+BalatonfÃ¼redi
+BalatonfÃ¼zfÅ‘i
+BalatonhÃ­dvÃ©g
 Balatoni
-Balatoni üzletsor
+Balatoni Ã¼zletsor
 Balatoni utca Ipartelep
-Balatonmagyaródi
+BalatonmagyarÃ³di
 Balatonpart
-Balatonszabadi-Sóstó
-Balatonszéplak
-Balatonszentgyörgyi
+Balatonszabadi-SÃ³stÃ³
+BalatonszÃ©plak
+BalatonszentgyÃ¶rgyi
 Balay
 Balfi
-Balhás
+BalhÃ¡s
 Balin
-Balinkabánya üdülõ
-Balkán
-Balkányi
-Balkányi rész
+BalinkabÃ¡nya Ã¼dÃ¼lÅ‘
+BalkÃ¡n
+BalkÃ¡nyi
+BalkÃ¡nyi rÃ©sz
 Balla
 Balla Gergely
 Balla K.
-Balla Pál
+Balla PÃ¡l
 Ballada
-Ballagi-tó
-Ballagi Károly
-Ballagi Mór
+Ballagi-tÃ³
+Ballagi KÃ¡roly
+Ballagi MÃ³r
 Ballai
-Ballakúti
+BallakÃºti
 Ballatanya
-Balló Mátyás
-Ballószög
-Balmazújvárosi
-Balog József
+BallÃ³ MÃ¡tyÃ¡s
+BallÃ³szÃ¶g
+BalmazÃºjvÃ¡rosi
+Balog JÃ³zsef
 Balogh
-Balogh Ádám
+Balogh ÃdÃ¡m
 Balogh Antal
-Balogh Béla
+Balogh BÃ©la
 Balogh Ferenc
 Balogh Gyula
-Balogh János
+Balogh JÃ¡nos
 Balogh L.
-Balogh Mihály
-Balogh Tihamér
+Balogh MihÃ¡ly
+Balogh TihamÃ©r
 Balogh Zsuzsanna
 Baloghtanya
 Balogpuszta
-Balogvár
-Balparászta
+BalogvÃ¡r
+BalparÃ¡szta
 Balremete
 Balta
-Baltazár Dezsõ
+BaltazÃ¡r DezsÅ‘
 Baltik Frigyes
 Baltika
 Balzac
 Balzsam
-Banán
+BanÃ¡n
 Banai
 Bancsa
-Bandzsalgó
-Bandzsalgó völgy
+BandzsalgÃ³
+BandzsalgÃ³ vÃ¶lgy
 Bank
 Banka
-Bankó
-Bankós
-Bankos Károly
-Banyavölgy
-Banyi János
-Barát
-Barát-patak
-Barát János
-Barátcinege
-Barátföld
-Baráthegy
-Baráthegyalja
-Barátihegy
-Barátka
-Barátkút
-Barátság
-Barátszer
-Barátsziget
-Barátszilas
-Barátszilos
-Barátúr
-Barázda
-Barabás
-Barabás István
-Barabás Miklós
+BankÃ³
+BankÃ³s
+Bankos KÃ¡roly
+BanyavÃ¶lgy
+Banyi JÃ¡nos
+BarÃ¡t
+BarÃ¡t-patak
+BarÃ¡t JÃ¡nos
+BarÃ¡tcinege
+BarÃ¡tfÃ¶ld
+BarÃ¡thegy
+BarÃ¡thegyalja
+BarÃ¡tihegy
+BarÃ¡tka
+BarÃ¡tkÃºt
+BarÃ¡tsÃ¡g
+BarÃ¡tszer
+BarÃ¡tsziget
+BarÃ¡tszilas
+BarÃ¡tszilos
+BarÃ¡tÃºr
+BarÃ¡zda
+BarabÃ¡s
+BarabÃ¡s IstvÃ¡n
+BarabÃ¡s MiklÃ³s
 Barack
 Barackfa
 Barackos
-Barackvirág
+BarackvirÃ¡g
 Baracsi
 Baracska
 Baracskai
@@ -1191,186 +1191,186 @@ Baradla oldal
 Barakonyi
 Barankovics
 Baranya
-Baranyahidvég 1
+BaranyahidvÃ©g 1
 Baranyai
 Baranyai tanya
-Baranyavár
-Baranyavölgy
+BaranyavÃ¡r
+BaranyavÃ¶lgy
 Barapuszta
 Baratinpuszta
 Barbacsi
-Barbakán
+BarbakÃ¡n
 Barbara
 Barca
-Barcaság
+BarcasÃ¡g
 Barcika
 Barcs
-Barcsa János
+Barcsa JÃ¡nos
 Barcsai
 Barcsay
-Barcsay Ábrahám
-Barcsay Jenõ
+Barcsay ÃbrahÃ¡m
+Barcsay JenÅ‘
 Barcza
-Bardócz Béla
-Bargár Ödön
+BardÃ³cz BÃ©la
+BargÃ¡r Ã–dÃ¶n
 Bari-hegy
 Baricska
 Barka
-Barkács
+BarkÃ¡cs
 Barki
-Barkó
-Barkóczy
-Barkóczy Ferenc
+BarkÃ³
+BarkÃ³czy
+BarkÃ³czy Ferenc
 Barlang
 Barna
-Barnahátpuszta
+BarnahÃ¡tpuszta
 Barnak
 Barnakpuszta
-Barót
+BarÃ³t
 Barok
-Baromállás
+BaromÃ¡llÃ¡s
 Baromfi telep
 Baromfitelep
 Baromlak
 Baross
 Baross-akna
-Baross Gábor
-Baross László
-Baross tér aluljáró
-Baross téri aluljáró
+Baross GÃ¡bor
+Baross LÃ¡szlÃ³
+Baross tÃ©r aluljÃ¡rÃ³
+Baross tÃ©ri aluljÃ¡rÃ³
 Barota
 Barsi
 Barta
 Barta Lajos
-Bartakovics Béla
+Bartakovics BÃ©la
 Bartalos Gyula
 Bartfa
 Bartha
-Bartha Boldizsár
-Bartha Elemér
-Bartha Miklós
+Bartha BoldizsÃ¡r
+Bartha ElemÃ©r
+Bartha MiklÃ³s
 Bartina
-Bartók
-Bartók Béla
-Bartók Lajos
+BartÃ³k
+BartÃ³k BÃ©la
+BartÃ³k Lajos
 Bartusekpuszta
-Barzó
+BarzÃ³
 Basa
 Basadomb
 Basahalom
-Basahíd
-Basakúti
+BasahÃ­d
+BasakÃºti
 Basamalom
-Basarét
-Bata Sándor
-Bathó János
-Batifejtõ
+BasarÃ©t
+Bata SÃ¡ndor
+BathÃ³ JÃ¡nos
+BatifejtÅ‘
 Batka Gyula
-Bató Béla
-Batsányi
-Batsányi János
+BatÃ³ BÃ©la
+BatsÃ¡nyi
+BatsÃ¡nyi JÃ¡nos
 Battai
-Batthyány
-Batthyány György
-Batthyány Ilona
-Batthyány István
-Batthyány János
-Batthyány Lajos
-Batthyánypuszta
+BatthyÃ¡ny
+BatthyÃ¡ny GyÃ¶rgy
+BatthyÃ¡ny Ilona
+BatthyÃ¡ny IstvÃ¡n
+BatthyÃ¡ny JÃ¡nos
+BatthyÃ¡ny Lajos
+BatthyÃ¡nypuszta
 Battonya
-Battyán
-Battyánpuszta
-Battyány u.94. 9/98.
+BattyÃ¡n
+BattyÃ¡npuszta
+BattyÃ¡ny u.94. 9/98.
 Batyu
 Bauer Rudolf
-Bauxitbánya
+BauxitbÃ¡nya
 Bay
-Bay Zoltán
-Bayk András
-Bayk András kert
-Bayk András kert Remény
-Bazársor
+Bay ZoltÃ¡n
+Bayk AndrÃ¡s
+Bayk AndrÃ¡s kert
+Bayk AndrÃ¡s kert RemÃ©ny
+BazÃ¡rsor
 Bazalt
-Bazaltbánya
+BazaltbÃ¡nya
 Bazin
 Bazitai
 Bazsalikom
-Bazsarózsa
+BazsarÃ³zsa
 Bazsik
-Bazsó
-Bébic
-Béc
-Bécsi
-Bécsi domb
-Bécsi kapu
-Bécsi út Temetõ melletti Üzletsor
-Béda
-Bég
-Béga
-Bégány
-Bégpatak
-Bégrét
-Békás
-Békás-szoros
-Békáspuszta
-Békástó
-Béke
-Békés
-Békéscsaba
-Békéscsabai
-Békéshalom
-Békési
-Békefa
-Békefi
-Békefi Antal
-Békeliget
-Békemajor
-Békessy Béla
-Békeszálló
-Béketelep
-Béketelep I.
-Béketelep II.
-Békevár
-Bél Mátyás
-Béla
-Béla király
-Bélamajor
-Bélapát
-Bélapuszta
-Bélatanya
-Bélatelepi
-Bélavár
-Bélteki
-Bélusparti Õrház
-Bélyei
-Bémer László
-Bényei
-Bényi
-Bérc
-Bércalja
-Bérclejtõ
-Bérctetõ
-Bérczi Károly
-Béri Balogh
-Béri Balogh Ádám
-Bérkert
-Bérkocsi
-Bérkocsis
-Bétex
-Bévárdy József
-Bézsenyi
+BazsÃ³
+BÃ©bic
+BÃ©c
+BÃ©csi
+BÃ©csi domb
+BÃ©csi kapu
+BÃ©csi Ãºt TemetÅ‘ melletti Ãœzletsor
+BÃ©da
+BÃ©g
+BÃ©ga
+BÃ©gÃ¡ny
+BÃ©gpatak
+BÃ©grÃ©t
+BÃ©kÃ¡s
+BÃ©kÃ¡s-szoros
+BÃ©kÃ¡spuszta
+BÃ©kÃ¡stÃ³
+BÃ©ke
+BÃ©kÃ©s
+BÃ©kÃ©scsaba
+BÃ©kÃ©scsabai
+BÃ©kÃ©shalom
+BÃ©kÃ©si
+BÃ©kefa
+BÃ©kefi
+BÃ©kefi Antal
+BÃ©keliget
+BÃ©kemajor
+BÃ©kessy BÃ©la
+BÃ©keszÃ¡llÃ³
+BÃ©ketelep
+BÃ©ketelep I.
+BÃ©ketelep II.
+BÃ©kevÃ¡r
+BÃ©l MÃ¡tyÃ¡s
+BÃ©la
+BÃ©la kirÃ¡ly
+BÃ©lamajor
+BÃ©lapÃ¡t
+BÃ©lapuszta
+BÃ©latanya
+BÃ©latelepi
+BÃ©lavÃ¡r
+BÃ©lteki
+BÃ©lusparti ÅrhÃ¡z
+BÃ©lyei
+BÃ©mer LÃ¡szlÃ³
+BÃ©nyei
+BÃ©nyi
+BÃ©rc
+BÃ©rcalja
+BÃ©rclejtÅ‘
+BÃ©rctetÅ‘
+BÃ©rczi KÃ¡roly
+BÃ©ri Balogh
+BÃ©ri Balogh ÃdÃ¡m
+BÃ©rkert
+BÃ©rkocsi
+BÃ©rkocsis
+BÃ©tex
+BÃ©vÃ¡rdy JÃ³zsef
+BÃ©zsenyi
 Bea
 Beatrix
 Bebek
-Bebek György
-Bebo Károly
+Bebek GyÃ¶rgy
+Bebo KÃ¡roly
 Bece
-Becht Rezsõ
-Beck Ö. Fülöp
-Beck Pál
-Becket Tamás
-Beckó
-Becõ
+Becht RezsÅ‘
+Beck Ã–. FÃ¼lÃ¶p
+Beck PÃ¡l
+Becket TamÃ¡s
+BeckÃ³
+BecÅ‘
 Becsali
 Becsei
 Becske
@@ -1378,771 +1378,771 @@ Becsked
 Becskereki
 Becsky
 Bede
-Bede szél
-Bedeghvölgy
-Bedõ Albert
-Bedõ I.
-Bedõ bokor
-Bedõi
-Beér
+Bede szÃ©l
+BedeghvÃ¶lgy
+BedÅ‘ Albert
+BedÅ‘ I.
+BedÅ‘ bokor
+BedÅ‘i
+BeÃ©r
 Beethoven
-Begónia
-Behiák
-Bejczy István
+BegÃ³nia
+BehiÃ¡k
+Bejczy IstvÃ¡n
 Beke
-Bekényi
+BekÃ©nyi
 Beke Antal
 Bekecs
 Bekecsi
-Bekeháza
-Bekötõ
-Belák
-Belátó
-Belátóhegy
+BekehÃ¡za
+BekÃ¶tÅ‘
+BelÃ¡k
+BelÃ¡tÃ³
+BelÃ¡tÃ³hegy
 Belcsapuszta
-Beléndek
-Belényes
+BelÃ©ndek
+BelÃ©nyes
 Beledi
-Belegrád
+BelegrÃ¡d
 Belfibokor
-Belgrád
-Belgrádi
+BelgrÃ¡d
+BelgrÃ¡di
 Beliczky
-Bell Miklós
+Bell MiklÃ³s
 Bella
 Bella L.
-Bellegelõ
+BellegelÅ‘
 Beller Imre
-Bellervölgy
+BellervÃ¶lgy
 Belmajor
 Beloiannisz
-Belsikátor
-Belsõ
-Belsõ-Iszaptanya
-Belsõ-tó
-Belsõ Bölcske
-Belsõ Kertek-köze
-Belsõcsokord
-Belsõecser
-Belsõerdõ
-Belsõfokpart
-Belsõhegy Galagonya
-Belsõhegy Som
-Belsõhegy Vadkörte
-Belsõhegyi
-Belsõjenõ
-Belsõkertsor
-Belsõkocsord
-Belsõmajor
-Belsõmonor
-Belsõnyír
-Belsõszegi
-Belsõszer
-Belsõszeri
-Belsõszödöny
-Belterület
-Belus József
-Belváros
-Belvárosi
-Belvíz
+BelsikÃ¡tor
+BelsÅ‘
+BelsÅ‘-Iszaptanya
+BelsÅ‘-tÃ³
+BelsÅ‘ BÃ¶lcske
+BelsÅ‘ Kertek-kÃ¶ze
+BelsÅ‘csokord
+BelsÅ‘ecser
+BelsÅ‘erdÅ‘
+BelsÅ‘fokpart
+BelsÅ‘hegy Galagonya
+BelsÅ‘hegy Som
+BelsÅ‘hegy VadkÃ¶rte
+BelsÅ‘hegyi
+BelsÅ‘jenÅ‘
+BelsÅ‘kertsor
+BelsÅ‘kocsord
+BelsÅ‘major
+BelsÅ‘monor
+BelsÅ‘nyÃ­r
+BelsÅ‘szegi
+BelsÅ‘szer
+BelsÅ‘szeri
+BelsÅ‘szÃ¶dÃ¶ny
+BelterÃ¼let
+Belus JÃ³zsef
+BelvÃ¡ros
+BelvÃ¡rosi
+BelvÃ­z
 Bem
-Bem József
-Bem apó
-Bem tábornok
+Bem JÃ³zsef
+Bem apÃ³
+Bem tÃ¡bornok
 Bence
-Bencés
-Bencések
-Bencfahát
+BencÃ©s
+BencÃ©sek
+BencfahÃ¡t
 Bencsi
 Bencsik
 Bencze
 Bencze Ferenc
-Bencze József
-Benczúr
-Benczúr Gyula
-Bendefy László
-Bendegúz
+Bencze JÃ³zsef
+BenczÃºr
+BenczÃºr Gyula
+Bendefy LÃ¡szlÃ³
+BendegÃºz
 Bene
-Benéte
-Bene vezér
+BenÃ©te
+Bene vezÃ©r
 Benedek
-Benedek Apát
+Benedek ApÃ¡t
 Benedek Elek
-Benedek János
-Benedek Pál
+Benedek JÃ¡nos
+Benedek PÃ¡l
 Benedekalja
 Benedekfalva
-Benedekvölgy
+BenedekvÃ¶lgy
 Benehalom
 Benehegy
-Benei rész
+Benei rÃ©sz
 Benelapos
 Beniczky
 Beniczky Ferenc
 Beniczky Lajos
-Beniczky Tamás
-Benjámin
+Beniczky TamÃ¡s
+BenjÃ¡min
 Benke
 Benke Ferenc
-Benke József
-Benkõ
-Benkõ Albert
-Benkõ Gyula
-Benkõ István
-Benkõ Sámuel
-Benkõbokor
-Benõ
+Benke JÃ³zsef
+BenkÅ‘
+BenkÅ‘ Albert
+BenkÅ‘ Gyula
+BenkÅ‘ IstvÃ¡n
+BenkÅ‘ SÃ¡muel
+BenkÅ‘bokor
+BenÅ‘
 Benyiczki
-Benyovszky Móric
-Benzinkút
-Beödy Mátyás
-Beöthy
-Beöthy Zsolt
+Benyovszky MÃ³ric
+BenzinkÃºt
+BeÃ¶dy MÃ¡tyÃ¡s
+BeÃ¶thy
+BeÃ¶thy Zsolt
 Berceli
-Bercsényi
-Bercsényi Miklós
-Bercsényi lejáró
-Berda József
-Berdó
+BercsÃ©nyi
+BercsÃ©nyi MiklÃ³s
+BercsÃ©nyi lejÃ¡rÃ³
+Berda JÃ³zsef
+BerdÃ³
 Bere
-Berény
-Berényi
-Berényi Zsigmond
-Berényi út Mente
-Bereárok
+BerÃ©ny
+BerÃ©nyi
+BerÃ©nyi Zsigmond
+BerÃ©nyi Ãºt Mente
+BereÃ¡rok
 Bereck
 Berecki
-Berecki-híd
-Berecz György
-Bereczki Máté
+Berecki-hÃ­d
+Berecz GyÃ¶rgy
+Bereczki MÃ¡tÃ©
 Bereg
-Beregdaróc
+BeregdarÃ³c
 Beregi
-Beregszász
-Beregszászi
-Beregszászi Pál
+BeregszÃ¡sz
+BeregszÃ¡szi
+BeregszÃ¡szi PÃ¡l
 Berek
 Berekalja
-Berekháti
+BerekhÃ¡ti
 Bereki
 Berekkert
 Berekoldal
 Bereksor
 Bereksori
 Beremend
-Berenát
+BerenÃ¡t
 Berencsepuszta
 Berend
 Berendi
-Berettyó
-Berettyólapos gátsor
-Berettyópart
-Beretvás
-Beretzk Péter
+BerettyÃ³
+BerettyÃ³lapos gÃ¡tsor
+BerettyÃ³part
+BeretvÃ¡s
+Beretzk PÃ©ter
 Berezdalja
 Berezna
 Bereznai
-Berg Gusztáv
+Berg GusztÃ¡v
 Bergel tag
 Berkenye
-Berkenyés
+BerkenyÃ©s
 Berkenyefa
 Berkes
 Berkeszi
 Berki
-Berki Fülöp
-Berki Géza
+Berki FÃ¼lÃ¶p
+Berki GÃ©za
 Berky Lili
 Berlini
-Berlióz
-Bernát
-Bernát János
-Bernáth
-Bernáth Béla
-Bernáthegy
-Bernáthegyi
-Bernátrész
+BerliÃ³z
+BernÃ¡t
+BernÃ¡t JÃ¡nos
+BernÃ¡th
+BernÃ¡th BÃ©la
+BernÃ¡thegy
+BernÃ¡thegyi
+BernÃ¡trÃ©sz
 Berni
-Bernstein Béla
-Berrár Mihály
+Bernstein BÃ©la
+BerrÃ¡r MihÃ¡ly
 Berta
 Bertalamosi
 Bertalan
 Bertalan Lajos
-Bertalan Püspök
-Bertalanffy Miklós
+Bertalan PÃ¼spÃ¶k
+Bertalanffy MiklÃ³s
 Bertalanpuszta
-Bertha György
-Bertók Róbertné
-Bertóti
+Bertha GyÃ¶rgy
+BertÃ³k RÃ³bertnÃ©
+BertÃ³ti
 Berva I.
 Berva II.
-Berva völgy
+Berva vÃ¶lgy
 Bervai
-Bervavölgy
-Berze Nagy János
+BervavÃ¶lgy
+Berze Nagy JÃ¡nos
 Berzenczey
 Berzeveczy Gergely
 Berzeviczy Gergely
 Berzsenyi
-Berzsenyi Dániel
+Berzsenyi DÃ¡niel
 Besence
-Besenyõ
-Besenyõ Bekõ
-Besenyõdi
-Besenyõi
-Besenyõtelek
-Besenyszög
-Besenyszögi
+BesenyÅ‘
+BesenyÅ‘ BekÅ‘
+BesenyÅ‘di
+BesenyÅ‘i
+BesenyÅ‘telek
+BesenyszÃ¶g
+BesenyszÃ¶gi
 Besliahegy
-Besnyõ
-Besnyõi
+BesnyÅ‘
+BesnyÅ‘i
 Bessenyei
-Bessenyei György
-Bessenyõ
-Beszédes
-Beszédes Ferenc
-Beszédes József
-Besze János
+Bessenyei GyÃ¶rgy
+BessenyÅ‘
+BeszÃ©des
+BeszÃ©des Ferenc
+BeszÃ©des JÃ³zsef
+Besze JÃ¡nos
 Beszterce
-Besztercebánya
+BesztercebÃ¡nya
 Besztercei
-Bethánia
+BethÃ¡nia
 Bethesda
 Bethlen
-Bethlen Gábor
+Bethlen GÃ¡bor
 Betlehem
 Beton
-Betonozó
-Betû
-Betyár
-Bevásárló
-Bevásárlóközpont
+BetonozÃ³
+BetÅ±
+BetyÃ¡r
+BevÃ¡sÃ¡rlÃ³
+BevÃ¡sÃ¡rlÃ³kÃ¶zpont
 Beyr
-Bezdán
-Bezerédi
-Bezerédi Amália
-Bezerédi Imre
-Bezerédi István
-Bezerédj
-Bezerédj Imre
-Bezerédj István
-Bezerédj Pál
-Bezsilla Nándor
+BezdÃ¡n
+BezerÃ©di
+BezerÃ©di AmÃ¡lia
+BezerÃ©di Imre
+BezerÃ©di IstvÃ¡n
+BezerÃ©dj
+BezerÃ©dj Imre
+BezerÃ©dj IstvÃ¡n
+BezerÃ©dj PÃ¡l
+Bezsilla NÃ¡ndor
 Bezzeg
 Bezzegh
-Bíbic
-Bíbor
-Bíborka
-Bíborvég
-Bíró
-Bíró János
-Bíró Lajos
-Bíró Márton
-Bíró Mihály
-Bíró Péter
-Bírótanya
-Bíztató
+BÃ­bic
+BÃ­bor
+BÃ­borka
+BÃ­borvÃ©g
+BÃ­rÃ³
+BÃ­rÃ³ JÃ¡nos
+BÃ­rÃ³ Lajos
+BÃ­rÃ³ MÃ¡rton
+BÃ­rÃ³ MihÃ¡ly
+BÃ­rÃ³ PÃ©ter
+BÃ­rÃ³tanya
+BÃ­ztatÃ³
 Biai
-Biai Gáspár
+Biai GÃ¡spÃ¡r
 Bibere
 Bibic
-Bibó
-Bibó István
-Bibó Károly
+BibÃ³
+BibÃ³ IstvÃ¡n
+BibÃ³ KÃ¡roly
 Bicskei
-Biczó Ferenc
-Biczó Géza
-Biczó István
-Biczó István Kert Fényes dûlõ
-Biczó István kert
+BiczÃ³ Ferenc
+BiczÃ³ GÃ©za
+BiczÃ³ IstvÃ¡n
+BiczÃ³ IstvÃ¡n Kert FÃ©nyes dÅ±lÅ‘
+BiczÃ³ IstvÃ¡n kert
 Bigesor
 Bihar
 Bihari
-Bihari János
-Bihari Sándor
+Bihari JÃ¡nos
+Bihari SÃ¡ndor
 Biharkeresztes
-Bikád puszta
-Bikádi
-Bikágvölgy
-Bika András
+BikÃ¡d puszta
+BikÃ¡di
+BikÃ¡gvÃ¶lgy
+Bika AndrÃ¡s
 Bikahegy
-Bikarét
-Bikavér
-Bikavölgy
+BikarÃ©t
+BikavÃ©r
+BikavÃ¶lgy
 Bikedi
 Bikoli
 Bikolpuszta
-Bikszádi
-Billatáró
+BikszÃ¡di
+BillatÃ¡rÃ³
 Billege
-Billentyû
-Bimbó
+BillentyÅ±
+BimbÃ³
 Binder
-Biriszõlõ
-Biritó
+BiriszÅ‘lÅ‘
+BiritÃ³
 Birka
-Birkás
+BirkÃ¡s
 Birketanya
-Birkózó
-Biró Márton
+BirkÃ³zÃ³
+BirÃ³ MÃ¡rton
 Birs
 Birsalma
-Birsalmás
+BirsalmÃ¡s
 Birtok
-Bisinger József
-Bite Pál
+Bisinger JÃ³zsef
+Bite PÃ¡l
 Bittner Alajos
 Bivalyos
 Bizei
-Bizony Ákos
-Biztató
-Bláthy Ottó
-Blázsik Károly
+Bizony Ãkos
+BiztatÃ³
+BlÃ¡thy OttÃ³
+BlÃ¡zsik KÃ¡roly
 Blaha
-Blaháné
-Blaha Béla
+BlahÃ¡nÃ©
+Blaha BÃ©la
 Blaha Lujza
-Blandina nõvér
+Blandina nÅ‘vÃ©r
 Blanka
-Blaskovich testvérek
+Blaskovich testvÃ©rek
 Blaskovics
 Blaskovics Gyula
-Blaskovics László
+Blaskovics LÃ¡szlÃ³
 Blau tag
-Bóbita
-Bóbitás
-Bócsi
-Bódi Vera
-Bódis
-Bódog
-Bódogh János
-Bódva
-Bója
-Bókai János
-Bókay Árpád
-Bókay János
-Bólyi országút
-Bóna Kovács Károly
-Bóné András
-Bóné Kálmán
-Bóni
-Bónis
-Bónis Ferenc
-Bóti
-Bózsa István
-Böckh János
-Bödönhát
-Bögi
-Bögöte
-Böjtös Sándor
-Bökényföldi
-Böki
-Bökkhegyi
-Bököny
-Bökönyi
-Bölcs
-Bölcske
-Bölcskei
-Bölcsõ
-Bölcsõde
-Bölény
-Böllér
-Bölömbika
-Bölöni György
-Böngér
-Böngyér
-Börcsiszõlõ
-Bördöce
-Börgönd
-Börgöndi
-Börvelyi
-Börzönce
-Börzsöny
-Börzsönyi
-Böszörményi
-Bösztör
-Bösztörpuszta
-Bõrfestõ
-Bõrgyár
-Bõröndös
-Bõsárkányi
-Bõség
-Bõsze Kálmán
-Boconádi
+BÃ³bita
+BÃ³bitÃ¡s
+BÃ³csi
+BÃ³di Vera
+BÃ³dis
+BÃ³dog
+BÃ³dogh JÃ¡nos
+BÃ³dva
+BÃ³ja
+BÃ³kai JÃ¡nos
+BÃ³kay ÃrpÃ¡d
+BÃ³kay JÃ¡nos
+BÃ³lyi orszÃ¡gÃºt
+BÃ³na KovÃ¡cs KÃ¡roly
+BÃ³nÃ© AndrÃ¡s
+BÃ³nÃ© KÃ¡lmÃ¡n
+BÃ³ni
+BÃ³nis
+BÃ³nis Ferenc
+BÃ³ti
+BÃ³zsa IstvÃ¡n
+BÃ¶ckh JÃ¡nos
+BÃ¶dÃ¶nhÃ¡t
+BÃ¶gi
+BÃ¶gÃ¶te
+BÃ¶jtÃ¶s SÃ¡ndor
+BÃ¶kÃ©nyfÃ¶ldi
+BÃ¶ki
+BÃ¶kkhegyi
+BÃ¶kÃ¶ny
+BÃ¶kÃ¶nyi
+BÃ¶lcs
+BÃ¶lcske
+BÃ¶lcskei
+BÃ¶lcsÅ‘
+BÃ¶lcsÅ‘de
+BÃ¶lÃ©ny
+BÃ¶llÃ©r
+BÃ¶lÃ¶mbika
+BÃ¶lÃ¶ni GyÃ¶rgy
+BÃ¶ngÃ©r
+BÃ¶ngyÃ©r
+BÃ¶rcsiszÅ‘lÅ‘
+BÃ¶rdÃ¶ce
+BÃ¶rgÃ¶nd
+BÃ¶rgÃ¶ndi
+BÃ¶rvelyi
+BÃ¶rzÃ¶nce
+BÃ¶rzsÃ¶ny
+BÃ¶rzsÃ¶nyi
+BÃ¶szÃ¶rmÃ©nyi
+BÃ¶sztÃ¶r
+BÃ¶sztÃ¶rpuszta
+BÅ‘rfestÅ‘
+BÅ‘rgyÃ¡r
+BÅ‘rÃ¶ndÃ¶s
+BÅ‘sÃ¡rkÃ¡nyi
+BÅ‘sÃ©g
+BÅ‘sze KÃ¡lmÃ¡n
+BoconÃ¡di
 Bocsa
-Bocsányi
-Bocsár-dülõ
+BocsÃ¡nyi
+BocsÃ¡r-dÃ¼lÅ‘
 Bocskai
-Bocskai István
+Bocskai IstvÃ¡n
 Bocskai utcai pavilonsor
 Bocskay
 Bocskor
-Bocskoroskúti
-Bocsor István
-Bod Péter
-Bodányi Ödön
+BocskoroskÃºti
+Bocsor IstvÃ¡n
+Bod PÃ©ter
+BodÃ¡nyi Ã–dÃ¶n
 Boda Katalin
 Bodahegyi
 Bodai
 Bodajk
 Bodakajtor
-Bodakút
-Bodnár
-Bodó
-Bodó Nándor
-Bodócs
-Bodóháza
-Bodóháza 4.
-Bodóháza 5.
-Bodóháza dûlõ
-Bodóhegy
-Bodórét
-Bodótetõ
-Bodóvölgyi Major
-Bodogánköz
+BodakÃºt
+BodnÃ¡r
+BodÃ³
+BodÃ³ NÃ¡ndor
+BodÃ³cs
+BodÃ³hÃ¡za
+BodÃ³hÃ¡za 4.
+BodÃ³hÃ¡za 5.
+BodÃ³hÃ¡za dÅ±lÅ‘
+BodÃ³hegy
+BodÃ³rÃ©t
+BodÃ³tetÅ‘
+BodÃ³vÃ¶lgyi Major
+BodogÃ¡nkÃ¶z
 Bodola Lajos
 Bodon
-Bodonkút
-Bodonkúti
+BodonkÃºt
+BodonkÃºti
 Bodony
 Bodonyi
 Bodor
 Bodrog
 Bodrogi
 Bodrogi Zsigmond
-Bodrogkeresztúri
+BodrogkeresztÃºri
 Bodva
 Bodza
-Bodzás
-Bodzáskert
+BodzÃ¡s
+BodzÃ¡skert
 Bodzafa
 Bodzai
-Bogácsi
-Bogádi
-Bogáncs
-Bogáncsvirág
-Bogár
-Bogárzó
-Bogát
-Bogáti
-Bogarasszõlõ
-Bogdán Iskola
-Bogdánfy Ödön
-Bogdáni
-Bogdányi
+BogÃ¡csi
+BogÃ¡di
+BogÃ¡ncs
+BogÃ¡ncsvirÃ¡g
+BogÃ¡r
+BogÃ¡rzÃ³
+BogÃ¡t
+BogÃ¡ti
+BogarasszÅ‘lÅ‘
+BogdÃ¡n Iskola
+BogdÃ¡nfy Ã–dÃ¶n
+BogdÃ¡ni
+BogdÃ¡nyi
 Bogjasi
-Boglár
-Boglári
-Boglárka
+BoglÃ¡r
+BoglÃ¡ri
+BoglÃ¡rka
 Boglya
 Boglyoska
-Bognár
-Bognár Ignác
-Bognártanya
-Bogonháti
+BognÃ¡r
+BognÃ¡r IgnÃ¡c
+BognÃ¡rtanya
+BogonhÃ¡ti
 Bogovics
-Bogrács
-Bogya Károly
-Bogyiszlói
-Bogyó
-Boján
+BogrÃ¡cs
+Bogya KÃ¡roly
+BogyiszlÃ³i
+BogyÃ³
+BojÃ¡n
 Bojt
 Bojta
-Bojtár
+BojtÃ¡r
 Bojti
-Bojti út
+Bojti Ãºt
 Bojtocska
 Bojtor
-Bojtorján
+BojtorjÃ¡n
 Bojtos
-Bokály
-Bokány
-Bokányi Dezsõ
-Boka Károly
+BokÃ¡ly
+BokÃ¡ny
+BokÃ¡nyi DezsÅ‘
+Boka KÃ¡roly
 Bokodi
 Bokor
 Bokor N.
 Bokorhegy
-Bokréta
-Bokrétás
-Bokrétafa
+BokrÃ©ta
+BokrÃ©tÃ¡s
+BokrÃ©tafa
 Bokros
 Bokrosi
 Bolcsek
-Boldizsár
+BoldizsÃ¡r
 Boldog
 Boldog Gizella
-Boldog Özséb
+Boldog Ã–zsÃ©b
 Boldogasszony
-Boldogasszony völgy
+Boldogasszony vÃ¶lgy
 Boldogasszonyi
 Boldogasszonypuszta
 Boldogfalva
-Boldogjövõ
+BoldogjÃ¶vÅ‘
 Boldogkert
 Boldogtanyai
 Boldva
-Bolgár
-Bolgárkerék
-Bolgárkert
-Bolgárkertész
-Bollóalja
+BolgÃ¡r
+BolgÃ¡rkerÃ©k
+BolgÃ¡rkert
+BolgÃ¡rkertÃ©sz
+BollÃ³alja
 Bolt
-Boltív
-Boltnál
-Boltosház
+BoltÃ­v
+BoltnÃ¡l
+BoltoshÃ¡z
 Bolyai
 Bolyai Farkas
-Bolyai János
-Bolygó
+Bolyai JÃ¡nos
+BolygÃ³
 Bolyki
-Bolyki Tamás
-Bolza gróf
-Bondorhát
-Bonyhádi
-Bonyhádszerdahely
+Bolyki TamÃ¡s
+Bolza grÃ³f
+BondorhÃ¡t
+BonyhÃ¡di
+BonyhÃ¡dszerdahely
 Bor
-Bor János
-Borágó
-Boráros
-Boráros téri aluljáró
-Borbála
-Borbás
-Borbástó
-Borbély
-Borbély György
-Borbély Sándor
-Borbíró
+Bor JÃ¡nos
+BorÃ¡gÃ³
+BorÃ¡ros
+BorÃ¡ros tÃ©ri aluljÃ¡rÃ³
+BorbÃ¡la
+BorbÃ¡s
+BorbÃ¡stÃ³
+BorbÃ©ly
+BorbÃ©ly GyÃ¶rgy
+BorbÃ©ly SÃ¡ndor
+BorbÃ­rÃ³
 Borbolya
 Borda
-Bordács
-Bordángát
-Bordányi
-Bordás
-Bordás A
+BordÃ¡cs
+BordÃ¡ngÃ¡t
+BordÃ¡nyi
+BordÃ¡s
+BordÃ¡s A
 Borgolya
-Borház
-Borház sor
-Bori Mihály
-Borics Pál
+BorhÃ¡z
+BorhÃ¡z sor
+Bori MihÃ¡ly
+Borics PÃ¡l
 Boris
 Borisfalvi
-Borivó
-Borjád
-Borjádi
-Borjúvölgy
-Borkõ
-Borkút
+BorivÃ³
+BorjÃ¡d
+BorjÃ¡di
+BorjÃºvÃ¶lgy
+BorkÅ‘
+BorkÃºt
 Bornemissza
 Bornemissza Gergely
-Boródpuszta
-Borók Lajos
-Boróka
-Borókás
+BorÃ³dpuszta
+BorÃ³k Lajos
+BorÃ³ka
+BorÃ³kÃ¡s
 Borochegy
 Borona
 Boronkai
 Borony
 Boros
 Boros E.
-Boros István
+Boros IstvÃ¡n
 Boros Izabella
-Boros József
-Boros Mátyás
-Boros Mihály
-Borostyán
-Borostyánkõ
-Boroszlói
+Boros JÃ³zsef
+Boros MÃ¡tyÃ¡s
+Boros MihÃ¡ly
+BorostyÃ¡n
+BorostyÃ¡nkÅ‘
+BoroszlÃ³i
 Borotszeg
-Borotvás
+BorotvÃ¡s
 Borovszky
 Borpince
 Bors
-Bors Kálmán
-Bors vezér
+Bors KÃ¡lmÃ¡n
+Bors vezÃ©r
 Borsa
-Borsányi József
+BorsÃ¡nyi JÃ³zsef
 Borsfa
 Borsi
 Borsihalom
 Borsika
-Borsikafû
-Borsitz János
+BorsikafÅ±
+Borsitz JÃ¡nos
 Borsmonostori
-Borsó
-Borsós
-Borsóskert
+BorsÃ³
+BorsÃ³s
+BorsÃ³skert
 Borsod
 Borsodi
 Borsos
-Borsos József
-Borsos Miklós
-Borsosgyõri
+Borsos JÃ³zsef
+Borsos MiklÃ³s
+BorsosgyÅ‘ri
 Borsovai
-Borsvezér
-Borszék
-Borszéki
-Boruth Elemér
-Borvíz
+BorsvezÃ©r
+BorszÃ©k
+BorszÃ©ki
+Boruth ElemÃ©r
+BorvÃ­z
 Borz
 Borza
-Borzán Gáspár
-Borzavár
-Borzsák
+BorzÃ¡n GÃ¡spÃ¡r
+BorzavÃ¡r
+BorzsÃ¡k
 Borzsova
-Bosnyák
-Bosnyák I.
-Bosnyák téri
-Bosnyák téri piac
-Bosnyákárok
-Boszorkány
-Boszorkánysziget
-Botár Imre
+BosnyÃ¡k
+BosnyÃ¡k I.
+BosnyÃ¡k tÃ©ri
+BosnyÃ¡k tÃ©ri piac
+BosnyÃ¡kÃ¡rok
+BoszorkÃ¡ny
+BoszorkÃ¡nysziget
+BotÃ¡r Imre
 Botanikus
 Botfa
 Botfalu
 Botfy Lajos
 Boti
 Botond
-Botond vezér
-Botos Lõrinc
+Botond vezÃ©r
+Botos LÅ‘rinc
 Botpuszta
-Bottyán
-Bottyán János
-Bottyánhegyi
-Bottyaháti
+BottyÃ¡n
+BottyÃ¡n JÃ¡nos
+BottyÃ¡nhegyi
+BottyahÃ¡ti
 Bozi
-Bozó Mátyás
-Bozókvár
-Bozót
-Bozótos
-Bozsik Kálmán
+BozÃ³ MÃ¡tyÃ¡s
+BozÃ³kvÃ¡r
+BozÃ³t
+BozÃ³tos
+Bozsik KÃ¡lmÃ¡n
 Bozsoki
 Bozzai
-Brádafalva
+BrÃ¡dafalva
 Brand
 Brand Ede
-Branyiszkó
-Brassai Sámuel
-Brassay Károly
-Brassó
-Brassói
+BranyiszkÃ³
+Brassai SÃ¡muel
+Brassay KÃ¡roly
+BrassÃ³
+BrassÃ³i
 Bregenci
-Bregyó
+BregyÃ³
 Brennbergi
-Brennbergvölgy
-Brenner Tóbiás
+BrennbergvÃ¶lgy
+Brenner TÃ³biÃ¡s
 Breznai Imre
-Breznó
-Brigád
-Brigadéros
-Bródi Sándor
-Bródy
-Bródy Imre
-Bródy Mihály
-Bródy Sándor
+BreznÃ³
+BrigÃ¡d
+BrigadÃ©ros
+BrÃ³di SÃ¡ndor
+BrÃ³dy
+BrÃ³dy Imre
+BrÃ³dy MihÃ¡ly
+BrÃ³dy SÃ¡ndor
 Brodarics
 Bronz
-Brüsszeli
-Bruckner Gyõzõ
+BrÃ¼sszeli
+Bruckner GyÅ‘zÅ‘
 Brunszvik
-Búbánatvölgy
-Búbánatvölgy Fárikúti
-Búbosbanka
-Búcsú
-Búhegy
-Bújdosó
-Búslak
-Búszer malom
-Bútelek
-Bútorgyári
-Búvár
-Búza
-Búzás völgy
-Búzakalász
-Búzakéve
-Búzaszentelõ
-Búzavirág
-Búziási
-Büdöstó
-Büge
-Bükfürdõ
-Bükfürdõi
-Büki
-Bükk
-Bükkalja
-Bükkfa
-Bükki
-Bükköny
-Bükkös
-Bükkösi
-Bünker János
-Bürgeház
-Bürök
-Bürü
+BÃºbÃ¡natvÃ¶lgy
+BÃºbÃ¡natvÃ¶lgy FÃ¡rikÃºti
+BÃºbosbanka
+BÃºcsÃº
+BÃºhegy
+BÃºjdosÃ³
+BÃºslak
+BÃºszer malom
+BÃºtelek
+BÃºtorgyÃ¡ri
+BÃºvÃ¡r
+BÃºza
+BÃºzÃ¡s vÃ¶lgy
+BÃºzakalÃ¡sz
+BÃºzakÃ©ve
+BÃºzaszentelÅ‘
+BÃºzavirÃ¡g
+BÃºziÃ¡si
+BÃ¼dÃ¶stÃ³
+BÃ¼ge
+BÃ¼kfÃ¼rdÅ‘
+BÃ¼kfÃ¼rdÅ‘i
+BÃ¼ki
+BÃ¼kk
+BÃ¼kkalja
+BÃ¼kkfa
+BÃ¼kki
+BÃ¼kkÃ¶ny
+BÃ¼kkÃ¶s
+BÃ¼kkÃ¶si
+BÃ¼nker JÃ¡nos
+BÃ¼rgehÃ¡z
+BÃ¼rÃ¶k
+BÃ¼rÃ¼
 Bucka
-Bucó
-Bud János
+BucÃ³
+Bud JÃ¡nos
 Buda
-Budáni
-Buda vezér
-Budaábrányi
+BudÃ¡ni
+Buda vezÃ©r
+BudaÃ¡brÃ¡nyi
 Budaberke
 Budafa
 Budafai
 Budafoki
-Budaházi
+BudahÃ¡zi
 Budai
-Budai Ézsaiás
-Budai József
+Budai Ã‰zsaiÃ¡s
+Budai JÃ³zsef
 Budai Nagy Antal
-Budai Sándor
-Budai völgy
+Budai SÃ¡ndor
+Budai vÃ¶lgy
 Budaihegy
-Budajenõ
-Budajenõi
-Budakalász
-Budakalászi
+BudajenÅ‘
+BudajenÅ‘i
+BudakalÃ¡sz
+BudakalÃ¡szi
 Budakeszi
-Budaörsi
+BudaÃ¶rsi
 Budapark Keleti
 Budapest
 Budapesti
-Budatétényi
-Budavár
-Budavári Palota
-Budavölgy
-Buday Dezsõ
-Buday László
+BudatÃ©tÃ©nyi
+BudavÃ¡r
+BudavÃ¡ri Palota
+BudavÃ¶lgy
+Buday DezsÅ‘
+Buday LÃ¡szlÃ³
 Budenz
-Budzsák
-Bugát Pál
+BudzsÃ¡k
+BugÃ¡t PÃ¡l
 Bugac
 Bugaci
 Bugacpuszta
-Bugyogóforrás
+BugyogÃ³forrÃ¡s
 Buja
-Buják
-Bujákhida
-Bujdosó
-Bujdosó György
+BujÃ¡k
+BujÃ¡khida
+BujdosÃ³
+BujdosÃ³ GyÃ¶rgy
 Buji
 Bujtos
 Bukarest
 Bulcsu
-Bulcsú
-Bulcsú vezér
-Bulgár
+BulcsÃº
+BulcsÃº vezÃ©r
+BulgÃ¡r
 Bulyovszky
-Bura Sándor
+Bura SÃ¡ndor
 Burai
-Burcsellás
+BurcsellÃ¡s
 Burga
 Burgondia
 Burgundi
 Burgundia
-Burkoló
+BurkolÃ³
 Busa
 Busi
 Butella
@@ -2152,61 +2152,61 @@ Butykasor
 Butykatelep
 Buxus
 Buzita
-Buzogány
-Buzogány üdülõ
-Buzsáki
-Buzsáki Imre
+BuzogÃ¡ny
+BuzogÃ¡ny Ã¼dÃ¼lÅ‘
+BuzsÃ¡ki
+BuzsÃ¡ki Imre
 C
 C szektor
-Cáki
+CÃ¡ki
 Camping
-Cankó
+CankÃ³
 Caprera
-Caraván Camping
-Carceus Márton
+CaravÃ¡n Camping
+Carceus MÃ¡rton
 Carolina
 Castricum
 Castrum Camping
-Cédrus
-Cédrusfa
-Cédulaház
-Céh
-Céhmester
-Céhmesterek
-Cékla
-Célpuszta
-Céltábla
+CÃ©drus
+CÃ©drusfa
+CÃ©dulahÃ¡z
+CÃ©h
+CÃ©hmester
+CÃ©hmesterek
+CÃ©kla
+CÃ©lpuszta
+CÃ©ltÃ¡bla
 Cecei
-Cecey Éva
-Cecília
-Cegerétsor
-Cegléd
-Ceglédi
-Ceglédpuszta
-Cekeháza
-Cekeházi
+Cecey Ã‰va
+CecÃ­lia
+CegerÃ©tsor
+CeglÃ©d
+CeglÃ©di
+CeglÃ©dpuszta
+CekehÃ¡za
+CekehÃ¡zi
 Cement
-Cementgyári
+CementgyÃ¡ri
 Cenk
 Cenkhegy
 Cenki
-Centenárium
+CentenÃ¡rium
 Center
 Cento
-Centrál
-Cerékvölgyi
-Cerkó
+CentrÃ¡l
+CerÃ©kvÃ¶lgyi
+CerkÃ³
 Cethal
-Cházár András
+ChÃ¡zÃ¡r AndrÃ¡s
 Chernel
-Chernel István
+Chernel IstvÃ¡n
 Chinoin
 Chiovini Ferenc
 Cholnoky J.
-Cholnoky Jenõ
-Címer
-Cívis
-Cibakháza
+Cholnoky JenÅ‘
+CÃ­mer
+CÃ­vis
+CibakhÃ¡za
 Cibakpuszta
 Cica
 Cifra
@@ -2215,27 +2215,27 @@ Cifrakert
 Ciframajor
 Ciframalom
 Cifrapart
-Cigány
-Cigánybokor
+CigÃ¡ny
+CigÃ¡nybokor
 Cikkely
-Ciklámen
-Cikói
+CiklÃ¡men
+CikÃ³i
 Cikola
-Cilinkó
+CilinkÃ³
 Cimbalmos
 Cimbalom
 Cimbora
-Cincér
+CincÃ©r
 Cinege
 Cinka
 Cinka Panna
 Cinke
 Cinkotai
 Cinkotakert
-Cipó
-Ciprián
+CipÃ³
+CipriÃ¡n
 Ciprus
-Ciráki
+CirÃ¡ki
 Cirbolya
 Cirkeli
 Cirmos
@@ -2246,521 +2246,521 @@ Citera
 Citrom
 Citromfa
 Clarissa
-Clark Ádám
-Clementis László
-Cövek
+Clark ÃdÃ¡m
+Clementis LÃ¡szlÃ³
+CÃ¶vek
 Comenius
-Compó
-Concóháti
+CompÃ³
+ConcÃ³hÃ¡ti
 Contrin
 Corvin
-Corvin János
-Corvin Ottó
+Corvin JÃ¡nos
+Corvin OttÃ³
 Corvina
-Cs.Wágner József
-Csáby Lajos
-Csácsi
-Csáford-hegyi
-Csáfordi
-Csák György
-Csák József
-Csákány
-Csákányhegyi
-Csákányi
-Csákányospuszta
-Csákberény
-Csáki
-Csáklya
-Csákó
-Csákó M
-Csákó sor
-Csáktanya
-Csáktornya
-Csáktornyai
-Csákvári
-Csáky
-Csáky József
-Csámpa
-Csándor
-Csángó
-Csány
-Csány László
-Csányi
-Csányi János
-Csányi László
-Csárda
-Csárdás
-Csárdakörnyék
-Csárdalapos
-Csárdaréti
-Csárdasor
-Csárdaszer
-Császár
-Császár Péter
-Császárfa
-Császári
-Császárrét
-Császárszállási
-Császi László
-Császta Petõfi
-Császtai
-Császy László
-Csáthy
-Csáti
-Csátó
-Csávai
+Cs.WÃ¡gner JÃ³zsef
+CsÃ¡by Lajos
+CsÃ¡csi
+CsÃ¡ford-hegyi
+CsÃ¡fordi
+CsÃ¡k GyÃ¶rgy
+CsÃ¡k JÃ³zsef
+CsÃ¡kÃ¡ny
+CsÃ¡kÃ¡nyhegyi
+CsÃ¡kÃ¡nyi
+CsÃ¡kÃ¡nyospuszta
+CsÃ¡kberÃ©ny
+CsÃ¡ki
+CsÃ¡klya
+CsÃ¡kÃ³
+CsÃ¡kÃ³ M
+CsÃ¡kÃ³ sor
+CsÃ¡ktanya
+CsÃ¡ktornya
+CsÃ¡ktornyai
+CsÃ¡kvÃ¡ri
+CsÃ¡ky
+CsÃ¡ky JÃ³zsef
+CsÃ¡mpa
+CsÃ¡ndor
+CsÃ¡ngÃ³
+CsÃ¡ny
+CsÃ¡ny LÃ¡szlÃ³
+CsÃ¡nyi
+CsÃ¡nyi JÃ¡nos
+CsÃ¡nyi LÃ¡szlÃ³
+CsÃ¡rda
+CsÃ¡rdÃ¡s
+CsÃ¡rdakÃ¶rnyÃ©k
+CsÃ¡rdalapos
+CsÃ¡rdarÃ©ti
+CsÃ¡rdasor
+CsÃ¡rdaszer
+CsÃ¡szÃ¡r
+CsÃ¡szÃ¡r PÃ©ter
+CsÃ¡szÃ¡rfa
+CsÃ¡szÃ¡ri
+CsÃ¡szÃ¡rrÃ©t
+CsÃ¡szÃ¡rszÃ¡llÃ¡si
+CsÃ¡szi LÃ¡szlÃ³
+CsÃ¡szta PetÅ‘fi
+CsÃ¡sztai
+CsÃ¡szy LÃ¡szlÃ³
+CsÃ¡thy
+CsÃ¡ti
+CsÃ¡tÃ³
+CsÃ¡vai
 Csaba
-Csaba Gyöngye
-Csaba királyfi
-Csaba vezér
-Csabagyöngye
+Csaba GyÃ¶ngye
+Csaba kirÃ¡lyfi
+Csaba vezÃ©r
+CsabagyÃ¶ngye
 Csabai
-Csabai-Gyöngy
-Csabamezõ
-Csabavezér
-Csabay Géza
+Csabai-GyÃ¶ngy
+CsabamezÅ‘
+CsabavezÃ©r
+Csabay GÃ©za
 Csabdi
 Csabi
 Csabony
-Csajág
-Csajági
+CsajÃ¡g
+CsajÃ¡gi
 Csajkovszkij
-Család
-Családsor
-Csalán
-Csalános
-Csali Csárda
+CsalÃ¡d
+CsalÃ¡dsor
+CsalÃ¡n
+CsalÃ¡nos
+Csali CsÃ¡rda
 Csalit
 Csalitos
-Csalló
-Csallóköz
-Csallóközi
+CsallÃ³
+CsallÃ³kÃ¶z
+CsallÃ³kÃ¶zi
 Csalma
-Csaló
-Csalogány
-Csanád
-Csanádi
-Csanádi Imre
-Csanády
-Csanády Sámuel
+CsalÃ³
+CsalogÃ¡ny
+CsanÃ¡d
+CsanÃ¡di
+CsanÃ¡di Imre
+CsanÃ¡dy
+CsanÃ¡dy SÃ¡muel
 Csanak
-Csanak József
+Csanak JÃ³zsef
 Csanakhegyi
 Csanaki
 Csanaki ipartelep
-Csantavér
-Csantavéri
+CsantavÃ©r
+CsantavÃ©ri
 Csanyi
 Csanyik
-Csanyik völgy
+Csanyik vÃ¶lgy
 Csap
-Csapágy
-Csapás
-Csapási
+CsapÃ¡gy
+CsapÃ¡s
+CsapÃ¡si
 Csapat
 Csapi
-Csapláros
-Csapó
-Csapó Dániel
-Csapó János
-Csapó Vilmos
-Csapókert
+CsaplÃ¡ros
+CsapÃ³
+CsapÃ³ DÃ¡niel
+CsapÃ³ JÃ¡nos
+CsapÃ³ Vilmos
+CsapÃ³kert
 Csapodi
 Csarada
-Csarkó
-Csarnóta
+CsarkÃ³
+CsarnÃ³ta
 Csarnok
 Csata
-Csatár
-Csatári
-Csatári torok
-Csatárka
-Csatárpuszta
+CsatÃ¡r
+CsatÃ¡ri
+CsatÃ¡ri torok
+CsatÃ¡rka
+CsatÃ¡rpuszta
 Csatahely
-Csatai Szabó János
-Csathó
+Csatai SzabÃ³ JÃ¡nos
+CsathÃ³
 Csatkai
 Csatkai Endre
-Csatlós
+CsatlÃ³s
 Csatorna
 Csatornakert
 Csatornakert II.
 Csatornapart
-Csattói
+CsattÃ³i
 Csavar
-Csavargyár
-Csébi fiúk
-Csécsi János
-Csécsi Nagy Pál
-Csékúti
-Csényi István
-Csépány
-Cséplõ
-Csér
-Csésze
-Cséti Ottó
-Csév
-Csévézõ
-Csévi
-Cseberér
-Csefkó Gyula
+CsavargyÃ¡r
+CsÃ©bi fiÃºk
+CsÃ©csi JÃ¡nos
+CsÃ©csi Nagy PÃ¡l
+CsÃ©kÃºti
+CsÃ©nyi IstvÃ¡n
+CsÃ©pÃ¡ny
+CsÃ©plÅ‘
+CsÃ©r
+CsÃ©sze
+CsÃ©ti OttÃ³
+CsÃ©v
+CsÃ©vÃ©zÅ‘
+CsÃ©vi
+CseberÃ©r
+CsefkÃ³ Gyula
 Csegei
-Csegei út
+Csegei Ãºt
 Cseh
 Cseh Horgas
 Cseh L
-Cseh Mihály
-Csehi-völgyi
+Cseh MihÃ¡ly
+Csehi-vÃ¶lgyi
 Csehi puszta
 Csehipuszta
 Csehov
-Cseidervölgy
+CseidervÃ¶lgy
 Csejtei
 Cseke
-Csekék
-Csekey István
+CsekÃ©k
+Csekey IstvÃ¡n
 Csekonics
 Csele
 Cselepart
 Cselepatak
 Csemegi
-Csemerháza
+CsemerhÃ¡za
 Csemete
 Csemetekert
 Csemez
 Csemezmajor
-Csemõ
-Csencsevár
+CsemÅ‘
+CsencsevÃ¡r
 Csend
-Csendár
+CsendÃ¡r
 Csendes
-Csendítõ
+CsendÃ­tÅ‘
 Csendvilla
-Csengés
+CsengÃ©s
 Csenger
 Csengeri
-Csengeri-holtág
-Csengeri közép
-Csengeri szél
+Csengeri-holtÃ¡g
+Csengeri kÃ¶zÃ©p
+Csengeri szÃ©l
 Csengery
-Csengettyû
-Csengey Gusztáv
-Csengõ
-Csengõbarack
-Csengõd
-Csengõoldal
-Csengõrét Erdészház
+CsengettyÅ±
+Csengey GusztÃ¡v
+CsengÅ‘
+CsengÅ‘barack
+CsengÅ‘d
+CsengÅ‘oldal
+CsengÅ‘rÃ©t ErdÃ©szhÃ¡z
 Csenkei
 Csenkesz
 Csenki
 Csentei
 Csenteri
-Csenterics Sándor
+Csenterics SÃ¡ndor
 Csepel
 Csepeli
-Csepeli Mátyás
+Csepeli MÃ¡tyÃ¡s
 Csepete
 Csepp
-Cseppkõ
+CseppkÅ‘
 Csepreg
 Csepreghy
 Csepregi
 Csepri
-Csepüsszõlõ
-Csepûs
+CsepÃ¼sszÅ‘lÅ‘
+CsepÅ±s
 Cser
 Cseralja
-Cserba Elemér
-Cserénfai
-Cserényhegyi
-Cserényi
-Cserép
-Cserépi
-Cserebogár
+Cserba ElemÃ©r
+CserÃ©nfai
+CserÃ©nyhegyi
+CserÃ©nyi
+CserÃ©p
+CserÃ©pi
+CserebogÃ¡r
 Cseredi
 Cseregle
-Cserehát
-Cserehely üdülõ
+CserehÃ¡t
+Cserehely Ã¼dÃ¼lÅ‘
 Cserei
 Cserepes
 Cserepeshegy
 Cseres
 Cseresznye
-Cseresznyés
-Cseresznyés szer
-Cseresznyéshát
-Cseresznyéskert
-Cseresznyeág
+CseresznyÃ©s
+CseresznyÃ©s szer
+CseresznyÃ©shÃ¡t
+CseresznyÃ©skert
+CseresznyeÃ¡g
 Cseresznyefa
 Cseresznyeszer
 Csereze
 Cserfa
-Cserfõ
+CserfÅ‘
 Cserge
-Cserhágó
-Cserhát
-Cserháti
-Cserháti Sándor
-Cserhátmajor
-Cserhátpuszta
+CserhÃ¡gÃ³
+CserhÃ¡t
+CserhÃ¡ti
+CserhÃ¡ti SÃ¡ndor
+CserhÃ¡tmajor
+CserhÃ¡tpuszta
 Cserhalmi
 Cserhalom
 Cserhegy
 Cserhegyi
 Cserhida
 Cseri
-Cseri János
-Cseringát
+Cseri JÃ¡nos
+CseringÃ¡t
 Cserje
-Cserjés
-Cserkész
+CserjÃ©s
+CserkÃ©sz
 Cserkesz
-Cserköz
-Cserkút
-Cserkút-Plató
-Cserkút II. rakodó
-Cserkúti
+CserkÃ¶z
+CserkÃºt
+CserkÃºt-PlatÃ³
+CserkÃºt II. rakodÃ³
+CserkÃºti
 Cserlap
 Cserma
-Csermák
-Csermák Antal
-Csermák Hugó
-Csermány
+CsermÃ¡k
+CsermÃ¡k Antal
+CsermÃ¡k HugÃ³
+CsermÃ¡ny
 Csermajor
 Csermely
 Csermelyciprus
-Csermõke
-Csermõkei
+CsermÅ‘ke
+CsermÅ‘kei
 Cserna
 Csernaj
-Csernavölgy
+CsernavÃ¶lgy
 Csernec
 Cserniczky
 Csernus
 Csernyikbokor
 Csernyus
-Cserõ
-Cserõi
-Cserõke
+CserÅ‘
+CserÅ‘i
+CserÅ‘ke
 Cserszeg
-Csersznyeág
-Csertán Sándor
-Csertetõ
+CsersznyeÃ¡g
+CsertÃ¡n SÃ¡ndor
+CsertetÅ‘
 Cserti
-Cserti Mihály
-Csertõ
-Cservenka Miklós
-Cserzõ
-Cserzy Mihály
+Cserti MihÃ¡ly
+CsertÅ‘
+Cservenka MiklÃ³s
+CserzÅ‘
+Cserzy MihÃ¡ly
 Csete
-Csetény
-Csete Balázs
+CsetÃ©ny
+Csete BalÃ¡zs
 Csetneki
-Cseúz
+CseÃºz
 Csevice
-Csík
-Csík Ferenc
-Csíkfa
-Csíkhal
-Csíki
-Csíki-hegyek
-Csíkos szél
-Csíksomlyó
-Csíksomlyói
-Csíkszentiván
-Csíkszereda
-Csíky
-Csíz
+CsÃ­k
+CsÃ­k Ferenc
+CsÃ­kfa
+CsÃ­khal
+CsÃ­ki
+CsÃ­ki-hegyek
+CsÃ­kos szÃ©l
+CsÃ­ksomlyÃ³
+CsÃ­ksomlyÃ³i
+CsÃ­kszentivÃ¡n
+CsÃ­kszereda
+CsÃ­ky
+CsÃ­z
 Csibehegy
 Csibor
 Csibuk
-Csicserkó
-Csicsói
-Csicsóka
+CsicserkÃ³
+CsicsÃ³i
+CsicsÃ³ka
 Csiff
 Csiffy
 Csiga
-Csigáskuti
+CsigÃ¡skuti
 Csigekert
 Csiha
 Csiha Antal
-Csiha Gyõzõ
-Csikász
-Csikay János
-Csikház
+Csiha GyÅ‘zÅ‘
+CsikÃ¡sz
+Csikay JÃ¡nos
+CsikhÃ¡z
 Csiki
-Csikó
-Csikójárás
-Csikókert
-Csikós
-Csikós József
-Csikósvölgy
-Csikótelepi
-Csikóvár
-Csikóváralja
-Csikor Elemér
-Csikor Kálmán
+CsikÃ³
+CsikÃ³jÃ¡rÃ¡s
+CsikÃ³kert
+CsikÃ³s
+CsikÃ³s JÃ³zsef
+CsikÃ³svÃ¶lgy
+CsikÃ³telepi
+CsikÃ³vÃ¡r
+CsikÃ³vÃ¡ralja
+Csikor ElemÃ©r
+Csikor KÃ¡lmÃ¡n
 Csikos
-Csikostó
+CsikostÃ³
 Csikszereda
-Csikvár
-Csikvári
+CsikvÃ¡r
+CsikvÃ¡ri
 Csiky Gergely
-Csiky Sándor
+Csiky SÃ¡ndor
 Csilla
-Csillám
+CsillÃ¡m
 Csilla von Boeselager
 Csillag
 Csillag Zsigmond
-Csillagerõd
-Csillagfény
-Csillagfürt
+CsillagerÅ‘d
+CsillagfÃ©ny
+CsillagfÃ¼rt
 Csillaghegyi
 Csillagos
-Csillagvár
-Csillagváros
-Csillagvirág
-Csillagvizsgáló
-Csillagvölgyi
+CsillagvÃ¡r
+CsillagvÃ¡ros
+CsillagvirÃ¡g
+CsillagvizsgÃ¡lÃ³
+CsillagvÃ¶lgyi
 Csillahegy
 Csille
-Csilléri
-Csilléry
-Csillés
-Csillebérci
+CsillÃ©ri
+CsillÃ©ry
+CsillÃ©s
+CsillebÃ©rci
 Csimorka
 Csinos
 Csinszka
 Csintova
 Csiperke
 Csipke
-Csipkés
-Csipkéskút
-Csipkebogyó
+CsipkÃ©s
+CsipkÃ©skÃºt
+CsipkebogyÃ³
 Csipkebokor
-Csipkegyári
-Csipkerózsa
-Csipkevirág
-Csipõtelek
-Csipsár
-Csipvári
+CsipkegyÃ¡ri
+CsipkerÃ³zsa
+CsipkevirÃ¡g
+CsipÅ‘telek
+CsipsÃ¡r
+CsipvÃ¡ri
 Csire
 Csiri
 Csiribpuszta
-Csiszárhegy
-Csiszoló
+CsiszÃ¡rhegy
+CsiszolÃ³
 Csisztai
 Csisztapuszta
-Csitári
-Csitáry G. Emil
+CsitÃ¡ri
+CsitÃ¡ry G. Emil
 Csiten
 Csiteny
 Csiti
-Csittényhegyi
+CsittÃ©nyhegyi
 Csitten
 Csiz
 Csizma
 Csizmadia
-Csizmadia Sándor
-Csók
-Csók István
-Csóka
-Csókás
-Csókás József
-Csókáserdõ
-Csókai
-Csókakõ
-Csókakõ Vasútállomás
-Csókakõi
-Csókakõi kõbánya
-Csókasor
-Csókavár
-Csólyosi
-Csónak
-Csónakház
-Csónakos
-Csónakos-Fûrdõ
-Csóri
-Csóronfalvi
-Csósi
-Csöbör
-Csömöri
-Csöndes
-Csöngetmajor
-Csöngõ
-Csöpi
-Csöpp
-Csöprönd
-Csörge
-Csörgey
-Csörgõ
-Csörgõfa
-Csörgõszer
-Csörlõ
-Csörötnek
-Csörsz
-Csörszárok
-Csöves
-Csõ
-Csõgyár
-Csõsz
-Csõszház
-Csõvár
-Csõvári
-Csõvonó
-Csobánc
-Csobánci
-Csobánka
-Csobánkai
+Csizmadia SÃ¡ndor
+CsÃ³k
+CsÃ³k IstvÃ¡n
+CsÃ³ka
+CsÃ³kÃ¡s
+CsÃ³kÃ¡s JÃ³zsef
+CsÃ³kÃ¡serdÅ‘
+CsÃ³kai
+CsÃ³kakÅ‘
+CsÃ³kakÅ‘ VasÃºtÃ¡llomÃ¡s
+CsÃ³kakÅ‘i
+CsÃ³kakÅ‘i kÅ‘bÃ¡nya
+CsÃ³kasor
+CsÃ³kavÃ¡r
+CsÃ³lyosi
+CsÃ³nak
+CsÃ³nakhÃ¡z
+CsÃ³nakos
+CsÃ³nakos-FÅ±rdÅ‘
+CsÃ³ri
+CsÃ³ronfalvi
+CsÃ³si
+CsÃ¶bÃ¶r
+CsÃ¶mÃ¶ri
+CsÃ¶ndes
+CsÃ¶ngetmajor
+CsÃ¶ngÅ‘
+CsÃ¶pi
+CsÃ¶pp
+CsÃ¶prÃ¶nd
+CsÃ¶rge
+CsÃ¶rgey
+CsÃ¶rgÅ‘
+CsÃ¶rgÅ‘fa
+CsÃ¶rgÅ‘szer
+CsÃ¶rlÅ‘
+CsÃ¶rÃ¶tnek
+CsÃ¶rsz
+CsÃ¶rszÃ¡rok
+CsÃ¶ves
+CsÅ‘
+CsÅ‘gyÃ¡r
+CsÅ‘sz
+CsÅ‘szhÃ¡z
+CsÅ‘vÃ¡r
+CsÅ‘vÃ¡ri
+CsÅ‘vonÃ³
+CsobÃ¡nc
+CsobÃ¡nci
+CsobÃ¡nka
+CsobÃ¡nkai
 Csobaj
-Csobogós
+CsobogÃ³s
 Csobokapuszta
-Csobolyó
+CsobolyÃ³
 Csodaszarvas
-Csokoládépuszta
+CsokolÃ¡dÃ©puszta
 Csokonai
-Csokonai Vitéz Mihály
+Csokonai VitÃ©z MihÃ¡ly
 Csokor
-Csollányos
+CsollÃ¡nyos
 Csolnak
 Csolnoki
 Csolt
 Csoma
-Csomád
-Csoma József
+CsomÃ¡d
+Csoma JÃ³zsef
 Csomafalva
-Csomaközy
+CsomakÃ¶zy
 Csombor
 Csongor
-Csongrád
-Csongrádi
+CsongrÃ¡d
+CsongrÃ¡di
 Csonka
-Csonkás
-Csonka János
-Csonkaér
+CsonkÃ¡s
+Csonka JÃ¡nos
+CsonkaÃ©r
 Csonkahegy
 Csonkatorony
-Csonkavég
+CsonkavÃ©g
 Csont
 Csont Ferenc
 Csontalma
 Csontos
-Csontváry
-Csontváry Kosztka Tivadar
+CsontvÃ¡ry
+CsontvÃ¡ry Kosztka Tivadar
 Csopak
 Csopaki
 Csoport
 Csorba
 Csorbai
-Csorbatói
-Csorbóka
-Csorcsány
+CsorbatÃ³i
+CsorbÃ³ka
+CsorcsÃ¡ny
 Csorda
 Csorda-hegy
-Csordás
-Csordás-kút
-Csordás Ferenc
-Csorgó
+CsordÃ¡s
+CsordÃ¡s-kÃºt
+CsordÃ¡s Ferenc
+CsorgÃ³
 Csormolya
 Csorna
 Csornai
@@ -2768,70 +2768,70 @@ Csorompuszta
 Csoronika
 Csoroszlya
 Csortos Gyula
-Csorvás
+CsorvÃ¡s
 Csott
-Csúcs
-Csúcshegy
-Csúcshegyi
-Csúszólapi
-Csút
-Csücsök
-Csûr
-Csûröskert
-Csûry Bálint
-Csugar MÁV állomás
+CsÃºcs
+CsÃºcshegy
+CsÃºcshegyi
+CsÃºszÃ³lapi
+CsÃºt
+CsÃ¼csÃ¶k
+CsÅ±r
+CsÅ±rÃ¶skert
+CsÅ±ry BÃ¡lint
+Csugar MÃV Ã¡llomÃ¡s
 Csuka
-Csukás
+CsukÃ¡s
 Csuka Lajos
-Csuka völgy
+Csuka vÃ¶lgy
 Csuki
-Csukló
+CsuklÃ³
 Csuklya
 Csukma
 Csukma puszta
 Csupor
-Csurgai Árpád
-Csurgó
-Csurgó-tetõ
-Csurgói
-Csurgói Erdészház
-Csurgópuszta
-Csurgós
-Csurgóvölgy
+Csurgai ÃrpÃ¡d
+CsurgÃ³
+CsurgÃ³-tetÅ‘
+CsurgÃ³i
+CsurgÃ³i ErdÃ©szhÃ¡z
+CsurgÃ³puszta
+CsurgÃ³s
+CsurgÃ³vÃ¶lgy
 Csuszka
-Csutak Kálmán
+Csutak KÃ¡lmÃ¡n
 Csutor Imre
 Csutora
-Csutorás
+CsutorÃ¡s
 Cuha
 Cukor
-Cukorgyár
-Cukorgyári
+CukorgyÃ¡r
+CukorgyÃ¡ri
 Cukorhegy
-Cukornád
-Cukrász
+CukornÃ¡d
+CukrÃ¡sz
 Curia
-Czárák
-Czakó
-Czakó Elemér
-Czakó Kálmán
-Czékus
-Czeglédi Mihály
-Czelder Orbán
-Czerékvölgyi
-Czetz János
+CzÃ¡rÃ¡k
+CzakÃ³
+CzakÃ³ ElemÃ©r
+CzakÃ³ KÃ¡lmÃ¡n
+CzÃ©kus
+CzeglÃ©di MihÃ¡ly
+Czelder OrbÃ¡n
+CzerÃ©kvÃ¶lgyi
+Czetz JÃ¡nos
 Czibak Imre
 Czifra
 Czigle
 Czihat
-Czikó János
+CzikÃ³ JÃ¡nos
 Czimra Gyula
 Czinderi
-Czindery Ignác
-Czinege János
-Cziráki
-Czira Kovács Lajos
-Czóbel Minka
+Czindery IgnÃ¡c
+Czinege JÃ¡nos
+CzirÃ¡ki
+Czira KovÃ¡cs Lajos
+CzÃ³bel Minka
 Czobor
 Czobor M.
 Czollner
@@ -2839,678 +2839,678 @@ Czotter A.
 Czuczor
 Czuczor Gergely
 D
-D. Szabó Károly
+D. SzabÃ³ KÃ¡roly
 D szektor
-Dági
-Dákai
-Dália
-Dám
-Dámányadacs
-Dámvad
-Dáni
-Dáni János
-Dániel
-Dánosi
-Dányádi
-Dárda
-Dávid
-Dávid Ferenc
-Dávidmajor
-Daágh
+DÃ¡gi
+DÃ¡kai
+DÃ¡lia
+DÃ¡m
+DÃ¡mÃ¡nyadacs
+DÃ¡mvad
+DÃ¡ni
+DÃ¡ni JÃ¡nos
+DÃ¡niel
+DÃ¡nosi
+DÃ¡nyÃ¡di
+DÃ¡rda
+DÃ¡vid
+DÃ¡vid Ferenc
+DÃ¡vidmajor
+DaÃ¡gh
 Dabas
 Dabasi
 Dadi
-Dagály
+DagÃ¡ly
 Dajka
 Dal
-Dalárda
-Dala József
-Dalkör
+DalÃ¡rda
+Dala JÃ³zsef
+DalkÃ¶r
 Dallamos
 Dallos
-Dallos Sándor
-Dalmát
-Dalmady Gyõzõ
+Dallos SÃ¡ndor
+DalmÃ¡t
+Dalmady GyÅ‘zÅ‘
 Dalnok
 Dalos
 Daloshegy
-Dalszínház
+DalszÃ­nhÃ¡z
 Damjanich
 Damjanich Imre
-Damjanich János
+Damjanich JÃ¡nos
 Dancza
-Dandár
-Dandó
+DandÃ¡r
+DandÃ³
 Danitz
-Dankasirály
-Dankó
-Dankó István
-Dankó Pista
-Dankóbokor
+DankasirÃ¡ly
+DankÃ³
+DankÃ³ IstvÃ¡n
+DankÃ³ Pista
+DankÃ³bokor
 Danlos
 Dante
-Dapsy László
+Dapsy LÃ¡szlÃ³
 Dara
-Darányi
-Darányi Ignác
-Daránypuszta
-Darázs
-Darázsi
+DarÃ¡nyi
+DarÃ¡nyi IgnÃ¡c
+DarÃ¡nypuszta
+DarÃ¡zs
+DarÃ¡zsi
 Darab
 Darabos
-Darabosdûlõ
+DarabosdÅ±lÅ‘
 Darassa
-Darida József
+Darida JÃ³zsef
 Darling
 Darnay
-Darnay Kálmán
-Darnó
-Darnói
-Daróci
-Daróczi
-Daróczi Ambrus
-Daróczi Gusztáv
+Darnay KÃ¡lmÃ¡n
+DarnÃ³
+DarnÃ³i
+DarÃ³ci
+DarÃ³czi
+DarÃ³czi Ambrus
+DarÃ³czi GusztÃ¡v
 Daru
 Daru csegei
 Daru piac
-Daruhát
-Darukezelõ
+DaruhÃ¡t
+DarukezelÅ‘
 Darus
 Darusziget
 Daruzug
 Darvas
-Darvas József
+Darvas JÃ³zsef
 Darvasalja
 Darvaskert
 Darvaspuszta
 Darwin
 Datolya
 Dayka
-Dayka Gábor
-Décsi József
-Dédes
-Dégenfeld
-Dékán
-Dékány
-Dékány József
-Dél
-Délceg
-Déli
-Déli Ipari Zóna
-Déli ipari
-Déli ipartelep
-Déli pályaudvar
-Déli pályaudvari aluljáró
-Déli pu
-Déli temetõ ház
-Délibáb
-Déllõ
-Dénár
-Dénes
-Dénesfai
-Dénesi
-Dér
-Déri
-Déri Miksa
-Déroldal
-Déry Tibor
-Déryné
-Dés
-Désány István
-Désháza
-Dési Huber
-Dési Huber István
-Déssytanya
-Déva
-Dévai
-Dévai Bíró Mátyás
-Dévai Sándor
-Dévaványa
-Dévény
-Dévényi
-Dévér
-Dézsi
-Dézsi András
-Dézsma
-Dézsmaház
-Deák
-Deák Ferenc
-Deák Ferenc-Híd
-Deák téri
-Deák téri aluljáró
-Deák téri piac
-Deákkúti
+Dayka GÃ¡bor
+DÃ©csi JÃ³zsef
+DÃ©des
+DÃ©genfeld
+DÃ©kÃ¡n
+DÃ©kÃ¡ny
+DÃ©kÃ¡ny JÃ³zsef
+DÃ©l
+DÃ©lceg
+DÃ©li
+DÃ©li Ipari ZÃ³na
+DÃ©li ipari
+DÃ©li ipartelep
+DÃ©li pÃ¡lyaudvar
+DÃ©li pÃ¡lyaudvari aluljÃ¡rÃ³
+DÃ©li pu
+DÃ©li temetÅ‘ hÃ¡z
+DÃ©libÃ¡b
+DÃ©llÅ‘
+DÃ©nÃ¡r
+DÃ©nes
+DÃ©nesfai
+DÃ©nesi
+DÃ©r
+DÃ©ri
+DÃ©ri Miksa
+DÃ©roldal
+DÃ©ry Tibor
+DÃ©rynÃ©
+DÃ©s
+DÃ©sÃ¡ny IstvÃ¡n
+DÃ©shÃ¡za
+DÃ©si Huber
+DÃ©si Huber IstvÃ¡n
+DÃ©ssytanya
+DÃ©va
+DÃ©vai
+DÃ©vai BÃ­rÃ³ MÃ¡tyÃ¡s
+DÃ©vai SÃ¡ndor
+DÃ©vavÃ¡nya
+DÃ©vÃ©ny
+DÃ©vÃ©nyi
+DÃ©vÃ©r
+DÃ©zsi
+DÃ©zsi AndrÃ¡s
+DÃ©zsma
+DÃ©zsmahÃ¡z
+DeÃ¡k
+DeÃ¡k Ferenc
+DeÃ¡k Ferenc-HÃ­d
+DeÃ¡k tÃ©ri
+DeÃ¡k tÃ©ri aluljÃ¡rÃ³
+DeÃ¡k tÃ©ri piac
+DeÃ¡kkÃºti
 Deber
-Debercsény
+DebercsÃ©ny
 Debrecen
 Debreceni
-Debreceni Márton
-Debreceni lejáró
-Debreceni útfél
+Debreceni MÃ¡rton
+Debreceni lejÃ¡rÃ³
+Debreceni ÃºtfÃ©l
 Debreczeni
 Debreczenyi Gy.
 Debreczenyi Imre
-Debrõ
-Debrõbokor
-Debrõdi
-Debrõi
-Decs-Szõlõhegy
+DebrÅ‘
+DebrÅ‘bokor
+DebrÅ‘di
+DebrÅ‘i
+Decs-SzÅ‘lÅ‘hegy
 Decsi
 Dede
-Dedõhát
-Deék Ferenc
-Deés
-Degré Alajos
-Dejczõ
+DedÅ‘hÃ¡t
+DeÃ©k Ferenc
+DeÃ©s
+DegrÃ© Alajos
+DejczÅ‘
 Delden
 Delej
-Delelõ
+DelelÅ‘
 Delfin
 Deli
 Deli Antal
-Deli Károly
-Deli Mátyás
-Dellõ
+Deli KÃ¡roly
+Deli MÃ¡tyÃ¡s
+DellÅ‘
 Delta
 Dembinszky
-Dembinszky János
-Dembinszky József
-Deméndi
+Dembinszky JÃ¡nos
+Dembinszky JÃ³zsef
+DemÃ©ndi
 Demeter
-Demeter István
-Demjén
-Demjéni
-Dencsházai
-Denevér
+Demeter IstvÃ¡n
+DemjÃ©n
+DemjÃ©ni
+DencshÃ¡zai
+DenevÃ©r
 Depo
-Depó
-Depó/ Gátõrház /
+DepÃ³
+DepÃ³/ GÃ¡tÅ‘rhÃ¡z /
 Derce
-Dercefû
-Derék
-Derék-réti
-Deréki
+DercefÅ±
+DerÃ©k
+DerÃ©k-rÃ©ti
+DerÃ©ki
 Derecske
 Derecskei
-Derecskei útfél
+Derecskei ÃºtfÃ©l
 Dereglye
-Derencsényi
-Derengõ
+DerencsÃ©nyi
+DerengÅ‘
 Deres
 Dereshegy
 Derkovits
 Derkovits Gyula
-Derült
-Derû
-Derûs
+DerÃ¼lt
+DerÅ±
+DerÅ±s
 Derzs
 Derzsi
 Deseda
-Deseda zártkert
-Desseõ Gyula
+Deseda zÃ¡rtkert
+DesseÅ‘ Gyula
 Dessewffy
 Dessewffy Arisztid
-Detrekõ
+DetrekÅ‘
 Dettai
-Dettre János
+Dettre JÃ¡nos
 Devecseri
-Devecseri Gábor
+Devecseri GÃ¡bor
 Devecserszer
 Devich
-Dezsõ
-Dezsõ Kázmér
-Dezsõ Lajos
-Dezsõfia
-Dísz
-Díszfû
-Diák
-Diána
-Diászói völgy
+DezsÅ‘
+DezsÅ‘ KÃ¡zmÃ©r
+DezsÅ‘ Lajos
+DezsÅ‘fia
+DÃ­sz
+DÃ­szfÅ±
+DiÃ¡k
+DiÃ¡na
+DiÃ¡szÃ³i vÃ¶lgy
 Diadal
 Diana
-Diaszó
-Dicháza
-Dicsõfi József
+DiaszÃ³
+DichÃ¡za
+DicsÅ‘fi JÃ³zsef
 Dicz
 Dicz malom
 Dienes
-Dienes János
+Dienes JÃ¡nos
 Dienes Lajos
 Dienesfalvi
 Dijnok
 Dimitrov
 Dimitrovpuszta
-Dinamó
-Diner István
+DinamÃ³
+Diner IstvÃ¡n
 Dinka
 Dinnye
-Dinnyés
-Dinnyéshát
-Dinnyéshalom
-Dinnyési
+DinnyÃ©s
+DinnyÃ©shÃ¡t
+DinnyÃ©shalom
+DinnyÃ©si
 Dinnyehegyi
-Dió
-Dióér
-Diófa
-Diófás
-Diófakút
-Diófasor
-Diós
-Diósárok
-Diósdi
-Diósdi-fennsík
-Diósgyõri
-Dióshegyi
-Diósi
-Dióspuszta
-Diósvár
-Diósvár dûlõ
-Diósvölgyi
-Diósy Lajos
-Diószeghy
-Diószeghy István
-Diószeghy Sámuel
-Diószegi
-Diószegi Sámuel
-Diószegi út
-Diótörõ
-Dióvölgy
-Dischka Gyõzõ
+DiÃ³
+DiÃ³Ã©r
+DiÃ³fa
+DiÃ³fÃ¡s
+DiÃ³fakÃºt
+DiÃ³fasor
+DiÃ³s
+DiÃ³sÃ¡rok
+DiÃ³sdi
+DiÃ³sdi-fennsÃ­k
+DiÃ³sgyÅ‘ri
+DiÃ³shegyi
+DiÃ³si
+DiÃ³spuszta
+DiÃ³svÃ¡r
+DiÃ³svÃ¡r dÅ±lÅ‘
+DiÃ³svÃ¶lgyi
+DiÃ³sy Lajos
+DiÃ³szeghy
+DiÃ³szeghy IstvÃ¡n
+DiÃ³szeghy SÃ¡muel
+DiÃ³szegi
+DiÃ³szegi SÃ¡muel
+DiÃ³szegi Ãºt
+DiÃ³tÃ¶rÅ‘
+DiÃ³vÃ¶lgy
+Dischka GyÅ‘zÅ‘
 Diska
-Disznófõsor
-Disznókút Nyugat
-Ditrói Mór
+DisznÃ³fÅ‘sor
+DisznÃ³kÃºt Nyugat
+DitrÃ³i MÃ³r
 Ditz-malom
-Dóczy József
-Dóczy László
-Dókus
-Dóm
-Dóra
-Dósa
-Dósa Imre
-Dósa nádor
-Dózsa
-Dózsa-központ
-Dózsa-telepi
-Dózsa György
-Dózsa Tsz Ipartelep
-Dózsakert
-Dózsamajor
-Dózsatelep
-Döbrés
-Döbrei János
-Döbrentei
-Döbrentei Gábor
-Döbröce
-Dögei
-Döme
-Dömeföldi
-Dömörkapu
-Dömösalja
-Dömötör
-Dömötör János
-Dömsödi
-Döntõ
-Dörgicsei
-Döri
-Dörögdi
-Dörögdpuszta
-Döröskei
-Dörzsik
+DÃ³czy JÃ³zsef
+DÃ³czy LÃ¡szlÃ³
+DÃ³kus
+DÃ³m
+DÃ³ra
+DÃ³sa
+DÃ³sa Imre
+DÃ³sa nÃ¡dor
+DÃ³zsa
+DÃ³zsa-kÃ¶zpont
+DÃ³zsa-telepi
+DÃ³zsa GyÃ¶rgy
+DÃ³zsa Tsz Ipartelep
+DÃ³zsakert
+DÃ³zsamajor
+DÃ³zsatelep
+DÃ¶brÃ©s
+DÃ¶brei JÃ¡nos
+DÃ¶brentei
+DÃ¶brentei GÃ¡bor
+DÃ¶brÃ¶ce
+DÃ¶gei
+DÃ¶me
+DÃ¶mefÃ¶ldi
+DÃ¶mÃ¶rkapu
+DÃ¶mÃ¶salja
+DÃ¶mÃ¶tÃ¶r
+DÃ¶mÃ¶tÃ¶r JÃ¡nos
+DÃ¶msÃ¶di
+DÃ¶ntÅ‘
+DÃ¶rgicsei
+DÃ¶ri
+DÃ¶rÃ¶gdi
+DÃ¶rÃ¶gdpuszta
+DÃ¶rÃ¶skei
+DÃ¶rzsik
 Dob
 Doba
 Dobai
-Doberdó
+DoberdÃ³
 Dobi
-Dobi István
-Dobner Nándor
-Dobó
-Dobó Ferenc
-Dobó István
-Dobó Katalin
-Dobó Katica
-Dobó Sándor
-Dobó várkapitány
-Dobódél
-Dobogó
-Dobogóköz
-Dobogókõi
+Dobi IstvÃ¡n
+Dobner NÃ¡ndor
+DobÃ³
+DobÃ³ Ferenc
+DobÃ³ IstvÃ¡n
+DobÃ³ Katalin
+DobÃ³ Katica
+DobÃ³ SÃ¡ndor
+DobÃ³ vÃ¡rkapitÃ¡ny
+DobÃ³dÃ©l
+DobogÃ³
+DobogÃ³kÃ¶z
+DobogÃ³kÅ‘i
 Doboka
 Doborgaz
-Doborjáni
+DoborjÃ¡ni
 Dobos
-Dobos András
+Dobos AndrÃ¡s
 Doboshegy
 Doboskert
 Dobosok
 Dobostanya
-Dobosvölgy
+DobosvÃ¶lgy
 Doboz
 Dobozi
-Dobozi Mihály
+Dobozi MihÃ¡ly
 Dobozy Imre
-Dobozy Mihály
+Dobozy MihÃ¡ly
 Dobra
-Dobroszláv Lajos
+DobroszlÃ¡v Lajos
 Dobsina
 Dobsinai
 Dobszai
 Dodola
-Dohány
-Dohánybeváltó
-Dohányos
-Dohnányi Ernõ
+DohÃ¡ny
+DohÃ¡nybevÃ¡ltÃ³
+DohÃ¡nyos
+DohnÃ¡nyi ErnÅ‘
 Doktor
 Dolenka
 Dolgos
-Dolgozó
-Dolgozók
+DolgozÃ³
+DolgozÃ³k
 Dolina
 Dolinai
-Dollár
-Dolmány
-Dologház
+DollÃ¡r
+DolmÃ¡ny
+DologhÃ¡z
 Dolomit
 Dolovai
-Domaháza
-Domaházi
-Domaszék
-Domaszéki
+DomahÃ¡za
+DomahÃ¡zi
+DomaszÃ©k
+DomaszÃ©ki
 Domb
-Domb lakópark
-Dombai-tó
+Domb lakÃ³park
+Dombai-tÃ³
 Dombalja
-Dombay János
-Dombhát
-Dombi Sámuel
-Dombiföld
-Dombköz
-Dombó Pál
-Dombóvári
+Dombay JÃ¡nos
+DombhÃ¡t
+Dombi SÃ¡muel
+DombifÃ¶ld
+DombkÃ¶z
+DombÃ³ PÃ¡l
+DombÃ³vÃ¡ri
 Domboldal
 Dombori
-Domború
+DomborÃº
 Dombos
 Dombostanya
-Dombrádi
+DombrÃ¡di
 Dombszer
-Dombtetõ
+DombtetÅ‘
 Domby Lajos
-Domföldi Dülõ
+DomfÃ¶ldi DÃ¼lÅ‘
 Domokos
 Domokos Jakab
 Domokos Lajos
-Domokos Márton
-Domokos Márton kert
+Domokos MÃ¡rton
+Domokos MÃ¡rton kert
 Domonkos
-Domoszló
-Donát
-Donáth
-Donáti
-Donátus
-Donátusi
+DomoszlÃ³
+DonÃ¡t
+DonÃ¡th
+DonÃ¡ti
+DonÃ¡tus
+DonÃ¡tusi
 Donga
-Dongó
-Dongó alsó
+DongÃ³
+DongÃ³ alsÃ³
 Dorfmeister
-Dorgó
-Dorgói
-Dorkó
-Dorkó-Felsõ
-Dorkói
-Dormánd
+DorgÃ³
+DorgÃ³i
+DorkÃ³
+DorkÃ³-FelsÅ‘
+DorkÃ³i
+DormÃ¡nd
 Dornyai
 Dorogi
 Dorogi Imre
-Dorogi Márton
-Dorogiás
-Dorogiáshegy
-Dorogiáskert
-Doromlás
+Dorogi MÃ¡rton
+DorogiÃ¡s
+DorogiÃ¡shegy
+DorogiÃ¡skert
+DoromlÃ¡s
 Dorongosi
-Doroszlói
+DoroszlÃ³i
 Dorottya
 Dorozsma
 Dorozsmai
 Dorschner
 Dozmat
-Dr. Ábrahám Béla
-Dr. Babócsay József
-Dr. Bacsóka Pál
-Dr. Balogh Kálmán
-Dr. Batthyány Strattmann László
-Dr. Bedõ István
-Dr. Berze Nagy János
-Dr. Boross József
-Dr. Dicsõfi Endre
-Dr. Dombay János
-Dr. Durst János
-Dr. É. Kiss Sándor
-Dr. Elek István
-Dr. Entz Béla
-Dr. Eperjessy Pál
-Dr. Földi János
-Dr. Forbáth Imre
-Dr. Gruber Béla
-Dr. Guba Sándor
-Dr. Gyárfás
-Dr. Gyimóthy J.
-Dr. Hanusz Béla
-Dr. Heim Pál
+Dr. ÃbrahÃ¡m BÃ©la
+Dr. BabÃ³csay JÃ³zsef
+Dr. BacsÃ³ka PÃ¡l
+Dr. Balogh KÃ¡lmÃ¡n
+Dr. BatthyÃ¡ny Strattmann LÃ¡szlÃ³
+Dr. BedÅ‘ IstvÃ¡n
+Dr. Berze Nagy JÃ¡nos
+Dr. Boross JÃ³zsef
+Dr. DicsÅ‘fi Endre
+Dr. Dombay JÃ¡nos
+Dr. Durst JÃ¡nos
+Dr. Ã‰. Kiss SÃ¡ndor
+Dr. Elek IstvÃ¡n
+Dr. Entz BÃ©la
+Dr. Eperjessy PÃ¡l
+Dr. FÃ¶ldi JÃ¡nos
+Dr. ForbÃ¡th Imre
+Dr. Gruber BÃ©la
+Dr. Guba SÃ¡ndor
+Dr. GyÃ¡rfÃ¡s
+Dr. GyimÃ³thy J.
+Dr. Hanusz BÃ©la
+Dr. Heim PÃ¡l
 Dr. Hermann Egyed
-Dr. Hibay Károly
-Dr. Hirling Ádám
-Dr. Hirn Márton
-Dr. Holló Lajos
-Dr. Kalocsay Kálmán
-Dr. Kaposváry György
+Dr. Hibay KÃ¡roly
+Dr. Hirling ÃdÃ¡m
+Dr. Hirn MÃ¡rton
+Dr. HollÃ³ Lajos
+Dr. Kalocsay KÃ¡lmÃ¡n
+Dr. KaposvÃ¡ry GyÃ¶rgy
 Dr. Kapuy Miksa
-Dr. Kiss Ágoston
-Dr. Kiss István
-Dr. Kiss Sándorné
-Dr. Koch László
-Dr. Korányi Frigyes
-Dr. Kovács Pál
-Dr. Kovács Sebestyén Gyula
-Dr. Lotz János
-Dr. Lukács Gáspár
-Dr. Lumniczer Sándor
+Dr. Kiss Ãgoston
+Dr. Kiss IstvÃ¡n
+Dr. Kiss SÃ¡ndornÃ©
+Dr. Koch LÃ¡szlÃ³
+Dr. KorÃ¡nyi Frigyes
+Dr. KovÃ¡cs PÃ¡l
+Dr. KovÃ¡cs SebestyÃ©n Gyula
+Dr. Lotz JÃ¡nos
+Dr. LukÃ¡cs GÃ¡spÃ¡r
+Dr. Lumniczer SÃ¡ndor
 Dr. Madai Gyula
-Dr. Marek József
-Dr. Moll Károly
-Dr. Molnár István
-Dr. Múró László
-Dr. Münnich Ferenc
-Dr. Mustó Sándor
-Dr. Nagy István
-Dr. Nagy János
+Dr. Marek JÃ³zsef
+Dr. Moll KÃ¡roly
+Dr. MolnÃ¡r IstvÃ¡n
+Dr. MÃºrÃ³ LÃ¡szlÃ³
+Dr. MÃ¼nnich Ferenc
+Dr. MustÃ³ SÃ¡ndor
+Dr. Nagy IstvÃ¡n
+Dr. Nagy JÃ¡nos
 Dr. Nagy Lajos
-Dr. Pável Ágoston
-Dr. Pais Dezsõ
-Dr. Papp Zoltán
-Dr. Pécsi Gyula
+Dr. PÃ¡vel Ãgoston
+Dr. Pais DezsÅ‘
+Dr. Papp ZoltÃ¡n
+Dr. PÃ©csi Gyula
 Dr. Petz Lajos
-Dr. Pilissy Elemér
-Dr. Piszár Antal
-Dr. Révész Géza
-Dr. Riesz József
-Dr. Sándor Imre
+Dr. Pilissy ElemÃ©r
+Dr. PiszÃ¡r Antal
+Dr. RÃ©vÃ©sz GÃ©za
+Dr. Riesz JÃ³zsef
+Dr. SÃ¡ndor Imre
 Dr. Schulhof Vilmos
 Dr. Schweitzer Albert
-Dr. Sebestyén Gyula
-Dr. Szabolcs Zoltán
-Dr. Szakáll Gyula
+Dr. SebestyÃ©n Gyula
+Dr. Szabolcs ZoltÃ¡n
+Dr. SzakÃ¡ll Gyula
 Dr. Szana Antal
-Dr. Szentgáli Gyula
-Dr. Szentgyörgyi Albert
+Dr. SzentgÃ¡li Gyula
+Dr. SzentgyÃ¶rgyi Albert
 Dr. Szerdahelyi
-Dr. Szilády Áron
-Dr. Szilvássy Gyula
-Dr. Szombathelyi Károly
+Dr. SzilÃ¡dy Ãron
+Dr. SzilvÃ¡ssy Gyula
+Dr. Szombathelyi KÃ¡roly
 Dr. Tarnay
-Dr. Taródi Béla
-Dr. Tóth Lajos
-Dr. Torda István
-Dr. Tretter László
-Dr. Vajkai Aurél
-Dr. Vitális István
-Drágffy János
-Drágfi
-Drágfy
-Dráva
-Drávacsehi
-Drávafok
-Drávapart
-Drávaszabolcsi
-Drégely
-Drégelyi
-Drégelypalánk
-Drégelyvár
+Dr. TarÃ³di BÃ©la
+Dr. TÃ³th Lajos
+Dr. Torda IstvÃ¡n
+Dr. Tretter LÃ¡szlÃ³
+Dr. Vajkai AurÃ©l
+Dr. VitÃ¡lis IstvÃ¡n
+DrÃ¡gffy JÃ¡nos
+DrÃ¡gfi
+DrÃ¡gfy
+DrÃ¡va
+DrÃ¡vacsehi
+DrÃ¡vafok
+DrÃ¡vapart
+DrÃ¡vaszabolcsi
+DrÃ©gely
+DrÃ©gelyi
+DrÃ©gelypalÃ¡nk
+DrÃ©gelyvÃ¡r
 Dreher
-Drótos
-Dsida Jenõ
-Dültfási
-Dûlõ
-Dûne
+DrÃ³tos
+Dsida JenÅ‘
+DÃ¼ltfÃ¡si
+DÅ±lÅ‘
+DÅ±ne
 Ducza
 Duda
-Dudás
-Dudás József
-Dugó
+DudÃ¡s
+DudÃ¡s JÃ³zsef
+DugÃ³
 Dugonics
-Dugonics András
+Dugonics AndrÃ¡s
 Dugovics
 Dugovics Titusz
-Dukát
-Dukai Takách Judit
-Dukai Takács Judit
-Dulácska
-Dumtsa Jenõ
+DukÃ¡t
+Dukai TakÃ¡ch Judit
+Dukai TakÃ¡cs Judit
+DulÃ¡cska
+Dumtsa JenÅ‘
 Duna
-Duna-fürdõ
+Duna-fÃ¼rdÅ‘
 Duna-part
-Duna-part alsó
+Duna-part alsÃ³
 Duna-zsilip
 Duna part
-Dunaár
-Dunadûlõ
-Dunaföldvári
-Dunafüredi
+DunaÃ¡r
+DunadÅ±lÅ‘
+DunafÃ¶ldvÃ¡ri
+DunafÃ¼redi
 Dunai
 Dunakanyar
 Dunakapu
 Dunakeszi
-Dunakömlõdi
-Dunakorzó
+DunakÃ¶mlÅ‘di
+DunakorzÃ³
 Dunapart
-Dunapart Akácfa
-Dunapart Akácos
-Dunapart Mályva
+Dunapart AkÃ¡cfa
+Dunapart AkÃ¡cos
+Dunapart MÃ¡lyva
 Dunaparti
 Dunapataj
-Dunasétány
+DunasÃ©tÃ¡ny
 Dunasor
 Dunaszeg
 Dunaszerdahelyi
-Dunaújvárosi
-Dunyov István
-Duránci
-Duskás Ferenc
-Dusóczky
-Dutka Ákos
+DunaÃºjvÃ¡rosi
+Dunyov IstvÃ¡n
+DurÃ¡nci
+DuskÃ¡s Ferenc
+DusÃ³czky
+Dutka Ãkos
 Duxler
-Duzzasztómû
-Dzsámi
+DuzzasztÃ³mÅ±
+DzsÃ¡mi
 E-5
-Écsy L.
-Éden
-Éder György
-Édes
-Édesanyák
-Édesvíz
-Égés
-Égésszer
-Éger
-Égererdõ
-Égerfa
-Égerfás
-Égervölgy
-Égetõ
-Égett-hegyi
-Égettvölgyi
-Égetvölgyi
-Éhen Gyula
-Ék
-Ékes
-Ékszer
-Élet
-Élmunkás
-Émály
-Émász
-Énekes
-Építész
-Építõ
-Építõk
-Építõk parkja
-Építõmunkás
-Ér
-Érc
-Ércbánya
-Ércbányász
-Érdem
-Érdi
-Érdmindszent
-Érem
-Érhát
-Érmellék
-Érmelléki
-Érmindszent
-Éroldal
-Érpart
-Érpatak
-Érsek
-Érsekkert
-Érsekújvár
-Érsekújvári
-Érsemlyéni
-Érsor
-Értem
-Értemen belül
-Észak
-Északi
-Északi Ipartelep II.
-Északi Temetõ
-Északi pályaudvar
-Északi sor
-Északmegyer
-Étkezde
-Éva
-Évakla
+Ã‰csy L.
+Ã‰den
+Ã‰der GyÃ¶rgy
+Ã‰des
+Ã‰desanyÃ¡k
+Ã‰desvÃ­z
+Ã‰gÃ©s
+Ã‰gÃ©sszer
+Ã‰ger
+Ã‰gererdÅ‘
+Ã‰gerfa
+Ã‰gerfÃ¡s
+Ã‰gervÃ¶lgy
+Ã‰getÅ‘
+Ã‰gett-hegyi
+Ã‰gettvÃ¶lgyi
+Ã‰getvÃ¶lgyi
+Ã‰hen Gyula
+Ã‰k
+Ã‰kes
+Ã‰kszer
+Ã‰let
+Ã‰lmunkÃ¡s
+Ã‰mÃ¡ly
+Ã‰mÃ¡sz
+Ã‰nekes
+Ã‰pÃ­tÃ©sz
+Ã‰pÃ­tÅ‘
+Ã‰pÃ­tÅ‘k
+Ã‰pÃ­tÅ‘k parkja
+Ã‰pÃ­tÅ‘munkÃ¡s
+Ã‰r
+Ã‰rc
+Ã‰rcbÃ¡nya
+Ã‰rcbÃ¡nyÃ¡sz
+Ã‰rdem
+Ã‰rdi
+Ã‰rdmindszent
+Ã‰rem
+Ã‰rhÃ¡t
+Ã‰rmellÃ©k
+Ã‰rmellÃ©ki
+Ã‰rmindszent
+Ã‰roldal
+Ã‰rpart
+Ã‰rpatak
+Ã‰rsek
+Ã‰rsekkert
+Ã‰rsekÃºjvÃ¡r
+Ã‰rsekÃºjvÃ¡ri
+Ã‰rsemlyÃ©ni
+Ã‰rsor
+Ã‰rtem
+Ã‰rtemen belÃ¼l
+Ã‰szak
+Ã‰szaki
+Ã‰szaki Ipartelep II.
+Ã‰szaki TemetÅ‘
+Ã‰szaki pÃ¡lyaudvar
+Ã‰szaki sor
+Ã‰szakmegyer
+Ã‰tkezde
+Ã‰va
+Ã‰vakla
 E5
-ELTE Üdülö
-E 5-ös
+ELTE ÃœdÃ¼lÃ¶
+E 5-Ã¶s
 E 51-es
-Ebédvesztõ
-Ebergény
-Ebergényi
+EbÃ©dvesztÅ‘
+EbergÃ©ny
+EbergÃ©nyi
 Ebes
 Ebespuszta
 Ebhegy
-Ebner György
-Ebszõnybánya Gábor Áron
-Ebszõnybánya Vájár
-Ebszõnybánya XVII.
+Ebner GyÃ¶rgy
+EbszÅ‘nybÃ¡nya GÃ¡bor Ãron
+EbszÅ‘nybÃ¡nya VÃ¡jÃ¡r
+EbszÅ‘nybÃ¡nya XVII.
 Ecet
 Ecetfa
-Ecker János
-Ecsér
-Ecsérhegy
+Ecker JÃ¡nos
+EcsÃ©r
+EcsÃ©rhegy
 Ecsed
-Ecsedháza
+EcsedhÃ¡za
 Ecsedi
-Ecsedi Géza
-Ecsedi István
-Ecsegfalva Halastó
+Ecsedi GÃ©za
+Ecsedi IstvÃ¡n
+Ecsegfalva HalastÃ³
 Ecsegi
 Ecseri
 Ede
@@ -3518,1831 +3518,1831 @@ Ederci
 Edina
 Edison
 Edit
-Edömér
-Eduárd
-Edvi Illés Aladár
-Edzõ
-Egészségház
+EdÃ¶mÃ©r
+EduÃ¡rd
+Edvi IllÃ©s AladÃ¡r
+EdzÅ‘
+EgÃ©szsÃ©ghÃ¡z
 Egecsei
-Egedhegyi Csomós
+Egedhegyi CsomÃ³s
 Eger
-Egerág
+EgerÃ¡g
 Egerbocs
 Egeredi
 Egerfa
-Egerszalók
+EgerszalÃ³k
 Egerszeg
 Egerszeghegyi
 Egerszegi
-Egervár
-Egervári
+EgervÃ¡r
+EgervÃ¡ri
 Egese
 Egregyi
 Egregyi hegy
 Egres
 Egressy
-Egressy Béni
-Egressy Gábor
-Egresvölgy
+Egressy BÃ©ni
+Egressy GÃ¡bor
+EgresvÃ¶lgy
 Egri
-Egri István
-Egri János
-Egri József
+Egri IstvÃ¡n
+Egri JÃ¡nos
+Egri JÃ³zsef
 Egri csillagok
 Egry
 Egry J.
-Egry János
-Egry József
+Egry JÃ¡nos
+Egry JÃ³zsef
 Egyedi
 Egyeduta
-Egyek-Telekháza
+Egyek-TelekhÃ¡za
 Egyenes
 Egyenesi
-Egyenlõség
+EgyenlÅ‘sÃ©g
 Egyes
-Egyetértés
+EgyetÃ©rtÃ©s
 Egyetem
-Egyetemváros
-Egyház
-Egyház völgy
+EgyetemvÃ¡ros
+EgyhÃ¡z
+EgyhÃ¡z vÃ¶lgy
 Egyletkert
 Egymalom
-Egység
+EgysÃ©g
 Egysori
 Eke
-Elágazás
+ElÃ¡gazÃ¡s
 Elek
-Elek János
-Elekfy Jenõ
+Elek JÃ¡nos
+Elekfy JenÅ‘
 Elem
-Elemér
-Eleonóra
+ElemÃ©r
+EleonÃ³ra
 Elep
 Elepi
 Elfenbein Bertalan
-Eliza lakópark
+Eliza lakÃ³park
 Ella
-Ellák
-Ellenõr
-Elnök
-Elöljáró
-Elõ
-Elõadó
-Elõd
-Elõd vezér
-Elõhegy
-Elõhegyi
-Elõkapu
-Elõpatak
-Elõre
-Elõszállási
-Elsõ
-Elsõházhely
-Elvíra
+EllÃ¡k
+EllenÅ‘r
+ElnÃ¶k
+ElÃ¶ljÃ¡rÃ³
+ElÅ‘
+ElÅ‘adÃ³
+ElÅ‘d
+ElÅ‘d vezÃ©r
+ElÅ‘hegy
+ElÅ‘hegyi
+ElÅ‘kapu
+ElÅ‘patak
+ElÅ‘re
+ElÅ‘szÃ¡llÃ¡si
+ElsÅ‘
+ElsÅ‘hÃ¡zhely
+ElvÃ­ra
 Elvira
 Elza
 Elzamajor
-Ember Pál
+Ember PÃ¡l
 Emese
-Emília
+EmÃ­lia
 Emil
-Emlék
-Emlékezés
-Emlékkõ
-Emlékmajor
+EmlÃ©k
+EmlÃ©kezÃ©s
+EmlÃ©kkÅ‘
+EmlÃ©kmajor
 Emma
-Emmaróza
-Emõd
-Emõdi Dániel
-Emõke
+EmmarÃ³za
+EmÅ‘d
+EmÅ‘di DÃ¡niel
+EmÅ‘ke
 Encsencsi
 Encsi
 Endes
 Endespuszta
 Endre
-Endrédi
-Endre király
-Endresz György
-Endrõdi
-Endrõdi S.
-Endrõdi Sándor
-Endrõdy Sándor
-Enge János
+EndrÃ©di
+Endre kirÃ¡ly
+Endresz GyÃ¶rgy
+EndrÅ‘di
+EndrÅ‘di S.
+EndrÅ‘di SÃ¡ndor
+EndrÅ‘dy SÃ¡ndor
+Enge JÃ¡nos
 Engel Adolf
-Engel János József
-Engelmann Pál
+Engel JÃ¡nos JÃ³zsef
+Engelmann PÃ¡l
 Engels
 Engels F
 Engels Frigyes
-Enikõ
-Entz Béla
+EnikÅ‘
+Entz BÃ©la
 Entz Ferenc
-Entz Géza
+Entz GÃ©za
 Enyedi
-Enyedi György
+Enyedi GyÃ¶rgy
 Enyezd
 Enying
 Enyingi
-Enyingi Török Bálint
-Eörsy Péter
-Eötvös
-Eötvös József
-Eötvös K.
-Eötvös Károly
-Eötvös Lóránd
-Eötvös Lóránt
-Eötvös Loránd
+Enyingi TÃ¶rÃ¶k BÃ¡lint
+EÃ¶rsy PÃ©ter
+EÃ¶tvÃ¶s
+EÃ¶tvÃ¶s JÃ³zsef
+EÃ¶tvÃ¶s K.
+EÃ¶tvÃ¶s KÃ¡roly
+EÃ¶tvÃ¶s LÃ³rÃ¡nd
+EÃ¶tvÃ¶s LÃ³rÃ¡nt
+EÃ¶tvÃ¶s LorÃ¡nd
 Eozin
 Eper
 Eperfa
-Eperfás
+EperfÃ¡s
 Eperjes
 Eperjesi
 Eperszem
 Epres
-Epreserdõ
+EpreserdÅ‘
 Epreskert
 Erbe barakk
 Ercsi
-Erdély
-Erdélyi
-Erdélyi Ferenc
-Erdélyi János
-Erdélyi József
-Erdért
-Erdész
-Erdész József
-Erdészet
-Erdészház
-Erdészkert
-Erdészlak
-Erdésztelep
+ErdÃ©ly
+ErdÃ©lyi
+ErdÃ©lyi Ferenc
+ErdÃ©lyi JÃ¡nos
+ErdÃ©lyi JÃ³zsef
+ErdÃ©rt
+ErdÃ©sz
+ErdÃ©sz JÃ³zsef
+ErdÃ©szet
+ErdÃ©szhÃ¡z
+ErdÃ©szkert
+ErdÃ©szlak
+ErdÃ©sztelep
 Erdei
 Erdei Ferenc
 Erdei iskola
 Erdei malom
-Erdõ
-Erdõ Csárda
-Erdõalja
-Erdõd
-Erdõdûlõ
-Erdõdy
-Erdõdy G
-Erdõföld
-Erdõfû
-Erdõhát
-Erdõháti
-Erdõhegy
-Erdõkerülõ
-Erdõkövesd
-Erdõkürt
-Erdõlak
-Erdõmajor
-Erdõõr
-Erdõrész
-Erdõs
-Erdõs Imre
-Erdõsáv
-Erdõsétány
-Erdõsi
-Erdõsi Imre
-Erdõsi Sylvester János
-Erdõsor
-Erdõstanya
-Erdõstarcsa
-Erdõszél
-Erdõszéle
-Erdõszéli
-Erdõtér
-Erdõtelek
-Erdõtelep
-Erdõtelki
-Erdõvári Ipartelep
+ErdÅ‘
+ErdÅ‘ CsÃ¡rda
+ErdÅ‘alja
+ErdÅ‘d
+ErdÅ‘dÅ±lÅ‘
+ErdÅ‘dy
+ErdÅ‘dy G
+ErdÅ‘fÃ¶ld
+ErdÅ‘fÅ±
+ErdÅ‘hÃ¡t
+ErdÅ‘hÃ¡ti
+ErdÅ‘hegy
+ErdÅ‘kerÃ¼lÅ‘
+ErdÅ‘kÃ¶vesd
+ErdÅ‘kÃ¼rt
+ErdÅ‘lak
+ErdÅ‘major
+ErdÅ‘Å‘r
+ErdÅ‘rÃ©sz
+ErdÅ‘s
+ErdÅ‘s Imre
+ErdÅ‘sÃ¡v
+ErdÅ‘sÃ©tÃ¡ny
+ErdÅ‘si
+ErdÅ‘si Imre
+ErdÅ‘si Sylvester JÃ¡nos
+ErdÅ‘sor
+ErdÅ‘stanya
+ErdÅ‘starcsa
+ErdÅ‘szÃ©l
+ErdÅ‘szÃ©le
+ErdÅ‘szÃ©li
+ErdÅ‘tÃ©r
+ErdÅ‘telek
+ErdÅ‘telep
+ErdÅ‘telki
+ErdÅ‘vÃ¡ri Ipartelep
 Ereki
-Ereklyés
-Ereklyési
-Erenyõ
+EreklyÃ©s
+EreklyÃ©si
+ErenyÅ‘
 Eresz
 Ereszalja
-Eresztényi
-Eresztvény
-Eresztvényi
-Ereszvény
-Ereszvények
+EresztÃ©nyi
+EresztvÃ©ny
+EresztvÃ©nyi
+EreszvÃ©ny
+EreszvÃ©nyek
 Erfurti
-Ergényi
+ErgÃ©nyi
 Erika
-Erkély
+ErkÃ©ly
 Erkel
 Erkel Ferenc
 Erkel Gyula
-Ernõ
-Ernõmajor
+ErnÅ‘
+ErnÅ‘major
 Ernst Abbe
 Ernuszt Kelemen
-Ernye Bán
+Ernye BÃ¡n
 Ernyei
-Ernyõ
+ErnyÅ‘
 Ernzt
-Erõd
-Erõmû
-Erõmûi
-Erõmûtelep
-Erõs János
-Erõs Lajos
-Erõss Lajos
+ErÅ‘d
+ErÅ‘mÅ±
+ErÅ‘mÅ±i
+ErÅ‘mÅ±telep
+ErÅ‘s JÃ¡nos
+ErÅ‘s Lajos
+ErÅ‘ss Lajos
 Erreth Lajos
 Ervin
-Erzsébet
-Erzsébet-hegyi
-Erzsébet királyné
-Erzsébeti
+ErzsÃ©bet
+ErzsÃ©bet-hegyi
+ErzsÃ©bet kirÃ¡lynÃ©
+ErzsÃ©beti
 Esed
 Esedi
-Eskü
-Esküdt
-Esküvõ
-Esõ
+EskÃ¼
+EskÃ¼dt
+EskÃ¼vÅ‘
+EsÅ‘
 Est
-Esterházy Antal
+EsterhÃ¡zy Antal
 Esthajnal
 Estike
-Eszék
-Eszéki
-Esze Tamás
-Eszlári
-Eszperantó
+EszÃ©k
+EszÃ©ki
+Esze TamÃ¡s
+EszlÃ¡ri
+EszperantÃ³
 Esztena
 Eszter
-Eszterágpuszta
-Esztergályos
-Esztergályos János
-Esztergár Lajos
-Esztergetõ
+EszterÃ¡gpuszta
+EsztergÃ¡lyos
+EsztergÃ¡lyos JÃ¡nos
+EsztergÃ¡r Lajos
+EsztergetÅ‘
 Esztergom
 Esztergomi
-Eszterházy
-Eszterházy Antal
-Eszteró
+EszterhÃ¡zy
+EszterhÃ¡zy Antal
+EszterÃ³
 Esztramos
 Ete
-Ete János
+Ete JÃ¡nos
 Etel
 Etele
 Etelka
-Etelka sori lõtér
-Etelköz
+Etelka sori lÅ‘tÃ©r
+EtelkÃ¶z
 Eternit
 Etyeki
-Európa
-Európa Tanács
+EurÃ³pa
+EurÃ³pa TanÃ¡cs
 Evetke
-Evezõ
-Evezõs
-Evezõspálya
-Ezerjó
-Ezerjófû
-Ezredév
+EvezÅ‘
+EvezÅ‘s
+EvezÅ‘spÃ¡lya
+EzerjÃ³
+EzerjÃ³fÅ±
+EzredÃ©v
 Ezredes
-Ezredvég
-Ezüskalász
-Ezüst
-Ezüstfenyõ
-Ezüsthegy
-Ezüsthegyi
-Ezüstkalász
-Fáber-rét
-Fábián
-Fábián Béla
-Fábián Gyula
-Fábián Pál
-Fábián Zoltán
-Fácán
-Fácánkert
-Fácánkerti telep
-Fácános
-Fácántelep
-Fáklya
-Fáncsi
-Fáni-major
-Fárikúti
-Fás
-Fáskert
-Fátra
-Fátyol
-Fátyolka
-Fátyolvirág
-Fáy
-Fáy András
-Fázis
-Facélia
-Fack Károly
+EzredvÃ©g
+EzÃ¼skalÃ¡sz
+EzÃ¼st
+EzÃ¼stfenyÅ‘
+EzÃ¼sthegy
+EzÃ¼sthegyi
+EzÃ¼stkalÃ¡sz
+FÃ¡ber-rÃ©t
+FÃ¡biÃ¡n
+FÃ¡biÃ¡n BÃ©la
+FÃ¡biÃ¡n Gyula
+FÃ¡biÃ¡n PÃ¡l
+FÃ¡biÃ¡n ZoltÃ¡n
+FÃ¡cÃ¡n
+FÃ¡cÃ¡nkert
+FÃ¡cÃ¡nkerti telep
+FÃ¡cÃ¡nos
+FÃ¡cÃ¡ntelep
+FÃ¡klya
+FÃ¡ncsi
+FÃ¡ni-major
+FÃ¡rikÃºti
+FÃ¡s
+FÃ¡skert
+FÃ¡tra
+FÃ¡tyol
+FÃ¡tyolka
+FÃ¡tyolvirÃ¡g
+FÃ¡y
+FÃ¡y AndrÃ¡s
+FÃ¡zis
+FacÃ©lia
+Fack KÃ¡roly
 Facsemete
 Faddi
-Faddivölgy
+FaddivÃ¶lgy
 Fadrusz
-Fadrusz János
-Fafeldolgozó 7
+Fadrusz JÃ¡nos
+FafeldolgozÃ³ 7
 Faggyas
 Fagyal
-Fagyalkás
-Fagyöngy
-Fahéj
+FagyalkÃ¡s
+FagyÃ¶ngy
+FahÃ©j
 Faiskola
 Fajansz
 Fajd
 Fajdos
 Fakan
-Fakavölgyi
-Faképi
-Fakopács
-Fakopáncs
+FakavÃ¶lgyi
+FakÃ©pi
+FakopÃ¡cs
+FakopÃ¡ncs
 Fakospuszta
 Falemez
-Falevél
+FalevÃ©l
 Falk Miksa
 Falka
-Faller Gusztáv
-Faller Jenõ
+Faller GusztÃ¡v
+Faller JenÅ‘
 Falu
 Falucs
 Faludi
 Faludi Ferenc
-Faluház
+FaluhÃ¡z
 Falukert
 Falukertje
-Faluközpont
-Falumúzeum
-Faluréti
+FalukÃ¶zpont
+FalumÃºzeum
+FalurÃ©ti
 Falusziget
-Faluvég
+FaluvÃ©g
 Fana
 Fancsal
 Fancsali
 Fancsika
 Fapiac
-Faragó
-Faragó Bálint
-Faragó Béla
-Faraguna-házak
-Faraktár
-Farbaky István
+FaragÃ³
+FaragÃ³ BÃ¡lint
+FaragÃ³ BÃ©la
+Faraguna-hÃ¡zak
+FaraktÃ¡r
+Farbaky IstvÃ¡n
 Farkas
 Farkas-sziget
 Farkas Antal
-Farkas Dávid
-Farkas István
-Farkas János
-Farkas Jenõ
-Farkas József
-Farkas Károly
-Farkas László
-Farkas Márton
-Farkas bíró
+Farkas DÃ¡vid
+Farkas IstvÃ¡n
+Farkas JÃ¡nos
+Farkas JenÅ‘
+Farkas JÃ³zsef
+Farkas KÃ¡roly
+Farkas LÃ¡szlÃ³
+Farkas MÃ¡rton
+Farkas bÃ­rÃ³
 Farkasalma
 Farkasbab
-Farkasbükk
+FarkasbÃ¼kk
 Farkasdi
-Farkaserdõ
+FarkaserdÅ‘
 Farkasfa
 Farkasfai
 Farkasfog
-Farkasháti
+FarkashÃ¡ti
 Farkashalom
 Farkashegy
 Farkashida
 Farkasi
-Farkaskõ
-Farkaskút
-Farkaskút puszta
+FarkaskÅ‘
+FarkaskÃºt
+FarkaskÃºt puszta
 Farkaslaka
-Farkasnyári
-Farkasréti
-Farkasszõlõ
-Farkastó
+FarkasnyÃ¡ri
+FarkasrÃ©ti
+FarkasszÅ‘lÅ‘
+FarkastÃ³
 Farkastorki
-Farkasvár
+FarkasvÃ¡r
 Farkasverem
 Farkasvermi
-Farkasvölgy
-Farkasvölgyi
+FarkasvÃ¶lgy
+FarkasvÃ¶lgyi
 Farmosi
 Fasor
 Fatelep
 Fatelepi
-Favágó
-Favári
+FavÃ¡gÃ³
+FavÃ¡ri
 Fazekas
-Fazekas Gábor
-Fazekas János
-Fazekas Mihály
+Fazekas GÃ¡bor
+Fazekas JÃ¡nos
+Fazekas MihÃ¡ly
 Fazekasvermi
 Fazola Henrik
-Féja Géza
-Fék
-Fél
-Félcsizma
-Félegyházi
-Félegyházi Tamás
-Félhegy
-Félhold
-Félix
-Féltoronyi
-Fém
-Fémmû
-Fény
-Fénycsõ
-Fényes
-Fényes-tanya
-Fényes Adolf
-Fényes Elek
-Fényeskút
-Fényesliget
-Fényespuszta
-Fényesvölgyi
-Fényezõ
-Fényi Gyula
-Fésû
-Fésûs
-Fészek
-Fészerlak
-Február 1.
+FÃ©ja GÃ©za
+FÃ©k
+FÃ©l
+FÃ©lcsizma
+FÃ©legyhÃ¡zi
+FÃ©legyhÃ¡zi TamÃ¡s
+FÃ©lhegy
+FÃ©lhold
+FÃ©lix
+FÃ©ltoronyi
+FÃ©m
+FÃ©mmÅ±
+FÃ©ny
+FÃ©nycsÅ‘
+FÃ©nyes
+FÃ©nyes-tanya
+FÃ©nyes Adolf
+FÃ©nyes Elek
+FÃ©nyeskÃºt
+FÃ©nyesliget
+FÃ©nyespuszta
+FÃ©nyesvÃ¶lgyi
+FÃ©nyezÅ‘
+FÃ©nyi Gyula
+FÃ©sÅ±
+FÃ©sÅ±s
+FÃ©szek
+FÃ©szerlak
+FebruÃ¡r 1.
 Fecske
 Fecskefarok
 Fecskekert
 Fecskepart
-Fedémesi
-Fedezék
-Fedics Mihály
+FedÃ©mesi
+FedezÃ©k
+Fedics MihÃ¡ly
 Fedor
 Fegyver
 Fegyveres
 Fegyvernek
-Fegyvertár
-Fehér
-Fehér Dániel
-Fehér Gábor
-Fehér Hajó
-Fehér Holló
-Fehér Imre
-Fehér Körös
-Fehér Sas
-Fehéragyaggödör
-Fehérakác
-Fehéraklai
-Fehérbézseny
-Fehéregyházi
-Fehérgyarmat
-Fehérhegy
-Fehérhegyi
-Fehérítõ
-Fehérítõgyár
-Fehérkereszt
-Fehérkõ
-Fehérkõ-lápa
-Fehérlaposi
-Fehérló
-Fehérmézes
-Fehérpart
-Fehértag
-Fehértemplom
-Fehértó
-Fehértói
-Fehérvári
-Fehérvári piac
-Fehérvíz
-Fehérvízi
+FegyvertÃ¡r
+FehÃ©r
+FehÃ©r DÃ¡niel
+FehÃ©r GÃ¡bor
+FehÃ©r HajÃ³
+FehÃ©r HollÃ³
+FehÃ©r Imre
+FehÃ©r KÃ¶rÃ¶s
+FehÃ©r Sas
+FehÃ©ragyaggÃ¶dÃ¶r
+FehÃ©rakÃ¡c
+FehÃ©raklai
+FehÃ©rbÃ©zseny
+FehÃ©regyhÃ¡zi
+FehÃ©rgyarmat
+FehÃ©rhegy
+FehÃ©rhegyi
+FehÃ©rÃ­tÅ‘
+FehÃ©rÃ­tÅ‘gyÃ¡r
+FehÃ©rkereszt
+FehÃ©rkÅ‘
+FehÃ©rkÅ‘-lÃ¡pa
+FehÃ©rlaposi
+FehÃ©rlÃ³
+FehÃ©rmÃ©zes
+FehÃ©rpart
+FehÃ©rtag
+FehÃ©rtemplom
+FehÃ©rtÃ³
+FehÃ©rtÃ³i
+FehÃ©rvÃ¡ri
+FehÃ©rvÃ¡ri piac
+FehÃ©rvÃ­z
+FehÃ©rvÃ­zi
 Feitig Imre
-Fejér György
-Fejér József
-Fejér Lipót
+FejÃ©r GyÃ¶rgy
+FejÃ©r JÃ³zsef
+FejÃ©r LipÃ³t
 Fejedelem
-Fejes István
-Fejlõdés
+Fejes IstvÃ¡n
+FejlÅ‘dÃ©s
 Fejsze
 Feket-szeg
 Fekete
 Fekete-hegy
-Fekete István
-Fekete László
+Fekete IstvÃ¡n
+Fekete LÃ¡szlÃ³
 Fekete Lajos
 Fekete Sas
-Fekete rét
-Feketebács
-Feketebézseny
+Fekete rÃ©t
+FeketebÃ¡cs
+FeketebÃ©zseny
 Feketeerdei
 Feketefej
-Feketefenyõ
-Feketeföldi
-Feketegyémánt
+FeketefenyÅ‘
+FeketefÃ¶ldi
+FeketegyÃ©mÃ¡nt
 Feketehalom
 Feketehegy
 Feketehida
-Feketerész
-Feketerét
-Feketerigó
+FeketerÃ©sz
+FeketerÃ©t
+FeketerigÃ³
 Feketesas
-Feketevárosi
-Feketevíz
-Felber István
-Felcsúti
-Feldebrõ
+FeketevÃ¡rosi
+FeketevÃ­z
+Felber IstvÃ¡n
+FelcsÃºti
+FeldebrÅ‘
 Feledi
-Felház
-Felhévízi
-Felhõ
-Feljáró
+FelhÃ¡z
+FelhÃ©vÃ­zi
+FelhÅ‘
+FeljÃ¡rÃ³
 Felka
 Felkeszi
 Felleg
-Fellegvár
+FellegvÃ¡r
 Fellner
 Fellner Jakab
-Felmezõ
-Felpéci
-Felsõ
-Felsõ-Duna
-Felsõ-Erzsébet
-Felsõ-Kenderes
-Felsõ-Lovarda
-Felsõ-Vasdinnye
-Felsõ-máli
-Felsõ-rév
-Felsõ Bölcske
-Felsõ Dunasor
-Felsõ Homokerdõ
-Felsõ Kálvária
-Felsõ Kikötõ
-Felsõ Sas
-Felsõ Svábhegyi
-Felsõ Tisza-part
-Felsõ Zöldmáli
-Felsõ erdõsor
-Felsõ fok
-Felsõ malom
-Felsõ vasút
-Felsõ villasor
-Felsõárokhegy
-Felsõadacs
-Felsõalpár
-Felsõaranyod
-Felsõbánya
-Felsõbányai
-Felsõbalokány
-Felsõbénye
-Felsõbogátpuszta
-Felsõbüki Nagy Pál
-Felsõbuda
-Felsõcsalános
-Felsõcsatári
-Felsõcsetény
-Felsõdobos
-Felsõérpart
-Felsõegerszeg
-Felsõerdõ
-Felsõerdõsor
-Felsõfalu
-Felsõföld
-Felsõföldi
-Felsõgalla
-Felsõgallai
-Felsõgazdag
-Felsõgyár
-Felsõgyep
-Felsõgyükés
-Felsõgyükési
-Felsõhatár
-Felsõhavi
-Felsõhegy
-Felsõhegyi
-Felsõjárás
-Felsõjózsai
-Felsõkanda
-Felsõkara
-Felsõkert
-Felsõköröspart
-Felsõkövesd
-Felsõköz
-Felsõkomárnok
-Felsõkopaszhegyi
-Felsõlajos
-Felsõlókert
-Felsõlõvér
-Felsõmajor
-Felsõmakár
-Felsõmalom
-Felsõmezõ
-Felsõmonostor
-Felsõmuskátli
-Felsõnyirvár
-Felsõnyomás
-Felsõóvár
-Felsõörs
-Felsõötház
-Felsõõr
-Felsõõrház
-Felsõõri
-Felsõpáhoki
-Felsõpást
-Felsõpatak
-Felsõpércsi
-Felsõpincesor
-Felsõrész
-Felsõrészi
-Felsõrészi-nyomás
-Felsõruzsin
-Felsõsima
-Felsõsós tanyák
-Felsõsóskút
-Felsõsötét
-Felsõsomlyó
-Felsõsor
-Felsõszéktó
-Felsõszérûk
-Felsõszenttamás
-Felsõszer
-Felsõszeri
-Felsõszikla
-Felsõszinva
-Felsõszõlõ
-Felsõszõlõk
-Felsõtabán
-Felsõtelek
-Felsõtelep
-Felsõtelki
-Felsõtemetõ
-Felsõtengelic
-Felsõújsor
-Felsõvámház
-Felsõvár
-Felsõvölgyi
-Felsõzsák
-Felsõzsólyomka
-Felszabadítók
-Felszabadulás
+FelmezÅ‘
+FelpÃ©ci
+FelsÅ‘
+FelsÅ‘-Duna
+FelsÅ‘-ErzsÃ©bet
+FelsÅ‘-Kenderes
+FelsÅ‘-Lovarda
+FelsÅ‘-Vasdinnye
+FelsÅ‘-mÃ¡li
+FelsÅ‘-rÃ©v
+FelsÅ‘ BÃ¶lcske
+FelsÅ‘ Dunasor
+FelsÅ‘ HomokerdÅ‘
+FelsÅ‘ KÃ¡lvÃ¡ria
+FelsÅ‘ KikÃ¶tÅ‘
+FelsÅ‘ Sas
+FelsÅ‘ SvÃ¡bhegyi
+FelsÅ‘ Tisza-part
+FelsÅ‘ ZÃ¶ldmÃ¡li
+FelsÅ‘ erdÅ‘sor
+FelsÅ‘ fok
+FelsÅ‘ malom
+FelsÅ‘ vasÃºt
+FelsÅ‘ villasor
+FelsÅ‘Ã¡rokhegy
+FelsÅ‘adacs
+FelsÅ‘alpÃ¡r
+FelsÅ‘aranyod
+FelsÅ‘bÃ¡nya
+FelsÅ‘bÃ¡nyai
+FelsÅ‘balokÃ¡ny
+FelsÅ‘bÃ©nye
+FelsÅ‘bogÃ¡tpuszta
+FelsÅ‘bÃ¼ki Nagy PÃ¡l
+FelsÅ‘buda
+FelsÅ‘csalÃ¡nos
+FelsÅ‘csatÃ¡ri
+FelsÅ‘csetÃ©ny
+FelsÅ‘dobos
+FelsÅ‘Ã©rpart
+FelsÅ‘egerszeg
+FelsÅ‘erdÅ‘
+FelsÅ‘erdÅ‘sor
+FelsÅ‘falu
+FelsÅ‘fÃ¶ld
+FelsÅ‘fÃ¶ldi
+FelsÅ‘galla
+FelsÅ‘gallai
+FelsÅ‘gazdag
+FelsÅ‘gyÃ¡r
+FelsÅ‘gyep
+FelsÅ‘gyÃ¼kÃ©s
+FelsÅ‘gyÃ¼kÃ©si
+FelsÅ‘hatÃ¡r
+FelsÅ‘havi
+FelsÅ‘hegy
+FelsÅ‘hegyi
+FelsÅ‘jÃ¡rÃ¡s
+FelsÅ‘jÃ³zsai
+FelsÅ‘kanda
+FelsÅ‘kara
+FelsÅ‘kert
+FelsÅ‘kÃ¶rÃ¶spart
+FelsÅ‘kÃ¶vesd
+FelsÅ‘kÃ¶z
+FelsÅ‘komÃ¡rnok
+FelsÅ‘kopaszhegyi
+FelsÅ‘lajos
+FelsÅ‘lÃ³kert
+FelsÅ‘lÅ‘vÃ©r
+FelsÅ‘major
+FelsÅ‘makÃ¡r
+FelsÅ‘malom
+FelsÅ‘mezÅ‘
+FelsÅ‘monostor
+FelsÅ‘muskÃ¡tli
+FelsÅ‘nyirvÃ¡r
+FelsÅ‘nyomÃ¡s
+FelsÅ‘Ã³vÃ¡r
+FelsÅ‘Ã¶rs
+FelsÅ‘Ã¶thÃ¡z
+FelsÅ‘Å‘r
+FelsÅ‘Å‘rhÃ¡z
+FelsÅ‘Å‘ri
+FelsÅ‘pÃ¡hoki
+FelsÅ‘pÃ¡st
+FelsÅ‘patak
+FelsÅ‘pÃ©rcsi
+FelsÅ‘pincesor
+FelsÅ‘rÃ©sz
+FelsÅ‘rÃ©szi
+FelsÅ‘rÃ©szi-nyomÃ¡s
+FelsÅ‘ruzsin
+FelsÅ‘sima
+FelsÅ‘sÃ³s tanyÃ¡k
+FelsÅ‘sÃ³skÃºt
+FelsÅ‘sÃ¶tÃ©t
+FelsÅ‘somlyÃ³
+FelsÅ‘sor
+FelsÅ‘szÃ©ktÃ³
+FelsÅ‘szÃ©rÅ±k
+FelsÅ‘szenttamÃ¡s
+FelsÅ‘szer
+FelsÅ‘szeri
+FelsÅ‘szikla
+FelsÅ‘szinva
+FelsÅ‘szÅ‘lÅ‘
+FelsÅ‘szÅ‘lÅ‘k
+FelsÅ‘tabÃ¡n
+FelsÅ‘telek
+FelsÅ‘telep
+FelsÅ‘telki
+FelsÅ‘temetÅ‘
+FelsÅ‘tengelic
+FelsÅ‘Ãºjsor
+FelsÅ‘vÃ¡mhÃ¡z
+FelsÅ‘vÃ¡r
+FelsÅ‘vÃ¶lgyi
+FelsÅ‘zsÃ¡k
+FelsÅ‘zsÃ³lyomka
+FelszabadÃ­tÃ³k
+FelszabadulÃ¡s
 Felszegi
 Felszopori
-Felügyelõ
-Felüljáró
-Felvég
-Felvégi
-Felvidék
-Felvidéki
-Felvigyázó
+FelÃ¼gyelÅ‘
+FelÃ¼ljÃ¡rÃ³
+FelvÃ©g
+FelvÃ©gi
+FelvidÃ©k
+FelvidÃ©ki
+FelvigyÃ¡zÃ³
 Felvinci
-Fenék
-Fenéki
-Fenékpuszta
-Fennsík
+FenÃ©k
+FenÃ©ki
+FenÃ©kpuszta
+FennsÃ­k
 Fenye
 Fenyer
 Fenyes
-Fenyõ
-Fenyõerdõ
-Fenyõfa
-Fenyõpinty
-Fenyõrigó
-Fenyõs
-Fenyõsalja
-Fenyõsétány
-Fenyõsi
-Fenyõsor
-Fenyõspuszta
-Fenyõszer
-Fenyõtoboz
+FenyÅ‘
+FenyÅ‘erdÅ‘
+FenyÅ‘fa
+FenyÅ‘pinty
+FenyÅ‘rigÃ³
+FenyÅ‘s
+FenyÅ‘salja
+FenyÅ‘sÃ©tÃ¡ny
+FenyÅ‘si
+FenyÅ‘sor
+FenyÅ‘spuszta
+FenyÅ‘szer
+FenyÅ‘toboz
 Fenyves
-Fenyves-Lejtõ
+Fenyves-LejtÅ‘
 Fenyvesalja
 Fenyvesi
 Ferde
-Ferdinánd
+FerdinÃ¡nd
 Ferenc
-Ferenc körúti aluljáró
+Ferenc kÃ¶rÃºti aluljÃ¡rÃ³
 Ferencbokor
 Ferencesek
 Ferenchegyi
 Ferenciek
-Ferenciek tere A aluljáró
+Ferenciek tere A aluljÃ¡rÃ³
 Ferencmajor
 Ferencsik
 Ferencsik J.
-Ferencsik János
+Ferencsik JÃ¡nos
 Ferenctanya
 Ferenctelep
-Ferencvárosi
-Ferenczi Sándor
+FerencvÃ¡rosi
+Ferenczi SÃ¡ndor
 Ferenczy
-Ferenczy Béla
-Ferenczy Béni
+Ferenczy BÃ©la
+Ferenczy BÃ©ni
 Ferenczy Ida
-Ferenczy István
-Ferenczy János
-Ferenczy Károly
-Ferenczy Sándor
+Ferenczy IstvÃ¡n
+Ferenczy JÃ¡nos
+Ferenczy KÃ¡roly
+Ferenczy SÃ¡ndor
 Fergeteg
 Ferihegy 1
 Ferihegy 9
 Ferihegy l
 Ferihegyi
-Ferihegyi repülõtérre vezetõ
-Fertály
-Fertályos
-Fertõ
-Fertõ-tó
-Fertõbánya
-Fertõdi
-Fertõsor
-Fertõszentmiklósi
+Ferihegyi repÃ¼lÅ‘tÃ©rre vezetÅ‘
+FertÃ¡ly
+FertÃ¡lyos
+FertÅ‘
+FertÅ‘-tÃ³
+FertÅ‘bÃ¡nya
+FertÅ‘di
+FertÅ‘sor
+FertÅ‘szentmiklÃ³si
 Festetich
 Festetics
-Festetics György
-Festõ
+Festetics GyÃ¶rgy
+FestÅ‘
 Feszty
-Feszty Árpád
-Fiákeres
-Fiáth György
-Fiáth János
-Fiastyúk
-Fiatalság
-Fillér
-Filó Lajos
+Feszty ÃrpÃ¡d
+FiÃ¡keres
+FiÃ¡th GyÃ¶rgy
+FiÃ¡th JÃ¡nos
+FiastyÃºk
+FiatalsÃ¡g
+FillÃ©r
+FilÃ³ Lajos
 Finkei
-Finkey József
+Finkey JÃ³zsef
 Finn
 Finta
 Fintor-tag
 Fischer
-Fischer Béla
-Fischer István
-Fiskális
-Fiúági
+Fischer BÃ©la
+Fischer IstvÃ¡n
+FiskÃ¡lis
+FiÃºÃ¡gi
 Fiume
 Fiumei
-Fivér
-Fizetõstrand
+FivÃ©r
+FizetÅ‘strand
 Fizika
 Flach Imre
-Flamingó
+FlamingÃ³
 Fleischmann R
 Fleming
-Flesch Károly
-Flór Ferenc
-Flóra
-Flórasi
-Flórián
-Flórián István
-Flórián téri
-Flórikert
+Flesch KÃ¡roly
+FlÃ³r Ferenc
+FlÃ³ra
+FlÃ³rasi
+FlÃ³riÃ¡n
+FlÃ³riÃ¡n IstvÃ¡n
+FlÃ³riÃ¡n tÃ©ri
+FlÃ³rikert
 Florianna
 Flottilla
-Fóka
-Fónagyság
-Fóti
-Föld
-Földeák
-Földes
-Földes Ferenc
-Földes Gábor
-Földesi
-Földesi útfél
-Földespuszta
-Földi
-Földi János
-Földmíves
-Földmûves
-Földmunkás
-Földosztás
-Földreform
-Földvár
-Földvárhalom
-Földvári
-Földvári G.
-Földváry
-Földváry Károly
-Fölszél
-Föltámadás
-Förhénc
-Fövényszer
-Fövényverem
-Föveny
-Fõ
-Fõ út alsó
-Fõ út felsõ
-Fõhadnagy
-Fõmajor
-Fõpályaudvar
-Fõtaxi üdülõ
-Fõtér
-Fõvám
-Fõvég
-Fõzde
+FÃ³ka
+FÃ³nagysÃ¡g
+FÃ³ti
+FÃ¶ld
+FÃ¶ldeÃ¡k
+FÃ¶ldes
+FÃ¶ldes Ferenc
+FÃ¶ldes GÃ¡bor
+FÃ¶ldesi
+FÃ¶ldesi ÃºtfÃ©l
+FÃ¶ldespuszta
+FÃ¶ldi
+FÃ¶ldi JÃ¡nos
+FÃ¶ldmÃ­ves
+FÃ¶ldmÅ±ves
+FÃ¶ldmunkÃ¡s
+FÃ¶ldosztÃ¡s
+FÃ¶ldreform
+FÃ¶ldvÃ¡r
+FÃ¶ldvÃ¡rhalom
+FÃ¶ldvÃ¡ri
+FÃ¶ldvÃ¡ri G.
+FÃ¶ldvÃ¡ry
+FÃ¶ldvÃ¡ry KÃ¡roly
+FÃ¶lszÃ©l
+FÃ¶ltÃ¡madÃ¡s
+FÃ¶rhÃ©nc
+FÃ¶vÃ©nyszer
+FÃ¶vÃ©nyverem
+FÃ¶veny
+FÅ‘
+FÅ‘ Ãºt alsÃ³
+FÅ‘ Ãºt felsÅ‘
+FÅ‘hadnagy
+FÅ‘major
+FÅ‘pÃ¡lyaudvar
+FÅ‘taxi Ã¼dÃ¼lÅ‘
+FÅ‘tÃ©r
+FÅ‘vÃ¡m
+FÅ‘vÃ©g
+FÅ‘zde
 Fodor
-Fodor József
+Fodor JÃ³zsef
 Fodormenta
 Fodorszer
-Fodrász
+FodrÃ¡sz
 Fodros
-Fogadó
-Fogalmazó
+FogadÃ³
+FogalmazÃ³
 Fogaras
 Fogarasi
 Fogarassi
 Fogas
-Fogaskerekû
+FogaskerekÅ±
 Fogat
-Foglár
-Foglár György
-Foglár csatorna
-Fogócska
+FoglÃ¡r
+FoglÃ¡r GyÃ¶rgy
+FoglÃ¡r csatorna
+FogÃ³cska
 Fogoly
-Fogthüy
+FogthÃ¼y
 Fok
 Foki
-Foki szõlõhegy
-Fokorú Puszta
+Foki szÅ‘lÅ‘hegy
+FokorÃº Puszta
 Fokos
-Folyás
-Folyamõr
+FolyÃ¡s
+FolyamÅ‘r
 Folyamos
-Folyandár
-Folyó
-Folyóka
-Folyópart
-Folyondár
+FolyandÃ¡r
+FolyÃ³
+FolyÃ³ka
+FolyÃ³part
+FolyondÃ¡r
 Fonal
 Fonatos
-Fonó
-Fonógyári
+FonÃ³
+FonÃ³gyÃ¡ri
 Fonoda
-Fonyód
-Fonyódi
-Fonyódi külsõ
-Forbát Alfréd
-Forberger László
-Forduló
-Forgách
-Forgách Antal
-Forgács
-Forgács Antal
-Forgács Endre
-Forgács tanya
-Forgó
+FonyÃ³d
+FonyÃ³di
+FonyÃ³di kÃ¼lsÅ‘
+ForbÃ¡t AlfrÃ©d
+Forberger LÃ¡szlÃ³
+FordulÃ³
+ForgÃ¡ch
+ForgÃ¡ch Antal
+ForgÃ¡cs
+ForgÃ¡cs Antal
+ForgÃ¡cs Endre
+ForgÃ¡cs tanya
+ForgÃ³
 Forint
-Forintos Mátyás
-Formás
-Fornád
+Forintos MÃ¡tyÃ¡s
+FormÃ¡s
+FornÃ¡d
 Fornai
 Fornapuszta
-Forrás
-Forrásföldi
-Forrási
-Forráskút
-Forrásliget lakópark
-Forrásmajor
-Forráspart
-Forrástanya
-Forrásvölgy
+ForrÃ¡s
+ForrÃ¡sfÃ¶ldi
+ForrÃ¡si
+ForrÃ¡skÃºt
+ForrÃ¡sliget lakÃ³park
+ForrÃ¡smajor
+ForrÃ¡spart
+ForrÃ¡stanya
+ForrÃ¡svÃ¶lgy
 Forradalom
 Forrai
-Forró
-Forró Elek
+ForrÃ³
+ForrÃ³ Elek
 Fortuna
-Fráter Erzsébet
-Fráter György
-Fráter Lóránt
-Fraknó
-Fraknói
+FrÃ¡ter ErzsÃ©bet
+FrÃ¡ter GyÃ¶rgy
+FrÃ¡ter LÃ³rÃ¡nt
+FraknÃ³
+FraknÃ³i
 Francia
 Franciska
 Franciska puszta
-Frangepán
-Frangepán Miklós
+FrangepÃ¡n
+FrangepÃ¡n MiklÃ³s
 Frank
 Frank Tivadar
-Frankel Leó
+Frankel LeÃ³
 Frankenburg
 Frankhegy
 Franklin
 Franklin Benjamin
-Frézia
+FrÃ©zia
 Frigyes
 Friss
-Fúró
-Füge
-Fügedy János
-Fügefa
-Függetlenség
-Függvény
-Füle
-Fülek
-Füleki
-Füleki András
-Füleki Sándor
-Fülemile
-Fülemüle
-Fülep József
-Fülep Lajos
-Fülesbagoly
-Fülesi
-Fülöp
-Fülöp József
-Fülöpi
-Fülöpszállás
-Fülöpsziget
-Fürdõ
-Fürdõ akácos
-Fürdõ fõ
-Fürdõ gyöngyvirág
-Fürdõ szegfû
-Fürdõ telep
-Fürdõház
-Fürdõhely
-Fürdõsor
-Fürdõtelep
-Fürdõtelepi
-Füredi
-Füredi László
-Fürge
-Fürj
-Fürjész
-Fürjes
-Fürjhalom
-Fürst
-Fürst Sándor
-Fürt
-Fürtös
-Füst
-Füst Milán
-Füsti
-Füstifecske
-Füstike
-Füstösdomb
-Fütõház
-Füttyös
-Füvészkert
-Füves
-Füveskert
-Füvestó
-Füzér
-Füzérvári
-Füzes
-Füzesabony
-Füzesabonyi
-Füzesbokor
-Füzesér
-Füzesgyarmati
-Füzesi
-Füzespark
-Füzespatak
-Füzihegy
-Füzike
-Fûrész
-Fûrészelõ
-Fûrészmalom
-Fûrésztelep
-Fûrészüzem
-Fûszer
-Fûtõ
-Fûtõház
-Fûtõmû
-Fûvészkert
-Fûz
-Fûzesi
-Fûzfa
-Fûzfás
-Fûzfasor
-Fûzfõ
-Fûzfõgyártelep
-Fûzkúti
-Fûztelep
-Fuchs-szõlõ
-Fulcó deák
-Fullánk
-Furkótelep
+FÃºrÃ³
+FÃ¼ge
+FÃ¼gedy JÃ¡nos
+FÃ¼gefa
+FÃ¼ggetlensÃ©g
+FÃ¼ggvÃ©ny
+FÃ¼le
+FÃ¼lek
+FÃ¼leki
+FÃ¼leki AndrÃ¡s
+FÃ¼leki SÃ¡ndor
+FÃ¼lemile
+FÃ¼lemÃ¼le
+FÃ¼lep JÃ³zsef
+FÃ¼lep Lajos
+FÃ¼lesbagoly
+FÃ¼lesi
+FÃ¼lÃ¶p
+FÃ¼lÃ¶p JÃ³zsef
+FÃ¼lÃ¶pi
+FÃ¼lÃ¶pszÃ¡llÃ¡s
+FÃ¼lÃ¶psziget
+FÃ¼rdÅ‘
+FÃ¼rdÅ‘ akÃ¡cos
+FÃ¼rdÅ‘ fÅ‘
+FÃ¼rdÅ‘ gyÃ¶ngyvirÃ¡g
+FÃ¼rdÅ‘ szegfÅ±
+FÃ¼rdÅ‘ telep
+FÃ¼rdÅ‘hÃ¡z
+FÃ¼rdÅ‘hely
+FÃ¼rdÅ‘sor
+FÃ¼rdÅ‘telep
+FÃ¼rdÅ‘telepi
+FÃ¼redi
+FÃ¼redi LÃ¡szlÃ³
+FÃ¼rge
+FÃ¼rj
+FÃ¼rjÃ©sz
+FÃ¼rjes
+FÃ¼rjhalom
+FÃ¼rst
+FÃ¼rst SÃ¡ndor
+FÃ¼rt
+FÃ¼rtÃ¶s
+FÃ¼st
+FÃ¼st MilÃ¡n
+FÃ¼sti
+FÃ¼stifecske
+FÃ¼stike
+FÃ¼stÃ¶sdomb
+FÃ¼tÅ‘hÃ¡z
+FÃ¼ttyÃ¶s
+FÃ¼vÃ©szkert
+FÃ¼ves
+FÃ¼veskert
+FÃ¼vestÃ³
+FÃ¼zÃ©r
+FÃ¼zÃ©rvÃ¡ri
+FÃ¼zes
+FÃ¼zesabony
+FÃ¼zesabonyi
+FÃ¼zesbokor
+FÃ¼zesÃ©r
+FÃ¼zesgyarmati
+FÃ¼zesi
+FÃ¼zespark
+FÃ¼zespatak
+FÃ¼zihegy
+FÃ¼zike
+FÅ±rÃ©sz
+FÅ±rÃ©szelÅ‘
+FÅ±rÃ©szmalom
+FÅ±rÃ©sztelep
+FÅ±rÃ©szÃ¼zem
+FÅ±szer
+FÅ±tÅ‘
+FÅ±tÅ‘hÃ¡z
+FÅ±tÅ‘mÅ±
+FÅ±vÃ©szkert
+FÅ±z
+FÅ±zesi
+FÅ±zfa
+FÅ±zfÃ¡s
+FÅ±zfasor
+FÅ±zfÅ‘
+FÅ±zfÅ‘gyÃ¡rtelep
+FÅ±zkÃºti
+FÅ±ztelep
+Fuchs-szÅ‘lÅ‘
+FulcÃ³ deÃ¡k
+FullÃ¡nk
+FurkÃ³telep
 Furmint
 Furtai
 Furulya
 Furumit
 Furus
-Futár
-Futó
-Futódomb
-Futórózsa
+FutÃ¡r
+FutÃ³
+FutÃ³domb
+FutÃ³rÃ³zsa
 Futora
 Futrinka
 Fuvallat
 Fuvaros
 Fuvola
-Gábor
-Gábor Áron
-Gábor Andor
-Gábor B.
-Gábor Béla
-Gábor Pál
-Gáborjáni
-Gáborjáni Szabó Kálmán
-Gács
-Gácsi
-Gádor
-Gádor Béla
-Gádoros
-Gál
-Gál-Völgye
-Gál-kút
-Gál István
-Gál S.
-Gál Sándor
-Gál ispán
-Gálafej
-Gálffy Ignác
-Gálhegy
-Gálic
-Gáll Ferenc
-Gálosi Soma
-Gálrétje
-Gálya
-Gáma
-Gánti
-Gányás
-Gárda
-Gárdi Jenõ
-Gárdonhegy
-Gárdonyi
-Gárdonyi Géza
-Gárdos Mariska
-Gáspár
-Gáspár András
-Gáspár Endre
-Gáspár György
-Gáspár György kert
-Gáspár György kert Lépesméz
-Gáspár Zoltán
-Gát
-Gátfutó
-Gáti
-Gáti György
-Gátõr
-Gátõrház
-Gátõrházak
-Gávai
-Gáz
-Gázgyár
-Gázgyári
-Gázgyûjtõ
-Gázláng
-Gázló
-Gázlópuszta
-Gázvezeték
-Gaál Gaszton
-Gaál István
-Gaál József
-Gaál Kálmán
-Gaál Miklós
-Gaál Zsigmond
+GÃ¡bor
+GÃ¡bor Ãron
+GÃ¡bor Andor
+GÃ¡bor B.
+GÃ¡bor BÃ©la
+GÃ¡bor PÃ¡l
+GÃ¡borjÃ¡ni
+GÃ¡borjÃ¡ni SzabÃ³ KÃ¡lmÃ¡n
+GÃ¡cs
+GÃ¡csi
+GÃ¡dor
+GÃ¡dor BÃ©la
+GÃ¡doros
+GÃ¡l
+GÃ¡l-VÃ¶lgye
+GÃ¡l-kÃºt
+GÃ¡l IstvÃ¡n
+GÃ¡l S.
+GÃ¡l SÃ¡ndor
+GÃ¡l ispÃ¡n
+GÃ¡lafej
+GÃ¡lffy IgnÃ¡c
+GÃ¡lhegy
+GÃ¡lic
+GÃ¡ll Ferenc
+GÃ¡losi Soma
+GÃ¡lrÃ©tje
+GÃ¡lya
+GÃ¡ma
+GÃ¡nti
+GÃ¡nyÃ¡s
+GÃ¡rda
+GÃ¡rdi JenÅ‘
+GÃ¡rdonhegy
+GÃ¡rdonyi
+GÃ¡rdonyi GÃ©za
+GÃ¡rdos Mariska
+GÃ¡spÃ¡r
+GÃ¡spÃ¡r AndrÃ¡s
+GÃ¡spÃ¡r Endre
+GÃ¡spÃ¡r GyÃ¶rgy
+GÃ¡spÃ¡r GyÃ¶rgy kert
+GÃ¡spÃ¡r GyÃ¶rgy kert LÃ©pesmÃ©z
+GÃ¡spÃ¡r ZoltÃ¡n
+GÃ¡t
+GÃ¡tfutÃ³
+GÃ¡ti
+GÃ¡ti GyÃ¶rgy
+GÃ¡tÅ‘r
+GÃ¡tÅ‘rhÃ¡z
+GÃ¡tÅ‘rhÃ¡zak
+GÃ¡vai
+GÃ¡z
+GÃ¡zgyÃ¡r
+GÃ¡zgyÃ¡ri
+GÃ¡zgyÅ±jtÅ‘
+GÃ¡zlÃ¡ng
+GÃ¡zlÃ³
+GÃ¡zlÃ³puszta
+GÃ¡zvezetÃ©k
+GaÃ¡l Gaszton
+GaÃ¡l IstvÃ¡n
+GaÃ¡l JÃ³zsef
+GaÃ¡l KÃ¡lmÃ¡n
+GaÃ¡l MiklÃ³s
+GaÃ¡l Zsigmond
 Gabella
 Gabona
 Gabriella
-Gacsályi
+GacsÃ¡lyi
 Gacsal
-Gadó
+GadÃ³
 Gagarin
 Gaja
-Gajavölgy
+GajavÃ¶lgy
 Gala
-Galántai
+GalÃ¡ntai
 Galagonya
-Galagonyás
+GalagonyÃ¡s
 Galamb
-Galambház
-Galambóc
+GalambhÃ¡z
+GalambÃ³c
 Galambos
 Galambospuszta
 Galambszer
 Galeotti
 Galerius
 Galga
-Galgahévíz
-Galgó
-Galgóci
-Galgócz
-Galgóczy
-Galgóczy Károly
+GalgahÃ©vÃ­z
+GalgÃ³
+GalgÃ³ci
+GalgÃ³cz
+GalgÃ³czy
+GalgÃ³czy KÃ¡roly
 Galimberti
 Gall
-Gallér
+GallÃ©r
 Gallya
-Galóca
+GalÃ³ca
 Galopp
 Galvani
-Gamásza
+GamÃ¡sza
 Ganz
-Ganz Ábrahám
+Ganz ÃbrahÃ¡m
 Ganzer
-Garázs
+GarÃ¡zs
 Garadna puszta
-Garadna völgy
+Garadna vÃ¶lgy
 Garai
-Garai Ákos
-Garai János
-Garai Zoltán
+Garai Ãkos
+Garai JÃ¡nos
+Garai ZoltÃ¡n
 Garam
-Garami Ernõ
-Garamvölgyi
+Garami ErnÅ‘
+GaramvÃ¶lgyi
 Garancsi
-Garancsliget lakópark
+Garancsliget lakÃ³park
 Garas
-Garas Sámuel
+Garas SÃ¡muel
 Garat
 Garay
-Garay János
-Garay László
-Garay téri piac
-Garbai Sándor
+Garay JÃ¡nos
+Garay LÃ¡szlÃ³
+Garay tÃ©ri piac
+Garbai SÃ¡ndor
 Gargya
 Garibaldi
 Garmada
 Gartai
 Gasparich
-Gasparich Márk
+Gasparich MÃ¡rk
 Gass
 Gauzer
 Gazda
-Gazdálkodó
-Gazdász
+GazdÃ¡lkodÃ³
+GazdÃ¡sz
 Gazdag Erzsi
-Gazdagréti
-Gazdakör
-Gazdaság
-Gazdasági
+GazdagrÃ©ti
+GazdakÃ¶r
+GazdasÃ¡g
+GazdasÃ¡gi
 Gazella
-Gébárti
-Géberjéni
-Gébics
-Géci
-Géczi hegy
-Géczy István
-Géczy József
-Géfin Gyula
-Gém
-Gémes
-Gémeskert
-Gémeskút
-Gép
-Gépállomás
-Gépész
-Gépészeti
-Gépgyár
-Gépíró
-Gépjavító
-Gépmadár
-Gépmûhely
-Géptelep
-Géresi
-Géva
-Gévahegyi
-Gévay Wolff Lajos
-Géza
-Géza fejedelem
-Géza nagyfejedelem
-Géza völgy
-Gézavár
-Gebauer Ernõ
+GÃ©bÃ¡rti
+GÃ©berjÃ©ni
+GÃ©bics
+GÃ©ci
+GÃ©czi hegy
+GÃ©czy IstvÃ¡n
+GÃ©czy JÃ³zsef
+GÃ©fin Gyula
+GÃ©m
+GÃ©mes
+GÃ©meskert
+GÃ©meskÃºt
+GÃ©p
+GÃ©pÃ¡llomÃ¡s
+GÃ©pÃ©sz
+GÃ©pÃ©szeti
+GÃ©pgyÃ¡r
+GÃ©pÃ­rÃ³
+GÃ©pjavÃ­tÃ³
+GÃ©pmadÃ¡r
+GÃ©pmÅ±hely
+GÃ©ptelep
+GÃ©resi
+GÃ©va
+GÃ©vahegyi
+GÃ©vay Wolff Lajos
+GÃ©za
+GÃ©za fejedelem
+GÃ©za nagyfejedelem
+GÃ©za vÃ¶lgy
+GÃ©zavÃ¡r
+Gebauer ErnÅ‘
 Gebei
 Gebhardt
 Gedeon
 Geleji
-Gelemér
-Gelencsér
-Gelléri Andor
-Gellért
-Gellért újsor
-Gellérthegy
-Gellei Katona István
+GelemÃ©r
+GelencsÃ©r
+GellÃ©ri Andor
+GellÃ©rt
+GellÃ©rt Ãºjsor
+GellÃ©rthegy
+Gellei Katona IstvÃ¡n
 Gelsi
 Gemenc
-Gensel Ádám
+Gensel ÃdÃ¡m
 Georgikon
 Georgina
-Gera Sándor
+Gera SÃ¡ndor
 Gerber
 Gerbera
-Gerézdpuszta
+GerÃ©zdpuszta
 Gereben
 Gereblye
-Gerechát szivattyútelep
-Gerecs Árpád
+GerechÃ¡t szivattyÃºtelep
+Gerecs ÃrpÃ¡d
 Gerecse
 Gerecsehida
 Gerely
 Gerence
-Gerencsér
-Gerencsér Sebestyén
+GerencsÃ©r
+GerencsÃ©r SebestyÃ©n
 Gerenda
-Gerendás
-Gerenyás
-Gerenyáspuszta
+GerendÃ¡s
+GerenyÃ¡s
+GerenyÃ¡spuszta
 Gerezd
 Gergely
-Gergely Gyõzõ
-Gergelydeák
-Gergõ
-Gerhátbokor
+Gergely GyÅ‘zÅ‘
+GergelydeÃ¡k
+GergÅ‘
+GerhÃ¡tbokor
 Gerinc
-Gerinci Kõbánya
+Gerinci KÅ‘bÃ¡nya
 Gerje
-Gerl Mátyás
+Gerl MÃ¡tyÃ¡s
 Gerlai
 Gerle
 Gerlice
-Gerlóczy
+GerlÃ³czy
 Germanus Gyula
 Germering
-Geró János
+GerÃ³ JÃ¡nos
 Gersei
-Gersei Pethõ
-Gertrúd
+Gersei PethÅ‘
+GertrÃºd
 Gervay
 Gesztenye
-Gesztenyés
-Gesztenyési
+GesztenyÃ©s
+GesztenyÃ©si
 Gesztenyefa
 Gesztenyesor
-Geszterédi
+GeszterÃ©di
 Gesztes
 Geszti
 Gete
-Ghilányi
-Ghyczy Kálmán
-Gím
+GhilÃ¡nyi
+Ghyczy KÃ¡lmÃ¡n
+GÃ­m
 Giczhy
-Giczi Kastély
+Giczi KastÃ©ly
 Gida
-Gidófalvy Lajos
-Gilányi
+GidÃ³falvy Lajos
+GilÃ¡nyi
 Gilice
-Gilvánfa
-Gimnázium
+GilvÃ¡nfa
+GimnÃ¡zium
 Gindli
-Ginzery Sándor
-Gitár
+Ginzery SÃ¡ndor
+GitÃ¡r
 Gizella
 Gizella Villa
-Gizella királyné
+Gizella kirÃ¡lynÃ©
 Gizellatelep
-Glázer S.
-Gladiátor
+GlÃ¡zer S.
+GladiÃ¡tor
 Gladiolus
 Glanzer Miksa
 Glatz Henrik
-Glatz Oszkár
+Glatz OszkÃ¡r
 Gledicsia
-Glóbusz
-Góbé
-Gógán
-Gógánfai
-Gógánhegy
-Gógánhegyi
-Gógány
-Gólya
-Gólyás
-Gólyahír
-Gólyarét
-Gólyaszállás
-Gólyavár
-Góré
-Góris
-Gózon Gyula
-Gózon Lajos
-Göböljárás
-Göbölykuti
-Göcseji
-Göcseji Pataki Ferenc
-Gödöllõi
-Gödölye
-Gödör
-Gödörállás
-Gödörházi
-Gödörházy
-Gödöri
-Gödrös
-Gödröstemetõ
-Gödszigeti
-Gölle
-Gölnici
-Gölödin
-Gölöncsér
-Gömb
-Gömbakác
-Gömböc
-Gömbvirág
-Gömör
-Gömöri
-Gönci
-Göncöl
-Gönczi
-Gönczi Ferenc
-Gönczy Ferenc
-Gönczy Pál
-Göndöczdûlõ
-Göndör
-Göntér
-Gönyüi
-Görbe
-Görbehalom
-Görbekert
-Görénypuszta
-Görepart
-Görgény
-Görgényi
-Görgei
-Görgey
-Görgey Artúr
-Görgõs
-Görög
-Görög-Bánya
-Görögh Demeter
-Görögszállás
-Görögszõlõ
-Görömböly
-Görömbölyi
-Göröngyös
-Görösgali
-Görösgalpuszta
-Göte
-Gõgös Ignác
-Gõz
-Gõzhajó
-Gõzmalom
-Gõzmozdony
-Gõzös
+GlÃ³busz
+GÃ³bÃ©
+GÃ³gÃ¡n
+GÃ³gÃ¡nfai
+GÃ³gÃ¡nhegy
+GÃ³gÃ¡nhegyi
+GÃ³gÃ¡ny
+GÃ³lya
+GÃ³lyÃ¡s
+GÃ³lyahÃ­r
+GÃ³lyarÃ©t
+GÃ³lyaszÃ¡llÃ¡s
+GÃ³lyavÃ¡r
+GÃ³rÃ©
+GÃ³ris
+GÃ³zon Gyula
+GÃ³zon Lajos
+GÃ¶bÃ¶ljÃ¡rÃ¡s
+GÃ¶bÃ¶lykuti
+GÃ¶cseji
+GÃ¶cseji Pataki Ferenc
+GÃ¶dÃ¶llÅ‘i
+GÃ¶dÃ¶lye
+GÃ¶dÃ¶r
+GÃ¶dÃ¶rÃ¡llÃ¡s
+GÃ¶dÃ¶rhÃ¡zi
+GÃ¶dÃ¶rhÃ¡zy
+GÃ¶dÃ¶ri
+GÃ¶drÃ¶s
+GÃ¶drÃ¶stemetÅ‘
+GÃ¶dszigeti
+GÃ¶lle
+GÃ¶lnici
+GÃ¶lÃ¶din
+GÃ¶lÃ¶ncsÃ©r
+GÃ¶mb
+GÃ¶mbakÃ¡c
+GÃ¶mbÃ¶c
+GÃ¶mbvirÃ¡g
+GÃ¶mÃ¶r
+GÃ¶mÃ¶ri
+GÃ¶nci
+GÃ¶ncÃ¶l
+GÃ¶nczi
+GÃ¶nczi Ferenc
+GÃ¶nczy Ferenc
+GÃ¶nczy PÃ¡l
+GÃ¶ndÃ¶czdÅ±lÅ‘
+GÃ¶ndÃ¶r
+GÃ¶ntÃ©r
+GÃ¶nyÃ¼i
+GÃ¶rbe
+GÃ¶rbehalom
+GÃ¶rbekert
+GÃ¶rÃ©nypuszta
+GÃ¶repart
+GÃ¶rgÃ©ny
+GÃ¶rgÃ©nyi
+GÃ¶rgei
+GÃ¶rgey
+GÃ¶rgey ArtÃºr
+GÃ¶rgÅ‘s
+GÃ¶rÃ¶g
+GÃ¶rÃ¶g-BÃ¡nya
+GÃ¶rÃ¶gh Demeter
+GÃ¶rÃ¶gszÃ¡llÃ¡s
+GÃ¶rÃ¶gszÅ‘lÅ‘
+GÃ¶rÃ¶mbÃ¶ly
+GÃ¶rÃ¶mbÃ¶lyi
+GÃ¶rÃ¶ngyÃ¶s
+GÃ¶rÃ¶sgali
+GÃ¶rÃ¶sgalpuszta
+GÃ¶te
+GÅ‘gÃ¶s IgnÃ¡c
+GÅ‘z
+GÅ‘zhajÃ³
+GÅ‘zmalom
+GÅ‘zmozdony
+GÅ‘zÃ¶s
 Godina
-Godó
+GodÃ³
 Goethe
 Gogol
-Gohér
+GohÃ©r
 Golden
-Goldmann György
-Goldmark Károly
+Goldmann GyÃ¶rgy
+Goldmark KÃ¡roly
 Golgota
-Golyó
+GolyÃ³
 Gomb
 Gomba
-Gombás
-Gombászó
+GombÃ¡s
+GombÃ¡szÃ³
 Gombai
-Gombaszögi
-Gombkötõ
-Gombócz Zoltán
+GombaszÃ¶gi
+GombkÃ¶tÅ‘
+GombÃ³cz ZoltÃ¡n
 Gombos
-Gombos András
+Gombos AndrÃ¡s
 Gombos Imre
 Gombosi
 Gombosszeg
 Gond
 Gonda Ferenc
 Gondnok
-Gondolás
+GondolÃ¡s
 Gondos
 Gordisai
 Gordonka
 Gorica
 Gorkij
-Goroszló
-Gorové László
+GoroszlÃ³
+GorovÃ© LÃ¡szlÃ³
 Gosztonyi Gyula
 Gosztonyi Lajos
-Gotthárd
-Grábner Emil
-Gránás
-Gránátalma
-Gránátos
-Granárium
+GotthÃ¡rd
+GrÃ¡bner Emil
+GrÃ¡nÃ¡s
+GrÃ¡nÃ¡talma
+GrÃ¡nÃ¡tos
+GranÃ¡rium
 Gransperg
 Grassalkovich
 Grassalkovich Antal
-Grébics
-Grébicsi
-Grécpuszta
+GrÃ©bics
+GrÃ©bicsi
+GrÃ©cpuszta
 Greguss
-Gróf Apponyi
-Gróf Apponyi Albert
-Gróf Pál
-Gróf Sándor Móricz
-Gróf Széchenyi
-Gróf Széchenyi István
-Gróf Teleki Pál
-Gróf Vay Sándor
-Gróf Zichy János
-Grónay Sándor
-Gróza Péter
-Groza Péter
-Gruber Béla
-Gúla
-Gül Baba
+GrÃ³f Apponyi
+GrÃ³f Apponyi Albert
+GrÃ³f PÃ¡l
+GrÃ³f SÃ¡ndor MÃ³ricz
+GrÃ³f SzÃ©chenyi
+GrÃ³f SzÃ©chenyi IstvÃ¡n
+GrÃ³f Teleki PÃ¡l
+GrÃ³f Vay SÃ¡ndor
+GrÃ³f Zichy JÃ¡nos
+GrÃ³nay SÃ¡ndor
+GrÃ³za PÃ©ter
+Groza PÃ©ter
+Gruber BÃ©la
+GÃºla
+GÃ¼l Baba
 Guba
-Guba Sándor
+Guba SÃ¡ndor
 Gubacs
 Gubacsi
-Gubacsi híd pesti
+Gubacsi hÃ­d pesti
 Gubacspuszta
-Gubér
-Gubó
+GubÃ©r
+GubÃ³
 Gubody
 Gubonnai
-Gugásvölgyi
+GugÃ¡svÃ¶lgyi
 Gugyori
-Guhér
-Gulácsi
-Gulácsy Lajos
-Gulipán
+GuhÃ©r
+GulÃ¡csi
+GulÃ¡csy Lajos
+GulipÃ¡n
 Gulner Gyula
-Gulyás
-Gulyás Pál
-Gulyakút
-Gumigyár
-Gumó
+GulyÃ¡s
+GulyÃ¡s PÃ¡l
+GulyakÃºt
+GumigyÃ¡r
+GumÃ³
 Gunarasi
 Gurdony
-Gurító
+GurÃ­tÃ³
 Guszev
-Gusztáv
+GusztÃ¡v
 Gutai
 Gutenberg
-Gutenberg János
+Gutenberg JÃ¡nos
 Guthpuszta
 Gutor
 Guyon
-Guyon Richárd
+Guyon RichÃ¡rd
 Guzsaly
-Gvadányi
-Gvadányi József
-Gyálarét
-Gyálaréti
-Gyáli
-Gyám
-Gyár
-Gyár utcai
-Gyári
-Gyárkert
-Gyárköz
-Gyártelep
-Gyártelepi
-Gyakorló
+GvadÃ¡nyi
+GvadÃ¡nyi JÃ³zsef
+GyÃ¡larÃ©t
+GyÃ¡larÃ©ti
+GyÃ¡li
+GyÃ¡m
+GyÃ¡r
+GyÃ¡r utcai
+GyÃ¡ri
+GyÃ¡rkert
+GyÃ¡rkÃ¶z
+GyÃ¡rtelep
+GyÃ¡rtelepi
+GyakorlÃ³
 Gyakornok
 Gyalog
-Gyalogér
-Gyalogvár
-Gyalpár
+GyalogÃ©r
+GyalogvÃ¡r
+GyalpÃ¡r
 Gyalu
 Gyanafalva
 Gyanta
 Gyapa
-Gyapjas Pál
+Gyapjas PÃ¡l
 Gyarmat
 Gyarmati
 Gyarmatpuszta
-Gyékény
-Gyékényes
-Gyékényesi
-Gyémánt
-Gyémántos
+GyÃ©kÃ©ny
+GyÃ©kÃ©nyes
+GyÃ©kÃ©nyesi
+GyÃ©mÃ¡nt
+GyÃ©mÃ¡ntos
 Gyenes
-Gyenes György
-Gyenes Mihály
-Gyenes Tamás
+Gyenes GyÃ¶rgy
+Gyenes MihÃ¡ly
+Gyenes TamÃ¡s
 Gyenis Antal
 Gyep
 Gyepes
 Gyepesi
-Gyepföldi üdülõ
-Gyeplõs
+GyepfÃ¶ldi Ã¼dÃ¼lÅ‘
+GyeplÅ‘s
 Gyepsor
-Gyepszél
-Gyeptér
-Gyepü
-Gyepû
-Gyepûsor
+GyepszÃ©l
+GyeptÃ©r
+GyepÃ¼
+GyepÅ±
+GyepÅ±sor
 Gyergyai Albert
-Gyergyó
-Gyergyóalfalu
-Gyergyóditró
-Gyergyói
-Gyergyóremete
-Gyergyószentmiklós
-Gyergyóújfalu
+GyergyÃ³
+GyergyÃ³alfalu
+GyergyÃ³ditrÃ³
+GyergyÃ³i
+GyergyÃ³remete
+GyergyÃ³szentmiklÃ³s
+GyergyÃ³Ãºjfalu
 Gyermek
 Gyermekek
-Gyermektábor
-Gyermeküdülõ-Centrum
-Gyermekváros
+GyermektÃ¡bor
+GyermekÃ¼dÃ¼lÅ‘-Centrum
+GyermekvÃ¡ros
 Gyermelyi
-Gyertyámos
-Gyertyán
-Gyertyánfa
-Gyertyános
-Gyertyaláng
-Gyetkótanya
+GyertyÃ¡mos
+GyertyÃ¡n
+GyertyÃ¡nfa
+GyertyÃ¡nos
+GyertyalÃ¡ng
+GyetkÃ³tanya
 Gyetva
 Gyetvai
 Gyevi
-Gyík
-Gyíkfû
-Gyíkos
+GyÃ­k
+GyÃ­kfÅ±
+GyÃ­kos
 Gyilkos
 Gyimes
 Gyimesi
-Gyirmót
-Gyirmóti
-Gyiróti
-Gyódaköz
-Gyógy
-Gyógyfürdõ
-Gyógyfû
-Gyógyszergyár
-Gyójai
-Gyóni
-Gyóni G.
-Gyóni Géza
-Gyórói
-Gyóta
-Gyökér
-Gyömbér
-Gyömörei
-Gyömrõi
-Gyömrõpuszta
-Gyöngy
-Gyöngyfa
-Gyöngyfüzér
-Gyöngyház
-Gyöngyhalász
-Gyöngyike
-Gyöngyös
-Gyöngyösi
-Gyöngyösi István
-Gyöngyösparti
-Gyöngyöspata
-Gyöngyöspuszta
-Gyöngyösszer
-Gyöngyperje
-Gyöngysor
-Gyöngyszem
-Gyöngytyúk
-Gyöngyvér
-Gyöngyvirág
-Gyöngyvirágos
-Gyöp
-Gyöpszer
-György
-György-akna
-György-hegyi
-György Aladár
-György Bíró
-György Oszkár
-György hegyi
-György major
-Györgyei
-Györgyhegy
-Györgyhegyi
-Györgyliget
-Györgymajor
-Györgytelep
-Györkefa
-Györki
-Györkönyi
-Györök
-Györök György
-Gyõr
-Gyõrffy
-Gyõrffy István
-Gyõrfiszegi
-Gyõri
-Gyõrikapu
-Gyõrössy
-Gyõrszabadhegy
-Gyõrszentiván
-Gyõrszentiváni
-Gyõrszentiváni határ
-Gyõrvári
-Gyõry János
-Gyõzelem
-Gyõzõ
-Gyõztes
+GyirmÃ³t
+GyirmÃ³ti
+GyirÃ³ti
+GyÃ³dakÃ¶z
+GyÃ³gy
+GyÃ³gyfÃ¼rdÅ‘
+GyÃ³gyfÅ±
+GyÃ³gyszergyÃ¡r
+GyÃ³jai
+GyÃ³ni
+GyÃ³ni G.
+GyÃ³ni GÃ©za
+GyÃ³rÃ³i
+GyÃ³ta
+GyÃ¶kÃ©r
+GyÃ¶mbÃ©r
+GyÃ¶mÃ¶rei
+GyÃ¶mrÅ‘i
+GyÃ¶mrÅ‘puszta
+GyÃ¶ngy
+GyÃ¶ngyfa
+GyÃ¶ngyfÃ¼zÃ©r
+GyÃ¶ngyhÃ¡z
+GyÃ¶ngyhalÃ¡sz
+GyÃ¶ngyike
+GyÃ¶ngyÃ¶s
+GyÃ¶ngyÃ¶si
+GyÃ¶ngyÃ¶si IstvÃ¡n
+GyÃ¶ngyÃ¶sparti
+GyÃ¶ngyÃ¶spata
+GyÃ¶ngyÃ¶spuszta
+GyÃ¶ngyÃ¶sszer
+GyÃ¶ngyperje
+GyÃ¶ngysor
+GyÃ¶ngyszem
+GyÃ¶ngytyÃºk
+GyÃ¶ngyvÃ©r
+GyÃ¶ngyvirÃ¡g
+GyÃ¶ngyvirÃ¡gos
+GyÃ¶p
+GyÃ¶pszer
+GyÃ¶rgy
+GyÃ¶rgy-akna
+GyÃ¶rgy-hegyi
+GyÃ¶rgy AladÃ¡r
+GyÃ¶rgy BÃ­rÃ³
+GyÃ¶rgy OszkÃ¡r
+GyÃ¶rgy hegyi
+GyÃ¶rgy major
+GyÃ¶rgyei
+GyÃ¶rgyhegy
+GyÃ¶rgyhegyi
+GyÃ¶rgyliget
+GyÃ¶rgymajor
+GyÃ¶rgytelep
+GyÃ¶rkefa
+GyÃ¶rki
+GyÃ¶rkÃ¶nyi
+GyÃ¶rÃ¶k
+GyÃ¶rÃ¶k GyÃ¶rgy
+GyÅ‘r
+GyÅ‘rffy
+GyÅ‘rffy IstvÃ¡n
+GyÅ‘rfiszegi
+GyÅ‘ri
+GyÅ‘rikapu
+GyÅ‘rÃ¶ssy
+GyÅ‘rszabadhegy
+GyÅ‘rszentivÃ¡n
+GyÅ‘rszentivÃ¡ni
+GyÅ‘rszentivÃ¡ni hatÃ¡r
+GyÅ‘rvÃ¡ri
+GyÅ‘ry JÃ¡nos
+GyÅ‘zelem
+GyÅ‘zÅ‘
+GyÅ‘ztes
 Gyolcsos
-Gyolcsrét
+GyolcsrÃ©t
 Gyoma
 Gyomai
-Gyopár
-Gyopáros
-Gyopárosi
+GyopÃ¡r
+GyopÃ¡ros
+GyopÃ¡rosi
 Gyorma
 Gyorskocsi
-Gyújtó
-Gyúrói
-Gyüdi
-Gyüge
-Gyükés
-Gyümölcs
-Gyümölcsös
-Gyümölcsöskert
-Gyürky Gyula
-Gyûrhegyi
-Gyûrû
-Gyûrûs
-Gyûrûspuszta
-Gyûszû
-Gyûszûvirág
+GyÃºjtÃ³
+GyÃºrÃ³i
+GyÃ¼di
+GyÃ¼ge
+GyÃ¼kÃ©s
+GyÃ¼mÃ¶lcs
+GyÃ¼mÃ¶lcsÃ¶s
+GyÃ¼mÃ¶lcsÃ¶skert
+GyÃ¼rky Gyula
+GyÅ±rhegyi
+GyÅ±rÅ±
+GyÅ±rÅ±s
+GyÅ±rÅ±spuszta
+GyÅ±szÅ±
+GyÅ±szÅ±virÃ¡g
 Gyufa
 Gyula
-Gyulás
-Gyula vezér
-Gyulafehérvár
-Gyulafehérvári
-Gyulaffy László
-Gyulaházi
+GyulÃ¡s
+Gyula vezÃ©r
+GyulafehÃ©rvÃ¡r
+GyulafehÃ©rvÃ¡ri
+Gyulaffy LÃ¡szlÃ³
+GyulahÃ¡zi
 Gyulai
-Gyulai Jenõ
-Gyulai Pál
+Gyulai JenÅ‘
+Gyulai PÃ¡l
 Gyulaji
 Gyulakeszi
 Gyulamajor
 Gyulapuszta
-Gyulatároló
+GyulatÃ¡rolÃ³
 Gyulatanya
-Gyulay Jenõ
-Gyurácz
-Gyura János
+Gyulay JenÅ‘
+GyurÃ¡cz
+Gyura JÃ¡nos
 Gyurgyalag
 Gyuris
 Gyutacs
-H.Szabó
-H. Fekete Péter
-HÉV-állomás
-Hága
-Hága László
-Hágó
-Hágótanya
-Háló
-Hám
-Hám Kálmán
-Hámán Katalin
-Hámán Kató
-Hámfa
-Hámor
-Háncs
-Hárfa
-Háris
-Hármas
-Hármas-hegy
-Hármashatár
-Hármashatárhegyi
-Hármashegy
-Hármashegy I
-Hármashegy III
-Hármashíd
-Hármaskereszti
-Hármaskút
-Hármaspuszta
-Három dobos
-Három ház
-Háromfai
-Háromhányás
-Háromház
-Háromhíd
-Háromrózsa
-Háromsarok
-Háromszék
-Háromszéki
-Háromszög
-Háromtölgy
-Háros
-Hárs
-Hársalja
-Hársas
-Hársasalja
-Hársastelep
-Hárserdõtelep
-Hársfa
-Hársfás
-Hársfavirág
-Hárshegyi
-Hárskút
-Hárslevelû
-Hársmajor
-Hártya
-Háry János
-Háshágyi
-Hátsó
-Hátsó Vasút
-Hátsókapu
-Hátszeg
-Hátszegi
-Hátulsó
-Háy Mihály
-Házgyár
-Házgyári
-Házhajó
-Házhegyi
-Házhely
-Házi Jenõ
-Házikert
-Házirét
-Házmán
-Haas Mihály
+H.SzabÃ³
+H. Fekete PÃ©ter
+HÃ‰V-Ã¡llomÃ¡s
+HÃ¡ga
+HÃ¡ga LÃ¡szlÃ³
+HÃ¡gÃ³
+HÃ¡gÃ³tanya
+HÃ¡lÃ³
+HÃ¡m
+HÃ¡m KÃ¡lmÃ¡n
+HÃ¡mÃ¡n Katalin
+HÃ¡mÃ¡n KatÃ³
+HÃ¡mfa
+HÃ¡mor
+HÃ¡ncs
+HÃ¡rfa
+HÃ¡ris
+HÃ¡rmas
+HÃ¡rmas-hegy
+HÃ¡rmashatÃ¡r
+HÃ¡rmashatÃ¡rhegyi
+HÃ¡rmashegy
+HÃ¡rmashegy I
+HÃ¡rmashegy III
+HÃ¡rmashÃ­d
+HÃ¡rmaskereszti
+HÃ¡rmaskÃºt
+HÃ¡rmaspuszta
+HÃ¡rom dobos
+HÃ¡rom hÃ¡z
+HÃ¡romfai
+HÃ¡romhÃ¡nyÃ¡s
+HÃ¡romhÃ¡z
+HÃ¡romhÃ­d
+HÃ¡romrÃ³zsa
+HÃ¡romsarok
+HÃ¡romszÃ©k
+HÃ¡romszÃ©ki
+HÃ¡romszÃ¶g
+HÃ¡romtÃ¶lgy
+HÃ¡ros
+HÃ¡rs
+HÃ¡rsalja
+HÃ¡rsas
+HÃ¡rsasalja
+HÃ¡rsastelep
+HÃ¡rserdÅ‘telep
+HÃ¡rsfa
+HÃ¡rsfÃ¡s
+HÃ¡rsfavirÃ¡g
+HÃ¡rshegyi
+HÃ¡rskÃºt
+HÃ¡rslevelÅ±
+HÃ¡rsmajor
+HÃ¡rtya
+HÃ¡ry JÃ¡nos
+HÃ¡shÃ¡gyi
+HÃ¡tsÃ³
+HÃ¡tsÃ³ VasÃºt
+HÃ¡tsÃ³kapu
+HÃ¡tszeg
+HÃ¡tszegi
+HÃ¡tulsÃ³
+HÃ¡y MihÃ¡ly
+HÃ¡zgyÃ¡r
+HÃ¡zgyÃ¡ri
+HÃ¡zhajÃ³
+HÃ¡zhegyi
+HÃ¡zhely
+HÃ¡zi JenÅ‘
+HÃ¡zikert
+HÃ¡zirÃ©t
+HÃ¡zmÃ¡n
+Haas MihÃ¡ly
 Haastanya
-Habán
-Hableány
+HabÃ¡n
+HableÃ¡ny
 Hadak
-Hadastyán
-Hadházi
+HadastyÃ¡n
+HadhÃ¡zi
 Hadi
-Hadiárva
+HadiÃ¡rva
 Hadik
-Hadik András
+Hadik AndrÃ¡s
 Hadirokkant
 Hadirokkantak
 Hadnagy
-Hadobás
+HadobÃ¡s
 Hadrianus
 Hadsereg
-Hadvezér
-Hagymási
+HadvezÃ©r
+HagymÃ¡si
 Hajadon
 Hajagos
-Hajcsár
-Hajdú
-Hajdú Benedek
-Hajdúhegy
-Hajdúkerület
-Hajdúkút
-Hajducsárda
+HajcsÃ¡r
+HajdÃº
+HajdÃº Benedek
+HajdÃºhegy
+HajdÃºkerÃ¼let
+HajdÃºkÃºt
+HajducsÃ¡rda
 Hajdutanya
-Hajgató Sándor
-Hajlás
+HajgatÃ³ SÃ¡ndor
+HajlÃ¡s
 Hajlat
-Hajlék
-Hajlékos
-Hajló
-Hajmáskéri
+HajlÃ©k
+HajlÃ©kos
+HajlÃ³
+HajmÃ¡skÃ©ri
 Hajnal
 Hajnalcsillag
 Hajnalka
 Hajnalos
-Hajnóczy
-Hajnóczy József
-Hajó
-Hajóállomás
-Hajódi
-Hajógyár
-Hajógyári
-Hajókikötõ
-Hajós
-Hajós Alfréd
-Hajóvontató
-Hajózsilip
-Hajtány
-Hajtás
-Hajtó
+HajnÃ³czy
+HajnÃ³czy JÃ³zsef
+HajÃ³
+HajÃ³Ã¡llomÃ¡s
+HajÃ³di
+HajÃ³gyÃ¡r
+HajÃ³gyÃ¡ri
+HajÃ³kikÃ¶tÅ‘
+HajÃ³s
+HajÃ³s AlfrÃ©d
+HajÃ³vontatÃ³
+HajÃ³zsilip
+HajtÃ¡ny
+HajtÃ¡s
+HajtÃ³
 Hal
-Hal József
-Haláp
-Halápi
-Halápi J.
-Halász
-Halász Béla
-Halász Gábor
-Halász István
-Halász Jenõ
-Halász József
-Halászház
-Halászhomok
-Halászkúti
-Halászsas
-Halásztag
-Halásztanyák
-Halásztelek
-Halásztelep
+Hal JÃ³zsef
+HalÃ¡p
+HalÃ¡pi
+HalÃ¡pi J.
+HalÃ¡sz
+HalÃ¡sz BÃ©la
+HalÃ¡sz GÃ¡bor
+HalÃ¡sz IstvÃ¡n
+HalÃ¡sz JenÅ‘
+HalÃ¡sz JÃ³zsef
+HalÃ¡szhÃ¡z
+HalÃ¡szhomok
+HalÃ¡szkÃºti
+HalÃ¡szsas
+HalÃ¡sztag
+HalÃ¡sztanyÃ¡k
+HalÃ¡sztelek
+HalÃ¡sztelep
 Halacs
-Haladás
-Haladó
+HaladÃ¡s
+HaladÃ³
 Halas
 Halasi
 Halasi Andor
-Halasi Fekete Péter
-Halastó
-Halastófolyás
-Halastói
-Halastópuszta
+Halasi Fekete PÃ©ter
+HalastÃ³
+HalastÃ³folyÃ¡s
+HalastÃ³i
+HalastÃ³puszta
 Halasy Gyula
 Halcsont
 Halesz
 Halesz 7.
-Halgazdaság
+HalgazdasÃ¡g
 Halimbai
 Halipuszta
-Halis István
+Halis IstvÃ¡n
 Halk
 Haller
-Haller György
+Haller GyÃ¶rgy
 Halmaji
 Halmi
 Halmosbokor
@@ -5350,191 +5350,191 @@ Halmostanya
 Halom
 Halomalja
 Halomaljai
-Halomegyházi
+HalomegyhÃ¡zi
 Halomi
 Halomka
-Halsütõ
+HalsÃ¼tÅ‘
 Halvax
-Hamari Dániel
+Hamari DÃ¡niel
 Hamberger
 Hamburger
-Hamerák Mihály
+HamerÃ¡k MihÃ¡ly
 Hammerstein
-Hampasz kút
+Hampasz kÃºt
 Hamu
-Hamuház
+HamuhÃ¡z
 Hamvas
-Hamvas Béla
-Hamzsabég
-Hamzsabégi
-Hanczók
-Handler Kálmán
-Handler Nándor
-Handzsár
+Hamvas BÃ©la
+HamzsabÃ©g
+HamzsabÃ©gi
+HanczÃ³k
+Handler KÃ¡lmÃ¡n
+Handler NÃ¡ndor
+HandzsÃ¡r
 Hanfland
 Hang
-Hangács
-Hangácsi
-Hangár
-Hangás
+HangÃ¡cs
+HangÃ¡csi
+HangÃ¡r
+HangÃ¡s
 Hangos
 Hangulat
 Hangya
-Hangyály Mihály
-Hangyás
-Hangyásmál
-Hankóczi
-Hankóczy Jenõ
+HangyÃ¡ly MihÃ¡ly
+HangyÃ¡s
+HangyÃ¡smÃ¡l
+HankÃ³czi
+HankÃ³czy JenÅ‘
 Hankovszky
 Hanna
-Hanság
-Hanságfalva
-Hansági
+HansÃ¡g
+HansÃ¡gfalva
+HansÃ¡gi
 Hant
-Hantháza
+HanthÃ¡za
 Hantken Miksa
-Hantmadár
-Hanusz István
+HantmadÃ¡r
+Hanusz IstvÃ¡n
 Hanyi
-Haránt
+HarÃ¡nt
 Harang
 Harangi
-Harangláb
-Harangöntõ
+HaranglÃ¡b
+HarangÃ¶ntÅ‘
 Harangod
 Harangos
-Harangozó
-Harangszó
-Harangvirág
+HarangozÃ³
+HarangszÃ³
+HarangvirÃ¡g
 Haraszt
 Haraszthegyi
 Haraszti
 Harasztos
 Harcos
 Harcsa
-Hardi Miklós
+Hardi MiklÃ³s
 Hargita
 Hargitai
 Hargitta
 Harica
 Haris
 Harka
-Harkály
-Harkányi
-Harkányi Frigyes
+HarkÃ¡ly
+HarkÃ¡nyi
+HarkÃ¡nyi Frigyes
 Harkai
-Harkói
+HarkÃ³i
 Harmadik
 Harmat
 Harmatcsepp
 Harmatos
 Harmincad
 Harmincas
-Harminchármas
-Harmincnégyes
-Harmincötödik
-Harrer Pál
-Harsány
-Harsányi
-Harsányi István
-Harsányi Kálmán
-Harsányi Zsolt
+HarminchÃ¡rmas
+HarmincnÃ©gyes
+HarmincÃ¶tÃ¶dik
+Harrer PÃ¡l
+HarsÃ¡ny
+HarsÃ¡nyi
+HarsÃ¡nyi IstvÃ¡n
+HarsÃ¡nyi KÃ¡lmÃ¡n
+HarsÃ¡nyi Zsolt
 Harsona
 Harstein kert I.
 Harstein kert IV.
 Harta
-Hartyán
-Hartyáni
-Hasadék
+HartyÃ¡n
+HartyÃ¡ni
+HasadÃ©k
 Hasznos
-Határ
-Határ metróállomás
-Határ pavilonsor
-Határ út
-Határállomás
-Határátkelõ
-Határátkelõhely
-Határhalom
-Határjáró
-Határkilépõ
-Határkõ
-Határõr
-Határrész
-Határsor
-Határúti
+HatÃ¡r
+HatÃ¡r metrÃ³Ã¡llomÃ¡s
+HatÃ¡r pavilonsor
+HatÃ¡r Ãºt
+HatÃ¡rÃ¡llomÃ¡s
+HatÃ¡rÃ¡tkelÅ‘
+HatÃ¡rÃ¡tkelÅ‘hely
+HatÃ¡rhalom
+HatÃ¡rjÃ¡rÃ³
+HatÃ¡rkilÃ©pÅ‘
+HatÃ¡rkÅ‘
+HatÃ¡rÅ‘r
+HatÃ¡rrÃ©sz
+HatÃ¡rsor
+HatÃ¡rÃºti
 Hataj
-Hatház
-Hatházi
-Hathy János
-Hatöles
+HathÃ¡z
+HathÃ¡zi
+Hathy JÃ¡nos
+HatÃ¶les
 Hatodik
-Hatos Gusztáv
+Hatos GusztÃ¡v
 Hattyas
-Hattyú
-Hattyúliget
+HattyÃº
+HattyÃºliget
 Hatvan
 Hatvan Ferenc
 Hatvanasezred
 Hatvani
-Hatvani István
+Hatvani IstvÃ¡n
 Hatvani kapu
-Hatvanötösök
+HatvanÃ¶tÃ¶sÃ¶k
 Hatvany Lajos
 Hatzel
-Haubner Károly
+Haubner KÃ¡roly
 Hauszmann Alajos
 Havanna
 Havas
-Havas Ignác
+Havas IgnÃ¡c
 Havashalom
 Havasi
-Havasszépe
+HavasszÃ©pe
 Havi-hegyi
 Havihegy
-Havranek József
+Havranek JÃ³zsef
 Haydn
 Hazafias
-Hazatérõk
+HazatÃ©rÅ‘k
 Hazatius Ferenc
-Hédervári
-Héja
-Hékút
-Hélya
-Héma
-Héregi
-Hérics
-Hérnekkert
-Hét vezér
-Hétes
-Hétház
-Hétház puszta
-Héthalom
-Héti
-Hétszõlõ
-Hétút
-Hétvezér
-Hévíz
-Hévízi
+HÃ©dervÃ¡ri
+HÃ©ja
+HÃ©kÃºt
+HÃ©lya
+HÃ©ma
+HÃ©regi
+HÃ©rics
+HÃ©rnekkert
+HÃ©t vezÃ©r
+HÃ©tes
+HÃ©thÃ¡z
+HÃ©thÃ¡z puszta
+HÃ©thalom
+HÃ©ti
+HÃ©tszÅ‘lÅ‘
+HÃ©tÃºt
+HÃ©tvezÃ©r
+HÃ©vÃ­z
+HÃ©vÃ­zi
 Hecsepuszta
 Hecske
 Hedvig
-Hefele Menyhért
-Hegedû
-Hegedûs
-Hegedûs Ferenc
-Hegedûs Gyula
-Hegedûs Imre
-Hegedûs Mihály
-Hegedûskert
-Hegesztõ
+Hefele MenyhÃ©rt
+HegedÅ±
+HegedÅ±s
+HegedÅ±s Ferenc
+HegedÅ±s Gyula
+HegedÅ±s Imre
+HegedÅ±s MihÃ¡ly
+HegedÅ±skert
+HegesztÅ‘
 Hegy
 Hegyalja
 Hegyaljai
-Hegyaljai Raktárház
-Hegybíró
-Hegycsúcs
-Hegyderék
-Hegyelõ
+Hegyaljai RaktÃ¡rhÃ¡z
+HegybÃ­rÃ³
+HegycsÃºcs
+HegyderÃ©k
+HegyelÅ‘
 Hegyes
 Hegyeshalmi
 Hegyeshalom
@@ -5542,26 +5542,26 @@ Hegyesi
 Hegyfok
 Hegyfoki
 Hegyfoky Kabos
-Hegyhát
-Hegyhátsáli
+HegyhÃ¡t
+HegyhÃ¡tsÃ¡li
 Hegyi
-Hegyi Mihályné
-Hegyköz
-Hegyközség
-Hegyláb
-Hegymászó
+Hegyi MihÃ¡lynÃ©
+HegykÃ¶z
+HegykÃ¶zsÃ©g
+HegylÃ¡b
+HegymÃ¡szÃ³
 Hegymagasi
 Hegymester
 Hegyoldal
 Hegysor
-Hegytetõ
-Heim Pál
-Heimler Károly
+HegytetÅ‘
+Heim PÃ¡l
+Heimler KÃ¡roly
 Heine
 Heinlein
-Heinrich István
-Hejõ
-Hektár
+Heinrich IstvÃ¡n
+HejÅ‘
+HektÃ¡r
 Helikon
 Helikon Strand
 Helikopter
@@ -5569,98 +5569,98 @@ Helka
 Hell Miksa
 Heller
 Helmeczi
-Helmeczi Mihály
+Helmeczi MihÃ¡ly
 Helsinki
 Heltai
-Heltai Gáspár
-Heltai Jenõ
-Helyrajzi szám
+Heltai GÃ¡spÃ¡r
+Heltai JenÅ‘
+Helyrajzi szÃ¡m
 Hencida
 Hencse
 Henger
-Hengerész
+HengerÃ©sz
 Hengermalom
-Hengermû
+HengermÅ±
 Hengersor
 Henszlmann Imre
 Hentes
 Henyei
-Herbária
+HerbÃ¡ria
 Herboli Ilona
 Herbolyai
 Herceg
-Hercegföld
+HercegfÃ¶ld
 Herceghalmi
-Hercegprímás
+HercegprÃ­mÃ¡s
 Herczeg
 Herczeg Ferenc
 Herczegh
-Heréskert
-Heréskerti
+HerÃ©skert
+HerÃ©skerti
 Herend
-Herenvölgyi
-Herhoff György
+HerenvÃ¶lgyi
+Herhoff GyÃ¶rgy
 Herke
 Herkules
-Hermán
-Hermánd
-Hermánhegyi
-Herman Ottó
+HermÃ¡n
+HermÃ¡nd
+HermÃ¡nhegyi
+Herman OttÃ³
 Hermesi
 Hermina
-Hernád
-Hernyós
-Herpály
-Herpay Gábor
+HernÃ¡d
+HernyÃ³s
+HerpÃ¡ly
+Herpay GÃ¡bor
 Hertelendi
 Hertelendy
 Hervadtfa
 Herzen
-Hess András
-Hetény vezér
-Hetényi
-Hetényi János
+Hess AndrÃ¡s
+HetÃ©ny vezÃ©r
+HetÃ©nyi
+HetÃ©nyi JÃ¡nos
 Hetedik
 Hetes
 Hetyei
 Heveder
 Heves
 Hevesi
-Hevesi Ákos
+Hevesi Ãkos
 Hevesi Gyula
-Hevesi József
-Hevesi Sándor
-Híd
-Hídberke
-Hídépítõ
-Hídfõ
-Hídköz
-Hídvég
-Hídverõ
-Hímes
-Hímesháza
-Hímzõ
-Hínár
-Hír
-Híradó
-Hírnök
-Hízlalda
-Hízlaló
+Hevesi JÃ³zsef
+Hevesi SÃ¡ndor
+HÃ­d
+HÃ­dberke
+HÃ­dÃ©pÃ­tÅ‘
+HÃ­dfÅ‘
+HÃ­dkÃ¶z
+HÃ­dvÃ©g
+HÃ­dverÅ‘
+HÃ­mes
+HÃ­meshÃ¡za
+HÃ­mzÅ‘
+HÃ­nÃ¡r
+HÃ­r
+HÃ­radÃ³
+HÃ­rnÃ¶k
+HÃ­zlalda
+HÃ­zlalÃ³
 Hid
-Hidász
-Hidasnémeti
+HidÃ¡sz
+HidasnÃ©meti
 Hideg
-Hideg-völgyi
-Hidegkút
-Hidegkúti
-Hidegségi
-Hidegvölgy
-Hidegvölgyi
+Hideg-vÃ¶lgyi
+HidegkÃºt
+HidegkÃºti
+HidegsÃ©gi
+HidegvÃ¶lgy
+HidegvÃ¶lgyi
 Hidja
 Higany
 Hild
-Hild János
-Hild József
+Hild JÃ¡nos
+Hild JÃ³zsef
 Hild Viktor
 Hilda
 Hiller
@@ -5669,143 +5669,143 @@ Himba
 Himesdi
 Himfa
 Himfy
-Hinár
+HinÃ¡r
 Hinta
-Hintó
-Hintós
+HintÃ³
+HintÃ³s
 Hipp
 Hirdi
-Hiszek Nándor
+Hiszek NÃ¡ndor
 Hitel
-Hitel Márton
-Hittérítõ
+Hitel MÃ¡rton
+HittÃ©rÃ­tÅ‘
 Hivatalnok
 Hlinki
-Hó
-Hóbagoly
-Hóbiárt basa
-Hód
-Hódos
-Hódosi
-Hófehérke
-Hókamalom
-Hókuli
-Hómezõ
-Hónigpuszta
-Hópehely
-Hórvölgye
-Hóstya
-Hóvirág
-Hölgy
-Hörcsög
-Hörnyék
-Hõ
-Hõerõmû
-Hõflányi
-Hõforrás
-Hõgyészi
-Hõgyes Endre
-Hõközpont
-Hõlyeghegy
-Hõs
-Hõsök
-Hõsök Tere
-Hõsök sora
-Hõsõk
-Hõtáv
+HÃ³
+HÃ³bagoly
+HÃ³biÃ¡rt basa
+HÃ³d
+HÃ³dos
+HÃ³dosi
+HÃ³fehÃ©rke
+HÃ³kamalom
+HÃ³kuli
+HÃ³mezÅ‘
+HÃ³nigpuszta
+HÃ³pehely
+HÃ³rvÃ¶lgye
+HÃ³stya
+HÃ³virÃ¡g
+HÃ¶lgy
+HÃ¶rcsÃ¶g
+HÃ¶rnyÃ©k
+HÅ‘
+HÅ‘erÅ‘mÅ±
+HÅ‘flÃ¡nyi
+HÅ‘forrÃ¡s
+HÅ‘gyÃ©szi
+HÅ‘gyes Endre
+HÅ‘kÃ¶zpont
+HÅ‘lyeghegy
+HÅ‘s
+HÅ‘sÃ¶k
+HÅ‘sÃ¶k Tere
+HÅ‘sÃ¶k sora
+HÅ‘sÅ‘k
+HÅ‘tÃ¡v
 Hoboli
-Hock János
-Hodály
-Hodászi
-Hodászi Lukács
-Hoffer Károly
-Hoffmann János
+Hock JÃ¡nos
+HodÃ¡ly
+HodÃ¡szi
+HodÃ¡szi LukÃ¡cs
+Hoffer KÃ¡roly
+Hoffmann JÃ¡nos
 Hofherr Albert
-Hohmann János
-Hoksári János
+Hohmann JÃ¡nos
+HoksÃ¡ri JÃ¡nos
 Hold
-Holdfény
-Holdsugár
-Holdvilág
+HoldfÃ©ny
+HoldsugÃ¡r
+HoldvilÃ¡g
 Holics
 Holicsi
-Hollán Ernõ
-Hollai János
+HollÃ¡n ErnÅ‘
+Hollai JÃ¡nos
 Holland
 Hollandi
-Holló
-Holló B.
-Holló Barnabás
-Holló Béla
-Holló János
-Holló László
-Holló Lajos
-Hollóháza
-Hollókõ
-Hollómajor
-Hollós
-Hollós Korvin Lajos
-Hollósi
-Hollóstetõ
-Hollósy Simon
+HollÃ³
+HollÃ³ B.
+HollÃ³ BarnabÃ¡s
+HollÃ³ BÃ©la
+HollÃ³ JÃ¡nos
+HollÃ³ LÃ¡szlÃ³
+HollÃ³ Lajos
+HollÃ³hÃ¡za
+HollÃ³kÅ‘
+HollÃ³major
+HollÃ³s
+HollÃ³s Korvin Lajos
+HollÃ³si
+HollÃ³stetÅ‘
+HollÃ³sy Simon
 Holt-Duna
 Holt-Tisza
 Holt-Tisza-part
 Holt-Tiszapart
-Holub József
+Holub JÃ³zsef
 Homok
 Homokalja
-Homokbánya
+HomokbÃ¡nya
 Homokdomb
-Homokdûlõ
-Homokhát
-Homokhát I.
-Homokhát II.
+HomokdÅ±lÅ‘
+HomokhÃ¡t
+HomokhÃ¡t I.
+HomokhÃ¡t II.
 Homokhegy
 Homokhegyi
 Homoki
-Homoki Nagy István
-Homoki szõlõk
+Homoki Nagy IstvÃ¡n
+Homoki szÅ‘lÅ‘k
 Homokkert
-Homokkõ
-Homokkomáromi
-Homokóra
+HomokkÅ‘
+HomokkomÃ¡romi
+HomokÃ³ra
 Homokos
 Homokpuszta
-Homokrész
-Homokrész I.
-Homokrész II.
+HomokrÃ©sz
+HomokrÃ©sz I.
+HomokrÃ©sz II.
 Homoksor
 Homoksori
 Homokszem
-Homoktetõ
-Homoktövis
-Homokvölgy
-Homolytája
+HomoktetÅ‘
+HomoktÃ¶vis
+HomokvÃ¶lgy
+HomolytÃ¡ja
 Homonna
 Homonnai
-Homoród
-Homoródi
+HomorÃ³d
+HomorÃ³di
 Honfi
-Honfoglalás
-Honleány
+HonfoglalÃ¡s
+HonleÃ¡ny
 Hont Ferenc
 Hontalan
 Honti
 Honti Lajos
-Honvéd
-Honvédség
-Honvédtemetõ
-Hoór
-Horánszky
-Horánygyöngye
-Hordó
-Hordós
+HonvÃ©d
+HonvÃ©dsÃ©g
+HonvÃ©dtemetÅ‘
+HoÃ³r
+HorÃ¡nszky
+HorÃ¡nygyÃ¶ngye
+HordÃ³
+HordÃ³s
 Horga
-Horgász
-Horgászfalu
-Horgásztanya
-Horgásztó
+HorgÃ¡sz
+HorgÃ¡szfalu
+HorgÃ¡sztanya
+HorgÃ¡sztÃ³
 Horgas
 Horgony
 Horgos
@@ -5813,60 +5813,60 @@ Horgosi
 Horhos
 Hori
 Hornos
-Hornyák
-Hornyik János
+HornyÃ¡k
+Hornyik JÃ¡nos
 Horog
 Horogszegi
 Hort
 Hortenzia
-Hortobágy
-Hortobágy-Borsós
-Hortobágy-Halastó
-Hortobágy-Máta
-Hortobágyi
-Horvát
-Horvát Boldizsár
-Horvát István
-Horváth
-Horváth Árpád
-Horváth Cirill
-Horváth Döme
-Horváth Endre
-Horváth Ferenc
-Horváth György
-Horváth Imre
-Horváth József
-Horváth Kázmér
-Horváth Lajos
-Horváth Márk
-Horváth Mihály
-Horváth Sándor
-Horváth Vince
-Horváth Zoltán
-Horváthbokor
-Horvátkúti
-Hossó
-Hosszú
-Hosszúfalu
-Hosszúfalvi
-Hosszúhát
-Hosszúháti
-Hosszúház
-Hosszúhegy
-Hosszúhomok
-Hosszújánka
-Hosszúláz
-Hosszúmezõ
-Hosszúpályi
-Hosszúrét
-Hosszúréti
-Hosszúsétatér
-Hosszútöltés
-Hosszúvölgy
+HortobÃ¡gy
+HortobÃ¡gy-BorsÃ³s
+HortobÃ¡gy-HalastÃ³
+HortobÃ¡gy-MÃ¡ta
+HortobÃ¡gyi
+HorvÃ¡t
+HorvÃ¡t BoldizsÃ¡r
+HorvÃ¡t IstvÃ¡n
+HorvÃ¡th
+HorvÃ¡th ÃrpÃ¡d
+HorvÃ¡th Cirill
+HorvÃ¡th DÃ¶me
+HorvÃ¡th Endre
+HorvÃ¡th Ferenc
+HorvÃ¡th GyÃ¶rgy
+HorvÃ¡th Imre
+HorvÃ¡th JÃ³zsef
+HorvÃ¡th KÃ¡zmÃ©r
+HorvÃ¡th Lajos
+HorvÃ¡th MÃ¡rk
+HorvÃ¡th MihÃ¡ly
+HorvÃ¡th SÃ¡ndor
+HorvÃ¡th Vince
+HorvÃ¡th ZoltÃ¡n
+HorvÃ¡thbokor
+HorvÃ¡tkÃºti
+HossÃ³
+HosszÃº
+HosszÃºfalu
+HosszÃºfalvi
+HosszÃºhÃ¡t
+HosszÃºhÃ¡ti
+HosszÃºhÃ¡z
+HosszÃºhegy
+HosszÃºhomok
+HosszÃºjÃ¡nka
+HosszÃºlÃ¡z
+HosszÃºmezÅ‘
+HosszÃºpÃ¡lyi
+HosszÃºrÃ©t
+HosszÃºrÃ©ti
+HosszÃºsÃ©tatÃ©r
+HosszÃºtÃ¶ltÃ©s
+HosszÃºvÃ¶lgy
 Hrabovszky
 Hristo Botev
-Hrivnák Pál
-Hrobó
+HrivnÃ¡k PÃ¡l
+HrobÃ³
 Hrsz.095/9
 Hrsz.4078.
 Hrsz.7711/11
@@ -5889,56 +5889,56 @@ Hrsz. 9101/6
 Hrsz. 9997/9
 Hrsz 159/1.
 Hrsz 7/9.
-Húr
-Húszöles
-Hübner András
-Hübner János
-Hüllõ
-Hüvelyes
-Hüvelyk
-Hüvös
-Hûség
-Hûtõház
-Hûvös
-Hûvöskert
-Hûvösvölgy
-Hûvösvölgyi
+HÃºr
+HÃºszÃ¶les
+HÃ¼bner AndrÃ¡s
+HÃ¼bner JÃ¡nos
+HÃ¼llÅ‘
+HÃ¼velyes
+HÃ¼velyk
+HÃ¼vÃ¶s
+HÅ±sÃ©g
+HÅ±tÅ‘hÃ¡z
+HÅ±vÃ¶s
+HÅ±vÃ¶skert
+HÅ±vÃ¶svÃ¶lgy
+HÅ±vÃ¶svÃ¶lgyi
 Huba
-Huba vezér
+Huba vezÃ©r
 Hubai
 Hubay Ferenc
-Hubay Jenõ
+Hubay JenÅ‘
 Hubertus
 Hubertusz
 Hulics
-Hullám
+HullÃ¡m
 Hun
 Hunfalvy
-Hunfalvy Pál
-Hungária
+Hunfalvy PÃ¡l
+HungÃ¡ria
 Hungarocamion
 Hunor
 Hunti Lajos
 Hunyad
 Hunyadi
-Hunyadi János
-Hunyadi László
-Hunyadi Mátyás
-Hunyadi téri csarnok
-Hunyadvár
+Hunyadi JÃ¡nos
+Hunyadi LÃ¡szlÃ³
+Hunyadi MÃ¡tyÃ¡s
+Hunyadi tÃ©ri csarnok
+HunyadvÃ¡r
 Hunyi
 Hunyor
 Huray
 Hurok
-Husáng
-Huszár
-Huszár Andor
-Huszár Gál
-Huszár Mátyás
-Huszár köz
-Huszárvár
+HusÃ¡ng
+HuszÃ¡r
+HuszÃ¡r Andor
+HuszÃ¡r GÃ¡l
+HuszÃ¡r MÃ¡tyÃ¡s
+HuszÃ¡r kÃ¶z
+HuszÃ¡rvÃ¡r
 Huszka J.
-Huszka Jenõ
+Huszka JenÅ‘
 Huszka Lajos
 Huszonharmadik
 Huszonhatodik
@@ -5946,55 +5946,55 @@ Huszonhetes
 Huszonkilencedik
 Huszonnegyedik
 Huszonnyolcadik
-Huszonötödik
+HuszonÃ¶tÃ¶dik
 Huszonya
 Huszt
 Huszti
 Huszti Ferenc
-Huszti György
-Hutás
+Huszti GyÃ¶rgy
+HutÃ¡s
 Hutyra Ferenc
 Huzal
 I.
 I.Kereszt
-I. András
-I. Géza király
-I. István király
-I. kerület
-I. kerület Barát
+I. AndrÃ¡s
+I. GÃ©za kirÃ¡ly
+I. IstvÃ¡n kirÃ¡ly
+I. kerÃ¼let
+I. kerÃ¼let BarÃ¡t
 I.sz.
-Íjász
-Írás
-Írhegy
-Írisz
-Írottkõ
-Ív
-Íves
-Ívókút
+ÃjÃ¡sz
+ÃrÃ¡s
+Ãrhegy
+Ãrisz
+ÃrottkÅ‘
+Ãv
+Ãves
+ÃvÃ³kÃºt
 II.
-II. András király
+II. AndrÃ¡s kirÃ¡ly
 II. Kereszt
 II. Lajos
-II. Rákóczi Ferenc
-II. Töltés
+II. RÃ¡kÃ³czi Ferenc
+II. TÃ¶ltÃ©s
 II.sz.
 III.
 III.-as
 III.Kereszt
-III. Béla
-III. Béla király
+III. BÃ©la
+III. BÃ©la kirÃ¡ly
 IKR park
 IV.
-IV. Béla
-IV. Béla király
-IV. László király
+IV. BÃ©la
+IV. BÃ©la kirÃ¡ly
+IV. LÃ¡szlÃ³ kirÃ¡ly
 IX.
-IX. kerület
+IX. kerÃ¼let
 Ibolya
-Ibolyás
+IbolyÃ¡s
 Ibolya Telep
-Ibrány
-Ibrányi
+IbrÃ¡ny
+IbrÃ¡nyi
 Ibrahim
 Ibrik
 Ibronyi
@@ -6003,265 +6003,265 @@ Idamajor
 Idom
 Ifj. Major Gyula
 Ifj. Reischl Vencel
-Ifjúmunkás
-Ifjúság
-Ifjúsági
-Ifjúsági Centrum
+IfjÃºmunkÃ¡s
+IfjÃºsÃ¡g
+IfjÃºsÃ¡gi
+IfjÃºsÃ¡gi Centrum
 Igari
 Igaz
-Igazság
+IgazsÃ¡g
 Iglice
-Igló
-Iglói
-Igmándi
-Igmándy
-Ignác
+IglÃ³
+IglÃ³i
+IgmÃ¡ndi
+IgmÃ¡ndy
+IgnÃ¡c
 Ignatovity
 Ignotus
 Igric
 Igrice
-Ihász
-Ihászi Kerület
+IhÃ¡sz
+IhÃ¡szi KerÃ¼let
 Iharfa
 Iharos
 Iharosi
 Iker
-Ikervár
+IkervÃ¡r
 Ikon
-Ikravirág
-Ikrényi
+IkravirÃ¡g
+IkrÃ©nyi
 Ikva
-Ikva híd
-Ildikó
+Ikva hÃ­d
+IldikÃ³
 Ilka
 Ilki
 Illatos
-Illényi
-Illés
-Illés Béla
-Illés József
-Illésházy
-Illéstó
-Illésy
+IllÃ©nyi
+IllÃ©s
+IllÃ©s BÃ©la
+IllÃ©s JÃ³zsef
+IllÃ©shÃ¡zy
+IllÃ©stÃ³
+IllÃ©sy
 Illek Vince
 Illocska
-Illyés Gyula
+IllyÃ©s Gyula
 Ilma
 Ilona
 Ilonka
 Ilonkapuszta
 Ilosvai
 Ilosvai Selymes
-Ilosvay Selymes Péter
-Imaház
+Ilosvay Selymes PÃ©ter
+ImahÃ¡z
 Imola
 Imre
 Imremajor
-Inámpuszta
-Inárcsi
-Incsõ
-Inczédy
+InÃ¡mpuszta
+InÃ¡rcsi
+IncsÅ‘
+InczÃ©dy
 Inda
-Indóház
-Induló
+IndÃ³hÃ¡z
+IndulÃ³
 Infopark
-Infû
-Ingókõ
-Ingovány
-Inkey Boldizsár
+InfÅ±
+IngÃ³kÅ‘
+IngovÃ¡ny
+Inkey BoldizsÃ¡r
 Inotai
 Intarzia
-Intézeti
-Intézõ
-Internátus
+IntÃ©zeti
+IntÃ©zÅ‘
+InternÃ¡tus
 Ipacsfa
 Ipar
 Ipari
 Ipari Park
-Ipari feltáró
+Ipari feltÃ¡rÃ³
 Iparkamara
 Iparos
 Ipartelep
 Ipartelepi
-Iparvágány
-Iparvasút
+IparvÃ¡gÃ¡ny
+IparvasÃºt
 Ipoly
 Ipolyi Arnold
 Ipolypart
-Ipolyság
-Ipolyszögi
-Irány
-Irányi
-Irányítótórony
-Irányi Dániel
-Irányi István
+IpolysÃ¡g
+IpolyszÃ¶gi
+IrÃ¡ny
+IrÃ¡nyi
+IrÃ¡nyÃ­tÃ³tÃ³rony
+IrÃ¡nyi DÃ¡niel
+IrÃ¡nyi IstvÃ¡n
 Iram
-Irén
+IrÃ©n
 Iregpuszta
 Irgalmas
 Irgalmasok
 Irha
-Irhás
+IrhÃ¡s
 Irinyi
-Irinyi Dániel
-Irinyi János
-Irinyi József
+Irinyi DÃ¡niel
+Irinyi JÃ¡nos
+Irinyi JÃ³zsef
 Irma
 Irmapuszta
 Irnok
-Irottkõ
+IrottkÅ‘
 Irsa
 Irsai
 Irsapuszta
-Irsay Károly
-Irtás
-Irtási
-Irtáspuszta
-Irtvány
+Irsay KÃ¡roly
+IrtÃ¡s
+IrtÃ¡si
+IrtÃ¡spuszta
+IrtvÃ¡ny
 Isaszeg
 Iskola
 Iskolakert
-Iskolaszög
-Isonzó
-Ispiláng
-Ispotály
+IskolaszÃ¶g
+IsonzÃ³
+IspilÃ¡ng
+IspotÃ¡ly
 Istenhegyi
-Istenmezõ
-Istifángödre
-Istráng
-István
-István-akna
-István bíró
-István király
-István völgy
-Istvánbokor
-Istvánffy
-Istvánffy Gyula
-Istvánffy Miklós
-Istvánmajor
-Istvánmezei
-Istvántanya
-Istvántelek
-Istvántelki
-Istvánújfalu
-Istványi Ferenc
-Iszák
+IstenmezÅ‘
+IstifÃ¡ngÃ¶dre
+IstrÃ¡ng
+IstvÃ¡n
+IstvÃ¡n-akna
+IstvÃ¡n bÃ­rÃ³
+IstvÃ¡n kirÃ¡ly
+IstvÃ¡n vÃ¶lgy
+IstvÃ¡nbokor
+IstvÃ¡nffy
+IstvÃ¡nffy Gyula
+IstvÃ¡nffy MiklÃ³s
+IstvÃ¡nmajor
+IstvÃ¡nmezei
+IstvÃ¡ntanya
+IstvÃ¡ntelek
+IstvÃ¡ntelki
+IstvÃ¡nÃºjfalu
+IstvÃ¡nyi Ferenc
+IszÃ¡k
 Iszalag
 Iszap
-Iszkápa
+IszkÃ¡pa
 Iszkai
-Iszkaszentgyörgyi
-Itató
-Ivádi
-Iván
-Ivánfahegy
-Ivánfahegyalja
-Ivánfi Ede
-Iváni
-Ivánka
-Ivánka Pál
-Ivánvölgy
-Iványi Grünwald Béla
+IszkaszentgyÃ¶rgyi
+ItatÃ³
+IvÃ¡di
+IvÃ¡n
+IvÃ¡nfahegy
+IvÃ¡nfahegyalja
+IvÃ¡nfi Ede
+IvÃ¡ni
+IvÃ¡nka
+IvÃ¡nka PÃ¡l
+IvÃ¡nvÃ¶lgy
+IvÃ¡nyi GrÃ¼nwald BÃ©la
 Ivanich Antal
 Ivanits
-Ivó
+IvÃ³
 Izabella
-Izabella királyné
-Izbég
-Izbonyó
+Izabella kirÃ¡lynÃ©
+IzbÃ©g
+IzbonyÃ³
 Izra
-Izsáki
-Izsó
-Izsó Miklós
-Izsóp
-Izzó
-Jácint
-Jáger
-Jáger János
-Jáhn Ferenc
-Ják
-Ják-Felsõnyírvár
-Jáki
-Jáki Nagy Márton
-Jáki temetõ elõtt
-Jákó Balázs
-Jákói
-Jákum Ferenc
-Jáky József
-Jámbor Lajos
-Jámbor Pál
-Jámbor Vilmos
-Jándi
-Jánkahegy
-Jánkahegyi
-János
-János Vitéz
-János Zsigmond
-Jánosbogár
-Jánosbokor
-Jánoshegy
-Jánoshegyi
-Jánoshida
-Jánosi
-Jánosi Ferenc
-Jánosik
-Jánoskert
-Jánoskúti
-Jánosmajor
-Jánossomorjai
-Jánostanya
-Jánostava
-Járdányi Pál
-Járdányi professzor
-Jármi
-Jármûtelep
-Jármytanya
-Járó József
-Járó Péter
-Járóka
-Járõr
-Járom
-Jász
-Jászágó
-Jászai
-Jászai Mari
-Jászapáti
-Jászberényi
-Jászdózsa
-Jászfalusi
-Jászhalom
-Jászi
-Jászi Oszkár
-Jászivány
-Jászkarajenõi
-Jászkisér
-Jászkürt
-Jászkun
-Jászladány
-Jászladányi
-Jászladányi út-Vásártér
-Jászóvár
-Jásztelek
-Jászteleki
-Játék
-Játszó
-Játszótér
-Jávor
-Jávorfa
-Jávorka Ádám
-Jávorkút
-Jázmin
-Jázminos
+IzsÃ¡ki
+IzsÃ³
+IzsÃ³ MiklÃ³s
+IzsÃ³p
+IzzÃ³
+JÃ¡cint
+JÃ¡ger
+JÃ¡ger JÃ¡nos
+JÃ¡hn Ferenc
+JÃ¡k
+JÃ¡k-FelsÅ‘nyÃ­rvÃ¡r
+JÃ¡ki
+JÃ¡ki Nagy MÃ¡rton
+JÃ¡ki temetÅ‘ elÅ‘tt
+JÃ¡kÃ³ BalÃ¡zs
+JÃ¡kÃ³i
+JÃ¡kum Ferenc
+JÃ¡ky JÃ³zsef
+JÃ¡mbor Lajos
+JÃ¡mbor PÃ¡l
+JÃ¡mbor Vilmos
+JÃ¡ndi
+JÃ¡nkahegy
+JÃ¡nkahegyi
+JÃ¡nos
+JÃ¡nos VitÃ©z
+JÃ¡nos Zsigmond
+JÃ¡nosbogÃ¡r
+JÃ¡nosbokor
+JÃ¡noshegy
+JÃ¡noshegyi
+JÃ¡noshida
+JÃ¡nosi
+JÃ¡nosi Ferenc
+JÃ¡nosik
+JÃ¡noskert
+JÃ¡noskÃºti
+JÃ¡nosmajor
+JÃ¡nossomorjai
+JÃ¡nostanya
+JÃ¡nostava
+JÃ¡rdÃ¡nyi PÃ¡l
+JÃ¡rdÃ¡nyi professzor
+JÃ¡rmi
+JÃ¡rmÅ±telep
+JÃ¡rmytanya
+JÃ¡rÃ³ JÃ³zsef
+JÃ¡rÃ³ PÃ©ter
+JÃ¡rÃ³ka
+JÃ¡rÅ‘r
+JÃ¡rom
+JÃ¡sz
+JÃ¡szÃ¡gÃ³
+JÃ¡szai
+JÃ¡szai Mari
+JÃ¡szapÃ¡ti
+JÃ¡szberÃ©nyi
+JÃ¡szdÃ³zsa
+JÃ¡szfalusi
+JÃ¡szhalom
+JÃ¡szi
+JÃ¡szi OszkÃ¡r
+JÃ¡szivÃ¡ny
+JÃ¡szkarajenÅ‘i
+JÃ¡szkisÃ©r
+JÃ¡szkÃ¼rt
+JÃ¡szkun
+JÃ¡szladÃ¡ny
+JÃ¡szladÃ¡nyi
+JÃ¡szladÃ¡nyi Ãºt-VÃ¡sÃ¡rtÃ©r
+JÃ¡szÃ³vÃ¡r
+JÃ¡sztelek
+JÃ¡szteleki
+JÃ¡tÃ©k
+JÃ¡tszÃ³
+JÃ¡tszÃ³tÃ©r
+JÃ¡vor
+JÃ¡vorfa
+JÃ¡vorka ÃdÃ¡m
+JÃ¡vorkÃºt
+JÃ¡zmin
+JÃ¡zminos
 Jabapuszta
 Jablonka
 Jaczkovics
-Jagelló
-Jajgató
+JagellÃ³
+JajgatÃ³
 Jakab
-Jakab József
-Jakab Károly
+Jakab JÃ³zsef
+Jakab KÃ¡roly
 Jakab Lajos
-Jakabháza
+JakabhÃ¡za
 Jakabhegyi
 Jakabi
 Jakabkuti
@@ -6269,321 +6269,321 @@ Jakobinus
 Jaksori
 Jakusbokor
 Janafoki
-Jancsár
+JancsÃ¡r
 Jancsi
 Janda Vilmos
-Janicsár
+JanicsÃ¡r
 Janka
 Jankovich
 Jankovich Ferenc
 Jankovich Gyula
 Jankovics
-Jankovics Dezsõ
+Jankovics DezsÅ‘
 Jankovics Gyula
 Janus Pannonius
 Janya
 Jazvinapuszta
-Jég
-Jégcsap
-Jégeres
-Jégeri
-Jéggyár
-Jégmadár
-Jégpince
-Jégverem
-Jégvirág
-Jékei
-Jékely Zoltán
-Jéki
-Jérce
-Jedlik Ányos
+JÃ©g
+JÃ©gcsap
+JÃ©geres
+JÃ©geri
+JÃ©ggyÃ¡r
+JÃ©gmadÃ¡r
+JÃ©gpince
+JÃ©gverem
+JÃ©gvirÃ¡g
+JÃ©kei
+JÃ©kely ZoltÃ¡n
+JÃ©ki
+JÃ©rce
+Jedlik Ãnyos
 Jegenye
-Jegenyés
+JegenyÃ©s
 Jegenyefa
 Jegenyesor
 Jeges
 Jegesmedve
 Jegespuszta
-Jegyzõ
-Jegyzõkert
+JegyzÅ‘
+JegyzÅ‘kert
 Jelenek
 Jeles
-Jeles György
-Jelinek Károly
-Jelky András
-Jelvény
-Jelzõ
-Jendrassik György
+Jeles GyÃ¶rgy
+Jelinek KÃ¡roly
+Jelky AndrÃ¡s
+JelvÃ©ny
+JelzÅ‘
+Jendrassik GyÃ¶rgy
 Jenkei
-Jenõ
-Jenõháza
-Jenõhalom
+JenÅ‘
+JenÅ‘hÃ¡za
+JenÅ‘halom
 Jenyei
-Jereváni
-Jerikó
+JerevÃ¡ni
+JerikÃ³
 Jerney
-Jeruzsálem
-Jeszenák János
-Jeszenszky Kálmán
-Jó
-Jó szerencse
-Jókai
-Jókai Mór
-Jólét
-Jónás Béla
-Jónás rész
-Jónáshegy
-Jópalócok
-Jóreménység
-Jós
-Jósa András
-Jósika
-Jósika Miklós
-Jósva
-Jósvafõi
-Jószeremcsét
-Jószerencse
-Jószerencsét
-Jószív
-Jóvízmajor
-Jóvilág
-Józan
-Józsa
-Józsa Béla
-Józsai
-Józsakert
-József
-József-liget
-József Attila
-József nádor
-Józsefháza
-Józsefhegy
-Józsefhegyi
-Józsefmajor
-Józsefszállás
-Józsefváros
-Józsefvárosi
-Józsefvárosi pályaudvar
-Jövendõ
-Jövõ
+JeruzsÃ¡lem
+JeszenÃ¡k JÃ¡nos
+Jeszenszky KÃ¡lmÃ¡n
+JÃ³
+JÃ³ szerencse
+JÃ³kai
+JÃ³kai MÃ³r
+JÃ³lÃ©t
+JÃ³nÃ¡s BÃ©la
+JÃ³nÃ¡s rÃ©sz
+JÃ³nÃ¡shegy
+JÃ³palÃ³cok
+JÃ³remÃ©nysÃ©g
+JÃ³s
+JÃ³sa AndrÃ¡s
+JÃ³sika
+JÃ³sika MiklÃ³s
+JÃ³sva
+JÃ³svafÅ‘i
+JÃ³szeremcsÃ©t
+JÃ³szerencse
+JÃ³szerencsÃ©t
+JÃ³szÃ­v
+JÃ³vÃ­zmajor
+JÃ³vilÃ¡g
+JÃ³zan
+JÃ³zsa
+JÃ³zsa BÃ©la
+JÃ³zsai
+JÃ³zsakert
+JÃ³zsef
+JÃ³zsef-liget
+JÃ³zsef Attila
+JÃ³zsef nÃ¡dor
+JÃ³zsefhÃ¡za
+JÃ³zsefhegy
+JÃ³zsefhegyi
+JÃ³zsefmajor
+JÃ³zsefszÃ¡llÃ¡s
+JÃ³zsefvÃ¡ros
+JÃ³zsefvÃ¡rosi
+JÃ³zsefvÃ¡rosi pÃ¡lyaudvar
+JÃ¶vendÅ‘
+JÃ¶vÅ‘
 Jobb
 Jobb fasor
-Jobbágy
-Jobbágyõsök
+JobbÃ¡gy
+JobbÃ¡gyÅ‘sÃ¶k
 Jog
-Jogász
+JogÃ¡sz
 Jogar
 Johanna
-Jolán
-Jolánka
+JolÃ¡n
+JolÃ¡nka
 Jolsva
-Jonatán
-Joó János
-Joó Mária
-Joó Mór
+JonatÃ¡n
+JoÃ³ JÃ¡nos
+JoÃ³ MÃ¡ria
+JoÃ³ MÃ³r
 Joseph Haydn
-Júlia
-Júliamajor
-Július
-Június
+JÃºlia
+JÃºliamajor
+JÃºlius
+JÃºnius
 Jubileum
 Jubileumi
 Judit
-Juhász
-Juhász Béni
-Juhász Géza
-Juhász Gyula
-Juhász József
-Juhász Nagy Sándor
+JuhÃ¡sz
+JuhÃ¡sz BÃ©ni
+JuhÃ¡sz GÃ©za
+JuhÃ¡sz Gyula
+JuhÃ¡sz JÃ³zsef
+JuhÃ¡sz Nagy SÃ¡ndor
 Juhar
 Juharfa
-Juharfás
+JuharfÃ¡s
 Juharos
-Juhépuszta
+JuhÃ©puszta
 Juhos
 Juhtelep
-Juliánus barát
-Julianus barát
+JuliÃ¡nus barÃ¡t
+Julianus barÃ¡t
 Jupiter
-Jurányi
+JurÃ¡nyi
 Juranics
 Jurisics
-Jurisics Miklós
-Jurkovics Béla
+Jurisics MiklÃ³s
+Jurkovics BÃ©la
 Jurta kemping
 Justh
 Justh Gyula
 Jutai
 Jutas
-Kábel
-Kábelgyári
-Kácsa
-Kácsárd
-Kácsi
-Kádár
-Kádár József
-Kádár Kata
-Kádár Lajos
-Kádár dûlõ
-Kádár tanító
-Kádár vitéz
-Kádárta Major
-Kádártai
-Kádas
-Káka
-Kákás
-Kákástó
-Kála
-Káldor Adolf
-Káldy
-Káldy Gyula
-Káli
-Kállai
-Kállai Éva
-Kállai Mihály
-Kállai Tivadar
-Kállay
-Kállay Albert
-Kálló
-Kálló esperes
-Kállói
-Kállósemjéni
-Kálmán
-Kálmán Ferenc
-Kálmán Imre
-Kálmán király
-Kálmánchelyi
-Kálmánczy tanya
-Kálmánhegy
-Kálmány Lajos
-Kálmos
-Kálnok
-Kálnoki
-Kálnokszög
-Kálócfa
-Kálóczy
-Kálonga
-Kálvária
-Kálváriahegy
-Kálvin
-Kálvin János
-Kálvin tér aluljáró
-Kálvin téri aluljáró
-Kálvin téri üzletközpont
-Kálvineum
-Kálvinista
-Kályhás
-Kámán
-Kámáncs
-Kámáncspuszta
-Kámaháza
-Kámfor
-Kámor
-Kámváskuti
-Kánártetõ
-Kántor
-Kántor Sándor
-Kántorjánosi
-Kántorna
-Kántorné
-Kántorvár
-Kánváskuti
-Kánya
-Kányási
-Kányavár
-Kápa
-Káplár
-Káplár Miklós
-Kápoli
-Kápolna
-Kápolna-tanya
-Kápolnásvisnye
-Kápolna domb
-Kápolnaalja
-Kápolnahegy
-Kápolnai
-Kápolnavölgyi
-Kápolnavölgyi hrsz.
-Káposztás
-Káposztáskert
-Káposztásmegyer
-Káposztásmegyeri
-Káposztásvölgyi
-Káptalan
-Káptalandomb
-Káptalanfüred bolt
-Káptalantóti
-Kárász
-Kármán Tódor
-Kármentõ
-Kárókatona
-Károli Gáspár
-Károly
-Károly-magaslat
-Károly Iréneusz József
-Károly János
-Károly Király
-Károly Róbert
-Károlyháza
-Károlyháza,Határ sor
-Károlyháza,Mezõ
-Károlyi
-Károlyi Antal
-Károlyi Gáspár
-Károlyi István
-Károlyi Mihály
-Károlyi Sándor
-Károlymagaslati
-Károlymajor
-Károlytelep
-Kárpát
-Kárpátalja
-Kárpáti
-Kárpáti Aurél
-Kárpáti Kelemen
-Kárpátok
-Kárpitos
-Kártya
-Kása
-Kásádi
-Kásás
-Kásáshegyalja
-Kása János
-Kásipuszta
-Kászon
-Kászony
-Kátai
-Kátai Gábor
-Kátay
-Kázmér
-Kázméri
-Kaáli Nagy Dezsõ
-Kaán Károly
+KÃ¡bel
+KÃ¡belgyÃ¡ri
+KÃ¡csa
+KÃ¡csÃ¡rd
+KÃ¡csi
+KÃ¡dÃ¡r
+KÃ¡dÃ¡r JÃ³zsef
+KÃ¡dÃ¡r Kata
+KÃ¡dÃ¡r Lajos
+KÃ¡dÃ¡r dÅ±lÅ‘
+KÃ¡dÃ¡r tanÃ­tÃ³
+KÃ¡dÃ¡r vitÃ©z
+KÃ¡dÃ¡rta Major
+KÃ¡dÃ¡rtai
+KÃ¡das
+KÃ¡ka
+KÃ¡kÃ¡s
+KÃ¡kÃ¡stÃ³
+KÃ¡la
+KÃ¡ldor Adolf
+KÃ¡ldy
+KÃ¡ldy Gyula
+KÃ¡li
+KÃ¡llai
+KÃ¡llai Ã‰va
+KÃ¡llai MihÃ¡ly
+KÃ¡llai Tivadar
+KÃ¡llay
+KÃ¡llay Albert
+KÃ¡llÃ³
+KÃ¡llÃ³ esperes
+KÃ¡llÃ³i
+KÃ¡llÃ³semjÃ©ni
+KÃ¡lmÃ¡n
+KÃ¡lmÃ¡n Ferenc
+KÃ¡lmÃ¡n Imre
+KÃ¡lmÃ¡n kirÃ¡ly
+KÃ¡lmÃ¡nchelyi
+KÃ¡lmÃ¡nczy tanya
+KÃ¡lmÃ¡nhegy
+KÃ¡lmÃ¡ny Lajos
+KÃ¡lmos
+KÃ¡lnok
+KÃ¡lnoki
+KÃ¡lnokszÃ¶g
+KÃ¡lÃ³cfa
+KÃ¡lÃ³czy
+KÃ¡longa
+KÃ¡lvÃ¡ria
+KÃ¡lvÃ¡riahegy
+KÃ¡lvin
+KÃ¡lvin JÃ¡nos
+KÃ¡lvin tÃ©r aluljÃ¡rÃ³
+KÃ¡lvin tÃ©ri aluljÃ¡rÃ³
+KÃ¡lvin tÃ©ri Ã¼zletkÃ¶zpont
+KÃ¡lvineum
+KÃ¡lvinista
+KÃ¡lyhÃ¡s
+KÃ¡mÃ¡n
+KÃ¡mÃ¡ncs
+KÃ¡mÃ¡ncspuszta
+KÃ¡mahÃ¡za
+KÃ¡mfor
+KÃ¡mor
+KÃ¡mvÃ¡skuti
+KÃ¡nÃ¡rtetÅ‘
+KÃ¡ntor
+KÃ¡ntor SÃ¡ndor
+KÃ¡ntorjÃ¡nosi
+KÃ¡ntorna
+KÃ¡ntornÃ©
+KÃ¡ntorvÃ¡r
+KÃ¡nvÃ¡skuti
+KÃ¡nya
+KÃ¡nyÃ¡si
+KÃ¡nyavÃ¡r
+KÃ¡pa
+KÃ¡plÃ¡r
+KÃ¡plÃ¡r MiklÃ³s
+KÃ¡poli
+KÃ¡polna
+KÃ¡polna-tanya
+KÃ¡polnÃ¡svisnye
+KÃ¡polna domb
+KÃ¡polnaalja
+KÃ¡polnahegy
+KÃ¡polnai
+KÃ¡polnavÃ¶lgyi
+KÃ¡polnavÃ¶lgyi hrsz.
+KÃ¡posztÃ¡s
+KÃ¡posztÃ¡skert
+KÃ¡posztÃ¡smegyer
+KÃ¡posztÃ¡smegyeri
+KÃ¡posztÃ¡svÃ¶lgyi
+KÃ¡ptalan
+KÃ¡ptalandomb
+KÃ¡ptalanfÃ¼red bolt
+KÃ¡ptalantÃ³ti
+KÃ¡rÃ¡sz
+KÃ¡rmÃ¡n TÃ³dor
+KÃ¡rmentÅ‘
+KÃ¡rÃ³katona
+KÃ¡roli GÃ¡spÃ¡r
+KÃ¡roly
+KÃ¡roly-magaslat
+KÃ¡roly IrÃ©neusz JÃ³zsef
+KÃ¡roly JÃ¡nos
+KÃ¡roly KirÃ¡ly
+KÃ¡roly RÃ³bert
+KÃ¡rolyhÃ¡za
+KÃ¡rolyhÃ¡za,HatÃ¡r sor
+KÃ¡rolyhÃ¡za,MezÅ‘
+KÃ¡rolyi
+KÃ¡rolyi Antal
+KÃ¡rolyi GÃ¡spÃ¡r
+KÃ¡rolyi IstvÃ¡n
+KÃ¡rolyi MihÃ¡ly
+KÃ¡rolyi SÃ¡ndor
+KÃ¡rolymagaslati
+KÃ¡rolymajor
+KÃ¡rolytelep
+KÃ¡rpÃ¡t
+KÃ¡rpÃ¡talja
+KÃ¡rpÃ¡ti
+KÃ¡rpÃ¡ti AurÃ©l
+KÃ¡rpÃ¡ti Kelemen
+KÃ¡rpÃ¡tok
+KÃ¡rpitos
+KÃ¡rtya
+KÃ¡sa
+KÃ¡sÃ¡di
+KÃ¡sÃ¡s
+KÃ¡sÃ¡shegyalja
+KÃ¡sa JÃ¡nos
+KÃ¡sipuszta
+KÃ¡szon
+KÃ¡szony
+KÃ¡tai
+KÃ¡tai GÃ¡bor
+KÃ¡tay
+KÃ¡zmÃ©r
+KÃ¡zmÃ©ri
+KaÃ¡li Nagy DezsÅ‘
+KaÃ¡n KÃ¡roly
 Kaba
 Kabai
-Kabalás
+KabalÃ¡s
 Kabar
-Kabay János
-Kabay József
-Kablár
-Kabók Lajos
-Kabókapuszta
-Kabókapuszta Csokonai Mihály
-Kabókapuszta Juhász Gyula
+Kabay JÃ¡nos
+Kabay JÃ³zsef
+KablÃ¡r
+KabÃ³k Lajos
+KabÃ³kapuszta
+KabÃ³kapuszta Csokonai MihÃ¡ly
+KabÃ³kapuszta JuhÃ¡sz Gyula
 Kaboldi
-Kacagány
-Kacagó
+KacagÃ¡ny
+KacagÃ³
 Kacs
 Kacsa
 Kacsajtos
 Kacsajtosi
 Kacsapart
-Kacsavár
-Kacsóh
-Kacsóh Pongrác
+KacsavÃ¡r
+KacsÃ³h
+KacsÃ³h PongrÃ¡c
 Kada
 Kada Elek
-Kadacsúcs
+KadacsÃºcs
 Kadafalva
 Kadafalvi
 Kadar
@@ -6592,38 +6592,38 @@ Kadarka
 Kadocsa
 Kadocsa Gyula
 Kadosa
-Kadosa Pál
+Kadosa PÃ¡l
 Kaffka Margit
-Kagyló
-Kajár
+KagylÃ³
+KajÃ¡r
 Kajak
 Kajakos
 Kajdi
-Kajmád
+KajmÃ¡d
 Kajszi
 Kajtor
 Kakas
-Kakascsárda
-Kakasdûlõ
+KakascsÃ¡rda
+KakasdÅ±lÅ‘
 Kakashegy
 Kakashegyi
 Kakasi
-Kakasszék
-Kakastó
+KakasszÃ©k
+KakastÃ³
 Kaktusz
 Kakukk
-Kakukk József
-Kakukkfû
+Kakukk JÃ³zsef
+KakukkfÅ±
 Kakukkhegy
 Kakukkhegyi
-Kalács
-Kaláris
-Kalász
-Kalászi
-Kalászos
-Kalamár
+KalÃ¡cs
+KalÃ¡ris
+KalÃ¡sz
+KalÃ¡szi
+KalÃ¡szos
+KalamÃ¡r
 Kalap
-Kalapács
+KalapÃ¡cs
 Kalaphegyi
 Kalapos
 Kalauz
@@ -6631,68 +6631,68 @@ Kalcit
 Kalevala
 Kalicsmajor
 Kalitka
-Kalló
-Kallómalom
-Kalmár
-Kalmár Gy.
-Kalmár J.
-Kalmár József
-Kalmárvölgy
-Kalóz
-Kalocsa Balázs
+KallÃ³
+KallÃ³malom
+KalmÃ¡r
+KalmÃ¡r Gy.
+KalmÃ¡r J.
+KalmÃ¡r JÃ³zsef
+KalmÃ¡rvÃ¶lgy
+KalÃ³z
+Kalocsa BalÃ¡zs
 Kalocsai
-Kalocsay Kálmán
+Kalocsay KÃ¡lmÃ¡n
 Kalotaszeg
 Kalotaszegi
-Kaluckó
-Kamarási
+KaluckÃ³
+KamarÃ¡si
 Kamaraerdei
-Kamaraerdõ
-Kamaraerdõ-Vadászhegy
+KamaraerdÅ‘
+KamaraerdÅ‘-VadÃ¡szhegy
 Kamberek
-Kamélia
+KamÃ©lia
 Kamilla
 Kamocsatelep
 Kamondi
-Kamonkõi
-Kampler Kálmán
+KamonkÅ‘i
+Kampler KÃ¡lmÃ¡n
 Kamra
-Kanális
-Kanári
-Kanázsvár
+KanÃ¡lis
+KanÃ¡ri
+KanÃ¡zsvÃ¡r
 Kanacsi
 Kanada
-Kancsó
+KancsÃ³
 Kandel Henrik
 Kandia
-Kandó
-Kandó Kálmán
+KandÃ³
+KandÃ³ KÃ¡lmÃ¡n
 Kandra Kabos
 Kanicai
 Kanizsa
 Kanizsai
 Kanizsai Dorottya
 Kankalin
-Kanóc
+KanÃ³c
 Kanonok
-Kantár
-Kanyári
+KantÃ¡r
+KanyÃ¡ri
 Kanyar
-Kanyargó
+KanyargÃ³
 Kaolin
 Kapa
-Kapás
-Kapásfalu
-Kapáskút
-Kapaszkodó
-Kapcaréti
+KapÃ¡s
+KapÃ¡sfalu
+KapÃ¡skÃºt
+KapaszkodÃ³
+KapcarÃ©ti
 Kapernaum
 Kapici
-Kapisztrán
-Kapisztrán János
-Kapitány
-Kapitányhegy
-Kapitánypuszta
+KapisztrÃ¡n
+KapisztrÃ¡n JÃ¡nos
+KapitÃ¡ny
+KapitÃ¡nyhegy
+KapitÃ¡nypuszta
 Kapocs
 Kapolcs
 Kapoli Antal
@@ -6701,61 +6701,61 @@ Kapolyi
 Kapor
 Kapos
 Kaposdada
-Kaposfüredi
+KaposfÃ¼redi
 Kaposhegy
-Kaposi János
-Kaposi Mór
+Kaposi JÃ¡nos
+Kaposi MÃ³r
 Kapospart
-Kaposrét
+KaposrÃ©t
 Kaposszentbenedek
-Kaposvár
-Kaposvári
+KaposvÃ¡r
+KaposvÃ¡ri
 Kappanhalom
-Kaptár
-Kaptárkõ
-Kaptató
+KaptÃ¡r
+KaptÃ¡rkÅ‘
+KaptatÃ³
 Kapu
 Kapucinus
 Kapus
-Kapuvár
+KapuvÃ¡r
 Kapy
 Kar
 Kara
-Karácsony
-Karácsony György
-Karácsony Sándor
-Karácsonyi
-Karácsonylova
-Karánsebes
-Karánsebesi
-Karát
-Karabély
+KarÃ¡csony
+KarÃ¡csony GyÃ¶rgy
+KarÃ¡csony SÃ¡ndor
+KarÃ¡csonyi
+KarÃ¡csonylova
+KarÃ¡nsebes
+KarÃ¡nsebesi
+KarÃ¡t
+KarabÃ©ly
 Karacs Ferenc
-Karacs Teréz
-Karacs térképcsináló
+Karacs TerÃ©z
+Karacs tÃ©rkÃ©pcsinÃ¡lÃ³
 Karai
 Karancs
 Karap
 Karap Ferenc
 Karasica
-Karaszifok Gátõrház
+Karaszifok GÃ¡tÅ‘rhÃ¡z
 Karatna
 Karcag
 Karcagi
-Karcsú
-Karczag László
+KarcsÃº
+Karczag LÃ¡szlÃ³
 Kard
-Kardán
+KardÃ¡n
 Kardhegy
 Kardos
 Kardos Albert
-Kardvirág
-Karéj
+KardvirÃ¡g
+KarÃ©j
 Karika
-Karikás
-Karikás Frigyes
-Karikó
-Karinkó
+KarikÃ¡s
+KarikÃ¡s Frigyes
+KarikÃ³
+KarinkÃ³
 Karinthy
 Karinthy Frigyes
 Karmazsin
@@ -6765,7 +6765,7 @@ Karolai
 Karolina
 Karpatus
 Karsai
-Kartács
+KartÃ¡cs
 Kartal
 Kartali
 Karthauzi
@@ -6773,71 +6773,71 @@ Karton
 Karu
 Karvaly
 Kas
-Kasfonó
-Kaskötõ
+KasfonÃ³
+KaskÃ¶tÅ‘
 Kassa
-Kassák
-Kassák Lajos
+KassÃ¡k
+KassÃ¡k Lajos
 Kassai
 Kastal
-Kastély
-Kastélydomb
-Kastélykert
-Kastélyköz
-Kastélymúzeum
-Kastélypark
-Kastélysor
+KastÃ©ly
+KastÃ©lydomb
+KastÃ©lykert
+KastÃ©lykÃ¶z
+KastÃ©lymÃºzeum
+KastÃ©lypark
+KastÃ©lysor
 Kasza
-Kaszáló
-Kaszárnya
-Kaszárnya szél
-Kaszás
-Kaszásdûlõ
-Kaszásköz
-Kasza János
-Kaszaházi
-Kaszakõ
+KaszÃ¡lÃ³
+KaszÃ¡rnya
+KaszÃ¡rnya szÃ©l
+KaszÃ¡s
+KaszÃ¡sdÅ±lÅ‘
+KaszÃ¡skÃ¶z
+Kasza JÃ¡nos
+KaszahÃ¡zi
+KaszakÅ‘
 Kaszap
-Kaszap István
-Kaszap Nagy István
+Kaszap IstvÃ¡n
+Kaszap Nagy IstvÃ¡n
 Kaszapovics
 Kaszatanya
-Kaszinó
-Kaszópuszta
-Katáng
+KaszinÃ³
+KaszÃ³puszta
+KatÃ¡ng
 Katafa
 Katakomba
 Katalin
 Katalinpuszta
 Katica
-Katicabogár
+KaticabogÃ¡r
 Katinka
 Katlan
-Katóka
+KatÃ³ka
 Katona
-Katona Dénes
+Katona DÃ©nes
 Katona Gyula
-Katona István
-Katona József
+Katona IstvÃ¡n
+Katona JÃ³zsef
 Katona Lajos
-Katona Pál
-Katona Sándor
+Katona PÃ¡l
+Katona SÃ¡ndor
 Katona Zsigmond
 Katonatelep
 Katowice
-Katymár
+KatymÃ¡r
 Kauzsai
 Kavics
-Kavicsbánya
+KavicsbÃ¡nya
 Kavicsos
-Kavulák
+KavulÃ¡k
 Kaza
-Kazán
-Kazánház
-Kazár
-Kazárbokor
-Kazári
-Kazármajor
+KazÃ¡n
+KazÃ¡nhÃ¡z
+KazÃ¡r
+KazÃ¡rbokor
+KazÃ¡ri
+KazÃ¡rmajor
 Kazal
 Kazamata
 Kazanlak
@@ -6847,72 +6847,72 @@ Kazinczbarcikai
 Kazinczy
 Kazinczy Ferenc
 Kazinczy Lajos
-Kécskei
-Kégl György
-Kék
-Kék Golyó
-Kéka
-Kékbegy
-Kékcinke
-Kékcsei
-Kékes
-Kékesi
-Kékestetõ
-Kékfestõ
-Kéki
-Kéki-dülõ
-Kékkõ
-Kékliliom
-Kéknefelejcs
-Kéknyelû
-Kéktó
-Kékvirág
-Kéky Lajos
-Kéméndi
-Kémény
-Kéményseprõ
-Kén
-Kénytelen
-Kép
-Képes Géza
-Képespuszta
-Képíró
-Képúti
-Képviselõ
-Kér
-Kérész
-Kéreg
-Kéri
-Kérõ
-Késmárk
-Késmárki
-Készenléti
-Kétágú
-Kétér
-Kétezeregy
-Kétgátköz
-Kétház
-Kéthly
-Kétlovas
-Kétmalom
-Kétnyár
-Kétrózsa
-Kétsor
-Kéttemplom
-Kétújfalu
-Kétútközi
-Kétvárköz
-Kétvölgyi
-Kéve
-Kévekötõ
-Kéz
-Kézbesítõ
-Kézdi
-Kézdivásárhely
-Kézmûves
-Kézsmárk
-Kézsmárki
-Kézy László
+KÃ©cskei
+KÃ©gl GyÃ¶rgy
+KÃ©k
+KÃ©k GolyÃ³
+KÃ©ka
+KÃ©kbegy
+KÃ©kcinke
+KÃ©kcsei
+KÃ©kes
+KÃ©kesi
+KÃ©kestetÅ‘
+KÃ©kfestÅ‘
+KÃ©ki
+KÃ©ki-dÃ¼lÅ‘
+KÃ©kkÅ‘
+KÃ©kliliom
+KÃ©knefelejcs
+KÃ©knyelÅ±
+KÃ©ktÃ³
+KÃ©kvirÃ¡g
+KÃ©ky Lajos
+KÃ©mÃ©ndi
+KÃ©mÃ©ny
+KÃ©mÃ©nyseprÅ‘
+KÃ©n
+KÃ©nytelen
+KÃ©p
+KÃ©pes GÃ©za
+KÃ©pespuszta
+KÃ©pÃ­rÃ³
+KÃ©pÃºti
+KÃ©pviselÅ‘
+KÃ©r
+KÃ©rÃ©sz
+KÃ©reg
+KÃ©ri
+KÃ©rÅ‘
+KÃ©smÃ¡rk
+KÃ©smÃ¡rki
+KÃ©szenlÃ©ti
+KÃ©tÃ¡gÃº
+KÃ©tÃ©r
+KÃ©tezeregy
+KÃ©tgÃ¡tkÃ¶z
+KÃ©thÃ¡z
+KÃ©thly
+KÃ©tlovas
+KÃ©tmalom
+KÃ©tnyÃ¡r
+KÃ©trÃ³zsa
+KÃ©tsor
+KÃ©ttemplom
+KÃ©tÃºjfalu
+KÃ©tÃºtkÃ¶zi
+KÃ©tvÃ¡rkÃ¶z
+KÃ©tvÃ¶lgyi
+KÃ©ve
+KÃ©vekÃ¶tÅ‘
+KÃ©z
+KÃ©zbesÃ­tÅ‘
+KÃ©zdi
+KÃ©zdivÃ¡sÃ¡rhely
+KÃ©zmÅ±ves
+KÃ©zsmÃ¡rk
+KÃ©zsmÃ¡rki
+KÃ©zy LÃ¡szlÃ³
 Kece
 Kecel
 Kecelhegyaljai
@@ -6920,270 +6920,270 @@ Kecelhegyi
 Kecsege
 Kecses
 Kecske
-Kecskédi
-Kecskédi reptér
-Kecskés
-Kecskés Ferenc
-Kecskés Gyula
-Kecskés János
-Kecskés T.
-Kecskés Tamás
-Kecskés dûlõ
-Kecskéscsárda
-Kecskefûz
-Kecskeköröm
-Kecskeméti
-Kecskeméti József
-Kecskeméti Végh Mihály
-Kecskeszõlõ
+KecskÃ©di
+KecskÃ©di reptÃ©r
+KecskÃ©s
+KecskÃ©s Ferenc
+KecskÃ©s Gyula
+KecskÃ©s JÃ¡nos
+KecskÃ©s T.
+KecskÃ©s TamÃ¡s
+KecskÃ©s dÅ±lÅ‘
+KecskÃ©scsÃ¡rda
+KecskefÅ±z
+KecskekÃ¶rÃ¶m
+KecskemÃ©ti
+KecskemÃ©ti JÃ³zsef
+KecskemÃ©ti VÃ©gh MihÃ¡ly
+KecskeszÅ‘lÅ‘
 Kedves
-Keér
-Keglevich Károly
-Keglevich Miklós
+KeÃ©r
+Keglevich KÃ¡roly
+Keglevich MiklÃ³s
 Kegyelet
 Kegyes
 Kehely
 Kelcz-Adelffy
 Kele
-Kelén
-Kelénpataki
-Kelecsény
+KelÃ©n
+KelÃ©npataki
+KelecsÃ©ny
 Keled
 Kelemen
-Kelemen Béla
-Kelemen Béla uti üzletsor
-Kelemen Didák
+Kelemen BÃ©la
+Kelemen BÃ©la uti Ã¼zletsor
+Kelemen DidÃ¡k
 Kelemen Imre
-Kelemen László
-Kelenföldi
+Kelemen LÃ¡szlÃ³
+KelenfÃ¶ldi
 Kelenhegyi
-Kelenvölgyi
+KelenvÃ¶lgyi
 Kelep
 Kelet
 Keleti
-Keleti-Fõcsatorna
-Keleti-Fõcsatorna Bt
-Keleti-Fõcsatorna D
-Keleti-Fõcsatorna DK
-Keleti-Fõcsatorna DL
-Keleti-Fõcsatorna E
-Keleti-Fõcsatorna Híd
-Keleti-Fõcsatorna N
+Keleti-FÅ‘csatorna
+Keleti-FÅ‘csatorna Bt
+Keleti-FÅ‘csatorna D
+Keleti-FÅ‘csatorna DK
+Keleti-FÅ‘csatorna DL
+Keleti-FÅ‘csatorna E
+Keleti-FÅ‘csatorna HÃ­d
+Keleti-FÅ‘csatorna N
 Keleti Ipar
-Keleti Károly
-Keleti fény
+Keleti KÃ¡roly
+Keleti fÃ©ny
 Keleti ipartelep
 Keleti sor
 Keleti szer
-Keletifény
-Keletiköz
-Keletivánfa
-Kelevéz
-Keller János
+KeletifÃ©ny
+KeletikÃ¶z
+KeletivÃ¡nfa
+KelevÃ©z
+Keller JÃ¡nos
 Kellner Gyula
 Kelme
 Kelp Ilona
 Kelta
-Kemény
-Kemény Gusztáv
-Kemény István
-Kemény János
-Kemény Pál
-Kemény Sándor
-Kemény Zsigmond
-Keményítõgyár
-Keményítõgyári
+KemÃ©ny
+KemÃ©ny GusztÃ¡v
+KemÃ©ny IstvÃ¡n
+KemÃ©ny JÃ¡nos
+KemÃ©ny PÃ¡l
+KemÃ©ny SÃ¡ndor
+KemÃ©ny Zsigmond
+KemÃ©nyÃ­tÅ‘gyÃ¡r
+KemÃ©nyÃ­tÅ‘gyÃ¡ri
 Kemecsei
 Kemence
 Kemencepatak
 Kemendi
 Kemenes
 Kemes
-Kemesmáli
+KemesmÃ¡li
 Kempelen Farkas
 Kemping
 Kende
 Kende Kanuth
 Kender
-Kenderáztató
+KenderÃ¡ztatÃ³
 Kenderes
 Kenderes-kert
 Kenderesi
 Kendereskert
 Kenderessy
-Kenderföld
-Kenderföldek
-Kenderföldi
-Kenderfonó
-Kendergyár
-Kendergyári
-Kenderhordó
+KenderfÃ¶ld
+KenderfÃ¶ldek
+KenderfÃ¶ldi
+KenderfonÃ³
+KendergyÃ¡r
+KendergyÃ¡ri
+KenderhordÃ³
 Kenderike
 Kendermag
 Kenderszer
-Kenderváros
+KendervÃ¡ros
 Kendli
-Kendõ
-Kenéz
-Kenézy
+KendÅ‘
+KenÃ©z
+KenÃ©zy
 Kenese
 Kenesei
 Kenessey Albert
 Kengyel
-Kenyér
-Kenyérgyár
-Kenyérgyári
-Kenyérmezei
-Kenyérmezõ
+KenyÃ©r
+KenyÃ©rgyÃ¡r
+KenyÃ©rgyÃ¡ri
+KenyÃ©rmezei
+KenyÃ©rmezÅ‘
 Kenyeres
-Keöd
-Keöd J.
-Keöd kapitány
-Kerámia
-Kerék
-Kerékdûlö
-Kerékgyártó
-Kerékhegy
-Kerékhegyi
-Kerékkötõ
-Kerékvágás
-Kerényi Frigyes
-Kerényi Károly
-Kerecsényi
+KeÃ¶d
+KeÃ¶d J.
+KeÃ¶d kapitÃ¡ny
+KerÃ¡mia
+KerÃ©k
+KerÃ©kdÅ±lÃ¶
+KerÃ©kgyÃ¡rtÃ³
+KerÃ©khegy
+KerÃ©khegyi
+KerÃ©kkÃ¶tÅ‘
+KerÃ©kvÃ¡gÃ¡s
+KerÃ©nyi Frigyes
+KerÃ©nyi KÃ¡roly
+KerecsÃ©nyi
 Kerecsen
 Kerecsendi
-Kerecsendi Kiss Márton
+Kerecsendi Kiss MÃ¡rton
 Kerecseny
 Kerek
 Kerek hegy
 Kerekdomb
 Kerekedi
-Kerekerdõ
+KerekerdÅ‘
 Kerekes
 Kerekes Ferenc
 Kerekes Gyula
-Kerekes István
-Kerekes kút
+Kerekes IstvÃ¡n
+Kerekes kÃºt
 Kerekhalmi
 Kerekharaszti
 Kerekhegy
 Kerekhegyi
 Kerekimajor
-Kerekmezõ
-Kereknád
-Kerekrét
-Kerektó
-Kerektói
+KerekmezÅ‘
+KereknÃ¡d
+KerekrÃ©t
+KerektÃ³
+KerektÃ³i
 Kerepesi
 Kereseszegi
-Kereskedelmi kikötõ
-Kereskedõ
-Kereskedõk
-Kereskedõudvar
+Kereskedelmi kikÃ¶tÅ‘
+KereskedÅ‘
+KereskedÅ‘k
+KereskedÅ‘udvar
 Keresszegi
 Kereszt
-Keresztcsárda
+KeresztcsÃ¡rda
 Keresztes
 Keresztesi
 Keresztespuszta
 Keresztessy
 Keresztfai
-Keresztfalápa
-Kereszttöltés
-Keresztúri
+KeresztfalÃ¡pa
+KereszttÃ¶ltÃ©s
+KeresztÃºri
 Kerezsi Endre
-Kerítés
-Keringõ
+KerÃ­tÃ©s
+KeringÅ‘
 Kerka
-Kerkápoly
+KerkÃ¡poly
 Kerkai J.
-Kernács
-Kernstock Károly
+KernÃ¡cs
+Kernstock KÃ¡roly
 Kerpely Antal
 Kert
 Kertalja
 Kertaljai
-Kertbarátok
-Kertész
-Kertész József
-Kertész László
-Kertész Pál
-Kertészföld
-Kertészház
-Kertészkert
+KertbarÃ¡tok
+KertÃ©sz
+KertÃ©sz JÃ³zsef
+KertÃ©sz LÃ¡szlÃ³
+KertÃ©sz PÃ¡l
+KertÃ©szfÃ¶ld
+KertÃ©szhÃ¡z
+KertÃ©szkert
 Kertekalja
 Kerteki
 Kertes
 Kertesi
 Kerti
-Kertköz
-Kertmûvelõ
-Kertváros
-Kertvárosi
-Kertvárosi ABC
-Kerületiház
-Kerülõ
-Keselõ
-Keselyû
-Keselyûhalom
-Keselyûs
-Keselyûsfapuszta
-Keselyûsi
-Keserû
-Keserûfû
-Keserûszer
+KertkÃ¶z
+KertmÅ±velÅ‘
+KertvÃ¡ros
+KertvÃ¡rosi
+KertvÃ¡rosi ABC
+KerÃ¼letihÃ¡z
+KerÃ¼lÅ‘
+KeselÅ‘
+KeselyÅ±
+KeselyÅ±halom
+KeselyÅ±s
+KeselyÅ±sfapuszta
+KeselyÅ±si
+KeserÅ±
+KeserÅ±fÅ±
+KeserÅ±szer
 Keskeny
-Keskeny János
+Keskeny JÃ¡nos
 Keszeg
 Keszegfalvi
 Keszi
-Keszkenõ
+KeszkenÅ‘
 Keszlertag
-Keszõce
+KeszÅ‘ce
 Keszthely
 Keszthelyi
-Kesztölci
-Kesztyû
-Keszüi
+KesztÃ¶lci
+KesztyÅ±
+KeszÃ¼i
 Ketel
 Kethelyi
-Kettõshatári
-Kettõspince
+KettÅ‘shatÃ¡ri
+KettÅ‘spince
 Keve
-Kevély
-Kevélyhegyi
-Keveháza
+KevÃ©ly
+KevÃ©lyhegyi
+KevehÃ¡za
 Kevermes
-Keverõtelep
-Kevevári
-Kezdõ
-Kígyó
-Kígyós
-Kísérõ
-Kívés
-Kiáltódomb
+KeverÅ‘telep
+KevevÃ¡ri
+KezdÅ‘
+KÃ­gyÃ³
+KÃ­gyÃ³s
+KÃ­sÃ©rÅ‘
+KÃ­vÃ©s
+KiÃ¡ltÃ³domb
 Kicsi
 Kies
 Kifaludy
 Kifli
-Kigyó
+KigyÃ³
 Kikelet
 Kikerics
 Kikindai
 Kikirics
-Kikötõ
-Kikötõi
-Kilátás
-Kilátó
-Kilátóhegyi
-Kilátók
+KikÃ¶tÅ‘
+KikÃ¶tÅ‘i
+KilÃ¡tÃ¡s
+KilÃ¡tÃ³
+KilÃ¡tÃ³hegyi
+KilÃ¡tÃ³k
 Kilencedik
-Kilián
-Kilián György
-Kilián István
+KiliÃ¡n
+KiliÃ¡n GyÃ¶rgy
+KiliÃ¡n IstvÃ¡n
 Kilincs
 Kincs
-Kincsédpuszta
+KincsÃ©dpuszta
 Kincsem
 Kincsem Puszta
 Kincsepuszta
@@ -7192,196 +7192,196 @@ Kincseshegy
 Kincsesi
 Kinga
 Kinizsi
-Kinizsi Pál
+Kinizsi PÃ¡l
 Kinizsi laktanya
-Kinnszék
-Királdi
-Király
-Király Jenõ
-Király Pál
-Királydomb
-Királydombi
-Királyegyházai
-Királyerdõ
-Királyerdõi
-Királyhágó
-Királyhegy
-Királyhelmec
-Királyhida
-Királyhidai
-Királyhorhos
-Királyi Pál
-Királyka
-Királykút
-Királykút lakónegyed
-Királykúti
-Királylaki
-Királyok
-Királyréti
-Királyszék
-Királyszíve
-Királyteleki
-Királyvölgy
-Királyvölgyi
-Kiránduló
-Kirándulóközpont
+KinnszÃ©k
+KirÃ¡ldi
+KirÃ¡ly
+KirÃ¡ly JenÅ‘
+KirÃ¡ly PÃ¡l
+KirÃ¡lydomb
+KirÃ¡lydombi
+KirÃ¡lyegyhÃ¡zai
+KirÃ¡lyerdÅ‘
+KirÃ¡lyerdÅ‘i
+KirÃ¡lyhÃ¡gÃ³
+KirÃ¡lyhegy
+KirÃ¡lyhelmec
+KirÃ¡lyhida
+KirÃ¡lyhidai
+KirÃ¡lyhorhos
+KirÃ¡lyi PÃ¡l
+KirÃ¡lyka
+KirÃ¡lykÃºt
+KirÃ¡lykÃºt lakÃ³negyed
+KirÃ¡lykÃºti
+KirÃ¡lylaki
+KirÃ¡lyok
+KirÃ¡lyrÃ©ti
+KirÃ¡lyszÃ©k
+KirÃ¡lyszÃ­ve
+KirÃ¡lyteleki
+KirÃ¡lyvÃ¶lgy
+KirÃ¡lyvÃ¶lgyi
+KirÃ¡ndulÃ³
+KirÃ¡ndulÃ³kÃ¶zpont
 Kirgiz
 Kis
-Kis-Bátor
-Kis-Baktói
-Kis-Bocskai Szõlõ
-Kis-Bogáros
+Kis-BÃ¡tor
+Kis-BaktÃ³i
+Kis-Bocskai SzÅ‘lÅ‘
+Kis-BogÃ¡ros
 Kis-Duna
 Kis-Eged
 Kis-Hunyad
-Kis-Má
-Kis-Máli
-Kis-Szõlõ
+Kis-MÃ¡
+Kis-MÃ¡li
+Kis-SzÅ‘lÅ‘
 Kis-Tisza
 Kis-Zug
-Kis-réti
-Kis Ágoston
-Kis Diófa
+Kis-rÃ©ti
+Kis Ãgoston
+Kis DiÃ³fa
 Kis Duna
 Kis Farkas
-Kis Flórián
+Kis FlÃ³riÃ¡n
 Kis Fuvaros
 Kis Gergely
-Kis Gömb
-Kis János
-Kis Károshíd
+Kis GÃ¶mb
+Kis JÃ¡nos
+Kis KÃ¡roshÃ­d
 Kis Korona
-Kis Rákos
-Kis Rókus
-Kis Stáció
+Kis RÃ¡kos
+Kis RÃ³kus
+Kis StÃ¡ciÃ³
 Kis Viola
-Kis õsszekötõ
-Kis tábornok
+Kis Å‘sszekÃ¶tÅ‘
+Kis tÃ¡bornok
 Kis zug
-Kiság
-Kisalpár
+KisÃ¡g
+KisalpÃ¡r
 Kisamerika
 Kisasszony
 Kisasszonyfa
 Kisavas
-Kisbálványos
-Kisbánya
+KisbÃ¡lvÃ¡nyos
+KisbÃ¡nya
 Kisbacon
 Kisbadacsony
-Kisbakony erdõ
+Kisbakony erdÅ‘
 Kisbalaton
-Kisbalkányi
+KisbalkÃ¡nyi
 Kisbalmaz
-Kisbalokány
-Kisbaráti
+KisbalokÃ¡ny
+KisbarÃ¡ti
 Kisbartahalom
-Kisbattyán
-Kisbér
-Kisbéri
+KisbattyÃ¡n
+KisbÃ©r
+KisbÃ©ri
 Kisbenedek
 Kisberki
-Kisbödõ
-Kisbök
-Kisböszörmény
-Kisbogáti
-Kisbojtár
+KisbÃ¶dÅ‘
+KisbÃ¶k
+KisbÃ¶szÃ¶rmÃ©ny
+KisbogÃ¡ti
+KisbojtÃ¡r
 Kisboldogasszony
 Kisbotos
 Kisbozi
-Kisbük
+KisbÃ¼k
 Kisbuda
-Kisbudméri elágazó
+KisbudmÃ©ri elÃ¡gazÃ³
 Kiscelli
 Kiscenki
 Kiscepre
 Kiscsarit
-Kiscséri új
-Kiscséripuszta
-Kiscsévpuszta
+KiscsÃ©ri Ãºj
+KiscsÃ©ripuszta
+KiscsÃ©vpuszta
 Kiscsere
-Kiscsikós
+KiscsikÃ³s
 Kiscsillag
-Kiscsömötei
-Kiscsonkás
-Kiscsûr
+KiscsÃ¶mÃ¶tei
+KiscsonkÃ¡s
+KiscsÅ±r
 Kisdeindol
-Kisdeindol-hegyhát
-Kisdeindol tetõ
+Kisdeindol-hegyhÃ¡t
+Kisdeindol tetÅ‘
 Kisdeindoli
-Kisdelelõ
-Kisdiófa
-Kisdörgicse Diófa
+KisdelelÅ‘
+KisdiÃ³fa
+KisdÃ¶rgicse DiÃ³fa
 Kisdobos
 Kisdobsza
 Kisdomb
-Kisér
-Kisérek
-Kiséri
-Kisérleti
+KisÃ©r
+KisÃ©rek
+KisÃ©ri
+KisÃ©rleti
 Kisecsedi
 Kiserdei
-Kiserdõ
-Kiserdõalja
-Kiserdõsor
-Kiserdõtelep
-Kiserõmû
+KiserdÅ‘
+KiserdÅ‘alja
+KiserdÅ‘sor
+KiserdÅ‘telep
+KiserÅ‘mÅ±
 Kisfa
-Kisfái
+KisfÃ¡i
 Kisfakos
 Kisfakosi
 Kisfalud
 Kisfaludi
 Kisfaludpuszta
 Kisfaludy
-Kisfaludy Károly
+Kisfaludy KÃ¡roly
 Kisfaludy M.
-Kisfaludy Sándor
-Kisfalufy Sándor
+Kisfaludy SÃ¡ndor
+Kisfalufy SÃ¡ndor
 Kisfegyverneki
-Kisfernekág
-Kisföld
-Kisföldek
-Kisforrás
-Kisgát
-Kisgáti
+KisfernekÃ¡g
+KisfÃ¶ld
+KisfÃ¶ldek
+KisforrÃ¡s
+KisgÃ¡t
+KisgÃ¡ti
 Kisgazda
 Kisgeresd
 Kisgergely
 Kisgyarmat
 Kisgyarmati
 Kisgyep
-Kisgyócs
-Kisgyónbánya
+KisgyÃ³cs
+KisgyÃ³nbÃ¡nya
 Kisgyula
-Kisgyulaháza
+KisgyulahÃ¡za
 Kisgyulaji
-Kishárságy
-Kisház
-Kisházasi
-Kishajtás
+KishÃ¡rsÃ¡gy
+KishÃ¡z
+KishÃ¡zasi
+KishajtÃ¡s
 Kishalogyi
 Kishalom
 Kisharangodi
-Kishatár
+KishatÃ¡r
 Kishegy
 Kishegyesi
-Kishegyestü
+KishegyestÃ¼
 Kishegyi
 Kishenye
-Kishíd
-Kishídja
+KishÃ­d
+KishÃ­dja
 Kishidi
 Kishomok
 Kishomokos
 Kishort
-Kishosszúrét
+KishosszÃºrÃ©t
 Kisiszka
 Kisiszka hegy
-Kisiván
-Kisiváni
-Kisizsák
-Kisjankó Bori
-Kiskálló
+KisivÃ¡n
+KisivÃ¡ni
+KisizsÃ¡k
+KisjankÃ³ Bori
+KiskÃ¡llÃ³
 Kiskadarka
 Kiskajdacs
 Kiskakat
@@ -7389,664 +7389,664 @@ Kiskanda
 Kiskapornaki
 Kiskapu
 Kiskar
-Kiskér
-Kiskecskés
+KiskÃ©r
+KiskecskÃ©s
 Kiskert
 Kiskerti
-Kiskócsag
-Kiskör
-Kisköre
-Kiskörei Vízerõmûve
-Kisköveshegy
-Kisköz
-Kisközi
-Kiskõbánya
-Kiskõbányaszõlõ
-Kiskõkötõ
-Kiskõrös
-Kiskõrösi
-Kiskõszeg
+KiskÃ³csag
+KiskÃ¶r
+KiskÃ¶re
+KiskÃ¶rei VÃ­zerÅ‘mÅ±ve
+KiskÃ¶veshegy
+KiskÃ¶z
+KiskÃ¶zi
+KiskÅ‘bÃ¡nya
+KiskÅ‘bÃ¡nyaszÅ‘lÅ‘
+KiskÅ‘kÃ¶tÅ‘
+KiskÅ‘rÃ¶s
+KiskÅ‘rÃ¶si
+KiskÅ‘szeg
 Kiskopaszhegy
-Kiskorzó
-Kiskovácsi
-Kiskút
-Kiskúti
+KiskorzÃ³
+KiskovÃ¡csi
+KiskÃºt
+KiskÃºti
 Kiskun
 Kiskundorozsma
 Kiskuti
 Kislak
-Kislakások
+KislakÃ¡sok
 Kislaki
-Kislippó
-Kislõtér
-Kismákfa
-Kismány
+KislippÃ³
+KislÅ‘tÃ©r
+KismÃ¡kfa
+KismÃ¡ny
 Kismacs
-Kismacs Napraforgó
+Kismacs NapraforgÃ³
 Kismacs Nefelejcs
 Kismacs Orgona
 Kismacs Vihar
-Kismacs Zápor
-Kismacs Zöldmezõ
+Kismacs ZÃ¡por
+Kismacs ZÃ¶ldmezÅ‘
 Kismalom
 Kismarja
 Kismarton
 Kismartoni
-Kismélyvölgy
-Kismélyvölgy-hegyhát
-Kismérés
+KismÃ©lyvÃ¶lgy
+KismÃ©lyvÃ¶lgy-hegyhÃ¡t
+KismÃ©rÃ©s
 Kismegyeri
 Kismester
 Kismezei
-Kismezõ
-Kismezõpuszta
+KismezÅ‘
+KismezÅ‘puszta
 Kismicske
-Kismórágy
-Kismórágyi
-Kismogyorós
-Kismohács
+KismÃ³rÃ¡gy
+KismÃ³rÃ¡gyi
+KismogyorÃ³s
+KismohÃ¡cs
 Kismuhi
-Kisnyárádi
-Kisnyíri
-Kisörshegyi
-Kisörsi
-Kisörspuszta
-Kisoroklán
-Kispálhegyi
-Kispást
-Kispásztor
-Kispajtás
+KisnyÃ¡rÃ¡di
+KisnyÃ­ri
+KisÃ¶rshegyi
+KisÃ¶rsi
+KisÃ¶rspuszta
+KisoroklÃ¡n
+KispÃ¡lhegyi
+KispÃ¡st
+KispÃ¡sztor
+KispajtÃ¡s
 Kisparti
 Kispaskom
 Kispatak
 Kispengyom
-Kisperjés
-Kisperjési
+KisperjÃ©s
+KisperjÃ©si
 Kispest
 Kispesti
 Kispiricse
 Kispiricsizma
-Kispostavölgy
-Kispostavölgy tetõ
+KispostavÃ¶lgy
+KispostavÃ¶lgy tetÅ‘
 Kispuszta
-Kisrác
-Kisrét
-Kisrétkör
-Kisrómahegyi
+KisrÃ¡c
+KisrÃ©t
+KisrÃ©tkÃ¶r
+KisrÃ³mahegyi
 Kiss
-Kiss Áron
+Kiss Ãron
 Kiss Albert
 Kiss Antal
-Kiss Bálint
-Kiss Benjámin
+Kiss BÃ¡lint
+Kiss BenjÃ¡min
 Kiss Endre
-Kiss Ernõ
-Kiss Ernõ-tag
+Kiss ErnÅ‘
+Kiss ErnÅ‘-tag
 Kiss Ferenc
-Kiss Géza
-Kiss György
-Kiss István
+Kiss GÃ©za
+Kiss GyÃ¶rgy
+Kiss IstvÃ¡n
 Kiss J.
-Kiss János
-Kiss János altábornagy
-Kiss József
-Kiss Károly
+Kiss JÃ¡nos
+Kiss JÃ¡nos altÃ¡bornagy
+Kiss JÃ³zsef
+Kiss KÃ¡roly
 Kiss Lajos
-Kiss Menyhért
-Kiss Mihály
-Kiss Pál
-Kiss Sámuel
-Kiss tábornok
-Kissós
+Kiss MenyhÃ©rt
+Kiss MihÃ¡ly
+Kiss PÃ¡l
+Kiss SÃ¡muel
+Kiss tÃ¡bornok
+KissÃ³s
 Kissor
-Kissvábhegyi
-Kisszékelyi
-Kisszentgróti
-Kisszentpál
-Kisszilvás völgy
-Kisszkókó
-Kisszõlõs
-Kisszõlõskert
+KissvÃ¡bhegyi
+KisszÃ©kelyi
+KisszentgrÃ³ti
+KisszentpÃ¡l
+KisszilvÃ¡s vÃ¶lgy
+KisszkÃ³kÃ³
+KisszÅ‘lÅ‘s
+KisszÅ‘lÅ‘skert
 Kisszohoda
 Kisszoros
-Kistábor
-Kistályai
-Kistápé
+KistÃ¡bor
+KistÃ¡lyai
+KistÃ¡pÃ©
 Kistag
 Kistanya
-Kistétény
+KistÃ©tÃ©ny
 Kistelek
 Kisteleki
 Kisteleki Ede
 Kistelep
-Kistemetõ
+KistemetÅ‘
 Kistemplom
 Kisterenye
-Kistó
-Kistói
-Kistótváros
-Kistölgyfa
+KistÃ³
+KistÃ³i
+KistÃ³tvÃ¡ros
+KistÃ¶lgyfa
 Kistokaji
 Kistolcsva
 Kistorony
-Kisújbánya
-Kisújszállás
-Kisújszállási
-Kisürmöshát
+KisÃºjbÃ¡nya
+KisÃºjszÃ¡llÃ¡s
+KisÃºjszÃ¡llÃ¡si
+KisÃ¼rmÃ¶shÃ¡t
 Kisudvar
-Kisvág
-Kisvárda
-Kisvárdai
-Kisvásár
-Kisvasút
-Kisvasúti
-Kisvölgy
-Kiszely László
-Kitaibel Pál
+KisvÃ¡g
+KisvÃ¡rda
+KisvÃ¡rdai
+KisvÃ¡sÃ¡r
+KisvasÃºt
+KisvasÃºti
+KisvÃ¶lgy
+Kiszely LÃ¡szlÃ³
+Kitaibel PÃ¡l
 Kkv
-Klára
-Klárapuszta
+KlÃ¡ra
+KlÃ¡rapuszta
 Klabel
 Klafszky Katalin
 Klahinberg
 Klaipeda
 Klapka
-Klapka György
-Klapka tábornok
+Klapka GyÃ¶rgy
+Klapka tÃ¡bornok
 Klastrom
 Klaus Klingler
-Klauzál
-Klauzál Gábor
-Klébersberg Kúnó
-Klébl Márton
-Kléh István
-Klebelsberg Kunó
+KlauzÃ¡l
+KlauzÃ¡l GÃ¡bor
+KlÃ©bersberg KÃºnÃ³
+KlÃ©bl MÃ¡rton
+KlÃ©h IstvÃ¡n
+Klebelsberg KunÃ³
 Klein
 Klein-tag
 Klement Gottwald
-Klempa Károly
+Klempa KÃ¡roly
 Klimes
-Klimó György
-Klisovácz
+KlimÃ³ GyÃ¶rgy
+KlisovÃ¡cz
 Klotild
 Klotildliget
-Kmetty György
+Kmetty GyÃ¶rgy
 Kmety
-Kmety György
-Kmoskó Mihály
-Knáb János
-Knézich
-Knézich Károly
-Knézits
-Knoll József
-Kócs
-Kócsa Ferenc
-Kócsag
-Kóczián Sándor
-Kóló
-Kónya
-Kónya Lajos
-Kónyi
-Kórház
-Kórház utcai
-Kóris Kálmán
-Kóró
-Kórós-sziget
-Kórós-sziget Hunyadi
-Kórós-sziget Néphadsereg
-Kórós-sziget Váci Mihály
-Kórus
-Kós Károly
-Kósa
-Kósa Pál
-Kóta József
-Kótaji
-Kóvári
-Köböl
-Köbölkút
-Köbölkúthegy
-Köbölkúti
-Köbölkuti
-Köböltó
-Köd
-Ködmön
-Ködös
-Köfém
-Kökény
-Kökényes
-Kökényesi
-Kökényesmindszenti
-Kökénypuszta
-Kökénypusztai
-Kökényszeg
-Kökönyös
-Kökörcsin
-Kölcsey
-Kölcsey Ferenc
-Köles
-Kölesdi
-Köleséry Sámuel
-Kölesföld
-Kölessy Vince
-Kölkedi
-Költõ
-Költõ Nagy Imre
-Kömény
-Kömlõdi
-Kömlõi
-Köncsög
-Könd
-Köntös gátsor
-Köntöskert
-Könyök
-Könyvelõ
-Könyves
-Könyves György
-Könyves Kálmán
-Könyves Tóth Kálmán
-Könyvkötõ
-Könyvtár
-Köpüs
-Kör
-Körcsönye
-Körkemence
-Körmend
-Körmendi
-Körmenditanya
-Körmici
-Körmöc
-Körmöcbánya
-Körmöcbányai
-Körmöci
-Körmöcz
-Körmöczi
-Körmös
-Körmösdpuszta
-Körmösdpuszta Béke
-Körmösdpuszta Beleci
-Környebánya
-Környei
-Körömvirág
-Körönd
-Körös
-Köröstetétleni
-Köröstói
-Körte
-Körtélyvölgy
-Körtér
-Körtés
-Körte völgy
-Körtefa
-Körtöltés
-Körtönye
-Körtönye Bükk
-Körtvélyes
-Körtvölgye
-Körút
-Körvasút
-Körzõ
-Kösely
-Kösialja
-Köszméte
-Köszörûs
-Köszörûvölgy
-Kötél
-Kötélgyártó
-Kötélverõ
-Köteles
-Kötelesi
-Kötelesi útfél
-Kötöttárugyári
-Kötõ
-Kötõfék
-Köttön
-Köttöni
-Kövér György
-Kövér Lajos
-Kövecses
-Kövendi Sándor
-Köves
-Köves-földi
-Köves A.
-Köves János
-Kövesbérci
-Kövesd
-Kövesdi
-Kövesdomb
-Kövesdombi
-Kövesdpuszta
-Köveshegy
-Kövestetõ
-Kövezõ
-Kövi
-Kövi Miklós
-Kövi Sándor
-Kövidinka
-Kövirigó
-Kövirózsa
-Köz
-Közdomb
-Közdûlõ
-Közép
-Közép-kapu
-Közép Homokerdõ
-Közép Kikötõ
-Középadacs
-Középdeindol
-Középdeindol-hegyhát
-Középdeindoli
-Középdûlõ
-Középér
-Középgyükési
-Középhegy
-Középhegyi
-Középhídvég
-Középhidvég
-Középkert
-Középlaki
-Középmál
-Középmakár
-Középóvár
-Középpeszér
-Középrigóc
-Középruzsin
-Középsõ
-Középszer
-Középszikla
-Középtemetõ
-Közelszõlõ
-Közgazdász
-Közkapu
-Közmûhelytelep
-Közös
-Központ
-Központi
-Központi major
-Közraktár
-Községház
-Községháza
-Községi
-Köztársaság
-Köztelek
-Köztemetõ
-Köztemetõ I.
-Közúti átkelõhely
-Közúti határátkelõ
-Közúti határátkelõ-hely
-Közúti határátkelõhely
-Közüzemi völgy
-Közvágóhíd
-Kõ
-Kõalja
-Kõbánya
-Kõbánya-Kispest
-Kõbánya-Kispest metróvégállomás
-Kõbánya Alsó
-Kõbánya Lakóház
-Kõbányaaljai
-Kõbányai
-Kõbárány
-Kõér
-Kõérberki
-Kõfaragó
-Kõfejtõ
-Kõfuvaros
-Kõhányás
-Kõhányó
-Kõhát
-Kõház
-Kõhalmi
-Kõhalom
-Kõhegy
-Kõhegyi
-Kõhíd
-Kõhúr
-Kõkapu
-Kõkereszt
-Kõkert
-Kõkorsó
-Kõkút
-Kõkútlapos
-Kõláb
-Kõlcsey
-Kõlyuktetõ
-Kõmáli
-Kõmûves
-Kõolaj
-Kõpad
-Kõpor
-Kõporos
-Kõrakás
-Kõrés
-Kõris
-Kõrisfa
-Kõrizs
-Kõrózsa
-Kõrös
-Kõröshegyi
-Kõrösi
-Kõrösi Csoma
-Kõrösi Csoma Sándor
-Kõrösihegy
-Kõrösmezei
-Kõrösparti
-Kõrössy
-Kõrösszeg
-Kõrösy József
-Kõrösy László
-Kõszál
-Kõszeg
-Kõszegfalvi
-Kõszegi
-Kõszikla
-Kõszirt
-Kõtelek
-Kõtörõ
-Kõvágó
-Kõvágóörsi
-Kõvári
-Kõvirág
-Kõvölgy
-Kõzet
-Kõzúzó
+Kmety GyÃ¶rgy
+KmoskÃ³ MihÃ¡ly
+KnÃ¡b JÃ¡nos
+KnÃ©zich
+KnÃ©zich KÃ¡roly
+KnÃ©zits
+Knoll JÃ³zsef
+KÃ³cs
+KÃ³csa Ferenc
+KÃ³csag
+KÃ³cziÃ¡n SÃ¡ndor
+KÃ³lÃ³
+KÃ³nya
+KÃ³nya Lajos
+KÃ³nyi
+KÃ³rhÃ¡z
+KÃ³rhÃ¡z utcai
+KÃ³ris KÃ¡lmÃ¡n
+KÃ³rÃ³
+KÃ³rÃ³s-sziget
+KÃ³rÃ³s-sziget Hunyadi
+KÃ³rÃ³s-sziget NÃ©phadsereg
+KÃ³rÃ³s-sziget VÃ¡ci MihÃ¡ly
+KÃ³rus
+KÃ³s KÃ¡roly
+KÃ³sa
+KÃ³sa PÃ¡l
+KÃ³ta JÃ³zsef
+KÃ³taji
+KÃ³vÃ¡ri
+KÃ¶bÃ¶l
+KÃ¶bÃ¶lkÃºt
+KÃ¶bÃ¶lkÃºthegy
+KÃ¶bÃ¶lkÃºti
+KÃ¶bÃ¶lkuti
+KÃ¶bÃ¶ltÃ³
+KÃ¶d
+KÃ¶dmÃ¶n
+KÃ¶dÃ¶s
+KÃ¶fÃ©m
+KÃ¶kÃ©ny
+KÃ¶kÃ©nyes
+KÃ¶kÃ©nyesi
+KÃ¶kÃ©nyesmindszenti
+KÃ¶kÃ©nypuszta
+KÃ¶kÃ©nypusztai
+KÃ¶kÃ©nyszeg
+KÃ¶kÃ¶nyÃ¶s
+KÃ¶kÃ¶rcsin
+KÃ¶lcsey
+KÃ¶lcsey Ferenc
+KÃ¶les
+KÃ¶lesdi
+KÃ¶lesÃ©ry SÃ¡muel
+KÃ¶lesfÃ¶ld
+KÃ¶lessy Vince
+KÃ¶lkedi
+KÃ¶ltÅ‘
+KÃ¶ltÅ‘ Nagy Imre
+KÃ¶mÃ©ny
+KÃ¶mlÅ‘di
+KÃ¶mlÅ‘i
+KÃ¶ncsÃ¶g
+KÃ¶nd
+KÃ¶ntÃ¶s gÃ¡tsor
+KÃ¶ntÃ¶skert
+KÃ¶nyÃ¶k
+KÃ¶nyvelÅ‘
+KÃ¶nyves
+KÃ¶nyves GyÃ¶rgy
+KÃ¶nyves KÃ¡lmÃ¡n
+KÃ¶nyves TÃ³th KÃ¡lmÃ¡n
+KÃ¶nyvkÃ¶tÅ‘
+KÃ¶nyvtÃ¡r
+KÃ¶pÃ¼s
+KÃ¶r
+KÃ¶rcsÃ¶nye
+KÃ¶rkemence
+KÃ¶rmend
+KÃ¶rmendi
+KÃ¶rmenditanya
+KÃ¶rmici
+KÃ¶rmÃ¶c
+KÃ¶rmÃ¶cbÃ¡nya
+KÃ¶rmÃ¶cbÃ¡nyai
+KÃ¶rmÃ¶ci
+KÃ¶rmÃ¶cz
+KÃ¶rmÃ¶czi
+KÃ¶rmÃ¶s
+KÃ¶rmÃ¶sdpuszta
+KÃ¶rmÃ¶sdpuszta BÃ©ke
+KÃ¶rmÃ¶sdpuszta Beleci
+KÃ¶rnyebÃ¡nya
+KÃ¶rnyei
+KÃ¶rÃ¶mvirÃ¡g
+KÃ¶rÃ¶nd
+KÃ¶rÃ¶s
+KÃ¶rÃ¶stetÃ©tleni
+KÃ¶rÃ¶stÃ³i
+KÃ¶rte
+KÃ¶rtÃ©lyvÃ¶lgy
+KÃ¶rtÃ©r
+KÃ¶rtÃ©s
+KÃ¶rte vÃ¶lgy
+KÃ¶rtefa
+KÃ¶rtÃ¶ltÃ©s
+KÃ¶rtÃ¶nye
+KÃ¶rtÃ¶nye BÃ¼kk
+KÃ¶rtvÃ©lyes
+KÃ¶rtvÃ¶lgye
+KÃ¶rÃºt
+KÃ¶rvasÃºt
+KÃ¶rzÅ‘
+KÃ¶sely
+KÃ¶sialja
+KÃ¶szmÃ©te
+KÃ¶szÃ¶rÅ±s
+KÃ¶szÃ¶rÅ±vÃ¶lgy
+KÃ¶tÃ©l
+KÃ¶tÃ©lgyÃ¡rtÃ³
+KÃ¶tÃ©lverÅ‘
+KÃ¶teles
+KÃ¶telesi
+KÃ¶telesi ÃºtfÃ©l
+KÃ¶tÃ¶ttÃ¡rugyÃ¡ri
+KÃ¶tÅ‘
+KÃ¶tÅ‘fÃ©k
+KÃ¶ttÃ¶n
+KÃ¶ttÃ¶ni
+KÃ¶vÃ©r GyÃ¶rgy
+KÃ¶vÃ©r Lajos
+KÃ¶vecses
+KÃ¶vendi SÃ¡ndor
+KÃ¶ves
+KÃ¶ves-fÃ¶ldi
+KÃ¶ves A.
+KÃ¶ves JÃ¡nos
+KÃ¶vesbÃ©rci
+KÃ¶vesd
+KÃ¶vesdi
+KÃ¶vesdomb
+KÃ¶vesdombi
+KÃ¶vesdpuszta
+KÃ¶veshegy
+KÃ¶vestetÅ‘
+KÃ¶vezÅ‘
+KÃ¶vi
+KÃ¶vi MiklÃ³s
+KÃ¶vi SÃ¡ndor
+KÃ¶vidinka
+KÃ¶virigÃ³
+KÃ¶virÃ³zsa
+KÃ¶z
+KÃ¶zdomb
+KÃ¶zdÅ±lÅ‘
+KÃ¶zÃ©p
+KÃ¶zÃ©p-kapu
+KÃ¶zÃ©p HomokerdÅ‘
+KÃ¶zÃ©p KikÃ¶tÅ‘
+KÃ¶zÃ©padacs
+KÃ¶zÃ©pdeindol
+KÃ¶zÃ©pdeindol-hegyhÃ¡t
+KÃ¶zÃ©pdeindoli
+KÃ¶zÃ©pdÅ±lÅ‘
+KÃ¶zÃ©pÃ©r
+KÃ¶zÃ©pgyÃ¼kÃ©si
+KÃ¶zÃ©phegy
+KÃ¶zÃ©phegyi
+KÃ¶zÃ©phÃ­dvÃ©g
+KÃ¶zÃ©phidvÃ©g
+KÃ¶zÃ©pkert
+KÃ¶zÃ©plaki
+KÃ¶zÃ©pmÃ¡l
+KÃ¶zÃ©pmakÃ¡r
+KÃ¶zÃ©pÃ³vÃ¡r
+KÃ¶zÃ©ppeszÃ©r
+KÃ¶zÃ©prigÃ³c
+KÃ¶zÃ©pruzsin
+KÃ¶zÃ©psÅ‘
+KÃ¶zÃ©pszer
+KÃ¶zÃ©pszikla
+KÃ¶zÃ©ptemetÅ‘
+KÃ¶zelszÅ‘lÅ‘
+KÃ¶zgazdÃ¡sz
+KÃ¶zkapu
+KÃ¶zmÅ±helytelep
+KÃ¶zÃ¶s
+KÃ¶zpont
+KÃ¶zponti
+KÃ¶zponti major
+KÃ¶zraktÃ¡r
+KÃ¶zsÃ©ghÃ¡z
+KÃ¶zsÃ©ghÃ¡za
+KÃ¶zsÃ©gi
+KÃ¶ztÃ¡rsasÃ¡g
+KÃ¶ztelek
+KÃ¶ztemetÅ‘
+KÃ¶ztemetÅ‘ I.
+KÃ¶zÃºti Ã¡tkelÅ‘hely
+KÃ¶zÃºti hatÃ¡rÃ¡tkelÅ‘
+KÃ¶zÃºti hatÃ¡rÃ¡tkelÅ‘-hely
+KÃ¶zÃºti hatÃ¡rÃ¡tkelÅ‘hely
+KÃ¶zÃ¼zemi vÃ¶lgy
+KÃ¶zvÃ¡gÃ³hÃ­d
+KÅ‘
+KÅ‘alja
+KÅ‘bÃ¡nya
+KÅ‘bÃ¡nya-Kispest
+KÅ‘bÃ¡nya-Kispest metrÃ³vÃ©gÃ¡llomÃ¡s
+KÅ‘bÃ¡nya AlsÃ³
+KÅ‘bÃ¡nya LakÃ³hÃ¡z
+KÅ‘bÃ¡nyaaljai
+KÅ‘bÃ¡nyai
+KÅ‘bÃ¡rÃ¡ny
+KÅ‘Ã©r
+KÅ‘Ã©rberki
+KÅ‘faragÃ³
+KÅ‘fejtÅ‘
+KÅ‘fuvaros
+KÅ‘hÃ¡nyÃ¡s
+KÅ‘hÃ¡nyÃ³
+KÅ‘hÃ¡t
+KÅ‘hÃ¡z
+KÅ‘halmi
+KÅ‘halom
+KÅ‘hegy
+KÅ‘hegyi
+KÅ‘hÃ­d
+KÅ‘hÃºr
+KÅ‘kapu
+KÅ‘kereszt
+KÅ‘kert
+KÅ‘korsÃ³
+KÅ‘kÃºt
+KÅ‘kÃºtlapos
+KÅ‘lÃ¡b
+KÅ‘lcsey
+KÅ‘lyuktetÅ‘
+KÅ‘mÃ¡li
+KÅ‘mÅ±ves
+KÅ‘olaj
+KÅ‘pad
+KÅ‘por
+KÅ‘poros
+KÅ‘rakÃ¡s
+KÅ‘rÃ©s
+KÅ‘ris
+KÅ‘risfa
+KÅ‘rizs
+KÅ‘rÃ³zsa
+KÅ‘rÃ¶s
+KÅ‘rÃ¶shegyi
+KÅ‘rÃ¶si
+KÅ‘rÃ¶si Csoma
+KÅ‘rÃ¶si Csoma SÃ¡ndor
+KÅ‘rÃ¶sihegy
+KÅ‘rÃ¶smezei
+KÅ‘rÃ¶sparti
+KÅ‘rÃ¶ssy
+KÅ‘rÃ¶sszeg
+KÅ‘rÃ¶sy JÃ³zsef
+KÅ‘rÃ¶sy LÃ¡szlÃ³
+KÅ‘szÃ¡l
+KÅ‘szeg
+KÅ‘szegfalvi
+KÅ‘szegi
+KÅ‘szikla
+KÅ‘szirt
+KÅ‘telek
+KÅ‘tÃ¶rÅ‘
+KÅ‘vÃ¡gÃ³
+KÅ‘vÃ¡gÃ³Ã¶rsi
+KÅ‘vÃ¡ri
+KÅ‘virÃ¡g
+KÅ‘vÃ¶lgy
+KÅ‘zet
+KÅ‘zÃºzÃ³
 Kobakhegy
 Koboz
-Koch Róbert
+Koch RÃ³bert
 Kocka
-Kockaház
-Kocsány
-Kocsárd
-Kocséri
+KockahÃ¡z
+KocsÃ¡ny
+KocsÃ¡rd
+KocsÃ©ri
 Kocsi
 Kocsis
-Kocsis Bernát
-Kocsis László
-Kocsis Pál
-Kocsis Péter
+Kocsis BernÃ¡t
+Kocsis LÃ¡szlÃ³
+Kocsis PÃ¡l
+Kocsis PÃ©ter
 Kocsola
 Kocsordi
 Kocsordos
 Kocsoros
-Koczkás
-Koczor Sándor
-Kodály
-Kodály Zoltán
-Kodály körönd
-Kodó
-Kodolányi
-Kodolányi János
-Kodormány
-Kohán Gy.
-Koháry
-Koháry István
-Kohász
+KoczkÃ¡s
+Koczor SÃ¡ndor
+KodÃ¡ly
+KodÃ¡ly ZoltÃ¡n
+KodÃ¡ly kÃ¶rÃ¶nd
+KodÃ³
+KodolÃ¡nyi
+KodolÃ¡nyi JÃ¡nos
+KodormÃ¡ny
+KohÃ¡n Gy.
+KohÃ¡ry
+KohÃ¡ry IstvÃ¡n
+KohÃ¡sz
 Kohlenberg
-Kohó
-Kokárda
+KohÃ³
+KokÃ¡rda
 Kokas
 Kokasdi
 Kokilla
 Koksz
 Kolacskovszky Lajos
-Kolbányi Géza
-Kolbász szék
-Kolbai Károly
+KolbÃ¡nyi GÃ©za
+KolbÃ¡sz szÃ©k
+Kolbai KÃ¡roly
 Kolibri
-Kollárszky
-Kollátszeg
-Kollégium
-Kollégiumi
+KollÃ¡rszky
+KollÃ¡tszeg
+KollÃ©gium
+KollÃ©giumi
 Koller
-Kolónia
-Kolopfürdõ
+KolÃ³nia
+KolopfÃ¼rdÅ‘
 Koloska
 Kolostor
 Kolostorhegy
 Kolosy
-Koloszár
+KoloszÃ¡r
 Kolozs
-Kolozsvár
-Kolozsvári
-Kolozsvári Tamás
-Koltói Anna
+KolozsvÃ¡r
+KolozsvÃ¡ri
+KolozsvÃ¡ri TamÃ¡s
+KoltÃ³i Anna
 Kolumbus
 Kolumbusz
 Koma
-Komárom
-Komáromi
-Komáromi Csipkés György
-Komáromi János
-Kombájn
-Komjádi Béla
-Komját Aladár
-Komjáthy
-Komjáti
-Komjáti Gyula
-Komló
-Komlóhát
-Komlói
-Komlós tetõ
-Komlósdi
-Komlósi
-Komlósi Ferenc
-Komlóssy
-Komlóvölgy
-Komlóvölgyi
-Komócsin
-Komócsy
+KomÃ¡rom
+KomÃ¡romi
+KomÃ¡romi CsipkÃ©s GyÃ¶rgy
+KomÃ¡romi JÃ¡nos
+KombÃ¡jn
+KomjÃ¡di BÃ©la
+KomjÃ¡t AladÃ¡r
+KomjÃ¡thy
+KomjÃ¡ti
+KomjÃ¡ti Gyula
+KomlÃ³
+KomlÃ³hÃ¡t
+KomlÃ³i
+KomlÃ³s tetÅ‘
+KomlÃ³sdi
+KomlÃ³si
+KomlÃ³si Ferenc
+KomlÃ³ssy
+KomlÃ³vÃ¶lgy
+KomlÃ³vÃ¶lgyi
+KomÃ³csin
+KomÃ³csy
 Komondor
 Komorcsin
-Komoróczi
+KomorÃ³czi
 Komp
-Kompanik Zsófia
+Kompanik ZsÃ³fia
 Kompolti
 Komszomol
-Koncsorgó
+KoncsorgÃ³
 Koncz
-Koncz János
+Koncz JÃ¡nos
 Kond
-Kond vezér
-Kondás
+Kond vezÃ©r
+KondÃ¡s
 Kondor
-Kondor Béla
-Kondor Ernõ
+Kondor BÃ©la
+Kondor ErnÅ‘
 Kondorfa
 Kondorkert
 Kondoros
 Kondorosi
-Kondorosi zártkert
-Kondorosi zártkert Jóreménység
-Kondorosi zártkert Táblabíró Ház
+Kondorosi zÃ¡rtkert
+Kondorosi zÃ¡rtkert JÃ³remÃ©nysÃ©g
+Kondorosi zÃ¡rtkert TÃ¡blabÃ­rÃ³ HÃ¡z
 Konini
-Konkoly-Thege Miklós
-Kononcsenkó
+Konkoly-Thege MiklÃ³s
+KononcsenkÃ³
 Konstantin
 Kont
-Kont István
+Kont IstvÃ¡n
 Konta
-Konth Miklós
-Kontrássy
+Konth MiklÃ³s
+KontrÃ¡ssy
 Kontyfa
-Konyári
-Koós
-Kopács
-Kopácsai
-Kopácsi István
-Kopácsy József
-Kopáncs
-Kopár
+KonyÃ¡ri
+KoÃ³s
+KopÃ¡cs
+KopÃ¡csai
+KopÃ¡csi IstvÃ¡n
+KopÃ¡csy JÃ³zsef
+KopÃ¡ncs
+KopÃ¡r
 Kopasz
 Kopasz-hegy
 Kopaszi
 Kopaszka
-Kopházi
+KophÃ¡zi
 Kopja
-Kopogó
+KopogÃ³
 Kopolya
-Koponári
-Koppány
-Koppány vezér
-Koppányi
-Koppánypart
-Koppányvezér
-Korányi
-Korányi Frigyes
-Korányi Sándor
-Korach Mór
+KoponÃ¡ri
+KoppÃ¡ny
+KoppÃ¡ny vezÃ©r
+KoppÃ¡nyi
+KoppÃ¡nypart
+KoppÃ¡nyvezÃ©r
+KorÃ¡nyi
+KorÃ¡nyi Frigyes
+KorÃ¡nyi SÃ¡ndor
+Korach MÃ³r
 Korall
 Korbonits
-Korcsolyás
+KorcsolyÃ¡s
 Korda
-Kordován
-Kordovánbokor
-Korhánközi
-Korhány
-Korhányszõlõ
-Kormányos
-Kormorán
-Kormorán Kikötõ
-Kormos István
-Kormoskõ
+KordovÃ¡n
+KordovÃ¡nbokor
+KorhÃ¡nkÃ¶zi
+KorhÃ¡ny
+KorhÃ¡nyszÅ‘lÅ‘
+KormÃ¡nyos
+KormorÃ¡n
+KormorÃ¡n KikÃ¶tÅ‘
+Kormos IstvÃ¡n
+KormoskÅ‘
 Kormuth
-Kornél
-Kornélia
+KornÃ©l
+KornÃ©lia
 Kornis
-Kornyikszõlõ
-Koroknay Dániel
+KornyikszÅ‘lÅ‘
+Koroknay DÃ¡niel
 Korom
-Koromházi
+KoromhÃ¡zi
 Koromla puszta
 Korompai
 Korona
-Koronás
-Koronázó
-Koronázódomb
-Koronafürt
-Koroncói
+KoronÃ¡s
+KoronÃ¡zÃ³
+KoronÃ¡zÃ³domb
+KoronafÃ¼rt
+KoroncÃ³i
 Korond
 Korondi
-Korondi Béla
+Korondi BÃ©la
 Korong
 Korongi
-Korpavári
+KorpavÃ¡ri
 Korpona
 Korponai
 Korpos
-Korsó
-Korsófölde
-Korsós
+KorsÃ³
+KorsÃ³fÃ¶lde
+KorsÃ³s
 Korvin
-Korvin János
-Korvin Ottó
-Kosár
-Kosárfalu
-Kosárfonó
-Kosárhegyi
-Kosárka
+Korvin JÃ¡nos
+Korvin OttÃ³
+KosÃ¡r
+KosÃ¡rfalu
+KosÃ¡rfonÃ³
+KosÃ¡rhegyi
+KosÃ¡rka
 Kosarasdomb
 Kosba
 Kosbor
-Kosciuszkó Tádé
+KosciuszkÃ³ TÃ¡dÃ©
 Kosdi
 Kossa
 Kossuth
@@ -8055,195 +8055,195 @@ Kossuth-akna
 Kossuth Ferenc
 Kossuth Lajos
 Kossuth Zsuzsa
-Kossuth erdõ
-Kossuth téri piac
-Kossuth téri üzletközpont
+Kossuth erdÅ‘
+Kossuth tÃ©ri piac
+Kossuth tÃ©ri Ã¼zletkÃ¶zpont
 Kossuthfalva
-Koszorú
-Koszta József
-Kosztolányi
-Kosztolányi Dezsõ
-Kotász Károly
-Kotló
+KoszorÃº
+Koszta JÃ³zsef
+KosztolÃ¡nyi
+KosztolÃ¡nyi DezsÅ‘
+KotÃ¡sz KÃ¡roly
+KotlÃ³
 Kotsis Margit
-Kotyháza
+KotyhÃ¡za
 Kova
-Kovács
-Kovács-Hagyó Gyula
-Kovács-kuria
-Kovács Albert
-Kovács Béla
-Kovács Gyula
-Kovács Imre
-Kovács János
-Kovács Jakab
-Kovács József
-Kovács Károly
-Kovács László
-Kovács Lajos
-Kovács Máté
-Kovács Mátyás
-Kovács Margit
-Kovács Mihály
-Kovács Miklós
-Kovács Sándor
-Kovács árok
-Kovács domb
-Kovács hegy
-Kovácsbokor
-Kovácsi
-Kovácsi Kálmán
-Kovácsszer
-Kovász
-Kovászna
-Kovakõ
-Kozák
-Kozáromi
+KovÃ¡cs
+KovÃ¡cs-HagyÃ³ Gyula
+KovÃ¡cs-kuria
+KovÃ¡cs Albert
+KovÃ¡cs BÃ©la
+KovÃ¡cs Gyula
+KovÃ¡cs Imre
+KovÃ¡cs JÃ¡nos
+KovÃ¡cs Jakab
+KovÃ¡cs JÃ³zsef
+KovÃ¡cs KÃ¡roly
+KovÃ¡cs LÃ¡szlÃ³
+KovÃ¡cs Lajos
+KovÃ¡cs MÃ¡tÃ©
+KovÃ¡cs MÃ¡tyÃ¡s
+KovÃ¡cs Margit
+KovÃ¡cs MihÃ¡ly
+KovÃ¡cs MiklÃ³s
+KovÃ¡cs SÃ¡ndor
+KovÃ¡cs Ã¡rok
+KovÃ¡cs domb
+KovÃ¡cs hegy
+KovÃ¡csbokor
+KovÃ¡csi
+KovÃ¡csi KÃ¡lmÃ¡n
+KovÃ¡csszer
+KovÃ¡sz
+KovÃ¡szna
+KovakÅ‘
+KozÃ¡k
+KozÃ¡romi
 Kozlik
 Kozma
 Kozma Andor
 Kozma Ferenc
 Kozmosz
-Krajcár
+KrajcÃ¡r
 Kraszna
 Krasznahorka
 Krasznahorkai
 Krasznai
-Krénusz János
-Kréta
-Kréth Imre
-Krecsányi
-Krepuska Géza
-Kresz Géza
-Kreutz Róbert
-Krieger Sámuel
-Kristály
-Kristóf
-Krisztián
+KrÃ©nusz JÃ¡nos
+KrÃ©ta
+KrÃ©th Imre
+KrecsÃ¡nyi
+Krepuska GÃ©za
+Kresz GÃ©za
+Kreutz RÃ³bert
+Krieger SÃ¡muel
+KristÃ¡ly
+KristÃ³f
+KrisztiÃ¡n
 Krisztina
-Krivácsi
-Kriván
-Kriványi
-Kriza János
-Krizantém
-Krizsán
-Krónikás
-Krúdy
-Krúdy Gyula
-Krucsay Márton
-Kruspér
-Kruspér István
-Kúria
-Kút
-Kútfej
-Kútfõ
-Kútösvény
-Kútsor
-Kútvölgy
-Kútvölgyi
-Kühne Ede
-Küküllõ
-Küküllõi
-Külerület
-Külkerület
-Küllõi
-Külsö Bécsi
-Külsõ
-Külsõ-Alkotmány
-Külsõ-Debreceni
-Külsõ-Dorogi
-Külsõ-Fehértói
-Külsõ-Hadházi
-Külsõ-Iszaptanya
-Külsõ-Nánási
-Külsõ-Rákóczi
-Külsõ-Szilágyi
-Külsõ-Szoboszlói
-Külsõ-Újvárosi
-Külsõ-Zsidi
-Külsõ-iszap
-Külsõ Árpád
-Külsõ Bácsai
-Külsõ Bécsi
-Külsõ Budai
-Külsõ Erzsébet
-Külsõ Gyõri
-Külsõ Imre
-Külsõ Jászberényi
-Külsõ Kátai
-Külsõ Kéri
-Külsõ Kertek-köze
-Külsõ Máriaváros
-Külsõ Mester
-Külsõ Nyulas
-Külsõ Pesti
-Külsõ Pozsonyi
-Külsõ Pulcz
-Külsõ Rákóczi
-Külsõ Római
-Külsõ Szegedi
-Külsõ Szilágyi
-Külsõ Szoboszlói
-Külsõ Téglaház
-Külsõ Török Flóris
-Külsõ Vásártér
-Külsõ Veszprémi
-Külsõ Vörösmarty
-Külsõ Zsidi
-Külsõ körvasút
-Külsõ vasút
-Külsõbölcskei
-Külsõfokpart
-Külsõhegyi
-Külsõjenõ
-Külsõkajtor
-Külsõkertalja
-Külsõkertsor
-Külsõkórház
-Külsõmezõ
-Külsõnyír
-Külsõréti
-Külsõsor
-Külsõszékes
-Külsõtokaj
-Kültelek
-Külterület
-Külterület 4. Erdészház
-Külterület 4187
-Külterület 47. sz. fõút
-Külterület Bárándi útfél
-Külterület Bécsi
-Külterület Erdészlak
-Külterület Farkas sziget
-Külterület I.
-Külterület III
-Külterület IV.
-Külterület Márialaka
-Külterület Makkodi
-Külterület Parkoló
-Külterület Sõreföld
-Külüs
-Külváros
-Kürt
-Kürtgyarmat
-Kürti
-Kürtilapos
-Kürtös
-Kürtöspuszta
-Kürü
-Küry Klára
-Küszhegyi
-Küzdelem
-Kuba János
+KrivÃ¡csi
+KrivÃ¡n
+KrivÃ¡nyi
+Kriza JÃ¡nos
+KrizantÃ©m
+KrizsÃ¡n
+KrÃ³nikÃ¡s
+KrÃºdy
+KrÃºdy Gyula
+Krucsay MÃ¡rton
+KruspÃ©r
+KruspÃ©r IstvÃ¡n
+KÃºria
+KÃºt
+KÃºtfej
+KÃºtfÅ‘
+KÃºtÃ¶svÃ©ny
+KÃºtsor
+KÃºtvÃ¶lgy
+KÃºtvÃ¶lgyi
+KÃ¼hne Ede
+KÃ¼kÃ¼llÅ‘
+KÃ¼kÃ¼llÅ‘i
+KÃ¼lerÃ¼let
+KÃ¼lkerÃ¼let
+KÃ¼llÅ‘i
+KÃ¼lsÃ¶ BÃ©csi
+KÃ¼lsÅ‘
+KÃ¼lsÅ‘-AlkotmÃ¡ny
+KÃ¼lsÅ‘-Debreceni
+KÃ¼lsÅ‘-Dorogi
+KÃ¼lsÅ‘-FehÃ©rtÃ³i
+KÃ¼lsÅ‘-HadhÃ¡zi
+KÃ¼lsÅ‘-Iszaptanya
+KÃ¼lsÅ‘-NÃ¡nÃ¡si
+KÃ¼lsÅ‘-RÃ¡kÃ³czi
+KÃ¼lsÅ‘-SzilÃ¡gyi
+KÃ¼lsÅ‘-SzoboszlÃ³i
+KÃ¼lsÅ‘-ÃšjvÃ¡rosi
+KÃ¼lsÅ‘-Zsidi
+KÃ¼lsÅ‘-iszap
+KÃ¼lsÅ‘ ÃrpÃ¡d
+KÃ¼lsÅ‘ BÃ¡csai
+KÃ¼lsÅ‘ BÃ©csi
+KÃ¼lsÅ‘ Budai
+KÃ¼lsÅ‘ ErzsÃ©bet
+KÃ¼lsÅ‘ GyÅ‘ri
+KÃ¼lsÅ‘ Imre
+KÃ¼lsÅ‘ JÃ¡szberÃ©nyi
+KÃ¼lsÅ‘ KÃ¡tai
+KÃ¼lsÅ‘ KÃ©ri
+KÃ¼lsÅ‘ Kertek-kÃ¶ze
+KÃ¼lsÅ‘ MÃ¡riavÃ¡ros
+KÃ¼lsÅ‘ Mester
+KÃ¼lsÅ‘ Nyulas
+KÃ¼lsÅ‘ Pesti
+KÃ¼lsÅ‘ Pozsonyi
+KÃ¼lsÅ‘ Pulcz
+KÃ¼lsÅ‘ RÃ¡kÃ³czi
+KÃ¼lsÅ‘ RÃ³mai
+KÃ¼lsÅ‘ Szegedi
+KÃ¼lsÅ‘ SzilÃ¡gyi
+KÃ¼lsÅ‘ SzoboszlÃ³i
+KÃ¼lsÅ‘ TÃ©glahÃ¡z
+KÃ¼lsÅ‘ TÃ¶rÃ¶k FlÃ³ris
+KÃ¼lsÅ‘ VÃ¡sÃ¡rtÃ©r
+KÃ¼lsÅ‘ VeszprÃ©mi
+KÃ¼lsÅ‘ VÃ¶rÃ¶smarty
+KÃ¼lsÅ‘ Zsidi
+KÃ¼lsÅ‘ kÃ¶rvasÃºt
+KÃ¼lsÅ‘ vasÃºt
+KÃ¼lsÅ‘bÃ¶lcskei
+KÃ¼lsÅ‘fokpart
+KÃ¼lsÅ‘hegyi
+KÃ¼lsÅ‘jenÅ‘
+KÃ¼lsÅ‘kajtor
+KÃ¼lsÅ‘kertalja
+KÃ¼lsÅ‘kertsor
+KÃ¼lsÅ‘kÃ³rhÃ¡z
+KÃ¼lsÅ‘mezÅ‘
+KÃ¼lsÅ‘nyÃ­r
+KÃ¼lsÅ‘rÃ©ti
+KÃ¼lsÅ‘sor
+KÃ¼lsÅ‘szÃ©kes
+KÃ¼lsÅ‘tokaj
+KÃ¼ltelek
+KÃ¼lterÃ¼let
+KÃ¼lterÃ¼let 4. ErdÃ©szhÃ¡z
+KÃ¼lterÃ¼let 4187
+KÃ¼lterÃ¼let 47. sz. fÅ‘Ãºt
+KÃ¼lterÃ¼let BÃ¡rÃ¡ndi ÃºtfÃ©l
+KÃ¼lterÃ¼let BÃ©csi
+KÃ¼lterÃ¼let ErdÃ©szlak
+KÃ¼lterÃ¼let Farkas sziget
+KÃ¼lterÃ¼let I.
+KÃ¼lterÃ¼let III
+KÃ¼lterÃ¼let IV.
+KÃ¼lterÃ¼let MÃ¡rialaka
+KÃ¼lterÃ¼let Makkodi
+KÃ¼lterÃ¼let ParkolÃ³
+KÃ¼lterÃ¼let SÅ‘refÃ¶ld
+KÃ¼lÃ¼s
+KÃ¼lvÃ¡ros
+KÃ¼rt
+KÃ¼rtgyarmat
+KÃ¼rti
+KÃ¼rtilapos
+KÃ¼rtÃ¶s
+KÃ¼rtÃ¶spuszta
+KÃ¼rÃ¼
+KÃ¼ry KlÃ¡ra
+KÃ¼szhegyi
+KÃ¼zdelem
+Kuba JÃ¡nos
 Kubicza
 Kubikos
 Kubinyi Imre
-Kubinyi Kálmán
-Kucorgó
+Kubinyi KÃ¡lmÃ¡n
+KucorgÃ³
 Kucsera Ferenc
-Kucsera Zoltán
+Kucsera ZoltÃ¡n
 Kucsma
-Kujkó
+KujkÃ³
 Kukorica
 Kukovetz Nana
 Kukujszi
@@ -8251,65 +8251,65 @@ Kula
 Kulacs
 Kulapuszta
 Kulcs
-Kulcsár
-Kulcsár Fábián
-Kulcsár István
+KulcsÃ¡r
+KulcsÃ¡r FÃ¡biÃ¡n
+KulcsÃ¡r IstvÃ¡n
 Kulich Gyula
 Kullai
 Kulpa
-Kultúr
-Kultúrház
-Kultúrháznál
+KultÃºr
+KultÃºrhÃ¡z
+KultÃºrhÃ¡znÃ¡l
 Kun
-Kun Béla
-Kuna József
-Kunbábony
+Kun BÃ©la
+Kuna JÃ³zsef
+KunbÃ¡bony
 Kunc Adolf
 Kunc Adolf.
 Kund
-Kund vezér
+Kund vezÃ©r
 Kundombi
 Kunffy Zsigmond
 Kunfi
 Kunfi Zsigmond
-Kungát
-Kungyörgy
+KungÃ¡t
+KungyÃ¶rgy
 Kunhalom
 Kunhegyes
 Kunhegyesi
 Kunigunda
-Kunlaposi tanyák
+Kunlaposi tanyÃ¡k
 Kunmajor
 Kunos Endre
-Kunos Ignác
+Kunos IgnÃ¡c
 Kunpuszta
-Kunszentmártoni
-Kunszentmiklósi
+KunszentmÃ¡rtoni
+KunszentmiklÃ³si
 Kunszigeti
 Kuntelepi
 Kuny Domokos
-Kunyhó
+KunyhÃ³
 Kupa
-Kupa-vezér
-Kupás
-Kupa Árpád
-Kupa vezér
+Kupa-vezÃ©r
+KupÃ¡s
+Kupa ÃrpÃ¡d
+Kupa vezÃ©r
 Kupai
-Kupavezér
+KupavezÃ©r
 Kupeczky
-Kupeczky János
-Kurázs
-Kurázsi Egyenes
-Kurázsi Fõ
-Kurázsi I.
-Kurázsi II.
-Kurázsi III.
+Kupeczky JÃ¡nos
+KurÃ¡zs
+KurÃ¡zsi Egyenes
+KurÃ¡zsi FÅ‘
+KurÃ¡zsi I.
+KurÃ¡zsi II.
+KurÃ¡zsi III.
 Kurcsatov
-Kurcz György
+Kurcz GyÃ¶rgy
 Kuria
-Kurivölgy
-Kurjantópuszta
-Kuróczy Pál
+KurivÃ¶lgy
+KurjantÃ³puszta
+KurÃ³czy PÃ¡l
 Kurta
 Kurtasor
 Kuruc
@@ -8317,183 +8317,183 @@ Kurucdomb
 Kuruclesi
 Kurucok
 Kurucsa
-Kurucvölgyi
+KurucvÃ¶lgyi
 Kurucz
-Kustánszegi
-Kustár
+KustÃ¡nszegi
+KustÃ¡r
 Kutas
-Kutas Bálint
+Kutas BÃ¡lint
 Kutasi
-Kutasi Erdészház
-Kutató
+Kutasi ErdÃ©szhÃ¡z
+KutatÃ³
 Kuthen
-Kuthen király
-Kuthen vezér
-Kuti-rét
+Kuthen kirÃ¡ly
+Kuthen vezÃ©r
+Kuti-rÃ©t
 Kutilapi
 Kutyahegy
-Kutyavári
+KutyavÃ¡ri
 Kutyor
-Kutyorvölgy
+KutyorvÃ¶lgy
 Kuvik
 Kuznyecov
 Kuzsinszky
-Kuzsinszky Bálint
+Kuzsinszky BÃ¡lint
 Kvarc
 Kvassay
-Kvassay Jenõ
-Lábassy
-Lábdi
-Lábodi
-Láczay Szabó László
-Láczibokor
-Ládbesenyõ
-Ládi
-Lágyas
-Lágymányosi
-Lámpa
-Lámpásvölgyi
-Lámpagyár
-Lánc
-Láncfû
-Lánchíd
-Lánchíd pesti hídfõ
-Láncszem
-Lánczi
-Lánczos Kornél
-Lándzsa
-Láng
-Láng Endre
-Lángi
-Lángvirág
-Lányi Ernõ
-Lányvári
-Lánzséri
-Láp
-Lápotai
-Láró
-Lászi
-László
-László Károly
-László Király
-László telep
-Lászlócsere
-Lászlófalva
-Lászlóháza
-Lászlómajor
-Látófa
-Látóhegy
-Látókép
-Láva
-Lázár
-Lázár György
-Lázár Gyula
-Lázár Károly
-Lázár Vilmos
-Lázár deák
-Lázbérc
-Lázbérc Vizmûtelep
-Lázhegy
-Lázi
-Labát
+Kvassay JenÅ‘
+LÃ¡bassy
+LÃ¡bdi
+LÃ¡bodi
+LÃ¡czay SzabÃ³ LÃ¡szlÃ³
+LÃ¡czibokor
+LÃ¡dbesenyÅ‘
+LÃ¡di
+LÃ¡gyas
+LÃ¡gymÃ¡nyosi
+LÃ¡mpa
+LÃ¡mpÃ¡svÃ¶lgyi
+LÃ¡mpagyÃ¡r
+LÃ¡nc
+LÃ¡ncfÅ±
+LÃ¡nchÃ­d
+LÃ¡nchÃ­d pesti hÃ­dfÅ‘
+LÃ¡ncszem
+LÃ¡nczi
+LÃ¡nczos KornÃ©l
+LÃ¡ndzsa
+LÃ¡ng
+LÃ¡ng Endre
+LÃ¡ngi
+LÃ¡ngvirÃ¡g
+LÃ¡nyi ErnÅ‘
+LÃ¡nyvÃ¡ri
+LÃ¡nzsÃ©ri
+LÃ¡p
+LÃ¡potai
+LÃ¡rÃ³
+LÃ¡szi
+LÃ¡szlÃ³
+LÃ¡szlÃ³ KÃ¡roly
+LÃ¡szlÃ³ KirÃ¡ly
+LÃ¡szlÃ³ telep
+LÃ¡szlÃ³csere
+LÃ¡szlÃ³falva
+LÃ¡szlÃ³hÃ¡za
+LÃ¡szlÃ³major
+LÃ¡tÃ³fa
+LÃ¡tÃ³hegy
+LÃ¡tÃ³kÃ©p
+LÃ¡va
+LÃ¡zÃ¡r
+LÃ¡zÃ¡r GyÃ¶rgy
+LÃ¡zÃ¡r Gyula
+LÃ¡zÃ¡r KÃ¡roly
+LÃ¡zÃ¡r Vilmos
+LÃ¡zÃ¡r deÃ¡k
+LÃ¡zbÃ©rc
+LÃ¡zbÃ©rc VizmÅ±telep
+LÃ¡zhegy
+LÃ¡zi
+LabÃ¡t
 Labanc
 Labda
-Labdarózsa
-Labdarúgó
-Labdaverõ
-Laboráns
+LabdarÃ³zsa
+LabdarÃºgÃ³
+LabdaverÅ‘
+LaborÃ¡ns
 Laborc
 Laborfalvi
-Laborfalvi Róza
-Lackner Kristóf
+Laborfalvi RÃ³za
+Lackner KristÃ³f
 Laczfi
 Laczfy
-Laczkó
+LaczkÃ³
 Laczkovics
-Ladánybenei
-Ladányi
-Ladháza
-Ladi János
+LadÃ¡nybenei
+LadÃ¡nyi
+LadhÃ¡za
+Ladi JÃ¡nos
 Ladik
-Ladomány
-Ladvánszky
+LadomÃ¡ny
+LadvÃ¡nszky
 Laffert
 Lahner
-Lahner György
-Lahóca
+Lahner GyÃ¶rgy
+LahÃ³ca
 Lahti
-Lajer Dezsõ
-Lajkó
+Lajer DezsÅ‘
+LajkÃ³
 Lajos
-Lajos Árpád
-Lajos király
-Lajosforrás
-Lajosház
-Lajosháza
+Lajos ÃrpÃ¡d
+Lajos kirÃ¡ly
+LajosforrÃ¡s
+LajoshÃ¡z
+LajoshÃ¡za
 Lajosmajor
 Lajostelep
 Lajta
 Lajtapuszta
 Lajtaszer
-Lajtha László
+Lajtha LÃ¡szlÃ³
 Lajtos
-Lajvér
+LajvÃ©r
 Lak
 Lakat
 Lakatos
 Lakatos Judit
-Lakatos Péter
+Lakatos PÃ©ter
 Lakatosbokor
 Laki
 Lakitelek
 Lakiteleki
-Lakkozó
-Lakó
-Lakótelep
-Lakótelep 9-es
-Lakos Gusztáv
-Lakos János
+LakkozÃ³
+LakÃ³
+LakÃ³telep
+LakÃ³telep 9-es
+Lakos GusztÃ¡v
+Lakos JÃ¡nos
 Lakoss
-Lakozzó
+LakozzÃ³
 Laktanya
 Laky
 Laky Adolf
 Laky Demeter
-Laky Döme
+Laky DÃ¶me
 Lalka
 Lam
-Lampérth Géza
-Landay János
+LampÃ©rth GÃ©za
+Landay JÃ¡nos
 Landler
-Landler Jenõ
+Landler JenÅ‘
 Landorhegyi
-Langlet Waldemár
-Langó
+Langlet WaldemÃ¡r
+LangÃ³
 Lanka
-Lankás
+LankÃ¡s
 Lant
 Lantos
-Lapály
-Lapát
+LapÃ¡ly
+LapÃ¡t
 Lapapuszta
 Lapi
 Lapisi
 Lapos
-Laposa Dániel
+Laposa DÃ¡niel
 Laposhad
 Laposi
-Laposrét
+LaposrÃ©t
 Lapszer
 Laska
-Laskó
-Laskóvölgy
-Lassú
+LaskÃ³
+LaskÃ³vÃ¶lgy
+LassÃº
 Laszip
-Latabár Endre
-Latabár Kálmán
+LatabÃ¡r Endre
+LatabÃ¡r KÃ¡lmÃ¡n
 Latinka
-Latinka Sándor
-Latkóczi Lajos
+Latinka SÃ¡ndor
+LatkÃ³czi Lajos
 Lator
 Lator-telep
 Latorca
@@ -8501,268 +8501,268 @@ Laufenauer
 Laufer
 Laura
 Lavotta
-Lavotta János
+Lavotta JÃ¡nos
 Lazac
-Lazarét
+LazarÃ©t
 Lazsnak
-Léber Lajos
-Léc
-Léda
-Lédeci
-Légió
-Légszesz
-Légszeszgyár
-Léka
-Lékai
-Lékai bíboros
-Lénia
-Lépcsõ
-Lépcsõs
-Lépcsõsor
-Lépesfalvi
-Lépesméz
-Létai
-Létai út
-Léva
-Lévai
-Lévai József
-Lévay
-Lévay József
-Lévay Márton
+LÃ©ber Lajos
+LÃ©c
+LÃ©da
+LÃ©deci
+LÃ©giÃ³
+LÃ©gszesz
+LÃ©gszeszgyÃ¡r
+LÃ©ka
+LÃ©kai
+LÃ©kai bÃ­boros
+LÃ©nia
+LÃ©pcsÅ‘
+LÃ©pcsÅ‘s
+LÃ©pcsÅ‘sor
+LÃ©pesfalvi
+LÃ©pesmÃ©z
+LÃ©tai
+LÃ©tai Ãºt
+LÃ©va
+LÃ©vai
+LÃ©vai JÃ³zsef
+LÃ©vay
+LÃ©vay JÃ³zsef
+LÃ©vay MÃ¡rton
 Lea
-Leánder
-Leány
-Leányfalu
-Leányka
-Leányszállás
-Leányvár
-Leányvári
+LeÃ¡nder
+LeÃ¡ny
+LeÃ¡nyfalu
+LeÃ¡nyka
+LeÃ¡nyszÃ¡llÃ¡s
+LeÃ¡nyvÃ¡r
+LeÃ¡nyvÃ¡ri
 Leander
-Lebstück Mária
+LebstÃ¼ck MÃ¡ria
 Lechner
-Lechner György
-Lechner Ödön
+Lechner GyÃ¶rgy
+Lechner Ã–dÃ¶n
 Lecke
-Leffler Sámuel
-Legányi
-Legányi Ferenc
-Legátus
-Legény
-Legény Pál
-Legénybíró
-Legényrózsa
-Legénysor
-Legelõ
-Legelõdombi
-Legelõköz
-Legelõszél
+Leffler SÃ¡muel
+LegÃ¡nyi
+LegÃ¡nyi Ferenc
+LegÃ¡tus
+LegÃ©ny
+LegÃ©ny PÃ¡l
+LegÃ©nybÃ­rÃ³
+LegÃ©nyrÃ³zsa
+LegÃ©nysor
+LegelÅ‘
+LegelÅ‘dombi
+LegelÅ‘kÃ¶z
+LegelÅ‘szÃ©l
 Legenda
 Legyes
-Legyezõ
-Lehár Ferenc
-Lehegõ
+LegyezÅ‘
+LehÃ¡r Ferenc
+LehegÅ‘
 Lehel
-Lehel téri aluljáró
-Lehel vezér
-Leibstück Mária
+Lehel tÃ©ri aluljÃ¡rÃ³
+Lehel vezÃ©r
+LeibstÃ¼ck MÃ¡ria
 Leiningen
-Leiningen Károly
-Lejtõ
-Lejtõs
+Leiningen KÃ¡roly
+LejtÅ‘
+LejtÅ‘s
 Lekehalma
 Lelesz
 Lemberg
 Len
 Lencse
-Lencsés
-Lencsés Világos
+LencsÃ©s
+LencsÃ©s VilÃ¡gos
 Lencz
 Lendva
 Lendvai
 Lendvay
-Lendvay János
+Lendvay JÃ¡nos
 Leneskert
 Leneskerti
-Lenfonó
-Lengõ
-Lengyár
-Lengyári
+LenfonÃ³
+LengÅ‘
+LengyÃ¡r
+LengyÃ¡ri
 Lengyel
-Lengyel József
-Lengyel Légió
-Lengyel Menyhért
+Lengyel JÃ³zsef
+Lengyel LÃ©giÃ³
+Lengyel MenyhÃ©rt
 Lengyelkert
-Lengyeltóti
-Lenhossék
+LengyeltÃ³ti
+LenhossÃ©k
 Lenin
-Leningrád
+LeningrÃ¡d
 Lenke
-Lenkeház
+LenkehÃ¡z
 Lenkei
-Lenkei János
+Lenkei JÃ¡nos
 Lenkey
-Lenkey János
+Lenkey JÃ¡nos
 Lenti
 Lentihegy
-Lenvirág
+LenvirÃ¡g
 Leonardo da Vinci
 Leopold Lajos
 Lepence
 Lepke
 Lepkeszeg
-Lepkevirág
+LepkevirÃ¡g
 Les
 Lesalja
 Lesence
 Leshegy
 Leshegyi
-Lessényi
-Lestánszki
-Lestár
-Lesvár
-Lesvárpuszta
+LessÃ©nyi
+LestÃ¡nszki
+LestÃ¡r
+LesvÃ¡r
+LesvÃ¡rpuszta
 Leszih Andor
-Levél
-Levéli
+LevÃ©l
+LevÃ©li
 Leveleki
 Leveles
 Levelesi
 Levendula
 Levente
-Levente vezér
+Levente vezÃ©r
 Ley
-Ley József
-Lídia
-Líra
-Lívia
-Líviai
+Ley JÃ³zsef
+LÃ­dia
+LÃ­ra
+LÃ­via
+LÃ­viai
 Libabokor
 Libakert
-Libertás
+LibertÃ¡s
 Lichmann
-Lidérc
+LidÃ©rc
 Lidicei
-Lidó
+LidÃ³
 Liezen-Mayer
 Liezen Mayer
 Liga
 Liget
-Liget-tanyák
+Liget-tanyÃ¡k
 Ligeti
 Ligeti Lajos
 Ligetsor
-Ligetszépe
-Ligettér
-Ligettetõ
-Likócs
+LigetszÃ©pe
+LigettÃ©r
+LigettetÅ‘
+LikÃ³cs
 Lila
-Lila akác üdülõ
+Lila akÃ¡c Ã¼dÃ¼lÅ‘
 Lilaorgona
 Lile
 Liliom
 Lilla
-Lillafüred
-Lillafüredi
-Limány
+LillafÃ¼red
+LillafÃ¼redi
+LimÃ¡ny
 Limanova
 Linda
 Lindmajer
-Linhardt György
-Lipárt
+Linhardt GyÃ¶rgy
+LipÃ¡rt
 Lipcse
-Lipóc
-Lipót
-Lipótfa
-Lipóti
-Lipótmezei
-Lipótvár
+LipÃ³c
+LipÃ³t
+LipÃ³tfa
+LipÃ³ti
+LipÃ³tmezei
+LipÃ³tvÃ¡r
 Liponya
 Lipp Vilmos
 Lippa
 Lippai
-Lippai Balázs
-Lipták
-Lipták Gábor
-Liptay Béla
+Lippai BalÃ¡zs
+LiptÃ¡k
+LiptÃ¡k GÃ¡bor
+Liptay BÃ©la
 Lipthay
-Liptó
-Liptói
+LiptÃ³
+LiptÃ³i
 Lispei
-Liszenkó
-Liszkai János
-Liszkay Gusztáv
-Liszkóvölgy
-Liszkóvölgy Külterület
+LiszenkÃ³
+Liszkai JÃ¡nos
+Liszkay GusztÃ¡v
+LiszkÃ³vÃ¶lgy
+LiszkÃ³vÃ¶lgy KÃ¼lterÃ¼let
 Lisznyai
-Lisznyai Damó
-Lisznyai Damó Kálmán
+Lisznyai DamÃ³
+Lisznyai DamÃ³ KÃ¡lmÃ¡n
 Liszt
 Liszt Ferenc
-Lisztesvölgy
-Literáti Tamás
+LisztesvÃ¶lgy
+LiterÃ¡ti TamÃ¡s
 Litkai
 Litki
-Littke József
+Littke JÃ³zsef
 Litva
 Ljubojevics D.
 Ljubojevics Demeter
-Lóállás
-Lóca
-Lócsi
-Lóczibokor
-Lóczy
-Lóczy Lajos
-Lóding
-Lódomb
-Lóger ház
-Lóhegyi
-Lóherés
-Lókert
-Lóki
-Lónyai
-Lónyai Menyhért
-Lónyay
-Lóránt
-Lórántffy
-Lórántffy Zsuzsanna
-Lórév
-Lóskúti
-Lósy Imre
-Lótusz
-Lótuszvirág
-Lóvasút
-Lóverseny
-Löcse
-Löki
-Lövész
-Lövölde
-Lövõház
-Lövõi
-Löwy Sándor
-Lõcs
-Lõcse
-Lõcsei
-Lõczedombi
-Lõpor
-Lõpormalom
-Lõporos
-Lõportár
-Lõrinc
-Lõrinc barát
-Lõrinc pap
-Lõrinci
-Lõtér
-Lõtéri
-Lõvér
-Lõvi
-Lõwy Izsák
-Lõwy Sándor
-Lobbanó
-Lobogó
-Locsmándi
-Locsoló
+LÃ³Ã¡llÃ¡s
+LÃ³ca
+LÃ³csi
+LÃ³czibokor
+LÃ³czy
+LÃ³czy Lajos
+LÃ³ding
+LÃ³domb
+LÃ³ger hÃ¡z
+LÃ³hegyi
+LÃ³herÃ©s
+LÃ³kert
+LÃ³ki
+LÃ³nyai
+LÃ³nyai MenyhÃ©rt
+LÃ³nyay
+LÃ³rÃ¡nt
+LÃ³rÃ¡ntffy
+LÃ³rÃ¡ntffy Zsuzsanna
+LÃ³rÃ©v
+LÃ³skÃºti
+LÃ³sy Imre
+LÃ³tusz
+LÃ³tuszvirÃ¡g
+LÃ³vasÃºt
+LÃ³verseny
+LÃ¶cse
+LÃ¶ki
+LÃ¶vÃ©sz
+LÃ¶vÃ¶lde
+LÃ¶vÅ‘hÃ¡z
+LÃ¶vÅ‘i
+LÃ¶wy SÃ¡ndor
+LÅ‘cs
+LÅ‘cse
+LÅ‘csei
+LÅ‘czedombi
+LÅ‘por
+LÅ‘pormalom
+LÅ‘poros
+LÅ‘portÃ¡r
+LÅ‘rinc
+LÅ‘rinc barÃ¡t
+LÅ‘rinc pap
+LÅ‘rinci
+LÅ‘tÃ©r
+LÅ‘tÃ©ri
+LÅ‘vÃ©r
+LÅ‘vi
+LÅ‘wy IzsÃ¡k
+LÅ‘wy SÃ¡ndor
+LobbanÃ³
+LobogÃ³
+LocsmÃ¡ndi
+LocsolÃ³
 Logodi
-Lokomotív
+LokomotÃ­v
 Lomb
 Lombos
 Lomnic
@@ -8772,38 +8772,38 @@ Londoni
 Lonka Cser
 Lonkahegy
 Lonkai
-Loránd
-Lorántffy
-Lorántffy Zsuzsanna
-Losárdi Zsuzsanna
+LorÃ¡nd
+LorÃ¡ntffy
+LorÃ¡ntffy Zsuzsanna
+LosÃ¡rdi Zsuzsanna
 Losonc
 Losonci
 Losonczi
 Losonczy
-Losonczy István
-Lotz Károly
-Lovász
+Losonczy IstvÃ¡n
+Lotz KÃ¡roly
+LovÃ¡sz
 Lovag
 Lovarda
 Lovas
-Lovas István
+Lovas IstvÃ¡n
 Lovasi
 Lovassy
-Lovassy László
-Lovassy Sándor
+Lovassy LÃ¡szlÃ³
+Lovassy SÃ¡ndor
 Lovastanya,Torda
-Lúd
-Lublói
+LÃºd
+LublÃ³i
 Luc
 Luca
 Lucerna
-Lucernás
-Lucfenyõ
+LucernÃ¡s
+LucfenyÅ‘
 Lucsony
-Ludány
-Ludányi Antal
+LudÃ¡ny
+LudÃ¡nyi Antal
 Ludas
-Ludastó
+LudastÃ³
 Ludovika
 Lugas
 Lugos
@@ -8811,370 +8811,370 @@ Lugosi
 Lugossy
 Lujza
 Luka
-Lukács
-Lukács Dénes
-Lukács György
-Lukács J.
-Lukács Károly
-Lukács Ödön
-Lukács Sándor
-Lukács tábornok
-Lukácsi Lajos
-Lukácsi Máté
-Lukácsi Sándor
+LukÃ¡cs
+LukÃ¡cs DÃ©nes
+LukÃ¡cs GyÃ¶rgy
+LukÃ¡cs J.
+LukÃ¡cs KÃ¡roly
+LukÃ¡cs Ã–dÃ¶n
+LukÃ¡cs SÃ¡ndor
+LukÃ¡cs tÃ¡bornok
+LukÃ¡csi Lajos
+LukÃ¡csi MÃ¡tÃ©
+LukÃ¡csi SÃ¡ndor
 Lukashorog
 Lukinich M.
 Lukonich
-Lunkányi János
+LunkÃ¡nyi JÃ¡nos
 Lupa-sziget
-Lupa-szigeti elágazás
+Lupa-szigeti elÃ¡gazÃ¡s
 Lupaszigeti
-Lupény
+LupÃ©ny
 Luppa Vidor
 Luther
-Luther-ház A.
-Luther-ház B.
-Luther Márton
-Luzsányi Pál
+Luther-hÃ¡z A.
+Luther-hÃ¡z B.
+Luther MÃ¡rton
+LuzsÃ¡nyi PÃ¡l
 Lyceum
-Lyka Károly
-Lyukó völgy
-Lyukóbánya
-Lyukóvölgy
-Lyukóvölgy Bánya oldal
-M-1-es Autópálya
-M-7 autópálya
-M0-ás
+Lyka KÃ¡roly
+LyukÃ³ vÃ¶lgy
+LyukÃ³bÃ¡nya
+LyukÃ³vÃ¶lgy
+LyukÃ³vÃ¶lgy BÃ¡nya oldal
+M-1-es AutÃ³pÃ¡lya
+M-7 autÃ³pÃ¡lya
+M0-Ã¡s
 M1
 M1-es
-M1-es autópálya
-M5-ös
-M5-ös Autópálya 67km szelvény
+M1-es autÃ³pÃ¡lya
+M5-Ã¶s
+M5-Ã¶s AutÃ³pÃ¡lya 67km szelvÃ©ny
 M7-es
-M7-es autópálya
-M7 Autópálya 59 km
-M7 Autópálya 87. km dél
-M7 Autópálya 87. km észak
-MÁV
-MÁV- állomás
-MÁV-állomás
-MÁV-laktanya
-MÁV-rakodó
-MÁV-telep
-MÁV 7-as õrház
-MÁV Épület
-MÁV Épületek
-MÁV Északi
-MÁV Hatház
-MÁV Jármûtelep
-MÁV Kereskedelmi
-MÁV Megálló
-MÁV Nevelõotthon
-MÁV Õrház
-MÁV Pályaudvar
-MÁV Pécsbányarendezõ
-MÁV Polgárdi
-MÁV Rakodó
-MÁV Telep
-MÁV Vasútállomás
-MÁV állomás
-MOFÉM zárkert
-MOL Benzinkút
-MOL benzinkút
+M7-es autÃ³pÃ¡lya
+M7 AutÃ³pÃ¡lya 59 km
+M7 AutÃ³pÃ¡lya 87. km dÃ©l
+M7 AutÃ³pÃ¡lya 87. km Ã©szak
+MÃV
+MÃV- Ã¡llomÃ¡s
+MÃV-Ã¡llomÃ¡s
+MÃV-laktanya
+MÃV-rakodÃ³
+MÃV-telep
+MÃV 7-as Å‘rhÃ¡z
+MÃV Ã‰pÃ¼let
+MÃV Ã‰pÃ¼letek
+MÃV Ã‰szaki
+MÃV HathÃ¡z
+MÃV JÃ¡rmÅ±telep
+MÃV Kereskedelmi
+MÃV MegÃ¡llÃ³
+MÃV NevelÅ‘otthon
+MÃV ÅrhÃ¡z
+MÃV PÃ¡lyaudvar
+MÃV PÃ©csbÃ¡nyarendezÅ‘
+MÃV PolgÃ¡rdi
+MÃV RakodÃ³
+MÃV Telep
+MÃV VasÃºtÃ¡llomÃ¡s
+MÃV Ã¡llomÃ¡s
+MOFÃ‰M zÃ¡rkert
+MOL BenzinkÃºt
+MOL benzinkÃºt
 M 100-as
-M 5-ös Autópálya
-M 7-as autópálya
-Mácsai Sándor
-Mádai Lajos
-Mádi
-Mády Lajos
-Mágasor
-Máglya
-Mágnes
-Máhomfai
-Május
-Május 1.
-Május 1. Úti
-Május 14.
-Májusfa
-Májushegy
-Májuskút
-Mák
-Mákos
-Máladó
-Máli Péter
-Málinkó
-Málna
-Málnás
-Málnáskert
-Málom-hegyi
-Málom szõlõhegy
-Málomhegyi
-Málomi
-Málomi Szõlõhegy
-Máltetõ
-Mályinka
-Mályva
-Mályvarózsa
-Mándi
-Mándoki
-Mánteleki
-Mányi
-Mányoki
-Mányoki Á.
-Mányoki Ádám
-Máramaros
-Máramarosi
-Máramarossziget
-Márcfalvi
-Március
-Március 15.
-Március 91.
-Március 96
-Máré
-Márfa
-Márffy
-Márga
-Mária
-Mária-táró
-Máriás
-Máriássy
-Mária Terézia
-Mária királyné
-Mária királynõ
-Mária park
-Mária völgy
-Máriahegy
-Márialiget
-Máriaremetei
-Máriatelep
-Máriaújfalui
-Máriavölgy
-Márk
-Márkházapuszta
-Márki
-Márkus Emília
-Márkus Géza
-Márkushegy
-Márna
-Márta
-Mártírok
-Márton
-Márton Áron
-Márton bíró
-Mártonfa
-Mártonffy
-Mártonháza
-Mártonhegyi
-Mártonlak
-Mártonvölgy
-Márvány
-Második
-Mászlony
-Máta
-Mátai
-Mátai Antal
-Máté
-Máté János
-Mátéfa
-Mátéháza
-Mátészalka
-Mátis Kálmán
-Mátka
-Mátra
-Mátrafüred
-Mátraháza
-Mátrai
-Mátrai Gyula
-Mátravidéki Erõmû
-Mátray
-Mátyás
-Mátyás Flórián
-Mátyás király
-Mátyásbokor
-Mátyásdomb
-Mátyáshegyi
-Mátyási
-Mátyási József
-Mátyástelep
-Mázoló
-Mázsa
-Mázsaház
+M 5-Ã¶s AutÃ³pÃ¡lya
+M 7-as autÃ³pÃ¡lya
+MÃ¡csai SÃ¡ndor
+MÃ¡dai Lajos
+MÃ¡di
+MÃ¡dy Lajos
+MÃ¡gasor
+MÃ¡glya
+MÃ¡gnes
+MÃ¡homfai
+MÃ¡jus
+MÃ¡jus 1.
+MÃ¡jus 1. Ãšti
+MÃ¡jus 14.
+MÃ¡jusfa
+MÃ¡jushegy
+MÃ¡juskÃºt
+MÃ¡k
+MÃ¡kos
+MÃ¡ladÃ³
+MÃ¡li PÃ©ter
+MÃ¡linkÃ³
+MÃ¡lna
+MÃ¡lnÃ¡s
+MÃ¡lnÃ¡skert
+MÃ¡lom-hegyi
+MÃ¡lom szÅ‘lÅ‘hegy
+MÃ¡lomhegyi
+MÃ¡lomi
+MÃ¡lomi SzÅ‘lÅ‘hegy
+MÃ¡ltetÅ‘
+MÃ¡lyinka
+MÃ¡lyva
+MÃ¡lyvarÃ³zsa
+MÃ¡ndi
+MÃ¡ndoki
+MÃ¡nteleki
+MÃ¡nyi
+MÃ¡nyoki
+MÃ¡nyoki Ã.
+MÃ¡nyoki ÃdÃ¡m
+MÃ¡ramaros
+MÃ¡ramarosi
+MÃ¡ramarossziget
+MÃ¡rcfalvi
+MÃ¡rcius
+MÃ¡rcius 15.
+MÃ¡rcius 91.
+MÃ¡rcius 96
+MÃ¡rÃ©
+MÃ¡rfa
+MÃ¡rffy
+MÃ¡rga
+MÃ¡ria
+MÃ¡ria-tÃ¡rÃ³
+MÃ¡riÃ¡s
+MÃ¡riÃ¡ssy
+MÃ¡ria TerÃ©zia
+MÃ¡ria kirÃ¡lynÃ©
+MÃ¡ria kirÃ¡lynÅ‘
+MÃ¡ria park
+MÃ¡ria vÃ¶lgy
+MÃ¡riahegy
+MÃ¡rialiget
+MÃ¡riaremetei
+MÃ¡riatelep
+MÃ¡riaÃºjfalui
+MÃ¡riavÃ¶lgy
+MÃ¡rk
+MÃ¡rkhÃ¡zapuszta
+MÃ¡rki
+MÃ¡rkus EmÃ­lia
+MÃ¡rkus GÃ©za
+MÃ¡rkushegy
+MÃ¡rna
+MÃ¡rta
+MÃ¡rtÃ­rok
+MÃ¡rton
+MÃ¡rton Ãron
+MÃ¡rton bÃ­rÃ³
+MÃ¡rtonfa
+MÃ¡rtonffy
+MÃ¡rtonhÃ¡za
+MÃ¡rtonhegyi
+MÃ¡rtonlak
+MÃ¡rtonvÃ¶lgy
+MÃ¡rvÃ¡ny
+MÃ¡sodik
+MÃ¡szlony
+MÃ¡ta
+MÃ¡tai
+MÃ¡tai Antal
+MÃ¡tÃ©
+MÃ¡tÃ© JÃ¡nos
+MÃ¡tÃ©fa
+MÃ¡tÃ©hÃ¡za
+MÃ¡tÃ©szalka
+MÃ¡tis KÃ¡lmÃ¡n
+MÃ¡tka
+MÃ¡tra
+MÃ¡trafÃ¼red
+MÃ¡trahÃ¡za
+MÃ¡trai
+MÃ¡trai Gyula
+MÃ¡travidÃ©ki ErÅ‘mÅ±
+MÃ¡tray
+MÃ¡tyÃ¡s
+MÃ¡tyÃ¡s FlÃ³riÃ¡n
+MÃ¡tyÃ¡s kirÃ¡ly
+MÃ¡tyÃ¡sbokor
+MÃ¡tyÃ¡sdomb
+MÃ¡tyÃ¡shegyi
+MÃ¡tyÃ¡si
+MÃ¡tyÃ¡si JÃ³zsef
+MÃ¡tyÃ¡stelep
+MÃ¡zolÃ³
+MÃ¡zsa
+MÃ¡zsahÃ¡z
 Machatsek Gyula
-Macki Valér
-Mackó
-Macószéki
+Macki ValÃ©r
+MackÃ³
+MacÃ³szÃ©ki
 Macsekfalui
 Macsi
-Macskakõi
+MacskakÅ‘i
 Macskalyuk
-Madách
-Madách Imre
-Madách Üzletsor
-Madách kertalja
-Madár
-Madárhegy
-Madárkút
+MadÃ¡ch
+MadÃ¡ch Imre
+MadÃ¡ch Ãœzletsor
+MadÃ¡ch kertalja
+MadÃ¡r
+MadÃ¡rhegy
+MadÃ¡rkÃºt
 Madai
-Madarász
-Madarász Imre
-Madarász József
-Madarász Viktor
+MadarÃ¡sz
+MadarÃ¡sz Imre
+MadarÃ¡sz JÃ³zsef
+MadarÃ¡sz Viktor
 Madaras-telep
 Madarasi
 Madaraspart
-Madarassy László
-Madas József
-Maderspach Károlyné
+Madarassy LÃ¡szlÃ³
+Madas JÃ³zsef
+Maderspach KÃ¡rolynÃ©
 Madridi
-Madzsar József
+Madzsar JÃ³zsef
 Mag
 Magas
-Magasbükk
+MagasbÃ¼kk
 Magasd-puszta
-Magasház
+MagashÃ¡z
 Magashegy
 Magaslati
 Magaspart
-Magasút
-Magasúti
+MagasÃºt
+MagasÃºti
 Magay
 Magazin
 Magda
 Magdolna
-Maghy Zoltán
-Maglócai
-Maglódi
+Maghy ZoltÃ¡n
+MaglÃ³cai
+MaglÃ³di
 Magnezit
 Magor
-Magtár
-Magvetõ
+MagtÃ¡r
+MagvetÅ‘
 Magyar
-Magyar Bálint
+Magyar BÃ¡lint
 Magyar Benigna
-Magyar Gáborné
-Magyar Kálvária
-Magyar László
+Magyar GÃ¡bornÃ©
+Magyar KÃ¡lvÃ¡ria
+Magyar LÃ¡szlÃ³
 Magyar Lajos
-Magyar Sándor
+Magyar SÃ¡ndor
 Magyar jakobinusok
-Magyar tudósok körútja
-Magyarádi
+Magyar tudÃ³sok kÃ¶rÃºtja
+MagyarÃ¡di
 Magyarbokor
 Magyarfalu
 Magyarhegy
 Magyarhida
 Magyari
 Magyari Imre
-Magyari István
+Magyari IstvÃ¡n
 Magyarka
-Magyarnádaljai
-Magyarós
-Magyaróvölgy
+MagyarnÃ¡daljai
+MagyarÃ³s
+MagyarÃ³vÃ¶lgy
 Magyarok Nagyasszonya
 Magyaros
-Magyartési
-Magyarürögi
-Magyarvár
-Magyary László
+MagyartÃ©si
+MagyarÃ¼rÃ¶gi
+MagyarvÃ¡r
+Magyary LÃ¡szlÃ³
 Magyi
-Mahagóni
-Mahóca
+MahagÃ³ni
+MahÃ³ca
 Mahunka Imre
-Majális
+MajÃ¡lis
 Majakovszkij
-Majdáni
+MajdÃ¡ni
 Majki
 Majkpuszta
-Majláth
-Majláth István
-Majláthpuszta
-Majlátpuszta
+MajlÃ¡th
+MajlÃ¡th IstvÃ¡n
+MajlÃ¡thpuszta
+MajlÃ¡tpuszta
 Majolika
 Major
-Majoránna
+MajorÃ¡nna
 Majoranna
 Majori
 Majorkert
-Majorközpont
+MajorkÃ¶zpont
 Majorok
 Majoros
 Majorossy Imre
-Majosház
+MajoshÃ¡z
 Majsa
 Majsai
-Majtényi Ferenc
-Majthényi
-Majthényi Károly
+MajtÃ©nyi Ferenc
+MajthÃ©nyi
+MajthÃ©nyi KÃ¡roly
 Majzik Viktor
-Makád
-Makártetõ
+MakÃ¡d
+MakÃ¡rtetÅ‘
 Makai
-Makarenkó
-Makay István
+MakarenkÃ³
+Makay IstvÃ¡n
 Makk
-Makk József
-Makkai Sándor
+Makk JÃ³zsef
+Makkai SÃ¡ndor
 Makkos
 Makkos Ferenc
-Makkoserdõ
-Makkosházi
+MakkoserdÅ‘
+MakkoshÃ¡zi
 Makkoshetyei
 Makkosi
-Maklári
-Maklári Pap Mór
-Makó
-Makó-Rákos
-Makó István
-Makó Pál
-Makói
+MaklÃ¡ri
+MaklÃ¡ri Pap MÃ³r
+MakÃ³
+MakÃ³-RÃ¡kos
+MakÃ³ IstvÃ¡n
+MakÃ³ PÃ¡l
+MakÃ³i
 Makra
-Makra-tetõ
-Maláka alja
-Maláta
+Makra-tetÅ‘
+MalÃ¡ka alja
+MalÃ¡ta
 Malackai
-Maléter Pál
+MalÃ©ter PÃ¡l
 Malinovszki
 Malinovszkij
 Malmok
 Malom
-Malomárok
-Malomház
-Malomházi
+MalomÃ¡rok
+MalomhÃ¡z
+MalomhÃ¡zi
 Malomhegy
 Malomhegyi
-Malomi külterület
-Malomkerék
+Malomi kÃ¼lterÃ¼let
+MalomkerÃ©k
 Malomkert
-Malomkõ
-Malomkõgyár
+MalomkÅ‘
+MalomkÅ‘gyÃ¡r
 Malompart
 Malompatak
-Malomrét
-Malomszéki
+MalomrÃ©t
+MalomszÃ©ki
 Malomszer
-Malomszög
+MalomszÃ¶g
 Malomtelep
-Malomtó
-Malomtó szél
+MalomtÃ³
+MalomtÃ³ szÃ©l
 Malomudvar
-Malomvölgy
-Malomvölgyi
+MalomvÃ¶lgy
+MalomvÃ¶lgyi
 Malomzug
 Malvin
 Mama
-Mamócsi
-Mancz János
+MamÃ³csi
+Mancz JÃ¡nos
 Mandabokor
 Mandula
-Mandulás
+MandulÃ¡s
 Mandulafa
-Mandulavirág
-Mankó
-Mankós
+MandulavirÃ¡g
+MankÃ³
+MankÃ³s
 Manna ABC
 Manninger
-Manninger Gusztáv
+Manninger GusztÃ¡v
 Mansbart
 Mansbarth
 Maort
@@ -9187,84 +9187,84 @@ Marcella
 Marci
 Marczali
 Marczali Henrik
-Marczibányi
+MarczibÃ¡nyi
 Marek
-Marek József
+Marek JÃ³zsef
 Mares
-Margaréta
+MargarÃ©ta
 Margaretta
 Margit
 Margit-liget
 Margit-major
-Margit híd
-Margitbányai
-Margitháza
+Margit hÃ­d
+MargitbÃ¡nyai
+MargithÃ¡za
 Margitliget
 Margitsziget
 Margittai
-Margó
-Margó Tivadar
+MargÃ³
+MargÃ³ Tivadar
 Marianna
 Mariettapuszta
-Mariháza
+MarihÃ¡za
 Marina
-Marina üzem
+Marina Ã¼zem
 Marinka
-Marinkavölgy
+MarinkavÃ¶lgy
 Marjalaki
 Marjalaki Kiss Lajos
-Markhót Ferenc
-Markó
-Markóbokor
-Markotányos
+MarkhÃ³t Ferenc
+MarkÃ³
+MarkÃ³bokor
+MarkotÃ¡nyos
 Markovics
-Markovits Iván
+Markovits IvÃ¡n
 Markusovszky
 Markusovszky Lajos
-Marócpuszta
-Marógép
-Marót
-Maróthy György
-Maróti
-Marokszedõ
+MarÃ³cpuszta
+MarÃ³gÃ©p
+MarÃ³t
+MarÃ³thy GyÃ¶rgy
+MarÃ³ti
+MarokszedÅ‘
 Maros
 Maros-Torok
-Marosfõ
-Maroshévíz
+MarosfÅ‘
+MaroshÃ©vÃ­z
 Marosi
 Marosi Arnold
-Marostõi
-Marosvásárhely
-Marosvásárhelyi
+MarostÅ‘i
+MarosvÃ¡sÃ¡rhely
+MarosvÃ¡sÃ¡rhelyi
 Mars
-Mars tér P pavilon
-Martfûi
+Mars tÃ©r P pavilon
+MartfÅ±i
 Martin
-Martin Károly
-Martinász
+Martin KÃ¡roly
+MartinÃ¡sz
 Martinka
 Martinka Avar
-Martinka Búzavirág
+Martinka BÃºzavirÃ¡g
 Martinka Darvas
 Martinka Debreceni
-Martinka Diófa
+Martinka DiÃ³fa
 Martinka Domb
-Martinka Erdõalja
-Martinka Fagyöngy
-Martinka Fõzõ
+Martinka ErdÅ‘alja
+Martinka FagyÃ¶ngy
+Martinka FÅ‘zÅ‘
 Martinka Harmathy
 Martinka Iskola
 Martinka Orgona
 Martinka Rezeda
-Martinka Sámsoni
-Martinka Szõlõs
+Martinka SÃ¡msoni
+Martinka SzÅ‘lÅ‘s
 Martinka Szondi
-Martinka Török
-Martinka Vadvirág
-Martinka Vincellér
+Martinka TÃ¶rÃ¶k
+Martinka VadvirÃ¡g
+Martinka VincellÃ©r
 Martinovics
 Martinovics I.
-Martinovics Ignác
+Martinovics IgnÃ¡c
 Martiny Frigyes
 Marton
 Marton Lajos
@@ -9272,127 +9272,127 @@ Martonfalvi
 Martonosi
 Martos
 Martos Ferenc
-Martos Flóra
+Martos FlÃ³ra
 Martsa Alajos
 Marx
 Marx-tag
-Marx Károly
-Mata János
+Marx KÃ¡roly
+Mata JÃ¡nos
 Matacsalja
 Matakovits
 Mate Mersic
-Mathiász
-Mathiász Artur
-Mathiász János
-Mathyász János
+MathiÃ¡sz
+MathiÃ¡sz Artur
+MathiÃ¡sz JÃ¡nos
+MathyÃ¡sz JÃ¡nos
 Matild
-Matkó
-Matkó II.ker.
-Matkói
+MatkÃ³
+MatkÃ³ II.ker.
+MatkÃ³i
 Matolcsi
-Matróz
+MatrÃ³z
 Matty
 Matusz
 Matuzsa
-Matuzsa György
+Matuzsa GyÃ¶rgy
 Maty-Parti
-Maty-ér
+Maty-Ã©r
 Matyasovszky
-Matyó
+MatyÃ³
 Mauks Ilona
 Maulbertsch
 May J.
 Mayer Lajos
 Mazsola
-Mécs László
-Mécses
-Mécsvirág
-Médy István
-Méh
-Méhbangó
-Méhész
-Méhészföld
-Méhészkert
-Méhészkert Méhkas
-Méhészkert Virágméz
-Méhecske
-Méhes
-Méliusz
-Méliusz Péter
-Mély
-Mélyárok
-Mélyfúró
-Mélykút
-Mélytó
-Mélyvölgy
-Ménes
-Ménesi
-Ménfõcsanak
-Ménfõi
-Ménrót
-Méntelek
-Méntelep
-Méntelepi
-Méra
-Mérai
-Mérey
-Méri István
-Mérleg
-Mérnök
-Mérõ
-Mész
-Mészáros
-Mészáros Gergely
-Mészáros József
-Mészáros Lázár
-Mészáros Lajos
-Mészáros Lõrinc
-Mészégetõ
-Mészkemence
-Mészkõ
-Mészöly
-Mészöly Géza
-Mészöly Gyula
-Mészöly Pál
-Mésztelep
-Mésztelepi kolónia
-Mészverem
-Méta
-Méter
-Méz
-Mézes
-Mézesbáb
-Mézesfehér
-Mézeshegy
-Mézeshegyi
-Mézeskalács
+MÃ©cs LÃ¡szlÃ³
+MÃ©cses
+MÃ©csvirÃ¡g
+MÃ©dy IstvÃ¡n
+MÃ©h
+MÃ©hbangÃ³
+MÃ©hÃ©sz
+MÃ©hÃ©szfÃ¶ld
+MÃ©hÃ©szkert
+MÃ©hÃ©szkert MÃ©hkas
+MÃ©hÃ©szkert VirÃ¡gmÃ©z
+MÃ©hecske
+MÃ©hes
+MÃ©liusz
+MÃ©liusz PÃ©ter
+MÃ©ly
+MÃ©lyÃ¡rok
+MÃ©lyfÃºrÃ³
+MÃ©lykÃºt
+MÃ©lytÃ³
+MÃ©lyvÃ¶lgy
+MÃ©nes
+MÃ©nesi
+MÃ©nfÅ‘csanak
+MÃ©nfÅ‘i
+MÃ©nrÃ³t
+MÃ©ntelek
+MÃ©ntelep
+MÃ©ntelepi
+MÃ©ra
+MÃ©rai
+MÃ©rey
+MÃ©ri IstvÃ¡n
+MÃ©rleg
+MÃ©rnÃ¶k
+MÃ©rÅ‘
+MÃ©sz
+MÃ©szÃ¡ros
+MÃ©szÃ¡ros Gergely
+MÃ©szÃ¡ros JÃ³zsef
+MÃ©szÃ¡ros LÃ¡zÃ¡r
+MÃ©szÃ¡ros Lajos
+MÃ©szÃ¡ros LÅ‘rinc
+MÃ©szÃ©getÅ‘
+MÃ©szkemence
+MÃ©szkÅ‘
+MÃ©szÃ¶ly
+MÃ©szÃ¶ly GÃ©za
+MÃ©szÃ¶ly Gyula
+MÃ©szÃ¶ly PÃ¡l
+MÃ©sztelep
+MÃ©sztelepi kolÃ³nia
+MÃ©szverem
+MÃ©ta
+MÃ©ter
+MÃ©z
+MÃ©zes
+MÃ©zesbÃ¡b
+MÃ©zesfehÃ©r
+MÃ©zeshegy
+MÃ©zeshegyi
+MÃ©zeskalÃ¡cs
 Mechwart
 Mecsek
 Mecsekalja
-Mecsekalja-Cserkút
-Mecsekalja MÁV
+Mecsekalja-CserkÃºt
+Mecsekalja MÃV
 Mecsekfalu
 Mecsekfalui
 Mecseki
-Mecsekjánosi
-Mecsekkörnyék
-Mecsekrákosi
-Mecsekszentkút
+MecsekjÃ¡nosi
+MecsekkÃ¶rnyÃ©k
+MecsekrÃ¡kosi
+MecsekszentkÃºt
 Mecset
-Meczenzéfi
-Meddõhányó
-Medencés kikötõ
+MeczenzÃ©fi
+MeddÅ‘hÃ¡nyÃ³
+MedencÃ©s kikÃ¶tÅ‘
 Meder
-Mederfelügyelõség
+MederfelÃ¼gyelÅ‘sÃ©g
 Medgyes
 Medgyessy
 Medgyessy Ferenc
-Mednyánszky
-Mednyánszky László
+MednyÃ¡nszky
+MednyÃ¡nszky LÃ¡szlÃ³
 Medve
-Medvecsárda
+MedvecsÃ¡rda
 Medvesi
-Medveszõlõ
+MedveszÅ‘lÅ‘
 Meggy
 Meggyes
 Meggyesalja
@@ -9400,55 +9400,55 @@ Meggyesi
 Meggyeskert
 Meggyespuszta
 Meggyfa
-Meggyfás
+MeggyfÃ¡s
 Meggyfasor
-Meggyvágó
-Megyaszói
+MeggyvÃ¡gÃ³
+MegyaszÃ³i
 Megye
 Megyefa
-Megyeház
+MegyehÃ¡z
 Megyehegyi
 Megyei
 Megyer
 Megyeri
-Megyeri Károly
+Megyeri KÃ¡roly
 Mekcsey
-Mekcsey István
-Melánia
+Mekcsey IstvÃ¡n
+MelÃ¡nia
 Melczer
 Melegesi pince
 Meleghegy
 Meleghegyi
-Melegítõ
+MelegÃ­tÅ‘
 Melegoldal
 Melencei
 Melinda
 Melith
-Melith Pál
+Melith PÃ¡l
 Melkovicspuszta
 Melotai Nyilas
-Mende Gusztáv
-Mendikás
-Menedékház
-Menház
+Mende GusztÃ¡v
+MendikÃ¡s
+MenedÃ©khÃ¡z
+MenhÃ¡z
 Menhely
 Menner Adolf
 Menta
-Mentes Mihály
-Mentler Mihály
-Mentõ
+Mentes MihÃ¡ly
+Mentler MihÃ¡ly
+MentÅ‘
 Mentovich
 Menyasszony
-Menyét
+MenyÃ©t
 Menyecske
-Menyhárt József
-Menyhért
-Merán
-Meredély
+MenyhÃ¡rt JÃ³zsef
+MenyhÃ©rt
+MerÃ¡n
+MeredÃ©ly
 Meredek
-Merengõ
+MerengÅ‘
 Merenye
-Merkúr
+MerkÃºr
 Merkur
 Mermezse
 Merse
@@ -9456,233 +9456,233 @@ Merza
 Merzse
 Mese
 Mesgye
-Meskó
+MeskÃ³
 Messelia
-Messzelátó
+MesszelÃ¡tÃ³
 Mester
 Mesterfa
-Mesterházi
+MesterhÃ¡zi
 Meszena
 Meszes
-Meszesvölgy
+MeszesvÃ¶lgy
 Meszleni
 Meteor
 Meteorit
-Metró
-Metró aluljáró
-Mexikó
-Mexikói
-Mexikóvölgy
+MetrÃ³
+MetrÃ³ aluljÃ¡rÃ³
+MexikÃ³
+MexikÃ³i
+MexikÃ³vÃ¶lgy
 Mezei
-Mezei Mária
-Mezõ
-Mezõ Ferenc
-Mezõ Imre
-Mezõcsáti
-Mezõfi István
-Mezõgazdász
-Mezõgép
-Mezõkövesd
-Mezõkövesdi
-Mezõlak
-Mezõnagymihályi
-Mezõõr
-Mezõpart
-Mezõsas
-Mezõsasi útfél
-Mezõsi Károly
-Mezõszél
-Mezõtárkány
-Mezõtárkányi
-Mezõtúr
-Mezõtúri
-Mezõvég
+Mezei MÃ¡ria
+MezÅ‘
+MezÅ‘ Ferenc
+MezÅ‘ Imre
+MezÅ‘csÃ¡ti
+MezÅ‘fi IstvÃ¡n
+MezÅ‘gazdÃ¡sz
+MezÅ‘gÃ©p
+MezÅ‘kÃ¶vesd
+MezÅ‘kÃ¶vesdi
+MezÅ‘lak
+MezÅ‘nagymihÃ¡lyi
+MezÅ‘Å‘r
+MezÅ‘part
+MezÅ‘sas
+MezÅ‘sasi ÃºtfÃ©l
+MezÅ‘si KÃ¡roly
+MezÅ‘szÃ©l
+MezÅ‘tÃ¡rkÃ¡ny
+MezÅ‘tÃ¡rkÃ¡nyi
+MezÅ‘tÃºr
+MezÅ‘tÃºri
+MezÅ‘vÃ©g
 Mezsgye
-Míves
-Miatyánk
-Micimackó
+MÃ­ves
+MiatyÃ¡nk
+MicimackÃ³
 Micsurin
-Mihálkovics
-Mihálkovits
-Mihály
-Mihálydi
-Mihályfai
-Mihályhalmi
-Mihálylaki
-Mihálymajor
-Mihálypuszta
-Mihálytelep
-Mihó
+MihÃ¡lkovics
+MihÃ¡lkovits
+MihÃ¡ly
+MihÃ¡lydi
+MihÃ¡lyfai
+MihÃ¡lyhalmi
+MihÃ¡lylaki
+MihÃ¡lymajor
+MihÃ¡lypuszta
+MihÃ¡lytelep
+MihÃ³
 Mike
 Mikebudai
-Mikepércsi
-Mikepércsi út
+MikepÃ©rcsi
+MikepÃ©rcsi Ãºt
 Mikes
 Mikes Kelemen
-Miki Nándor
-Miklós
-Miklós-Deák
-Miklós Gyula
-Miklósdomb
-Miklósfa
-Miklóshalmi
-Miklósi
-Miklósmajor
-Miklóstelep
-Miklósvár
-Mikó
-Mikó Sándor
-Mikó Zoltán
-Mikótelek
+Miki NÃ¡ndor
+MiklÃ³s
+MiklÃ³s-DeÃ¡k
+MiklÃ³s Gyula
+MiklÃ³sdomb
+MiklÃ³sfa
+MiklÃ³shalmi
+MiklÃ³si
+MiklÃ³smajor
+MiklÃ³stelep
+MiklÃ³svÃ¡r
+MikÃ³
+MikÃ³ SÃ¡ndor
+MikÃ³ ZoltÃ¡n
+MikÃ³telek
 Mikolai
 Mikosd
-Mikosdpuszta Kastély
-Mikovényi
+Mikosdpuszta KastÃ©ly
+MikovÃ©nyi
 Mikoviny
-Mikszáth
-Mikszáth Kálmán
-Mikulás Mihály
+MikszÃ¡th
+MikszÃ¡th KÃ¡lmÃ¡n
+MikulÃ¡s MihÃ¡ly
 Mikus
-Milán
+MilÃ¡n
 Mildenberger
-Miléva
+MilÃ©va
 Millenium
 Millennium
 Millenniumi
 Milotai
-Mimóza
+MimÃ³za
 Minda
 Mindszent
 Mindszenti
 Mindszenty
 Mindszenty Gedeon
-Mindszenty József
+Mindszenty JÃ³zsef
 Minerva
 Mintakert
 Mintatelep
-Mirhó
+MirhÃ³
 Mirtusz
 Mise
 Misefai
-Misinatetõ
-Miskóréti
+MisinatetÅ‘
+MiskÃ³rÃ©ti
 Miskolci
 Miskolctapolcai
 Mizse
 Mizsei
 Mizser
-Mlinkó Mátyás
-Módis
-Móga János
-Móka
-Mókus
-Móló
-Móló /Hajókikötõ/
-Mónika
-Mónus
-Mónus Illés
-Mór
-Móra
-Móra Ferenc
-Móré
-Móré Fülöp
-Móri
-Móric
-Móric major
-Mórichelyi
-Móricz
-Móricz Imre
-Móricz Pál
-Móricz Zsigmond
-Móriczi
-Mórinca
-Mózer Ernõ
-Mózsé
-Mózsi
-Möller I.
+MlinkÃ³ MÃ¡tyÃ¡s
+MÃ³dis
+MÃ³ga JÃ¡nos
+MÃ³ka
+MÃ³kus
+MÃ³lÃ³
+MÃ³lÃ³ /HajÃ³kikÃ¶tÅ‘/
+MÃ³nika
+MÃ³nus
+MÃ³nus IllÃ©s
+MÃ³r
+MÃ³ra
+MÃ³ra Ferenc
+MÃ³rÃ©
+MÃ³rÃ© FÃ¼lÃ¶p
+MÃ³ri
+MÃ³ric
+MÃ³ric major
+MÃ³richelyi
+MÃ³ricz
+MÃ³ricz Imre
+MÃ³ricz PÃ¡l
+MÃ³ricz Zsigmond
+MÃ³riczi
+MÃ³rinca
+MÃ³zer ErnÅ‘
+MÃ³zsÃ©
+MÃ³zsi
+MÃ¶ller I.
 Mocfa
-Mocsár
-Mocsáry Lajos
+MocsÃ¡r
+MocsÃ¡ry Lajos
 Mocsai
 Mocsai Gyula
-Mocsolyás
-Mocsolyási
-Mocsolyástelep
+MocsolyÃ¡s
+MocsolyÃ¡si
+MocsolyÃ¡stelep
 Modori
 Mofa
-Mofém
-Mogyoró
-Mogyorócska
-Mogyoród
-Mogyoródi
-Mogyorófa
-Mogyoróhegy
-Mogyorós
-Mogyorós völgy
-Mogyorósdomb
-Mogyorósi
-Mogyoróska
+MofÃ©m
+MogyorÃ³
+MogyorÃ³cska
+MogyorÃ³d
+MogyorÃ³di
+MogyorÃ³fa
+MogyorÃ³hegy
+MogyorÃ³s
+MogyorÃ³s vÃ¶lgy
+MogyorÃ³sdomb
+MogyorÃ³si
+MogyorÃ³ska
 Moha
-Mohács
-Mohácsi
-Mohácsi Jenõ
-Mohácsi csata emlékhely
-Mohás
-Moha rakodó
-Moha rakodó Vasútállomás
+MohÃ¡cs
+MohÃ¡csi
+MohÃ¡csi JenÅ‘
+MohÃ¡csi csata emlÃ©khely
+MohÃ¡s
+Moha rakodÃ³
+Moha rakodÃ³ VasÃºtÃ¡llomÃ¡s
 Mohai
-Moharakodó
+MoharakodÃ³
 Mohi
 Moholi
 Mohorai
 Mohos
-Mohostó
-Mokány
-Mokri-Mészáros
+MohostÃ³
+MokÃ¡ny
+Mokri-MÃ©szÃ¡ros
 Mokrini
 Molaj
-Molnár
-Molnár Albert
-Molnár Antal
-Molnár Béla
-Molnár Borbála
-Molnár Ferenc
-Molnár Gábor
-Molnár Gergely
-Molnár György
-Molnár István
-Molnár János
-Molnár József
-Molnár László
-Molnár Lajos
-Molnár Pál
-Molnár Viktor
-Molnár kapitány
-Molnárhegyi
-Molnárkút
-Molnársziget
-Moló
-Molványhíd
+MolnÃ¡r
+MolnÃ¡r Albert
+MolnÃ¡r Antal
+MolnÃ¡r BÃ©la
+MolnÃ¡r BorbÃ¡la
+MolnÃ¡r Ferenc
+MolnÃ¡r GÃ¡bor
+MolnÃ¡r Gergely
+MolnÃ¡r GyÃ¶rgy
+MolnÃ¡r IstvÃ¡n
+MolnÃ¡r JÃ¡nos
+MolnÃ¡r JÃ³zsef
+MolnÃ¡r LÃ¡szlÃ³
+MolnÃ¡r Lajos
+MolnÃ¡r PÃ¡l
+MolnÃ¡r Viktor
+MolnÃ¡r kapitÃ¡ny
+MolnÃ¡rhegyi
+MolnÃ¡rkÃºt
+MolnÃ¡rsziget
+MolÃ³
+MolvÃ¡nyhÃ­d
 Monda
 Mongol
 Monoki
 Monori
-Monori Pál
+Monori PÃ¡l
 Monori ugarok
 Monostor
-Monostor dûlõ
-Monostorerdõ
+Monostor dÅ±lÅ‘
+MonostorerdÅ‘
 Monostori
-Monostori erõd
-Monostorpályi
-Monostorpályi út
+Monostori erÅ‘d
+MonostorpÃ¡lyi
+MonostorpÃ¡lyi Ãºt
 Monteverdi
 Monti ezredes
 Monyha
-Monyorósd
+MonyorÃ³sd
 Moravcsik
-Morgány
-Morgó
+MorgÃ¡ny
+MorgÃ³
 Mormota
 Morolo
 Morotva
@@ -9690,953 +9690,953 @@ Morva
 Morvai
 Morvai-tanya
 Morvai J.
-Morvay Zoltán
+Morvay ZoltÃ¡n
 Morzsa
-Mosó
-Mosókútkörnyék
+MosÃ³
+MosÃ³kÃºtkÃ¶rnyÃ©k
 Mosoly
-Mosolygó
-Mosolygó Antal
-Mosolygó József
-Mosolytó
-Mosonszentjánosi
+MosolygÃ³
+MosolygÃ³ Antal
+MosolygÃ³ JÃ³zsef
+MosolytÃ³
+MosonszentjÃ¡nosi
 Mosonszolnoki
-Mosonvár
+MosonvÃ¡r
 Mosonyi
-Mosonyi Mihály
+Mosonyi MihÃ¡ly
 Moszkva
 Moszkvai
-Mosztár
+MosztÃ¡r
 Motel
 Motor
 Mozaik
 Mozdony
-Mozdonyfûtõ
-Mozdonyvezetõ
+MozdonyfÅ±tÅ‘
+MozdonyvezetÅ‘
 Mozi
-Mozsár
-Múcsonyi
-Múzeum
-Múzsa
-Münnich Ferenc
-Müszerész
-Mû
-Mûegyetem
-Mûhely
-Mûkerti
-Mûkertváros
-Mûkõ
-Mûszerész
-Mûvész
-Mûvésztelep
-Mûvelõdés
-Mûvezetõ
+MozsÃ¡r
+MÃºcsonyi
+MÃºzeum
+MÃºzsa
+MÃ¼nnich Ferenc
+MÃ¼szerÃ©sz
+MÅ±
+MÅ±egyetem
+MÅ±hely
+MÅ±kerti
+MÅ±kertvÃ¡ros
+MÅ±kÅ‘
+MÅ±szerÃ©sz
+MÅ±vÃ©sz
+MÅ±vÃ©sztelep
+MÅ±velÅ‘dÃ©s
+MÅ±vezetÅ‘
 Muck
 Muck Lajos
 Mucsi
 Muflon
 Muhar
 Muhi
-Mulató
+MulatÃ³
 Munka
-Munkács
-Munkácsi
-Munkácsy
-Munkácsy Mihály
-Munkás
-Munkásház
-Munkásõr
-Munkások
-Munkásotthon
-Munkástelep
+MunkÃ¡cs
+MunkÃ¡csi
+MunkÃ¡csy
+MunkÃ¡csy MihÃ¡ly
+MunkÃ¡s
+MunkÃ¡shÃ¡z
+MunkÃ¡sÅ‘r
+MunkÃ¡sok
+MunkÃ¡sotthon
+MunkÃ¡stelep
 Mura
-Mura-híd
-Murányi
-Muránykõ
-Muraköz
-Muraközi
-Muraközy
-Muraközy János
+Mura-hÃ­d
+MurÃ¡nyi
+MurÃ¡nykÅ‘
+MurakÃ¶z
+MurakÃ¶zi
+MurakÃ¶zy
+MurakÃ¶zy JÃ¡nos
 Muraszombat
 Murom
-Murvás
-Muskátli
-Muskó
-Muskotály
+MurvÃ¡s
+MuskÃ¡tli
+MuskÃ³
+MuskotÃ¡ly
 Must
-Mustár
-Muszály
-Muszályszõlõ
-Muszkás oldal
+MustÃ¡r
+MuszÃ¡ly
+MuszÃ¡lyszÅ‘lÅ‘
+MuszkÃ¡s oldal
 Muszola
 Mutahegy
-Mutatványos
+MutatvÃ¡nyos
 Muzsaji
 Muzsika
 Muzsinszky
 Muzsla
-Nád
-Nádaljai
-Nádas
-Nádas Ernõ
-Nádasbokor
-Nádasdi
-Nádasdûlõ
-Nádasdy
-Nádasdy Ferenc
-Nádasdy Kálmán
-Nádasdy Tamás
-Nádaskert
-Nádaskuti
-Nádaspatak
-Nádasrét
-Nádastó
-Nádasy
-Náday
-Náday Ferenc
-Nádirigó
-Nádor
-Nádszál
-Nádudvar
-Nádudvari
-Nádudvari útfél
-Nágocs
-Nánási
-Nándor
-Nándorfehérvári
-Nándorfejérvár
-Nándorfejérvári
-Nápoly
-Nárai
-Nárai Külsõ
-Náray
-Nárcisz
-Násznagy
-Nadányi Zoltán
+NÃ¡d
+NÃ¡daljai
+NÃ¡das
+NÃ¡das ErnÅ‘
+NÃ¡dasbokor
+NÃ¡dasdi
+NÃ¡dasdÅ±lÅ‘
+NÃ¡dasdy
+NÃ¡dasdy Ferenc
+NÃ¡dasdy KÃ¡lmÃ¡n
+NÃ¡dasdy TamÃ¡s
+NÃ¡daskert
+NÃ¡daskuti
+NÃ¡daspatak
+NÃ¡dasrÃ©t
+NÃ¡dastÃ³
+NÃ¡dasy
+NÃ¡day
+NÃ¡day Ferenc
+NÃ¡dirigÃ³
+NÃ¡dor
+NÃ¡dszÃ¡l
+NÃ¡dudvar
+NÃ¡dudvari
+NÃ¡dudvari ÃºtfÃ©l
+NÃ¡gocs
+NÃ¡nÃ¡si
+NÃ¡ndor
+NÃ¡ndorfehÃ©rvÃ¡ri
+NÃ¡ndorfejÃ©rvÃ¡r
+NÃ¡ndorfejÃ©rvÃ¡ri
+NÃ¡poly
+NÃ¡rai
+NÃ¡rai KÃ¼lsÅ‘
+NÃ¡ray
+NÃ¡rcisz
+NÃ¡sznagy
+NadÃ¡nyi ZoltÃ¡n
 Nadapi
 Nadhumi
-Nadrágoskert
+NadrÃ¡goskert
 Nagy
-Nagy-Avas Alsó
-Nagy-Avas Felsõ
-Nagy-Avas Közép
-Nagy-Baktói
+Nagy-Avas AlsÃ³
+Nagy-Avas FelsÅ‘
+Nagy-Avas KÃ¶zÃ©p
+Nagy-BaktÃ³i
 Nagy-Baracsi
 Nagy-Duna
 Nagy-Eged
-Nagy-Hangács
-Nagy-Közép
-Nagy-Somlyó
+Nagy-HangÃ¡cs
+Nagy-KÃ¶zÃ©p
+Nagy-SomlyÃ³
 Nagy-Zsebei
-Nagy-máli
-Nagy András
-Nagy Bálint
-Nagy Balázs
-Nagy Balogh János
-Nagy Diófa
+Nagy-mÃ¡li
+Nagy AndrÃ¡s
+Nagy BÃ¡lint
+Nagy BalÃ¡zs
+Nagy Balogh JÃ¡nos
+Nagy DiÃ³fa
 Nagy Duna
-Nagy Ernõ
+Nagy ErnÅ‘
 Nagy Ferenc
 Nagy Ferenci
-Nagy Flórián
+Nagy FlÃ³riÃ¡n
 Nagy Fuvaros
-Nagy Gál István
-Nagy Györi István
-Nagy Gyõri István
-Nagy Ignác
+Nagy GÃ¡l IstvÃ¡n
+Nagy GyÃ¶ri IstvÃ¡n
+Nagy GyÅ‘ri IstvÃ¡n
+Nagy IgnÃ¡c
 Nagy Imre
-Nagy István
-Nagy Iván
-Nagy Jenõ
-Nagy József
-Nagy Károly
-Nagy Kornél
+Nagy IstvÃ¡n
+Nagy IvÃ¡n
+Nagy JenÅ‘
+Nagy JÃ³zsef
+Nagy KÃ¡roly
+Nagy KornÃ©l
 Nagy L.
-Nagy László
+Nagy LÃ¡szlÃ³
 Nagy Lajos
-Nagy Lajos király
-Nagy Mihály
-Nagy Pál
-Nagy Sándor
-Nagy Sándor József
-Nagy Tamás
+Nagy Lajos kirÃ¡ly
+Nagy MihÃ¡ly
+Nagy PÃ¡l
+Nagy SÃ¡ndor
+Nagy SÃ¡ndor JÃ³zsef
+Nagy TamÃ¡s
 Nagy Templom
-Nagyág
-Nagyállás
-Nagyállomás
-Nagyárpádi
+NagyÃ¡g
+NagyÃ¡llÃ¡s
+NagyÃ¡llomÃ¡s
+NagyÃ¡rpÃ¡di
 Nagyajtai
-Nagyalvég
+NagyalvÃ©g
 Nagyamerika
 Nagyari
-Nagyatádi
-Nagyatádi Szabó István
-Nagybánya
-Nagybányai
-Nagybátonyi
+NagyatÃ¡di
+NagyatÃ¡di SzabÃ³ IstvÃ¡n
+NagybÃ¡nya
+NagybÃ¡nyai
+NagybÃ¡tonyi
 Nagybagolai
-Nagybalkányi
-Nagybalokány
-Nagybaráti
+NagybalkÃ¡nyi
+NagybalokÃ¡ny
+NagybarÃ¡ti
 Nagybecskerek
 Nagybecskereki
-Nagybelsõ
-Nagybercsényi
-Nagybödõ
+NagybelsÅ‘
+NagybercsÃ©nyi
+NagybÃ¶dÅ‘
 Nagybocskai I.
 Nagybocskai II.
 Nagybocskai III.
 Nagybocskai IV.
-Nagybocskai Szõlõ
+Nagybocskai SzÅ‘lÅ‘
 Nagyboldogasszony
 Nagybotos
 Nagybugac
 Nagycsapat-kert
 Nagycsarit
-Nagycséripuszta
+NagycsÃ©ripuszta
 Nagycsere
-Nagycserfõi
-Nagycsermõke
-Nagycsömötei
+NagycserfÅ‘i
+NagycsermÅ‘ke
+NagycsÃ¶mÃ¶tei
 Nagydeindol
-Nagydeindol-hegyhát
-Nagydeindol-tetõ
+Nagydeindol-hegyhÃ¡t
+Nagydeindol-tetÅ‘
 Nagydeindoli
-Nagydiófa
+NagydiÃ³fa
 Nagydobos
 Nagydobosi
-Nagydûlõ
+NagydÅ±lÅ‘
 Nagyduna
-Nagyecsér
+NagyecsÃ©r
 Nagyecsed
-Nagyegyháza Bányász
+NagyegyhÃ¡za BÃ¡nyÃ¡sz
 Nagyenyed
 Nagyenyedi
 Nagyerdei
-Nagyerdõ
+NagyerdÅ‘
 Nagyfa
 Nagyfaludpuszta
-Nagyfenyõ
-Nagyfernekág
-Nagyfertõ
-Nagygát
-Nagygyónpuszta
-Nagyhát
-Nagyház
-Nagyhajmás-Nemerõpuszta
+NagyfenyÅ‘
+NagyfernekÃ¡g
+NagyfertÅ‘
+NagygÃ¡t
+NagygyÃ³npuszta
+NagyhÃ¡t
+NagyhÃ¡z
+NagyhajmÃ¡s-NemerÅ‘puszta
 Nagyhegy
 Nagyhegyesi
 Nagyhegyi
-Nagyhíd
-Nagyhídi
-Nagyhörcsök
+NagyhÃ­d
+NagyhÃ­di
+NagyhÃ¶rcsÃ¶k
 Nagyhomok
-Nagyhorváti
+NagyhorvÃ¡ti
 Nagyicce
 Nagyida
-Nagyigmándi
-Nagyirtás
+NagyigmÃ¡ndi
+NagyirtÃ¡s
 Nagyiskola
-Nagykároly
-Nagykárolyi
-Nagykátai
-Nagykakatszél
-Nagykalapács
+NagykÃ¡roly
+NagykÃ¡rolyi
+NagykÃ¡tai
+NagykakatszÃ©l
+NagykalapÃ¡cs
 Nagykanizsa
 Nagykanizsai
 Nagykapos
 Nagykar
-Nagykecskés
+NagykecskÃ©s
 Nagykert
-Nagykertiszõlõ
+NagykertiszÅ‘lÅ‘
 Nagykikinda
-Nagykör
-Nagykörüi
-Nagyköveshegy
-Nagyköz
-Nagykõ
-Nagykõbánya
-Nagykõkötõ
-Nagykõporos
-Nagykõrös
-Nagykõrösi
+NagykÃ¶r
+NagykÃ¶rÃ¼i
+NagykÃ¶veshegy
+NagykÃ¶z
+NagykÅ‘
+NagykÅ‘bÃ¡nya
+NagykÅ‘kÃ¶tÅ‘
+NagykÅ‘poros
+NagykÅ‘rÃ¶s
+NagykÅ‘rÃ¶si
 Nagykonda
-Nagykovácsi
-Nagykozári
+NagykovÃ¡csi
+NagykozÃ¡ri
 Nagykun
 Nagykuti
 Nagylapos
-Nagymákfa
+NagymÃ¡kfa
 Nagymajor
 Nagymartoni
 Nagymeszes
-Nagymezõ
-Nagymihályi
-Nagymogyorós
-Nagynyárádi országút
-Nagynyárfa
-Nagypál
-Nagypást
-Nagyparkoló
+NagymezÅ‘
+NagymihÃ¡lyi
+NagymogyorÃ³s
+NagynyÃ¡rÃ¡di orszÃ¡gÃºt
+NagynyÃ¡rfa
+NagypÃ¡l
+NagypÃ¡st
+NagyparkolÃ³
 Nagypince
-Nagypóka
-Nagypostavölgy
-Nagypostavölgy alsó
-Nagypostavölgy felsõ
-Nagypostavölgy tetõ
+NagypÃ³ka
+NagypostavÃ¶lgy
+NagypostavÃ¶lgy alsÃ³
+NagypostavÃ¶lgy felsÅ‘
+NagypostavÃ¶lgy tetÅ‘
 Nagypuszta
-Nagyrác
-Nagyragyvás
-Nagyréde
-Nagyrét
-Nagysándor József
-Nagysallérpuszta
-Nagysalló
+NagyrÃ¡c
+NagyragyvÃ¡s
+NagyrÃ©de
+NagyrÃ©t
+NagysÃ¡ndor JÃ³zsef
+NagysallÃ©rpuszta
+NagysallÃ³
 Nagysor
-Nagysurány
-Nagyszállás
-Nagyszállás Kies
-Nagyszántó
+NagysurÃ¡ny
+NagyszÃ¡llÃ¡s
+NagyszÃ¡llÃ¡s Kies
+NagyszÃ¡ntÃ³
 Nagyszalonta
 Nagyszalontai
-Nagyszékes
-Nagyszénás
+NagyszÃ©kes
+NagyszÃ©nÃ¡s
 Nagyszeben
 Nagyszebeni
 Nagyszeg
 Nagyszentbenedek
-Nagyszentgyörgy
-Nagyszentmiklósi
+NagyszentgyÃ¶rgy
+NagyszentmiklÃ³si
 Nagysziget
-Nagyszilvás
-Nagyszkókó
-Nagyszkókói
-Nagyszög
-Nagyszõlõ
-Nagyszõlõs
-Nagyszõlõskert
+NagyszilvÃ¡s
+NagyszkÃ³kÃ³
+NagyszkÃ³kÃ³i
+NagyszÃ¶g
+NagyszÅ‘lÅ‘
+NagyszÅ‘lÅ‘s
+NagyszÅ‘lÅ‘skert
 Nagyszohoda
 Nagyszombat
 Nagyszombati
-Nagytárkánypuszta
-Nagytabán
+NagytÃ¡rkÃ¡nypuszta
+NagytabÃ¡n
 Nagytanya
-Nagytétény lõtér
-Nagytétényi
-Nagytétényi fennsík
+NagytÃ©tÃ©ny lÅ‘tÃ©r
+NagytÃ©tÃ©nyi
+NagytÃ©tÃ©nyi fennsÃ­k
 Nagytelek
-Nagytó
-Nagytó-part
-Nagytóti
+NagytÃ³
+NagytÃ³-part
+NagytÃ³ti
 Nagytoldipuszta
-Nagytormás
-Nagyvárad
-Nagyvárad tér aluljáró
-Nagyvárad téri aluljáró
-Nagyváradi
-Nagyvásártelep
-Nagyváthy
-Nagyváthy János
-Nagyvázsony
-Nagyvillám
-Nagyvölgy
-Nagyvölgyi
-Naményi
-Naményi Pátens
+NagytormÃ¡s
+NagyvÃ¡rad
+NagyvÃ¡rad tÃ©r aluljÃ¡rÃ³
+NagyvÃ¡rad tÃ©ri aluljÃ¡rÃ³
+NagyvÃ¡radi
+NagyvÃ¡sÃ¡rtelep
+NagyvÃ¡thy
+NagyvÃ¡thy JÃ¡nos
+NagyvÃ¡zsony
+NagyvillÃ¡m
+NagyvÃ¶lgy
+NagyvÃ¶lgyi
+NamÃ©nyi
+NamÃ©nyi PÃ¡tens
 Nap
-Napfény
-Napfürdõ
+NapfÃ©ny
+NapfÃ¼rdÅ‘
 Naphal
 Naphegy
 Napkelet
-Napközi
+NapkÃ¶zi
 Napkori
-Naplás
+NaplÃ¡s
 Naplemente
-Napló
-Naplókert
-Napmátka
+NaplÃ³
+NaplÃ³kert
+NapmÃ¡tka
 Napnyugat
 Napos
 Naposdomb
 Napospart
-Napraforgó
-Naprét
-Naprózsa
-Napsugár
-Napszámos
-Napvirág
+NapraforgÃ³
+NaprÃ©t
+NaprÃ³zsa
+NapsugÃ¡r
+NapszÃ¡mos
+NapvirÃ¡g
 Narancs
 Narancsfa
-Narancsvirág
+NarancsvirÃ¡g
 Naspolya
-Naszád
-Naszályi
-Naszód
-Natália
+NaszÃ¡d
+NaszÃ¡lyi
+NaszÃ³d
+NatÃ¡lia
 Natasa
 Nathumi
-Négyesi
-Négyház
-Négylovas
-Némahegy
-Némedi
-Német
-Németfalusi Szõlõhegy
-Németh
-Németh Antal
-Németh Béla
-Németh Imre
-Németh Irén
-Németh István
-Németh József
-Németh L.
-Németh László
-Németh László János
-Németh Mária
-Németh Péter
-Németi
-Németi Ernõ
-Németpróna
-Németsûrûpuszta
-Németújvár
-Németújvári
-Németvölgyi
-Nép
-Népbolt
-Népdal
-Népek barátsága
-Népes
-Népfelkelõ
-Népfõiskola
-Népfront
-Népfürdõ
-Népfûrdõ
-Népház
-Néphadsereg
-Népkert
-Népkör
-Népköztársaság
-Népliget
-Népligeti metró aluljáró
-Néppark
-Népstadion
-Népszínház
-Népsziget
-Néra
-Névtelen
-Nebántsvirág
-Nebuló
-Nedecvár
-Nedû
+NÃ©gyesi
+NÃ©gyhÃ¡z
+NÃ©gylovas
+NÃ©mahegy
+NÃ©medi
+NÃ©met
+NÃ©metfalusi SzÅ‘lÅ‘hegy
+NÃ©meth
+NÃ©meth Antal
+NÃ©meth BÃ©la
+NÃ©meth Imre
+NÃ©meth IrÃ©n
+NÃ©meth IstvÃ¡n
+NÃ©meth JÃ³zsef
+NÃ©meth L.
+NÃ©meth LÃ¡szlÃ³
+NÃ©meth LÃ¡szlÃ³ JÃ¡nos
+NÃ©meth MÃ¡ria
+NÃ©meth PÃ©ter
+NÃ©meti
+NÃ©meti ErnÅ‘
+NÃ©metprÃ³na
+NÃ©metsÅ±rÅ±puszta
+NÃ©metÃºjvÃ¡r
+NÃ©metÃºjvÃ¡ri
+NÃ©metvÃ¶lgyi
+NÃ©p
+NÃ©pbolt
+NÃ©pdal
+NÃ©pek barÃ¡tsÃ¡ga
+NÃ©pes
+NÃ©pfelkelÅ‘
+NÃ©pfÅ‘iskola
+NÃ©pfront
+NÃ©pfÃ¼rdÅ‘
+NÃ©pfÅ±rdÅ‘
+NÃ©phÃ¡z
+NÃ©phadsereg
+NÃ©pkert
+NÃ©pkÃ¶r
+NÃ©pkÃ¶ztÃ¡rsasÃ¡g
+NÃ©pliget
+NÃ©pligeti metrÃ³ aluljÃ¡rÃ³
+NÃ©ppark
+NÃ©pstadion
+NÃ©pszÃ­nhÃ¡z
+NÃ©psziget
+NÃ©ra
+NÃ©vtelen
+NebÃ¡ntsvirÃ¡g
+NebulÃ³
+NedecvÃ¡r
+NedÅ±
 Nefelejcs
 Negyed
 Negyedik
-Negyvenhármas
+NegyvenhÃ¡rmas
 Negyvenhetes
 Negyvenkettes
 Negyvennyolcas
 Nekeresdi
-Nektár
+NektÃ¡r
 Nemes
-Nemes Lipót
+Nemes LipÃ³t
 Nemesboldogasszonyfa
-Nemesbükk
-Nemescsói
-Nemeserdõ
+NemesbÃ¼kk
+NemescsÃ³i
+NemeserdÅ‘
 Nemeske
 Nemeskuti
-Nemesszék
-Nemesszeghy Márta
+NemesszÃ©k
+Nemesszeghy MÃ¡rta
 Nemesszer
-Nemestakács
+NemestakÃ¡cs
 Nemti
-Nemzetõr
+NemzetÅ‘r
 Neptun
-Neszehíd
+NeszehÃ­d
 Neszele
-Neszmélyi
-Neumann János
-Neumayer János
+NeszmÃ©lyi
+Neumann JÃ¡nos
+Neumayer JÃ¡nos
 Nevegy
-Nevelõ
-Nevelõk
+NevelÅ‘
+NevelÅ‘k
 Nezde
 Nezsider
 Nezsideri
 Nike
 Niklai
-Nimród
-Nitrokémia
-Nitrokémia 1.
+NimrÃ³d
+NitrokÃ©mia
+NitrokÃ©mia 1.
 Nits
-Nógrád
-Nógrádgárdony
-Nógrádi
-Nógrádi Mátyás
-Nógrádi S.
-Nógrádi Sándor
-Nógrádkövesd
-Nógrádverõce
-Nóra
-Nótás
-Nótafa
-Növény
-Növényvédõ Állomás
-Nõszirom
-Nõvér
+NÃ³grÃ¡d
+NÃ³grÃ¡dgÃ¡rdony
+NÃ³grÃ¡di
+NÃ³grÃ¡di MÃ¡tyÃ¡s
+NÃ³grÃ¡di S.
+NÃ³grÃ¡di SÃ¡ndor
+NÃ³grÃ¡dkÃ¶vesd
+NÃ³grÃ¡dverÅ‘ce
+NÃ³ra
+NÃ³tÃ¡s
+NÃ³tafa
+NÃ¶vÃ©ny
+NÃ¶vÃ©nyvÃ©dÅ‘ ÃllomÃ¡s
+NÅ‘szirom
+NÅ‘vÃ©r
 Noborda
-Noémi
+NoÃ©mi
 Nokia
-Nomád
+NomÃ¡d
 Normafa
 Noszlopy
-Noszlopy Gáspár
-Nosztály
-Nosztány
+Noszlopy GÃ¡spÃ¡r
+NosztÃ¡ly
+NosztÃ¡ny
 Noszvaji
-Novák M.
-Novák Mihály
-Novákkert
-Novákpuszta
+NovÃ¡k M.
+NovÃ¡k MihÃ¡ly
+NovÃ¡kkert
+NovÃ¡kpuszta
 November 17.
 November 7.
 November 99.
-Nyálóhegy
-Nyámánd
-Nyár
-Nyárád
-Nyárádi
-Nyárády
-Nyáras
-Nyáraska
-Nyáregyházi
-Nyárfa
-Nyárfás
-Nyárfasor
-Nyári Nagy Pál
-Nyári Pál
-Nyárjas
-Nyárjasalja
-Nyárkútrét
-Nyárs
-Nyársapát
-Nyársapáti
-Nyárszeg
-Nyártó
-Nyárvesztõ
-Nyáry Pál
-Nyárzug
+NyÃ¡lÃ³hegy
+NyÃ¡mÃ¡nd
+NyÃ¡r
+NyÃ¡rÃ¡d
+NyÃ¡rÃ¡di
+NyÃ¡rÃ¡dy
+NyÃ¡ras
+NyÃ¡raska
+NyÃ¡regyhÃ¡zi
+NyÃ¡rfa
+NyÃ¡rfÃ¡s
+NyÃ¡rfasor
+NyÃ¡ri Nagy PÃ¡l
+NyÃ¡ri PÃ¡l
+NyÃ¡rjas
+NyÃ¡rjasalja
+NyÃ¡rkÃºtrÃ©t
+NyÃ¡rs
+NyÃ¡rsapÃ¡t
+NyÃ¡rsapÃ¡ti
+NyÃ¡rszeg
+NyÃ¡rtÃ³
+NyÃ¡rvesztÅ‘
+NyÃ¡ry PÃ¡l
+NyÃ¡rzug
 Nyakashegy
-Nyaraló
-Nyék
-Nyéki
-Nyél
+NyaralÃ³
+NyÃ©k
+NyÃ©ki
+NyÃ©l
 Nyereg
-Nyeremény
+NyeremÃ©ny
 Nyerges
 Nyergesek
 Nyergesi
-Nyerõ
+NyerÅ‘
 Nyest
 Nyestekert
-Nyíl
-Nyílhegy
-Nyílt
-Nyílvesszõ
-Nyír
-Nyírábrányi
-Nyírbátor
-Nyírbogdányi
-Nyíregyháza
-Nyíregyházi
-Nyíres
-Nyíres puszta
-Nyíresi
-Nyírespuszta
-Nyírfa
-Nyírfácska
-Nyírfás
-Nyírfajd
-Nyíri
-Nyíri Dániel
-Nyírjes
-Nyírjesi
-Nyírkércsi
-Nyírlakpuszta
-Nyírmártonfalvai
-Nyírõ József
-Nyírpalota
-Nyírség
-Nyírszõlõsi
-Nyírvasvári
-Nyíry István
+NyÃ­l
+NyÃ­lhegy
+NyÃ­lt
+NyÃ­lvesszÅ‘
+NyÃ­r
+NyÃ­rÃ¡brÃ¡nyi
+NyÃ­rbÃ¡tor
+NyÃ­rbogdÃ¡nyi
+NyÃ­regyhÃ¡za
+NyÃ­regyhÃ¡zi
+NyÃ­res
+NyÃ­res puszta
+NyÃ­resi
+NyÃ­respuszta
+NyÃ­rfa
+NyÃ­rfÃ¡cska
+NyÃ­rfÃ¡s
+NyÃ­rfajd
+NyÃ­ri
+NyÃ­ri DÃ¡niel
+NyÃ­rjes
+NyÃ­rjesi
+NyÃ­rkÃ©rcsi
+NyÃ­rlakpuszta
+NyÃ­rmÃ¡rtonfalvai
+NyÃ­rÅ‘ JÃ³zsef
+NyÃ­rpalota
+NyÃ­rsÃ©g
+NyÃ­rszÅ‘lÅ‘si
+NyÃ­rvasvÃ¡ri
+NyÃ­ry IstvÃ¡n
 Nyilaki
 Nyilas
 Nyilassy
 Nyires
-Nyiresdûlõ
+NyiresdÅ±lÅ‘
 Nyirespuszta
-Nyiszper Márton
-Nyisztor György
-Nyitány
+Nyiszper MÃ¡rton
+Nyisztor GyÃ¶rgy
+NyitÃ¡ny
 Nyitra
 Nyitrai
 Nyolcadik
-Nyomás
+NyomÃ¡s
 Nyomda
-Nyomdász
+NyomdÃ¡sz
 Nyomdok
 Nyomjai
-Nyúl
+NyÃºl
 Nyugat
 Nyugati
 Nyugati ipari
 Nyugati ipartelep
-Nyugati kõhíd
-Nyugati pályaudvar
+Nyugati kÅ‘hÃ­d
+Nyugati pÃ¡lyaudvar
 Nyugati szer
-Nyugativánfa
-Nyugdíjas Otthon
-Nyugodó
+NyugativÃ¡nfa
+NyugdÃ­jas Otthon
+NyugodÃ³
 Nyulas
 Nyulaska
 Nyuszi
 Nyuszt
-Ó
-Ó-Zarany
-Ó.Nagy Benjámin
-Óballai
-Óbébai
-Óbecsei
-Óbester
-Óbor
-Óbrennbergi
-Óbuda
-Óbudai
-Óbudai (Hajógyári)
-Óceánárok
-Ócsai
-Óda
-Ódörögdpuszta
-Ódomb
-Ódry
-Ódry Árpád
-Ófalu
-Ófehértói
-Ógabona
-Ógyár
-Ógyalla
-Óház
-Óhegy
-Óhermes
-Óhuta
-Óiskola
-Ókincsem Fõ
-Ókincsem I.
-Ókincsem I.kereszt
-Ókincsem II.
-Ókincsem II.kereszt
-Ókút
-Ólmodi
-Ólom
-Ómassa
-Ónd,Fõ
-Ónódi
-Ónodi
-Óperint
-Óra
-Ószanda
-Ószeg
-Ószhelypuszta
-Ószõlõ
-Ószõlõ Fõ
-Ótemetõ
-Óvár
-Óvári
-Óváros
-Óvásártér
-Óvégi
-Óvíz
-Óvirághegy I.
-Óvirághegy II.
-Óvirághegy III.
-Óvónõ
-Óvoda
-Óvodás
-Óvodaköz
-Ózdi
-Ózon
-Ózsákpuszta
-Öböl
-Öcsödi
-Ödön
-Ödönmajor
-Ödönpuszta
-Ököritó
-Ökörkõ
-Ökörszem
-Ökrös
-Ölyv
-Ölyves
-Ölyvös
-Önkormányzat elõtt
-Öntözõ
-Öntözõcsatorna
-Öntõ
-Ördög
-Ördögárok
-Ördöglovas
-Ördögmalom
-Ördögorom
-Ördögszekér
-Ördögszikla
-Ördögvölgy
-Öreg
-Öreg-vár
-Öreg János
-Öreg Kálvária
-Öreg major
-Öreg tópart
-Öregbeke
-Öregdûlõ
-Öregfalusi
-Öreghegy
-Öreghegy pincesor
-Öreghegyi
-Öreghegyi üdülõkörzet
-Öreghenye
-Öregkert Szõlõpajta
-Öregkõ
-Öregleshegy
-Öregmajor
-Öregrét
-Öregszõlõ
-Öregszõlõ I.
-Öregszõlõ I. keresztút
-Öregszõlõ II.
-Öregszõlõ III.
-Öregszõlõ III. keresztút
-Öregtó
-Öregtópart
-Öregtölgy
-Örkény István
-Örkényi
-Örkénypuszta
-Örmény
-Öröghegyi
-Örökzöld
-Öröm
-Örömvölgy
-Örös
-Örösi
-Örs
-Örs vezér
-Örsi
-Örsihegyi
-Örsöddûlõ
-Örspuszta
-Örvény
-Örvényes
-Örvényeshegy
-Örvényi
-Örvös
-Összefogás
-Összekötõ
-Ösvény
-Öszödi
-Ötház
-Öthalom
-Ötmalom
-Ötödik
-Ötödrészi
-Ötös
-Ötpacsirta
-Ötvenes
-Ötvenhatosok
-Ötvös
-Ötvös János
-Ötvöstábornok
-Ötvözetgyár
-Öv
-Öveges J.
-Öveges József
-Övezet
-Õcsényi
-Õr
-Õrgébics
-Õrház
-Õrhalom
-Õrhegy
-Õrhegyi
-Õrhely
-Õri
-Õrjárat
-Õrjáró
-Õrlõ
-Õrmester
-Õrmezei
-Õrnagy
-Õrs
-Õrség
-Õrszem
-Õrtorony
-Õrtûz
-Õrvezetõ
-Õsagárd
-Õsi
-Õsz
-Õszapó
-Õszibarack
-Õszike
-Õszirózsa
-Õz
-Õze
-Õzgida
-Õzike
-Õzláb
-Õzsuta
-Õzugró
-OMV töltõállomás
+Ã“
+Ã“-Zarany
+Ã“.Nagy BenjÃ¡min
+Ã“ballai
+Ã“bÃ©bai
+Ã“becsei
+Ã“bester
+Ã“bor
+Ã“brennbergi
+Ã“buda
+Ã“budai
+Ã“budai (HajÃ³gyÃ¡ri)
+Ã“ceÃ¡nÃ¡rok
+Ã“csai
+Ã“da
+Ã“dÃ¶rÃ¶gdpuszta
+Ã“domb
+Ã“dry
+Ã“dry ÃrpÃ¡d
+Ã“falu
+Ã“fehÃ©rtÃ³i
+Ã“gabona
+Ã“gyÃ¡r
+Ã“gyalla
+Ã“hÃ¡z
+Ã“hegy
+Ã“hermes
+Ã“huta
+Ã“iskola
+Ã“kincsem FÅ‘
+Ã“kincsem I.
+Ã“kincsem I.kereszt
+Ã“kincsem II.
+Ã“kincsem II.kereszt
+Ã“kÃºt
+Ã“lmodi
+Ã“lom
+Ã“massa
+Ã“nd,FÅ‘
+Ã“nÃ³di
+Ã“nodi
+Ã“perint
+Ã“ra
+Ã“szanda
+Ã“szeg
+Ã“szhelypuszta
+Ã“szÅ‘lÅ‘
+Ã“szÅ‘lÅ‘ FÅ‘
+Ã“temetÅ‘
+Ã“vÃ¡r
+Ã“vÃ¡ri
+Ã“vÃ¡ros
+Ã“vÃ¡sÃ¡rtÃ©r
+Ã“vÃ©gi
+Ã“vÃ­z
+Ã“virÃ¡ghegy I.
+Ã“virÃ¡ghegy II.
+Ã“virÃ¡ghegy III.
+Ã“vÃ³nÅ‘
+Ã“voda
+Ã“vodÃ¡s
+Ã“vodakÃ¶z
+Ã“zdi
+Ã“zon
+Ã“zsÃ¡kpuszta
+Ã–bÃ¶l
+Ã–csÃ¶di
+Ã–dÃ¶n
+Ã–dÃ¶nmajor
+Ã–dÃ¶npuszta
+Ã–kÃ¶ritÃ³
+Ã–kÃ¶rkÅ‘
+Ã–kÃ¶rszem
+Ã–krÃ¶s
+Ã–lyv
+Ã–lyves
+Ã–lyvÃ¶s
+Ã–nkormÃ¡nyzat elÅ‘tt
+Ã–ntÃ¶zÅ‘
+Ã–ntÃ¶zÅ‘csatorna
+Ã–ntÅ‘
+Ã–rdÃ¶g
+Ã–rdÃ¶gÃ¡rok
+Ã–rdÃ¶glovas
+Ã–rdÃ¶gmalom
+Ã–rdÃ¶gorom
+Ã–rdÃ¶gszekÃ©r
+Ã–rdÃ¶gszikla
+Ã–rdÃ¶gvÃ¶lgy
+Ã–reg
+Ã–reg-vÃ¡r
+Ã–reg JÃ¡nos
+Ã–reg KÃ¡lvÃ¡ria
+Ã–reg major
+Ã–reg tÃ³part
+Ã–regbeke
+Ã–regdÅ±lÅ‘
+Ã–regfalusi
+Ã–reghegy
+Ã–reghegy pincesor
+Ã–reghegyi
+Ã–reghegyi Ã¼dÃ¼lÅ‘kÃ¶rzet
+Ã–reghenye
+Ã–regkert SzÅ‘lÅ‘pajta
+Ã–regkÅ‘
+Ã–regleshegy
+Ã–regmajor
+Ã–regrÃ©t
+Ã–regszÅ‘lÅ‘
+Ã–regszÅ‘lÅ‘ I.
+Ã–regszÅ‘lÅ‘ I. keresztÃºt
+Ã–regszÅ‘lÅ‘ II.
+Ã–regszÅ‘lÅ‘ III.
+Ã–regszÅ‘lÅ‘ III. keresztÃºt
+Ã–regtÃ³
+Ã–regtÃ³part
+Ã–regtÃ¶lgy
+Ã–rkÃ©ny IstvÃ¡n
+Ã–rkÃ©nyi
+Ã–rkÃ©nypuszta
+Ã–rmÃ©ny
+Ã–rÃ¶ghegyi
+Ã–rÃ¶kzÃ¶ld
+Ã–rÃ¶m
+Ã–rÃ¶mvÃ¶lgy
+Ã–rÃ¶s
+Ã–rÃ¶si
+Ã–rs
+Ã–rs vezÃ©r
+Ã–rsi
+Ã–rsihegyi
+Ã–rsÃ¶ddÅ±lÅ‘
+Ã–rspuszta
+Ã–rvÃ©ny
+Ã–rvÃ©nyes
+Ã–rvÃ©nyeshegy
+Ã–rvÃ©nyi
+Ã–rvÃ¶s
+Ã–sszefogÃ¡s
+Ã–sszekÃ¶tÅ‘
+Ã–svÃ©ny
+Ã–szÃ¶di
+Ã–thÃ¡z
+Ã–thalom
+Ã–tmalom
+Ã–tÃ¶dik
+Ã–tÃ¶drÃ©szi
+Ã–tÃ¶s
+Ã–tpacsirta
+Ã–tvenes
+Ã–tvenhatosok
+Ã–tvÃ¶s
+Ã–tvÃ¶s JÃ¡nos
+Ã–tvÃ¶stÃ¡bornok
+Ã–tvÃ¶zetgyÃ¡r
+Ã–v
+Ã–veges J.
+Ã–veges JÃ³zsef
+Ã–vezet
+ÅcsÃ©nyi
+År
+ÅrgÃ©bics
+ÅrhÃ¡z
+Århalom
+Århegy
+Århegyi
+Århely
+Åri
+ÅrjÃ¡rat
+ÅrjÃ¡rÃ³
+ÅrlÅ‘
+Årmester
+Årmezei
+Årnagy
+Års
+ÅrsÃ©g
+Årszem
+Årtorony
+ÅrtÅ±z
+ÅrvezetÅ‘
+ÅsagÃ¡rd
+Åsi
+Åsz
+ÅszapÃ³
+Åszibarack
+Åszike
+ÅszirÃ³zsa
+Åz
+Åze
+Åzgida
+Åzike
+ÅzlÃ¡b
+Åzsuta
+ÅzugrÃ³
+OMV tÃ¶ltÅ‘Ã¡llomÃ¡s
 OVIT
-Oázis
+OÃ¡zis
 Obsitos
 Obulus
-Ocskó
-Ocskó László
+OcskÃ³
+OcskÃ³ LÃ¡szlÃ³
 Ohat
-Ohatpusztakócs
-Ohatpusztakócs Ág
-Ojtózi
+OhatpusztakÃ³cs
+OhatpusztakÃ³cs Ãg
+OjtÃ³zi
 Ojtozi
 Okai
-Okrád
-Október
-Október 6.
-Október 97.
-Október 99 major
+OkrÃ¡d
+OktÃ³ber
+OktÃ³ber 6.
+OktÃ³ber 97.
+OktÃ³ber 99 major
 Oktogon
 Ola
-Oláh
-Oláh Antal
-Oláh Ferenc
-Oláh Gábor
-Oláh Jakab
-Oláh Károly
-Oláh Sándor
-Oláh Zsigmond
-Oláházi
-Oláhrét
+OlÃ¡h
+OlÃ¡h Antal
+OlÃ¡h Ferenc
+OlÃ¡h GÃ¡bor
+OlÃ¡h Jakab
+OlÃ¡h KÃ¡roly
+OlÃ¡h SÃ¡ndor
+OlÃ¡h Zsigmond
+OlÃ¡hÃ¡zi
+OlÃ¡hrÃ©t
 Olaj
-Olajátemelõ
-Olajbányász
-Olajbogyó
+OlajÃ¡temelÅ‘
+OlajbÃ¡nyÃ¡sz
+OlajbogyÃ³
 Olajfa
 Olajhegy
 Olajliget
 Olajmalom
-Olajmunkás
+OlajmunkÃ¡s
 Olajos
 Olajtelep
-Olajütõ
+OlajÃ¼tÅ‘
 Olasz
 Olaszliszka
 Olay Lajos
 Olcsai
-Olcsai-Kiss Zoltán
+Olcsai-Kiss ZoltÃ¡n
 Olcsva
 Oldal
 Olga
 Olgakert
 Olimpia
-Olló
+OllÃ³
 Olof Palme
 Olt
-Oltó
-Oltvány
-Oltványi
-Olvasztár
+OltÃ³
+OltvÃ¡ny
+OltvÃ¡nyi
+OlvasztÃ¡r
 Olympia
 Omszk
 Oncsa
 Ond
-Ond vezér
+Ond vezÃ©r
 Ondava
 Ondi
-Ondód Bojtár
-Ondód Muskátli
-Ondódi
+OndÃ³d BojtÃ¡r
+OndÃ³d MuskÃ¡tli
+OndÃ³di
 Ongai
-Opál
-Oportó
-Oprendek Sándor
+OpÃ¡l
+OportÃ³
+Oprendek SÃ¡ndor
 Oravicai
-Orbán
-Orbán Balázs
-Orbánhegy
-Orbánhegyi
-Orbó
+OrbÃ¡n
+OrbÃ¡n BalÃ¡zs
+OrbÃ¡nhegy
+OrbÃ¡nhegyi
+OrbÃ³
 Orchidea
 Orci
 Orczy
-Orczy István
-Orczy László
-Orczy Lõrinc
+Orczy IstvÃ¡n
+Orczy LÃ¡szlÃ³
+Orczy LÅ‘rinc
 Ordacsehi
 Ordas
 Ordastelep
-Ordód
-Orémus
+OrdÃ³d
+OrÃ©mus
 Orgona
-Orgonás
-Orgonás Dülõ
-Orgoványi
+OrgonÃ¡s
+OrgonÃ¡s DÃ¼lÅ‘
+OrgovÃ¡nyi
 Orion
-Orkán
+OrkÃ¡n
 Orlay
-Orló
-Orlovácz
-Ormánd
-Ormándi
-Ormánság
+OrlÃ³
+OrlovÃ¡cz
+OrmÃ¡nd
+OrmÃ¡ndi
+OrmÃ¡nsÃ¡g
 Ormai Norbert
 Ormay
 Ormay Norbert
-Ormódi
-Ormós Lajos
+OrmÃ³di
+OrmÃ³s Lajos
 Ormos
-Oroklán
+OroklÃ¡n
 Orom
 Orond
-Orosháza
+OroshÃ¡za
 Orosi
 Orosz
-Orosz György
-Orosz István
-Oroszlán
-Oroszlányi
-Oroszvár
-Oroszvég
+Orosz GyÃ¶rgy
+Orosz IstvÃ¡n
+OroszlÃ¡n
+OroszlÃ¡nyi
+OroszvÃ¡r
+OroszvÃ©g
 Orsika
-Orsó
+OrsÃ³
 Orsolya
 Orsova
 Orsovahida
 Orsovai
-Ország
-Országbíró
-Országgyûlés
-Országház
-Országhatár
-Országút
-Országúti
-Országzászló
-Ortaháza
+OrszÃ¡g
+OrszÃ¡gbÃ­rÃ³
+OrszÃ¡ggyÅ±lÃ©s
+OrszÃ¡ghÃ¡z
+OrszÃ¡ghatÃ¡r
+OrszÃ¡gÃºt
+OrszÃ¡gÃºti
+OrszÃ¡gzÃ¡szlÃ³
+OrtahÃ¡za
 Ortutay
 Ortutay Gyula
 Orvos
-Orvosi rendelõ
-Orvosköz
+Orvosi rendelÅ‘
+OrvoskÃ¶z
 Orzovenszky
 Orzovenszky K.
 Oskar Voltz
@@ -10650,252 +10650,252 @@ Ostorhegy
 Ostoros
 Ostorosi
 Ostrom
-Osvát
-Osváth
-Osváth Pál
-Oszkár
-Oszkó
-Oszlány
+OsvÃ¡t
+OsvÃ¡th
+OsvÃ¡th PÃ¡l
+OszkÃ¡r
+OszkÃ³
+OszlÃ¡ny
 Oszlop
-Oszmán út
+OszmÃ¡n Ãºt
 Oszoly
-Osztály
+OsztÃ¡ly
 Osztag
-Osztó-sziget
+OsztÃ³-sziget
 Osztrovszky
-Otelló
-Othelló
+OtellÃ³
+OthellÃ³
 Otthon
-Ottó
+OttÃ³
 Oulu
-Ovár
+OvÃ¡r
 Ovad
-Oxigéngyári
-Ozmán
+OxigÃ©ngyÃ¡ri
+OzmÃ¡n
 Ozorai
-Ozsváth
-P.Horváth Á.
-P.Horváth Ádám
-PAV Vitorláskikötõ
-P Horváth Á
-P Nagy Gábor
-Pácoló
-Pácsonyi
-Páczai Mihály
-Pád-puszta
-Páfrány
-Páfránykert
-Páfrányliget
-Páfrányos
-Páhy
-Pákász
-Pákolitz István
-Pákozd
-Pákozdi
-Pákozdi csata
-Pál
-Pál-Gazda
-Pálfái-bánom
-Pálfája erdõ
-Pálffy
-Pálffy Miklós
-Pálffy Villa
-Pálfi
-Pálfi Ernõ
-Pálfy
-Pálfy János
-Pálháza
-Pálinkás
-Pálinkafõzõ
-Pálinkaház
-Pálkövei
-Pállya Celesztin
-Pálma
-Pálmaház
-Pálmajor
-Pálnagy Zsigmond
-Pálóczi
-Pálóczi Horváth Ádám
-Pálóczy
-Pálóczy Mátyás
-Pálos
-Pálosi
-Pálosok
-Pálosvörösmarti
-Pálvarga
-Pálvölgyi
-Pálya
-Pályamesteri Szakasz
-Pályaudvar
-Páncél
-Pándi
-Pándi Lajos
-Pándorfalu
-Pándzsa
-Pánthy Endre
-Pántlika
-Pántlika puszta
-Pántlikapuszta
-Pányva
-Pápai
-Pápai József
-Pápai Vincéné
-Pápay István
-Pápay László
-Pápay Sámuel
-Páprádpuszta
-Pára
-Párduc
-Párizsi
-Párkány
-Párkányi
-Párnás
-Párta
-Pártos Arthur
-Pártos Gyula
-Páskom
-Páskomliget
-Páskomszõlõ
-Páskum
-Pást
-Pásthy Károly
-Pásti
-Pászthóy
-Pásztó
-Pásztói
-Pásztói újtelep
-Pásztor
-Pásztor J.
-Pásztordomb
-Pásztorének
-Pásztorfalva
-Pásztori
-Pásztorlány
-Pásztortûz
-Pásztorvölgy
-Páterdombi
-Páterhomok
-Pátriarka
-Pátrohai
-Pátyi
-Pátyod
-Pátzay Pál
-Páva
-Pávai-Vajna
-Pávai Vajna Ferenc
-Pável Ágoston
-Pázdány
-Pázmánd
-Pázmándi
-Pázmány
-Pázmány Péter
-Pázsit
-Pázsitfû
-Pázsitos
-Paál László
-Paár Mihály
+OzsvÃ¡th
+P.HorvÃ¡th Ã.
+P.HorvÃ¡th ÃdÃ¡m
+PAV VitorlÃ¡skikÃ¶tÅ‘
+P HorvÃ¡th Ã
+P Nagy GÃ¡bor
+PÃ¡colÃ³
+PÃ¡csonyi
+PÃ¡czai MihÃ¡ly
+PÃ¡d-puszta
+PÃ¡frÃ¡ny
+PÃ¡frÃ¡nykert
+PÃ¡frÃ¡nyliget
+PÃ¡frÃ¡nyos
+PÃ¡hy
+PÃ¡kÃ¡sz
+PÃ¡kolitz IstvÃ¡n
+PÃ¡kozd
+PÃ¡kozdi
+PÃ¡kozdi csata
+PÃ¡l
+PÃ¡l-Gazda
+PÃ¡lfÃ¡i-bÃ¡nom
+PÃ¡lfÃ¡ja erdÅ‘
+PÃ¡lffy
+PÃ¡lffy MiklÃ³s
+PÃ¡lffy Villa
+PÃ¡lfi
+PÃ¡lfi ErnÅ‘
+PÃ¡lfy
+PÃ¡lfy JÃ¡nos
+PÃ¡lhÃ¡za
+PÃ¡linkÃ¡s
+PÃ¡linkafÅ‘zÅ‘
+PÃ¡linkahÃ¡z
+PÃ¡lkÃ¶vei
+PÃ¡llya Celesztin
+PÃ¡lma
+PÃ¡lmahÃ¡z
+PÃ¡lmajor
+PÃ¡lnagy Zsigmond
+PÃ¡lÃ³czi
+PÃ¡lÃ³czi HorvÃ¡th ÃdÃ¡m
+PÃ¡lÃ³czy
+PÃ¡lÃ³czy MÃ¡tyÃ¡s
+PÃ¡los
+PÃ¡losi
+PÃ¡losok
+PÃ¡losvÃ¶rÃ¶smarti
+PÃ¡lvarga
+PÃ¡lvÃ¶lgyi
+PÃ¡lya
+PÃ¡lyamesteri Szakasz
+PÃ¡lyaudvar
+PÃ¡ncÃ©l
+PÃ¡ndi
+PÃ¡ndi Lajos
+PÃ¡ndorfalu
+PÃ¡ndzsa
+PÃ¡nthy Endre
+PÃ¡ntlika
+PÃ¡ntlika puszta
+PÃ¡ntlikapuszta
+PÃ¡nyva
+PÃ¡pai
+PÃ¡pai JÃ³zsef
+PÃ¡pai VincÃ©nÃ©
+PÃ¡pay IstvÃ¡n
+PÃ¡pay LÃ¡szlÃ³
+PÃ¡pay SÃ¡muel
+PÃ¡prÃ¡dpuszta
+PÃ¡ra
+PÃ¡rduc
+PÃ¡rizsi
+PÃ¡rkÃ¡ny
+PÃ¡rkÃ¡nyi
+PÃ¡rnÃ¡s
+PÃ¡rta
+PÃ¡rtos Arthur
+PÃ¡rtos Gyula
+PÃ¡skom
+PÃ¡skomliget
+PÃ¡skomszÅ‘lÅ‘
+PÃ¡skum
+PÃ¡st
+PÃ¡sthy KÃ¡roly
+PÃ¡sti
+PÃ¡szthÃ³y
+PÃ¡sztÃ³
+PÃ¡sztÃ³i
+PÃ¡sztÃ³i Ãºjtelep
+PÃ¡sztor
+PÃ¡sztor J.
+PÃ¡sztordomb
+PÃ¡sztorÃ©nek
+PÃ¡sztorfalva
+PÃ¡sztori
+PÃ¡sztorlÃ¡ny
+PÃ¡sztortÅ±z
+PÃ¡sztorvÃ¶lgy
+PÃ¡terdombi
+PÃ¡terhomok
+PÃ¡triarka
+PÃ¡trohai
+PÃ¡tyi
+PÃ¡tyod
+PÃ¡tzay PÃ¡l
+PÃ¡va
+PÃ¡vai-Vajna
+PÃ¡vai Vajna Ferenc
+PÃ¡vel Ãgoston
+PÃ¡zdÃ¡ny
+PÃ¡zmÃ¡nd
+PÃ¡zmÃ¡ndi
+PÃ¡zmÃ¡ny
+PÃ¡zmÃ¡ny PÃ©ter
+PÃ¡zsit
+PÃ¡zsitfÅ±
+PÃ¡zsitos
+PaÃ¡l LÃ¡szlÃ³
+PaÃ¡r MihÃ¡ly
 Pablo Casals
 Pablo Neruda
 Pac
 Pac Ibolya
-Pac Víg-Kend
+Pac VÃ­g-Kend
 Pacikert
 Pacsai
 Pacsirta
-Pacsirtamezõ
-Padlizsán
+PacsirtamezÅ‘
+PadlizsÃ¡n
 Pados
 Padragi
 Pagony
-Pais Dezsõ
+Pais DezsÅ‘
 Pajkos
 Pajor
-Pajor István
+Pajor IstvÃ¡n
 Pajta
-Pajtárs
-Pajtás
+PajtÃ¡rs
+PajtÃ¡s
 Pajtika
 Pajzs
 Pajzsika
 Pakos Imre
 Paksi
 Pala
-Palánk
-Palánkai
-Palánki
-Palánta
-Palánták
-Palackozó
+PalÃ¡nk
+PalÃ¡nkai
+PalÃ¡nki
+PalÃ¡nta
+PalÃ¡ntÃ¡k
+PalackozÃ³
 Palahegy
 Palatinca
 Palatinus
-Palé
-Paletta lakópark
+PalÃ©
+Paletta lakÃ³park
 Pali
 Palicsi
 Palkonyai
-Palkovics Károly
+Palkovics KÃ¡roly
 Pallag
 Pallag Beton
 Pallaghy Gyula
 Pallagi
-Pallai Pál
-Palló
-Palló Imre
-Pallós
+Pallai PÃ¡l
+PallÃ³
+PallÃ³ Imre
+PallÃ³s
 Pallos
-Palóc
-Palóczy
-Palóczy László
-Palóznaki
+PalÃ³c
+PalÃ³czy
+PalÃ³czy LÃ¡szlÃ³
+PalÃ³znaki
 Palocsai
 Palota
-Palotás
+PalotÃ¡s
 Palotai
-Palotaváros Üzletház
-Palotaváros garázssor
-Pammer István
+PalotavÃ¡ros ÃœzlethÃ¡z
+PalotavÃ¡ros garÃ¡zssor
+Pammer IstvÃ¡n
 Pamut
 Pancsova
 Pancsovai
 Panda
-Pandúr
+PandÃºr
 Panel
-Pannónia
+PannÃ³nia
 Pannonhalmi
-Panoráma
-Panoráma út
+PanorÃ¡ma
+PanorÃ¡ma Ãºt
 Panyolai
 Pap
 Pap-hegy
-Pap-rét
-Pap Béla
-Pap Károly
-Papagáj
+Pap-rÃ©t
+Pap BÃ©la
+Pap KÃ¡roly
+PapagÃ¡j
 Papberke
-Paperdõ
-Papfolyó
+PaperdÅ‘
+PapfolyÃ³
 Paphegy
 Paphegyalja
 Papi
-Papír
-Papírgyár
+PapÃ­r
+PapÃ­rgyÃ¡r
 Papkert
 Papkuta
-Papláza
-Paplanhát
+PaplÃ¡za
+PaplanhÃ¡t
 Papmalmi
-Papnövelde
+PapnÃ¶velde
 Papp
-Papp István
-Papp Sándor
+Papp IstvÃ¡n
+Papp SÃ¡ndor
 Papp Simon
-Paprét
-Papréti
+PaprÃ©t
+PaprÃ©ti
 Paprika
-Paprikabíró
+PaprikabÃ­rÃ³
 Papsoka
-Papszék
+PapszÃ©k
 Papszer
 Papszigeti
 Papszigeti strand
@@ -10903,29 +10903,29 @@ Paptag
 Paptag tanya
 Paptagi
 Paptava
-Papucsvirág
-Parád
-Parádi
-Parány
-Parászta
-Parázs
-Parázsszög
+PapucsvirÃ¡g
+ParÃ¡d
+ParÃ¡di
+ParÃ¡ny
+ParÃ¡szta
+ParÃ¡zs
+ParÃ¡zsszÃ¶g
 Paradicsom
 Paradicsompuszta
-Paragvári
+ParagvÃ¡ri
 Parassapuszta
-Parasztfõiskola
+ParasztfÅ‘iskola
 Parcsin
 Paripa
 Parittya
 Park
 Park Kemping
-Parkerdõ
-Parkettagyár
-Parkoló
+ParkerdÅ‘
+ParkettagyÃ¡r
+ParkolÃ³
 Parksor
 Parlag
-Parlagfû
+ParlagfÅ±
 Parlaghalom
 Parnak
 Parnaki
@@ -10933,52 +10933,52 @@ Parrag
 Parraghegy
 Part
 Partalja
-Partfürdõ
+PartfÃ¼rdÅ‘
 Parti
 Parti villasor
 Partifecske
-Partizán
+PartizÃ¡n
 Partos
-Pasaréti
-Paskál
-Paskál-malom
+PasarÃ©ti
+PaskÃ¡l
+PaskÃ¡l-malom
 Paskom
 Paskomi
-Passuth László
-Paszabcsúcs
+Passuth LÃ¡szlÃ³
+PaszabcsÃºcs
 Paszabi
 Paszimki
-Paszomány
-Patár
-Pataháza
-Pataházi
+PaszomÃ¡ny
+PatÃ¡r
+PatahÃ¡za
+PatahÃ¡zi
 Patai
-Patai István
+Patai IstvÃ¡n
 Patak
 Patakhegyi
 Pataki
 Pataki Ferenc
 Pataki I.
-Pataki István
-Pataki Kálmán
+Pataki IstvÃ¡n
+Pataki KÃ¡lmÃ¡n
 Patakmalom
 Patakos
 Patakpart
 Pataksor
-Pataksor alsó
-Patakvölgyi
+Pataksor alsÃ³
+PatakvÃ¶lgyi
 Patay
 Patika
-Patkó
-Patkós
-Patkószeg
-Patóhegy
-Patróna
+PatkÃ³
+PatkÃ³s
+PatkÃ³szeg
+PatÃ³hegy
+PatrÃ³na
 Patron
-Pattantyús
-Pattantyús Ábráhám
-Pattantyús Ábrahám Géza
-Pattogós
+PattantyÃºs
+PattantyÃºs ÃbrÃ¡hÃ¡m
+PattantyÃºs ÃbrahÃ¡m GÃ©za
+PattogÃ³s
 Patvar
 Patvarci
 Patyolat
@@ -10988,100 +10988,100 @@ Paulay Ede
 Pauler
 Paulin
 Paulini
-Paulini Béla
-Paur Iván
+Paulini BÃ©la
+Paur IvÃ¡n
 Pavilon
 Pavilonsor
 Pavlovna
-Pazár István
+PazÃ¡r IstvÃ¡n
 Pazonyi
-Pébánia
-Péceli
-Péch Antal
-Péchy
-Péchy Blanka
-Péchy Mihály
-Péchy Simon
-Pécs-felsõ vasútállomás
-Pécsbánya rendezõ
-Pécsbányatelepi
-Pécsi
-Pécsi Építõk
-Pécsi Sándor
-Pécsi országút
-Pécskai
-Pécsvárad
-Pécsváradi
-Péczeli
-Péczely
-Pék
-Példánykert
-Péli
-Péliföld-Szentkereszt
-Pélmonostor
-Pélpuszta
-Pély Gábor
-Pélyi
-Péntek
-Péntek Ferenc
-Péntekhely
-Pénzbánya
-Pénzpatak
-Pénztárnok
-Pénzverem
-Péter
-Péter-Pál
-Péter Pál
-Péter apostol
-Péterbánkút
-Péterfa
-Péterfai
-Péterfapuszta
-Péterffy
-Péterfia
-Péterfy Sándor
-Péterházapuszta
-Péterhalmi
-Péterhegyi
-Péteri
-Péteri major Patak
-Péterimajor
-Péterke
-Péterpuszta
-Péterszegi
-Pétervárad
-Pétery Károly
-Pézsma
-Pecató
-Pecérvölgy
+PÃ©bÃ¡nia
+PÃ©celi
+PÃ©ch Antal
+PÃ©chy
+PÃ©chy Blanka
+PÃ©chy MihÃ¡ly
+PÃ©chy Simon
+PÃ©cs-felsÅ‘ vasÃºtÃ¡llomÃ¡s
+PÃ©csbÃ¡nya rendezÅ‘
+PÃ©csbÃ¡nyatelepi
+PÃ©csi
+PÃ©csi Ã‰pÃ­tÅ‘k
+PÃ©csi SÃ¡ndor
+PÃ©csi orszÃ¡gÃºt
+PÃ©cskai
+PÃ©csvÃ¡rad
+PÃ©csvÃ¡radi
+PÃ©czeli
+PÃ©czely
+PÃ©k
+PÃ©ldÃ¡nykert
+PÃ©li
+PÃ©lifÃ¶ld-Szentkereszt
+PÃ©lmonostor
+PÃ©lpuszta
+PÃ©ly GÃ¡bor
+PÃ©lyi
+PÃ©ntek
+PÃ©ntek Ferenc
+PÃ©ntekhely
+PÃ©nzbÃ¡nya
+PÃ©nzpatak
+PÃ©nztÃ¡rnok
+PÃ©nzverem
+PÃ©ter
+PÃ©ter-PÃ¡l
+PÃ©ter PÃ¡l
+PÃ©ter apostol
+PÃ©terbÃ¡nkÃºt
+PÃ©terfa
+PÃ©terfai
+PÃ©terfapuszta
+PÃ©terffy
+PÃ©terfia
+PÃ©terfy SÃ¡ndor
+PÃ©terhÃ¡zapuszta
+PÃ©terhalmi
+PÃ©terhegyi
+PÃ©teri
+PÃ©teri major Patak
+PÃ©terimajor
+PÃ©terke
+PÃ©terpuszta
+PÃ©terszegi
+PÃ©tervÃ¡rad
+PÃ©tery KÃ¡roly
+PÃ©zsma
+PecatÃ³
+PecÃ©rvÃ¶lgy
 Pedellus
-Pefõfi
+PefÅ‘fi
 Pehely
-Pejkó
-Peklár
-Pelikán
-Pellérdi
-Pelsõc
-Pelsõczy Ferenc
+PejkÃ³
+PeklÃ¡r
+PelikÃ¡n
+PellÃ©rdi
+PelsÅ‘c
+PelsÅ‘czy Ferenc
 Pemete
-Pemetefû
-Penészleki
-Pengõ
-Pengõs
+PemetefÅ±
+PenÃ©szleki
+PengÅ‘
+PengÅ‘s
 Pentele
 Pentelei
-Pentelei Molnár
+Pentelei MolnÃ¡r
 Penyige
-Perbáli
-Perbáth
+PerbÃ¡li
+PerbÃ¡th
 Perc
 Perczel
-Perczel Béla
-Perczel Mór
+Perczel BÃ©la
+Perczel MÃ³r
 Pere
-Perényi
-Perényi Péter
-Perényi Zsigmond
+PerÃ©nyi
+PerÃ©nyi PÃ©ter
+PerÃ©nyi Zsigmond
 Perec
 Pereces
 Pered
@@ -11090,301 +11090,301 @@ Pereghalom
 Peregi
 Perei
 Perem
-Peremarton gyártelep
+Peremarton gyÃ¡rtelep
 Peres
 Pereszke
 Perger
-Pergõ
+PergÅ‘
 Perintparti
 Perje
-Perjés
+PerjÃ©s
 Perked
 Perkedpuszta
 Perlaki
-Pernecker István
-Pernyés
+Pernecker IstvÃ¡n
+PernyÃ©s
 Perr Viktor
-Persevölgyi
+PersevÃ¶lgyi
 Pertelek
-Pervát
+PervÃ¡t
 Perzse
 Peske
 Pest
-Pest vidéki
+Pest vidÃ©ki
 Pesti
-Pesti Barnabás
-Pesti Gábor
+Pesti BarnabÃ¡s
+Pesti GÃ¡bor
 Pestihegyi
-Pestispincék
-Pestújhelyi
-Peták
-Petárda
-Petényi
+PestispincÃ©k
+PestÃºjhelyi
+PetÃ¡k
+PetÃ¡rda
+PetÃ©nyi
 Pete Lajos
 Peterdpuszta
 Peterdy
-Petermann bíró
+Petermann bÃ­rÃ³
 Petesmalom
-Pethényi
+PethÃ©nyi
 Pethe Ferenc
-Pethõ
-Pethõ Bálint
-Pethõ Sándor
-Petneházi
-Petneházy
-Petneházy Dávid
-Petõ
-Petõ Gáspár
-Petõfalvi
-Petõfi
-Petõfi-Major
-Petõfi-tag
-Petõfi-telep
-Petõfi Sándor
-Petõházi
-Petõrész
-Petõszegi
+PethÅ‘
+PethÅ‘ BÃ¡lint
+PethÅ‘ SÃ¡ndor
+PetnehÃ¡zi
+PetnehÃ¡zy
+PetnehÃ¡zy DÃ¡vid
+PetÅ‘
+PetÅ‘ GÃ¡spÃ¡r
+PetÅ‘falvi
+PetÅ‘fi
+PetÅ‘fi-Major
+PetÅ‘fi-tag
+PetÅ‘fi-telep
+PetÅ‘fi SÃ¡ndor
+PetÅ‘hÃ¡zi
+PetÅ‘rÃ©sz
+PetÅ‘szegi
 Petra
 Petrence
 Petresi
 Petrezselyem
 Petri
-Petri Pál
+Petri PÃ¡l
 Petrikovics
-Petrikovics László
-Petróci
-Petróleum
-Petróleumgyár
-Petrõczy
+Petrikovics LÃ¡szlÃ³
+PetrÃ³ci
+PetrÃ³leum
+PetrÃ³leumgyÃ¡r
+PetrÅ‘czy
 Petrovics Ferenc
 Petrovics I.
-Petrovics István
-Petrozsényi
-Petúnia
-Petúr
-Petur bán
+Petrovics IstvÃ¡n
+PetrozsÃ©nyi
+PetÃºnia
+PetÃºr
+Petur bÃ¡n
 Petyina
 Petz Ferenc
-Petz György
+Petz GyÃ¶rgy
 Petz Samu
-Petzval József
-Pezsgõ
-Phély Nagy Gábor
+Petzval JÃ³zsef
+PezsgÅ‘
+PhÃ©ly Nagy GÃ¡bor
 Piac
 Piac-csarnok
-Piac tér Buszmegálló
-Piac tér pavilonsor
-Piactér
+Piac tÃ©r BuszmegÃ¡llÃ³
+Piac tÃ©r pavilonsor
+PiactÃ©r
 Piarista
-Piaristák
+PiaristÃ¡k
 Pici
-Pihenés
-Pihenõ
+PihenÃ©s
+PihenÅ‘
 Pikkely
-Pikó
-Piktortégla
+PikÃ³
+PiktortÃ©gla
 Pilbauer
-Pilikáni
-Pilinszky János
+PilikÃ¡ni
+Pilinszky JÃ¡nos
 Pilis
 Piliscsabai
 Pilisi
-Pilisi Elemér
-Pilisszántói
-Pilisvörösvári
-Pillangó
+Pilisi ElemÃ©r
+PilisszÃ¡ntÃ³i
+PilisvÃ¶rÃ¶svÃ¡ri
+PillangÃ³
 Pille
-Pillich Kálmán
-Pillingér
-Pillmann bíró
-Pilóta
+Pillich KÃ¡lmÃ¡n
+PillingÃ©r
+Pillmann bÃ­rÃ³
+PilÃ³ta
 Pilvax
 Pince
-Pincér
-Pince Sörözõ
+PincÃ©r
+Pince SÃ¶rÃ¶zÅ‘
 Pince sor
 Pincehegyi
 Pincehelyi
-Pinceköz
+PincekÃ¶z
 Pincemester
 Pincesor
 Pinceszer
 Pingyom
 Pinka
-Pinkafõi
+PinkafÅ‘i
 Pinkai
-Pinkerét
-Pinkóca
-Pintér
-Pintér József
-Pintér Máté
-Pintérhegyi
+PinkerÃ©t
+PinkÃ³ca
+PintÃ©r
+PintÃ©r JÃ³zsef
+PintÃ©r MÃ¡tÃ©
+PintÃ©rhegyi
 Pinty
-Pintyõke
-Piócás
+PintyÅ‘ke
+PiÃ³cÃ¡s
 Pipa
-Pipás
-Pipáskert
+PipÃ¡s
+PipÃ¡skert
 Pipacs
 Pipishegy
 Pipiske
-Pipitér
-Pipóhegy
+PipitÃ©r
+PipÃ³hegy
 Piricsei
 Pirkadat
-Pirók Gyula
+PirÃ³k Gyula
 Pirosalma
 Pirosarany
 Piroska
 Piroskai
-Piroskai Állami Gazdaság
-Piroskai Gazdaság
+Piroskai Ãllami GazdasÃ¡g
+Piroskai GazdasÃ¡g
 Piroskai Iskola
-Pirosrózsa
+PirosrÃ³zsa
 Piski
 Pisky
-Pismány
-Pistály
+PismÃ¡ny
+PistÃ¡ly
 Pistahegyi
 Piszke
-Piszkés
-Piszkéstetõ
+PiszkÃ©s
+PiszkÃ©stetÅ‘
 Piszkei
-Pisztráng
+PisztrÃ¡ng
 Pitli
 Pitvar
 Pityer
 Pityerszer
-Pityóka
+PityÃ³ka
 Pitypang
-Pivári
-Platán
-Platánfa
-Platános
-Platánsor
+PivÃ¡ri
+PlatÃ¡n
+PlatÃ¡nfa
+PlatÃ¡nos
+PlatÃ¡nsor
 Platina
-Plató
+PlatÃ³
 Platthy
 Platz
-Plébánia
-Pléh Sándor
-Plón Gyula
-Plósz
-Pócsi
-Póda Endre
-Póhamarai
-Pók
-Pókbangó
-Pókvár
-Pólya
-Pólya Jenõ
-Pólya Tibor
-Pór Apát
-Pór Bertalan
-Pósa
-Pósa Lajos
-Pósaházi János
-Pósalaki
-Pósapart
-Pósz Jenõ
-Póta
-Póth Irén
-Pótharaszti
-Póts András
-Pózva
-Pózva elágazó
-Pöcök
-Pöltenberg
-Pöltenberg Ernõ
-Pöltenberg tábornok
-Pörböly
-Pörge
-Pörgölin
-Pöröly
-Pörös
-Pöröspuszta
-Pöstyén
-Pöstyéni
-Pöszméte
-Pöttyös
-Pocsaji útfél
+PlÃ©bÃ¡nia
+PlÃ©h SÃ¡ndor
+PlÃ³n Gyula
+PlÃ³sz
+PÃ³csi
+PÃ³da Endre
+PÃ³hamarai
+PÃ³k
+PÃ³kbangÃ³
+PÃ³kvÃ¡r
+PÃ³lya
+PÃ³lya JenÅ‘
+PÃ³lya Tibor
+PÃ³r ApÃ¡t
+PÃ³r Bertalan
+PÃ³sa
+PÃ³sa Lajos
+PÃ³sahÃ¡zi JÃ¡nos
+PÃ³salaki
+PÃ³sapart
+PÃ³sz JenÅ‘
+PÃ³ta
+PÃ³th IrÃ©n
+PÃ³tharaszti
+PÃ³ts AndrÃ¡s
+PÃ³zva
+PÃ³zva elÃ¡gazÃ³
+PÃ¶cÃ¶k
+PÃ¶ltenberg
+PÃ¶ltenberg ErnÅ‘
+PÃ¶ltenberg tÃ¡bornok
+PÃ¶rbÃ¶ly
+PÃ¶rge
+PÃ¶rgÃ¶lin
+PÃ¶rÃ¶ly
+PÃ¶rÃ¶s
+PÃ¶rÃ¶spuszta
+PÃ¶styÃ©n
+PÃ¶styÃ©ni
+PÃ¶szmÃ©te
+PÃ¶ttyÃ¶s
+Pocsaji ÃºtfÃ©l
 Podhorszky
 Podmaniczky
 Podmaniczky Frigyes
 Podmaniczky Zsuzsanna
 Podolin
 Podolini
-Pogány
-Pogányhegy
-Pogányvár
-Pogányvári
+PogÃ¡ny
+PogÃ¡nyhegy
+PogÃ¡nyvÃ¡r
+PogÃ¡nyvÃ¡ri
 Pogonyi
 Pogonyi puszta
 Pogonypuszta
-Pohár
+PohÃ¡r
 Pohl Ferenc
 Pokaj
 Poklondos
-Pokolcsárda
+PokolcsÃ¡rda
 Pokolsziget
-Pokrócz Ferenc
+PokrÃ³cz Ferenc
 Poldini Ede
-Polgár
-Polgár Gellért
-Polgári
-Polgári útfél
-Polgármesteri Hivatal
-Polgárszõlõ
+PolgÃ¡r
+PolgÃ¡r GellÃ©rt
+PolgÃ¡ri
+PolgÃ¡ri ÃºtfÃ©l
+PolgÃ¡rmesteri Hivatal
+PolgÃ¡rszÅ‘lÅ‘
 Polip
 Politczer
-Pollach Mihály
+Pollach MihÃ¡ly
 Pollack
-Pollack Mihály
-Polyákbokor
-Polyán
-Pomázi
-Pompás
+Pollack MihÃ¡ly
+PolyÃ¡kbokor
+PolyÃ¡n
+PomÃ¡zi
+PompÃ¡s
 Pomperszer
-Pongrác
-Pongrácz
+PongrÃ¡c
+PongrÃ¡cz
 Ponty
-Poór Antal
-Poór Bertalan
-Popelyás
-Poprád
-Poprádi
+PoÃ³r Antal
+PoÃ³r Bertalan
+PopelyÃ¡s
+PoprÃ¡d
+PoprÃ¡di
 Por
-Porcelán
+PorcelÃ¡n
 Porcsalmy Gyula
-Porcsinrózsa
+PorcsinrÃ³zsa
 Pori
-Porkoláb
-Porkolábvölgy
+PorkolÃ¡b
+PorkolÃ¡bvÃ¶lgy
 Porond
-Poroshát
-Poroskadûlõ
-Porosladány
+PoroshÃ¡t
+PoroskadÅ±lÅ‘
+PorosladÃ¡ny
 Poroszlay
-Poroszlói
-Portörõ
-Portyázó
-Porzó
+PoroszlÃ³i
+PortÃ¶rÅ‘
+PortyÃ¡zÃ³
+PorzÃ³
 Posta
-Postás
-Posta elõtt
-Postaházi
+PostÃ¡s
+Posta elÅ‘tt
+PostahÃ¡zi
 Postahivatal
 Postakert
-Postakör
+PostakÃ¶r
 Postakocsi
-Postakürt
+PostakÃ¼rt
 Postamester
-Postaszállás
-Postavölgyi
-Poszáta
-Posztó
-Posztógyár
-Posztógyári
+PostaszÃ¡llÃ¡s
+PostavÃ¶lgyi
+PoszÃ¡ta
+PosztÃ³
+PosztÃ³gyÃ¡r
+PosztÃ³gyÃ¡ri
 Potyka
 Potyondi
 Potypuszta
@@ -11392,521 +11392,521 @@ Potza
 Povolny Ferenc
 Pozderka
 Pozdomb
-Pozsár
-Pozsár Gyula
+PozsÃ¡r
+PozsÃ¡r Gyula
 Pozsgai tag
 Pozsony
 Pozsonyi
-Pozsonyi Ignác
-Prága
-Práter
-Prantner János
-Prém
-Prépost
-Prés
-Présház
-Pressol Mihály
-Presznyák-tag
-Prímás
-Prielle Kornélia
+Pozsonyi IgnÃ¡c
+PrÃ¡ga
+PrÃ¡ter
+Prantner JÃ¡nos
+PrÃ©m
+PrÃ©post
+PrÃ©s
+PrÃ©shÃ¡z
+Pressol MihÃ¡ly
+PresznyÃ¡k-tag
+PrÃ­mÃ¡s
+Prielle KornÃ©lia
 Privigye
 Privigyei
 Prizma
-Próbatétel
-Prodám
-Prohászka
-Prohászka Ottokár
-Proletár
+PrÃ³batÃ©tel
+ProdÃ¡m
+ProhÃ¡szka
+ProhÃ¡szka OttokÃ¡r
+ProletÃ¡r
 Promontor
-Prügyi
-Púposhalom
-Pünkösdfürdõ
-Pünkösdhegy
-Püski
-Püski János
-Püspök
-Püspök kertváros
-Püspökalappuszta
-Püspökbóly
-Püspöki Grácia
-Püspökkastély
-Püspökladányi
-Püspöklak
-Püspökmajor
-Püspökszentlászló
-Puky Miklós
+PrÃ¼gyi
+PÃºposhalom
+PÃ¼nkÃ¶sdfÃ¼rdÅ‘
+PÃ¼nkÃ¶sdhegy
+PÃ¼ski
+PÃ¼ski JÃ¡nos
+PÃ¼spÃ¶k
+PÃ¼spÃ¶k kertvÃ¡ros
+PÃ¼spÃ¶kalappuszta
+PÃ¼spÃ¶kbÃ³ly
+PÃ¼spÃ¶ki GrÃ¡cia
+PÃ¼spÃ¶kkastÃ©ly
+PÃ¼spÃ¶kladÃ¡nyi
+PÃ¼spÃ¶klak
+PÃ¼spÃ¶kmajor
+PÃ¼spÃ¶kszentlÃ¡szlÃ³
+Puky MiklÃ³s
 Pulcz
 Puli
 Pulyai
-Pulykavár
+PulykavÃ¡r
 Pulz
-Purebl Gyõzõ
-Purgány
+Purebl GyÅ‘zÅ‘
+PurgÃ¡ny
 Purgli
 Puska
-Puskás
-Puskás Tivadar
+PuskÃ¡s
+PuskÃ¡s Tivadar
 Puskapor
 Puskaporos
 Puskin
-Puszpáng
+PuszpÃ¡ng
 Puszta
 Puszta-torony
-Puszta Sándor
-Pusztaberény
-Pusztacsász
-Pusztadomaháza
+Puszta SÃ¡ndor
+PusztaberÃ©ny
+PusztacsÃ¡sz
+PusztadomahÃ¡za
 Pusztadombi
-Pusztaér
-Pusztaháza
+PusztaÃ©r
+PusztahÃ¡za
 Pusztahegyi
 Pusztai
-Pusztai István
-Pusztai József
-Pusztakamarás
+Pusztai IstvÃ¡n
+Pusztai JÃ³zsef
+PusztakamarÃ¡s
 Pusztakertek
 Pusztakisfalui
-Pusztakúti
-Pusztaszántói
+PusztakÃºti
+PusztaszÃ¡ntÃ³i
 Pusztaszabolcsi
-Pusztaszentgyörgy
+PusztaszentgyÃ¶rgy
 Pusztaszer
 Pusztaszeri
-Pusztaszikszó
-Pusztatetõ
+PusztaszikszÃ³
+PusztatetÅ‘
 Putnok
-Putnoki János
+Putnoki JÃ¡nos
 Puttony
 Puttonyos
 Puzdra
 Pyrker
 R
-R. Tóth Sára
-Rába
-Rábán alul
-Rábafüzes
-Rábasömjéni
-Rábaszer
-Rábca
-Rábcai gátõrház
-Rábcasor
-Rábéi
-Rábl
-Ráboly
-Ráby Mátyás
-Rác
-Ráchegy
-Ráckert
-Ráckeve
-Rácski
-Rácsos
-Ráctag
-Rácváros
-Rácvárosi
-Rácvölgy
-Rácz
-Rácz Ádám
-Rácz Aladár
-Rácz Béla
-Rácz Farkas
-Rácz György
-Rácz László
-Ráczok szigete
-Ráczug
-Rádai
-Ráday
-Ráday Gedeon
-Ráday Imre
-Ráday Pál
-Rádfa
-Rádfai
-Rádfapuszta
-Rádi
-Rádiháza
-Rádió
-Rádióállomás
-Rádl
-Rádpuszta
-Rágniczapuszta
-Rák
-Rákász
-Rákhát
-Rákhegy
-Rákó
-Rákóczi
-Rákóczi Ferenc
-Rákóczi Zsigmond
-Rákóczi bányatelep
-Rákóczi fejedelem
-Rákóczi téri vásárcsarnok
-Rákóczi vár
-Rákópuszta
-Rákos
-Rákoscsaba
-Rákosfalva
-Rákosi
-Rákosi Viktor
-Rákoskeresztúri piac
-Rákoskert
-Rákoskerti
-Rákosligeti
-Rákosmezõ
-Rákospalota-Újpest vasútállomás
-Rákospalotai
-Rákospalotai Körvasút
-Rákospatak
-Rákosrendezõ
-Rákosszeg
-Rákosvölgyi
-Rámhegy
-Ráskai Lea
-Rásony
-Ráspoly
-Ráth György
-Ráth Mátyás
-Rátót
-Rátz László
-Rávágy
-Rázompuszta
+R. TÃ³th SÃ¡ra
+RÃ¡ba
+RÃ¡bÃ¡n alul
+RÃ¡bafÃ¼zes
+RÃ¡basÃ¶mjÃ©ni
+RÃ¡baszer
+RÃ¡bca
+RÃ¡bcai gÃ¡tÅ‘rhÃ¡z
+RÃ¡bcasor
+RÃ¡bÃ©i
+RÃ¡bl
+RÃ¡boly
+RÃ¡by MÃ¡tyÃ¡s
+RÃ¡c
+RÃ¡chegy
+RÃ¡ckert
+RÃ¡ckeve
+RÃ¡cski
+RÃ¡csos
+RÃ¡ctag
+RÃ¡cvÃ¡ros
+RÃ¡cvÃ¡rosi
+RÃ¡cvÃ¶lgy
+RÃ¡cz
+RÃ¡cz ÃdÃ¡m
+RÃ¡cz AladÃ¡r
+RÃ¡cz BÃ©la
+RÃ¡cz Farkas
+RÃ¡cz GyÃ¶rgy
+RÃ¡cz LÃ¡szlÃ³
+RÃ¡czok szigete
+RÃ¡czug
+RÃ¡dai
+RÃ¡day
+RÃ¡day Gedeon
+RÃ¡day Imre
+RÃ¡day PÃ¡l
+RÃ¡dfa
+RÃ¡dfai
+RÃ¡dfapuszta
+RÃ¡di
+RÃ¡dihÃ¡za
+RÃ¡diÃ³
+RÃ¡diÃ³Ã¡llomÃ¡s
+RÃ¡dl
+RÃ¡dpuszta
+RÃ¡gniczapuszta
+RÃ¡k
+RÃ¡kÃ¡sz
+RÃ¡khÃ¡t
+RÃ¡khegy
+RÃ¡kÃ³
+RÃ¡kÃ³czi
+RÃ¡kÃ³czi Ferenc
+RÃ¡kÃ³czi Zsigmond
+RÃ¡kÃ³czi bÃ¡nyatelep
+RÃ¡kÃ³czi fejedelem
+RÃ¡kÃ³czi tÃ©ri vÃ¡sÃ¡rcsarnok
+RÃ¡kÃ³czi vÃ¡r
+RÃ¡kÃ³puszta
+RÃ¡kos
+RÃ¡koscsaba
+RÃ¡kosfalva
+RÃ¡kosi
+RÃ¡kosi Viktor
+RÃ¡koskeresztÃºri piac
+RÃ¡koskert
+RÃ¡koskerti
+RÃ¡kosligeti
+RÃ¡kosmezÅ‘
+RÃ¡kospalota-Ãšjpest vasÃºtÃ¡llomÃ¡s
+RÃ¡kospalotai
+RÃ¡kospalotai KÃ¶rvasÃºt
+RÃ¡kospatak
+RÃ¡kosrendezÅ‘
+RÃ¡kosszeg
+RÃ¡kosvÃ¶lgyi
+RÃ¡mhegy
+RÃ¡skai Lea
+RÃ¡sony
+RÃ¡spoly
+RÃ¡th GyÃ¶rgy
+RÃ¡th MÃ¡tyÃ¡s
+RÃ¡tÃ³t
+RÃ¡tz LÃ¡szlÃ³
+RÃ¡vÃ¡gy
+RÃ¡zompuszta
 Ra2dda Barnen
-Rab Ráby
-Rabárerdõ
+Rab RÃ¡by
+RabÃ¡rerdÅ‘
 Rabkert
-Radák Katalin
-Radán Balázs
-Radics bíró
+RadÃ¡k Katalin
+RadÃ¡n BalÃ¡zs
+Radics bÃ­rÃ³
 Radna
 Radnai
 Radnics
-Radnó
-Radnóti
-Radnóti Ferenc
-Radnóti Mihály
-Radnóti Miklós
-Radó
-Radó Antal
-Radóc
+RadnÃ³
+RadnÃ³ti
+RadnÃ³ti Ferenc
+RadnÃ³ti MihÃ¡ly
+RadnÃ³ti MiklÃ³s
+RadÃ³
+RadÃ³ Antal
+RadÃ³c
 Radosi
-Radován
-Radvány
-Radványi
+RadovÃ¡n
+RadvÃ¡ny
+RadvÃ¡nyi
 Raffay
-Ragályi
+RagÃ¡lyi
 Ragoda
-Ragyogó
-Rahó
-Rahói
-Rajk László
+RagyogÃ³
+RahÃ³
+RahÃ³i
+Rajk LÃ¡szlÃ³
 Rajka
 Rajkai
 Rajki
-Rajki Márton
-Rajner Károly
+Rajki MÃ¡rton
+Rajner KÃ¡roly
 Rajnis
 Rakamaz
 Rakamazi
-Rakéta
-Rakósi
+RakÃ©ta
+RakÃ³si
 Rakodczay P.
-Rakodó
+RakodÃ³
 Rakovszki
-Rakovszky Dániel
-Raksányi Lajos
-Raktár
-Raktárvárosi
+Rakovszky DÃ¡niel
+RaksÃ¡nyi Lajos
+RaktÃ¡r
+RaktÃ¡rvÃ¡rosi
 Ramassetter
 Ramocsa
 Rangut
 Ranolder
 Raoul Wallenberg
-Ratkóc
-Rauch András
-Ravasz László
-Ravasz Püspök
-Ravatalozó
+RatkÃ³c
+Rauch AndrÃ¡s
+Ravasz LÃ¡szlÃ³
+Ravasz PÃ¼spÃ¶k
+RavatalozÃ³
 Ravazd
-Réce
-Récényi
-Récsei
-Rédei Ferenc
-Réffy László
-Régész
-Régi
-Régi Állomás
-Régi Cifrakapu
-Régi Csóri
-Régi Fóti
-Régi Iskola
-Régi Templom
-Régi Tokaji
-Régi Vásártér
-Régi Veszprémi
-Régi posta
-Régi reptér
-Régi vámház
-Régimalom
-Régiposta
-Régitemetõ
-Régitemplom
-Régivám
-Régivásártér
-Régivasútsor
-Réhelyi
-Réhling Kondrád
-Réka
-Rékasi
-Rékavölgyi
-Rényi Rezsõ
-Répa
-Répás
-Répási János
-Répásszeg
-Répásy Mihály
-Répalapos
-Répce
-Répcefõi
-Rés
-Részes
-Rét
-Rétalapi
-Rétalj
-Rétalja
-Rétfenti
-Rétföld
-Rétföldi
-Réti
-Réti József
-Réti tanyák
-Rétifû
-Rétihéja
-Rétisor
-Rétköz
-Rétpart
-Rétsár
-Rétsarki
-Rétszentmiklósi
-Rétvége
-Rév
-Rév-Kócsagvár
-Rév állomás
-Révai
-Révai József
-Révai Miklós
-Révay
-Révész
-Révész Béla
-Révész Imre
-Révfalu
-Révfülöpi
-Révház
-Réz
-Rézhegy
-Rézmetszõ
-Rézmûves
-Rézöntõ
-Rézsû
-Rézvirág
-Reáltanoda
+RÃ©ce
+RÃ©cÃ©nyi
+RÃ©csei
+RÃ©dei Ferenc
+RÃ©ffy LÃ¡szlÃ³
+RÃ©gÃ©sz
+RÃ©gi
+RÃ©gi ÃllomÃ¡s
+RÃ©gi Cifrakapu
+RÃ©gi CsÃ³ri
+RÃ©gi FÃ³ti
+RÃ©gi Iskola
+RÃ©gi Templom
+RÃ©gi Tokaji
+RÃ©gi VÃ¡sÃ¡rtÃ©r
+RÃ©gi VeszprÃ©mi
+RÃ©gi posta
+RÃ©gi reptÃ©r
+RÃ©gi vÃ¡mhÃ¡z
+RÃ©gimalom
+RÃ©giposta
+RÃ©gitemetÅ‘
+RÃ©gitemplom
+RÃ©givÃ¡m
+RÃ©givÃ¡sÃ¡rtÃ©r
+RÃ©givasÃºtsor
+RÃ©helyi
+RÃ©hling KondrÃ¡d
+RÃ©ka
+RÃ©kasi
+RÃ©kavÃ¶lgyi
+RÃ©nyi RezsÅ‘
+RÃ©pa
+RÃ©pÃ¡s
+RÃ©pÃ¡si JÃ¡nos
+RÃ©pÃ¡sszeg
+RÃ©pÃ¡sy MihÃ¡ly
+RÃ©palapos
+RÃ©pce
+RÃ©pcefÅ‘i
+RÃ©s
+RÃ©szes
+RÃ©t
+RÃ©talapi
+RÃ©talj
+RÃ©talja
+RÃ©tfenti
+RÃ©tfÃ¶ld
+RÃ©tfÃ¶ldi
+RÃ©ti
+RÃ©ti JÃ³zsef
+RÃ©ti tanyÃ¡k
+RÃ©tifÅ±
+RÃ©tihÃ©ja
+RÃ©tisor
+RÃ©tkÃ¶z
+RÃ©tpart
+RÃ©tsÃ¡r
+RÃ©tsarki
+RÃ©tszentmiklÃ³si
+RÃ©tvÃ©ge
+RÃ©v
+RÃ©v-KÃ³csagvÃ¡r
+RÃ©v Ã¡llomÃ¡s
+RÃ©vai
+RÃ©vai JÃ³zsef
+RÃ©vai MiklÃ³s
+RÃ©vay
+RÃ©vÃ©sz
+RÃ©vÃ©sz BÃ©la
+RÃ©vÃ©sz Imre
+RÃ©vfalu
+RÃ©vfÃ¼lÃ¶pi
+RÃ©vhÃ¡z
+RÃ©z
+RÃ©zhegy
+RÃ©zmetszÅ‘
+RÃ©zmÅ±ves
+RÃ©zÃ¶ntÅ‘
+RÃ©zsÅ±
+RÃ©zvirÃ¡g
+ReÃ¡ltanoda
 Rebarbara
-Recés
+RecÃ©s
 Reform
-Regálétanya
+RegÃ¡lÃ©tanya
 Rege
-Regéci
-Regélõ
-Regényes
+RegÃ©ci
+RegÃ©lÅ‘
+RegÃ©nyes
 Reggel
 Regina
 Regiomontanus
-Regöly
-Regõci
-Regõcze
-Regõs
+RegÃ¶ly
+RegÅ‘ci
+RegÅ‘cze
+RegÅ‘s
 Reguly Antal
-Reich Béla
-Reile Géza
+Reich BÃ©la
+Reile GÃ©za
 Reisinger Ferenc
 Reiter
 Reitter Ferenc
 Reje
-Rejtõ Jenõ
+RejtÅ‘ JenÅ‘
 Rekesz
 Rekettye
-Rekettyés
+RekettyÃ©s
 Rekop
-Remény
-Reményhegy
-Reményi
-Reményi Ede
-Reménység
+RemÃ©ny
+RemÃ©nyhegy
+RemÃ©nyi
+RemÃ©nyi Ede
+RemÃ©nysÃ©g
 Remenyik Zsigmond
 Remete
-Remete László
+Remete LÃ¡szlÃ³
 Remetehegyi
 Remetei
-Remeteség puszta
-Remetevölgyi
-Remeti ág üdülõ
+RemetesÃ©g puszta
+RemetevÃ¶lgyi
+Remeti Ã¡g Ã¼dÃ¼lÅ‘
 Rend
 Rendeki
-Rendelõ
+RendelÅ‘
 Rendes
 Rendesi
-Rendeskõ
-Rendezõ
-Rendõr
+RendeskÅ‘
+RendezÅ‘
+RendÅ‘r
 Rengeteg
 Rengey
 Repce
 Repeczky Ferenc
-Repkény
-Reptér
-Reptéri
-Repülõ
-Repülõtér
-Repülõtéri
-Reszelõ
+RepkÃ©ny
+ReptÃ©r
+ReptÃ©ri
+RepÃ¼lÅ‘
+RepÃ¼lÅ‘tÃ©r
+RepÃ¼lÅ‘tÃ©ri
+ReszelÅ‘
 Retek
 Retel
-Rettegi Istvánné
-Retyezáti
+Rettegi IstvÃ¡nnÃ©
+RetyezÃ¡ti
 Reviczky
 Reviczky Gyula
 Reviczky ezredes
-Rezéti
+RezÃ©ti
 Rezeda
-Rezgõ
-Rezgõfû
+RezgÅ‘
+RezgÅ‘fÅ±
 Rezi
-Rezsõ
-Rhédey
-Rhénes
-Rím
-Riadó
-Rianás
-Ribáry
+RezsÅ‘
+RhÃ©dey
+RhÃ©nes
+RÃ­m
+RiadÃ³
+RianÃ¡s
+RibÃ¡ry
 Ribiszke
 Ribizke
 Ribizli
-Richter János
+Richter JÃ¡nos
 Ricinus
 Ricsei
 Ricsika
 Riedl Frigyes
 Riesz Frigyes
-Rigácsi
+RigÃ¡csi
 Rigli
 Rigmus
-Rigó
-Rigó Jancsi
-Rigóder
-Rigómajor
-Rigómezõ
-Rigópuszta
-Rigós
-Rigóvölgyi
+RigÃ³
+RigÃ³ Jancsi
+RigÃ³der
+RigÃ³major
+RigÃ³mezÅ‘
+RigÃ³puszta
+RigÃ³s
+RigÃ³vÃ¶lgyi
 Riha
 Rima
 Rimaszombat
 Rimaszombathy
 Rimaszombati
-Riminyáki
-Ringató
+RiminyÃ¡ki
+RingatÃ³
 Ringli
-Ringló
+RinglÃ³
 Rinya
-Rippl-Rónai
-Rippl-Rónai József
-Riskó Ignácz
+Rippl-RÃ³nai
+Rippl-RÃ³nai JÃ³zsef
+RiskÃ³ IgnÃ¡cz
 Rita
-Ritás
+RitÃ¡s
 Ritka
 Ritter
 Ritter Ferenc
 Rizapuszta 1.
 Rizling
-Rizskalász
-Róbert
-Róbert Károly
-Róka
-Rókás
-Rókabokor
-Rókafarm
-Rókahát
-Rókahegyi
-Rókaláb
-Rókales
-Rókarántó
-Rókavár
-Rókus
-Rókus vasútállomás
-Rókusalja
-Rókushegyi
-Rókusi
-Rómahegy
-Rómahegyi
-Római
-Római sánc
-Római tábor
-Római temetõ
-Római várkert
-Rómer Flóris
-Róna
-Rónabánya
-Rónai
-Rónai Sándor
-Rónay György
-Rónay Jácint
-Róth Gyula
-Rózsa
-Rózsa-sziget
-Rózsa-völgyi
-Rózsák
-Rózsás
-Rózsástelep
-Rózsa Ferenc
-Rózsa Károly
-Rózsa Sándor
-Rózsabarack
-Rózsabokor
-Rózsadomb
-Rózsaerdei
-Rózsafa
-Rózsahegy
-Rózsahegyi
-Rózsakert
-Rózsalapos
-Rózsalevél
-Rózsaliget
-Rózsamáj
-Rózsaszál
-Rózsaszirom
-Rózsatelep
-Rózsatõ
-Rózsavári
-Rózsavölgy
-Rózsavölgyi
-Rózsavölgyi Márk
-Rózsika
-Rögös
-Röjtöki
-Rökk Szilárd
-Rönk
-Röntgen
-Röppentyû
-Röszkei
-Rövid
-Rövidjánka
-Rövidvölgy
-Rözler
-Rõf
-Rõti-völgy
-Rõzse
-Robogó
+RizskalÃ¡sz
+RÃ³bert
+RÃ³bert KÃ¡roly
+RÃ³ka
+RÃ³kÃ¡s
+RÃ³kabokor
+RÃ³kafarm
+RÃ³kahÃ¡t
+RÃ³kahegyi
+RÃ³kalÃ¡b
+RÃ³kales
+RÃ³karÃ¡ntÃ³
+RÃ³kavÃ¡r
+RÃ³kus
+RÃ³kus vasÃºtÃ¡llomÃ¡s
+RÃ³kusalja
+RÃ³kushegyi
+RÃ³kusi
+RÃ³mahegy
+RÃ³mahegyi
+RÃ³mai
+RÃ³mai sÃ¡nc
+RÃ³mai tÃ¡bor
+RÃ³mai temetÅ‘
+RÃ³mai vÃ¡rkert
+RÃ³mer FlÃ³ris
+RÃ³na
+RÃ³nabÃ¡nya
+RÃ³nai
+RÃ³nai SÃ¡ndor
+RÃ³nay GyÃ¶rgy
+RÃ³nay JÃ¡cint
+RÃ³th Gyula
+RÃ³zsa
+RÃ³zsa-sziget
+RÃ³zsa-vÃ¶lgyi
+RÃ³zsÃ¡k
+RÃ³zsÃ¡s
+RÃ³zsÃ¡stelep
+RÃ³zsa Ferenc
+RÃ³zsa KÃ¡roly
+RÃ³zsa SÃ¡ndor
+RÃ³zsabarack
+RÃ³zsabokor
+RÃ³zsadomb
+RÃ³zsaerdei
+RÃ³zsafa
+RÃ³zsahegy
+RÃ³zsahegyi
+RÃ³zsakert
+RÃ³zsalapos
+RÃ³zsalevÃ©l
+RÃ³zsaliget
+RÃ³zsamÃ¡j
+RÃ³zsaszÃ¡l
+RÃ³zsaszirom
+RÃ³zsatelep
+RÃ³zsatÅ‘
+RÃ³zsavÃ¡ri
+RÃ³zsavÃ¶lgy
+RÃ³zsavÃ¶lgyi
+RÃ³zsavÃ¶lgyi MÃ¡rk
+RÃ³zsika
+RÃ¶gÃ¶s
+RÃ¶jtÃ¶ki
+RÃ¶kk SzilÃ¡rd
+RÃ¶nk
+RÃ¶ntgen
+RÃ¶ppentyÅ±
+RÃ¶szkei
+RÃ¶vid
+RÃ¶vidjÃ¡nka
+RÃ¶vidvÃ¶lgy
+RÃ¶zler
+RÅ‘f
+RÅ‘ti-vÃ¶lgy
+RÅ‘zse
+RobogÃ³
 Roboz
-Roboz István
-Rodostó
-Rodostói
+Roboz IstvÃ¡n
+RodostÃ³
+RodostÃ³i
 Roham
 Rohodi
 Rohonc
@@ -11915,11 +11915,11 @@ Rokolya
 Rokon
 Rolly Antal
 Rom
-Román
+RomÃ¡n
 Rombauer Tivadar
-Romhány
-Romhányi
-Romkápolna
+RomhÃ¡ny
+RomhÃ¡nyi
+RomkÃ¡polna
 Romtemplom
 Rongyi
 Ronyva
@@ -11927,1092 +11927,1092 @@ Roosevelt
 Rosenberg
 Roskovics
 Rosta
-Rostély
+RostÃ©ly
 Rosthy
 Rottenbiller
-Rottenstein Károly
-Rovás
-Rovátka
-Rozália
-Rozetti Lázár diák
+Rottenstein KÃ¡roly
+RovÃ¡s
+RovÃ¡tka
+RozÃ¡lia
+Rozetti LÃ¡zÃ¡r diÃ¡k
 Rozgonyi
 Rozgonyi Piroska
 Rozmaring
 Rozs
 Rozsnyai
-Rozsnyai Mátyás
+Rozsnyai MÃ¡tyÃ¡s
 Rozsnyay
-Rozsnyó
-Rozsnyói
-Rozsondai Károly
+RozsnyÃ³
+RozsnyÃ³i
+Rozsondai KÃ¡roly
 Rozsos
-Rozsrétbokor
-Rozsrétszõlõ
-Rückschuss Antal
-Rügy
+RozsrÃ©tbokor
+RozsrÃ©tszÅ‘lÅ‘
+RÃ¼ckschuss Antal
+RÃ¼gy
 Rubin
 Ruca
-Rudas László
+Rudas LÃ¡szlÃ³
 Rudawszky
 Rudi
-Rudinai Molnár
-Rudivár
+Rudinai MolnÃ¡r
+RudivÃ¡r
 Rudnay Gyula
-Rudnay Sándor
+Rudnay SÃ¡ndor
 Rudolf
 Rudolfmajor
-Rugó
-Rumbach Sebestyén
+RugÃ³
+Rumbach SebestyÃ©n
 Rumi
-Rumi Külsõ
-Rumi Rajki István
+Rumi KÃ¼lsÅ‘
+Rumi Rajki IstvÃ¡n
 Rupphegyi
-Ruszek János
-Ruszek József
+Ruszek JÃ¡nos
+Ruszek JÃ³zsef
 Ruszti
 Rutafa
-Rutén
-Ruthén
+RutÃ©n
+RuthÃ©n
 Ruttka
 Ruttkai
 Ruyter
 Ruzsini
-Ruzsinszõlõ
+RuzsinszÅ‘lÅ‘
 S
-S. Horváth József
-Sáfár Péter
-Sáfrány
-Sáfránylógeri
-Sági
-Sági János
-Ságodi
-Ságvár
-Ságvári
-Ságvári Endre
-Ságvári Üdülõtelep
-Sáli
-Sályi
-Sályi István
-Sámfa
-Sámsoni
-Sámsoni útfél
-Sámsonkert
-Sánc
-Sáncárok
-Sáncalja
-Sánchegy
-Sánci
-Sáncközi
-Sándor
-Sándor József
-Sándor László
-Sándor Pál
-Sándorfalvi
-Sándorkapuszta
-Sándormajor
-Sándorrét
-Sándortelep
-Sáner J.
-Sánta
-Sántha István
-Sántha Kálmán
-Sántha Károly
-Sántos
-Sántosi
-Sár
-Sára
-Sáránd
-Sárándi
-Sárási
-Sáráspuszta
-Sárberki
-Sárbogárdi
-Sárd
-Sárdi-ér
-Sárdos
-Sárfehér
-Sárfû
-Sárga
-Sárga rózsa
-Sárgabarack
-Sárgaföldes
-Sárgaház
-Sárgaháza Báthori
-Sárgapart
-Sárgarigó
-Sárgavölgy
-Sárgödör
-Sárhalom
-Sári
-Sáribesnyõ Inárcsi
-Sárik
-Sáripuszta
-Sárisáp
-Sárkány
-Sárkánykúti
-Sárkánytorok
-Sárkereki
-Sárkeresztúri
-Sárköz
-Sárközi
-Sárközi Gergely
-Sárkuti
-Sárli
-Sármány
-Sármás
-Sárnyok-Piros
-Sáros
-Sárosi
-Sárosi Gyula
-Sárosköz
-Sárospatak
-Sárospataki
-Sárpatak
-Sárpentele
-Sárrét
-Sárréti
-Sárszög
-Sárvár
-Sárvári Pál
-Sárvíz
-Sás
-Sásastó
-Sáska
-Sástó
-Sástó Camping
-Sátai
-Sátor
-Sátorhegy
-Sátorhegyi
-Sátori
-Sátorkõ
-Sátormapuszta
-Sáv
-Sávház
-Sávoly Pál
-Saághy István
-Sabrák
-Sajgói
+S. HorvÃ¡th JÃ³zsef
+SÃ¡fÃ¡r PÃ©ter
+SÃ¡frÃ¡ny
+SÃ¡frÃ¡nylÃ³geri
+SÃ¡gi
+SÃ¡gi JÃ¡nos
+SÃ¡godi
+SÃ¡gvÃ¡r
+SÃ¡gvÃ¡ri
+SÃ¡gvÃ¡ri Endre
+SÃ¡gvÃ¡ri ÃœdÃ¼lÅ‘telep
+SÃ¡li
+SÃ¡lyi
+SÃ¡lyi IstvÃ¡n
+SÃ¡mfa
+SÃ¡msoni
+SÃ¡msoni ÃºtfÃ©l
+SÃ¡msonkert
+SÃ¡nc
+SÃ¡ncÃ¡rok
+SÃ¡ncalja
+SÃ¡nchegy
+SÃ¡nci
+SÃ¡nckÃ¶zi
+SÃ¡ndor
+SÃ¡ndor JÃ³zsef
+SÃ¡ndor LÃ¡szlÃ³
+SÃ¡ndor PÃ¡l
+SÃ¡ndorfalvi
+SÃ¡ndorkapuszta
+SÃ¡ndormajor
+SÃ¡ndorrÃ©t
+SÃ¡ndortelep
+SÃ¡ner J.
+SÃ¡nta
+SÃ¡ntha IstvÃ¡n
+SÃ¡ntha KÃ¡lmÃ¡n
+SÃ¡ntha KÃ¡roly
+SÃ¡ntos
+SÃ¡ntosi
+SÃ¡r
+SÃ¡ra
+SÃ¡rÃ¡nd
+SÃ¡rÃ¡ndi
+SÃ¡rÃ¡si
+SÃ¡rÃ¡spuszta
+SÃ¡rberki
+SÃ¡rbogÃ¡rdi
+SÃ¡rd
+SÃ¡rdi-Ã©r
+SÃ¡rdos
+SÃ¡rfehÃ©r
+SÃ¡rfÅ±
+SÃ¡rga
+SÃ¡rga rÃ³zsa
+SÃ¡rgabarack
+SÃ¡rgafÃ¶ldes
+SÃ¡rgahÃ¡z
+SÃ¡rgahÃ¡za BÃ¡thori
+SÃ¡rgapart
+SÃ¡rgarigÃ³
+SÃ¡rgavÃ¶lgy
+SÃ¡rgÃ¶dÃ¶r
+SÃ¡rhalom
+SÃ¡ri
+SÃ¡ribesnyÅ‘ InÃ¡rcsi
+SÃ¡rik
+SÃ¡ripuszta
+SÃ¡risÃ¡p
+SÃ¡rkÃ¡ny
+SÃ¡rkÃ¡nykÃºti
+SÃ¡rkÃ¡nytorok
+SÃ¡rkereki
+SÃ¡rkeresztÃºri
+SÃ¡rkÃ¶z
+SÃ¡rkÃ¶zi
+SÃ¡rkÃ¶zi Gergely
+SÃ¡rkuti
+SÃ¡rli
+SÃ¡rmÃ¡ny
+SÃ¡rmÃ¡s
+SÃ¡rnyok-Piros
+SÃ¡ros
+SÃ¡rosi
+SÃ¡rosi Gyula
+SÃ¡roskÃ¶z
+SÃ¡rospatak
+SÃ¡rospataki
+SÃ¡rpatak
+SÃ¡rpentele
+SÃ¡rrÃ©t
+SÃ¡rrÃ©ti
+SÃ¡rszÃ¶g
+SÃ¡rvÃ¡r
+SÃ¡rvÃ¡ri PÃ¡l
+SÃ¡rvÃ­z
+SÃ¡s
+SÃ¡sastÃ³
+SÃ¡ska
+SÃ¡stÃ³
+SÃ¡stÃ³ Camping
+SÃ¡tai
+SÃ¡tor
+SÃ¡torhegy
+SÃ¡torhegyi
+SÃ¡tori
+SÃ¡torkÅ‘
+SÃ¡tormapuszta
+SÃ¡v
+SÃ¡vhÃ¡z
+SÃ¡voly PÃ¡l
+SaÃ¡ghy IstvÃ¡n
+SabrÃ¡k
+SajgÃ³i
 Sajka
 Sajkod Galagonya
 Sajkod Rege
-Sajkod Romkápolna
+Sajkod RomkÃ¡polna
 Sajkod Sajkodi
-Sajkod Seregély
+Sajkod SeregÃ©ly
 Sajkodi
 Sajnovics
-Sajó
-Sajópart
-Sajóparti Vízmû
-Sajópetri
-Sajószigeti
-Sajtó
-Sajtoló
-Saláta
+SajÃ³
+SajÃ³part
+SajÃ³parti VÃ­zmÅ±
+SajÃ³petri
+SajÃ³szigeti
+SajtÃ³
+SajtolÃ³
+SalÃ¡ta
 Salakos
 Salamon
-Salamon Béla
+Salamon BÃ©la
 Salamon Ferenc
 Salamon torony
 Salamonbokor
 Salamonfai
-Salétrom
-Salföld
-Salgóbánya
-Salgói
-Salgótarján
-Salgótarjáni
+SalÃ©trom
+SalfÃ¶ld
+SalgÃ³bÃ¡nya
+SalgÃ³i
+SalgÃ³tarjÃ¡n
+SalgÃ³tarjÃ¡ni
 Sallai
-Sallai 7. Körmösdpuszta
-Sallai 9. Körmösdpuszta
+Sallai 7. KÃ¶rmÃ¶sdpuszta
+Sallai 9. KÃ¶rmÃ¶sdpuszta
 Sallai Endre
 Sallai Imre
 Samarja
-Samóka
+SamÃ³ka
 San Marco
 Sandi
 Sandihegy
-Sarjú
+SarjÃº
 Sarkad
 Sarkadi
 Sarkadi Imre
-Sarkady Károly
-Sarkantyú
-Sarló
-Sarlósfecske
+Sarkady KÃ¡roly
+SarkantyÃº
+SarlÃ³
+SarlÃ³sfecske
 Saroglya
 Sarok
 Sarolta
-Sarródi
+SarrÃ³di
 Saru
 Sarudi
 Sarvaly
 Sas
 Sasadi
-Sasbérc
-Sasfészek
-Sasfiók
+SasbÃ©rc
+SasfÃ©szek
+SasfiÃ³k
 Sashalmi
-Sashalmi HÉV megálló
+Sashalmi HÃ‰V megÃ¡llÃ³
 Sashalom
 Sashegy
 Sashegyi
-Sashegyi Sándor
-Saskõ
-Sasrét
+Sashegyi SÃ¡ndor
+SaskÅ‘
+SasrÃ©t
 Sass
 Sasszem
-Sasülés
-Sasvár
-Sasvári
+SasÃ¼lÃ©s
+SasvÃ¡r
+SasvÃ¡ri
 Saszla
-Savanyúkút
+SavanyÃºkÃºt
 Savaria
-Savaria Mozi Árkád
-Savoyai Jenõ
-Schármár Károly
+Savaria Mozi ÃrkÃ¡d
+Savoyai JenÅ‘
+SchÃ¡rmÃ¡r KÃ¡roly
 Scheibel
-Scheweidel József
+Scheweidel JÃ³zsef
 Schiller
 Schima Bandi
-Schlattner Jenõ
-Schleiffer Mátyás
+Schlattner JenÅ‘
+Schleiffer MÃ¡tyÃ¡s
 Schmall Zsigmond
-Schmidt Mihály
-Schmidt Sándor
+Schmidt MihÃ¡ly
+Schmidt SÃ¡ndor
 Schmidt villa kert
-Schneller István
-Schönhercz
-Schönhercz Zoltán
-Schönherr-Malom
-Schönherz Zoltán
+Schneller IstvÃ¡n
+SchÃ¶nhercz
+SchÃ¶nhercz ZoltÃ¡n
+SchÃ¶nherr-Malom
+SchÃ¶nherz ZoltÃ¡n
 Scholcz Ferenc
 Schulek
 Schwartzer Ferenc
-Schwarz Dávid
+Schwarz DÃ¡vid
 Schwarzenberg
 Schweidel
-Schweidel József
+Schweidel JÃ³zsef
 Schweitzer
-Séd
-Sénig Ferenc
-Sényõi
-Sérfenyõ
-Séta
-Sétáló
-Sétány
-Sétakert
-Sétatér
-Sebész
+SÃ©d
+SÃ©nig Ferenc
+SÃ©nyÅ‘i
+SÃ©rfenyÅ‘
+SÃ©ta
+SÃ©tÃ¡lÃ³
+SÃ©tÃ¡ny
+SÃ©takert
+SÃ©tatÃ©r
+SebÃ©sz
 Sebes
-Sebesér
-Sebesi Kálmán
-Sebessy Károly
-Sebestyén
-Sebesvíz
-Sebõk Soma
+SebesÃ©r
+Sebesi KÃ¡lmÃ¡n
+Sebessy KÃ¡roly
+SebestyÃ©n
+SebesvÃ­z
+SebÅ‘k Soma
 Sebron
 Segesdi
-Segesvár
-Segesvári
-Segner János
-Sellõ
+SegesvÃ¡r
+SegesvÃ¡ri
+Segner JÃ¡nos
+SellÅ‘
 Selmec
-Selmecbánya
-Selmecbányai
+SelmecbÃ¡nya
+SelmecbÃ¡nyai
 Selmeci
 Selmecz
 Seltenhofer Frigyes
 Selyem
-Selyemakác
-Selyemfonó
-Selyemgyár
+SelyemakÃ¡c
+SelyemfonÃ³
+SelyemgyÃ¡r
 Selyemmajor
-Selyemrét
+SelyemrÃ©t
 Selymes
-Selypesköz
-Semjéni
+SelypeskÃ¶z
+SemjÃ©ni
 Semmelweis
-Semmelweis Ignác
+Semmelweis IgnÃ¡c
 Semsey Andor
-Sennyei Oláh István
+Sennyei OlÃ¡h IstvÃ¡n
 Senyefai
 Sepsi
-Sepsiszentgyörgy
-Serény
-Serényi Béla
-Serényi László
+SepsiszentgyÃ¶rgy
+SerÃ©ny
+SerÃ©nyi BÃ©la
+SerÃ©nyi LÃ¡szlÃ³
 Sereg
-Seregély
-Seregélyes
-Seregélyesi
+SeregÃ©ly
+SeregÃ©lyes
+SeregÃ©lyesi
 Seres
-Serfõzõ
-Serfõzõdombi
-Serház
-Serkeszék
+SerfÅ‘zÅ‘
+SerfÅ‘zÅ‘dombi
+SerhÃ¡z
+SerkeszÃ©k
 Serleg
-Serli zártkert
-Serli zártkert Haladás
-Serpenyõ
-Sertéstelep
-Sertésvölgy
+Serli zÃ¡rtkert
+Serli zÃ¡rtkert HaladÃ¡s
+SerpenyÅ‘
+SertÃ©stelep
+SertÃ©svÃ¶lgy
 Sertekapu
 Servita
 Sestakert
 Sesztina
-Setét Mihály
+SetÃ©t MihÃ¡ly
 Shell
-Shell kút
-Sík
-Sík Sándor
-Síkfõkút
-Síkvölgy
-Síkvölgyi
-Sín
-Sínpár
-Síntelep
-Síp
-Sípálya
-Sípos
-Sípos Pál
-Sírkert
+Shell kÃºt
+SÃ­k
+SÃ­k SÃ¡ndor
+SÃ­kfÅ‘kÃºt
+SÃ­kvÃ¶lgy
+SÃ­kvÃ¶lgyi
+SÃ­n
+SÃ­npÃ¡r
+SÃ­ntelep
+SÃ­p
+SÃ­pÃ¡lya
+SÃ­pos
+SÃ­pos PÃ¡l
+SÃ­rkert
 Sia
-Sibrik Miklós
+Sibrik MiklÃ³s
 Sicambria
 Sigray
 Sigray Jakab
 Siha
-Sikárosi
-Sikárosi Fûrésztelep
-Sikátor
+SikÃ¡rosi
+SikÃ¡rosi FÅ±rÃ©sztelep
+SikÃ¡tor
 Siki
-Siki Károly
-Sikló
-Siklós
-Siklósi
+Siki KÃ¡roly
+SiklÃ³
+SiklÃ³s
+SiklÃ³si
 Sikondai
-Sikvás
+SikvÃ¡s
 Siller
-Sillye Gábor
+Sillye GÃ¡bor
 Silvanus
 Silye
 Sima
-Simándi
-Simándi István
-Simándy Pál
-Simaház
+SimÃ¡ndi
+SimÃ¡ndi IstvÃ¡n
+SimÃ¡ndy PÃ¡l
+SimahÃ¡z
 Simai
-Simító
+SimÃ­tÃ³
 Simoga
 Simon
-Simon Béla
-Simon Bolivár
+Simon BÃ©la
+Simon BolivÃ¡r
 Simon Ferenc
 Simon I.
-Simon István
-Simon József
-Simon László
+Simon IstvÃ¡n
+Simon JÃ³zsef
+Simon LÃ¡szlÃ³
 Simondomb
 Simonffy
-Simongát
-Simongáti
+SimongÃ¡t
+SimongÃ¡ti
 Simoni
 Simontornyai
 Simonyi
-Simonyi Géza
-Simonyi József
-Simonyi Óbester
+Simonyi GÃ©za
+Simonyi JÃ³zsef
+Simonyi Ã“bester
 Simonyi Zsigmond
-Simor János
-Simor János püspök
+Simor JÃ¡nos
+Simor JÃ¡nos pÃ¼spÃ¶k
 Sina Simon
-Sinai Miklós
+Sinai MiklÃ³s
 Sinatelep
-Sinay Miklós
-Sinka István
-Sinke Gábor
-Sió
-Sió-Árvízkapu
-Sió part
-Siófoki
-Siójobbpart
-Siópart
+Sinay MiklÃ³s
+Sinka IstvÃ¡n
+Sinke GÃ¡bor
+SiÃ³
+SiÃ³-ÃrvÃ­zkapu
+SiÃ³ part
+SiÃ³foki
+SiÃ³jobbpart
+SiÃ³part
 Sion
 Sionhegyi
 Sipkay Barna
 Sipos
-Sipos Béla
-Sipos Iván
-Sipos Pál
-Sipos Sándor
-Sirály
-Sirató
-Sirok-Liszkó Külterület
+Sipos BÃ©la
+Sipos IvÃ¡n
+Sipos PÃ¡l
+Sipos SÃ¡ndor
+SirÃ¡ly
+SiratÃ³
+Sirok-LiszkÃ³ KÃ¼lterÃ¼let
 Siroki
 Sisak
 Siskaszer
 Siske
 Sissay
 Siszler
-Skála
-Skála Üzletsor
+SkÃ¡la
+SkÃ¡la Ãœzletsor
 Skalnitzky Antal
 Skanzen
-Skrován Imre
+SkrovÃ¡n Imre
 Smetana
-Só
-Sóderos
-Sógor
-Sóház
-Sóhaj
-Sóhalmi
-Sóhordó
-Sólinka
-Sólyom
-Sólyom domb
-Sólyomvölgy
-Sós
-Sósdombi
-Sósfürdõ
-Sósgát
-Sósi
-Sósi földek
-Sóska
-Sóskahegy
-Sóskörtély
-Sóskút
-Sóskúti
-Sósmocsár
-Sóstó
-Sóstó Ipari Park
-Sóstódombi
-Sóstófürdõ
-Sóstóhegyi
-Sóstói
-Sósvertikei
-Sóvágó
-Sóvári
-Sóvirág
-Söjtöri
-Sömlyék
-Sömögye
-Sömögye dülõ
-Söptérhatári
-Söptei
-Söptei Külsõ
-Sörét
-Sörétgyár
-Sörgyár
-Sörház
-Sörházdombi
-Sörhegy
-Sörös
-Sörös Pongrác
-Sörraktár
-Sörte
-Sötétvölgy
-Sövény
-Sövénykút
-Sõrés
-Sõreföld
-Sõregi János
-Sobieski János
-Sodrás
+SÃ³
+SÃ³deros
+SÃ³gor
+SÃ³hÃ¡z
+SÃ³haj
+SÃ³halmi
+SÃ³hordÃ³
+SÃ³linka
+SÃ³lyom
+SÃ³lyom domb
+SÃ³lyomvÃ¶lgy
+SÃ³s
+SÃ³sdombi
+SÃ³sfÃ¼rdÅ‘
+SÃ³sgÃ¡t
+SÃ³si
+SÃ³si fÃ¶ldek
+SÃ³ska
+SÃ³skahegy
+SÃ³skÃ¶rtÃ©ly
+SÃ³skÃºt
+SÃ³skÃºti
+SÃ³smocsÃ¡r
+SÃ³stÃ³
+SÃ³stÃ³ Ipari Park
+SÃ³stÃ³dombi
+SÃ³stÃ³fÃ¼rdÅ‘
+SÃ³stÃ³hegyi
+SÃ³stÃ³i
+SÃ³svertikei
+SÃ³vÃ¡gÃ³
+SÃ³vÃ¡ri
+SÃ³virÃ¡g
+SÃ¶jtÃ¶ri
+SÃ¶mlyÃ©k
+SÃ¶mÃ¶gye
+SÃ¶mÃ¶gye dÃ¼lÅ‘
+SÃ¶ptÃ©rhatÃ¡ri
+SÃ¶ptei
+SÃ¶ptei KÃ¼lsÅ‘
+SÃ¶rÃ©t
+SÃ¶rÃ©tgyÃ¡r
+SÃ¶rgyÃ¡r
+SÃ¶rhÃ¡z
+SÃ¶rhÃ¡zdombi
+SÃ¶rhegy
+SÃ¶rÃ¶s
+SÃ¶rÃ¶s PongrÃ¡c
+SÃ¶rraktÃ¡r
+SÃ¶rte
+SÃ¶tÃ©tvÃ¶lgy
+SÃ¶vÃ©ny
+SÃ¶vÃ©nykÃºt
+SÅ‘rÃ©s
+SÅ‘refÃ¶ld
+SÅ‘regi JÃ¡nos
+Sobieski JÃ¡nos
+SodrÃ¡s
 Sodronyos
-Sokoró
-Sokorói
-Sokorópátkai
+SokorÃ³
+SokorÃ³i
+SokorÃ³pÃ¡tkai
 Solt
-Soltész Nagy Kálmán
+SoltÃ©sz Nagy KÃ¡lmÃ¡n
 Solti
 Soltra Alajos
-Solymár
-Solymári
-Solymárvölgyi
-Solymász
+SolymÃ¡r
+SolymÃ¡ri
+SolymÃ¡rvÃ¶lgyi
+SolymÃ¡sz
 Som
 Somberek
 Somfa
 Somfalvi
 Somhegy
-Somkút
-Somlay Artúr
-Somló
-Somlói
-Somlókert
+SomkÃºt
+Somlay ArtÃºr
+SomlÃ³
+SomlÃ³i
+SomlÃ³kert
 Somlyai
-Somlyó-hegy
-Somlyó Zoltán
-Somlyói
-Sommás
+SomlyÃ³-hegy
+SomlyÃ³ ZoltÃ¡n
+SomlyÃ³i
+SommÃ¡s
 Somodi
 Somodor puszta
 Somogy
 Somogyi
-Somogyi Béla
+Somogyi BÃ©la
 Somogyi Ferenc
 Somogyi Imre
-Somogyi Pál
-Somogyi Rezsõ
+Somogyi PÃ¡l
+Somogyi RezsÅ‘
 Somogyszobi
-Somogytarnóca
-Somogyvári
+SomogytarnÃ³ca
+SomogyvÃ¡ri
 Somorjai
 Somos
-Somosbérc
+SomosbÃ©rc
 Somosi
 Somoska
 Somoskert
-Somoskõ
-Somoskõi
-Somosmáli
+SomoskÅ‘
+SomoskÅ‘i
+SomosmÃ¡li
 Somosmajor
-Somossy Béla
-Somostéri
-Somsály
-Somsályfõ
+Somossy BÃ©la
+SomostÃ©ri
+SomsÃ¡ly
+SomsÃ¡lyfÅ‘
 Somssich Eszter
-Somssich Pál
-Soó Rezsõ
-Soós Gábor
-Soós Imre
-Soós István
-Soós János
-Soós Lajos
-Soós Sándor
-Soós Sára
+Somssich PÃ¡l
+SoÃ³ RezsÅ‘
+SoÃ³s GÃ¡bor
+SoÃ³s Imre
+SoÃ³s IstvÃ¡n
+SoÃ³s JÃ¡nos
+SoÃ³s Lajos
+SoÃ³s SÃ¡ndor
+SoÃ³s SÃ¡ra
 Soponyai
 Sopron
 Soproni
-Soproni H. József
+Soproni H. JÃ³zsef
 Sopronpuszta
-Sorház
-Sormási
+SorhÃ¡z
+SormÃ¡si
 Sorok
 Sorokmajor
-Soroksár
-Soroksári
-Soroksári út
-Sorompó
-Sorompós
-Sorompóvölgy
+SoroksÃ¡r
+SoroksÃ¡ri
+SoroksÃ¡ri Ãºt
+SorompÃ³
+SorompÃ³s
+SorompÃ³vÃ¶lgy
 Sosztakovics
-Spáhi
-Spanyolrét
-Spisák János
+SpÃ¡hi
+SpanyolrÃ©t
+SpisÃ¡k JÃ¡nos
 Sport
 Sport centrum
 Sport telep
 Sportliget
-Sportpálya
-Sporttér
+SportpÃ¡lya
+SporttÃ©r
 Sporttelep
-Sporttelep Tó
-Sportvölgy
-Sprõder
-Spur István
+Sporttelep TÃ³
+SportvÃ¶lgy
+SprÅ‘der
+Spur IstvÃ¡n
 Sramli
-Sréter János
+SrÃ©ter JÃ¡nos
 Sreiner
-Stáció
-Stádium
-Stáhly
+StÃ¡ciÃ³
+StÃ¡dium
+StÃ¡hly
 Stadion
-Stéger
-Stefánia
+StÃ©ger
+StefÃ¡nia
 Steier tag
-Stein Aurél
+Stein AurÃ©l
 Steindl Imre
-Steiner László
+Steiner LÃ¡szlÃ³
 Steinheim
 Steinmetz
 Stelczer Lajos
-Steurer József
+Steurer JÃ³zsef
 Stoczek
-Stollár Béla
+StollÃ¡r BÃ©la
 Stomfai
-Strázsa
-Strázsahegy
-Strázsahegyi
+StrÃ¡zsa
+StrÃ¡zsahegy
+StrÃ¡zsahegyi
 Strand
-Strand-fürdõ
-Strand Gyógykert
+Strand-fÃ¼rdÅ‘
+Strand GyÃ³gykert
 Strand I.
-Strand bejárat
-Strandfürdõ
-Strandfürdõ terület
-Strandnál
-Stranszky János
-Streith Miklós
-Stróbl Alajos
+Strand bejÃ¡rat
+StrandfÃ¼rdÅ‘
+StrandfÃ¼rdÅ‘ terÃ¼let
+StrandnÃ¡l
+Stranszky JÃ¡nos
+Streith MiklÃ³s
+StrÃ³bl Alajos
 Stromfeld
-Stromfeld Aurél
-Stúdium
+Stromfeld AurÃ©l
+StÃºdium
 Stubnyai
-Stuller András
-Sturmán
-Sújtás
-Sügér
-Sügérsor
-Sülevölgy
-Süllõ
-Sümeg
-Sümegi
-Sümegvár
-Sümegvári
-Sün
-Sürgöny
-Sütõ
-Sütõ János
-Süttöri
-Süttõ
-Süveg
-Süveges
-Süvöltõ
-Sûrû
+Stuller AndrÃ¡s
+SturmÃ¡n
+SÃºjtÃ¡s
+SÃ¼gÃ©r
+SÃ¼gÃ©rsor
+SÃ¼levÃ¶lgy
+SÃ¼llÅ‘
+SÃ¼meg
+SÃ¼megi
+SÃ¼megvÃ¡r
+SÃ¼megvÃ¡ri
+SÃ¼n
+SÃ¼rgÃ¶ny
+SÃ¼tÅ‘
+SÃ¼tÅ‘ JÃ¡nos
+SÃ¼ttÃ¶ri
+SÃ¼ttÅ‘
+SÃ¼veg
+SÃ¼veges
+SÃ¼vÃ¶ltÅ‘
+SÅ±rÅ±
 Suba
 Subanya
 Subasa
-Sudár
-Sudár István
-Sugár
-Sugárkankalin
+SudÃ¡r
+SudÃ¡r IstvÃ¡n
+SugÃ¡r
+SugÃ¡rkankalin
 Suhatag
-Sujtás
-Sukorói
-Sulyánbokor
-Sulymoshát
+SujtÃ¡s
+SukorÃ³i
+SulyÃ¡nbokor
+SulymoshÃ¡t
 Sulyok
 Sumen
-Summás
-Sur vezér
-Surány
-Surány felsõ
-Surányi
-Surányi János
-Surányi Miklós
-Surjány
+SummÃ¡s
+Sur vezÃ©r
+SurÃ¡ny
+SurÃ¡ny felsÅ‘
+SurÃ¡nyi
+SurÃ¡nyi JÃ¡nos
+SurÃ¡nyi MiklÃ³s
+SurjÃ¡ny
 Susa
 Suska
-Susnyár
-Susnyári
-Susogó
+SusnyÃ¡r
+SusnyÃ¡ri
+SusogÃ³
 Sutu
 Sutus
-Svábhegy
-Svájci
-Szádellõi
-Szádelõ
-Száka
-Száki
-Szále János
-Szálfa
-Szállás
-Szállásföld
-Szállási
-Szálláskert
-Szálláskertek
-Szállások
-Szálláspuszta
-Szállító
-Szállítók
-Szálloda
-Számadó
-Szánkó
-Szánthó Géza
-Szántó
-Szántó Kovács
-Szántó Kovács J.
-Szántó Kovács János
-Szántó László
-Szántódi
-Szántódpuszta
-Szántóföld
-Szántóhalom
-Szántói
-Száraz
-Szárazi Ferenc
-Szárazmalom
-Száraznád
-Szárcsa
-Szárhalmi
-Szárhegy
-Szári
-Szárító
-Szárító üzem
-Szárkút
-Szárny
-Szárnyas
-Szárnyaskerék
-Szársomlyó
-Szárszói
-Szász
-Szász Károly
-Szászberek-alsó
-Szászkút
-Szásztelek
-Szásztelek major
-Szászvári
-Szászváros
-Szászvölgy
-Szátoki
-Száva
-Szávary
-Szávay Gyula
-Százados
-Százház
-Százhold
-Százszorszép
-Szabács
+SvÃ¡bhegy
+SvÃ¡jci
+SzÃ¡dellÅ‘i
+SzÃ¡delÅ‘
+SzÃ¡ka
+SzÃ¡ki
+SzÃ¡le JÃ¡nos
+SzÃ¡lfa
+SzÃ¡llÃ¡s
+SzÃ¡llÃ¡sfÃ¶ld
+SzÃ¡llÃ¡si
+SzÃ¡llÃ¡skert
+SzÃ¡llÃ¡skertek
+SzÃ¡llÃ¡sok
+SzÃ¡llÃ¡spuszta
+SzÃ¡llÃ­tÃ³
+SzÃ¡llÃ­tÃ³k
+SzÃ¡lloda
+SzÃ¡madÃ³
+SzÃ¡nkÃ³
+SzÃ¡nthÃ³ GÃ©za
+SzÃ¡ntÃ³
+SzÃ¡ntÃ³ KovÃ¡cs
+SzÃ¡ntÃ³ KovÃ¡cs J.
+SzÃ¡ntÃ³ KovÃ¡cs JÃ¡nos
+SzÃ¡ntÃ³ LÃ¡szlÃ³
+SzÃ¡ntÃ³di
+SzÃ¡ntÃ³dpuszta
+SzÃ¡ntÃ³fÃ¶ld
+SzÃ¡ntÃ³halom
+SzÃ¡ntÃ³i
+SzÃ¡raz
+SzÃ¡razi Ferenc
+SzÃ¡razmalom
+SzÃ¡raznÃ¡d
+SzÃ¡rcsa
+SzÃ¡rhalmi
+SzÃ¡rhegy
+SzÃ¡ri
+SzÃ¡rÃ­tÃ³
+SzÃ¡rÃ­tÃ³ Ã¼zem
+SzÃ¡rkÃºt
+SzÃ¡rny
+SzÃ¡rnyas
+SzÃ¡rnyaskerÃ©k
+SzÃ¡rsomlyÃ³
+SzÃ¡rszÃ³i
+SzÃ¡sz
+SzÃ¡sz KÃ¡roly
+SzÃ¡szberek-alsÃ³
+SzÃ¡szkÃºt
+SzÃ¡sztelek
+SzÃ¡sztelek major
+SzÃ¡szvÃ¡ri
+SzÃ¡szvÃ¡ros
+SzÃ¡szvÃ¶lgy
+SzÃ¡toki
+SzÃ¡va
+SzÃ¡vary
+SzÃ¡vay Gyula
+SzÃ¡zados
+SzÃ¡zhÃ¡z
+SzÃ¡zhold
+SzÃ¡zszorszÃ©p
+SzabÃ¡cs
 Szabad
-Szabad sajtó
-Szabadföld
-Szabadházi
-Szabadhajdú
+Szabad sajtÃ³
+SzabadfÃ¶ld
+SzabadhÃ¡zi
+SzabadhajdÃº
 Szabadharcosok
-Szabadhatár
+SzabadhatÃ¡r
 Szabadhegy
 Szabadi
-Szabadidõközpont
+SzabadidÅ‘kÃ¶zpont
 Szabadka
 Szabadkai
-Szabadkikötõ
-Szabadnép
-Szabadrét
-Szabadrév
-Szabadság
-Szabadság domb
-Szabadság téri
-Szabadságbokor
-Szabadságharc
-Szabadságharcos
-Szabadságharcosok
-Szabadsághegy
-Szabadságpuszta
-Szabadsajtó
+SzabadkikÃ¶tÅ‘
+SzabadnÃ©p
+SzabadrÃ©t
+SzabadrÃ©v
+SzabadsÃ¡g
+SzabadsÃ¡g domb
+SzabadsÃ¡g tÃ©ri
+SzabadsÃ¡gbokor
+SzabadsÃ¡gharc
+SzabadsÃ¡gharcos
+SzabadsÃ¡gharcosok
+SzabadsÃ¡ghegy
+SzabadsÃ¡gpuszta
+SzabadsajtÃ³
 Szabadstrand
-Szabadszállási
-Szabadszó
+SzabadszÃ¡llÃ¡si
+SzabadszÃ³
 Szabatonpuszta
 Szabina
 Szablya
-Szabó
-Szabó-hegy
-Szabó Antal
-Szabó Dezsõ
-Szabó Endre
-Szabó Ervin
-Szabó Erzsébet
-Szabó Ferenc
-Szabó Gábor
-Szabó Gáspár
-Szabó Gyula
-Szabó Ilonka
-Szabó Imre
-Szabó István
-Szabó János
-Szabó József
-Szabó Kálmán
-Szabó Károly
-Szabó László
-Szabó Lajos
-Szabó Lõrinc
-Szabó Mátyás
-Szabó Miklós
-Szabó Pál
-Szabó Sándor
-Szabó Sebestyén
-Szabó Zoltán
-Szabó püspök
-Szabó rektor
-Szabóky Rezsõ
-Szabótiszta
+SzabÃ³
+SzabÃ³-hegy
+SzabÃ³ Antal
+SzabÃ³ DezsÅ‘
+SzabÃ³ Endre
+SzabÃ³ Ervin
+SzabÃ³ ErzsÃ©bet
+SzabÃ³ Ferenc
+SzabÃ³ GÃ¡bor
+SzabÃ³ GÃ¡spÃ¡r
+SzabÃ³ Gyula
+SzabÃ³ Ilonka
+SzabÃ³ Imre
+SzabÃ³ IstvÃ¡n
+SzabÃ³ JÃ¡nos
+SzabÃ³ JÃ³zsef
+SzabÃ³ KÃ¡lmÃ¡n
+SzabÃ³ KÃ¡roly
+SzabÃ³ LÃ¡szlÃ³
+SzabÃ³ Lajos
+SzabÃ³ LÅ‘rinc
+SzabÃ³ MÃ¡tyÃ¡s
+SzabÃ³ MiklÃ³s
+SzabÃ³ PÃ¡l
+SzabÃ³ SÃ¡ndor
+SzabÃ³ SebestyÃ©n
+SzabÃ³ ZoltÃ¡n
+SzabÃ³ pÃ¼spÃ¶k
+SzabÃ³ rektor
+SzabÃ³ky RezsÅ‘
+SzabÃ³tiszta
 Szabolcs
-Szabolcs vezér
-Szabolcsbákai
+Szabolcs vezÃ©r
+SzabolcsbÃ¡kai
 Szabolcsi
 Szabolcsi Bence
-Szabolcsi építõk
+Szabolcsi Ã©pÃ­tÅ‘k
 Szabolcska
-Szabolcska Mihály
-Szabolcsvezér
+Szabolcska MihÃ¡ly
+SzabolcsvezÃ©r
 Szacsvai
 Szacsvai Imre
 Szacsvay
 Szacsvay Imre
 Szadity
 Szadova
-Szaicz Leó
-Szajáni
-Szajkó
+Szaicz LeÃ³
+SzajÃ¡ni
+SzajkÃ³
 Szajol
 Szajor
-Szakács
-Szakáldi
-Szakállas
-Szakály Mátyás
-Szakály testvérek
-Szakadék
-Szakajtó
-Szakajtós
+SzakÃ¡cs
+SzakÃ¡ldi
+SzakÃ¡llas
+SzakÃ¡ly MÃ¡tyÃ¡s
+SzakÃ¡ly testvÃ©rek
+SzakadÃ©k
+SzakajtÃ³
+SzakajtÃ³s
 Szakiskola
-Szakmáry Károly
+SzakmÃ¡ry KÃ¡roly
 Szakolca
 Szakolcai
 Szakoly
 Szakolyi
 Szakolykert
 Szala
-Szalánci
-Szalárdi Mór
+SzalÃ¡nci
+SzalÃ¡rdi MÃ³r
 Szalacsi-tag
-Szalafõ
+SzalafÅ‘
 Szalag
-Szalai Rozália
+Szalai RozÃ¡lia
 Szalajka
-Szalajka völgy
+Szalajka vÃ¶lgy
 Szalamandra
 Szalapart
-Szalasztó
+SzalasztÃ³
 Szalay
-Szalay András
+Szalay AndrÃ¡s
 Szalay Fruzsina
 Szalay Gyula
-Szalay Sándor
-Szalézi
-Szalkai László
+Szalay SÃ¡ndor
+SzalÃ©zi
+Szalkai LÃ¡szlÃ³
 Szalkay
-Szalkay László
-Szalkszentmártoni
+Szalkay LÃ¡szlÃ³
+SzalkszentmÃ¡rtoni
 Szalma
-Szalmás
-Szalmás Piroska
-Szalmáskert
+SzalmÃ¡s
+SzalmÃ¡s Piroska
+SzalmÃ¡skert
 Szalmad
-Szalmarózsa
-Szalmaváros
-Szalók
-Szalóki
-Szalóksámson
-Szalónak
+SzalmarÃ³zsa
+SzalmavÃ¡ros
+SzalÃ³k
+SzalÃ³ki
+SzalÃ³ksÃ¡mson
+SzalÃ³nak
 Szalonka
 Szalonkales
 Szalonna
 Szalontai
-Szalontai György
-Szalvai Mihály
-Szalvay Mihály
+Szalontai GyÃ¶rgy
+Szalvai MihÃ¡ly
+Szalvay MihÃ¡ly
 Szalvia
-Szamárhegy
-Szamaránszky
-Szamóca
+SzamÃ¡rhegy
+SzamarÃ¡nszky
+SzamÃ³ca
 Szamorodni
 Szamos
-Szamosköz
-Szamosvég
-Szamovár
+SzamoskÃ¶z
+SzamosvÃ©g
+SzamovÃ¡r
 Szamuely
 Szamuely Tibor
-Szanatórium
-Szandai Sándor
+SzanatÃ³rium
+Szandai SÃ¡ndor
 Szanyi
-Szapári
-Szapáry
-Szapolyai János
+SzapÃ¡ri
+SzapÃ¡ry
+Szapolyai JÃ¡nos
 Szappanos
 Szarka
-Szarkás
-Szarka János
+SzarkÃ¡s
+Szarka JÃ¡nos
 Szarkahegy
-Szarkaláb
-Szarkavár
-Szarkavári
+SzarkalÃ¡b
+SzarkavÃ¡r
+SzarkavÃ¡ri
 Szarvas
-Szarvas Gábor
-Szarvas Sándor
-Szarvas csárda
+Szarvas GÃ¡bor
+Szarvas SÃ¡ndor
+Szarvas csÃ¡rda
 Szarvasd
 Szarvashalom
 Szarvashegy
 Szarvashegyi
 Szarvasi
-Szarvaskõi
+SzarvaskÅ‘i
 Szarvasmalom
 Szarvasmarha
 Szarvasmarha telep
-Szarvasmezõ
-Szarvkõi
-Szathmáry György
-Szathmáry Király György
-Szathmáry Király Pál
-Szatmár
-Szatmárhegy
-Szatmári
-Szatmárnémeti
+SzarvasmezÅ‘
+SzarvkÅ‘i
+SzathmÃ¡ry GyÃ¶rgy
+SzathmÃ¡ry KirÃ¡ly GyÃ¶rgy
+SzathmÃ¡ry KirÃ¡ly PÃ¡l
+SzatmÃ¡r
+SzatmÃ¡rhegy
+SzatmÃ¡ri
+SzatmÃ¡rnÃ©meti
 Szaturnusz
 Szatymazi
 Szauter
 Szavai
-Széchenyi
-Széchenyi-emlék
-Széchenyi-hegy
-Széchenyi Ferenc
-Széchenyi György
-Széchenyi Imre
-Széchenyi István
-Széchenyi Zsigmond
-Széchenyi hegy
-Széchy Dénes
-Széchy Mária
-Szécsénkei
-Szécsényi
-Szécsényi út
-Szécsi
-Széher
-Szék
-Székács
-Székács Elemér
-Székek
-Székeles
-Székely
-Székely András
-Székely Bertalan
-Székely Elek
-Székely György
-Székely Mihály
-Székely Mózes
-Székelyhíd
-Székelyi
-Székelykapu
-Székelyszabari
-Székelytelepi
-Székelyudvarhely
-Székelyudvarhelyi
-Székes
-Székesdûlõ
-Székesi
-Székeskert
-Székespart
-Székfûvirág
-Székhalom
-Székicsér
-Székipuszta
-Székpatak
-Széksósi
-Széktó
-Széktói
-Szél
-Széldomb
-Széles
-Szélescsapás
-Széleskúti
-Szélhegy
-Szélkerék
-Széll Judit
-Széll Kálmán
-Szélmalom
-Szélsõ
-Szélsõbokor
-Szélsõbokori
-Szélsõkopaszhegyi
-Szélvész
-Szén
-Széna
-Szénás
-Szénási
-Szénáskert
-Szénáspuszta
-Szénássy Mátyás
-Szénástelek
-Szénarét
-Szénatelep
-Szénbányászok
-Szénégetõ
-Szénfy Gusztáv
-Szénoltár
-Szénpályaudvar
-Szép
-Szép-völgyi
-Szép Ernõ
-Szép Gáspárné
-Szép Ilona
-Szép Ilonka
-Szép kilátás
-Szép kilátó
-Szépasszonyvölgy
-Széphalmi
-Széphalom
-Széphegy
-Széphegyi
-Szépjuhászné
-Szépkilátás
-Szépkilátó
-Széplak
-Széplaki
-Széptölgyes
-Szépvölgy
-Szépvölgyi
-Szérû
-Szérûk
-Szérûs
-Szérûskert
-Szérûskerti
-Szebb Élet
+SzÃ©chenyi
+SzÃ©chenyi-emlÃ©k
+SzÃ©chenyi-hegy
+SzÃ©chenyi Ferenc
+SzÃ©chenyi GyÃ¶rgy
+SzÃ©chenyi Imre
+SzÃ©chenyi IstvÃ¡n
+SzÃ©chenyi Zsigmond
+SzÃ©chenyi hegy
+SzÃ©chy DÃ©nes
+SzÃ©chy MÃ¡ria
+SzÃ©csÃ©nkei
+SzÃ©csÃ©nyi
+SzÃ©csÃ©nyi Ãºt
+SzÃ©csi
+SzÃ©her
+SzÃ©k
+SzÃ©kÃ¡cs
+SzÃ©kÃ¡cs ElemÃ©r
+SzÃ©kek
+SzÃ©keles
+SzÃ©kely
+SzÃ©kely AndrÃ¡s
+SzÃ©kely Bertalan
+SzÃ©kely Elek
+SzÃ©kely GyÃ¶rgy
+SzÃ©kely MihÃ¡ly
+SzÃ©kely MÃ³zes
+SzÃ©kelyhÃ­d
+SzÃ©kelyi
+SzÃ©kelykapu
+SzÃ©kelyszabari
+SzÃ©kelytelepi
+SzÃ©kelyudvarhely
+SzÃ©kelyudvarhelyi
+SzÃ©kes
+SzÃ©kesdÅ±lÅ‘
+SzÃ©kesi
+SzÃ©keskert
+SzÃ©kespart
+SzÃ©kfÅ±virÃ¡g
+SzÃ©khalom
+SzÃ©kicsÃ©r
+SzÃ©kipuszta
+SzÃ©kpatak
+SzÃ©ksÃ³si
+SzÃ©ktÃ³
+SzÃ©ktÃ³i
+SzÃ©l
+SzÃ©ldomb
+SzÃ©les
+SzÃ©lescsapÃ¡s
+SzÃ©leskÃºti
+SzÃ©lhegy
+SzÃ©lkerÃ©k
+SzÃ©ll Judit
+SzÃ©ll KÃ¡lmÃ¡n
+SzÃ©lmalom
+SzÃ©lsÅ‘
+SzÃ©lsÅ‘bokor
+SzÃ©lsÅ‘bokori
+SzÃ©lsÅ‘kopaszhegyi
+SzÃ©lvÃ©sz
+SzÃ©n
+SzÃ©na
+SzÃ©nÃ¡s
+SzÃ©nÃ¡si
+SzÃ©nÃ¡skert
+SzÃ©nÃ¡spuszta
+SzÃ©nÃ¡ssy MÃ¡tyÃ¡s
+SzÃ©nÃ¡stelek
+SzÃ©narÃ©t
+SzÃ©natelep
+SzÃ©nbÃ¡nyÃ¡szok
+SzÃ©nÃ©getÅ‘
+SzÃ©nfy GusztÃ¡v
+SzÃ©noltÃ¡r
+SzÃ©npÃ¡lyaudvar
+SzÃ©p
+SzÃ©p-vÃ¶lgyi
+SzÃ©p ErnÅ‘
+SzÃ©p GÃ¡spÃ¡rnÃ©
+SzÃ©p Ilona
+SzÃ©p Ilonka
+SzÃ©p kilÃ¡tÃ¡s
+SzÃ©p kilÃ¡tÃ³
+SzÃ©passzonyvÃ¶lgy
+SzÃ©phalmi
+SzÃ©phalom
+SzÃ©phegy
+SzÃ©phegyi
+SzÃ©pjuhÃ¡sznÃ©
+SzÃ©pkilÃ¡tÃ¡s
+SzÃ©pkilÃ¡tÃ³
+SzÃ©plak
+SzÃ©plaki
+SzÃ©ptÃ¶lgyes
+SzÃ©pvÃ¶lgy
+SzÃ©pvÃ¶lgyi
+SzÃ©rÅ±
+SzÃ©rÅ±k
+SzÃ©rÅ±s
+SzÃ©rÅ±skert
+SzÃ©rÅ±skerti
+Szebb Ã‰let
 Szebecse
 Szeben
 Szebeni
 Szecska
-Szecsõdi
-Szecsõdi Máté
+SzecsÅ‘di
+SzecsÅ‘di MÃ¡tÃ©
 Szeder
 Szederjes
-Szederkény
-Szederkényi
-Szederkényi Nándor
-Szedõ
+SzederkÃ©ny
+SzederkÃ©nyi
+SzederkÃ©nyi NÃ¡ndor
+SzedÅ‘
 Szedres
 Szedresi
-Szedreskerti lakónegyed
+Szedreskerti lakÃ³negyed
 Szeg
-Szegély
+SzegÃ©ly
 Szeged
-Szeged-Rókus
+Szeged-RÃ³kus
 Szegedi
 Szegedi Gergely
 Szegedi R.
-Szegedi Róza
-Szegedy Györgyné
-Szegedy Róza
+Szegedi RÃ³za
+Szegedy GyÃ¶rgynÃ©
+Szegedy RÃ³za
 Szeges
-Szegfû
-Szegfûmajor
+SzegfÅ±
+SzegfÅ±major
 Szeghalom
 Szeghegye
 Szegilongi
 Szeglet
-Szegõ
-Szegvári
-Szejkõ
-Szekér
+SzegÅ‘
+SzegvÃ¡ri
+SzejkÅ‘
+SzekÃ©r
 Szekerce
-Szekerész
+SzekerÃ©sz
 Szekeres
-Szekeres József
+Szekeres JÃ³zsef
 Szekeresbokor
 Szekeresi
-Szekfû
-Szekfû Gyula
-Szekrényhegyi
-Szekszárdi
-Szelényi
+SzekfÅ±
+SzekfÅ± Gyula
+SzekrÃ©nyhegyi
+SzekszÃ¡rdi
+SzelÃ©nyi
 Szelei
 Szelemen
 Szelence
 Szeles
 Szelesakna
 Szelesbokor
-Szelestey László
+Szelestey LÃ¡szlÃ³
 Szeleta
 Szelid
 Szelid 1.
@@ -13025,169 +13025,169 @@ Szelid 6.
 Szelid 7.
 Szelid 8.
 Szelid 9.
-Szelid Fürt
-Szelid Füves
-Szelid Híd
-Szelid Kastély
-Szelid Nádas
-Szelid Tópart
+Szelid FÃ¼rt
+Szelid FÃ¼ves
+Szelid HÃ­d
+Szelid KastÃ©ly
+Szelid NÃ¡das
+Szelid TÃ³part
 Szelim
 Szelistye
-Szellõ
-Szellõháti
-Szellõrózsa
-Szellõs
-Szemán István
+SzellÅ‘
+SzellÅ‘hÃ¡ti
+SzellÅ‘rÃ³zsa
+SzellÅ‘s
+SzemÃ¡n IstvÃ¡n
 Szemafor
 Szemcsepuszta
 Szemenyei
 Szemere
 Szemere Bertalan
-Szemere Miklós
+Szemere MiklÃ³s
 Szemerei
 Szemerekert
 Szemes
 Szemesi
-Szemlõ
-Szemlõhegy
-Szemõk
-Szenczi Molnár Albert
-Szende Béla
-Szende Pál
+SzemlÅ‘
+SzemlÅ‘hegy
+SzemÅ‘k
+Szenczi MolnÃ¡r Albert
+Szende BÃ©la
+Szende PÃ¡l
 Szendi
 Szendpuszta
-Szendrei János
+Szendrei JÃ¡nos
 Szendrey
-Szendrey Júlia
+Szendrey JÃºlia
 Szendrey telep
-Szendrõ
-Szendrõi
+SzendrÅ‘
+SzendrÅ‘i
 Szenice
 Szenna
-Szennyvíztelepi
-Szennyvíztisztító
-Szent-András
-Szent-Györgyi Albert
+SzennyvÃ­ztelepi
+SzennyvÃ­ztisztÃ­tÃ³
+Szent-AndrÃ¡s
+Szent-GyÃ¶rgyi Albert
 Szent Adalbert
-Szent András
+Szent AndrÃ¡s
 Szent Anna
 Szent Antal
-Szent Balázs-hegy
+Szent BalÃ¡zs-hegy
 Szent Benedek
-Szent Borbála
-Szent Donát
+Szent BorbÃ¡la
+Szent DonÃ¡t
 Szent Endre
-Szent Erzsébet
+Szent ErzsÃ©bet
 Szent Ferenc
-Szent Flórián
-Szent Gellért
-Szent György
+Szent FlÃ³riÃ¡n
+Szent GellÃ©rt
+Szent GyÃ¶rgy
 Szent I.
 Szent Imre
 Szent Imre herceg
-Szent István
-Szent István király
-Szent István téri
-Szent István völgyi
-Szent Iván
-Szent János
+Szent IstvÃ¡n
+Szent IstvÃ¡n kirÃ¡ly
+Szent IstvÃ¡n tÃ©ri
+Szent IstvÃ¡n vÃ¶lgyi
+Szent IvÃ¡n
+Szent JÃ¡nos
 Szent Jakab apostol
-Szent József
+Szent JÃ³zsef
 Szent Katalin
 Szent Kelemen
-Szent Klára
+Szent KlÃ¡ra
 Szent Korona
-Szent Kristóf
-Szent László
-Szent László király
+Szent KristÃ³f
+Szent LÃ¡szlÃ³
+Szent LÃ¡szlÃ³ kirÃ¡ly
 Szent Lajos
-Szent Lénárd
-Szent Lukács
+Szent LÃ©nÃ¡rd
+Szent LukÃ¡cs
 Szent M.
-Szent Márton
+Szent MÃ¡rton
 Szent Margit
-Szent Mihály
-Szent Mihály Domb
-Szent Miklós
-Szent Mór
-Szent Orbán
-Szent Rókus
-Szent Sebestyén
-Szent Tamás
+Szent MihÃ¡ly
+Szent MihÃ¡ly Domb
+Szent MiklÃ³s
+Szent MÃ³r
+Szent OrbÃ¡n
+Szent RÃ³kus
+Szent SebestyÃ©n
+Szent TamÃ¡s
 Szent Vendel
 Szent Vid
 Szent Vince
 Szentai
-Szentandrási
-Szentannai Sámuel
+SzentandrÃ¡si
+Szentannai SÃ¡muel
 Szentannapuszta
 Szentbenedek-hegyi
-Szentdomján
+SzentdomjÃ¡n
 Szente
-Szente Bálint
-Szentegyház
+Szente BÃ¡lint
+SzentegyhÃ¡z
 Szentendrei
-Szenterzsébethegy
+SzenterzsÃ©bethegy
 Szentes
-Szentes János
+Szentes JÃ¡nos
 Szentesi
 Szentetornyai
-Szentgál
-Szentgálszõlõhegy
-Szentgotthárd
-Szentgyörgy
-Szentgyörgy hegy
-Szentgyörgyfalvi
-Szentgyörgyhegy
-Szentgyörgyi
-Szentgyörgypuszta
-Szentgyörgyvári
-Szentháromság
+SzentgÃ¡l
+SzentgÃ¡lszÅ‘lÅ‘hegy
+SzentgotthÃ¡rd
+SzentgyÃ¶rgy
+SzentgyÃ¶rgy hegy
+SzentgyÃ¶rgyfalvi
+SzentgyÃ¶rgyhegy
+SzentgyÃ¶rgyi
+SzentgyÃ¶rgypuszta
+SzentgyÃ¶rgyvÃ¡ri
+SzenthÃ¡romsÃ¡g
 Szentimrey
-Szentistván
-Szentistváni
-Szentistványi
-Szentiváni
-Szentjakabi szõlõhegy
+SzentistvÃ¡n
+SzentistvÃ¡ni
+SzentistvÃ¡nyi
+SzentivÃ¡ni
+Szentjakabi szÅ‘lÅ‘hegy
 Szentkereszthegy
-Szentkirály
-Szentkirály felsõ
-Szentkirályi
+SzentkirÃ¡ly
+SzentkirÃ¡ly felsÅ‘
+SzentkirÃ¡lyi
 Szentkorona
-Szentkút
-Szentkútpuszta
-Szentlászlói
-Szentlélek
-Szentléránt
-Szentlõrinci
-Szentmártoni
-Szentmártonpuszta
-Szentmihályfa
-Szentmihályfalvi
-Szentmihályhegy
-Szentmihályi
-Szentmihályteleki
-Szentmiklós
-Szentmiklósi
-Szentpál
-Szentpáli
-Szentpéteri
-Szentpétery
+SzentkÃºt
+SzentkÃºtpuszta
+SzentlÃ¡szlÃ³i
+SzentlÃ©lek
+SzentlÃ©rÃ¡nt
+SzentlÅ‘rinci
+SzentmÃ¡rtoni
+SzentmÃ¡rtonpuszta
+SzentmihÃ¡lyfa
+SzentmihÃ¡lyfalvi
+SzentmihÃ¡lyhegy
+SzentmihÃ¡lyi
+SzentmihÃ¡lyteleki
+SzentmiklÃ³s
+SzentmiklÃ³si
+SzentpÃ¡l
+SzentpÃ¡li
+SzentpÃ©teri
+SzentpÃ©tery
 Szentsimon
-Szenttamás
-Szenttamáspuszta
-Szentvér
+SzenttamÃ¡s
+SzenttamÃ¡spuszta
+SzentvÃ©r
 Szepes
-Szepes Sárga
+Szepes SÃ¡rga
 Szepesi
-Szepesség
-Szepességi
+SzepessÃ©g
+SzepessÃ©gi
 Szepessi
-Szepessy Ignác
-Szepessy Pál
+Szepessy IgnÃ¡c
+Szepessy PÃ¡l
 Szepetneki
 Szepezdi
-Szepsi László
+Szepsi LÃ¡szlÃ³
 Szeptember
 Szeptember 6.
 Szerb
@@ -13195,69 +13195,69 @@ Szerb Antal
 Szerbtemplom
 Szerdahely
 Szerdahelyi
-Szerdahelyi Kálmán
-Szerémi
-Szerén
-Szeréna
-Szerény
+Szerdahelyi KÃ¡lmÃ¡n
+SzerÃ©mi
+SzerÃ©n
+SzerÃ©na
+SzerÃ©ny
 Szerecz Imre
 Szered
 Szeredi
 Szerelem
-Szerelem Alfréd
-Szerelmey Miklós
-Szerelõ
-Szerelõmûhely
+Szerelem AlfrÃ©d
+Szerelmey MiklÃ³s
+SzerelÅ‘
+SzerelÅ‘mÅ±hely
 Szeremlei
 Szerencs
 Szerencse
 Szerencsi
 Szeretet
-Szerfás
-Szerház
-Szerszámgépgyár
-Szertár
-Szertári
-Szervét Mihály
+SzerfÃ¡s
+SzerhÃ¡z
+SzerszÃ¡mgÃ©pgyÃ¡r
+SzertÃ¡r
+SzertÃ¡ri
+SzervÃ©t MihÃ¡ly
 Szervezet
-Szervíz
-Szervián
+SzervÃ­z
+SzerviÃ¡n
 Szervita
 Szerviz
-Szeszfõzde
-Szeszgyár
-Szíjgyártó
-Szík
-Színes
-Színház
-Színjátszó
-Szív
-Szívhegyi
-Szívós
-Szívvirág
+SzeszfÅ‘zde
+SzeszgyÃ¡r
+SzÃ­jgyÃ¡rtÃ³
+SzÃ­k
+SzÃ­nes
+SzÃ­nhÃ¡z
+SzÃ­njÃ¡tszÃ³
+SzÃ­v
+SzÃ­vhegyi
+SzÃ­vÃ³s
+SzÃ­vvirÃ¡g
 Sziebert
-Szieberth Róbert
+Szieberth RÃ³bert
 Sziebertpuszta
 Sziget
-Sziget csárda
+Sziget csÃ¡rda
 Szigetbecse
-Szigetcsárda
-Szigetcsép
-Szigetdûlõ belsõ
-Szigetelõ
-Szigetföldi
-Szigetfõ
+SzigetcsÃ¡rda
+SzigetcsÃ©p
+SzigetdÅ±lÅ‘ belsÅ‘
+SzigetelÅ‘
+SzigetfÃ¶ldi
+SzigetfÅ‘
 Szigethalom
 Szigethy Attila
-Szigethy Mihály
+Szigethy MihÃ¡ly
 Szigeti
-Szigeti József
-Szigeti Kálmán
-Szigetköz
+Szigeti JÃ³zsef
+Szigeti KÃ¡lmÃ¡n
+SzigetkÃ¶z
 Szigetsor
-Szigetújfalu
-Szigetvár
-Szigetvári
+SzigetÃºjfalu
+SzigetvÃ¡r
+SzigetvÃ¡ri
 Szigliget
 Szigligeti
 Szigligeti Ede
@@ -13267,469 +13267,469 @@ Szihalom
 Szijj
 Szik
 Szikes
-Szikgát
+SzikgÃ¡t
 Szikigyakor
 Szikla
-Sziklás
-Sziklás tetõ
+SziklÃ¡s
+SziklÃ¡s tetÅ‘
 Sziklai
-Sziklai János
-Sziklai Sándor
+Sziklai JÃ¡nos
+Sziklai SÃ¡ndor
 Szikoldal
 Szikra
-Szikratávíró
-Sziksós strand
-Sziksósfürdõ
-Sziksósi üdülõ
+SzikratÃ¡vÃ­rÃ³
+SziksÃ³s strand
+SziksÃ³sfÃ¼rdÅ‘
+SziksÃ³si Ã¼dÃ¼lÅ‘
 Szikszai
-Szikszó
+SzikszÃ³
 Szikuti
-Szikvíz
+SzikvÃ­z
 Szil
-Szilágyi
-Szilágyi Dezsõ
-Szilágyi Erzsébet
-Szilágyi János
-Szilágyi Károly
-Szilágyi Mihály
-Szilágypuszta
-Szilágyság
-Szilágysomlyó
-Szilánk
-Szilárd
-Szilárd Gyula
-Szilárdfy Jakab
-Szilárdi Mór
+SzilÃ¡gyi
+SzilÃ¡gyi DezsÅ‘
+SzilÃ¡gyi ErzsÃ©bet
+SzilÃ¡gyi JÃ¡nos
+SzilÃ¡gyi KÃ¡roly
+SzilÃ¡gyi MihÃ¡ly
+SzilÃ¡gypuszta
+SzilÃ¡gysÃ¡g
+SzilÃ¡gysomlyÃ³
+SzilÃ¡nk
+SzilÃ¡rd
+SzilÃ¡rd Gyula
+SzilÃ¡rdfy Jakab
+SzilÃ¡rdi MÃ³r
 Szilaj
 Szilapos
 Szilas
 Szilasliget
 Szilaspatak
 Szilassy
-Szilassy János
+Szilassy JÃ¡nos
 Szilbokor
-Szilegyházi
-Szilerdõ
+SzilegyhÃ¡zi
+SzilerdÅ‘
 Szilfa
-Szilfákalja
-Szilfás
+SzilfÃ¡kalja
+SzilfÃ¡s
 Szili
-Szilikát domb
+SzilikÃ¡t domb
 Szilke
-Szillér
-Szilléri
+SzillÃ©r
+SzillÃ©ri
 Szilos
 Szilva
-Szilvádi
-Szilváni
-Szilvás
-Szilvási
-Szilváskerti
-Szilvásújfalusi
-Szilvásváradi
-Szilvásvölgy
+SzilvÃ¡di
+SzilvÃ¡ni
+SzilvÃ¡s
+SzilvÃ¡si
+SzilvÃ¡skerti
+SzilvÃ¡sÃºjfalusi
+SzilvÃ¡svÃ¡radi
+SzilvÃ¡svÃ¶lgy
 Szilvafa
 Szilvapatak
-Szily János
-Szily Károly
-Szily Pál
+Szily JÃ¡nos
+Szily KÃ¡roly
+Szily PÃ¡l
 Szimferopol
-Szindbád
+SzindbÃ¡d
 Szines
 Szinva
 Szinyei
 Szinyei Gerzson
 Szinyei Merse
-Szinyei Merse Pál
-Szippankó
+Szinyei Merse PÃ¡l
+SzippankÃ³
 Szirmai
 Szirmay
 Szirmay Antal
 Szirom
-Szirom János
+Szirom JÃ¡nos
 Szirt
 Szirtes
-Szitás
-Szitásdomb
+SzitÃ¡s
+SzitÃ¡sdomb
 Szitahegyi
-Szitakötõ
-Szitaközi
+SzitakÃ¶tÅ‘
+SzitakÃ¶zi
 Szitnya
 Szittya
-Szivárvány
+SzivÃ¡rvÃ¡ny
 Szivacs
-Szivattyú
-Szivattyú telep
-Szivattyútelep
+SzivattyÃº
+SzivattyÃº telep
+SzivattyÃºtelep
 Szkala Bertalan
 Szkela
-Szlávy
-Szlacsányi Ferenc
+SzlÃ¡vy
+SzlacsÃ¡nyi Ferenc
 Szlatina
 Szlatinai
 Szlemenics
-Szlovák
-Szluha György
+SzlovÃ¡k
+Szluha GyÃ¶rgy
 Szluhapuszta
 Szmolnyica
-Szódaház
-Szófia
-Szóládi
-Szórópuszta
-Szózat
-Szöcske
-Szöcskedûlõ
-Szög
-Szögedi
-Szögvég
-Szökõ
-Szökõár
-Szöllõgyöp
-Szöllõsi
-Szömörce
-Szörény
-Szörényi
-Szöri
-Szövet
-Szövetentanya
-Szövetkezet
-Szövetkezetek
-Szövetkezeti
-Szövetség
-Szövõ
-Szövõgyár
-Szövõszék
-Szõcei
-Szõcs Áron
-Szõcs Bertalan
-Szõcsénypuszta
-Szõdemeter
-Szõdliget
-Szõgye
-Szõgyéni
-Szõgyéni Ernõ
-Szõke
-Szõke L.
-Szõkeföldi
-Szõkehalom
-Szõkepuszta
-Szõlész
-Szõlészet
-Szõllõkalja
-Szõllõsi
-Szõllõskert
-Szõllõsvölgy
-Szõlõ
-Szõlõ-hegy
-Szõlõcske
-Szõlõdomb
-Szõlõfürt
-Szõlõhátuljadûlõ
-Szõlõhegy
-Szõlõhegyi
-Szõlõkalja
-Szõlõkert
-Szõlõmûves
-Szõlõs
-Szõlõs-sziget
-Szõlõsi
-Szõlõskert
-Szõlõskertek
-Szõlõsor
-Szõlõsvölgy
-Szõlõtelep
-Szõlõvirág
-Szõlõzug
-Szõnyeg
-Szõnyi
-Szõnyi István
-Szõnyi Márton
-Szõnyi Ottó
-Szõreg
-Szõregi
-Szõrösparcella
+SzÃ³dahÃ¡z
+SzÃ³fia
+SzÃ³lÃ¡di
+SzÃ³rÃ³puszta
+SzÃ³zat
+SzÃ¶cske
+SzÃ¶cskedÅ±lÅ‘
+SzÃ¶g
+SzÃ¶gedi
+SzÃ¶gvÃ©g
+SzÃ¶kÅ‘
+SzÃ¶kÅ‘Ã¡r
+SzÃ¶llÅ‘gyÃ¶p
+SzÃ¶llÅ‘si
+SzÃ¶mÃ¶rce
+SzÃ¶rÃ©ny
+SzÃ¶rÃ©nyi
+SzÃ¶ri
+SzÃ¶vet
+SzÃ¶vetentanya
+SzÃ¶vetkezet
+SzÃ¶vetkezetek
+SzÃ¶vetkezeti
+SzÃ¶vetsÃ©g
+SzÃ¶vÅ‘
+SzÃ¶vÅ‘gyÃ¡r
+SzÃ¶vÅ‘szÃ©k
+SzÅ‘cei
+SzÅ‘cs Ãron
+SzÅ‘cs Bertalan
+SzÅ‘csÃ©nypuszta
+SzÅ‘demeter
+SzÅ‘dliget
+SzÅ‘gye
+SzÅ‘gyÃ©ni
+SzÅ‘gyÃ©ni ErnÅ‘
+SzÅ‘ke
+SzÅ‘ke L.
+SzÅ‘kefÃ¶ldi
+SzÅ‘kehalom
+SzÅ‘kepuszta
+SzÅ‘lÃ©sz
+SzÅ‘lÃ©szet
+SzÅ‘llÅ‘kalja
+SzÅ‘llÅ‘si
+SzÅ‘llÅ‘skert
+SzÅ‘llÅ‘svÃ¶lgy
+SzÅ‘lÅ‘
+SzÅ‘lÅ‘-hegy
+SzÅ‘lÅ‘cske
+SzÅ‘lÅ‘domb
+SzÅ‘lÅ‘fÃ¼rt
+SzÅ‘lÅ‘hÃ¡tuljadÅ±lÅ‘
+SzÅ‘lÅ‘hegy
+SzÅ‘lÅ‘hegyi
+SzÅ‘lÅ‘kalja
+SzÅ‘lÅ‘kert
+SzÅ‘lÅ‘mÅ±ves
+SzÅ‘lÅ‘s
+SzÅ‘lÅ‘s-sziget
+SzÅ‘lÅ‘si
+SzÅ‘lÅ‘skert
+SzÅ‘lÅ‘skertek
+SzÅ‘lÅ‘sor
+SzÅ‘lÅ‘svÃ¶lgy
+SzÅ‘lÅ‘telep
+SzÅ‘lÅ‘virÃ¡g
+SzÅ‘lÅ‘zug
+SzÅ‘nyeg
+SzÅ‘nyi
+SzÅ‘nyi IstvÃ¡n
+SzÅ‘nyi MÃ¡rton
+SzÅ‘nyi OttÃ³
+SzÅ‘reg
+SzÅ‘regi
+SzÅ‘rÃ¶sparcella
 Szobi
 Szoboszlai
-Szoboszlói
-Szoboszlói útfél
-Szobránc
-Szobrász
-Szociális Otthon
+SzoboszlÃ³i
+SzoboszlÃ³i ÃºtfÃ©l
+SzobrÃ¡nc
+SzobrÃ¡sz
+SzociÃ¡lis Otthon
 Szofrics P.
-Szokolay Örs
+Szokolay Ã–rs
 Szokoly
-Szolártsik Sándor
-Szolgálatató ház
-Szolgálati lakások
-Szolgáltató
-Szolgáltatóház
-Szolnok ispán
+SzolÃ¡rtsik SÃ¡ndor
+SzolgÃ¡latatÃ³ hÃ¡z
+SzolgÃ¡lati lakÃ¡sok
+SzolgÃ¡ltatÃ³
+SzolgÃ¡ltatÃ³hÃ¡z
+Szolnok ispÃ¡n
 Szolnoki
 Szolnoki-hegy
 Szolyva
 Szombathely
 Szombathelyi
-Szombathy János
-Szombati István
-Szomódi
-Szomolány
+Szombathy JÃ¡nos
+Szombati IstvÃ¡n
+SzomÃ³di
+SzomolÃ¡ny
 Szomolnok
 Szomolya
 Szomolyai
 Szomor
-Szomorák
+SzomorÃ¡k
 Szomori
-Szompács
-Szomszéd
+SzompÃ¡cs
+SzomszÃ©d
 Szondi
-Szondi György
+Szondi GyÃ¶rgy
 Szondy
-Szondy György
-Szondy Vezér
-Szontágh Pál
+Szondy GyÃ¶rgy
+Szondy VezÃ©r
+SzontÃ¡gh PÃ¡l
 Szorgalom
 Szoros
 Szorosi
-Szoták
-Szoták Pál
+SzotÃ¡k
+SzotÃ¡k PÃ¡l
 Szotyori
-Szováta
-Szovátai
-Szováti
-Szováti útfél
+SzovÃ¡ta
+SzovÃ¡tai
+SzovÃ¡ti
+SzovÃ¡ti ÃºtfÃ©l
 Szovjet
-Szrogh Sámuel
-Sztárai Mihály
+Szrogh SÃ¡muel
+SztÃ¡rai MihÃ¡ly
 Sztahanov
 Sztaravodai
 Sztelim
 Sztelin
-Sztráda
-Sztrájk
+SztrÃ¡da
+SztrÃ¡jk
 Sztravinszkij
 Sztregova
-Sztriha Kálmán
+Sztriha KÃ¡lmÃ¡n
 Sztugyenka
-Szúcsi
-Szúnyog
-Szúnyogpuszta
-Szúnyogsziget
-Szücs Menyhért
-Szügyi
-Szülõföld
-Szüret
-Szürkebarát
-Szürkebegy
-Szûcs
-Szûcs Gyula
-Szûcs István
-Szûcs J.
-Szûcs Menyhért
-Szûcs Mihály
-Szûcs Sámuel
-Szûcs Sándor
-Szûcsmajor
-Szûgyi
-Szûk
-Szûr
-Szûr-Szabó
-Szûrcsapó
-Szûrszabó
-Szûz
-Szugló
-Szuglói Körvasút
+SzÃºcsi
+SzÃºnyog
+SzÃºnyogpuszta
+SzÃºnyogsziget
+SzÃ¼cs MenyhÃ©rt
+SzÃ¼gyi
+SzÃ¼lÅ‘fÃ¶ld
+SzÃ¼ret
+SzÃ¼rkebarÃ¡t
+SzÃ¼rkebegy
+SzÅ±cs
+SzÅ±cs Gyula
+SzÅ±cs IstvÃ¡n
+SzÅ±cs J.
+SzÅ±cs MenyhÃ©rt
+SzÅ±cs MihÃ¡ly
+SzÅ±cs SÃ¡muel
+SzÅ±cs SÃ¡ndor
+SzÅ±csmajor
+SzÅ±gyi
+SzÅ±k
+SzÅ±r
+SzÅ±r-SzabÃ³
+SzÅ±rcsapÃ³
+SzÅ±rszabÃ³
+SzÅ±z
+SzuglÃ³
+SzuglÃ³i KÃ¶rvasÃºt
 Szuhaalja
-Szuhai Mátyás
-Szuhaköz
+Szuhai MÃ¡tyÃ¡s
+SzuhakÃ¶z
 Szuhogyi
-Szulimán
-Szultán
-Szultándomb
+SzulimÃ¡n
+SzultÃ¡n
+SzultÃ¡ndomb
 Szunyog
 Szunyogh
-Szunyogháza
+SzunyoghÃ¡za
 Szunyogsziget
-Szunyogvár
+SzunyogvÃ¡r
 Szupatak
 Szurda
 Szurdok
 Szurmai
 Szurokhegy
 Szurony
-Szvétecz Ernõ
-Szvorényi
+SzvÃ©tecz ErnÅ‘
+SzvorÃ©nyi
 TVK Ipartelep
 TVM
-Tábla
-Táblás
-Táblaház
-Tábor
-Táborhegy
-Táborhegyi
-Táborhegyi szõlõk
-Táborhely
-Tábornok
-Tábortûz
-Táborvölgy
-Tájék
-Tájház
-Tájház udvar
-Tájkép
-Tákó
-Tálas
-Tállya
-Tállyai
-Tálpatak
-Táltos
-Táncos
-Táncoslapi
-Táncsics
-Táncsics-tag
-Táncsics Mihály
-Táncsics bokor
-Táncsicstelep
-Tányérlapos Zártkert
-Tápai
-Tápéi kiskert
-Tápió
-Tápióbicske
-Tápiógyörgye
-Tápiógyörgyei
-Tápiósüly
-Tápiószecsõ
-Tápiószele
-Táplánypuszta
-Tárcsa
-Tárcsás
-Tárház
-Tárkányi
-Tárkányi Béla
-Tárkony
-Tárna
-Tárnics
-Tárnok
-Tárnoki
-Tárnokpuszta
-Táró
-Tárogató
-Tároló
-Tározó õrház
-Társ
-Társasház
-Táska
-Táskai
-Táti
-Táti Ipartelep
-Tátika
-Tátompuszta
-Tátra
-Tátrafüred
-Tátrai
-Tátraszirt
-Távcsõ
-Távíró
-Távirda
-Távol
-Távvezeték
-Tázerdei
-Tázerdõ
-Taál Bálint
-Tabán
-Tabáni
-Tabód
-Tabódszerdahely
+TÃ¡bla
+TÃ¡blÃ¡s
+TÃ¡blahÃ¡z
+TÃ¡bor
+TÃ¡borhegy
+TÃ¡borhegyi
+TÃ¡borhegyi szÅ‘lÅ‘k
+TÃ¡borhely
+TÃ¡bornok
+TÃ¡bortÅ±z
+TÃ¡borvÃ¶lgy
+TÃ¡jÃ©k
+TÃ¡jhÃ¡z
+TÃ¡jhÃ¡z udvar
+TÃ¡jkÃ©p
+TÃ¡kÃ³
+TÃ¡las
+TÃ¡llya
+TÃ¡llyai
+TÃ¡lpatak
+TÃ¡ltos
+TÃ¡ncos
+TÃ¡ncoslapi
+TÃ¡ncsics
+TÃ¡ncsics-tag
+TÃ¡ncsics MihÃ¡ly
+TÃ¡ncsics bokor
+TÃ¡ncsicstelep
+TÃ¡nyÃ©rlapos ZÃ¡rtkert
+TÃ¡pai
+TÃ¡pÃ©i kiskert
+TÃ¡piÃ³
+TÃ¡piÃ³bicske
+TÃ¡piÃ³gyÃ¶rgye
+TÃ¡piÃ³gyÃ¶rgyei
+TÃ¡piÃ³sÃ¼ly
+TÃ¡piÃ³szecsÅ‘
+TÃ¡piÃ³szele
+TÃ¡plÃ¡nypuszta
+TÃ¡rcsa
+TÃ¡rcsÃ¡s
+TÃ¡rhÃ¡z
+TÃ¡rkÃ¡nyi
+TÃ¡rkÃ¡nyi BÃ©la
+TÃ¡rkony
+TÃ¡rna
+TÃ¡rnics
+TÃ¡rnok
+TÃ¡rnoki
+TÃ¡rnokpuszta
+TÃ¡rÃ³
+TÃ¡rogatÃ³
+TÃ¡rolÃ³
+TÃ¡rozÃ³ Å‘rhÃ¡z
+TÃ¡rs
+TÃ¡rsashÃ¡z
+TÃ¡ska
+TÃ¡skai
+TÃ¡ti
+TÃ¡ti Ipartelep
+TÃ¡tika
+TÃ¡tompuszta
+TÃ¡tra
+TÃ¡trafÃ¼red
+TÃ¡trai
+TÃ¡traszirt
+TÃ¡vcsÅ‘
+TÃ¡vÃ­rÃ³
+TÃ¡virda
+TÃ¡vol
+TÃ¡vvezetÃ©k
+TÃ¡zerdei
+TÃ¡zerdÅ‘
+TaÃ¡l BÃ¡lint
+TabÃ¡n
+TabÃ¡ni
+TabÃ³d
+TabÃ³dszerdahely
 Tacsi
 Tag
-Tagló
+TaglÃ³
 Tagore
 Tagut
 Tagyon
 Tagyospuszta
 Tahi
-Taizs Mihály
-Takács
-Takács György
-Takács Imre
-Takács István
-Takács Menyhért
-Takács Péter
-Takács Sándor
-Takáts Sándor
-Takarék
-Takaréktár
-Takarmány gyártelep
-Takaró
-Takarodó
+Taizs MihÃ¡ly
+TakÃ¡cs
+TakÃ¡cs GyÃ¶rgy
+TakÃ¡cs Imre
+TakÃ¡cs IstvÃ¡n
+TakÃ¡cs MenyhÃ©rt
+TakÃ¡cs PÃ©ter
+TakÃ¡cs SÃ¡ndor
+TakÃ¡ts SÃ¡ndor
+TakarÃ©k
+TakarÃ©ktÃ¡r
+TakarmÃ¡ny gyÃ¡rtelep
+TakarÃ³
+TakarodÃ³
 Takaros
 Taksony
-Taksony vezér
+Taksony vezÃ©r
 Takta
-Taktaföldvár
-Találka
+TaktafÃ¶ldvÃ¡r
+TalÃ¡lka
 Talabor
 Talaj
-Talfája
+TalfÃ¡ja
 Talicska
 Taliga
-Taligás
-Talizmán
-Tallér
-Tallián
-Tallián Andor
-Tallián Gyula
-Tallós Prohászka I.
+TaligÃ¡s
+TalizmÃ¡n
+TallÃ©r
+TalliÃ¡n
+TalliÃ¡n Andor
+TalliÃ¡n Gyula
+TallÃ³s ProhÃ¡szka I.
 Talpas
 Talpfa
-Tamás
-Tamás tanító
-Tamásbokor
-Tamásháti Halastó
-Tamáshegy
-Tamáshegyi
-Tamási
-Tamási Áron
-Tamásipuszta
+TamÃ¡s
+TamÃ¡s tanÃ­tÃ³
+TamÃ¡sbokor
+TamÃ¡shÃ¡ti HalastÃ³
+TamÃ¡shegy
+TamÃ¡shegyi
+TamÃ¡si
+TamÃ¡si Ãron
+TamÃ¡sipuszta
 Tamara
 Tambura
-Tamkó Sirató Károly
+TamkÃ³ SiratÃ³ KÃ¡roly
 Tampere
-Tanács
-Tanácsház
-Tanácsköz
-Tanácsköztársaság
-Tanácsos
-Tanár
-Tanárky Béla
-Tanárok
+TanÃ¡cs
+TanÃ¡cshÃ¡z
+TanÃ¡cskÃ¶z
+TanÃ¡cskÃ¶ztÃ¡rsasÃ¡g
+TanÃ¡csos
+TanÃ¡r
+TanÃ¡rky BÃ©la
+TanÃ¡rok
 Tanai
-Tangazdaság
-Tanító
-Tanítóföld
+TangazdasÃ¡g
+TanÃ­tÃ³
+TanÃ­tÃ³fÃ¶ld
 Tank
-Tankállomás
-Tanmûhely
+TankÃ¡llomÃ¡s
+TanmÅ±hely
 Tanoda
-Tanuló
+TanulÃ³
 Tanya
-Tanyák
-Tanyaföld
+TanyÃ¡k
+TanyafÃ¶ld
 Tanyakereszt
-Tanyaközpont
+TanyakÃ¶zpont
 Tanyasor
-Tapló
+TaplÃ³
 Tapodi
 Tapolca
-Tapolcafõ
+TapolcafÅ‘
 Tapolcai
-Tapolcarét
-Tapolcsányi
+TapolcarÃ©t
+TapolcsÃ¡nyi
 Tapoly
 Tar
-Tar Kálmán
-Tarányi József
+Tar KÃ¡lmÃ¡n
+TarÃ¡nyi JÃ³zsef
 Tarack
 Taranyi
-Tarattyó
+TarattyÃ³
 Tarcal
 Tarcali
 Tarcsa
@@ -13738,160 +13738,160 @@ Tarcsapuszta
 Tarczai Lajos
 Tardi
 Tardonai
-Tardos Sporttábor
+Tardos SporttÃ¡bor
 Tardosi
 Tardoskedd
 Tardy
 Tarhos
 Tariczky
-Tarján
-Tarján széle
-Tarjáni
-Tarjáni Építõk
+TarjÃ¡n
+TarjÃ¡n szÃ©le
+TarjÃ¡ni
+TarjÃ¡ni Ã‰pÃ­tÅ‘k
 Tarka
-Tarkarét
-Tarkõ
-Tarló
+TarkarÃ©t
+TarkÅ‘
+TarlÃ³
 Tarna
 Tarnai
-Tarnaszentmáriai
+TarnaszentmÃ¡riai
 Tarnay
-Tarnócai
-Tarnócapuszta
-Tarnóci
-Taródháza
+TarnÃ³cai
+TarnÃ³capuszta
+TarnÃ³ci
+TarÃ³dhÃ¡za
 Tarpai
-Tarpai Márton
+Tarpai MÃ¡rton
 Tarpatak
 Tarpataki
 Tarr
 Tarsoly
-Tartalóca
+TartalÃ³ca
 Tartsay
 Tartsay Vilmos
 Tas
-Tas vezér
-Taschler József
-Taskó
-Tasnád
-Tasnádi
+Tas vezÃ©r
+Taschler JÃ³zsef
+TaskÃ³
+TasnÃ¡d
+TasnÃ¡di
 Tass
-Tass vezér
+Tass vezÃ©r
 Tasskertes
-Tatár
-Tatárárok
-Tatárdomb
-Tatárhányás
-Tatárka
-Tatárszentgyörgyi
-Tatárvár
+TatÃ¡r
+TatÃ¡rÃ¡rok
+TatÃ¡rdomb
+TatÃ¡rhÃ¡nyÃ¡s
+TatÃ¡rka
+TatÃ¡rszentgyÃ¶rgyi
+TatÃ¡rvÃ¡r
 Tatai
 Tatay
-Tatay András
-Tatay Zoltán
-Tatjána
-Taván
+Tatay AndrÃ¡s
+Tatay ZoltÃ¡n
+TatjÃ¡na
+TavÃ¡n
 Tavan
 Tavas
 Tavassy Antal
 Tavasz
-Tavaszmezõ
-Tavirózsa
-Técsey Ferenc
-Técsõi
-Tégla
-Téglás
-Téglási
-Tégláskert
-Tégláskert Szõlõ
-Tégladomb
-Téglaégetõ
-Téglagyár
-Téglagyár II.
-Téglagyári
-Téglagyártó
-Téglaház
-Téglaszini lovarda
-Téglaverõ
-Téglavetõ
-Tékisz
-Tél
-Télfy
-Téltemetõ
-Tényõi
-Térffy Gyula
-Téry Ödön
-Tétény vezér
-Tétényi
-Tétényi-fennsík
-Tétszentkút
-Tévesztõ
-Tearózsa
+TavaszmezÅ‘
+TavirÃ³zsa
+TÃ©csey Ferenc
+TÃ©csÅ‘i
+TÃ©gla
+TÃ©glÃ¡s
+TÃ©glÃ¡si
+TÃ©glÃ¡skert
+TÃ©glÃ¡skert SzÅ‘lÅ‘
+TÃ©gladomb
+TÃ©glaÃ©getÅ‘
+TÃ©glagyÃ¡r
+TÃ©glagyÃ¡r II.
+TÃ©glagyÃ¡ri
+TÃ©glagyÃ¡rtÃ³
+TÃ©glahÃ¡z
+TÃ©glaszini lovarda
+TÃ©glaverÅ‘
+TÃ©glavetÅ‘
+TÃ©kisz
+TÃ©l
+TÃ©lfy
+TÃ©ltemetÅ‘
+TÃ©nyÅ‘i
+TÃ©rffy Gyula
+TÃ©ry Ã–dÃ¶n
+TÃ©tÃ©ny vezÃ©r
+TÃ©tÃ©nyi
+TÃ©tÃ©nyi-fennsÃ­k
+TÃ©tszentkÃºt
+TÃ©vesztÅ‘
+TearÃ³zsa
 Technikus
-Tegdavölgy
+TegdavÃ¶lgy
 Tegez
 Tegzes
-Tehenészet
+TehenÃ©szet
 Teherkocsi
-Teherpályaudvar
+TeherpÃ¡lyaudvar
 Tejfalusziget
-Tejút
+TejÃºt
 Tekenye
-Tekercselõ
+TekercselÅ‘
 Tekeres
 Tekerespuszta
-Tekerõpatak
+TekerÅ‘patak
 Tekla
-Teknõ
+TeknÅ‘
 Telek
 Telekalja
-Telekes Béla
-Telekessy István
-Telekföld
-Telekfõi
+Telekes BÃ©la
+Telekessy IstvÃ¡n
+TelekfÃ¶ld
+TelekfÅ‘i
 Telekhalom
 Teleki
 Teleki Blanka
-Teleki József
-Teleki László
-Teleki László téri piac
-Teleki Mihály
-Teleki Pál
-Teleki Sámuel
+Teleki JÃ³zsef
+Teleki LÃ¡szlÃ³
+Teleki LÃ¡szlÃ³ tÃ©ri piac
+Teleki MihÃ¡ly
+Teleki PÃ¡l
+Teleki SÃ¡muel
 Teleki Zsigmond
-Telekparti tanyák
-Telenkó
+Telekparti tanyÃ¡k
+TelenkÃ³
 Telep
 Telep barak
-Telepállomás
+TelepÃ¡llomÃ¡s
 Telepes
 Telepi
 Telepy
-Telepy György
-Teleszkóp
-Televízióállomás
+Telepy GyÃ¶rgy
+TeleszkÃ³p
+TelevÃ­ziÃ³Ã¡llomÃ¡s
 Telkes
 Telki
 Temes
 Temesi
-Temesvár
-Temesvári
-Temetõ
-Temetõalja
-Temetõhegy
-Temetõkert
-Temetõsor
+TemesvÃ¡r
+TemesvÃ¡ri
+TemetÅ‘
+TemetÅ‘alja
+TemetÅ‘hegy
+TemetÅ‘kert
+TemetÅ‘sor
 Templom
 Templom domb
 Templomalja
 Templomhegy
 Templomhegyi
 Templomkert
-Templomköz
+TemplomkÃ¶z
 Templomsor
 Templomszer
 Tengelice
-Tengerész
+TengerÃ©sz
 Tengeri
 Tengerszem
 Tengerszem oldal
@@ -13899,1596 +13899,1596 @@ Tenisz
 Tenkes
 Tenkeshegy
 Tenki
-Tenyõi
-Tepécs
-Tepécsi
-Tepélypuszta
-Terápiás Intézet
+TenyÅ‘i
+TepÃ©cs
+TepÃ©csi
+TepÃ©lypuszta
+TerÃ¡piÃ¡s IntÃ©zet
 Terasz
-Terény
-Teréz
-Terézia
-Terézia Szõlõhegy
+TerÃ©ny
+TerÃ©z
+TerÃ©zia
+TerÃ©zia SzÅ‘lÅ‘hegy
 Terebes
 Terebesi
 Terebezd
 Terebezdpuszta
 Terehegyi
-Terelõ
+TerelÅ‘
 Teremitanya
 Teremszeg
 Tergenye
-Termál
-Termálfürdõ
-Természetszeretõk
-Termelõ
-Termelõszövetkezet
-Termõ
+TermÃ¡l
+TermÃ¡lfÃ¼rdÅ‘
+TermÃ©szetszeretÅ‘k
+TermelÅ‘
+TermelÅ‘szÃ¶vetkezet
+TermÅ‘
 Terranova
-Tersánszky
-Tersánszky Józsi Jenõ
-Terstyánszkij
-Terstyánszky Ödön
+TersÃ¡nszky
+TersÃ¡nszky JÃ³zsi JenÅ‘
+TerstyÃ¡nszkij
+TerstyÃ¡nszky Ã–dÃ¶n
 Terv
-Tervezõ
-Tervtáró
-Teskándi
+TervezÅ‘
+TervtÃ¡rÃ³
+TeskÃ¡ndi
 Tessedik
-Tessedik Sámuel
-Testvér
-Testvérhegyi
-Testvériség
-Testvérvárosok
-Teszársz Károly
-Tetétleni
-Tetétleni útfél
-Tetemvár
-Tetemvár alsó
-Tetemvár felsõ
-Tetemvár közép
-Tetõ
-Tetõfedõ
-Tetõvári
+Tessedik SÃ¡muel
+TestvÃ©r
+TestvÃ©rhegyi
+TestvÃ©risÃ©g
+TestvÃ©rvÃ¡rosok
+TeszÃ¡rsz KÃ¡roly
+TetÃ©tleni
+TetÃ©tleni ÃºtfÃ©l
+TetemvÃ¡r
+TetemvÃ¡r alsÃ³
+TetemvÃ¡r felsÅ‘
+TetemvÃ¡r kÃ¶zÃ©p
+TetÅ‘
+TetÅ‘fedÅ‘
+TetÅ‘vÃ¡ri
 Tetrapak
 Tettye
 Teve
-Textilgyári
-Textilház
-Thán Károly
-Thallóczy Lajos
+TextilgyÃ¡ri
+TextilhÃ¡z
+ThÃ¡n KÃ¡roly
+ThallÃ³czy Lajos
 Thaly
-Thaly Kálmán
+Thaly KÃ¡lmÃ¡n
 Thalypuszta
-Than Mór
-Thirring Gusztáv
-Thököly
-Thököly Imre
-Thomán István
+Than MÃ³r
+Thirring GusztÃ¡v
+ThÃ¶kÃ¶ly
+ThÃ¶kÃ¶ly Imre
+ThomÃ¡n IstvÃ¡n
 Thomas Mann
-Thorma János
+Thorma JÃ¡nos
 Thoroczkai
-Thurner Mihály
-Thuróczi Gyula
-Thuróczy Gyula
+Thurner MihÃ¡ly
+ThurÃ³czi Gyula
+ThurÃ³czy Gyula
 Thury
-Thury András
-Thury György
+Thury AndrÃ¡s
+Thury GyÃ¶rgy
 Thury Gyula
-Thurzó
-Tímár
-Tímár malom
-Tízház
-Tízöles
-Tiba István
-Tibavár
+ThurzÃ³
+TÃ­mÃ¡r
+TÃ­mÃ¡r malom
+TÃ­zhÃ¡z
+TÃ­zÃ¶les
+Tiba IstvÃ¡n
+TibavÃ¡r
 Tibolapuszta
 Tiborc
 Tiefenweg
-Tigér
+TigÃ©r
 Tigris
-Tihamér
-Tihaméri
+TihamÃ©r
+TihamÃ©ri
 Tihany
 Tihanyi
-Tihanyi Árpád
-Tihanyrév
+Tihanyi ÃrpÃ¡d
+TihanyrÃ©v
 Tikhegy
 Tilaji
-Tilajúj
+TilajÃºj
 Tilalmasi
-Tilalmasi tanyák
-Tildy Zoltán
-Tilinkó
+Tilalmasi tanyÃ¡k
+Tildy ZoltÃ¡n
+TilinkÃ³
 Tilos
 Tilosi
-Timár J
-Timföld
-Timföldgyári
-Timót
+TimÃ¡r J
+TimfÃ¶ld
+TimfÃ¶ldgyÃ¡ri
+TimÃ³t
 Timur
 Tinnyei
-Tinnyei elágazás
-Tinódi
-Tinódi Lantos Sebestyén
-Tinódi Sebestyén
-Tipegõ
+Tinnyei elÃ¡gazÃ¡s
+TinÃ³di
+TinÃ³di Lantos SebestyÃ©n
+TinÃ³di SebestyÃ©n
+TipegÅ‘
 Tisza
-Tisza-folyó
-Tisza-gát
+Tisza-folyÃ³
+Tisza-gÃ¡t
 Tisza-hajlat
-Tisza-híd
+Tisza-hÃ­d
 Tisza-liget
 Tisza-ligeti
 Tisza-part
 Tisza-parti
 Tisza Antal
 Tisza II
-Tisza István
+Tisza IstvÃ¡n
 Tisza Lajos
-Tisza pályaudvar
-Tiszabög
+Tisza pÃ¡lyaudvar
+TiszabÃ¶g
 Tiszacsegei
 Tiszafa
-Tiszafüred
-Tiszafüredi
+TiszafÃ¼red
+TiszafÃ¼redi
 Tiszagyendai
-Tiszahát
+TiszahÃ¡t
 Tiszai
 Tiszai kertsor
-Tiszakarádi
-Tiszakömlõ
-Tiszakürti
-Tiszalúci
-Tiszanána
+TiszakarÃ¡di
+TiszakÃ¶mlÅ‘
+TiszakÃ¼rti
+TiszalÃºci
+TiszanÃ¡na
 Tiszanagyfalusi
-Tiszaörs
+TiszaÃ¶rs
 Tiszapart
 Tiszaparti
 Tiszaszentimrei
-Tiszaszõlõ
-Tiszaújsor
-Tiszaúti
-Tiszavasvári
-Tiszavirág
-Tiszavirág üdülõ
+TiszaszÅ‘lÅ‘
+TiszaÃºjsor
+TiszaÃºti
+TiszavasvÃ¡ri
+TiszavirÃ¡g
+TiszavirÃ¡g Ã¼dÃ¼lÅ‘
 Tiszta
-Tisztavíz
+TisztavÃ­z
 Tiszteletes
 Tisztes
 Tiszti
 Tisztisor
-Tisztviselõ
-Titán
+TisztviselÅ‘
+TitÃ¡n
 Titel
 Titeli
-Titkár
-Tittel Pál
+TitkÃ¡r
+Tittel PÃ¡l
 Tivadar
 Tizedes
 Tizedik
 Tizenegyedik
-Tizenhárom vértanu
+TizenhÃ¡rom vÃ©rtanu
 Tizenharmadik
 Tizenkettedik
 Tizenkettes
 Tizenkilences
 Tizennyolcas
-Tizeshonvéd
-Tó
-Tóalj
-Tóalmás
-Tóbereki
-Tóbíró
-Tócós
-Tócóskert
-Tódi
-Tófalva
-Tófenék
-Tófölötti
-Tófû
-Tóga
-Tóhát
-Tóhalom
-Tóhegy
-Tójárás
-Tóköz
-Tólápa
-Tómalom
-Tómellék
-Tópart
-Tóparti
-Tóradûlõ
-Tórét
-Tószeg
-Tószegi
-Tószer
-Tótfalusi
-Tótfalusi Kis Miklós
-Tótgyurkaszék
-Tóth
-Tóth-tag
-Tóth Ágoston
-Tóth Árpád
-Tóth Aladár
-Tóth Antal
-Tóth Ede
-Tóth Endre
-Tóth Ferenc
-Tóth István
-Tóth János
-Tóth József
-Tóth Kálmán
-Tóth László
-Tóth Lõrinc
-Tóth Pál
-Tóth Tivadar
-Tóth Zoltán-tag
-Tóth völgy
-Tóthegy
-Tóthegyes
-Tóthfalu
-Tóthfalusi
-Tóthfalusi Sándor
-Tóthtanya
-Tótokföldje
-Tóvárosi
-Tóvárosi lakónegyed
-Tóvirág
-Tóvölgy
-Töbrös
-Töhötöm
-Töhötöm vezér
-Tökhegyi
-Töki
-Tököly
-Tökösmezõ
-Tökszög
-Tölcsér
-Tölgy
-Tölgyes
-Tölgyeshegy
-Tölgyesi
-Tölgyessy Artúr
-Tölgyesszög
-Tölgyfa
-Tölgyvári
-Tölöshegy
-Töltény
-Töltényi Szaniszló
-Töltés
-Töltésalja
-Töltéssor
-Töltésszer
-Tömb
-Tömedék
-Tömjénhegy
-Tömlõs
-Tömördi
-Tömördpuszta
-Tömörkény
-Tömörkény István
-Tömörkény Üdülõtelep Sárga
-Tömös
-Tömösi
-Tömöttvár
-Tömõ
-Tömõsi
-Tömpör
-Törcsvár
-Törcsvári
-Töreki
-Törekpuszta
-Törekvés
-Töretlen
-Törköly
-Töröcskei
-Török
-Török Bálint
-Török Flóris
-Török Ignác
-Török István
-Török János
-Török Pál
-Török sánc
-Törökbálinti
-Törökbecse
-Törökdomb
-Törökér
-Törökfái
-Törökföld
-Törökház
-Törökhalom
-Törökkanizsa
-Törökkõ
-Törökkút
-Törökõr
-Törökszegfû
-Törökszentmiklósi
-Törökugrató
-Törökvári
-Törökvész
-Törökverõ
-Törökvölgyi
-Törõ
-Törõ Pál
-Törpe
-Törpés
-Törpeharcsa
-Törpemandula
-Törteli
-Törvény
-Törvényház
-Törzs
-Töttösi
-Tövis
-Tövishát
-Töviskes
-Tõke
-Tõkés
-Tõkési
-Tõr
-Tõserdõ
-Tõsfûrdõ
-Tõzeg
-Tõzike
-Tõzsér
-Tobán
+TizeshonvÃ©d
+TÃ³
+TÃ³alj
+TÃ³almÃ¡s
+TÃ³bereki
+TÃ³bÃ­rÃ³
+TÃ³cÃ³s
+TÃ³cÃ³skert
+TÃ³di
+TÃ³falva
+TÃ³fenÃ©k
+TÃ³fÃ¶lÃ¶tti
+TÃ³fÅ±
+TÃ³ga
+TÃ³hÃ¡t
+TÃ³halom
+TÃ³hegy
+TÃ³jÃ¡rÃ¡s
+TÃ³kÃ¶z
+TÃ³lÃ¡pa
+TÃ³malom
+TÃ³mellÃ©k
+TÃ³part
+TÃ³parti
+TÃ³radÅ±lÅ‘
+TÃ³rÃ©t
+TÃ³szeg
+TÃ³szegi
+TÃ³szer
+TÃ³tfalusi
+TÃ³tfalusi Kis MiklÃ³s
+TÃ³tgyurkaszÃ©k
+TÃ³th
+TÃ³th-tag
+TÃ³th Ãgoston
+TÃ³th ÃrpÃ¡d
+TÃ³th AladÃ¡r
+TÃ³th Antal
+TÃ³th Ede
+TÃ³th Endre
+TÃ³th Ferenc
+TÃ³th IstvÃ¡n
+TÃ³th JÃ¡nos
+TÃ³th JÃ³zsef
+TÃ³th KÃ¡lmÃ¡n
+TÃ³th LÃ¡szlÃ³
+TÃ³th LÅ‘rinc
+TÃ³th PÃ¡l
+TÃ³th Tivadar
+TÃ³th ZoltÃ¡n-tag
+TÃ³th vÃ¶lgy
+TÃ³thegy
+TÃ³thegyes
+TÃ³thfalu
+TÃ³thfalusi
+TÃ³thfalusi SÃ¡ndor
+TÃ³thtanya
+TÃ³tokfÃ¶ldje
+TÃ³vÃ¡rosi
+TÃ³vÃ¡rosi lakÃ³negyed
+TÃ³virÃ¡g
+TÃ³vÃ¶lgy
+TÃ¶brÃ¶s
+TÃ¶hÃ¶tÃ¶m
+TÃ¶hÃ¶tÃ¶m vezÃ©r
+TÃ¶khegyi
+TÃ¶ki
+TÃ¶kÃ¶ly
+TÃ¶kÃ¶smezÅ‘
+TÃ¶kszÃ¶g
+TÃ¶lcsÃ©r
+TÃ¶lgy
+TÃ¶lgyes
+TÃ¶lgyeshegy
+TÃ¶lgyesi
+TÃ¶lgyessy ArtÃºr
+TÃ¶lgyesszÃ¶g
+TÃ¶lgyfa
+TÃ¶lgyvÃ¡ri
+TÃ¶lÃ¶shegy
+TÃ¶ltÃ©ny
+TÃ¶ltÃ©nyi SzaniszlÃ³
+TÃ¶ltÃ©s
+TÃ¶ltÃ©salja
+TÃ¶ltÃ©ssor
+TÃ¶ltÃ©sszer
+TÃ¶mb
+TÃ¶medÃ©k
+TÃ¶mjÃ©nhegy
+TÃ¶mlÅ‘s
+TÃ¶mÃ¶rdi
+TÃ¶mÃ¶rdpuszta
+TÃ¶mÃ¶rkÃ©ny
+TÃ¶mÃ¶rkÃ©ny IstvÃ¡n
+TÃ¶mÃ¶rkÃ©ny ÃœdÃ¼lÅ‘telep SÃ¡rga
+TÃ¶mÃ¶s
+TÃ¶mÃ¶si
+TÃ¶mÃ¶ttvÃ¡r
+TÃ¶mÅ‘
+TÃ¶mÅ‘si
+TÃ¶mpÃ¶r
+TÃ¶rcsvÃ¡r
+TÃ¶rcsvÃ¡ri
+TÃ¶reki
+TÃ¶rekpuszta
+TÃ¶rekvÃ©s
+TÃ¶retlen
+TÃ¶rkÃ¶ly
+TÃ¶rÃ¶cskei
+TÃ¶rÃ¶k
+TÃ¶rÃ¶k BÃ¡lint
+TÃ¶rÃ¶k FlÃ³ris
+TÃ¶rÃ¶k IgnÃ¡c
+TÃ¶rÃ¶k IstvÃ¡n
+TÃ¶rÃ¶k JÃ¡nos
+TÃ¶rÃ¶k PÃ¡l
+TÃ¶rÃ¶k sÃ¡nc
+TÃ¶rÃ¶kbÃ¡linti
+TÃ¶rÃ¶kbecse
+TÃ¶rÃ¶kdomb
+TÃ¶rÃ¶kÃ©r
+TÃ¶rÃ¶kfÃ¡i
+TÃ¶rÃ¶kfÃ¶ld
+TÃ¶rÃ¶khÃ¡z
+TÃ¶rÃ¶khalom
+TÃ¶rÃ¶kkanizsa
+TÃ¶rÃ¶kkÅ‘
+TÃ¶rÃ¶kkÃºt
+TÃ¶rÃ¶kÅ‘r
+TÃ¶rÃ¶kszegfÅ±
+TÃ¶rÃ¶kszentmiklÃ³si
+TÃ¶rÃ¶kugratÃ³
+TÃ¶rÃ¶kvÃ¡ri
+TÃ¶rÃ¶kvÃ©sz
+TÃ¶rÃ¶kverÅ‘
+TÃ¶rÃ¶kvÃ¶lgyi
+TÃ¶rÅ‘
+TÃ¶rÅ‘ PÃ¡l
+TÃ¶rpe
+TÃ¶rpÃ©s
+TÃ¶rpeharcsa
+TÃ¶rpemandula
+TÃ¶rteli
+TÃ¶rvÃ©ny
+TÃ¶rvÃ©nyhÃ¡z
+TÃ¶rzs
+TÃ¶ttÃ¶si
+TÃ¶vis
+TÃ¶vishÃ¡t
+TÃ¶viskes
+TÅ‘ke
+TÅ‘kÃ©s
+TÅ‘kÃ©si
+TÅ‘r
+TÅ‘serdÅ‘
+TÅ‘sfÅ±rdÅ‘
+TÅ‘zeg
+TÅ‘zike
+TÅ‘zsÃ©r
+TobÃ¡n
 Tobak
-Toborzó
+ToborzÃ³
 Toboz
 Tokai
 Tokaj
 Tokaji
 Tokaji Ferenc
-Tokajköz
+TokajkÃ¶z
 Tokay
 Tolbuchin
 Tolbuhin
 Tolcsvai
-Toldás
+ToldÃ¡s
 Toldi
 Toldi Ferenc
-Toldi Miklós
+Toldi MiklÃ³s
 Toldy
 Toldy Ferenc
 Tollnok
-Tolmács
-Tolmácsi
+TolmÃ¡cs
+TolmÃ¡csi
 Tolnai
-Tolnai József
+Tolnai JÃ³zsef
 Tolnai Lajos
 Tolnasziget
-Tolnay Károly
-Tolnay Sándor
+Tolnay KÃ¡roly
+Tolnay SÃ¡ndor
 Tolsztoj
 Tolvajos
 Tomaj
 Tomaji
 Tomori
-Tomori Pál
-Tomorvár
+Tomori PÃ¡l
+TomorvÃ¡r
 Tompa
-Tompa Mihály
-Tompaház
+Tompa MihÃ¡ly
+TompahÃ¡z
 Tompai kapu
-Tompakõ
+TompakÅ‘
 Tompasziget
 Tompaszigeti kiskertek
 Tompos
-Topánka
-Topáz
-Topiczer János
+TopÃ¡nka
+TopÃ¡z
+Topiczer JÃ¡nos
 Topoly
 Topolya
-Toponár
-Toponári
-Toportyán
-Toposházi
-Torbágy
-Torbágyerdõ
-Torbágyi
+ToponÃ¡r
+ToponÃ¡ri
+ToportyÃ¡n
+ToposhÃ¡zi
+TorbÃ¡gy
+TorbÃ¡gyerdÅ‘
+TorbÃ¡gyi
 Torda
 Tordai
-Tordai Ányos
-Tordai Gábor
+Tordai Ãnyos
+Tordai GÃ¡bor
 Tordasi
 Torkos
 Torma
-Tormás
-Tormáspuszta
-Torma Károly
-Tormai István
-Tormarét
-Tormay Béla
+TormÃ¡s
+TormÃ¡spuszta
+Torma KÃ¡roly
+Tormai IstvÃ¡n
+TormarÃ©t
+Tormay BÃ©la
 Torna
-Tornácos
+TornÃ¡cos
 Tornai
 Tornalja
-Tornavár
-Tornóc
-Tornyópuszta
+TornavÃ¡r
+TornÃ³c
+TornyÃ³puszta
 Tornyos
 Tornyostanya
-Torockó
-Torockói
+TorockÃ³
+TorockÃ³i
 Toroczkai
 Torok
-Torontál
-Torontáli
+TorontÃ¡l
+TorontÃ¡li
 Torony
 Toronya
 Toronyalja
-Toronyház
+ToronyhÃ¡z
 Toronysor
-Tortyogó vízmûtelep
+TortyogÃ³ vÃ­zmÅ±telep
 Torzsa
-Torzsás
+TorzsÃ¡s
 Toscanini
 Trafik
-Trafó
+TrafÃ³
 Traktor
 Traktoros
 Trefort
-Trencsén
-Trencséni
-Trencsényi
-Trikál József
-Trinitárius
-Trinitáspuszta
+TrencsÃ©n
+TrencsÃ©ni
+TrencsÃ©nyi
+TrikÃ¡l JÃ³zsef
+TrinitÃ¡rius
+TrinitÃ¡spuszta
 Tripammer
 Tripammer Gyula
 Trombita
-Trombitás
+TrombitÃ¡s
 Tsz
-Tsz Gépmûhely
-Tsz Központi telep
-Tsz Major Csirkenevelõ
+Tsz GÃ©pmÅ±hely
+Tsz KÃ¶zponti telep
+Tsz Major CsirkenevelÅ‘
 Tsz major
-Túr
-Túra
-Túri
-Túrista
-Túrkeve
-Túrkevei
-Túróc
-Túróhegy
-Túzok
-Tücsök
-Tücsökdomb
-Tücsöktanya
-Tüdõs Klára
-Tükör
-Tükörhegy
-Tüköry
-Tükrösi
-Tükröspuszta
-Tülök
-Tünde
-Tündér
-Tündérfátyol
-Tündérfürt
-Tündérlaki
-Tündérliget
-Tündérpart
-Tündérrózsa
-Türjei
-Türk Frigyes
-Türr István
-Tüske
-Tüskés
-Tüskésréti
-Tüskevár
-Tüskevári
-Tüttõ György
-Tüttõsi
-Tüttõssy Ferenc
-Tüzér
-Tüzes-szõlõ
-Tüzikovács
-Tû
-Tûz
-Tûzföld
-Tûzkõ
-Tûzkõhegy
-Tûzliliom
-Tûzmester
-Tûzoltó
-Tûztövis
-Tûztorony
-Tûzvirág
+TÃºr
+TÃºra
+TÃºri
+TÃºrista
+TÃºrkeve
+TÃºrkevei
+TÃºrÃ³c
+TÃºrÃ³hegy
+TÃºzok
+TÃ¼csÃ¶k
+TÃ¼csÃ¶kdomb
+TÃ¼csÃ¶ktanya
+TÃ¼dÅ‘s KlÃ¡ra
+TÃ¼kÃ¶r
+TÃ¼kÃ¶rhegy
+TÃ¼kÃ¶ry
+TÃ¼krÃ¶si
+TÃ¼krÃ¶spuszta
+TÃ¼lÃ¶k
+TÃ¼nde
+TÃ¼ndÃ©r
+TÃ¼ndÃ©rfÃ¡tyol
+TÃ¼ndÃ©rfÃ¼rt
+TÃ¼ndÃ©rlaki
+TÃ¼ndÃ©rliget
+TÃ¼ndÃ©rpart
+TÃ¼ndÃ©rrÃ³zsa
+TÃ¼rjei
+TÃ¼rk Frigyes
+TÃ¼rr IstvÃ¡n
+TÃ¼ske
+TÃ¼skÃ©s
+TÃ¼skÃ©srÃ©ti
+TÃ¼skevÃ¡r
+TÃ¼skevÃ¡ri
+TÃ¼ttÅ‘ GyÃ¶rgy
+TÃ¼ttÅ‘si
+TÃ¼ttÅ‘ssy Ferenc
+TÃ¼zÃ©r
+TÃ¼zes-szÅ‘lÅ‘
+TÃ¼zikovÃ¡cs
+TÅ±
+TÅ±z
+TÅ±zfÃ¶ld
+TÅ±zkÅ‘
+TÅ±zkÅ‘hegy
+TÅ±zliliom
+TÅ±zmester
+TÅ±zoltÃ³
+TÅ±ztÃ¶vis
+TÅ±ztorony
+TÅ±zvirÃ¡g
 Tuba
-Tubarózsa
-Tudós
+TubarÃ³zsa
+TudÃ³s
 Tuhai
 Tujafa
 Tuka
 Tulbanov
-Tulipán
-Tulipánfa
-Tulipánkert
+TulipÃ¡n
+TulipÃ¡nfa
+TulipÃ¡nkert
 Tullni
 Tungsram
 Tunhardt
 Tunyogi
 Tura
-Turán
+TurÃ¡n
 Turai
-Turbék
-Turbéki
+TurbÃ©k
+TurbÃ©ki
 Turbina
-Turcsányi István
+TurcsÃ¡nyi IstvÃ¡n
 Turgonyi
 Turi
 Turini
 Turista
-Turjános
+TurjÃ¡nos
 Turkeddi
-Turóc
-Turóci
-Turóczi Balázs
+TurÃ³c
+TurÃ³ci
+TurÃ³czi BalÃ¡zs
 Turul
 Tusa
 Tusakosi
-Tuskós
-Tusnád
-Tusnádi
+TuskÃ³s
+TusnÃ¡d
+TusnÃ¡di
 Tutaj
 Tutajos
-Tuzséri
-Tyúkos
+TuzsÃ©ri
+TyÃºkos
 Tyukod
-Új
-Új-Hermes
-Új-Zarany
-Új-major
-Új-piac
-Új 7-es
-Új Csóri
-Új Élet
-Új Fasor
-Új Istálló
-Új Kõbánya
-Új Piac
-Új Szabár Fõ
-Új Temetõ
-Új Váralja
-Új Vasútállomás
-Új barázda
-Új gyártelep
-Új kapu
-Új osztás
-Új világ
-Újakna
-Újarad
-Újavas
-Újbánya
-Újbányai
-Újbarázda
-Újberek
-Újdalmand
-Újdörögd
-Újdûlõ
-Újélet
-Újerdõ
-Újerõ
-Újfalu
-Újfalui
-Újfalurét
-Újfalusi
-Újfalusi Országút
-Újfalussy Imre
-Újfalussy tag
-Újfény
-Újfényes-tanya
-Újfehértói
-Újföld
-Újföldi
-Újföldi rész I.
-Újföldi rész II.
-Újfõ
-Újfok
-Újgyõri fõtér
-Újház
-Újházi Ede
-Újházy
-Újhedrehely
-Újhegy
-Újhegydülõ
-Újhegyi
-Újhelyi
-Újhelyi Imre
-Újhíd
-Újhuta
-Újító
-Újítók
-Újjáépítés
-Újkender
-Újkert
-Újkincsem
-Újkisház
-Újkóródi
-Újközpont
-Újkút
-Újkútpuszta
-Újlak
-Újlaki
-Újmajor
-Újmajori
-Újnép
-Újosztály
-Újpalota
-Újpalota vásárcsarnok
-Újpalotai
-Újpalotai piac
-Újpesti
-Újpiac
-Újpuszta
-Újréti
-Újrétisor
-Újsor
-Újstrand
-Újszállási
-Újszász
-Újszászi
-Újszilvás
-Újszilvási
-Újszõlõ
-Újszõlõ I.
-Újszõlõk
-Újszõlõskert
-Újszõregi
-Újtábla
-Újtag
-Újtanya
-Újtelekbokor
-Újteleki
-Újtelep
-Újtelep I.
-Újtelep II.
-Újtelep III.
-Újtelepi
-Újtemetõ
-Újtemplom
-Újudvar
-Újudvar Esze Tamás
-Újvár
-Újvárad
-Újvárhegy
-Újvári
-Újvári Ede
-Újváros
-Újváros szél
-Újvárosi
-Újvárosi-regálé
-Újvárosi útfél
-Újvásártér
-Újvermek
-Újvidék
-Újvidéki
-Újvilág
-Újvirághegy
-Úrbéres
-Úrhidai
-Úri
-Úrihegy
-Úrrét
-Úrrétje
-Úrszõlõ
-Úszó
-Úsztató
-Útõrház
-Útszél
-Úttörõ
-Úttörõk
-Üde
-Üdekert
-Üdülés
-Üdülõ
-Üdülõ terület
-Üdülõk
-Üdülõövezet
-Üdülõsor
-Üdülõtelep
-Üdülõterület
-Ügetõ
-Ügyész
-Ügyvivõ
-Üllõ
-Üllõi
-Ültetés I.
-Ültetés II.
-Ültetvény
-Ürge
-Ürgés
-Ürgemezõ
-Ürgevárpuszta
-Ürmény
-Ürményi
-Ürmös
-Ürmöshát
-Ürög
-Ürögi
-Ürögi Lajos
-Ürömhegyi
-Ürömi
-Üst
-Üsth Gyula
-Üsthegy
-Üstökös
-Üszögi
-Üszögi kiserdõ
-Üszögi víztároló
-Üszögpuszta
-Üteg
-Ütközõ
-Üttörõ
-Üveg-Ásványbánya
-Üveges
-Üveggyár
-Üvegház
-Üzbég
-Ûrhajós
-Ûrhajósok
-Ûrögi Lajos
+Ãšj
+Ãšj-Hermes
+Ãšj-Zarany
+Ãšj-major
+Ãšj-piac
+Ãšj 7-es
+Ãšj CsÃ³ri
+Ãšj Ã‰let
+Ãšj Fasor
+Ãšj IstÃ¡llÃ³
+Ãšj KÅ‘bÃ¡nya
+Ãšj Piac
+Ãšj SzabÃ¡r FÅ‘
+Ãšj TemetÅ‘
+Ãšj VÃ¡ralja
+Ãšj VasÃºtÃ¡llomÃ¡s
+Ãšj barÃ¡zda
+Ãšj gyÃ¡rtelep
+Ãšj kapu
+Ãšj osztÃ¡s
+Ãšj vilÃ¡g
+Ãšjakna
+Ãšjarad
+Ãšjavas
+ÃšjbÃ¡nya
+ÃšjbÃ¡nyai
+ÃšjbarÃ¡zda
+Ãšjberek
+Ãšjdalmand
+ÃšjdÃ¶rÃ¶gd
+ÃšjdÅ±lÅ‘
+ÃšjÃ©let
+ÃšjerdÅ‘
+ÃšjerÅ‘
+Ãšjfalu
+Ãšjfalui
+ÃšjfalurÃ©t
+Ãšjfalusi
+Ãšjfalusi OrszÃ¡gÃºt
+Ãšjfalussy Imre
+Ãšjfalussy tag
+ÃšjfÃ©ny
+ÃšjfÃ©nyes-tanya
+ÃšjfehÃ©rtÃ³i
+ÃšjfÃ¶ld
+ÃšjfÃ¶ldi
+ÃšjfÃ¶ldi rÃ©sz I.
+ÃšjfÃ¶ldi rÃ©sz II.
+ÃšjfÅ‘
+Ãšjfok
+ÃšjgyÅ‘ri fÅ‘tÃ©r
+ÃšjhÃ¡z
+ÃšjhÃ¡zi Ede
+ÃšjhÃ¡zy
+Ãšjhedrehely
+Ãšjhegy
+ÃšjhegydÃ¼lÅ‘
+Ãšjhegyi
+Ãšjhelyi
+Ãšjhelyi Imre
+ÃšjhÃ­d
+Ãšjhuta
+ÃšjÃ­tÃ³
+ÃšjÃ­tÃ³k
+ÃšjjÃ¡Ã©pÃ­tÃ©s
+Ãšjkender
+Ãšjkert
+Ãšjkincsem
+ÃšjkishÃ¡z
+ÃšjkÃ³rÃ³di
+ÃšjkÃ¶zpont
+ÃšjkÃºt
+ÃšjkÃºtpuszta
+Ãšjlak
+Ãšjlaki
+Ãšjmajor
+Ãšjmajori
+ÃšjnÃ©p
+ÃšjosztÃ¡ly
+Ãšjpalota
+Ãšjpalota vÃ¡sÃ¡rcsarnok
+Ãšjpalotai
+Ãšjpalotai piac
+Ãšjpesti
+Ãšjpiac
+Ãšjpuszta
+ÃšjrÃ©ti
+ÃšjrÃ©tisor
+Ãšjsor
+Ãšjstrand
+ÃšjszÃ¡llÃ¡si
+ÃšjszÃ¡sz
+ÃšjszÃ¡szi
+ÃšjszilvÃ¡s
+ÃšjszilvÃ¡si
+ÃšjszÅ‘lÅ‘
+ÃšjszÅ‘lÅ‘ I.
+ÃšjszÅ‘lÅ‘k
+ÃšjszÅ‘lÅ‘skert
+ÃšjszÅ‘regi
+ÃšjtÃ¡bla
+Ãšjtag
+Ãšjtanya
+Ãšjtelekbokor
+Ãšjteleki
+Ãšjtelep
+Ãšjtelep I.
+Ãšjtelep II.
+Ãšjtelep III.
+Ãšjtelepi
+ÃšjtemetÅ‘
+Ãšjtemplom
+Ãšjudvar
+Ãšjudvar Esze TamÃ¡s
+ÃšjvÃ¡r
+ÃšjvÃ¡rad
+ÃšjvÃ¡rhegy
+ÃšjvÃ¡ri
+ÃšjvÃ¡ri Ede
+ÃšjvÃ¡ros
+ÃšjvÃ¡ros szÃ©l
+ÃšjvÃ¡rosi
+ÃšjvÃ¡rosi-regÃ¡lÃ©
+ÃšjvÃ¡rosi ÃºtfÃ©l
+ÃšjvÃ¡sÃ¡rtÃ©r
+Ãšjvermek
+ÃšjvidÃ©k
+ÃšjvidÃ©ki
+ÃšjvilÃ¡g
+ÃšjvirÃ¡ghegy
+ÃšrbÃ©res
+Ãšrhidai
+Ãšri
+Ãšrihegy
+ÃšrrÃ©t
+ÃšrrÃ©tje
+ÃšrszÅ‘lÅ‘
+ÃšszÃ³
+ÃšsztatÃ³
+ÃštÅ‘rhÃ¡z
+ÃštszÃ©l
+ÃšttÃ¶rÅ‘
+ÃšttÃ¶rÅ‘k
+Ãœde
+Ãœdekert
+ÃœdÃ¼lÃ©s
+ÃœdÃ¼lÅ‘
+ÃœdÃ¼lÅ‘ terÃ¼let
+ÃœdÃ¼lÅ‘k
+ÃœdÃ¼lÅ‘Ã¶vezet
+ÃœdÃ¼lÅ‘sor
+ÃœdÃ¼lÅ‘telep
+ÃœdÃ¼lÅ‘terÃ¼let
+ÃœgetÅ‘
+ÃœgyÃ©sz
+ÃœgyvivÅ‘
+ÃœllÅ‘
+ÃœllÅ‘i
+ÃœltetÃ©s I.
+ÃœltetÃ©s II.
+ÃœltetvÃ©ny
+Ãœrge
+ÃœrgÃ©s
+ÃœrgemezÅ‘
+ÃœrgevÃ¡rpuszta
+ÃœrmÃ©ny
+ÃœrmÃ©nyi
+ÃœrmÃ¶s
+ÃœrmÃ¶shÃ¡t
+ÃœrÃ¶g
+ÃœrÃ¶gi
+ÃœrÃ¶gi Lajos
+ÃœrÃ¶mhegyi
+ÃœrÃ¶mi
+Ãœst
+Ãœsth Gyula
+Ãœsthegy
+ÃœstÃ¶kÃ¶s
+ÃœszÃ¶gi
+ÃœszÃ¶gi kiserdÅ‘
+ÃœszÃ¶gi vÃ­ztÃ¡rolÃ³
+ÃœszÃ¶gpuszta
+Ãœteg
+ÃœtkÃ¶zÅ‘
+ÃœttÃ¶rÅ‘
+Ãœveg-ÃsvÃ¡nybÃ¡nya
+Ãœveges
+ÃœveggyÃ¡r
+ÃœveghÃ¡z
+ÃœzbÃ©g
+Å°rhajÃ³s
+Å°rhajÃ³sok
+Å°rÃ¶gi Lajos
 Ucekaj
 Udvar
-Udvarbíró
+UdvarbÃ­rÃ³
 Udvardi
-Udvardi János
+Udvardi JÃ¡nos
 Udvarhely
 Udvarhelyi
 Udvari Vince
-Udvarköz
+UdvarkÃ¶z
 Udvarnoki
 Ugaj
 Ugar
-Ugarszél
+UgarszÃ©l
 Ugi
 Ugocsa
 Ugor
-Ugró Gyula
-Ugróhegyi
-Ugron Gábor
+UgrÃ³ Gyula
+UgrÃ³hegyi
+Ugron GÃ¡bor
 Ugrovicza
 Ugyer
 Ugyer XI. ker.
 Ugyeri
 Uhl Antal
-Uitz Béla
+Uitz BÃ©la
 Ujhegyi
-Ujszõlõ
-Ulászló
+UjszÅ‘lÅ‘
+UlÃ¡szlÃ³
 Ulcisia
 Ulicska
 Undi
-Ungvár
-Ungvári
-Ungvári pince
-Ungvárikert
-Universitás
+UngvÃ¡r
+UngvÃ¡ri
+UngvÃ¡ri pince
+UngvÃ¡rikert
+UniversitÃ¡s
 Universitas
 Unoka
 Unokakert
 Unterberger
-Uránia
+UrÃ¡nia
 Uraji
-Uraság
-Urbán Pál
+UrasÃ¡g
+UrbÃ¡n PÃ¡l
 Urbanics
 Urbantsok
-Uszály
-Uszói
+UszÃ¡ly
+UszÃ³i
 Uszoda
-Usztató
-Utász
+UsztatÃ³
+UtÃ¡sz
 Utas
-Utód
-Uttörõ
-Uzdóc
+UtÃ³d
+UttÃ¶rÅ‘
+UzdÃ³c
 Uzovicstelep
 Uzsa
 Uzsok
 Uzsoki
 V.
 V. ker.
-V. kerület
+V. kerÃ¼let
 VI.
 VI.-os
-VI.Körzet
+VI.KÃ¶rzet
 VI. ker.
-VI. kerület
+VI. kerÃ¼let
 VII.
-VII. kerület
+VII. kerÃ¼let
 VIII.
-VIII. kerület
+VIII. kerÃ¼let
 VIT
-Vácbottyán
-Vácduka
-Vácegres
-Váchartyán
-Váci
-Váci Mihály
-Vácika
-Vácrátót
-Váczi Ferenc
-Váczi János
-Váczi Mihály
-Vág
-Vág József
-Vágány
-Vágás
-Vágfarkasd
-Vághó Ferenc
-Vághy Ferenc
-Vági
-Vágó
-Vágó Béla
-Vágó Pál
-Vágóháztanya
-Vágóhíd
-Vágóhídi
-Vágóhid
-Vágóhidikert
-Vágotpuszta
-Vágsellye
-Vágsellyei
-Vágújhely
-Vágújhelyi
-Vájár
-Vákáncsos
-Váli
-Válicka
-Vállalkozók
-Váltó
-Váltóõr
-Vályi István
-Vályi Nagy Tibor
-Vályi Péter
-Vályog
-Vályogos
-Vám
-Vámbéry Ármin
-Vámház
-Vámkerék
-Vámos
-Vámos Ilona
-Vámosgyörk
-Vámosi
-Vámospércsi
-Vámossy
-Vámraktár
-Vámrét
-Vámudvar
-Váncsodi
-Váncza Mihály
-Vándor
-Vándor Sándor
-Ványoló
-Vár
-Várad
-Váradi
-Váradi Dániel
-Váradi Sándor
-Váraditag
-Várady Antal
-Várady József
-Váralja
-Váraljai
-Várallyai György
-Várbalogi
-Várberki
-Várbükki
-Várdai Miklós
-Várday István
-Várdomb
-Várerdõ
-Várfal
-Várföldei
-Várfõ
-Várfok
-Várgede
-Várhalom
-Várhegy
-Várhegyalja
-Várhegyi
-Várhegyi Károly
-Várhely
-Vári
-Vári Emil
-Várisi
-Várkapitány
-Várkapu
-Várkert
-Várkerület
-Várkör
-Várkörút
-Várköz
-Várkonyi
-Várkonyi Anikó
-Várkonyi István
-Várkonyi Nándor
-Várkonyi Zoltán
-Vármegi
-Vármegye
-Vármegyeháza
-Várna
-Várnagy
-Várnai
-Vároldal
-Város
-Városfal
-Városföld
-Városgazda
-Városház
-Városháza
-Városi
-Városkapu
-Városkapu Metróállomás
-Városkapu Üzletközpont 1
-Városkert
-Városkút
-Városkúti
-Városligeti
-Városmajor
-Városszer
-Városvég
-Várpalota
-Várpince
-Várrét
-Várszói
-Vártó
-Várudvar
-Várvíz
-Várvölgyi
-Váry
-Váry Emil
-Várzug
-Vásár
-Vásárcsarnok
-Vásárhelyi
-Vásárhelyi András
-Vásárhelyi István
-Vásárhelyi Pál
-Vásáros
-Vásárosok
-Vásárszél
-Vásártér
-Vásártéralj
-Vásártéri
-Vásáry István
-Vászolyi
-Vászonfehérítõ
-Vázkerámia
-Vázsony
-Vázsonyi
+VÃ¡cbottyÃ¡n
+VÃ¡cduka
+VÃ¡cegres
+VÃ¡chartyÃ¡n
+VÃ¡ci
+VÃ¡ci MihÃ¡ly
+VÃ¡cika
+VÃ¡crÃ¡tÃ³t
+VÃ¡czi Ferenc
+VÃ¡czi JÃ¡nos
+VÃ¡czi MihÃ¡ly
+VÃ¡g
+VÃ¡g JÃ³zsef
+VÃ¡gÃ¡ny
+VÃ¡gÃ¡s
+VÃ¡gfarkasd
+VÃ¡ghÃ³ Ferenc
+VÃ¡ghy Ferenc
+VÃ¡gi
+VÃ¡gÃ³
+VÃ¡gÃ³ BÃ©la
+VÃ¡gÃ³ PÃ¡l
+VÃ¡gÃ³hÃ¡ztanya
+VÃ¡gÃ³hÃ­d
+VÃ¡gÃ³hÃ­di
+VÃ¡gÃ³hid
+VÃ¡gÃ³hidikert
+VÃ¡gotpuszta
+VÃ¡gsellye
+VÃ¡gsellyei
+VÃ¡gÃºjhely
+VÃ¡gÃºjhelyi
+VÃ¡jÃ¡r
+VÃ¡kÃ¡ncsos
+VÃ¡li
+VÃ¡licka
+VÃ¡llalkozÃ³k
+VÃ¡ltÃ³
+VÃ¡ltÃ³Å‘r
+VÃ¡lyi IstvÃ¡n
+VÃ¡lyi Nagy Tibor
+VÃ¡lyi PÃ©ter
+VÃ¡lyog
+VÃ¡lyogos
+VÃ¡m
+VÃ¡mbÃ©ry Ãrmin
+VÃ¡mhÃ¡z
+VÃ¡mkerÃ©k
+VÃ¡mos
+VÃ¡mos Ilona
+VÃ¡mosgyÃ¶rk
+VÃ¡mosi
+VÃ¡mospÃ©rcsi
+VÃ¡mossy
+VÃ¡mraktÃ¡r
+VÃ¡mrÃ©t
+VÃ¡mudvar
+VÃ¡ncsodi
+VÃ¡ncza MihÃ¡ly
+VÃ¡ndor
+VÃ¡ndor SÃ¡ndor
+VÃ¡nyolÃ³
+VÃ¡r
+VÃ¡rad
+VÃ¡radi
+VÃ¡radi DÃ¡niel
+VÃ¡radi SÃ¡ndor
+VÃ¡raditag
+VÃ¡rady Antal
+VÃ¡rady JÃ³zsef
+VÃ¡ralja
+VÃ¡raljai
+VÃ¡rallyai GyÃ¶rgy
+VÃ¡rbalogi
+VÃ¡rberki
+VÃ¡rbÃ¼kki
+VÃ¡rdai MiklÃ³s
+VÃ¡rday IstvÃ¡n
+VÃ¡rdomb
+VÃ¡rerdÅ‘
+VÃ¡rfal
+VÃ¡rfÃ¶ldei
+VÃ¡rfÅ‘
+VÃ¡rfok
+VÃ¡rgede
+VÃ¡rhalom
+VÃ¡rhegy
+VÃ¡rhegyalja
+VÃ¡rhegyi
+VÃ¡rhegyi KÃ¡roly
+VÃ¡rhely
+VÃ¡ri
+VÃ¡ri Emil
+VÃ¡risi
+VÃ¡rkapitÃ¡ny
+VÃ¡rkapu
+VÃ¡rkert
+VÃ¡rkerÃ¼let
+VÃ¡rkÃ¶r
+VÃ¡rkÃ¶rÃºt
+VÃ¡rkÃ¶z
+VÃ¡rkonyi
+VÃ¡rkonyi AnikÃ³
+VÃ¡rkonyi IstvÃ¡n
+VÃ¡rkonyi NÃ¡ndor
+VÃ¡rkonyi ZoltÃ¡n
+VÃ¡rmegi
+VÃ¡rmegye
+VÃ¡rmegyehÃ¡za
+VÃ¡rna
+VÃ¡rnagy
+VÃ¡rnai
+VÃ¡roldal
+VÃ¡ros
+VÃ¡rosfal
+VÃ¡rosfÃ¶ld
+VÃ¡rosgazda
+VÃ¡roshÃ¡z
+VÃ¡roshÃ¡za
+VÃ¡rosi
+VÃ¡roskapu
+VÃ¡roskapu MetrÃ³Ã¡llomÃ¡s
+VÃ¡roskapu ÃœzletkÃ¶zpont 1
+VÃ¡roskert
+VÃ¡roskÃºt
+VÃ¡roskÃºti
+VÃ¡rosligeti
+VÃ¡rosmajor
+VÃ¡rosszer
+VÃ¡rosvÃ©g
+VÃ¡rpalota
+VÃ¡rpince
+VÃ¡rrÃ©t
+VÃ¡rszÃ³i
+VÃ¡rtÃ³
+VÃ¡rudvar
+VÃ¡rvÃ­z
+VÃ¡rvÃ¶lgyi
+VÃ¡ry
+VÃ¡ry Emil
+VÃ¡rzug
+VÃ¡sÃ¡r
+VÃ¡sÃ¡rcsarnok
+VÃ¡sÃ¡rhelyi
+VÃ¡sÃ¡rhelyi AndrÃ¡s
+VÃ¡sÃ¡rhelyi IstvÃ¡n
+VÃ¡sÃ¡rhelyi PÃ¡l
+VÃ¡sÃ¡ros
+VÃ¡sÃ¡rosok
+VÃ¡sÃ¡rszÃ©l
+VÃ¡sÃ¡rtÃ©r
+VÃ¡sÃ¡rtÃ©ralj
+VÃ¡sÃ¡rtÃ©ri
+VÃ¡sÃ¡ry IstvÃ¡n
+VÃ¡szolyi
+VÃ¡szonfehÃ©rÃ­tÅ‘
+VÃ¡zkerÃ¡mia
+VÃ¡zsony
+VÃ¡zsonyi
 Vachor
-Vachot Sándor
+Vachot SÃ¡ndor
 Vackor
 Vacsi
 Vacsihegy
 Vad
-Vadása
-Vadász
-Vadászdomb
-Vadászház
-Vadászkürt
-Vadászles
-Vadászmajor
-Vadászvölgy
+VadÃ¡sa
+VadÃ¡sz
+VadÃ¡szdomb
+VadÃ¡szhÃ¡z
+VadÃ¡szkÃ¼rt
+VadÃ¡szles
+VadÃ¡szmajor
+VadÃ¡szvÃ¶lgy
 Vadalma
-Vadalmás
+VadalmÃ¡s
 Vadas
-Vadas Jenõ
-Vadas Márton
+Vadas JenÅ‘
+Vadas MÃ¡rton
 Vadasbokor
 Vadaskert
 Vadaskerti
 Vadaspuszta
 Vadastag
 Vadastanya
-Vadasvölgy
-Vaddisznó
-Vaddisznós
-Vadépuszta
-Vadetetõ
-Vadevezõs
+VadasvÃ¶lgy
+VaddisznÃ³
+VaddisznÃ³s
+VadÃ©puszta
+VadetetÅ‘
+VadevezÅ‘s
 Vadgalamb
 Vadgesztenye
 Vadkacsa
 Vadkert
 Vadkerti
-Vadkörte
+VadkÃ¶rte
 Vadliba
-Vadlúd
-Vadóc
-Vadõr
+VadlÃºd
+VadÃ³c
+VadÅ‘r
 Vadon
 Vadosfai
-Vadrózsa
+VadrÃ³zsa
 Vadruca
-Vadszõlõ
+VadszÅ‘lÅ‘
 Vadverem
-Vadvíz
-Vadvirág
+VadvÃ­z
+VadvirÃ¡g
 Vagon
 Vahot
-Vajács
+VajÃ¡cs
 Vajai
 Vajda
-Vajda Ákos
-Vajda Amália
-Vajda Ignác
+Vajda Ãkos
+Vajda AmÃ¡lia
+Vajda IgnÃ¡c
 Vajda J.
-Vajda János
+Vajda JÃ¡nos
 Vajda Lajos
-Vajda Péter
+Vajda PÃ©ter
 Vajdabokor
 Vajdahunyad
-Vajdahunyadvár
-Vajdavár
-Vajgyár
+VajdahunyadvÃ¡r
+VajdavÃ¡r
+VajgyÃ¡r
 Vajk
 Vajkay
 Vak
 Vak B.
-Vak Béla
-Vak Bottyán
-Vakarcs Kálmán
+Vak BÃ©la
+Vak BottyÃ¡n
+Vakarcs KÃ¡lmÃ¡n
 Vakaros
 Vakola
 Vakond
 Vakotta
-Valéria
-Valkói
+ValÃ©ria
+ValkÃ³i
 Vallon
 Vallos
-Valusek Dezsõ
+Valusek DezsÅ‘
 Vammala
-Vanília
+VanÃ­lia
 Vanilia
-Vannay József
+Vannay JÃ³zsef
 Vanyics
-Varászlói
-Varázs
-Varannó
+VarÃ¡szlÃ³i
+VarÃ¡zs
+VarannÃ³
 Varasd
 Varasdi
-Varbói
+VarbÃ³i
 Varga
-Vargánya
+VargÃ¡nya
 Varga Antal
 Varga G.
-Varga Gábor
-Varga János
-Varga József
+Varga GÃ¡bor
+Varga JÃ¡nos
+Varga JÃ³zsef
 Varga Katalin
-Varga László
+Varga LÃ¡szlÃ³
 Varga Lajos
-Varga Pál
+Varga PÃ¡l
 Vargabokor
 Vargacsatornapart
 Vargahegy
 Vargakert
-Vargha Damján
+Vargha DamjÃ¡n
 Vargha Gyula
 Vargyas
-Variházy Oszkár
+VarihÃ¡zy OszkÃ¡r
 Varjak
 Varjas
-Varjas Sándor
-Varjú
-Varjú Kálmán
-Varjúháj
-Varjúvár
+Varjas SÃ¡ndor
+VarjÃº
+VarjÃº KÃ¡lmÃ¡n
+VarjÃºhÃ¡j
+VarjÃºvÃ¡r
 Varjulapos
 Varkaus
-Varró
-Varrógép
+VarrÃ³
+VarrÃ³gÃ©p
 Varsa
-Varsány
-Varsányi
-Varsányi Irén
-Varsáshegy
-Varsó
+VarsÃ¡ny
+VarsÃ¡nyi
+VarsÃ¡nyi IrÃ©n
+VarsÃ¡shegy
+VarsÃ³
 Vas
 Vas Gereben
-Vasáros
+VasÃ¡ros
 Vasadhegy
 Vasadi
 Vasadmajor
 Vasaljai
 Vasas
 Vasas II.
-Vasas Szent Péter
+Vasas Szent PÃ©ter
 Vasdinnye
-Vasdinnye Szõlõhegy
-Vasfû
+Vasdinnye SzÅ‘lÅ‘hegy
+VasfÅ±
 Vasgereben
-Vasgolyó
-Vasgyár
-Vasgyári
-Vashámor
+VasgolyÃ³
+VasgyÃ¡r
+VasgyÃ¡ri
+VashÃ¡mor
 Vashegy
 Vashegyalja
-Vashídmellék
+VashÃ­dmellÃ©k
 Vaskapu
 Vaskapui
-Vaskér
-Vaskõ
-Vaskút
-Vasláb
+VaskÃ©r
+VaskÅ‘
+VaskÃºt
+VaslÃ¡b
 Vaslemez
 Vasmegyeri
-Vasmû
-Vasöntõ
-Vaspálya
+VasmÅ±
+VasÃ¶ntÅ‘
+VaspÃ¡lya
 Vaspatak
 Vaspuszta
-Vasrózsa
+VasrÃ³zsa
 Vass
 Vass E.
 Vass Imre
-Vass János
-Vass Jenõ
-Vastagh János
+Vass JÃ¡nos
+Vass JenÅ‘
+Vastagh JÃ¡nos
 Vastorony
-Vasút
-Vasútállomás
-Vasúti
-Vasútmellék
-Vasútõr
-Vasútoldal
-Vasútsor
-Vasutállomás
+VasÃºt
+VasÃºtÃ¡llomÃ¡s
+VasÃºti
+VasÃºtmellÃ©k
+VasÃºtÅ‘r
+VasÃºtoldal
+VasÃºtsor
+VasutÃ¡llomÃ¡s
 Vasutas
-Vasutasház
+VasutashÃ¡z
 Vasutaskert
 Vasutastelep
 Vasuti
-Vasvár
-Vasvári
-Vasvári Ferenc
-Vasvári Pál
-Vasverõ
-Vasvesszõ
-Vasvirág
+VasvÃ¡r
+VasvÃ¡ri
+VasvÃ¡ri Ferenc
+VasvÃ¡ri PÃ¡l
+VasverÅ‘
+VasvesszÅ‘
+VasvirÃ¡g
 Vaszary
-Vaszary Gábor
+Vaszary GÃ¡bor
 Vaszary Kolos
-Vasztélypuszta
-Vattagyár
-Vay Ádám
+VasztÃ©lypuszta
+VattagyÃ¡r
+Vay ÃdÃ¡m
 Vazul
-Vécs
-Vécsei
-Vécsetál
-Vécsey
-Vécsey Károly
-Vécsey Sándor
-Vécsey Tamás
-Vécseyvölgy
-Vécsi
-Védgát
-Védõ
-Védõnõ
-Vég
-Végardói
-Végföldi
-Végfordulat
-Végmál
-Végmáli
-Végsõ
-Végvár
-Végvári
-Véka
-Vékony
-Véménd
-Véméndi
-Véncser
-Véndeki
-Véndiófa
-Vénhegyi
-Vénkert
-Vénszõlõs-kert
-Vénusz
-Vép
-Vép-Ferencmajor
-Vépi
-Véradó
-Vércse
-Vérhalom
-Vérkúti
-Vérmezõ
-Vértanú
-Vértanúk
-Vértes
-Vértes László
-Vértes Marcell
-Vértesi
-Vértesi út
-Vérteskozma
-Vérteskozma Fõ
-Vértessy Ferenc
-Vértesszõlõsi
-Vértói
-Vérvölgy
-Vésnök
-Vésõ
-Vecsés
-Vecsési
-Vecseház
+VÃ©cs
+VÃ©csei
+VÃ©csetÃ¡l
+VÃ©csey
+VÃ©csey KÃ¡roly
+VÃ©csey SÃ¡ndor
+VÃ©csey TamÃ¡s
+VÃ©cseyvÃ¶lgy
+VÃ©csi
+VÃ©dgÃ¡t
+VÃ©dÅ‘
+VÃ©dÅ‘nÅ‘
+VÃ©g
+VÃ©gardÃ³i
+VÃ©gfÃ¶ldi
+VÃ©gfordulat
+VÃ©gmÃ¡l
+VÃ©gmÃ¡li
+VÃ©gsÅ‘
+VÃ©gvÃ¡r
+VÃ©gvÃ¡ri
+VÃ©ka
+VÃ©kony
+VÃ©mÃ©nd
+VÃ©mÃ©ndi
+VÃ©ncser
+VÃ©ndeki
+VÃ©ndiÃ³fa
+VÃ©nhegyi
+VÃ©nkert
+VÃ©nszÅ‘lÅ‘s-kert
+VÃ©nusz
+VÃ©p
+VÃ©p-Ferencmajor
+VÃ©pi
+VÃ©radÃ³
+VÃ©rcse
+VÃ©rhalom
+VÃ©rkÃºti
+VÃ©rmezÅ‘
+VÃ©rtanÃº
+VÃ©rtanÃºk
+VÃ©rtes
+VÃ©rtes LÃ¡szlÃ³
+VÃ©rtes Marcell
+VÃ©rtesi
+VÃ©rtesi Ãºt
+VÃ©rteskozma
+VÃ©rteskozma FÅ‘
+VÃ©rtessy Ferenc
+VÃ©rtesszÅ‘lÅ‘si
+VÃ©rtÃ³i
+VÃ©rvÃ¶lgy
+VÃ©snÃ¶k
+VÃ©sÅ‘
+VecsÃ©s
+VecsÃ©si
+VecsehÃ¡z
 Vecsei
 Veder
 Vedres
-Vedres Márk
-Vegyész
-Vegyészek
+Vedres MÃ¡rk
+VegyÃ©sz
+VegyÃ©szek
 Vegyszer
 Vejke
 Veker
 Vekerdi
 Vekeri
-Vekeri tanyák
+Vekeri tanyÃ¡k
 Velegi
 Velemi
 Velence
 Velencei
 Vend
-Vendég
-Vendégfogadó
-Vendégház
-Vendéglõ
+VendÃ©g
+VendÃ©gfogadÃ³
+VendÃ©ghÃ¡z
+VendÃ©glÅ‘
 Vendeki
 Vendel
-Venetiáner
+VenetiÃ¡ner
 Venetianer
 Venyige
 Vera
-Verbéna
+VerbÃ©na
 Verbina
-Verbó
-Verbói
+VerbÃ³
+VerbÃ³i
 Verbunkos
 Verdi
-Veréb
-Verébhegyi
-Verebély
-Verebély László
-Verebélyi
+VerÃ©b
+VerÃ©bhegyi
+VerebÃ©ly
+VerebÃ©ly LÃ¡szlÃ³
+VerebÃ©lyi
 Verebes
 Verebesi
 Verecke
 Vereckei
 Vereczkei
 Veres
-Veres Géza
-Veres Pálné
-Veres Péter
-Veres Zoltán
-Veresács
-Verescsárda
-Veresegyházi
-Veresegyházi Tamás
+Veres GÃ©za
+Veres PÃ¡lnÃ©
+Veres PÃ©ter
+Veres ZoltÃ¡n
+VeresÃ¡cs
+VerescsÃ¡rda
+VeresegyhÃ¡zi
+VeresegyhÃ¡zi TamÃ¡s
 Vereshomok
 Verespatak
 Veress Endre
-Veress János
-Veress Péter
+Veress JÃ¡nos
+Veress PÃ©ter
 Verhovina
 Vermek sora
-Vermekdûlõ
+VermekdÅ±lÅ‘
 Verne Gyula
-Verõ Imre
-Verõce
-Verõfény
-Verõmáj
-Verõs
-Verõszala
+VerÅ‘ Imre
+VerÅ‘ce
+VerÅ‘fÃ©ny
+VerÅ‘mÃ¡j
+VerÅ‘s
+VerÅ‘szala
 Veronika
-Verpeléti
+VerpelÃ©ti
 Vers
 Versec
 Verseci
 Verseghy
 Verseghy Ferenc
 Verseny
-Vesszõ
-Vesszõsfia János
-Veszkényi
-Veszprém
-Veszprémi
-Veszprémy
-Vetés
-Vetési
-Vetési A.
-Veterán
-Vetõ
+VesszÅ‘
+VesszÅ‘sfia JÃ¡nos
+VeszkÃ©nyi
+VeszprÃ©m
+VeszprÃ©mi
+VeszprÃ©my
+VetÃ©s
+VetÃ©si
+VetÃ©si A.
+VeterÃ¡n
+VetÅ‘
 Vett
-Vezér
-Vezekény
-Vezeték
+VezÃ©r
+VezekÃ©ny
+VezetÃ©k
 Vezseny
-Víg
-Vígh
-Vígkedvû Mihály
-Vígszínház
-Víkend
-Vívó
-Víz
-Víza
-Vízárok
-Vízakna
-Vízaknai
-Vízér
-Vízesés
-Vízfõ
-Vízforrás
-Vízgát
-Vízhányó József
-Vízház
-Vízhordó
-Vízi
-Vízimalom
-Vízimolnár
-Víziorgona
-Vízisport
-Vízkiemelõ
-Vízköz
-Vízlépcsõ
-Vízmosás
-Vízmû
-Vízmûtelep
-Víznyelõ
-Vízöntõ
-Vízpart
-Vízszél
-Víztároló
-Víztorony
-Víztükör
-Vízvezeték
+VÃ­g
+VÃ­gh
+VÃ­gkedvÅ± MihÃ¡ly
+VÃ­gszÃ­nhÃ¡z
+VÃ­kend
+VÃ­vÃ³
+VÃ­z
+VÃ­za
+VÃ­zÃ¡rok
+VÃ­zakna
+VÃ­zaknai
+VÃ­zÃ©r
+VÃ­zesÃ©s
+VÃ­zfÅ‘
+VÃ­zforrÃ¡s
+VÃ­zgÃ¡t
+VÃ­zhÃ¡nyÃ³ JÃ³zsef
+VÃ­zhÃ¡z
+VÃ­zhordÃ³
+VÃ­zi
+VÃ­zimalom
+VÃ­zimolnÃ¡r
+VÃ­ziorgona
+VÃ­zisport
+VÃ­zkiemelÅ‘
+VÃ­zkÃ¶z
+VÃ­zlÃ©pcsÅ‘
+VÃ­zmosÃ¡s
+VÃ­zmÅ±
+VÃ­zmÅ±telep
+VÃ­znyelÅ‘
+VÃ­zÃ¶ntÅ‘
+VÃ­zpart
+VÃ­zszÃ©l
+VÃ­ztÃ¡rolÃ³
+VÃ­ztorony
+VÃ­ztÃ¼kÃ¶r
+VÃ­zvezetÃ©k
 Viador
 Viadukt
 Victor Hugo
-Viczmándi
+ViczmÃ¡ndi
 Vida
-Vidám
-Vidám vásár
-Vidám verseny
-Vida József
-Vida László
-Vidító
+VidÃ¡m
+VidÃ¡m vÃ¡sÃ¡r
+VidÃ¡m verseny
+Vida JÃ³zsef
+Vida LÃ¡szlÃ³
+VidÃ­tÃ³
 Vidor
-Vidos József
-Vidovszky Béla
+Vidos JÃ³zsef
+Vidovszky BÃ©la
 Vidra
-Vidrócki
+VidrÃ³cki
 Vidtelke
-Vietórisz
+VietÃ³risz
 Vietorisz
-Vigadó
-Vigyázó Ferenc
+VigadÃ³
+VigyÃ¡zÃ³ Ferenc
 Vihar
 Viharhegyi
-Viharvédõ
+ViharvÃ©dÅ‘
 Vihony
-Vihorlát
+VihorlÃ¡t
 Vika
-Vikár Béla
-Viktória
+VikÃ¡r BÃ©la
+ViktÃ³ria
 Viktor
 Viktorpuszta
-Világ
-Világ szél
-Világos
-Világosi
-Világospuszta
-Világosság
-Világosvár
-Világosvári
-Világszabadság
+VilÃ¡g
+VilÃ¡g szÃ©l
+VilÃ¡gos
+VilÃ¡gosi
+VilÃ¡gospuszta
+VilÃ¡gossÃ¡g
+VilÃ¡gosvÃ¡r
+VilÃ¡gosvÃ¡ri
+VilÃ¡gszabadsÃ¡g
 Villa
-Villa-Baráth
-Villa-Baráth lakópark
+Villa-BarÃ¡th
+Villa-BarÃ¡th lakÃ³park
 Villa-Filip
-Villám
-Villám Miklós
-Villányi
+VillÃ¡m
+VillÃ¡m MiklÃ³s
+VillÃ¡nyi
 Villa Filip
 Villamos
-Villantó
+VillantÃ³
 Villany
 Villanytelep
 Villasor
-Villõ
+VillÅ‘
 Vilma
 Vilmahegyi
 Vilmos
-Vilmosrév
+VilmosrÃ©v
 Vilypuszta
 Vince
-Vincellér
-Vincellériskola
+VincellÃ©r
+VincellÃ©riskola
 Vincze
-Vincze István
+Vincze IstvÃ¡n
 Vinnyica
 Vinter-telep
-Vióka
+ViÃ³ka
 Viola
-Virág
-Virág Benedek
-Virág utcai
-Virágárok
-Virágfürt
-Virágh Ferenc
-Virágh Gedeon
-Virágköz
-Virágos
-Virágoshegy
-Virágoskert
-Virágoskút
-Virágosnyereg
-Virágpiac
-Virágszer
-Virágtér
-Virágvölgy
-Virágvölgyi
-Virágzó mezõ
-Virányos
+VirÃ¡g
+VirÃ¡g Benedek
+VirÃ¡g utcai
+VirÃ¡gÃ¡rok
+VirÃ¡gfÃ¼rt
+VirÃ¡gh Ferenc
+VirÃ¡gh Gedeon
+VirÃ¡gkÃ¶z
+VirÃ¡gos
+VirÃ¡goshegy
+VirÃ¡goskert
+VirÃ¡goskÃºt
+VirÃ¡gosnyereg
+VirÃ¡gpiac
+VirÃ¡gszer
+VirÃ¡gtÃ©r
+VirÃ¡gvÃ¶lgy
+VirÃ¡gvÃ¶lgyi
+VirÃ¡gzÃ³ mezÅ‘
+VirÃ¡nyos
 Virius
 Virradat
-Viscosagyár-telep
-Visegrádi
+ViscosagyÃ¡r-telep
+VisegrÃ¡di
 Visi
 Visi Imre
 Visinszky
 Visitag
-Visnya Ernõ
-Visnyeszéplak
+Visnya ErnÅ‘
+VisnyeszÃ©plak
 Visnyovszky Lajos
-Visó
+VisÃ³
 Visonta
-Visszatérõ
+VisszatÃ©rÅ‘
 Visszhang
-Viszló
+ViszlÃ³
 Viszneki
-Vitális
-Vitéz
-Vitéz János
-Vitézi
-Vitéztelek
-Vitenyédi
+VitÃ¡lis
+VitÃ©z
+VitÃ©z JÃ¡nos
+VitÃ©zi
+VitÃ©ztelek
+VitenyÃ©di
 Vitkai
-Vitkovics Mihály
-Vitnyédi
+Vitkovics MihÃ¡ly
+VitnyÃ©di
 Vitorla
-Vitorlás
+VitorlÃ¡s
 Viza
-Vizálló
-Vizafogó
-Vizekdûlõ
+VizÃ¡llÃ³
+VizafogÃ³
+VizekdÅ±lÅ‘
 Vizes
 Vizi
 Vizimalompuszta
-Vizimolnár
-Vizirózsa
-Vizivárosi
-Vizmûtelep
+VizimolnÃ¡r
+VizirÃ³zsa
+VizivÃ¡rosi
+VizmÅ±telep
 Vizsla
 Vizslak
-Vizslak tanyák
+Vizslak tanyÃ¡k
 Vizslaparki
 Vizsolyi
 Viztorony
 Vizy Zsigmond
-Vlcskó
-Vókányi
-Vótapuszta
-Vöcsök
-Völgy
-Völgyalj
-Völgyérhát
-Völgyes
-Völgyesi J.
-Völgyhajó
-Völgyi
-Völgysziget
-Vöröamarty Mihály
-Vörös
-Vörös-zászló
-Vörös Bérc
-Vörös Csillag
-Vörös Hadsereg
-Vörös berkenye
-Vörös fény
-Vörösbegy
-Vöröscsillag
-Vörösdinka
-Vörösdombi
-Vörösegyháza
-Vörösfenyõ
-Vörösgyír
-Vörösgyûrû
-Vöröshadsereg
-Vöröshajnal
-Vöröshegy
-Vöröshegyi
-Vöröskapu
-Vöröskereszt
-Vöröskereszti
-Vöröskõ
-Vöröskõalja
-Vöröskúti
-Vörösmajor
-Vörösmajori
-Vörösmarty
-Vörösmarty Mihály
-Vörösmezõ
-Vörösparti
-Vörössipkás
-Vörössipkások
-Vörössugár
-Vörösszegi
-Vöröstelek
-Vörösteleki
-Vöröstorony
-Vörösvár
-Vörösvári
-Vörrû
-Vörsi
-Võfély
-Võlegény
-Volán
-Volán-telep
-Volán Pályaudvar
-Volent öböl
-Volf György
+VlcskÃ³
+VÃ³kÃ¡nyi
+VÃ³tapuszta
+VÃ¶csÃ¶k
+VÃ¶lgy
+VÃ¶lgyalj
+VÃ¶lgyÃ©rhÃ¡t
+VÃ¶lgyes
+VÃ¶lgyesi J.
+VÃ¶lgyhajÃ³
+VÃ¶lgyi
+VÃ¶lgysziget
+VÃ¶rÃ¶amarty MihÃ¡ly
+VÃ¶rÃ¶s
+VÃ¶rÃ¶s-zÃ¡szlÃ³
+VÃ¶rÃ¶s BÃ©rc
+VÃ¶rÃ¶s Csillag
+VÃ¶rÃ¶s Hadsereg
+VÃ¶rÃ¶s berkenye
+VÃ¶rÃ¶s fÃ©ny
+VÃ¶rÃ¶sbegy
+VÃ¶rÃ¶scsillag
+VÃ¶rÃ¶sdinka
+VÃ¶rÃ¶sdombi
+VÃ¶rÃ¶segyhÃ¡za
+VÃ¶rÃ¶sfenyÅ‘
+VÃ¶rÃ¶sgyÃ­r
+VÃ¶rÃ¶sgyÅ±rÅ±
+VÃ¶rÃ¶shadsereg
+VÃ¶rÃ¶shajnal
+VÃ¶rÃ¶shegy
+VÃ¶rÃ¶shegyi
+VÃ¶rÃ¶skapu
+VÃ¶rÃ¶skereszt
+VÃ¶rÃ¶skereszti
+VÃ¶rÃ¶skÅ‘
+VÃ¶rÃ¶skÅ‘alja
+VÃ¶rÃ¶skÃºti
+VÃ¶rÃ¶smajor
+VÃ¶rÃ¶smajori
+VÃ¶rÃ¶smarty
+VÃ¶rÃ¶smarty MihÃ¡ly
+VÃ¶rÃ¶smezÅ‘
+VÃ¶rÃ¶sparti
+VÃ¶rÃ¶ssipkÃ¡s
+VÃ¶rÃ¶ssipkÃ¡sok
+VÃ¶rÃ¶ssugÃ¡r
+VÃ¶rÃ¶sszegi
+VÃ¶rÃ¶stelek
+VÃ¶rÃ¶steleki
+VÃ¶rÃ¶storony
+VÃ¶rÃ¶svÃ¡r
+VÃ¶rÃ¶svÃ¡ri
+VÃ¶rrÅ±
+VÃ¶rsi
+VÅ‘fÃ©ly
+VÅ‘legÃ©ny
+VolÃ¡n
+VolÃ¡n-telep
+VolÃ¡n PÃ¡lyaudvar
+Volent Ã¶bÃ¶l
+Volf GyÃ¶rgy
 Volkmann
 Volny
-Volny József
+Volny JÃ³zsef
 Vologda
 Volt Szovjet Laktanya
-Vonás
+VonÃ¡s
 Vonal
 Vonat
-Vontatási
+VontatÃ¡si
 Vorhotai
 Vorosilov
 Votinszky
-Vróci
-Vujicsics Tihamér
-Vukovics Sebõ
-Vulkán
-Wágner
-Wágner Gusztáv
+VrÃ³ci
+Vujicsics TihamÃ©r
+Vukovics SebÅ‘
+VulkÃ¡n
+WÃ¡gner
+WÃ¡gner GusztÃ¡v
 Wa2lder Alajos
 Wagner
-Walder József
-Wallenstein Zoltán
-Wallisch Kálmán
+Walder JÃ³zsef
+Wallenstein ZoltÃ¡n
+Wallisch KÃ¡lmÃ¡n
 Wathay
 Watthay
 Watthay Ferenc
-Wéber Ede
-Weichem Béla
-Weiner Leó
+WÃ©ber Ede
+Weichem BÃ©la
+Weiner LeÃ³
 Wekerle
-Wekerle Sándor
-Welther Károly
+Wekerle SÃ¡ndor
+Welther KÃ¡roly
 Werner Gyula
-Wesselényi
-Wesselényi Miklós
+WesselÃ©nyi
+WesselÃ©nyi MiklÃ³s
 Westsik Vilmos
-Weszprémi Gáspár
-Weszprémy
+WeszprÃ©mi GÃ¡spÃ¡r
+WeszprÃ©my
 Wiedemann
-Wigand János
-Wimmer Ágoston
+Wigand JÃ¡nos
+Wimmer Ãgoston
 Winkler
 Winkler Lajos
-Winkler Mihály
-Winter Ernõ
+Winkler MihÃ¡ly
+Winter ErnÅ‘
 Wischinszky
-Witt János
+Witt JÃ¡nos
 Wittinger
 Wittmann Antal
 Wittmann Viktor
@@ -15498,15 +15498,15 @@ Wolaffka
 Wolf G.
 Wossinszky
 X.
-X. kerület
+X. kerÃ¼let
 XI.
 XI.Ker.
 XI. ker.
-XI. kerület
+XI. kerÃ¼let
 XII.
-XII. kerület
+XII. kerÃ¼let
 XIII.
-XIII. kerület
+XIII. kerÃ¼let
 XIV.
 XIX.
 XV.
@@ -15522,271 +15522,271 @@ XXV.
 XXVI.
 XXVII.
 Xantus
-Xantus János
-Xavér
-Ybl Miklós
-Zách
-Zách Klára
-Zádor
-Zádori
-Zágon
-Zágoni
-Zágráb
-Zágrábi
-Záhony
-Zákány
-Zákó
-Zákonyi F.
-Zámenhoff
-Zámoly
-Zámolyi
-Zámor
-Zámori
-Zápolya János
-Zápor
-Zárányi
-Zárda
-Zárdakert
-Zárkert
-Zárt
-Zártkert
-Zászló
-Zászlós
-Zászlóvivõ
-Zátony
-Zátony I.
-Zátony II.
-Zátony III
-Zátony IV.
-Zátony V.
-Zátony VI.
-Zátony VII.
-Závodi
-Závodszky Zoltán
+Xantus JÃ¡nos
+XavÃ©r
+Ybl MiklÃ³s
+ZÃ¡ch
+ZÃ¡ch KlÃ¡ra
+ZÃ¡dor
+ZÃ¡dori
+ZÃ¡gon
+ZÃ¡goni
+ZÃ¡grÃ¡b
+ZÃ¡grÃ¡bi
+ZÃ¡hony
+ZÃ¡kÃ¡ny
+ZÃ¡kÃ³
+ZÃ¡konyi F.
+ZÃ¡menhoff
+ZÃ¡moly
+ZÃ¡molyi
+ZÃ¡mor
+ZÃ¡mori
+ZÃ¡polya JÃ¡nos
+ZÃ¡por
+ZÃ¡rÃ¡nyi
+ZÃ¡rda
+ZÃ¡rdakert
+ZÃ¡rkert
+ZÃ¡rt
+ZÃ¡rtkert
+ZÃ¡szlÃ³
+ZÃ¡szlÃ³s
+ZÃ¡szlÃ³vivÅ‘
+ZÃ¡tony
+ZÃ¡tony I.
+ZÃ¡tony II.
+ZÃ¡tony III
+ZÃ¡tony IV.
+ZÃ¡tony V.
+ZÃ¡tony VI.
+ZÃ¡tony VII.
+ZÃ¡vodi
+ZÃ¡vodszky ZoltÃ¡n
 Zab
 Zabla
-Zafír
-Zagyi István
+ZafÃ­r
+Zagyi IstvÃ¡n
 Zagyva
-Zagyvafõ
-Zagyvahíd
+ZagyvafÅ‘
+ZagyvahÃ­d
 Zagyvaparti
 Zahrada
-Zajgató
-Zajnát
-Zajnáthegyi
+ZajgatÃ³
+ZajnÃ¡t
+ZajnÃ¡thegyi
 Zajzon
 Zakar
 Zala
-Zalán
-Zalár József
-Zaláta
-Zala György
+ZalÃ¡n
+ZalÃ¡r JÃ³zsef
+ZalÃ¡ta
+Zala GyÃ¶rgy
 Zalaegerszeg
-Zalagyöngye
+ZalagyÃ¶ngye
 Zalai
-Zalai Tóth János
+Zalai TÃ³th JÃ¡nos
 Zalak
 Zalapataka
 Zalatna
 Zalatnai
-Zalavár
+ZalavÃ¡r
 Zalka
-Zalka Máté
+Zalka MÃ¡tÃ©
 Zalkodi
-Zamárdi
+ZamÃ¡rdi
 Zambelli Lajos
 Zamenhof
 Zanati
-Zanati Külsõ
-Zapánszky
-Zaránd
+Zanati KÃ¼lsÅ‘
+ZapÃ¡nszky
+ZarÃ¡nd
 Zaranyi
 Zay
-Zay Dezsõ
-Zboró
-Zél
-Zebegény
+Zay DezsÅ‘
+ZborÃ³
+ZÃ©l
+ZebegÃ©ny
 Zechmeister
 Zeke
-Zeke Kálmán
+Zeke KÃ¡lmÃ¡n
 Zelefa
-Zelemér
-Zelizy Dániel
-Zelk Zoltán
+ZelemÃ©r
+Zelizy DÃ¡niel
+Zelk ZoltÃ¡n
 Zeller
-Zellervár
-Zemplén
-Zemplén Gyõzõ
-Zempléni
+ZellervÃ¡r
+ZemplÃ©n
+ZemplÃ©n GyÅ‘zÅ‘
+ZemplÃ©ni
 Zene
-Zenész
+ZenÃ©sz
 Zenedomb
-Zengõ
-Zengõvárkonyi
+ZengÅ‘
+ZengÅ‘vÃ¡rkonyi
 Zenta
 Zentai
 Zeppelin
 Zerge
-Zerind vezér
+Zerind vezÃ©r
 Zeyk Domokos
 Zichy
-Zichy Géza
+Zichy GÃ©za
 Zichy Gyula
-Zichy Jenõ
-Zichy Mihály
-Zichy Ottó
-Zichy Péter
-Zidina környék
-Zielinsky Szilárd
+Zichy JenÅ‘
+Zichy MihÃ¡ly
+Zichy OttÃ³
+Zichy PÃ©ter
+Zidina kÃ¶rnyÃ©k
+Zielinsky SzilÃ¡rd
 Zilah
 Zilahi
-Zimay László
-Zimmer János
+Zimay LÃ¡szlÃ³
+Zimmer JÃ¡nos
 Zimony
 Zimonyi
-Zipernowsky Károly
+Zipernowsky KÃ¡roly
 Zirci
-Ziribár
+ZiribÃ¡r
 Zirzen Janka
 Zita
 Zivatar
 Zlinszky
-Zója
-Zóla Emil
-Zólyom
-Zólyomi
-Zöcske
-Zöcsketelep
-Zöld
-Zöld Sándor
-Zöld fa
-Zöld lomb
-Zöld pálya
-Zöldág
-Zölddomb
-Zölddombi
-Zöldellõ
-Zöldfa
-Zöldfa-belsõ
-Zöldfási
-Zöldfasor
-Zöldfodorka
-Zöldhalom
-Zöldike
-Zöldkert
-Zöldkõ
-Zöldkút
-Zöldmáli
-Zöldmajor
-Zöldmezõ
-Zöldséges
-Zöldváralja
-Zöldvirág
-Zobáki
-Zobákpuszta
+ZÃ³ja
+ZÃ³la Emil
+ZÃ³lyom
+ZÃ³lyomi
+ZÃ¶cske
+ZÃ¶csketelep
+ZÃ¶ld
+ZÃ¶ld SÃ¡ndor
+ZÃ¶ld fa
+ZÃ¶ld lomb
+ZÃ¶ld pÃ¡lya
+ZÃ¶ldÃ¡g
+ZÃ¶lddomb
+ZÃ¶lddombi
+ZÃ¶ldellÅ‘
+ZÃ¶ldfa
+ZÃ¶ldfa-belsÅ‘
+ZÃ¶ldfÃ¡si
+ZÃ¶ldfasor
+ZÃ¶ldfodorka
+ZÃ¶ldhalom
+ZÃ¶ldike
+ZÃ¶ldkert
+ZÃ¶ldkÅ‘
+ZÃ¶ldkÃºt
+ZÃ¶ldmÃ¡li
+ZÃ¶ldmajor
+ZÃ¶ldmezÅ‘
+ZÃ¶ldsÃ©ges
+ZÃ¶ldvÃ¡ralja
+ZÃ¶ldvirÃ¡g
+ZobÃ¡ki
+ZobÃ¡kpuszta
 Zobor
 Zoborhegy
 Zobori
-Zocskár
-Zodóföldi
-Zoltán
+ZocskÃ¡r
+ZodÃ³fÃ¶ldi
+ZoltÃ¡n
 Zoltai
 Zoltai Lajos
-Zoltay István
+Zoltay IstvÃ¡n
 Zoltay Lajos
-Zománc
+ZomÃ¡nc
 Zombor
 Zombori
-Zombori Gedõ
+Zombori GedÅ‘
 Zomboribokor
 Zombory Lajos
-Zopánszky
-Zoványi Jenõ
-Zrínyi
-Zrínyi Ilona
-Zrínyi M.
-Zrínyi Mihály
-Zrínyi Miklós
-Zrínyi Péter
-Zrínyiász
-Zsák
-Zsák Hugó
-Zsálya
-Zsámba
-Zsámbék
-Zsámbéki
-Zsámbok-réti
-Zsámoly
+ZopÃ¡nszky
+ZovÃ¡nyi JenÅ‘
+ZrÃ­nyi
+ZrÃ­nyi Ilona
+ZrÃ­nyi M.
+ZrÃ­nyi MihÃ¡ly
+ZrÃ­nyi MiklÃ³s
+ZrÃ­nyi PÃ©ter
+ZrÃ­nyiÃ¡sz
+ZsÃ¡k
+ZsÃ¡k HugÃ³
+ZsÃ¡lya
+ZsÃ¡mba
+ZsÃ¡mbÃ©k
+ZsÃ¡mbÃ©ki
+ZsÃ¡mbok-rÃ©ti
+ZsÃ¡moly
 Zsalu
-Zsarátnok
+ZsarÃ¡tnok
 Zsarnai
-Zsarnó
-Zsaró
-Zsdánov
-Zsélyi Aladár
+ZsarnÃ³
+ZsarÃ³
+ZsdÃ¡nov
+ZsÃ©lyi AladÃ¡r
 Zseb
 Zsebe
-Zsebeházi Lajos
-Zsedényi Béla
+ZsebehÃ¡zi Lajos
+ZsedÃ©nyi BÃ©la
 Zsejke
 Zselic
-Zsellér
-Zsellérdûlõ
+ZsellÃ©r
+ZsellÃ©rdÅ±lÅ‘
 Zsemberi
-Zsemlékes
+ZsemlÃ©kes
 Zsemlye
 Zsenge
-Zsengellér
+ZsengellÃ©r
 Zserc
-Zsíl
-Zsílvölgy
-Zsíros
-Zsíros János
-Zsíroshegy Külterület
-Zsíroshegyi
-Zsibói
+ZsÃ­l
+ZsÃ­lvÃ¶lgy
+ZsÃ­ros
+ZsÃ­ros JÃ¡nos
+ZsÃ­roshegy KÃ¼lterÃ¼let
+ZsÃ­roshegyi
+ZsibÃ³i
 Zsidahegy
 Zsidai
 Zsidi
-Zsidóhalom
-Zsigárd
-Zsigárdi
-Zsigárdmajor
-Zsigaháza
+ZsidÃ³halom
+ZsigÃ¡rd
+ZsigÃ¡rdi
+ZsigÃ¡rdmajor
+ZsigahÃ¡za
 Zsigmond
 Zsigmond Ferenc
-Zsigmond király
-Zsigmondháza
+Zsigmond kirÃ¡ly
+ZsigmondhÃ¡za
 Zsigmondi
 Zsigmondi Vilmos
 Zsigmondy Vilmos
 Zsil
 Zsilinszky
 Zsilip
-Zsilvölgy
-Zsilvölgyi
+ZsilvÃ¶lgy
+ZsilvÃ¶lgyi
 Zsindely
 Zsindelyes tanya
 Zsineg
-Zsinkó István
-Zsinór
-Zsippó
+ZsinkÃ³ IstvÃ¡n
+ZsinÃ³r
+ZsippÃ³
 Zsira
 Zsirai
-Zsirai Miklós
+Zsirai MiklÃ³s
 Zsitfapuszta
 Zsitva
 Zsivaj
 Zsivora
-Zsófi
-Zsófia
-Zsógor
-Zsókavár
-Zsótér
-Zsölleháti
+ZsÃ³fi
+ZsÃ³fia
+ZsÃ³gor
+ZsÃ³kavÃ¡r
+ZsÃ³tÃ©r
+ZsÃ¶llehÃ¡ti
 Zsodoma
-Zsohárszer
+ZsohÃ¡rszer
 Zsolcai
 Zsoldos
 Zsolna
@@ -15794,34 +15794,34 @@ Zsolnai
 Zsolnay
 Zsolnay Vilmos
 Zsolt
-Zsolt Nándor
+Zsolt NÃ¡ndor
 Zsolt fejedelem
-Zsolt vezér
-Zsombék
+Zsolt vezÃ©r
+ZsombÃ©k
 Zsombolyai
 Zsombor
 Zsombos
-Zsong völgy
-Zsongorkõ
+Zsong vÃ¶lgy
+ZsongorkÅ‘
 Zsukma
-Zsukó
+ZsukÃ³
 Zsukov
-Zsurló
+ZsurlÃ³
 Zsuzsa
-Zsuzsánna
+ZsuzsÃ¡nna
 Zsuzsanna
-Zúgó
-Zúzmara
+ZÃºgÃ³
+ZÃºzmara
 Zug
 Zugkert
 Zugliget
 Zugligeti
-Zugor István
-Zuhánya
+Zugor IstvÃ¡n
+ZuhÃ¡nya
 Zuhany
 Zuhatag
 Zulejka
-Zurányi
+ZurÃ¡nyi
 Zurna
-Zuzmó
+ZuzmÃ³
 Zwingli

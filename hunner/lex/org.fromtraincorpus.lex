@@ -1,15 +1,15 @@
-Investicná a Rozvojová Banka
+InvesticnÃ¡ a RozvojovÃ¡ Banka
 IRB
 OTP Bank
 OTP Bank
 MTI
 IRB
 MTI-t
-Ernst and Young Könyvvizsgáló Kft-t
+Ernst and Young KÃ¶nyvvizsgÃ¡lÃ³ Kft-t
 Magyar Nemzeti Bank
-Állami Számvevõszék
-ÁSZ
-ÁSZ
+Ãllami SzÃ¡mvevÅ‘szÃ©k
+ÃSZ
+ÃSZ
 MTI-t
 Manchester United
 Deloitte and Touche
@@ -17,11 +17,11 @@ Arthur Andersen
 United Airlines
 UAL Corp.
 CNNMoney
-SAP-szoftvercég
+SAP-szoftvercÃ©g
 Andersen
 KPMG-t
 Reuters
-Xerox Corp.-ról
+Xerox Corp.-rÃ³l
 Xerox Corp.
 Wall Street Journal
 Instineten
@@ -32,8 +32,8 @@ PWC
 PWC
 EU
 GAS
-Enronéhoz
-WorldComnál
+EnronÃ©hoz
+WorldComnÃ¡l
 Enronhoz
 Vivendi Universal
 Le Monde
@@ -65,219 +65,219 @@ Interpublic Group
 Wall Streeten
 Hanover Compressor
 Globus
-Magyar Tõkepiacban
+Magyar TÅ‘kepiacban
 Konzumbank
 OTP Bank Rt.
 Raiffeisen
-Magyar Tõkepiac
+Magyar TÅ‘kepiac
 Postabank
-Magyar Tõkepiacban
-Buda-Cash Brókerház Rt.
-Magyar Tõkepiacban
+Magyar TÅ‘kepiacban
+Buda-Cash BrÃ³kerhÃ¡z Rt.
+Magyar TÅ‘kepiacban
 Keler Rt.
-Magyarországi Kockázatkezelõk Egyesületének
+MagyarorszÃ¡gi KockÃ¡zatkezelÅ‘k EgyesÃ¼letÃ©nek
 Eravis Rt.
-Magyar Tõkepiacban
-Aranypók Kereskedelmi Rt.
-Budapesti Értéktõzsdérõl
+Magyar TÅ‘kepiacban
+AranypÃ³k Kereskedelmi Rt.
+Budapesti Ã‰rtÃ©ktÅ‘zsdÃ©rÅ‘l
 MTI
-Kereskedelmi és Hitelbank
+Kereskedelmi Ã©s Hitelbank
 ABN Amro Magyar Bank Rt.
 BorsodChem
-Magyar Tõkepiac
+Magyar TÅ‘kepiac
 FHB
 BorsodChem
-Magyar Tõkepiacban
+Magyar TÅ‘kepiacban
 Graphisoft N.V.
-Magyar Tõkepiac
+Magyar TÅ‘kepiac
 Arago Rt.
-Magyar Tõkepiacban
+Magyar TÅ‘kepiacban
 Csepel Holding Rt.
-Magyar Tõkepiacban
+Magyar TÅ‘kepiacban
 Milton Apartman Rt.
-Magyar Tõkepiacban
-CIB Közép-európai Nemzetközi Bank Rt.
-Magyar Tõkepiac
+Magyar TÅ‘kepiacban
+CIB KÃ¶zÃ©p-eurÃ³pai NemzetkÃ¶zi Bank Rt.
+Magyar TÅ‘kepiac
 BNP-Dresdner Bank Hungaria Rt.
-BNP Paribas Hungária Bank Rt.
+BNP Paribas HungÃ¡ria Bank Rt.
 BNP Paribas Bank Rt.
 Ikarus Rt.
 MTI-t
-GarAgent-Excel Gyártó és Kereskedelmi Rt.
-Magyar Tõkepiacban
-Graboplast Textil és Mûbõrgyártó Rt.
-Magyar Tõkepiac
+GarAgent-Excel GyÃ¡rtÃ³ Ã©s Kereskedelmi Rt.
+Magyar TÅ‘kepiacban
+Graboplast Textil Ã©s MÅ±bÅ‘rgyÃ¡rtÃ³ Rt.
+Magyar TÅ‘kepiac
 Synergon Informatika Rt.
 econet.hu Informatikai Rt.
-Magyar Tõkepiac
-Észak-dunántúli Áramszolgáltató Rt.
-Édász
-Magyar Tõkepiac
+Magyar TÅ‘kepiac
+Ã‰szak-dunÃ¡ntÃºli ÃramszolgÃ¡ltatÃ³ Rt.
+Ã‰dÃ¡sz
+Magyar TÅ‘kepiac
 BorsodChem
-Magyar Tõkepiacban
+Magyar TÅ‘kepiacban
 Graboplast Rt.
-ABC Befektetési Rt.
-Milton Apartman Ingatlanforgalmazó és -hasznosító Rt.
-Budapesti Értéktõzsdérõl
-Magyar Tõkepiacban
-Dél-magyarországi Áramszolgáltató Rt.
-Démász
-Észak-magyarországi Áramszolgáltató Rt.
-Émász
-Magyar Tõkepiacban
+ABC BefektetÃ©si Rt.
+Milton Apartman IngatlanforgalmazÃ³ Ã©s -hasznosÃ­tÃ³ Rt.
+Budapesti Ã‰rtÃ©ktÅ‘zsdÃ©rÅ‘l
+Magyar TÅ‘kepiacban
+DÃ©l-magyarorszÃ¡gi ÃramszolgÃ¡ltatÃ³ Rt.
+DÃ©mÃ¡sz
+Ã‰szak-magyarorszÃ¡gi ÃramszolgÃ¡ltatÃ³ Rt.
+Ã‰mÃ¡sz
+Magyar TÅ‘kepiacban
 Domestore Kft.
-Arago Befektetési Holding Rt.
+Arago BefektetÃ©si Holding Rt.
 Arago
 MTI-t
-Dél-dunántúli Áramszolgáltató Rt.
-Dédász
-Budapesti Ingatlan Hasznosítási és Fejlesztési Rt.
+DÃ©l-dunÃ¡ntÃºli ÃramszolgÃ¡ltatÃ³ Rt.
+DÃ©dÃ¡sz
+Budapesti Ingatlan HasznosÃ­tÃ¡si Ã©s FejlesztÃ©si Rt.
 BIF
-Styl Ruhagyár Rt.
-Magyar Tõkepiacban
-CIB Rent Operatív Lízing Rt.
-Magyar Tõkepiacban
-Pannon-Flax Gyõri Lenszövõ Rt.
-Magyar Tõkepiacban
+Styl RuhagyÃ¡r Rt.
+Magyar TÅ‘kepiacban
+CIB Rent OperatÃ­v LÃ­zing Rt.
+Magyar TÅ‘kepiacban
+Pannon-Flax GyÅ‘ri LenszÃ¶vÅ‘ Rt.
+Magyar TÅ‘kepiacban
 IBUSZ Rt.
 IBUSZ
-Magyar Tõkepiacban
+Magyar TÅ‘kepiacban
 Csepel Holding Rt.
 GarAgent-Excel
 Garex Rt.
 Csepel Holding
-Magyar Tõkepiac
-Budapesti Értéktõzsde
-Magyar Tõkepiacban
-Európai Jelzálogszövetség Általános Tanácsa
-FHB Földhitel és Jelzálogbankot
+Magyar TÅ‘kepiac
+Budapesti Ã‰rtÃ©ktÅ‘zsde
+Magyar TÅ‘kepiacban
+EurÃ³pai JelzÃ¡logszÃ¶vetsÃ©g ÃltalÃ¡nos TanÃ¡csa
+FHB FÃ¶ldhitel Ã©s JelzÃ¡logbankot
 FHB
 MTI-t
 Budapest Bank
 Pick Szeged Rt.
-Magyar Tõkepiac
-Budapesti Értéktõzsde
-Budapesti Értéktõzsde
-BÉT
-Tõzsdetanács
+Magyar TÅ‘kepiac
+Budapesti Ã‰rtÃ©ktÅ‘zsde
+Budapesti Ã‰rtÃ©ktÅ‘zsde
+BÃ‰T
+TÅ‘zsdetanÃ¡cs
 Budapest Bank Rt.
-Magyar Tõkepiacban
-Inter-Európa Bank Rt.
-Magyar Tõkepiacban
+Magyar TÅ‘kepiacban
+Inter-EurÃ³pa Bank Rt.
+Magyar TÅ‘kepiacban
 Kartonpack Dobozipari Rt.
 Hungagent
-Magyar Tõkepiac
-Csopak Szövetkezeti Rt.
-Magyar Tõkepiac
-Budapesti Értéktõzsde Tanácsa
-Magyar Tõkepiac
+Magyar TÅ‘kepiac
+Csopak SzÃ¶vetkezeti Rt.
+Magyar TÅ‘kepiac
+Budapesti Ã‰rtÃ©ktÅ‘zsde TanÃ¡csa
+Magyar TÅ‘kepiac
 OTP Bank Rt.
 OTP Bank Rt.
-Antenna Hungária Rt.
-Magyar Külkereskedelmi Bank MKB Rt.
-Magyar Tõkepiacban
-Arago Befektetési Holding Rt.
-Budapesti Értéktõzsde
+Antenna HungÃ¡ria Rt.
+Magyar KÃ¼lkereskedelmi Bank MKB Rt.
+Magyar TÅ‘kepiacban
+Arago BefektetÃ©si Holding Rt.
+Budapesti Ã‰rtÃ©ktÅ‘zsde
 Eravis
-Budapesti Értéktõzsdérõl
-Magyar Tõkepiac
-Pannon-Flax Gyõri Lenszövõ Rt.
+Budapesti Ã‰rtÃ©ktÅ‘zsdÃ©rÅ‘l
+Magyar TÅ‘kepiac
+Pannon-Flax GyÅ‘ri LenszÃ¶vÅ‘ Rt.
 MTI-t
-Rizikó Factory Rt.
-Magyar Tõkepiac
-Második Deviza Factory Rt.
-Magyar Tõkepiacban
+RizikÃ³ Factory Rt.
+Magyar TÅ‘kepiac
+MÃ¡sodik Deviza Factory Rt.
+Magyar TÅ‘kepiacban
 Kartonpack Dobozipari Rt.
 MTI-t
 Konzum Rt
 MTI-t
-ÖIAG
+Ã–IAG
 Telekom Austria
 TA
 TA
-ÖIAG
+Ã–IAG
 Telekom Austria
 TA
 Deutsche Telekom AG
 DT
-France Télécom SA
+France TÃ©lÃ©com SA
 FT
 Deutsche Telekom
-Vértesi Erõmû Rt.
-Magyar Villamos Mûvek
+VÃ©rtesi ErÅ‘mÅ± Rt.
+Magyar Villamos MÅ±vek
 MVM
 Rt.
-Oroszlányi Erõmû Rt.
-Állami Privatizációs és Vagyonkezelõ ÁPV Rt.
+OroszlÃ¡nyi ErÅ‘mÅ± Rt.
+Ãllami PrivatizÃ¡ciÃ³s Ã©s VagyonkezelÅ‘ ÃPV Rt.
 Lurgi Lentjes Bischoff
-Vértesi Erõmû
-ÁPV Rt.
-Kékkúti Ásványvíz Rt.
-PSZÁF
+VÃ©rtesi ErÅ‘mÅ±
+ÃPV Rt.
+KÃ©kkÃºti ÃsvÃ¡nyvÃ­z Rt.
+PSZÃF
 Perrier
-NAPI Gazdaságban
+NAPI GazdasÃ¡gban
 MiZo-Baranyatej Rt.
 Frieseland
 MiZo
 Vectigalis
-NAPI Gazdaságban
-Bizományi Kereskedõház és Záloghitel Rt.
-BÁV Rt.
+NAPI GazdasÃ¡gban
+BizomÃ¡nyi KereskedÅ‘hÃ¡z Ã©s ZÃ¡loghitel Rt.
+BÃV Rt.
 OTP Bank Rt.
 Pro-Cash Rt.
-Magyar Villamos Mûvek
+Magyar Villamos MÅ±vek
 MVM
 Rt.
-ÁPV Rt.
+ÃPV Rt.
 MVM
 MTI-t
-ÁPV Rt.
-Vértesi Erõmû Rt.
-NAPI Gazdaságból
-ÁPV Rt.
-Vértesi Erõmû Rt.
-Vért
-ÁPV Rt.
-Vértesi Erõmû Rt.
-Magyar Villamos Mûvek Rt.
-Vért
-Magyar Villamos Mûvek
+ÃPV Rt.
+VÃ©rtesi ErÅ‘mÅ± Rt.
+NAPI GazdasÃ¡gbÃ³l
+ÃPV Rt.
+VÃ©rtesi ErÅ‘mÅ± Rt.
+VÃ©rt
+ÃPV Rt.
+VÃ©rtesi ErÅ‘mÅ± Rt.
+Magyar Villamos MÅ±vek Rt.
+VÃ©rt
+Magyar Villamos MÅ±vek
 MVM
 Rt.
-ÁPV Rt.
-Magyar Villamosirányító Rendszer
+ÃPV Rt.
+Magyar VillamosirÃ¡nyÃ­tÃ³ Rendszer
 MAVIR
 Rt.
-ÁPV Rt.
-Vértesi Erõmû Rt.
-Vértesi Erõmû Rt.-nél
-Pannon Rádiót
-Gidó Média Kft.
-MIÉP-hez
-Bocskai István Szabadegyetemért Alapítvány
-Zsolnay-cégcsoport
-Manufaktúra Rt.-nél
-NAPI Gazdaság
-NAPI Gazdaságban
-Bábolna Rt.
+ÃPV Rt.
+VÃ©rtesi ErÅ‘mÅ± Rt.
+VÃ©rtesi ErÅ‘mÅ± Rt.-nÃ©l
+Pannon RÃ¡diÃ³t
+GidÃ³ MÃ©dia Kft.
+MIÃ‰P-hez
+Bocskai IstvÃ¡n SzabadegyetemÃ©rt AlapÃ­tvÃ¡ny
+Zsolnay-cÃ©gcsoport
+ManufaktÃºra Rt.-nÃ©l
+NAPI GazdasÃ¡g
+NAPI GazdasÃ¡gban
+BÃ¡bolna Rt.
 MFB Proxy Kft.
-Bábolna Rt.
+BÃ¡bolna Rt.
 Arthur Andersen
 KPMG
-Osztrák Nemzeti Banknak
+OsztrÃ¡k Nemzeti Banknak
 OTP Bank Rt.
 IAS
-Magyar Tõkepiacban
-Magyar Bankszövetség
-Adó és Pénzügyi Ellenõrzési Hivatal
+Magyar TÅ‘kepiacban
+Magyar BankszÃ¶vetsÃ©g
+AdÃ³ Ã©s PÃ©nzÃ¼gyi EllenÅ‘rzÃ©si Hivatal
 APEH
-Adó és Pénzügyi Ellenõrzési Hivatal
+AdÃ³ Ã©s PÃ©nzÃ¼gyi EllenÅ‘rzÃ©si Hivatal
 APEH
 Beiersdorf
-Általános Értékforgalmi Bank Rt.
-ÁÉB Rt.
+ÃltalÃ¡nos Ã‰rtÃ©kforgalmi Bank Rt.
+ÃÃ‰B Rt.
 MTI-t
-Magyar Fejlesztési Bank Rt.
+Magyar FejlesztÃ©si Bank Rt.
 MFB
 MTI-hez
 Deustche Postbank
@@ -287,13 +287,13 @@ Citibank Rt.
 MTI-t
 Credit Suisse
 Donaldson Lufkin Jenrette
-Pénzügyi Szervezetek Állami Felügyelete
-PSZÁF
+PÃ©nzÃ¼gyi Szervezetek Ãllami FelÃ¼gyelete
+PSZÃF
 Raiffeisen Zentralbank
 RZB
 OTP Bank Rt.
 IAS
-Földhitel és Jelzálogbank Rt.
+FÃ¶ldhitel Ã©s JelzÃ¡logbank Rt.
 FHB
 MTI-t
 Bankgesellschaft
@@ -301,117 +301,117 @@ Visa International
 MTI-t
 Deutsche Bank
 Deutsche Bank
-Általános Értékforgalmi Bank Rt.
-ÁÉB
+ÃltalÃ¡nos Ã‰rtÃ©kforgalmi Bank Rt.
+ÃÃ‰B
 MTI-t
 Generali Holding Vienna AG
-HypoVereinsbank Hungária Rt.
-Hungária Biztosító Rt.
+HypoVereinsbank HungÃ¡ria Rt.
+HungÃ¡ria BiztosÃ­tÃ³ Rt.
 MTI-t
-Osztrák Takarékpénztárak Erste Bankjának
-Adó és Pénzügyi Ellenõrzési Hivatal
+OsztrÃ¡k TakarÃ©kpÃ©nztÃ¡rak Erste BankjÃ¡nak
+AdÃ³ Ã©s PÃ©nzÃ¼gyi EllenÅ‘rzÃ©si Hivatal
 APEH
-Adóvilág
-Pénzügyi Szervezetek Állami Felügyeletének
-PSZÁF
-Pénzügyi Szervezetek Állami Felügyelete
-PSZÁF
+AdÃ³vilÃ¡g
+PÃ©nzÃ¼gyi Szervezetek Ãllami FelÃ¼gyeletÃ©nek
+PSZÃF
+PÃ©nzÃ¼gyi Szervezetek Ãllami FelÃ¼gyelete
+PSZÃF
 Volksbanken csoport Volksbanken
-Postabank és Takarékpénztár Rt.
-Zalakerámia Rt.
-Magyar Tõkepiacban
-Generali-Providencia Biztosító Rt.
+Postabank Ã©s TakarÃ©kpÃ©nztÃ¡r Rt.
+ZalakerÃ¡mia Rt.
+Magyar TÅ‘kepiacban
+Generali-Providencia BiztosÃ­tÃ³ Rt.
 Synergon Informatika Rt.
 IAS
-Magyar Tõkepiac
+Magyar TÅ‘kepiac
 PZU
 Eureko
 Eureko
 Dresdner Bank
 Richter Rt.
 IAS
-Kinizsi Takarékszövetkezet
+Kinizsi TakarÃ©kszÃ¶vetkezet
 Bank Creditanstalt
 Bank Austria
 HypoVereinsbank
 Visa International
-Magyarországi Volksbank Rt.
+MagyarorszÃ¡gi Volksbank Rt.
 CSOB
 Commerzbank AG
 MTI-nek
-Magyar Bankszövetség
+Magyar BankszÃ¶vetsÃ©g
 Erste Bankja
 Konzumbank Rt.
 MTI-hez
 Gaz de France
-Észak-dunántúli Gázszolgáltató
-Égáz
+Ã‰szak-dunÃ¡ntÃºli GÃ¡zszolgÃ¡ltatÃ³
+Ã‰gÃ¡z
 Rt.-nek
-Dél-alföldi Gázszolgáltató
-Dégáz
+DÃ©l-alfÃ¶ldi GÃ¡zszolgÃ¡ltatÃ³
+DÃ©gÃ¡z
 Rt.-nek
-Kalendart Kiadó Kft.
+Kalendart KiadÃ³ Kft.
 MTI
 Porsche Hungaria
 MTI-t
 Manchester Unitedet
 Old Trafford
-Borsodi Sörgyár Rt.
-Steinbock Boss Hungária SBH Kft.
+Borsodi SÃ¶rgyÃ¡r Rt.
+Steinbock Boss HungÃ¡ria SBH Kft.
 Steinbock
 Steinbock
 OM Pimespo
 SAS
 SAS Institute
-Vértesi Erõmû Rt.
-Paksi Atomerõmû Rt.
-Mahart Balatoni Hajózási Rt.
-Magyar Fejlesztési Bank
+VÃ©rtesi ErÅ‘mÅ± Rt.
+Paksi AtomerÅ‘mÅ± Rt.
+Mahart Balatoni HajÃ³zÃ¡si Rt.
+Magyar FejlesztÃ©si Bank
 Mahart
-Balatoni Hajózási Rt.-ként
-Ericsson Magyarország Kft
-Nestlé Hungária Kft.
+Balatoni HajÃ³zÃ¡si Rt.-kÃ©nt
+Ericsson MagyarorszÃ¡g Kft
+NestlÃ© HungÃ¡ria Kft.
 GTS DataNet Kft.
 Osram Kft.
-Piackutatók Magyarországi Szövetsége
+PiackutatÃ³k MagyarorszÃ¡gi SzÃ¶vetsÃ©ge
 PMSZ
-Vegyépszer Rt.
-Vegyépszer
-NAPI Gazdaságnak
-NAPI Gazdaságban
-Délhús Rt.
+VegyÃ©pszer Rt.
+VegyÃ©pszer
+NAPI GazdasÃ¡gnak
+NAPI GazdasÃ¡gban
+DÃ©lhÃºs Rt.
 IKR Rt.
 Claas
 IKR
 New Holland
 Visteon Hungary VH Kft.
 VH
-Ford Corporation-rõl
+Ford Corporation-rÅ‘l
 Ford
-Rauch Hungária Kft.
+Rauch HungÃ¡ria Kft.
 Pannon GSM
 Cora
 Magyar Hipermarketek Kft.
-Wienerberger Téglaipari Rt.
+Wienerberger TÃ©glaipari Rt.
 Magyar Cukor Rt.
-Általános Fogyasztási és Értékesítési Szövetkezetek
-ÁFEOSZ
+ÃltalÃ¡nos FogyasztÃ¡si Ã©s Ã‰rtÃ©kesÃ­tÃ©si SzÃ¶vetkezetek
+ÃFEOSZ
 Magyar Posta Rt.
 Skoda Auto a.s.
 SA
-Skodát
+SkodÃ¡t
 SA
-Skodát
+SkodÃ¡t
 Porsche Hungaria
-Tetra Pak Hungária Rt.
-Dél-dunántúli Gázszolgáltató DdGáz Rt.
-Tenkesgáz Kft.-t
-Magyar Fejlesztési Bank
+Tetra Pak HungÃ¡ria Rt.
+DÃ©l-dunÃ¡ntÃºli GÃ¡zszolgÃ¡ltatÃ³ DdGÃ¡z Rt.
+TenkesgÃ¡z Kft.-t
+Magyar FejlesztÃ©si Bank
 MFB
-Bábolna Rt.
-Bábolna Rt.
-Danone Tejtermék Gyártó és Forgalmazó Kft.
-Cisco Systems Magyarország Kft.
+BÃ¡bolna Rt.
+BÃ¡bolna Rt.
+Danone TejtermÃ©k GyÃ¡rtÃ³ Ã©s ForgalmazÃ³ Kft.
+Cisco Systems MagyarorszÃ¡g Kft.
 Abbey National
 Lloyds TSB
 The Sunday Times
@@ -427,29 +427,29 @@ Cegetel
 Vivendi Universal
 CBSMarketWatch
 Deutsche Bank AG
-DB Lübeck
+DB LÃ¼beck
 DB Saar
 Deutsche Bank
-Lübeck
+LÃ¼beck
 Saar
 Saar
-Arago Befektetési Holding Rt.
-Falcotrade Húsipari és Kereskedelmi Rt.-ben
+Arago BefektetÃ©si Holding Rt.
+Falcotrade HÃºsipari Ã©s Kereskedelmi Rt.-ben
 Arago
-Magyar Tõkepiacban
+Magyar TÅ‘kepiacban
 Deutsche Bank
 Dresdner Bank
 OTP Bank Rt.
-Magyar Ingatlan Befektetõ Beruházó Forgalmazó és Fejlesztõ Kft.-nek
+Magyar Ingatlan BefektetÅ‘ BeruhÃ¡zÃ³ ForgalmazÃ³ Ã©s FejlesztÅ‘ Kft.-nek
 MIB Kft.-nek
 CD Hungary Rt.
 CDH
-Magyar Tõkepiac
-Magyar Külkereskedelmi Bank MKB Rt.
+Magyar TÅ‘kepiac
+Magyar KÃ¼lkereskedelmi Bank MKB Rt.
 Tradespotting Kft.-ben
-Magyar Tõkepiac
-Cégbíróság
-Vivendi Telecom Hungary Távközlési Szolgáltató Rt.
+Magyar TÅ‘kepiac
+CÃ©gbÃ­rÃ³sÃ¡g
+Vivendi Telecom Hungary TÃ¡vkÃ¶zlÃ©si SzolgÃ¡ltatÃ³ Rt.
 V-fon
 V-com
 V-net
@@ -457,71 +457,71 @@ MFB
 Defend Security Kft.-ben
 V.I.B Kft.
 V.I.B Kft.-t
-Napi Gazdaságban
-MOL Magyar Olaj és Gázipari Rt.
-Rotary Fúrási Rt.
+Napi GazdasÃ¡gban
+MOL Magyar Olaj Ã©s GÃ¡zipari Rt.
+Rotary FÃºrÃ¡si Rt.
 CROSCO Integrated Drilling & Well Services Co.-nak
 Arago Rt.
 Pick Rt.-ben
-Concorde Értékpapír Rt.
+Concorde Ã‰rtÃ©kpapÃ­r Rt.
 MTI-t
 Csepel Holding Rt.-ben
-Magyar Tõkepiacban
-Második Deviza Factory Rt.
-Rizikó Factory Rt.
-D-Tár Mezõgazdasági és Szolgáltató Kft.
-D-Termin Üzleti Tanácsadó Kft.
-Magyar Tõkepiac
+Magyar TÅ‘kepiacban
+MÃ¡sodik Deviza Factory Rt.
+RizikÃ³ Factory Rt.
+D-TÃ¡r MezÅ‘gazdasÃ¡gi Ã©s SzolgÃ¡ltatÃ³ Kft.
+D-Termin Ãœzleti TanÃ¡csadÃ³ Kft.
+Magyar TÅ‘kepiac
 Bank Austria Credintanstalt Croatia
 Hypovereinsbank Zagreb
 HVB Croatia
 Hypovereinsbank
 Bank Austria
-Kereskedelmi és Hitelbank
+Kereskedelmi Ã©s Hitelbank
 ABN-Amro Magyar Bank
 K and H
 Allianz
-Rosnóban
+RosnÃ³ban
 Allianznak
-Pénzügyi Szervezetek Állami Felügyelete
-PSZÁF
-Gazdasági Versenyhivatal
+PÃ©nzÃ¼gyi Szervezetek Ãllami FelÃ¼gyelete
+PSZÃF
+GazdasÃ¡gi Versenyhivatal
 GVH
-Kereskedelmi és Hitelbank
+Kereskedelmi Ã©s Hitelbank
 K and H
 ABN AMRO Magyar Bank Rt.
 AAM
 K and H
 MTI-t
-Komercní Banka
+KomercnÃ­ Banka
 UniCredito
 HypoVereinsbank
-Société Générale
+SociÃ©tÃ© GÃ©nÃ©rale
 Euro
 CE OIL and Gas Beteilung und Verwaltungs AG
-Tiszai Vegyi Kombinát
+Tiszai Vegyi KombinÃ¡t
 TVK
 Rt-ben
 TVK
-Magyar Tõkepiacban
-Concorde Értékpapír Rt.
+Magyar TÅ‘kepiacban
+Concorde Ã‰rtÃ©kpapÃ­r Rt.
 Aquila Kft-ben
 Concorde
-Magyar Tõkepiac
-Inter-Európa Bank Rt.-ben
-Magyar Tõkepiacban
+Magyar TÅ‘kepiac
+Inter-EurÃ³pa Bank Rt.-ben
+Magyar TÅ‘kepiacban
 Magyar Posta Rt.
 MTI-nek
-Tiszai Vegyi Kombinát Rt.
-Ecomissio Kereskedelmi és Szolgáltató Kft.-ben
+Tiszai Vegyi KombinÃ¡t Rt.
+Ecomissio Kereskedelmi Ã©s SzolgÃ¡ltatÃ³ Kft.-ben
 TVK
-Magyar Tõkepiacban
-CA-IB Értékpapír Rt.-ben
-Magyar Tõkepiacban
+Magyar TÅ‘kepiacban
+CA-IB Ã‰rtÃ©kpapÃ­r Rt.-ben
+Magyar TÅ‘kepiacban
 Europay International
 Mastercard International
 OTP Bank Rt.
-Beruházási és Fejlesztési Bank
+BeruhÃ¡zÃ¡si Ã©s FejlesztÃ©si Bank
 IRB
 MTI
 OTP Bank
@@ -537,54 +537,54 @@ HypoVereinsbankhoz
 BA
 HVB Hungary Rt.
 Bank Austria Creditanstalt Hungary Rt.
-HypoVereinsbank Hungária Rt.
+HypoVereinsbank HungÃ¡ria Rt.
 MTI-t
-Tiszai Vegyi Kombinát
+Tiszai Vegyi KombinÃ¡t
 TVK
 Rt.
 Tisza-Form Kft.-t
 TVK
-Magyar Tõkepiacban
-Európai Újjáépítési és Fejlesztési Bank
+Magyar TÅ‘kepiacban
+EurÃ³pai ÃšjjÃ¡Ã©pÃ­tÃ©si Ã©s FejlesztÃ©si Bank
 EBRD
-Polnobankából
+PolnobankÃ¡bÃ³l
 UniCredito
-Pannónia Országos Önkéntes és Magánnyugdíjpénztár
-Winterthur Országos Önkéntes és Magánnyugdíjpénztárba
+PannÃ³nia OrszÃ¡gos Ã–nkÃ©ntes Ã©s MagÃ¡nnyugdÃ­jpÃ©nztÃ¡r
+Winterthur OrszÃ¡gos Ã–nkÃ©ntes Ã©s MagÃ¡nnyugdÃ­jpÃ©nztÃ¡rba
 Aegon NV
 Royal and Sun Alliance
 UniCredito Italiano
 Allianz
-Zagrebacka bankával
+Zagrebacka bankÃ¡val
 Magyar Posta
 Postabankban
 Magyar Posta Rt.
-Magyar Tõkepiacban
-Postabank és Takarékpénztár Rt.-ben
+Magyar TÅ‘kepiacban
+Postabank Ã©s TakarÃ©kpÃ©nztÃ¡r Rt.-ben
 Postabank
 Csopak Rt.-ben
 Ivydale Investments
 Csopak
-Magyar Tõkepiac
+Magyar TÅ‘kepiac
 IRB
 OTP Bank Rt.
 Magyar Budapest Fund
 Pannon-Flax
 Pannon-Flax
-Magyar Tõkepiacban
+Magyar TÅ‘kepiacban
 International Moscow Bank
 IMB
 HypoVereinsbank
 Bank Austria Creditanstalt
 IMB
-Komercni Banká
+Komercni BankÃ¡
 Unicredito
-Société Générale
-Crédit Agricole Indosuez
+SociÃ©tÃ© GÃ©nÃ©rale
+CrÃ©dit Agricole Indosuez
 HypoVereinsbank
 Halifax
 Bank of Scotland
-Nemzetközi Olajtõzsde
+NemzetkÃ¶zi OlajtÅ‘zsde
 IPE
 Intercontinental Exchange
 ICE
@@ -592,127 +592,127 @@ IPE-t
 NYMEX-szel
 Halifax
 Bank of Scotland
-Magyar Külkereskedelmi Bank Rt.
-Centrinvest Vagyonkezelõ Kft.
+Magyar KÃ¼lkereskedelmi Bank Rt.
+Centrinvest VagyonkezelÅ‘ Kft.
 MKB-hoz
-Magyar Tõkepiacban
+Magyar TÅ‘kepiacban
 BNP Paribas
 BancWestet
 BNP
 Erste Bankja
-Slovenská Sporitelna
-Európai Újjáépítési és Fejlesztési Banknak
+SlovenskÃ¡ Sporitelna
+EurÃ³pai ÃšjjÃ¡Ã©pÃ­tÃ©si Ã©s FejlesztÃ©si Banknak
 EBRD
 Deutsche Bank AG
 National Discount Brokers Group Inc.
 Wall Street Journal Europe
 Beck
-Német Serfõzõ Céh
+NÃ©met SerfÅ‘zÅ‘ CÃ©h
 DBB
 Heineken
 Arago Rt.-ben
 Domestore Kft.
 Arago
-Magyar Tõkepiacban
+Magyar TÅ‘kepiacban
 LVMH
-Raiffeisen Zentralbanké
+Raiffeisen ZentralbankÃ©
 Banca Agricola
 Barclays
 Abbey Nationalre
 Lloyds TSB-nek
 Sunday Business
-Autóker Holding Rt.
-Mahart Magyar Hajózási Részvénytársaság
-Domestore Üzletviteli és Tanácsadó Kft.
-Pénzügyi Szervezetek Állami Felügyeletéhez
+AutÃ³ker Holding Rt.
+Mahart Magyar HajÃ³zÃ¡si RÃ©szvÃ©nytÃ¡rsasÃ¡g
+Domestore Ãœzletviteli Ã©s TanÃ¡csadÃ³ Kft.
+PÃ©nzÃ¼gyi Szervezetek Ãllami FelÃ¼gyeletÃ©hez
 Arago
-Magyar Tõkepiac
+Magyar TÅ‘kepiac
 OTP Bank
-Investicna a Rozvojová Bankában
+Investicna a RozvojovÃ¡ BankÃ¡ban
 SITA
-Rizikó Factory Rt.-ben
-Második Deviza Factory Rt.-ben
-Magyar Tõkepiacban
+RizikÃ³ Factory Rt.-ben
+MÃ¡sodik Deviza Factory Rt.-ben
+Magyar TÅ‘kepiacban
 Monte dei Paschi
 Banca Nazionale Lavoro
-Buda-Cash Brókerház Rt.
-DH Univerzum Értékpapír Kereskedelmi Rt.
-Budapesti Értéktõzsde
-BÉT
-Magyar Tõkepiac
-Osztrák Raiffeisen Zentralbankot
+Buda-Cash BrÃ³kerhÃ¡z Rt.
+DH Univerzum Ã‰rtÃ©kpapÃ­r Kereskedelmi Rt.
+Budapesti Ã‰rtÃ©ktÅ‘zsde
+BÃ‰T
+Magyar TÅ‘kepiac
+OsztrÃ¡k Raiffeisen Zentralbankot
 RZB
 Postabank
 Der Standard
 RZB
-Banca Agricolában
+Banca AgricolÃ¡ban
 Raiffeisen Zentralbank
 RZB
-Magyar Külkereskedelmi Bank Rt.
+Magyar KÃ¼lkereskedelmi Bank Rt.
 MKB
 Convest banka d.d Zagreb
 MKB
-Magyar Tõkepiacban
-Tiszai Vegyi Kombinát Rt.
-Magyar Olaj és Gázipari Rt.
+Magyar TÅ‘kepiacban
+Tiszai Vegyi KombinÃ¡t Rt.
+Magyar Olaj Ã©s GÃ¡zipari Rt.
 Mol
-Tiszai Vegyi Kombinát Rt.
-Magyar Tõkepiacban
-Graphisoft R and D Számítástechnikai Fejlesztõ Rt.
+Tiszai Vegyi KombinÃ¡t Rt.
+Magyar TÅ‘kepiacban
+Graphisoft R and D SzÃ¡mÃ­tÃ¡stechnikai FejlesztÅ‘ Rt.
 Graphisoft N.V.
-Magyar Tõkepiacban
-Telekom Austriában
-Erste Bankjáé
+Magyar TÅ‘kepiacban
+Telekom AustriÃ¡ban
+Erste BankjÃ¡Ã©
 Slovenska Sporitelna
 American General
 AIG
 Prudential
-Magyar Külkereskedelmi Bank Rt.
+Magyar KÃ¼lkereskedelmi Bank Rt.
 MKB
 Euroleasing Rt.-ben
-Magyar Tõkepiacban
-Deutsche Börse AG
-Pénzügyminisztériumban
+Magyar TÅ‘kepiacban
+Deutsche BÃ¶rse AG
+PÃ©nzÃ¼gyminisztÃ©riumban
 Postabanknak
-Földhitel és Jelzálogbankban
-Postabank és Takarékpénztár Rt.
+FÃ¶ldhitel Ã©s JelzÃ¡logbankban
+Postabank Ã©s TakarÃ©kpÃ©nztÃ¡r Rt.
 Magyar Posta Rt.
 Postabank
-Magyar Tõkepiac
-Deutsche Börse AG
+Magyar TÅ‘kepiac
+Deutsche BÃ¶rse AG
 Clearstream
-IBUSZ Utazási Irodák Kft.
+IBUSZ UtazÃ¡si IrodÃ¡k Kft.
 IBUSZ Rt.-be
-Arago Befektetési Holding Rt.
+Arago BefektetÃ©si Holding Rt.
 Eravis Rt.
 Erste Bank
 Nova Ljubljanska Bank
 NLB
 Erste Bank
 KBC Bancassurance
-Európai Újjáépítési és Fejlesztési Bank
+EurÃ³pai ÃšjjÃ¡Ã©pÃ­tÃ©si Ã©s FejlesztÃ©si Bank
 EBRD
 BAWAG
-Istrobankát
+IstrobankÃ¡t
 Dex-line Kft.-ben
-Rizikó Factory Rt.
-Magyar Tõkepiacban
+RizikÃ³ Factory Rt.
+Magyar TÅ‘kepiacban
 OTP Bank
-Szlovák Nemzeti Vagyonalap
-Beruházási és Fejlesztési Bank
+SzlovÃ¡k Nemzeti Vagyonalap
+BeruhÃ¡zÃ¡si Ã©s FejlesztÃ©si Bank
 IRB
 IRB
-Kereskedelmi és Hitelbank Rt.
+Kereskedelmi Ã©s Hitelbank Rt.
 ABN AMRO Magyar Bank Rt.-vel
 GE Capital International Financing Corporation
 Budapest Bank Rt.
 GE
 Budapest Bankban
 GE
-Magyar Tõkepiacban
-Karsai Mûanyagtechnikai Holding Rt.
-Pannonplast Mûanyagipari Rt.-ben
-Magyar Tõkepiac
+Magyar TÅ‘kepiacban
+Karsai MÅ±anyagtechnikai Holding Rt.
+Pannonplast MÅ±anyagipari Rt.-ben
+Magyar TÅ‘kepiac
 DEKRA International GmbH
 AXA Konzern AG
 Expert Kft.-ben
@@ -722,62 +722,62 @@ PG
 OTP Bank
 OTP Bank
 MTI-nek
-OTP-é
-Beruházási és Fejlesztési Bank
+OTP-Ã©
+BeruhÃ¡zÃ¡si Ã©s FejlesztÃ©si Bank
 IRB
-Investicná a rozvojová banka
-OTP Bank Rt.-é
-Beruházási és Fejlesztési Bank
+InvesticnÃ¡ a rozvojovÃ¡ banka
+OTP Bank Rt.-Ã©
+BeruhÃ¡zÃ¡si Ã©s FejlesztÃ©si Bank
 IRB
 OTP Bank Rt.
-Magyar Külkereskedelmi Banktól
+Magyar KÃ¼lkereskedelmi BanktÃ³l
 MKB
 Air-Invest Kft.
 OTP
 Air-Invest
 OTP Bank Rt.
-Magyar Tõkepiacban
+Magyar TÅ‘kepiacban
 Britton Capital and Consulting Kft.
 Kartonpack
-ABC Befektetési Rt.
+ABC BefektetÃ©si Rt.
 Graboplast Rt.
-Innova-Invest Befektetési
-Fejlesztési Rt.
+Innova-Invest BefektetÃ©si
+FejlesztÃ©si Rt.
 IBUSZ Rt.
 OTP Bank Rt.
-Beruházási és Fejlesztési Bank
+BeruhÃ¡zÃ¡si Ã©s FejlesztÃ©si Bank
 IRB
 OTP
 IRB Bank
-Concorde Értékpapír Rt.
-Corcorde Értékpapír Rt.
+Concorde Ã‰rtÃ©kpapÃ­r Rt.
+Corcorde Ã‰rtÃ©kpapÃ­r Rt.
 Concorde Direkt Kft.
-Magyar Tõkepiacban
+Magyar TÅ‘kepiacban
 Kartonpack Dobozipari Rt.
 Britton Capital and Consulting Kft.
 Kartonpack
 MTI-t
-Generalbroker Értékpapír Rt.
-Budapesti Értéktõzsde
-Magyar Tõkepiacban
-Kereskedelmi és Hitelbank Rt.
+Generalbroker Ã‰rtÃ©kpapÃ­r Rt.
+Budapesti Ã‰rtÃ©ktÅ‘zsde
+Magyar TÅ‘kepiacban
+Kereskedelmi Ã©s Hitelbank Rt.
 ABN AMRO Magyar Bank Rt.
 K and H-ban
 KBC Bank N.V.
 ABN AMRO Bank N.V.
-Magyar Tõkepiac
+Magyar TÅ‘kepiac
 Konzum Rt.-ben
-Magyar Tõkepiac
-Arago Befektetési Holding Rt.
+Magyar TÅ‘kepiac
+Arago BefektetÃ©si Holding Rt.
 Eravis
-Magyar Tõkepiacban
+Magyar TÅ‘kepiacban
 Michelin
 Stomil Olsztyn
 CGNU
 ABN AMRO
-MÉBIT-et
+MÃ‰BIT-et
 ABN AMRO
-MÉBIT
+MÃ‰BIT
 Unicredito Italiano
 Commerzbank AG
 Bayerische HypoVereinsbank
@@ -787,56 +787,56 @@ BPH
 Ipari-kereskedelmi Bank Rt.
 Powszechny Bank Kredytowy SA
 PBK
-Általános Hitelbank Rt.
+ÃltalÃ¡nos Hitelbank Rt.
 Arago Rt.
 Pick
 Pick
-Transyl-West Vagyonkezelõ Kft.
+Transyl-West VagyonkezelÅ‘ Kft.
 Biodiszkont Rt.-ben
-Magyar Tõkepiacban
-Arago Befektetési Holding Rt.
+Magyar TÅ‘kepiacban
+Arago BefektetÃ©si Holding Rt.
 Eravis Rt.-ben
-Magyar Tõkepiac
+Magyar TÅ‘kepiac
 Tengelmann Warenhandelsgesellschaft
-Skála-Coop Rt.-ben
-Magyar Tõkepiacban
-Inter-Európa Bank Rt.
-Budapesti Értéktõzsdén
-IE-New York Broker Befektetési Rt.
-BÉT
-Magyar Tõkepiacban
+SkÃ¡la-Coop Rt.-ben
+Magyar TÅ‘kepiacban
+Inter-EurÃ³pa Bank Rt.
+Budapesti Ã‰rtÃ©ktÅ‘zsdÃ©n
+IE-New York Broker BefektetÃ©si Rt.
+BÃ‰T
+Magyar TÅ‘kepiacban
 Mol Rt.
 PKN Orlen
 Mol Rt.
-Pénzügyi Szervezetek Állami Felügyelete
+PÃ©nzÃ¼gyi Szervezetek Ãllami FelÃ¼gyelete
 JP Morgan Guaranty Trust Co.-t
 Molban
-Magyar Tõkepiac
-Gastron Ingatlanhasznosító és Vendéglátó Rt.
+Magyar TÅ‘kepiac
+Gastron IngatlanhasznosÃ­tÃ³ Ã©s VendÃ©glÃ¡tÃ³ Rt.
 Bonbon Hemingway Kereskedelmi Rt.-ben
-Magyar Tõkepiac
+Magyar TÅ‘kepiac
 Johnson Wax Professional
 DiverseyLever
-K and H Kötvény Alap
-K and H Aranykosár Alapba
-K and H Cash Flow Nyíltvégû Befektetési Alap
-K and H Pénzpiaci Alapba
-K and H Általános Befektetési Alapkezelõ Rt.
-Magyar Tõkepiacban
+K and H KÃ¶tvÃ©ny Alap
+K and H AranykosÃ¡r Alapba
+K and H Cash Flow NyÃ­ltvÃ©gÅ± BefektetÃ©si Alap
+K and H PÃ©nzpiaci Alapba
+K and H ÃltalÃ¡nos BefektetÃ©si AlapkezelÅ‘ Rt.
+Magyar TÅ‘kepiacban
 Vnyestorgbank
 VTB
 EBRD-nek
-ABC Vagyonkezelõ Rt.
+ABC VagyonkezelÅ‘ Rt.
 Graboplast Rt.-ben
 ABC Rt.
-Magyar Tõkepiacban
+Magyar TÅ‘kepiacban
 Commerzbank
 Deutsche Bank
 Dresdner Bank
 Deutsche Bank
 AP
 OTP Bank RT.
-Beruházási és Fejlesztési Bank
+BeruhÃ¡zÃ¡si Ã©s FejlesztÃ©si Bank
 IRB
 Commerzbank
 Deutsche Bank
@@ -844,40 +844,40 @@ Dresdner Bank
 Die Welt
 Eurohypo
 Karsai Holding Rt.
-Pannonplast Mûanyagipari Rt.-ben
-Magyar Tõkepiacban
+Pannonplast MÅ±anyagipari Rt.-ben
+Magyar TÅ‘kepiacban
 CE Oil and Gas Beteilung und Verwaltung AG
 BorsodChem
 CE Oil
 BorsodChem
-Magyar Tõkepiacban
+Magyar TÅ‘kepiacban
 Commerzbank
-Pénzügyi Szervezetek Állami Felügyelete
-PSZÁF
+PÃ©nzÃ¼gyi Szervezetek Ãllami FelÃ¼gyelete
+PSZÃF
 Bank Austria Creditanstalt Hungary Rt.
-HypoVereinsbank Hungária Rt.
-Magyar Tõkepiacban
-MKB Nyugdíjpénztárat
-Stabilitás Nyugdíjpénztári Szövetség
+HypoVereinsbank HungÃ¡ria Rt.
+Magyar TÅ‘kepiacban
+MKB NyugdÃ­jpÃ©nztÃ¡rat
+StabilitÃ¡s NyugdÃ­jpÃ©nztÃ¡ri SzÃ¶vetsÃ©g
 MTI-t
 Mol
-OMV-é
+OMV-Ã©
 OMV
-Magyar Tõkepiac
-Arago Befektetési Holding Rt.
-Eravis Szálloda és Vendéglátó Rt.-ben
+Magyar TÅ‘kepiac
+Arago BefektetÃ©si Holding Rt.
+Eravis SzÃ¡lloda Ã©s VendÃ©glÃ¡tÃ³ Rt.-ben
 Eravis
 MTI-t
 Hamos AG
 Konzum Rt.-ben
 Konzum
-Magyar Tõkepiacban
+Magyar TÅ‘kepiacban
 Budapest Bank Rt.
 Commerzbank
 Unicredito Italiano
-MKB Értékpapír Rt.
-Magyar Külkereskedelmi Bankra
-Magyar Tõkepiac
+MKB Ã‰rtÃ©kpapÃ­r Rt.
+Magyar KÃ¼lkereskedelmi Bankra
+Magyar TÅ‘kepiac
 Asahi Bank
 Daiwa
 Asahi
@@ -885,11 +885,11 @@ Asahi
 Daiwa
 HVB Hungary Rt.
 Bank Austria Creditanstalt Hungary
-HypoVereinsbank Hungária
+HypoVereinsbank HungÃ¡ria
 HVB Hungary
 Budapest Bank Rt.
-Nemzetközi Bankárképzõ Rt.-ben
-Magyar Tõkepiacban
+NemzetkÃ¶zi BankÃ¡rkÃ©pzÅ‘ Rt.-ben
+Magyar TÅ‘kepiacban
 Raiffeisen Zentralbank
 Poczta Polska
 Raiffeisen
@@ -897,14 +897,14 @@ Bank Pocztowy
 K and H Bank Rt.
 ABN Amro Bankkal
 K and H
-Vállalati ingatlanok
-Állami Privatizációs és Vagyonkezelõ Rt.
-Postabank és Takarékpénztár Rt.-nek
-Magyar Tõkepiac
+VÃ¡llalati ingatlanok
+Ãllami PrivatizÃ¡ciÃ³s Ã©s VagyonkezelÅ‘ Rt.
+Postabank Ã©s TakarÃ©kpÃ©nztÃ¡r Rt.-nek
+Magyar TÅ‘kepiac
 OTP Bank Rt.
-Beruházási és Fejlesztési Bank
+BeruhÃ¡zÃ¡si Ã©s FejlesztÃ©si Bank
 IRB
-Société Générale
+SociÃ©tÃ© GÃ©nÃ©rale
 SocGen
 Komercni Banka
 OTP Banknak
@@ -912,76 +912,76 @@ IRB Bankra
 OTP
 IRB
 OTP Bank Rt.
-Fejlesztési és Beruházási Bank
+FejlesztÃ©si Ã©s BeruhÃ¡zÃ¡si Bank
 IRB
-Magyar Fejlesztési Bank Rt.
-Diákhitel Központ Rt.-ben
-Magyar Fejlesztési Bank
+Magyar FejlesztÃ©si Bank Rt.
+DiÃ¡khitel KÃ¶zpont Rt.-ben
+Magyar FejlesztÃ©si Bank
 OTP
 OTP
 Nasdaq
 Easdaq
 Wall Street Journal Europe
 Easdaq
-E.ON Hungária Rt.
-Tiszántúli Áramszolgáltató Rt.-ben
-Titász
+E.ON HungÃ¡ria Rt.
+TiszÃ¡ntÃºli ÃramszolgÃ¡ltatÃ³ Rt.-ben
+TitÃ¡sz
 E.ON
-Magyar Tõkepiac
-CIB Közép-Európai Nemzetközi Bank Rt
-CIB Rent Operatív Lízing Rt.-ben
-Magyar Tõkepiac
-E.ON Hungária Rt.
-Tiszántúli Áramszolgáltató Rt.-ben
+Magyar TÅ‘kepiac
+CIB KÃ¶zÃ©p-EurÃ³pai NemzetkÃ¶zi Bank Rt
+CIB Rent OperatÃ­v LÃ­zing Rt.-ben
+Magyar TÅ‘kepiac
+E.ON HungÃ¡ria Rt.
+TiszÃ¡ntÃºli ÃramszolgÃ¡ltatÃ³ Rt.-ben
 E.ON
-Magyar Tõkepiac
+Magyar TÅ‘kepiac
 British Empire Securities and General Trust Plc
 Danubius Rt.-ben
-Magyar Tõkepiac
-Menedzser Inveszt Befektetési és Tanácsadó Kft.
+Magyar TÅ‘kepiac
+Menedzser Inveszt BefektetÃ©si Ã©s TanÃ¡csadÃ³ Kft.
 Graboplast Rt.-ben
-Magyar Tõkepiacban
-Émász Rt.-ben
+Magyar TÅ‘kepiacban
+Ã‰mÃ¡sz Rt.-ben
 RWE Plus AG
-Energie Baden-Württenberg
-Magyar Tõkepiac
-Elmû Rt.-ben
-Magyar Tõkepiac
-Inter-Európa Bankban
+Energie Baden-WÃ¼rttenberg
+Magyar TÅ‘kepiac
+ElmÅ± Rt.-ben
+Magyar TÅ‘kepiac
+Inter-EurÃ³pa Bankban
 IEB
 Sanpaolo IMI S.p.A.
-Magyar Tõkepiacban
+Magyar TÅ‘kepiacban
 Domestore Kft.
 Arago Rt.-ben
-Magyar Tõkepiacban
-DVG Dunaújvárosi Vagyonkezelõ Rt.
-Elsõ Hazai Energia-portfolió Rt.-ben
+Magyar TÅ‘kepiacban
+DVG DunaÃºjvÃ¡rosi VagyonkezelÅ‘ Rt.
+ElsÅ‘ Hazai Energia-portfoliÃ³ Rt.-ben
 EHEP
 EHEP
-Magyar Tõkepiac
+Magyar TÅ‘kepiac
 Pam Gas B.V.
-Prímagáz Hungária Ipari és Kereskedelmi Rt-ben
-Magyar Tõkepiac
-Gránum Befektetõ Rt.-ben
-Magyar Tõkepiac
-Zalakerámia Rt.-ben
+PrÃ­magÃ¡z HungÃ¡ria Ipari Ã©s Kereskedelmi Rt-ben
+Magyar TÅ‘kepiac
+GrÃ¡num BefektetÅ‘ Rt.-ben
+Magyar TÅ‘kepiac
+ZalakerÃ¡mia Rt.-ben
 Arago Rt.
-Magyar Tõkepiacban
+Magyar TÅ‘kepiacban
 CE Oil and Gas AG
 CEE Oil and Gas GmbH
 BorsodChemben
 TVK-ban
-Európai Újjáépítési Bank
+EurÃ³pai ÃšjjÃ¡Ã©pÃ­tÃ©si Bank
 BC-ben
-Matura Vermögensverwaltung m.b.H.
+Matura VermÃ¶gensverwaltung m.b.H.
 TVK-ban
-Magyar Tõkepiac
-Európai újjáépítési és Fejlesztési Bank
+Magyar TÅ‘kepiac
+EurÃ³pai ÃºjjÃ¡Ã©pÃ­tÃ©si Ã©s FejlesztÃ©si Bank
 EBRD
 Globtel a.s.
 OTP-vel
 Postabank
-Magyar Fejlesztési Bank
+Magyar FejlesztÃ©si Bank
 MFB
 Konzumbankot
 MFB Rt.
@@ -989,18 +989,18 @@ MTI-t
 Interbrew
 South African Breweries
 SAB
-Matáv Rt.
-Westel Mobil Távközlési Rt.
+MatÃ¡v Rt.
+Westel Mobil TÃ¡vkÃ¶zlÃ©si Rt.
 Westel 0660 Kft.
 Deutsche Telekomot
-Matáv
-Világbank
+MatÃ¡v
+VilÃ¡gbank
 IFC
 HSBC Holdings
 Demirbankot
 Cronus Kft.
-Magyar Államvasutak Rt.-tõl
-MÁV Hajdú Vasútépítõ-mélyépítõ Kft.-t
+Magyar Ãllamvasutak Rt.-tÅ‘l
+MÃV HajdÃº VasÃºtÃ©pÃ­tÅ‘-mÃ©lyÃ©pÃ­tÅ‘ Kft.-t
 Cronus Kft.
 Siemens
 General Eletric
@@ -1030,7 +1030,7 @@ Vivendi Environment SA
 Southern Water Plc
 Vivendi Universal
 Microsoft Corp.
-Navisionért
+NavisionÃ©rt
 Navision
 Microsoft Corp.
 Navision A/S
@@ -1103,7 +1103,7 @@ Northrop Grumman
 GlaxoSmithKline Biologicals
 GSK Bio
 TEVA Pharmaceutical Industries
-HUMAN Oltóanyagtermelõ és Gyógyszergyártó Rt.
+HUMAN OltÃ³anyagtermelÅ‘ Ã©s GyÃ³gyszergyÃ¡rtÃ³ Rt.
 Bloomberg
 GSK
 GlaxoSmithKline Biologicals Kft.
@@ -1119,7 +1119,7 @@ OAO Sidanco
 General Motors Corp.
 Daewoo Motors Co.
 SEC
-Hewlett-Packardtól
+Hewlett-PackardtÃ³l
 Compaqkal
 Reuters
 HP
@@ -1156,7 +1156,7 @@ Canal+
 Nemzeti Vagyonalap
 FNM
 Deutsche Telekom
-Szlovák Távközlési Vállalat
+SzlovÃ¡k TÃ¡vkÃ¶zlÃ©si VÃ¡llalat
 ST
 SITA
 Rover
@@ -1181,7 +1181,7 @@ Reuters
 New York Times-re
 News Corp Ltd.
 Vivendi Universal SA
-Telepiú
+TelepiÃº
 Le Figaro
 South African Breweries Plc
 SAB
@@ -1202,18 +1202,18 @@ Napster
 Reuters
 L'Oreal
 Beiersdorfra
-Independent on Sundaytól
-Niveáról
+Independent on SundaytÃ³l
+NiveÃ¡rÃ³l
 Beiersdorf
 Allianzhoz
 Reuters
 Mobtel A.D.
 Bloomberg
-Matáv
+MatÃ¡v
 Teva
 Bayer
 Reuters
-Bayer Classicsról Teva Classicsra
+Bayer ClassicsrÃ³l Teva Classicsra
 TRW Inc.
 Northrop Grumman
 Reuters
@@ -1235,7 +1235,7 @@ Suzuki
 General Motors
 Suzuki
 Daewoo
-Magyar Hírlap
+Magyar HÃ­rlap
 MH
 Jukosz
 Suzuki Motor Corp.
@@ -1252,8 +1252,8 @@ Commerzbank
 WAZ
 Sony
 Columbia TriStar
-Nestlé SA
-Nestlé
+NestlÃ© SA
+NestlÃ©
 Dreyer's Grand Ice Cream Inc.-be
 Vivendi Universal
 Telenor ASA
@@ -1271,7 +1271,7 @@ Corus Group Plc
 Cia Siderurgica Nacional of Brazil
 CSN
 Securitas AB
-Kötter Security Hungária kft.-t
+KÃ¶tter Security HungÃ¡ria kft.-t
 Elberget
 Lukoil
 Rafineria Gdanska
@@ -1307,7 +1307,7 @@ Dow Jones
 IBM
 PricewaterhouseCoopers
 PwC
-Kék Óriás
+KÃ©k Ã“riÃ¡s
 Coca-Cola Hellenic Bottling Co.
 Coca-Cola Co.
 Dorna
@@ -1320,7 +1320,7 @@ KPNQwest
 HVB Group
 Bayerische Landesbank
 Premiere
-Süddeutsche Zeitung
+SÃ¼ddeutsche Zeitung
 Morgan Stanley
 Bayer Corp.
 Visible Genetics-et
@@ -1337,14 +1337,14 @@ Antel Holdings
 KPNQwest Ebone Central Europe B.V.
 GTS Central Europe Holdings
 Citigroup
-Anteltõl
+AnteltÅ‘l
 GTS Datanet Kft.
-Nestlé
-Chef Americát
-Nestlé
-Nestlé
-Chef Americát
-Nestlé Holdings Inc.-en
+NestlÃ©
+Chef AmericÃ¡t
+NestlÃ©
+NestlÃ©
+Chef AmericÃ¡t
+NestlÃ© Holdings Inc.-en
 Chef America
 E.ON AG
 Thuega AG
@@ -1353,71 +1353,71 @@ Thueganak
 Haworth
 Elan Florian Weber AG-t
 Elan
-Elán Irodabútor Kereskedelmi
+ElÃ¡n IrodabÃºtor Kereskedelmi
 EIK
 Kft.-hez
 Szigma '95 Kft.
-NAPI Gazdaság
-ARÉV-nek
-Vegyépszerrel
-NAPI Gazdaságban
+NAPI GazdasÃ¡g
+ARÃ‰V-nek
+VegyÃ©pszerrel
+NAPI GazdasÃ¡gban
 Caola-Alfa Rt.
-Pólus Plusz Rt.
-Benkõ és Társai Kft.-tõl
-NAPI Gazdaság
-Pólus Plusz
-NAPI Gazdaságban
+PÃ³lus Plusz Rt.
+BenkÅ‘ Ã©s TÃ¡rsai Kft.-tÅ‘l
+NAPI GazdasÃ¡g
+PÃ³lus Plusz
+NAPI GazdasÃ¡gban
 TBS Enterprises Ltd & JSC
-Köbal Kõbányai Könnyûfémmû Kft.-t
+KÃ¶bal KÅ‘bÃ¡nyai KÃ¶nnyÅ±fÃ©mmÅ± Kft.-t
 Mal Rt.
-Köbalt
-Európai Unió
-NAPI Gazdaságban
+KÃ¶balt
+EurÃ³pai UniÃ³
+NAPI GazdasÃ¡gban
 Electrolux
 Appliance Components Companies
 Electrolux
 Dresdner Kleinwort Capital
-NAPI Gazdaság
-Csepel Autógyár Csepel Autó Kft.
+NAPI GazdasÃ¡g
+Csepel AutÃ³gyÃ¡r Csepel AutÃ³ Kft.
 RBL
-Csepel Autót
+Csepel AutÃ³t
 RBL-el
-ÁTI Depo Közraktározási Rt.
-Csepel Autó
-NAPI Gazdaságban
+ÃTI Depo KÃ¶zraktÃ¡rozÃ¡si Rt.
+Csepel AutÃ³
+NAPI GazdasÃ¡gban
 Freestart Kft.-nek
-NAPI Gazdaság
+NAPI GazdasÃ¡g
 Freestart
 Euroweb Rt.
-NAPI Gazdaságban
+NAPI GazdasÃ¡gban
 MiZo-Baranytej Rt
-Mizót
+MizÃ³t
 Parmalat
 Sole
 Friesland
 MFB
 MiZo
-NAPI Gazdaságban
-Tokaj Kereskedõház Rt.-nél
+NAPI GazdasÃ¡gban
+Tokaj KereskedÅ‘hÃ¡z Rt.-nÃ©l
 Raiffeisen
 Stollwerck Budapest Kft.-t
 Stollwerck AG
 Kraft Foodsszal
-NAPI Gazdaságban
+NAPI GazdasÃ¡gban
 Credicet Rt.
-Németkábel Rt.
-Német Befektetési Rt.-tõl
-Németkábelé
-NAPI Gazdaságban
+NÃ©metkÃ¡bel Rt.
+NÃ©met BefektetÃ©si Rt.-tÅ‘l
+NÃ©metkÃ¡belÃ©
+NAPI GazdasÃ¡gban
 Raiffeisen
 Stollwerck Budapest Kft-ben
 NAPI Online
-Népszabadság
+NÃ©pszabadsÃ¡g
 MFB
-BÁV Rt
+BÃV Rt
 OTP Bank
-Bizományi
-Vegyépszerhez
+BizomÃ¡nyi
+VegyÃ©pszerhez
 Pro-Cash Rt.-hez
 OTP
 Index
@@ -1425,114 +1425,114 @@ EuroWeb
 Internetto
 Index.hu Rt.-t
 Index
-Eurowebtõl
+EurowebtÅ‘l
 Internetto
 NAPI Online
-Sanofi-Synthélabo
+Sanofi-SynthÃ©labo
 Bristol-Myers Squibb-el
 Pharmavit Kft.-t
-NAPI Gazdaság
-Európai Újjáépítési és Fejlesztési Bank
+NAPI GazdasÃ¡g
+EurÃ³pai ÃšjjÃ¡Ã©pÃ­tÃ©si Ã©s FejlesztÃ©si Bank
 EBRD
 Dexia
 Enron
-Enron Energetikai Szolgáltató Rt.-t
-EETEK Világítástechnikai Rt.-re
+Enron Energetikai SzolgÃ¡ltatÃ³ Rt.-t
+EETEK VilÃ¡gÃ­tÃ¡stechnikai Rt.-re
 KPMG-re
 Arthur Andersent
-NAPI Gazdaságban
+NAPI GazdasÃ¡gban
 Whirlpool Corporation
 Polar
 Whirlpool
-Sole Hungária
+Sole HungÃ¡ria
 Mizo-Baranyatej Rt.-t
 Sole
-Betonút Rt.
-Betonútépítõ Nemzetközi Építõipari
-BNÉ
+BetonÃºt Rt.
+BetonÃºtÃ©pÃ­tÅ‘ NemzetkÃ¶zi Ã‰pÃ­tÅ‘ipari
+BNÃ‰
 Rt.
-BNÉ
-NAPI Gazdaságban
-Internettó
+BNÃ‰
+NAPI GazdasÃ¡gban
+InternettÃ³
 Index.hu Rt.
-Internettó
-NAPI Gazdaságban
+InternettÃ³
+NAPI GazdasÃ¡gban
 KPNQwest
 Global TeleSystems
 GTS
 Ebone
 portfolio.hu
-Net Média Rt.
+Net MÃ©dia Rt.
 IPO
-Matáv
-Elsõ Pesti Telefontársaság Rt.
-CA-IB Értékpapír Rt.
+MatÃ¡v
+ElsÅ‘ Pesti TelefontÃ¡rsasÃ¡g Rt.
+CA-IB Ã‰rtÃ©kpapÃ­r Rt.
 TeleDataCast TDC Kft.
-Fornax Rt.-tõl
+Fornax Rt.-tÅ‘l
 TDC
-Reuters Magyarország Kft.-vel
+Reuters MagyarorszÃ¡g Kft.-vel
 Hamilton
-Klíma-Vill Kft.
-NAPI Gazdaság
-Délviép Kft.
-Betonút Rt.
-NAPI Gazdaságban
-NAPI Gazdaság
+KlÃ­ma-Vill Kft.
+NAPI GazdasÃ¡g
+DÃ©lviÃ©p Kft.
+BetonÃºt Rt.
+NAPI GazdasÃ¡gban
+NAPI GazdasÃ¡g
 U.C.W Kft.
-Egyesült Vegyimûvek Rt.-ben
-NAPI Gazdaságban
-NAPI Gazdaság
-Esti Hírlap
+EgyesÃ¼lt VegyimÅ±vek Rt.-ben
+NAPI GazdasÃ¡gban
+NAPI GazdasÃ¡g
+Esti HÃ­rlap
 EH
-Media Network Entertainment Lapkiadó Kft.
+Media Network Entertainment LapkiadÃ³ Kft.
 MNE
 Perolly International Llc.
-NAPI Gazdaságban
-Vegyépszer
-MFB-tõl
-Népszabadság
-Vegyépszer
-MFB-nél
-Vegyépszer
-Betonút Szolgáltató és Építõ Rt.
-Vízcsepp Kft.-ben
-Délviép Dél-dunántúli Vízügyi Építõ Kft.
-Betonút
+NAPI GazdasÃ¡gban
+VegyÃ©pszer
+MFB-tÅ‘l
+NÃ©pszabadsÃ¡g
+VegyÃ©pszer
+MFB-nÃ©l
+VegyÃ©pszer
+BetonÃºt SzolgÃ¡ltatÃ³ Ã©s Ã‰pÃ­tÅ‘ Rt.
+VÃ­zcsepp Kft.-ben
+DÃ©lviÃ©p DÃ©l-dunÃ¡ntÃºli VÃ­zÃ¼gyi Ã‰pÃ­tÅ‘ Kft.
+BetonÃºt
 Terra Danubia
 TD
-Kft.-tõl
-Vízcsepp
-Vízcsepp
-Vízcsepp "13" Kft.-t
+Kft.-tÅ‘l
+VÃ­zcsepp
+VÃ­zcsepp
+VÃ­zcsepp "13" Kft.-t
 TD
-Napi Gazdaságban
-Tamási Termál Fürdõ Kft.-nek
-Befektetõben
+Napi GazdasÃ¡gban
+TamÃ¡si TermÃ¡l FÃ¼rdÅ‘ Kft.-nek
+BefektetÅ‘ben
 MFB
 Hajdu-Alma 2002 Kft.
 Trimex Rt.
-NAPI Gazdaság
-NAPI Gazdaságban
-Détej Kft.-nek
+NAPI GazdasÃ¡g
+NAPI GazdasÃ¡gban
+DÃ©tej Kft.-nek
 MiZo Baranyatej Rt.-t
 Vectigalis Rt.
 NAPI Online
 Vectigalis
-Détej Kft.
-Sole Hungária Rt.
-Détej Kft.
-Dalmand Mezõgazdasági Rt.
+DÃ©tej Kft.
+Sole HungÃ¡ria Rt.
+DÃ©tej Kft.
+Dalmand MezÅ‘gazdasÃ¡gi Rt.
 Dalmandinvest Rt.
 Agro-Vital Kft.
-Szombathelyi Tangazdaság Rt.
+Szombathelyi TangazdasÃ¡g Rt.
 Agroprodukt Rt.
-Lajta-Hanság Rt.
-Sárvári Mezõgazdasági Rt.
-CE-GÖD Kft.
-DPMG Dél-Pest Megyei Mezõgazdasági Rt.
-Gödöllõi Tangazdaság Rt.
+Lajta-HansÃ¡g Rt.
+SÃ¡rvÃ¡ri MezÅ‘gazdasÃ¡gi Rt.
+CE-GÃ–D Kft.
+DPMG DÃ©l-Pest Megyei MezÅ‘gazdasÃ¡gi Rt.
+GÃ¶dÃ¶llÅ‘i TangazdasÃ¡g Rt.
 Mizo
-NAPI Gazdaság
+NAPI GazdasÃ¡g
 DiverseyLever
 Johnson Wax Professional
 JohnsonDiversey
@@ -1542,135 +1542,135 @@ Agrana
 Magyar Cukor
 IAS
 Agrana
-Déli Hírlap
+DÃ©li HÃ­rlap
 DH
-Inform Média
+Inform MÃ©dia
 IM
 Kft.
 Funk Verlag und Druckerei
 FVD
 GmbH
-NAPI Gazdaságban
+NAPI GazdasÃ¡gban
 Novell
-Qualnet Tanácsadó Kft.-ben
-NAPI Gazdaságban
+Qualnet TanÃ¡csadÃ³ Kft.-ben
+NAPI GazdasÃ¡gban
 Vivendi Telecom Hungary
 VTH
 Vivendi
 VTH
-NAPI Gazdaságban
+NAPI GazdasÃ¡gban
 NRG Energy Inc.
 Powergen Energia Rt.
-Csepeli Áramtermelõ Rt.
-Csepeli Erõmû Rt.
+Csepeli ÃramtermelÅ‘ Rt.
+Csepeli ErÅ‘mÅ± Rt.
 Bank Austria Creditansalt Leasing
 Hyatt Hotel Regencyt
-Malév-Pannónia Hotel Kft.-nek
+MalÃ©v-PannÃ³nia Hotel Kft.-nek
 Accor
-Befektetõben
+BefektetÅ‘ben
 Vatera
 iEurope Fund
 EDventure Holdings
-Vaterát
+VaterÃ¡t
 eQuest
 Posta
 KVI
-ÁPV Rt.
-Népszabadság
-Népszavát
+ÃPV Rt.
+NÃ©pszabadsÃ¡g
+NÃ©pszavÃ¡t
 ESMA Kft
-Beszállítói Befektetõ Rt.
-NAPI Gazdaságban
-Betonút Szolgáltató és Építõ Rt.
-Vegyépszer Rt.
-Alba Regia Építõ Vállalkozó
-ARÉV
+BeszÃ¡llÃ­tÃ³i BefektetÅ‘ Rt.
+NAPI GazdasÃ¡gban
+BetonÃºt SzolgÃ¡ltatÃ³ Ã©s Ã‰pÃ­tÅ‘ Rt.
+VegyÃ©pszer Rt.
+Alba Regia Ã‰pÃ­tÅ‘ VÃ¡llalkozÃ³
+ARÃ‰V
 Rt.
 Raiffeisen
 Kraft Foods Inc.
 Stollwerck AG
 Stollwerck Kft.-t
 Kraftnak
-NAPI Gazdaság
+NAPI GazdasÃ¡g
 Fashion Mart Rt.-ben
 Budapest Fashion Mart
-NAPI Gazdaságban
-Willow 5 Vagyonkezelõ Rt.
-InfoRádió Kft.-ben
-NAPI Gazdaság
+NAPI GazdasÃ¡gban
+Willow 5 VagyonkezelÅ‘ Rt.
+InfoRÃ¡diÃ³ Kft.-ben
+NAPI GazdasÃ¡g
 Willow
-NAPI Gazdaságban
+NAPI GazdasÃ¡gban
 Suzuki
-Top-Autó Kereskedelmi Szolgáltató Kft.
-Gener-Travel Utazásközvetítõ Kft.-ben
-Top-Autó
-Hotel Rózsadombot
-Trigránit Rt.
-NAPI Gazdaságban
-Hotel Rózsadomb
-Népszabadság
+Top-AutÃ³ Kereskedelmi SzolgÃ¡ltatÃ³ Kft.
+Gener-Travel UtazÃ¡skÃ¶zvetÃ­tÅ‘ Kft.-ben
+Top-AutÃ³
+Hotel RÃ³zsadombot
+TrigrÃ¡nit Rt.
+NAPI GazdasÃ¡gban
+Hotel RÃ³zsadomb
+NÃ©pszabadsÃ¡g
 Globex
 tv2
-MTM-SBS Televízió Rt.-hez
+MTM-SBS TelevÃ­ziÃ³ Rt.-hez
 MTM-SBS-nek
 MTM-TV2 Kft.-t
 tv2
 SBS Broadcasting S.A.-hoz
 MTM-SBS-nek
-NAPI Gazdaságban
-Béres csoport
-Bellis Gyógyszerkereskedelmi Rt.
+NAPI GazdasÃ¡gban
+BÃ©res csoport
+Bellis GyÃ³gyszerkereskedelmi Rt.
 Phoenix Pharma
 PP
 Rt.-vel
 Bellis Rt.-nek
-Gazdasági Versenyhivatalnak
+GazdasÃ¡gi Versenyhivatalnak
 PP
-Bellisé
+BellisÃ©
 AgipPetroli
 ENI
-Oilinvesttõl
+OilinvesttÅ‘l
 Tamoil Praha
 Tamoil Slovakia
-Tamoil Hungária
-Tamoil Hungáriának
+Tamoil HungÃ¡ria
+Tamoil HungÃ¡riÃ¡nak
 ENI
-Nutricia Magyarország Tejtermék Csoport
+Nutricia MagyarorszÃ¡g TejtermÃ©k Csoport
 Friesland
-NAPI Gazdaság
-Friesland Hungária Kft.
+NAPI GazdasÃ¡g
+Friesland HungÃ¡ria Kft.
 MiZo Baranyatej Rt.
-NAPI Gazdaság
-Gazdasági Versenyhivatal
+NAPI GazdasÃ¡g
+GazdasÃ¡gi Versenyhivatal
 GVH
-NAPI Gazdaságban
+NAPI GazdasÃ¡gban
 Reorg Apport Rt.
-Állami Számvevõszék
+Ãllami SzÃ¡mvevÅ‘szÃ©k
 Reorg Apport
 Magyar Nemzeti Bank
 Magyar Nemzeti Bank
 MNB
 MTI-hez
 Merrill Lynch
-Pénzügyminisztérium
-ÁPV Rt.
-ÁPV Rt.
+PÃ©nzÃ¼gyminisztÃ©rium
+ÃPV Rt.
+ÃPV Rt.
 OTP Rt.
 Merrill Lynch
 Lehman Brothers
 Yahoo
-Állami Számvevõszéknél
-Magyar Nemzeti Bankról
+Ãllami SzÃ¡mvevÅ‘szÃ©knÃ©l
+Magyar Nemzeti BankrÃ³l
 MNB
-Jelentés a pénzügyi stabilitásról
+JelentÃ©s a pÃ©nzÃ¼gyi stabilitÃ¡srÃ³l
 Magyar Nemzeti Bank
 Magyar Nemzeti Bank
 Magyar Nemzeti Bank
-Jelentés az infláció alakulásáról
+JelentÃ©s az inflÃ¡ciÃ³ alakulÃ¡sÃ¡rÃ³l
 Magyar Nemzeti Bank
-"Jelentés az infláció alakulásáról
+"JelentÃ©s az inflÃ¡ciÃ³ alakulÃ¡sÃ¡rÃ³l
 Richter Gedeon Rt.
-Crédit Suisse First Boston
+CrÃ©dit Suisse First Boston
 CSFB
 MTI-hez
 Swiss Re
@@ -1678,8 +1678,8 @@ Goldman Sachs
 Magyar Nemzeti Banknak
 Moody's Investors Service
 Northrop
-General Electricét
-General Motorstól
+General ElectricÃ©t
+General MotorstÃ³l
 Reuters
 Morgan Stanley
 Goldman Sachs Group Inc.
@@ -1713,54 +1713,54 @@ GM
 FIAT Auto
 HP Management Kft.
 Hencse National Golf Country Clubot
-NAPI Gazdaság
-Vadászkuria Kft.
-NAPI Gazdaságban
+NAPI GazdasÃ¡g
+VadÃ¡szkuria Kft.
+NAPI GazdasÃ¡gban
 Stollwerck AG
 Raiffeisen Private Equity Management
 RPEM
 Stollwerck Budapest Kft.
 Raiffeisen CEE Private Equity Fund L.P.
-Triász-Perry Kft.-n
+TriÃ¡sz-Perry Kft.-n
 Stollwerck Budapest Kft.
 Bilokalnik
 Dunapack Rt.
 Vecernji List
-Dunapacknál
-NAPI Gazdaságban
+DunapacknÃ¡l
+NAPI GazdasÃ¡gban
 Financial Times
 Federal Reserve
 Tokyo-Mitsubishi Bank
 USB Wartburg
 RTL csoport
-Kreatív Online
+KreatÃ­v Online
 Bertelsmann
-NAPI Gazdaság
+NAPI GazdasÃ¡g
 The Boston Consulting Group
 BCG
 Kft.
 Dunaferr
 Trigon
-Hitelvédelmi Szövetség
+HitelvÃ©delmi SzÃ¶vetsÃ©g
 KSV
-Osztrák Bankszövetség Betétbiztosítása
+OsztrÃ¡k BankszÃ¶vetsÃ©g BetÃ©tbiztosÃ­tÃ¡sa
 Trigon Bank
 Postabank
 Die Presse
-Devín Banka
+DevÃ­n Banka
 Beobanka
 Beogradska Banka
 Invest Banka
 Jugobanka AD Beograd
 Bank of Credit and Commerce International
-Bank of Englandtõl
+Bank of EnglandtÅ‘l
 BCCI
 KirchMedia
 Merrill Lynch
 Enronnal
 Enron
 Merrill
-Enrontól
+EnrontÃ³l
 Merrill
 Enron
 Budget Group Inc.
@@ -1770,241 +1770,241 @@ Alamo Rent-A-Car
 ANC Rental Corp.
 WorldCom Inc.
 WorldCom
-Napi Gazdaságban
+Napi GazdasÃ¡gban
 Deutsche Bank
 WorldCom Inc.-nek
 MCI Group
 DB
 US Airwaysnek
 Budapest Bank Rt.
-Magyar Tõkepiacban
+Magyar TÅ‘kepiacban
 Nafta Polska
-K and H Általános Befektetési Alapkezelõ Rt.
-Magyar Tõkepiacban
+K and H ÃltalÃ¡nos BefektetÃ©si AlapkezelÅ‘ Rt.
+Magyar TÅ‘kepiacban
 Zwack Unicum Rt.
-Magyar Tõkepiac
-Postabank és Takarékpénztár Rt.
-Magyar Tõkepiac
-Deutsche Börze
+Magyar TÅ‘kepiac
+Postabank Ã©s TakarÃ©kpÃ©nztÃ¡r Rt.
+Magyar TÅ‘kepiac
+Deutsche BÃ¶rze
 Welt am Sonntag
 Reuters
-Pannon-Váltó Rt.
-Magyar Tõkepiacban
+Pannon-VÃ¡ltÃ³ Rt.
+Magyar TÅ‘kepiacban
 Magyar Nemzeti Bank
-AXA Biztosító Rt.
+AXA BiztosÃ­tÃ³ Rt.
 MTI-t
-Magyar Fejlesztési Bank Rt.nél
-Pénzügyi Szervezetek Állami Felügyelete
-Magyar Tõkepiacban
+Magyar FejlesztÃ©si Bank Rt.nÃ©l
+PÃ©nzÃ¼gyi Szervezetek Ãllami FelÃ¼gyelete
+Magyar TÅ‘kepiacban
 Budapest Bank Rt.
-Magyar Tõkepiacban
-Postabank és Takarékpénztár Rt.
-Agrimill-Agrimpex Rt.-nél
-Magyar Tõkepiacban
-Postabank Értékpapír Rt.
-Magyar Tõkepiacban
-Postabanknál
-Magyar Tõkepiacban
+Magyar TÅ‘kepiacban
+Postabank Ã©s TakarÃ©kpÃ©nztÃ¡r Rt.
+Agrimill-Agrimpex Rt.-nÃ©l
+Magyar TÅ‘kepiacban
+Postabank Ã‰rtÃ©kpapÃ­r Rt.
+Magyar TÅ‘kepiacban
+PostabanknÃ¡l
+Magyar TÅ‘kepiacban
 CIB Bank
 CIB Bank
 MTI-hez
-Zalakerámia Rt.
-Magyar Tõkepiacban
-CIB Bank Rt.-nél
-Magyar Tõkepiacban
-Postabank Befektetési Rt.
-Magyar Tõkepiacban
+ZalakerÃ¡mia Rt.
+Magyar TÅ‘kepiacban
+CIB Bank Rt.-nÃ©l
+Magyar TÅ‘kepiacban
+Postabank BefektetÃ©si Rt.
+Magyar TÅ‘kepiacban
 OTP Bank
-OTP Lakástakarékpénztár
+OTP LakÃ¡stakarÃ©kpÃ©nztÃ¡r
 OTP Bank Rt.
 MTI-t
-ERSTE Bank Alapkezelõ Rt.
-Magyar Tõkepiacban
+ERSTE Bank AlapkezelÅ‘ Rt.
+Magyar TÅ‘kepiacban
 OTP Bank Rt.
 Zwack Unicum Rt.
 Zwack Rt.
-Magyar Tõkepiacban
-Budapesti Értéktõzsde
-BÉT
-BÉT
-CIB Bank Rt Igazgatóságának
-CIB Bank Rt Igazgatóságának
-Surányi György a CIB Bank igazgatóságának elnöke
-Postabank és Takarékpénztár Rt.
-Magyar Tõkepiac
-Postabank és Takarékpénztár Rt.
-Magyar Tõkepiacban
-Pénzügyi Szervezetek Állami Felügyelete
-PSZÁF
-Crédit Lyonnais Bank Magyarország Rt.-nél
-Magyar Tõkepiac
-Magyar Fejlesztési Bankhoz
-Kereskedelmi és Hitelbank Rt.
+Magyar TÅ‘kepiacban
+Budapesti Ã‰rtÃ©ktÅ‘zsde
+BÃ‰T
+BÃ‰T
+CIB Bank Rt IgazgatÃ³sÃ¡gÃ¡nak
+CIB Bank Rt IgazgatÃ³sÃ¡gÃ¡nak
+SurÃ¡nyi GyÃ¶rgy a CIB Bank igazgatÃ³sÃ¡gÃ¡nak elnÃ¶ke
+Postabank Ã©s TakarÃ©kpÃ©nztÃ¡r Rt.
+Magyar TÅ‘kepiac
+Postabank Ã©s TakarÃ©kpÃ©nztÃ¡r Rt.
+Magyar TÅ‘kepiacban
+PÃ©nzÃ¼gyi Szervezetek Ãllami FelÃ¼gyelete
+PSZÃF
+CrÃ©dit Lyonnais Bank MagyarorszÃ¡g Rt.-nÃ©l
+Magyar TÅ‘kepiac
+Magyar FejlesztÃ©si Bankhoz
+Kereskedelmi Ã©s Hitelbank Rt.
 K and H
 MTI-t
 Aon Corporationhoz
 One Aon
-Központi Elszámolóház és Értéktár Keler Rt.
-Magyar Nemzeti Banknál
+KÃ¶zponti ElszÃ¡molÃ³hÃ¡z Ã©s Ã‰rtÃ©ktÃ¡r Keler Rt.
+Magyar Nemzeti BanknÃ¡l
 MNB
 Keler
 MTI-t
 Mol Rt.
-Magyar Tõkepiac
+Magyar TÅ‘kepiac
 Dunaferr Rt.
-ÁPV Rt.
-Dunaferr Dunai Vasmû Rt.
+ÃPV Rt.
+Dunaferr Dunai VasmÅ± Rt.
 Boston Consulting Group
 Dunaferr Rt.
 tv2
-MTM-SBS Televízó Rt.
-Ganz Transelektro Villamossági Rt.
+MTM-SBS TelevÃ­zÃ³ Rt.
+Ganz Transelektro VillamossÃ¡gi Rt.
 Dunaferr Rt.
 Dunaferr
-NAPI Gazdaságban
+NAPI GazdasÃ¡gban
 Dunaferr
-ÁPV Rt.-nél
-ÁPV Rt.
+ÃPV Rt.-nÃ©l
+ÃPV Rt.
 Dunaferr Rt.
-Világgazdaság
-Pénzügyminisztérium
+VilÃ¡ggazdasÃ¡g
+PÃ©nzÃ¼gyminisztÃ©rium
 Graboplast
 Dunaferr
-Világgazdaság
-Gyõr-Sopron-Ebenfurti Vasút
+VilÃ¡ggazdasÃ¡g
+GyÅ‘r-Sopron-Ebenfurti VasÃºt
 GySEV
 Rt.
-Nemzeti Autópálya
+Nemzeti AutÃ³pÃ¡lya
 MTI-ECO
 Pannon GSM
-Tele Denmark-tól
+Tele Denmark-tÃ³l
 Graboplast Rt.
 Dunaferr
-Kisalföld
+KisalfÃ¶ld
 NAPI Online
 Graboplast
 Dunaferr
 PM
 Magyar Posta Rt.
 Magyar Posta Rt.
-Magyar Posta Rt Igazgatóságát
+Magyar Posta Rt IgazgatÃ³sÃ¡gÃ¡t
 Budapest Airport Rt.
 NAPI Online
-ÁPV Rt.
-MÁV Rt.
-Titász Rt.
+ÃPV Rt.
+MÃV Rt.
+TitÃ¡sz Rt.
 Magyar Posta
 Magyar Posta Rt.
-Bábolna Rt.
-ÁPV Rt.
-Szerencsejáték Rt.
+BÃ¡bolna Rt.
+ÃPV Rt.
+SzerencsejÃ¡tÃ©k Rt.
 SzRt
 Zenith Optimedia
 Zenith
 MVM
-Dunaferr Dunai Vasmû Rt.
+Dunaferr Dunai VasmÅ± Rt.
 Dunaferr Rt.
-ÁPV
+ÃPV
 MVM Rt.
 Dunaferr Rt.
 Dunaferr
 Graphisoft N.V.
-Malév
-Antenna Hungária Rt.
+MalÃ©v
+Antenna HungÃ¡ria Rt.
 Dunaferr Rt.
-Geomédia Kiadói
-KJK-Kerszöv Kft. Adó
-Geomédiától
-Adó
-KJK-Kerszöv
-Geomédiától
-MÁV Rt.
+GeomÃ©dia KiadÃ³i
+KJK-KerszÃ¶v Kft. AdÃ³
+GeomÃ©diÃ¡tÃ³l
+AdÃ³
+KJK-KerszÃ¶v
+GeomÃ©diÃ¡tÃ³l
+MÃV Rt.
 MTI
-Vértesi Erõmû Rt.
+VÃ©rtesi ErÅ‘mÅ± Rt.
 Dunaferr Rt.
-Magyar Villamos Mûvek Rt.
-Igazgatóság
+Magyar Villamos MÅ±vek Rt.
+IgazgatÃ³sÃ¡g
 MVM Rt.
-Dél-magyarországi Áramszolgáltató Rt.
-Magyar Tõkepiacban
+DÃ©l-magyarorszÃ¡gi ÃramszolgÃ¡ltatÃ³ Rt.
+Magyar TÅ‘kepiacban
 OTP Bank Rt.
-Magyar Tõkepiacban
-Dél-magyarországi Áramszolgáltató Rt.
-Démász
-Magyar Tõkepiacban
+Magyar TÅ‘kepiacban
+DÃ©l-magyarorszÃ¡gi ÃramszolgÃ¡ltatÃ³ Rt.
+DÃ©mÃ¡sz
+Magyar TÅ‘kepiacban
 OTP Bank Rt.
-Magyar Tõkepiacban
+Magyar TÅ‘kepiacban
 Pick Szeged Rt.
-Magyar Tõkepiacban
+Magyar TÅ‘kepiacban
 Danubius Hotels Rt.
-Magyar Tõkepiacban
+Magyar TÅ‘kepiacban
 Mol Rt.
 Mol
-Magyar Tõkepiacban
-Dél-magyarországi Áramszolgáltató Rt.
-Magyar Tõkepiacban
-Dél-magyarországi Áramszolgáltató Rt.
-Magyar Tõkepiacban
+Magyar TÅ‘kepiacban
+DÃ©l-magyarorszÃ¡gi ÃramszolgÃ¡ltatÃ³ Rt.
+Magyar TÅ‘kepiacban
+DÃ©l-magyarorszÃ¡gi ÃramszolgÃ¡ltatÃ³ Rt.
+Magyar TÅ‘kepiacban
 Pannonplast
-Magyar Tõkepiacban
+Magyar TÅ‘kepiacban
 Pick Szeged Rt.
-Magyar Tõkepiac
+Magyar TÅ‘kepiac
 Novotrade Rt.
 Novotrade
-Magyar Tõkepiacban
+Magyar TÅ‘kepiacban
 Globus Konzervipari Rt.
-Magyar Tõkepiacban
-Démász Rt.
-Magyar Tõkepiacban
+Magyar TÅ‘kepiacban
+DÃ©mÃ¡sz Rt.
+Magyar TÅ‘kepiacban
 Nintendo Co.
 Pfizer Inc.
 PepsiCo Inc.
 Fotex
 Fotex Rt.
-Budapesti Értéktõzsdén
+Budapesti Ã‰rtÃ©ktÅ‘zsdÃ©n
 Fotex
-Budapesti Értéktõzsdén
+Budapesti Ã‰rtÃ©ktÅ‘zsdÃ©n
 Fotex Rt.
 OTP Bank Rt.
 IT
 OTP Bank Rt.
-Magyar Tõkepiacban
+Magyar TÅ‘kepiacban
 CIB Bank
 Europay International
 MTI-t
-Pénzügyi Szervezetek Állami Felügyelete
-PSZÁF
-Magyar Külkereskedelmi Bank Rt.-nél
-Magyar Tõkepiac
-Kereskedelmi és Hitelbank Rt.
-Magyar Tõkepiacban
+PÃ©nzÃ¼gyi Szervezetek Ãllami FelÃ¼gyelete
+PSZÃF
+Magyar KÃ¼lkereskedelmi Bank Rt.-nÃ©l
+Magyar TÅ‘kepiac
+Kereskedelmi Ã©s Hitelbank Rt.
+Magyar TÅ‘kepiacban
 Agrimill-Agrimpex Rt.
-Magyar Tõkepiacban
+Magyar TÅ‘kepiacban
 Magyar Nemzeti Bank
 MNB
 MNB
 PM
-Magyar Fejlesztési Bank
+Magyar FejlesztÃ©si Bank
 MTI-t
-CIB Értékpapír Rt.
+CIB Ã‰rtÃ©kpapÃ­r Rt.
 CIB Bank Rt.
-Magyar Tõkepiacban
+Magyar TÅ‘kepiacban
 Gazpromhoz
 Gazprombank
 CEC
-Postabank és Takarékpénztár Rt.
-Magyar Tõkepiacban
+Postabank Ã©s TakarÃ©kpÃ©nztÃ¡r Rt.
+Magyar TÅ‘kepiacban
 Budapest Bank Rt.
-Magyar Tõkepiacban
-Postabank és Takarékpénztár Rt.
-Népszabadság
+Magyar TÅ‘kepiacban
+Postabank Ã©s TakarÃ©kpÃ©nztÃ¡r Rt.
+NÃ©pszabadsÃ¡g
 OTP Bank Rt.
 OTP
-Magyar Tõkepiacban
-Postabank Rt.-nél
-Magyar Tõkepiacban
+Magyar TÅ‘kepiacban
+Postabank Rt.-nÃ©l
+Magyar TÅ‘kepiacban
 HypoVereinsbank
-Magyar Fejlesztési Bank
+Magyar FejlesztÃ©si Bank
 Vivendi Universal
 Canal Plus
 WorldCom
@@ -2013,9 +2013,9 @@ Instineten
 Fiat SpA
 Fiat Auto
 Fiat SpA
-Vegyépszer
-Magyar Hírlap
-Megfigyelõk
+VegyÃ©pszer
+Magyar HÃ­rlap
+MegfigyelÅ‘k
 Tyco International Ltd.
 Tyco
 Tyco
@@ -2042,7 +2042,7 @@ Vivendi Universal
 Le Monde
 PKN Orlen
 Vivendi Universal SA
-Libération
+LibÃ©ration
 Vivendi
 AXA SA
 Aventis SA
@@ -2111,31 +2111,31 @@ Index.hu
 Braun & Partners
 General Electric Tungsram
 GE
-Ericsson Magyarország
+Ericsson MagyarorszÃ¡g
 Defend Security Kft.
 RTL Klub
 Defend Kft
-Magyar Fejlesztési Bank
+Magyar FejlesztÃ©si Bank
 Defend
 Magyar Posta
 MFB-nek
 MSZP
-Népszabadság
+NÃ©pszabadsÃ¡g
 Defend Security Kft.
-Kereskedelmi és Hitelbank
-Magyar Fejlesztési Bank Rt.
+Kereskedelmi Ã©s Hitelbank
+Magyar FejlesztÃ©si Bank Rt.
 Defend Kft.
-Népszabadság
+NÃ©pszabadsÃ¡g
 MFB
-ÁPV Rt.
-Autóbusz-Invest Kft.
-Autóbusz-Invest Kft.
+ÃPV Rt.
+AutÃ³busz-Invest Kft.
+AutÃ³busz-Invest Kft.
 Nowaco Kft.
 Arla Foods
-Apetina Fetasajt fûszeres olajban
+Apetina Fetasajt fÅ±szeres olajban
 Postabank
 MTI-hez
-Kereskedelmi és Hitelbank Rt.
+Kereskedelmi Ã©s Hitelbank Rt.
 ABN Amro Magyar Bank Rt.
 Magyar Export-Import Bank Rt.
 Eximnap 2001
@@ -2143,205 +2143,205 @@ Eximbank
 Mehib Rt.
 Corvinus Rt.
 Cetelem Bank Rt.
-Inter-Európa Bank Rt.
+Inter-EurÃ³pa Bank Rt.
 San Paolo IMI SpA B
-Magyar Tõkepiacban
+Magyar TÅ‘kepiacban
 Budapest Bank Rt.-ben
 General Electric Capital International Financing Corporation
-Magyar Tõkepiacban
-Buda-Cash Brókerház Rt.
+Magyar TÅ‘kepiacban
+Buda-Cash BrÃ³kerhÃ¡z Rt.
 BC-2000 Kft.
-Magyar Tõkepiacban
-Általános Értékforgalmi Bank Rt.
-Gazprombank Gázipari Kereskedelmi Bank
-Magyar Tõkepiac
+Magyar TÅ‘kepiacban
+ÃltalÃ¡nos Ã‰rtÃ©kforgalmi Bank Rt.
+Gazprombank GÃ¡zipari Kereskedelmi Bank
+Magyar TÅ‘kepiac
 Raiffeisen Bank Rt.
 Raiffeisen International Beteiligungs GmbH
-Magyar Tõkepiac
+Magyar TÅ‘kepiac
 OTP Bank Rt.
 OTP
-Magyar Tõkepiacban
-Fõvárosi Bíróság
+Magyar TÅ‘kepiacban
+FÅ‘vÃ¡rosi BÃ­rÃ³sÃ¡g
 Globus Konzervipari Rt.
 Globus
-Magyar Tõkepiacban
+Magyar TÅ‘kepiacban
 Danubius Hotels Rt.
-Hungária Szálloda-Ingatlankezelõ Rt.
+HungÃ¡ria SzÃ¡lloda-IngatlankezelÅ‘ Rt.
 Danubius
-Magyar Tõkepiacban
-Osztrák Takarékpénztárak Erste Bankjának
+Magyar TÅ‘kepiacban
+OsztrÃ¡k TakarÃ©kpÃ©nztÃ¡rak Erste BankjÃ¡nak
 Erste Bank Hungary Rt.
 Erste Bank AG
-Európa Alapkezelõ Rt.
+EurÃ³pa AlapkezelÅ‘ Rt.
 MTI-t
 Budapest Bank Rt.
 ING Csoport
-Nationale-Nederlanden Magyarországi Biztosító Rt.
-N-N Biztosító
-ING N-N Biztosító Rt.-re
-Országgyûlésnek
+Nationale-Nederlanden MagyarorszÃ¡gi BiztosÃ­tÃ³ Rt.
+N-N BiztosÃ­tÃ³
+ING N-N BiztosÃ­tÃ³ Rt.-re
+OrszÃ¡ggyÅ±lÃ©snek
 Postabank
-Pénzügyminisztérium
-Provident Pénzügyi Rt.
+PÃ©nzÃ¼gyminisztÃ©rium
+Provident PÃ©nzÃ¼gyi Rt.
 MTI-t
-Zalakerámia Rt.
+ZalakerÃ¡mia Rt.
 S.C Cesarom S.A.
-Zalakerámia
-Magyar Tõkepiacban
+ZalakerÃ¡mia
+Magyar TÅ‘kepiacban
 BorsodChem Rt.
 MTI-t
 OTP Bank Rt.
-Magyar Tõkepiac
-Fõvárosi Bíróság
+Magyar TÅ‘kepiac
+FÅ‘vÃ¡rosi BÃ­rÃ³sÃ¡g
 OTP
-Magyar Külkereskedelmi Bank Rt.-ben
+Magyar KÃ¼lkereskedelmi Bank Rt.-ben
 MKB
 Bayerische Landesbank Girozentrale
 Bawag AG
-Magyar Tõkepiacban
-Postabank és Takarékpénztár Rt.-ben
+Magyar TÅ‘kepiacban
+Postabank Ã©s TakarÃ©kpÃ©nztÃ¡r Rt.-ben
 Postabank
-Magyar Tõkepiacban
+Magyar TÅ‘kepiacban
 Clearstream Banking S.A.
-Budapesti Értéktõzsde
+Budapesti Ã‰rtÃ©ktÅ‘zsde
 Csepel Holding Rt.-ben
 Excel Machine Tools Ltd.
 Csepel Holding
-Magyar Tõkepiacban
+Magyar TÅ‘kepiacban
 Kapos Kamion Rt.
 Skoglund Holding Rt.-ben
-Magyar Tõkepiacban
-Székesfehérvári Hûtõipari Rt.-ben
-RéDol Kereskedelmi Kft.
-Magyar Tõkepiac
+Magyar TÅ‘kepiacban
+SzÃ©kesfehÃ©rvÃ¡ri HÅ±tÅ‘ipari Rt.-ben
+RÃ©Dol Kereskedelmi Kft.
+Magyar TÅ‘kepiac
 Bankers Trust Company
 Synergon Rt.
-Magyar Tõkepiac
+Magyar TÅ‘kepiac
 Milton Apartman Rt.-ben
-Magyar Tõkepiac
-Elsõ Hazai Energia-portfolió Rt.-ben
+Magyar TÅ‘kepiac
+ElsÅ‘ Hazai Energia-portfoliÃ³ Rt.-ben
 EHEP
-Buda-Cash Brókerház Rt.
-Gordon Szolgáltató és Tanácsadó Kft.
-OPM Holding Vagyonkezelõ és Tanácsadó Kft.
-Budapesti Értéktõzsde
-Gardénia Csipkefüggönygyár Rt.-bõl
+Buda-Cash BrÃ³kerhÃ¡z Rt.
+Gordon SzolgÃ¡ltatÃ³ Ã©s TanÃ¡csadÃ³ Kft.
+OPM Holding VagyonkezelÅ‘ Ã©s TanÃ¡csadÃ³ Kft.
+Budapesti Ã‰rtÃ©ktÅ‘zsde
+GardÃ©nia CsipkefÃ¼ggÃ¶nygyÃ¡r Rt.-bÅ‘l
 Hungarian Industries-Beteiligungen Ges.m.b.H.
-Budapesti Értéktõzsde
-Magyar Külkereskedelmi Bank Rt.-ben
+Budapesti Ã‰rtÃ©ktÅ‘zsde
+Magyar KÃ¼lkereskedelmi Bank Rt.-ben
 MKB
 Bayerische Landesbank Girozentrale
 MKB
-Magyar Tõkepiac
+Magyar TÅ‘kepiac
 Hungagent Kereskedelmi Rt.
 Kartonpack Dobozipari Rt.-ben
-Magyar Tõkepiac
+Magyar TÅ‘kepiac
 Arago Rt.
 Eravisban
 Pickben
-Zalakerámiában
-Magyar Tõkepiac
-Budapest Alapkezelõ Rt.
-Pannon-Flax Gyõri Lenszövõ Rt.-ben
-Mezõgép Rt.-ben
-Magyar Tõkepiac
+ZalakerÃ¡miÃ¡ban
+Magyar TÅ‘kepiac
+Budapest AlapkezelÅ‘ Rt.
+Pannon-Flax GyÅ‘ri LenszÃ¶vÅ‘ Rt.-ben
+MezÅ‘gÃ©p Rt.-ben
+Magyar TÅ‘kepiac
 Pictet and Cie
 Pannonplast Rt.-ben
-Magyar Tõkepiac
-Második Deviza Factory Rt.
+Magyar TÅ‘kepiac
+MÃ¡sodik Deviza Factory Rt.
 MDF
-Magyar Tõkepiacban
-Független Pénzügyi Tanácsadó és Szolgáltató Kft.
+Magyar TÅ‘kepiacban
+FÃ¼ggetlen PÃ©nzÃ¼gyi TanÃ¡csadÃ³ Ã©s SzolgÃ¡ltatÃ³ Kft.
 MTI-nek
-OTP Bank Rt.-nél
+OTP Bank Rt.-nÃ©l
 OTP
-Magyar Tõkepiacban
+Magyar TÅ‘kepiacban
 OTP Bank Rt.
-Magyar Tõkepiacban
-Magyar Külkereskedelmi Bank Rt.
+Magyar TÅ‘kepiacban
+Magyar KÃ¼lkereskedelmi Bank Rt.
 MKB
 MTI-vel
-Beruházási és Fejlesztési Bank
+BeruhÃ¡zÃ¡si Ã©s FejlesztÃ©si Bank
 IRB
-Generalbroker Értékpapír Rt.
-AXA biztosító
-CA IB Értékpapír Rt.
-CA IB Tõkepiaci Rt.-t
-CA IB Értékpapír Rt.
+Generalbroker Ã‰rtÃ©kpapÃ­r Rt.
+AXA biztosÃ­tÃ³
+CA IB Ã‰rtÃ©kpapÃ­r Rt.
+CA IB TÅ‘kepiaci Rt.-t
+CA IB Ã‰rtÃ©kpapÃ­r Rt.
 MTI-vel
 Budapest Bank Rt.
 Budapest Agent Kft.-ben
-Magyar Tõkepiacban
-Provident Pénzügyi Rt.
+Magyar TÅ‘kepiacban
+Provident PÃ©nzÃ¼gyi Rt.
 MTI-t
 OTP
-egy-két héten belül lezárulhat az IRB-tárgyalás
+egy-kÃ©t hÃ©ten belÃ¼l lezÃ¡rulhat az IRB-tÃ¡rgyalÃ¡s
 Domus Rt.-ben
 Discover Europe Investments
-BÉT
+BÃ‰T
 OTP
-Helyi Önkormányzatok Napja 2001
-Volán Egyesülés
-Mikro Volán Elektronika Rt.
-Orák Soft Rt.
-Volán Elektronika Rt.
-Közlekedési Eszközfinanszírozási Rt.-ben
-Magyar Tõkepiac
-Volán Elektronika Rt.-ben
-Orák Soft Rt.
-Mikro Volán Elektronika Rt.
-Magyar Tõkepiacban
+Helyi Ã–nkormÃ¡nyzatok Napja 2001
+VolÃ¡n EgyesÃ¼lÃ©s
+Mikro VolÃ¡n Elektronika Rt.
+OrÃ¡k Soft Rt.
+VolÃ¡n Elektronika Rt.
+KÃ¶zlekedÃ©si EszkÃ¶zfinanszÃ­rozÃ¡si Rt.-ben
+Magyar TÅ‘kepiac
+VolÃ¡n Elektronika Rt.-ben
+OrÃ¡k Soft Rt.
+Mikro VolÃ¡n Elektronika Rt.
+Magyar TÅ‘kepiacban
 Clearstream Banking AG
-Inter-Európa Bankban
-Magyar Tõkepiacban
-Gót Ingatlanbefektetési Rt.
-Magyar Tõkepiac
-Német Befektetési Társaság Rt.
+Inter-EurÃ³pa Bankban
+Magyar TÅ‘kepiacban
+GÃ³t IngatlanbefektetÃ©si Rt.
+Magyar TÅ‘kepiac
+NÃ©met BefektetÃ©si TÃ¡rsasÃ¡g Rt.
 Agrimill Rt.-ben
 Hungagent Rt.-ben
 Kartonpack Rt.-ben
 Novotrade Rt.-ben
-Magyar Tõkepiac
-Quaestor Értékpapír Rt.-nek
-Termál-Sport Kft.
-Twins Szálloda Kft.
-Quaestor Idegenforgalmi és Kereskedelmi Rt.
-Quaestor Pénzügyi Tanácsadó Rt.
-Magyar Tõkepiac
-IBUSZ Idegenforgalmi Beszerzési Utazási és Szállítási Rt.-ben
-Innova-Invest Befektetési
-Fejlesztési Rt.
-IBUSZ International Service Idegenforgalmi Szolgáltató Kft.
-IBUSZ Hotels Szolgáltató Rt.
-IBUSZ Invest Vagyonkezelõ Kft.
-Magyar Tõkepiacban
-Második Deviza Factory Rt.-ben
-Rizikó Factory Rt.-ben
-Magyar Tõkepiacban
-Pannon-Váltó Rt.-ben
+Magyar TÅ‘kepiac
+Quaestor Ã‰rtÃ©kpapÃ­r Rt.-nek
+TermÃ¡l-Sport Kft.
+Twins SzÃ¡lloda Kft.
+Quaestor Idegenforgalmi Ã©s Kereskedelmi Rt.
+Quaestor PÃ©nzÃ¼gyi TanÃ¡csadÃ³ Rt.
+Magyar TÅ‘kepiac
+IBUSZ Idegenforgalmi BeszerzÃ©si UtazÃ¡si Ã©s SzÃ¡llÃ­tÃ¡si Rt.-ben
+Innova-Invest BefektetÃ©si
+FejlesztÃ©si Rt.
+IBUSZ International Service Idegenforgalmi SzolgÃ¡ltatÃ³ Kft.
+IBUSZ Hotels SzolgÃ¡ltatÃ³ Rt.
+IBUSZ Invest VagyonkezelÅ‘ Kft.
+Magyar TÅ‘kepiacban
+MÃ¡sodik Deviza Factory Rt.-ben
+RizikÃ³ Factory Rt.-ben
+Magyar TÅ‘kepiacban
+Pannon-VÃ¡ltÃ³ Rt.-ben
 Pannon Investor Rt.
-Magyar Tõkepiacban
+Magyar TÅ‘kepiacban
 Synergon Informatika Rt.-ben
 RCX Kft.
 Davon Kft.
 Curdie Trust Corporation Limited
 Synergon
-Magyar Tõkepiacban
+Magyar TÅ‘kepiacban
 Domestore Kft.
 Arago Rt.-ben
 Domestore
-Magyar Tõkepiacban
-Rába Jármûipari Holding Rt.-ben
-Gyõr Megyei Jogú Város Önkormányzata
+Magyar TÅ‘kepiacban
+RÃ¡ba JÃ¡rmÅ±ipari Holding Rt.-ben
+GyÅ‘r Megyei JogÃº VÃ¡ros Ã–nkormÃ¡nyzata
 DRB-HICOM Berhad
-Európai Újjáépítési és Fejlesztési Bank
-Magyar Tõkepiac
-Pannon-Flax Gyõri Lenszövõ Rt.-ben
-Magyar Tõkepiacban
-Állami Privatizációs és Vagyonkezelõ Rt.
-Antenna Hungária Rt.-nek
-ÁPV Rt.
-Magyar Tõkepiacban
+EurÃ³pai ÃšjjÃ¡Ã©pÃ­tÃ©si Ã©s FejlesztÃ©si Bank
+Magyar TÅ‘kepiac
+Pannon-Flax GyÅ‘ri LenszÃ¶vÅ‘ Rt.-ben
+Magyar TÅ‘kepiacban
+Ãllami PrivatizÃ¡ciÃ³s Ã©s VagyonkezelÅ‘ Rt.
+Antenna HungÃ¡ria Rt.-nek
+ÃPV Rt.
+Magyar TÅ‘kepiacban
 Estee Lauder
 EL
 Andersent
@@ -2365,57 +2365,57 @@ WorldCom
 Vivendi Environnement
 VE
 CBSMarketWatch
-Magyar Rádió
+Magyar RÃ¡diÃ³
 MR
 Rt.
 MR Rt.
-Siotour Idegenforgalmi és Kereskedelmi Részvénytársaság
+Siotour Idegenforgalmi Ã©s Kereskedelmi RÃ©szvÃ©nytÃ¡rsasÃ¡g
 MTI-t
 HP
 Cerbona Rt.
-Hajdú-Bét Rt.
-Hajdú-Bét
-Környezetvédelmi Alaptól
-Területfejlesztési Alaptól
-SOLE Hungária Rt.
+HajdÃº-BÃ©t Rt.
+HajdÃº-BÃ©t
+KÃ¶rnyezetvÃ©delmi AlaptÃ³l
+TerÃ¼letfejlesztÃ©si AlaptÃ³l
+SOLE HungÃ¡ria Rt.
 Binder Rt.
-NAPI Gazdaság
+NAPI GazdasÃ¡g
 Mixolid Rt.
 fix.tv
-NAPI Gazdaságban
+NAPI GazdasÃ¡gban
 Lufthansa Technik Kft.
 Boeing-737
 B-737-es
-Piszkei Papír Rt.
+Piszkei PapÃ­r Rt.
 Jukosz
 Jukosz
-K and H Befektetési Rt.
-ABN-AMRO Equities Hungary Értékpapírkereskedelmi Rt
-Magyar Tõkepiac
-Kõolaj és Kõolajtermék Készletezõ Szövetség
+K and H BefektetÃ©si Rt.
+ABN-AMRO Equities Hungary Ã‰rtÃ©kpapÃ­rkereskedelmi Rt
+Magyar TÅ‘kepiac
+KÅ‘olaj Ã©s KÅ‘olajtermÃ©k KÃ©szletezÅ‘ SzÃ¶vetsÃ©g
 KKKSZ
-CIB Közép-európai Nemzetközi Bank Rt.
+CIB KÃ¶zÃ©p-eurÃ³pai NemzetkÃ¶zi Bank Rt.
 MTI-t
-Pénzügyi Szervezetek Állami Felügyelete
-Concorde Értékpapír Rt.
-Amethyst Befektetési Rt.
-Concorde Értékpapír Rt.
+PÃ©nzÃ¼gyi Szervezetek Ãllami FelÃ¼gyelete
+Concorde Ã‰rtÃ©kpapÃ­r Rt.
+Amethyst BefektetÃ©si Rt.
+Concorde Ã‰rtÃ©kpapÃ­r Rt.
 MTI-t
 Bank Austria/Creditanstalt
 BA/CA
 csoport
-Kreditanstalt für Wiederaufbau
+Kreditanstalt fÃ¼r Wiederaufbau
 KFW
 Magyar Posta
 MP
 Rt.
 Defend Security Kft.
-Közbeszerzési Értesítõ
-CIB Értékpapír Rt.
+KÃ¶zbeszerzÃ©si Ã‰rtesÃ­tÅ‘
+CIB Ã‰rtÃ©kpapÃ­r Rt.
 Arago Rt.
 Pick Rt.
 CIB
-Magyar Tõkepiacban
+Magyar TÅ‘kepiacban
 Deutsche Bank
 Axa
 Magyar Export-Import Bank Rt.
@@ -2424,10 +2424,10 @@ Bank Austria
 Royal Bank of Scotlanddal
 Bank Austria Creditanstalt Hungary
 Bank Austria
-Takarékbank Rt.
-Arad Megyei Hitelszövetkezeti Szövetség
-Takarékszövetkezetek Csongrád Megyei Szövetsége
-Kereskedelmi és Hitelbank Rt.
+TakarÃ©kbank Rt.
+Arad Megyei HitelszÃ¶vetkezeti SzÃ¶vetsÃ©g
+TakarÃ©kszÃ¶vetkezetek CsongrÃ¡d Megyei SzÃ¶vetsÃ©ge
+Kereskedelmi Ã©s Hitelbank Rt.
 K and H
 Csaba Center Invest Kft.-vel
 Csaba Center
@@ -2435,42 +2435,42 @@ MTI-vel
 Humet Rt.
 Best Life International Co Ltd-vel
 Humet
-Magyar Tõkepiacban
+Magyar TÅ‘kepiacban
 HVB Bank Hungary Rt.
-Kreditanstalt für Wiederafbau
+Kreditanstalt fÃ¼r Wiederafbau
 KfW
 HVB Bank Hungary
 MTI-t
-Wintrust Értékpapír Rt.
+Wintrust Ã‰rtÃ©kpapÃ­r Rt.
 Buda-Cash Rt.
-Európai Újjáépítési és Fejlesztési Bank
+EurÃ³pai ÃšjjÃ¡Ã©pÃ­tÃ©si Ã©s FejlesztÃ©si Bank
 EBRD
-Magyarországi Volksbank Rt.-nek
+MagyarorszÃ¡gi Volksbank Rt.-nek
 Gazpromnak
-Külkereskedelmi Bank Rt.
+KÃ¼lkereskedelmi Bank Rt.
 MTI-vel
-Nomura Értékpapír Magyarország Rt.
-ERSTE Bank Befektetési Rt.
-Pénzügyi Szervezetek Állami Felügyelete
-Magyar Tõkepiacban
-Kereskedelmi és Hitelbank Rt.
+Nomura Ã‰rtÃ©kpapÃ­r MagyarorszÃ¡g Rt.
+ERSTE Bank BefektetÃ©si Rt.
+PÃ©nzÃ¼gyi Szervezetek Ãllami FelÃ¼gyelete
+Magyar TÅ‘kepiacban
+Kereskedelmi Ã©s Hitelbank Rt.
 K and H
-FHB Földhitel és Jelzálogbank Rt.
+FHB FÃ¶ldhitel Ã©s JelzÃ¡logbank Rt.
 FHB
 MTI-t
 DH Univerzum Rt.
-Buda-Cash Brókerház Rt.
+Buda-Cash BrÃ³kerhÃ¡z Rt.
 DH Univerzum Rt.
 MTI-nek
-Pénzügyi Szervezetek Állami Felügyelete
-PSZÁF
-Magyar Külkereskedelmi Bank Rt.
+PÃ©nzÃ¼gyi Szervezetek Ãllami FelÃ¼gyelete
+PSZÃF
+Magyar KÃ¼lkereskedelmi Bank Rt.
 MKB
-MKB Értékpapír és Befektetési Rt.
-PSZÁF
-Magyar Tõkepiacban
+MKB Ã‰rtÃ©kpapÃ­r Ã©s BefektetÃ©si Rt.
+PSZÃF
+Magyar TÅ‘kepiacban
 CIB Bank
-Földhitel és Jelzálogbank Rt.
+FÃ¶ldhitel Ã©s JelzÃ¡logbank Rt.
 FHB
 CIB
 CIB Bank
@@ -2482,7 +2482,7 @@ Nokia
 Siemens
 Microsofttal
 Siemens
-Nokiával
+NokiÃ¡val
 TRW
 Northrop Grumman
 CBSMarketWatch
@@ -2490,7 +2490,7 @@ Go
 Airbus
 Boeinggel
 Sanmina-SCI Corp.
-Európai Unió
+EurÃ³pai UniÃ³
 Hewlett-Packard
 HP
 Reuters
@@ -2519,7 +2519,7 @@ Siemens
 Real Madrid
 Siemens
 Siemens Mobile
-UEFA Bajnokok Ligája
+UEFA Bajnokok LigÃ¡ja
 Real Madrid
 Siemens
 Canonnak
@@ -2532,11 +2532,11 @@ M-RTL
 econet.hu
 eco.hu
 M-RTL
-Malév
+MalÃ©v
 AirEuropa
-Malév
-Westel Mobil Távközlési Rt.-tõl
-Szerencsejáték Rt.
+MalÃ©v
+Westel Mobil TÃ¡vkÃ¶zlÃ©si Rt.-tÅ‘l
+SzerencsejÃ¡tÃ©k Rt.
 SzRt.
 KPMG
 Andersen
@@ -2545,25 +2545,25 @@ Andersen
 Siemens
 Satelit TV
 Siemens
-NAPI Gazdaság
-ARÉV Rt.
-Vegyépszer Rt.
-Vegyépszer
-NAPI Gazdaságban
-Matáv
+NAPI GazdasÃ¡g
+ARÃ‰V Rt.
+VegyÃ©pszer Rt.
+VegyÃ©pszer
+NAPI GazdasÃ¡gban
+MatÃ¡v
 PanTel
-Matáv
+MatÃ¡v
 PanTel
-Danubius Szálloda és Gyógyüdülõ Rt.
+Danubius SzÃ¡lloda Ã©s GyÃ³gyÃ¼dÃ¼lÅ‘ Rt.
 KPMG
 Andersen
 Arthur Andersen Kft.
-Malévvel
+MalÃ©vvel
 Aeroflot
 MTI-ECO-ra
 fn.hu
 Chinoin
-Sanofi-Synthélabo
+Sanofi-SynthÃ©labo
 Bristol-Myers Squibb-el
 BMS
 Pharmavit Kft.
@@ -2572,19 +2572,19 @@ Ikarus Rt.
 Dunaferr Rt.
 Ikarus
 Dunaferr Rt.
-Malév Rt.
-Matáv
-Matáv
-Malév Rt.
+MalÃ©v Rt.
+MatÃ¡v
+MatÃ¡v
+MalÃ©v Rt.
 Bombardier Inc.
-Malév
-eTel Magyarország
+MalÃ©v
+eTel MagyarorszÃ¡g
 Pannon GSM
-Paksi Atomerõmû
+Paksi AtomerÅ‘mÅ±
 PA
 Rt.
 British Nuclear Fuels Plc.
-Matáv
+MatÃ¡v
 GTS-Datanet
 eTel
 Flextronics International Ltd.
@@ -2593,18 +2593,18 @@ Philips
 Ericsson
 Nokia
 Alcatel
-NAPI Gazdaság
-Elcoteq Magyarország Kft.
-NAPI Gazdaságban
+NAPI GazdasÃ¡g
+Elcoteq MagyarorszÃ¡g Kft.
+NAPI GazdasÃ¡gban
 BKV
-Ganz Transelektro Közlekedési Rt.
-Tátra T5C5
+Ganz Transelektro KÃ¶zlekedÃ©si Rt.
+TÃ¡tra T5C5
 T5C5
-BKV-nál
-Matáv
+BKV-nÃ¡l
+MatÃ¡v
 Extreme
 Human Telex
-Lakásszövetkezetek és Társasházak Országos Szövetsége
+LakÃ¡sszÃ¶vetkezetek Ã©s TÃ¡rsashÃ¡zak OrszÃ¡gos SzÃ¶vetsÃ©ge
 LOSZ
 OTP Garancia Rt.
 LOSZ
@@ -2615,12 +2615,12 @@ Jones Lang LaSalle
 Bank Center
 Metrotech
 Pricoa
-Prudential biztosító
+Prudential biztosÃ­tÃ³
 Pricoa
-Befektetõben
-Puma Hungária Kft.-nek
+BefektetÅ‘ben
+Puma HungÃ¡ria Kft.-nek
 Austria Puma Dassler GmbH
-Inforádió
+InforÃ¡diÃ³
 BBC
 Westel
 Pannon GSM-mel
@@ -2640,118 +2640,118 @@ Westel
 PanTel
 Westel
 PanTel
-MÁV-val
+MÃV-val
 Dunaferr
-ÁPV Rt.
+ÃPV Rt.
 Co-op Hungary Rt.
 KFKI Rt.
 Laurel Kft.
 Co-op
 NAPI Online
 Axelero Internet Rt.
-Infopark Fejlesztési Rt.
+Infopark FejlesztÃ©si Rt.
 Infopark
-Befektetõben
+BefektetÅ‘ben
 Claas
 Axial Kft
 Fendt
 NAPI Online-nak
 Axial
-MÁV
+MÃV
 GYSEV
-MÁV
-Magyar Államkincstár
+MÃV
+Magyar ÃllamkincstÃ¡r
 GYSEV
 GYSEV
 Electronic Data Systems Corp.
-EDS Magyarország
+EDS MagyarorszÃ¡g
 K&H Bank
 Vivendi Telecom Hungary Rt.
 PanTel Rt.
 Lockheed Martin Corp.
 Boeing Co.
 General Electric Co.
-Egyesült Államok Kongresszusa
+EgyesÃ¼lt Ãllamok Kongresszusa
 Raytheon
-NAPI Gazdaság
+NAPI GazdasÃ¡g
 Gripenekhez
-NAPI Gazdaságban
+NAPI GazdasÃ¡gban
 Gripen
-NAPI Gazdaságban
+NAPI GazdasÃ¡gban
 Gripen
-NAPI Gazdaságban
-Közbeszerzési Döntõbizottság
+NAPI GazdasÃ¡gban
+KÃ¶zbeszerzÃ©si DÃ¶ntÅ‘bizottsÃ¡g
 KD
 Siemens
 Thales
-Honvédelmi Minisztérium
+HonvÃ©delmi MinisztÃ©rium
 HM
 Kongsberg
 HM
 MSZP
-NAPI Gazdaságban
+NAPI GazdasÃ¡gban
 OTP Bank Rt.
-Magyar Tõkepiac
+Magyar TÅ‘kepiac
 Budapest Bank Rt.
 Graboplast Rt.
-Magyar Tõkepiacban
+Magyar TÅ‘kepiacban
 OTP Bank Rt.
-Volán Elektronika Rt.
-Mikro Volán Elektronika Rt.
-Magyar Tõkepiacban
+VolÃ¡n Elektronika Rt.
+Mikro VolÃ¡n Elektronika Rt.
+Magyar TÅ‘kepiacban
 Bonbon Hemingway Rt.
-Magyar Tõkepiacban
-ÁB-Aegon Általános Biztosító Rt.
+Magyar TÅ‘kepiacban
+ÃB-Aegon ÃltalÃ¡nos BiztosÃ­tÃ³ Rt.
 MTI-vel
 Hitelgarancia Rt.
-Eravis Szálloda és Vendéglátó Rt.
+Eravis SzÃ¡lloda Ã©s VendÃ©glÃ¡tÃ³ Rt.
 MTI-t
 Danubius Hotels Rt.
-Befektetési Kapcsolatok
+BefektetÃ©si Kapcsolatok
 MTI-t
 IBUSZ Rt.
 MTI-t
-Herbária Rt.
-Magyar Tõkepiacban
-Pillér Elsõ Ingatlanbefektetési Alap
-Prudent-Invest Befektetési Alapkezelõ Rt.
-Magyar Tõkepiacban
-Észak-dunántúli Áramszolgáltató Rt.
-Magyar Tõkepiac
-Richter Gedeon Vegyészeti Gyár Rt.
-Magyar Tõkepiacban
-Inter-Európa Bank
-Styl Ruhagyár Rt.
-Magyar Tõkepiac
+HerbÃ¡ria Rt.
+Magyar TÅ‘kepiacban
+PillÃ©r ElsÅ‘ IngatlanbefektetÃ©si Alap
+Prudent-Invest BefektetÃ©si AlapkezelÅ‘ Rt.
+Magyar TÅ‘kepiacban
+Ã‰szak-dunÃ¡ntÃºli ÃramszolgÃ¡ltatÃ³ Rt.
+Magyar TÅ‘kepiac
+Richter Gedeon VegyÃ©szeti GyÃ¡r Rt.
+Magyar TÅ‘kepiacban
+Inter-EurÃ³pa Bank
+Styl RuhagyÃ¡r Rt.
+Magyar TÅ‘kepiac
 Egis Rt.
-Magyar Tõkepiacban
+Magyar TÅ‘kepiacban
 Skoglund Holding Rt.
-Magyar Tõkepiacban
-Rába Rt.
-Magyar Tõkepiacban
-Eravis Szálloda és Vendéglátó Rt.
+Magyar TÅ‘kepiacban
+RÃ¡ba Rt.
+Magyar TÅ‘kepiacban
+Eravis SzÃ¡lloda Ã©s VendÃ©glÃ¡tÃ³ Rt.
 Eravis
-Magyar Tõkepiacban
-Volán Elektronika Rt.
-Mikro Volán Elektronika Rt.
-Magyar Tõkepiacban
+Magyar TÅ‘kepiacban
+VolÃ¡n Elektronika Rt.
+Mikro VolÃ¡n Elektronika Rt.
+Magyar TÅ‘kepiacban
 IBUSZ Rt.
-Magyar Tõkepiac
+Magyar TÅ‘kepiac
 OTP Bank Rt.
-Magyar Tõkepiacban
+Magyar TÅ‘kepiacban
 Mol Rt.
-Magyar Tõkepiacban
-Tiszai Vegyi Kombinát Rt.
+Magyar TÅ‘kepiacban
+Tiszai Vegyi KombinÃ¡t Rt.
 TVK
 MTI-hez
 Richter Gedeon Rt.
-Magyar Tõkepiac
-Arago Befektetési Holding Rt.
-Magyar Tõkepiacban
-Novotrade Befektetési Rt.
-Magyar Tõkepiac
-Tiszántúli Gázszolgáltató
-Tigáz
+Magyar TÅ‘kepiac
+Arago BefektetÃ©si Holding Rt.
+Magyar TÅ‘kepiacban
+Novotrade BefektetÃ©si Rt.
+Magyar TÅ‘kepiac
+TiszÃ¡ntÃºli GÃ¡zszolgÃ¡ltatÃ³
+TigÃ¡z
 Rt.
 MTI-t
 Mol
@@ -2763,47 +2763,47 @@ Swisscom
 Jukosz
 ZAO Pricewaterhouse Coopers Audit
 IBUSZ Rt.
-IBUSZ Utazási Irodák Kft.
-BÉT-rõl
-ÁPV Rt.
+IBUSZ UtazÃ¡si IrodÃ¡k Kft.
+BÃ‰T-rÅ‘l
+ÃPV Rt.
 MVM
-Dunamenti Erõmû Rt.
+Dunamenti ErÅ‘mÅ± Rt.
 Electrabel
 MVM
-QBE Atlasz Biztosító Rt.
-AXA Colonia biztosító
-Európa Biztosító Rt.
+QBE Atlasz BiztosÃ­tÃ³ Rt.
+AXA Colonia biztosÃ­tÃ³
+EurÃ³pa BiztosÃ­tÃ³ Rt.
 Egis Rt.
-Egis Gyógyszergyár Rt.
+Egis GyÃ³gyszergyÃ¡r Rt.
 MTI-hez
 Deutsche Telecom
 Budapest Bank
 BB
-Budapest Áruhitel Rt.
+Budapest Ãruhitel Rt.
 Budapest Bank
-FHB Földhitel és Jelzálogbank Rt.
+FHB FÃ¶ldhitel Ã©s JelzÃ¡logbank Rt.
 FHB
-Magyar Tõkepiac
-Takarékbank
-Országos Takarékszövetkezeti Szövetséggel
+Magyar TÅ‘kepiac
+TakarÃ©kbank
+OrszÃ¡gos TakarÃ©kszÃ¶vetkezeti SzÃ¶vetsÃ©ggel
 JPMorgan Fleming
 Credit Suisse Group
 Postabank
 MTI-nek
 Munich Re
-Deutsche Börse AG
+Deutsche BÃ¶rse AG
 Ceska Sporitelna
 Deutsche Bank
 Postabank Rt.
-Magyar Tõkepiacban
+Magyar TÅ‘kepiacban
 K and H
 AXA
-Axel Springer Kiadó
-Pénzügyi Szervezetek Állami Felügyeletének
-PSZÁF
+Axel Springer KiadÃ³
+PÃ©nzÃ¼gyi Szervezetek Ãllami FelÃ¼gyeletÃ©nek
+PSZÃF
 Generali Vienna csoport
-Münchener Rückversicherungs-Gesellschaft AG
-Diákhitel Központ Rt.
+MÃ¼nchener RÃ¼ckversicherungs-Gesellschaft AG
+DiÃ¡khitel KÃ¶zpont Rt.
 MTI-nek
 Newex
 Newex
@@ -2819,7 +2819,7 @@ Toyota
 General Motorst
 Fordot
 BMW
-Minitõl
+MinitÅ‘l
 BMW
 J.P Morgan
 Intel
@@ -2849,7 +2849,7 @@ Nippon Telegraph and Telephone Corp
 NTT
 IBM
 Office Depot
-EPS-nél
+EPS-nÃ©l
 Hutchison Whampoa
 Priceline.commal
 Hutchison-Priceline Travel Ltd-be
@@ -2908,7 +2908,7 @@ Lukoil
 U.S GAAP
 Avon
 3DO
-Nasdaq-ról
+Nasdaq-rÃ³l
 Nasdaq
 Visteon Corp.
 Preussag
@@ -2926,7 +2926,7 @@ Alitalia SpA
 Bloomberg
 Volkswagen AG
 VW
-Nokiát
+NokiÃ¡t
 Goodyear Tire & Rubber Co.
 Reuters
 Advanced Micro Devices Inc.
@@ -2984,48 +2984,48 @@ Dell Computer
 Microsoft
 Navision Hungary Szoftver Szerviz Kft.
 NH
-NAPI Gazdaságnak
+NAPI GazdasÃ¡gnak
 ERP
 NH
 NavisionDamgaard a/s
 Vivendi Telecom Hungary
 VTH
-Société Générale
+SociÃ©tÃ© GÃ©nÃ©rale
 VTH
-NAPI Gazdaságban
+NAPI GazdasÃ¡gban
 Vivendi Telecom Hungary
 univerzum.hu
-Malév Rt.
+MalÃ©v Rt.
 RTL Klub
 Magyar Suzuki Rt.
 Indesit
 Ariston
 Merloni Elettrodomestici
 Mol Rt.
-Matáv
-Matáv
-NAPI Gazdaságban
-Ford Motor Hungária
+MatÃ¡v
+MatÃ¡v
+NAPI GazdasÃ¡gban
+Ford Motor HungÃ¡ria
 Focus
 Mom Park
 Mom-Projekt Kft.
-ICN Magyarország Rt.
+ICN MagyarorszÃ¡g Rt.
 Sziget
 Sziget Kft.-nek
 Sportsziget
 Sziget
-Budapest Parádé
-Reallízing
+Budapest ParÃ¡dÃ©
+ReallÃ­zing
 96
-Reallízing Pénzügyi Kft.
-Reallízing Pénzügyi Kft.
+ReallÃ­zing PÃ©nzÃ¼gyi Kft.
+ReallÃ­zing PÃ©nzÃ¼gyi Kft.
 Enron
 Mobtel
 Mobtel
 Commerzbankot
 Merrill Lynch
 Enron
-Andersennél
+AndersennÃ©l
 Moody's Investors Service
 Polaroid Corp.
 NIS
@@ -3062,17 +3062,17 @@ Daewoo Motor Polska
 Nysa Motort
 Bloomberg
 Polonez
-Citroen Berlingókat
-Citroen C15-ösöket
+Citroen BerlingÃ³kat
+Citroen C15-Ã¶sÃ¶ket
 Alitalia
 Napster Inc.
 Bloomberg
 KPNQwest NV
-GTS Magyarország Kft.
+GTS MagyarorszÃ¡g Kft.
 GTS Datanet Kft.
 GTS
 GTS Datanet Kft.
-NAPI Gazdaságban
+NAPI GazdasÃ¡gban
 Die Welt
 Trabant
 Sachsenring Automobiltechniket
@@ -3114,118 +3114,118 @@ D'Arcy
 DMB&B Budapest Kft.
 Wunderland I C Rt.-nek
 DMB&B Budapest
-Észak-magyarországi Áramszolgáltató Émász Rt.-t
+Ã‰szak-magyarorszÃ¡gi ÃramszolgÃ¡ltatÃ³ Ã‰mÃ¡sz Rt.-t
 Cogne
 DAM Steel Rt.
-NAPI Gazdaságban
-Pápai Ruházati Szövetkezetnél
+NAPI GazdasÃ¡gban
+PÃ¡pai RuhÃ¡zati SzÃ¶vetkezetnÃ©l
 Parus
-NAPI Gazdaság
+NAPI GazdasÃ¡g
 Go-Text Kft.
-Veszprém Megyei Bíróság
+VeszprÃ©m Megyei BÃ­rÃ³sÃ¡g
 Herlitz AG
-Herlitz Hungária
-PubliCity Budapest Reklám Szolgáltató Kft.
-NAPI Gazdaság
-Juventus Rádió
+Herlitz HungÃ¡ria
+PubliCity Budapest ReklÃ¡m SzolgÃ¡ltatÃ³ Kft.
+NAPI GazdasÃ¡g
+Juventus RÃ¡diÃ³
 PubliCity
 Central Europe Media
 CEM
 Kft.
 CEM Inc.-hoz
-Új Tutto Mobili Kft.
-B.R.C.C Ülõgarnitúra-gyártó Kft.
+Ãšj Tutto Mobili Kft.
+B.R.C.C ÃœlÅ‘garnitÃºra-gyÃ¡rtÃ³ Kft.
 Tutto Mobili
-Artilla Bútornagykereskedelmi Kft.-t
-NAPI Gazdaságban
+Artilla BÃºtornagykereskedelmi Kft.-t
+NAPI GazdasÃ¡gban
 Gunaras Rt.
-Befektetõben
-Badacsonyi Pincegazdaság Rt.
-Komárom-Esztergom Megyei Bíróság
-NAPI Gazdaság
-NAPI Gazdaságban
-Berva Finomszerlvénygyár Rt
+BefektetÅ‘ben
+Badacsonyi PincegazdasÃ¡g Rt.
+KomÃ¡rom-Esztergom Megyei BÃ­rÃ³sÃ¡g
+NAPI GazdasÃ¡g
+NAPI GazdasÃ¡gban
+Berva FinomszerlvÃ©nygyÃ¡r Rt
 Berva
-Cash & Limes Vagyonkezelõ és Felszámoló Rt.
+Cash & Limes VagyonkezelÅ‘ Ã©s FelszÃ¡molÃ³ Rt.
 CLV
-NAPI Gazdaság
-Heves megyei Bíróság
-Heves Megyei Bíróság
-Berva Finomszerelvénygyártó Rt.
+NAPI GazdasÃ¡g
+Heves megyei BÃ­rÃ³sÃ¡g
+Heves Megyei BÃ­rÃ³sÃ¡g
+Berva FinomszerelvÃ©nygyÃ¡rtÃ³ Rt.
 Cash & Limes Rt.-t
 Wendco Kft.
-NAPI Gazdaság
+NAPI GazdasÃ¡g
 Wendy's
 Wendco
-Fõvárosi Bíróságra
+FÅ‘vÃ¡rosi BÃ­rÃ³sÃ¡gra
 Hungarian Innovative Technologies Fund
 HITF
 Hungarian-American Enterprise Fund
 HAEF
 HITF
 MTI-t
-FHB Földhitel és Jelzálogbank Rt.
+FHB FÃ¶ldhitel Ã©s JelzÃ¡logbank Rt.
 FHB
-Magyar Tõkepiacban
-Magyar Távközlési Rt.
-Magyar Tõkepiac
-Magyar Távközlési Rt.
-Magyar Tõkepiacban
+Magyar TÅ‘kepiacban
+Magyar TÃ¡vkÃ¶zlÃ©si Rt.
+Magyar TÅ‘kepiac
+Magyar TÃ¡vkÃ¶zlÃ©si Rt.
+Magyar TÅ‘kepiacban
 Milton Apartman Rt.
-Magyar Tõkepiacban
-ÁB-Aegon Általános Biztosító Rt.
+Magyar TÅ‘kepiacban
+ÃB-Aegon ÃltalÃ¡nos BiztosÃ­tÃ³ Rt.
 Goldman Sachs Group
 Reuters
 Erste Bank Hungary Rt.
 ABN-Amro Magyar Bank
 Opel
-ÁB-Aegon Általános Biztosító Rt.
+ÃB-Aegon ÃltalÃ¡nos BiztosÃ­tÃ³ Rt.
 MTI-vel
-Société Générale
+SociÃ©tÃ© GÃ©nÃ©rale
 Dresdner Bank
 Allianz
 Allianz
 IAS
 OTP Bank Rt.
-Magyar Tõkepiacban
-Zalakerámia Rt.
-Magyar Tõkepiacban
+Magyar TÅ‘kepiacban
+ZalakerÃ¡mia Rt.
+Magyar TÅ‘kepiacban
 Humet Rt.
 HAS
-Magyar Tõkepiac
-Magyar Tõkepiacban
-Zalakerámia Rt.
-Magyar Tõkepiacban
-Mezõgép Rt.
-Magyar Tõkepiacban
-Inter-Európa Bank Rt.
-Magyar Tõkepiacban
-Komercní Banka
-Országos Takarékszövetkezeti Szövetség
+Magyar TÅ‘kepiac
+Magyar TÅ‘kepiacban
+ZalakerÃ¡mia Rt.
+Magyar TÅ‘kepiacban
+MezÅ‘gÃ©p Rt.
+Magyar TÅ‘kepiacban
+Inter-EurÃ³pa Bank Rt.
+Magyar TÅ‘kepiacban
+KomercnÃ­ Banka
+OrszÃ¡gos TakarÃ©kszÃ¶vetkezeti SzÃ¶vetsÃ©g
 OTSZ
-Takarékossági Világnap
+TakarÃ©kossÃ¡gi VilÃ¡gnap
 MTI-t
 Porsche Bank
 MTI-nek
-Magyar Tõkepiac
-Adó és Pénzügyi Ellenõrzési Hivatal
+Magyar TÅ‘kepiac
+AdÃ³ Ã©s PÃ©nzÃ¼gyi EllenÅ‘rzÃ©si Hivatal
 APEH
-AXA Colonia Biztosító Rt.
-Pekaonál
+AXA Colonia BiztosÃ­tÃ³ Rt.
+PekaonÃ¡l
 Unicredito
 Reuters
 Goldman Sachs
 HypoVereinsbank
 Bank Austria
-Általános Értékforgalmi Bank Rt.
-ÁÉB Rt.
+ÃltalÃ¡nos Ã‰rtÃ©kforgalmi Bank Rt.
+ÃÃ‰B Rt.
 MTI-t
 Lehman Bros Holdings Inc.
 Raiffeisen Bank Rt.
-Raiffeisen Bank II Kötvény
-Magyar Tõkepiacban
+Raiffeisen Bank II KÃ¶tvÃ©ny
+Magyar TÅ‘kepiacban
 Munich Re
-New York-i Világkereskedelmi Központot
+New York-i VilÃ¡gkereskedelmi KÃ¶zpontot
 WTC
 Juniper Networks
 NEC
@@ -3245,7 +3245,7 @@ IBM
 Wall Street Journal
 Ryanair
 Reuters
-Pókember
+PÃ³kember
 Spider-Man
 Sony Corp.
 Harry Potter
@@ -3255,7 +3255,7 @@ Bayerische Motoren Werke AG
 KLM Royal Dutch Airlines NV
 Adidas-Salomon
 ICI
-Nomura Holdings-nál
+Nomura Holdings-nÃ¡l
 Honda Motor Co.
 Reuters
 Kyocera Corp
@@ -3285,7 +3285,7 @@ Go-Fly
 easyJet
 Go-Fly
 easyJet
-Go-Fly-é
+Go-Fly-Ã©
 DaimlerChrysler
 Mercedes
 BMW
@@ -3312,7 +3312,7 @@ SIA
 FTC
 Aventis SA CropSience
 Bayer AG
-British Telecommunications Plc-rõl
+British Telecommunications Plc-rÅ‘l
 mmO2
 Air France
 Vodafone Group Plc
@@ -3361,178 +3361,178 @@ IAS
 BSkyB
 BP Plc.
 Vodafone Panafon
-Zürich Financial
+ZÃ¼rich Financial
 ZF
 Reuters
 ProSiebenSat.1 Media AG
 KLM Royal Dutch Airlines NV
 Lufthansa
-Malév
+MalÃ©v
 Magyar Posta
 Lenau Reisen Kft.-t
 Posta
 Euroventures
 Fathom Technology
 IT
-Hírközlési Fõfelügyelet
-HÍF
+HÃ­rkÃ¶zlÃ©si FÅ‘felÃ¼gyelet
+HÃF
 Westel
-Pannon GSM-é
-Vodafone-é
-Hírközlési Felügyelet
+Pannon GSM-Ã©
+Vodafone-Ã©
+HÃ­rkÃ¶zlÃ©si FelÃ¼gyelet
 Westel
 Vodafone
 Pannon GSM
 Woodham Enterprise Ltd.
 ATV
-Matáv
+MatÃ¡v
 Axelero Rt.
 Axelero
-Matáv
-Westel Mobil Távközlési Rt.
-Matáv Rt.
-Budapesti Értéktõzsde
+MatÃ¡v
+Westel Mobil TÃ¡vkÃ¶zlÃ©si Rt.
+MatÃ¡v Rt.
+Budapesti Ã‰rtÃ©ktÅ‘zsde
 Pick Szeged Rt.
-BÉT
+BÃ‰T
 MTI-t
 Borsodchem
 Newex
 New Europe Exchange
-CIB Értékpapír Rt.
-Buda-Cash Brókerház Rt.
-Magyar Tõkepiacban
+CIB Ã‰rtÃ©kpapÃ­r Rt.
+Buda-Cash BrÃ³kerhÃ¡z Rt.
+Magyar TÅ‘kepiacban
 econet.hu Rt.
-Földhitel és Jelzálogbank Rt
+FÃ¶ldhitel Ã©s JelzÃ¡logbank Rt
 FHB
 Deutsche Telekom
 DT
 T-Mobile
 HB Westminster Rt.
 Milton Apartman Rt.
-Budapesti Értéktõzsde
-BÉT
-Magyar Tõkepiacban
+Budapesti Ã‰rtÃ©ktÅ‘zsde
+BÃ‰T
+Magyar TÅ‘kepiacban
 Uralszvjazinform
 NEWEX
 NX.plus
 Humet Rt.
-BÉT
-BÉT
-Magyar Tõkepiacban
-Államadósság Kezelõ Központ Rt.
-ÁKK
-Magyar Tõkepiac
+BÃ‰T
+BÃ‰T
+Magyar TÅ‘kepiacban
+ÃllamadÃ³ssÃ¡g KezelÅ‘ KÃ¶zpont Rt.
+ÃKK
+Magyar TÅ‘kepiac
 Pick Szeged Rt.
 Arago Rt.
 Pick
-Magyar Tõkepiac
-Novotrade Befektetési Rt.
-Magyar Tõkepiacban
-Budapesti Értéktõzsde
+Magyar TÅ‘kepiac
+Novotrade BefektetÃ©si Rt.
+Magyar TÅ‘kepiacban
+Budapesti Ã‰rtÃ©ktÅ‘zsde
 Mol Rt.
 Mol
-Magyar Tõkepiac
-Pénzügyi Szervezetek Állami Felügyelete
-PSZÁF
+Magyar TÅ‘kepiac
+PÃ©nzÃ¼gyi Szervezetek Ãllami FelÃ¼gyelete
+PSZÃF
 Innova-Invest Rt.
 IBUSZ Rt.
-PSZÁF
-Magyar Tõkepiacban
+PSZÃF
+Magyar TÅ‘kepiacban
 Allianz
-Aegon biztosító
-Slovenská Poistovna
-Pénzügyi Szervezetek Állami Felügyelete
-PSZÁF
+Aegon biztosÃ­tÃ³
+SlovenskÃ¡ Poistovna
+PÃ©nzÃ¼gyi Szervezetek Ãllami FelÃ¼gyelete
+PSZÃF
 Ivydale Investments Limited
 Csopak Rt.
-Magyar Tõkepiacban
+Magyar TÅ‘kepiacban
 Mol Rt.
 Mol
-Magyar Tõkepiacban
-Callum Vagyonkezelõ Rt.
-Skála-Coop
-Athina Szolgáltató Kft.
+Magyar TÅ‘kepiacban
+Callum VagyonkezelÅ‘ Rt.
+SkÃ¡la-Coop
+Athina SzolgÃ¡ltatÃ³ Kft.
 KPN
-DH Univerzum Értékpapír Rt.
-Budapesti Értéktõzsde
-Magyar Tõkepiacban
+DH Univerzum Ã‰rtÃ©kpapÃ­r Rt.
+Budapesti Ã‰rtÃ©ktÅ‘zsde
+Magyar TÅ‘kepiacban
 IBUSZ
 Innova-Invest Rt.
-Pénzügyi Szervezetek Állami Felügyeletétõl
-PSZÁF
+PÃ©nzÃ¼gyi Szervezetek Ãllami FelÃ¼gyeletÃ©tÅ‘l
+PSZÃF
 MTI-t
-Földhitel és Jelzálogbank Rt
+FÃ¶ldhitel Ã©s JelzÃ¡logbank Rt
 FHB
-Magyar Tõkepiacban
+Magyar TÅ‘kepiacban
 ERSTE Bank Hungary Rt.
-Magyar Tõkepiacban
-ABC Vagyonkezelõ Rt.
+Magyar TÅ‘kepiacban
+ABC VagyonkezelÅ‘ Rt.
 Graboplast
-Arago Befektetési Holding Rt.
+Arago BefektetÃ©si Holding Rt.
 Eravis
 Arago
-Magyar Tõkepiacban
-FHB Földhitel és Jelzálogbank Rt.
-Magyar Tõkepiacban
+Magyar TÅ‘kepiacban
+FHB FÃ¶ldhitel Ã©s JelzÃ¡logbank Rt.
+Magyar TÅ‘kepiacban
 Mol
-Gazdasági Versenyhivatal
-Tiszai Vegyi Kombinát Rt.
+GazdasÃ¡gi Versenyhivatal
+Tiszai Vegyi KombinÃ¡t Rt.
 Mol Rt.
 MTI-t
 Szibnyeft
-Földhitel és Jelzálogbank Rt
+FÃ¶ldhitel Ã©s JelzÃ¡logbank Rt
 FHB
-Magyar Tõkepiacban
-Raiffeisen Bank I kötvénye
-Raiffeisen Bank I kötvények
-Pannonplast Mûanyagipari Rt.
-Budapesti Értéktõzsde
-Magyar Tõkepiac
+Magyar TÅ‘kepiacban
+Raiffeisen Bank I kÃ¶tvÃ©nye
+Raiffeisen Bank I kÃ¶tvÃ©nyek
+Pannonplast MÅ±anyagipari Rt.
+Budapesti Ã‰rtÃ©ktÅ‘zsde
+Magyar TÅ‘kepiac
 Telekomunikacja Polska
 TPSA
 FHB
-Magyar Tõkepiacban
-Ceská Sporitelna
-CD Hungary Ingatlanforgalmazó és Szolgáltató Rt.
-Állami Privatizációs és Vagyonkezelõ Rt.
+Magyar TÅ‘kepiacban
+CeskÃ¡ Sporitelna
+CD Hungary IngatlanforgalmazÃ³ Ã©s SzolgÃ¡ltatÃ³ Rt.
+Ãllami PrivatizÃ¡ciÃ³s Ã©s VagyonkezelÅ‘ Rt.
 MTI-t
-ABC Befektetési Rt.
+ABC BefektetÃ©si Rt.
 Graboplast Rt.
 Britton Capital and Consulting Kft.
 Kartonpack Rt.
 Britton
 MTI-t
 Raiffeisen Bank Rt.
-Raiffeisen Bank II Kötvény
-Magyar Tõkepiacban
+Raiffeisen Bank II KÃ¶tvÃ©ny
+Magyar TÅ‘kepiacban
 Britton Capital and Consulting Kft.
-Pénzügyi Szervezetek Állami Felügyeletének
+PÃ©nzÃ¼gyi Szervezetek Ãllami FelÃ¼gyeletÃ©nek
 Kartonpack Rt.
 Kartonpack
 MTI-nek
-Arago Befektetési Holding Rt.
+Arago BefektetÃ©si Holding Rt.
 Pick Szeged Rt.
 MTI-vel
-Földhitel és Jelzálogbank Rt
+FÃ¶ldhitel Ã©s JelzÃ¡logbank Rt
 FHB
 FHB
-Magyar Tõkepiacban
-Beruházási és Fejlesztési Bank
+Magyar TÅ‘kepiacban
+BeruhÃ¡zÃ¡si Ã©s FejlesztÃ©si Bank
 IRB
 OTB Bank Rt
 OTP Bank Rt.
 IRB
 MTI-hez
-CA TopPharma Globális Gyógyszeripari Részvény Alap
-CA IB Értékpapír Befektetési Alapkezelõ
-Magyar Tõkepiacban
+CA TopPharma GlobÃ¡lis GyÃ³gyszeripari RÃ©szvÃ©ny Alap
+CA IB Ã‰rtÃ©kpapÃ­r BefektetÃ©si AlapkezelÅ‘
+Magyar TÅ‘kepiacban
 Raiffeisen Bank Rt.
-Magyar Tõkepiac
-Budapesti Értéktõzsde
-Skoglund Holding Befektetési Rt.
-BÉT
-Magyar Tõkepiacban
-PKN Orlen-bõl
+Magyar TÅ‘kepiac
+Budapesti Ã‰rtÃ©ktÅ‘zsde
+Skoglund Holding BefektetÃ©si Rt.
+BÃ‰T
+Magyar TÅ‘kepiacban
+PKN Orlen-bÅ‘l
 Pulawy
 EasyJet
 Go-Fly
@@ -3557,13 +3557,13 @@ Tyco International
 CIT Group
 Merrill Lynch
 Deutsche Telekom
-France Télécom
+France TÃ©lÃ©com
 Bloomberg
 STMicroelectronics
 Egis
 Arthur Andersen Kft.
 FVM-SAPARD
-Közbeszerzési Értesítõbõl
+KÃ¶zbeszerzÃ©si Ã‰rtesÃ­tÅ‘bÅ‘l
 Microsoft
 Compaq
 Synergon
@@ -3571,17 +3571,17 @@ Axelero
 econet.hu
 MTI-vel
 Hermes
-Gazdasági Minisztérium
+GazdasÃ¡gi MinisztÃ©rium
 Hitelgarancia Rt.
 HG Rt.
-Nemzeti Autópálya Rt.
-CIB Közép-európai Nemzetközi Bank Rt.
-Magyar Külkereskedelmi Bank Rt.
-Országos Takarékpénztár és Kereskedelmi Bank Rt.
+Nemzeti AutÃ³pÃ¡lya Rt.
+CIB KÃ¶zÃ©p-eurÃ³pai NemzetkÃ¶zi Bank Rt.
+Magyar KÃ¼lkereskedelmi Bank Rt.
+OrszÃ¡gos TakarÃ©kpÃ©nztÃ¡r Ã©s Kereskedelmi Bank Rt.
 OTP Bank Rt.
 MTI-t
-Inter-Európa Bank Rt.
-Magyar Tõkepiacban
+Inter-EurÃ³pa Bank Rt.
+Magyar TÅ‘kepiacban
 Britton Capital and Consulting Kft.
 Kartonpack
 MTI-nek
@@ -3594,77 +3594,77 @@ Vodafone
 Aral
 Royal Dutch/Shell
 FTD
-Intelligens város
-Észak-Dunántúli Vízügyi Igazgatóság
-Gyõr-Moson-Sopron Megyei Állami Közútkezelõ Kht.
-Gyõr Megyei Jogú Város Útkezelõ Szervezete
-Kommunális Szolgáltató Kft.
-Tárkival
-Ifjúsági és Sportminisztérium
+Intelligens vÃ¡ros
+Ã‰szak-DunÃ¡ntÃºli VÃ­zÃ¼gyi IgazgatÃ³sÃ¡g
+GyÅ‘r-Moson-Sopron Megyei Ãllami KÃ¶zÃºtkezelÅ‘ Kht.
+GyÅ‘r Megyei JogÃº VÃ¡ros ÃštkezelÅ‘ Szervezete
+KommunÃ¡lis SzolgÃ¡ltatÃ³ Kft.
+TÃ¡rkival
+IfjÃºsÃ¡gi Ã©s SportminisztÃ©rium
 ISM
-Balatonfüredi Yacht Club
-Céh Rt.
-Befektetõben
+BalatonfÃ¼redi Yacht Club
+CÃ©h Rt.
+BefektetÅ‘ben
 Siemens Rt.-vel
 Magyar Posta Rt.
 MP
-Közbeszerzési Értesítõben
+KÃ¶zbeszerzÃ©si Ã‰rtesÃ­tÅ‘ben
 MP
-ZÁÉV Rt.
+ZÃÃ‰V Rt.
 Hydrocomp
 Kaiser Kft.
 ZTE FC Rt.
-NAPI Gazdaság
-Fõtáv Rt.
-Fõvárosi Önkormányzat Tulajdonosi Bizottsága
-Fõtáv Rt.
-M30-as autópálya
-M3-as autópályával
-NAPI Gazdaságban
-Magyar Államvasutak
-MÁV
+NAPI GazdasÃ¡g
+FÅ‘tÃ¡v Rt.
+FÅ‘vÃ¡rosi Ã–nkormÃ¡nyzat Tulajdonosi BizottsÃ¡ga
+FÅ‘tÃ¡v Rt.
+M30-as autÃ³pÃ¡lya
+M3-as autÃ³pÃ¡lyÃ¡val
+NAPI GazdasÃ¡gban
+Magyar Ãllamvasutak
+MÃV
 Rt.
-NAPI Gazdaságban
-Nemzeti Kulturális Örökség
-Trigránit Rt.
-Plaza 213 Ingatlanfejlesztési és Vagyonhaznosító Kft.
-Dél-dunántúli Regionális Területfejlesztési Tanács
-MÁV Rt.
+NAPI GazdasÃ¡gban
+Nemzeti KulturÃ¡lis Ã–rÃ¶ksÃ©g
+TrigrÃ¡nit Rt.
+Plaza 213 IngatlanfejlesztÃ©si Ã©s VagyonhaznosÃ­tÃ³ Kft.
+DÃ©l-dunÃ¡ntÃºli RegionÃ¡lis TerÃ¼letfejlesztÃ©si TanÃ¡cs
+MÃV Rt.
 Siemens Rt.
-NAPI Gazdaság
-Strabag Építõ Kft.
-Gyermek- Ifjúsági és Sportminisztérium
+NAPI GazdasÃ¡g
+Strabag Ã‰pÃ­tÅ‘ Kft.
+Gyermek- IfjÃºsÃ¡gi Ã©s SportminisztÃ©rium
 GyISM
-Sportfolió Kht.-vel
-NAPI Gazdaságban
-Magyar Fejlesztési Bank
+SportfoliÃ³ Kht.-vel
+NAPI GazdasÃ¡gban
+Magyar FejlesztÃ©si Bank
 MFB
-Hungexpo Reklám Rt.-nek
-Magyar Hírlap
+Hungexpo ReklÃ¡m Rt.-nek
+Magyar HÃ­rlap
 Hungexpo Rt.-nek
-Ganz Transelektro Közlekedési Rt.
+Ganz Transelektro KÃ¶zlekedÃ©si Rt.
 Consorzio Cooperative Costruzione
 Bonciani s.r.l.
-Malév Rt.
+MalÃ©v Rt.
 Boeing
-ÁPV Rt.
-Nemzeti Autópálya Rt.
+ÃPV Rt.
+Nemzeti AutÃ³pÃ¡lya Rt.
 NA Rt.
-Miniszterelnökség Közbeszerzési és Gazdasági Igazgatósága
+MiniszterelnÃ¶ksÃ©g KÃ¶zbeszerzÃ©si Ã©s GazdasÃ¡gi IgazgatÃ³sÃ¡ga
 MKGI
 VirusBuster Kft-vel
-VirusBuster Kft-tõl
-Belügyminisztérium
+VirusBuster Kft-tÅ‘l
+BelÃ¼gyminisztÃ©rium
 BM
-IBM Magyarország Kft.-vel
+IBM MagyarorszÃ¡g Kft.-vel
 IBM
 BM
 Siemens Rt.
 Honda Motor Co.
 Fit
 Raiffeisen
-Komercní Bankáért
-Société Générale
+KomercnÃ­ BankÃ¡Ã©rt
+SociÃ©tÃ© GÃ©nÃ©rale
 Hypovereinsbank/Bank Austria csoport
 General Electric
 Budapest Bankban
@@ -3675,7 +3675,7 @@ Nadra Bank
 HypoVereinsbank
 Bank Austria
 Bank Austria
-Európai Újjáépítési és Fejlesztési Bank
+EurÃ³pai ÃšjjÃ¡Ã©pÃ­tÃ©si Ã©s FejlesztÃ©si Bank
 EBRD
 Investkredit Bank AG
 Investkredit csoport
@@ -3687,8 +3687,8 @@ Erste Bankja
 HypoVereisnbank AG
 Swiss Re
 Lincoln National
-Österreichische Volksbanken AG
-ÖVAG
+Ã–sterreichische Volksbanken AG
+Ã–VAG
 Europay International
 Visa International
 Eurocard-Mastercard
@@ -3697,7 +3697,7 @@ Eurocheque
 Cirrus
 Europay International
 Humet Rt.
-Magyar Tõkepiacban
+Magyar TÅ‘kepiacban
 HypoVereinsbankkal
 HVB
 Bank Austria
@@ -3706,31 +3706,31 @@ BNP Paribas
 D.A.S.
 Raiffeisen Zentralbank
 Bank Austria
-Zürich Financial Services Group
+ZÃ¼rich Financial Services Group
 Credit Suisse csoporthoz
-Sschweizer Winterthur Biztosító
-Winterthur Österreicht
-Winterthur Biztosító Rt.-bõl
-Winterthur Nyugdíjpénztárak Rt.-bõl
-Wintisia Management und Consulting Rt.-bõl
+Sschweizer Winterthur BiztosÃ­tÃ³
+Winterthur Ã–sterreicht
+Winterthur BiztosÃ­tÃ³ Rt.-bÅ‘l
+Winterthur NyugdÃ­jpÃ©nztÃ¡rak Rt.-bÅ‘l
+Wintisia Management und Consulting Rt.-bÅ‘l
 OTP Bank
-Nemzeti Vagyonkezelõ Alap
-Beruházási és Fejlesztési Bank
+Nemzeti VagyonkezelÅ‘ Alap
+BeruhÃ¡zÃ¡si Ã©s FejlesztÃ©si Bank
 IRB
 IRB
 OTP Bank Rt.
-Befektetési és Fejlesztési Bank
+BefektetÃ©si Ã©s FejlesztÃ©si Bank
 IRB
 Menatep SPB Bank
 Hewlett-Packard
 HP
 Pannonplast
-Moldin Kft.-nél
+Moldin Kft.-nÃ©l
 Hewlett-Packard
 Pannonplastot
-Budapesti Értéktõzsde
+Budapesti Ã‰rtÃ©ktÅ‘zsde
 OTP Bank Rt.-vel
-Investicná a rozvojová banka
+InvesticnÃ¡ a rozvojovÃ¡ banka
 IRB
 AXA
 Finance.EU
@@ -3753,15 +3753,15 @@ Toshiba
 Microsoft
 Reuters
 Microsoft
-Napi Gazdaságban
+Napi GazdasÃ¡gban
 BMW AG
 British American Tobacco
 BAT
 Mustang GmbH
 Mustang Marcali Rt.-nek
-NAPI Gazdaságban
-Tchibo Magyarország Kft.
-5 á Sec Central Europe Kft
+NAPI GazdasÃ¡gban
+Tchibo MagyarorszÃ¡g Kft.
+5 Ã¡ Sec Central Europe Kft
 Kurier
 Mol
 Avanti
@@ -3774,111 +3774,111 @@ Mol Rt.
 OMV
 Molban
 OMV
-Matáv Rt.
-Matáv
-Magyar Tõkepiac
+MatÃ¡v Rt.
+MatÃ¡v
+Magyar TÅ‘kepiac
 OTP Bank Rt.
 OTP Bank
-Magyar Tõkepiacban
+Magyar TÅ‘kepiacban
 Pick Szeged Rt.
-Magyar Tõkepiacban
-OTP Bank Rt.-nél
+Magyar TÅ‘kepiacban
+OTP Bank Rt.-nÃ©l
 OTP
-Magyar Tõkepiacban
-Novotrade Befektetési Rt.
-Magyar Tõkepiacban
+Magyar TÅ‘kepiacban
+Novotrade BefektetÃ©si Rt.
+Magyar TÅ‘kepiacban
 OTP Bank Rt.
-Magyar Tõkepiac
+Magyar TÅ‘kepiac
 Mol Rt.
-Olajterv Rt-tõl
+Olajterv Rt-tÅ‘l
 Mol
 Mol
-Magyar Tõkepiacban
+Magyar TÅ‘kepiacban
 Fotex Rt.
 Fotex
 Fotex
-Magyar Tõkepiacban
+Magyar TÅ‘kepiacban
 OTP Bank Rt.
-Magyar Tõkepiacban
+Magyar TÅ‘kepiacban
 OTP Bank Rt.
-Magyar Tõkepiacban
+Magyar TÅ‘kepiacban
 OTP Bank Rt.
 OTP Bank
-Magyar Tõkepiacban
-Raiffeisen Befektetési Alapkezelõ Rt.
-Magyar Tõkepiac
+Magyar TÅ‘kepiacban
+Raiffeisen BefektetÃ©si AlapkezelÅ‘ Rt.
+Magyar TÅ‘kepiac
 Danubius Hotels Rt.
 Danubius
-Magyar Tõkepiacban
+Magyar TÅ‘kepiacban
 OTP Bank Rt.
 OTP
-Magyar Tõkepiac
-Mezõgép Rt.
-Mezõgép
-Magyar Tõkepiacban
+Magyar TÅ‘kepiac
+MezÅ‘gÃ©p Rt.
+MezÅ‘gÃ©p
+Magyar TÅ‘kepiacban
 MTI-hez
-OTP Bank Rt-nél
+OTP Bank Rt-nÃ©l
 OTP
-Magyar Tõkepiacban
+Magyar TÅ‘kepiacban
 Globus Konzervipari Rt.
 Globus
-Magyar Tõkepiacban
-Mezõgép Rt.
-Mezõgép
-Magyar Tõkepiac
+Magyar TÅ‘kepiacban
+MezÅ‘gÃ©p Rt.
+MezÅ‘gÃ©p
+Magyar TÅ‘kepiac
 Mol Rt.
 Mol
-Magyar Tõkepiacban
-Concorde Értékpapír Rt.
-Matáv
-Magyar Tõkepiac
+Magyar TÅ‘kepiacban
+Concorde Ã‰rtÃ©kpapÃ­r Rt.
+MatÃ¡v
+Magyar TÅ‘kepiac
 Csepel Holding Rt.
 Csepel
-Magyar Tõkepiacban
+Magyar TÅ‘kepiacban
 OTP Bank Rt.
-Magyar Tõkepiacban
+Magyar TÅ‘kepiacban
 OTP Bank Rt.
-Magyar Tõkepiacban
+Magyar TÅ‘kepiacban
 OTP Bank Rt.
-Magyar Tõkepiac
-Concorde Értékpapír Rt.
+Magyar TÅ‘kepiac
+Concorde Ã‰rtÃ©kpapÃ­r Rt.
 Mol
-Magyar Tõkepiac
-Concorde Értékpapír Rt.
-Matáv
-Magyar Tõkepiac
-Skála-Coop Rt.
-Magyar Tõkepiacban
-Skála-Coop Kereskedelmi és Ipari Rt.
-Magyar Tõkepiac
+Magyar TÅ‘kepiac
+Concorde Ã‰rtÃ©kpapÃ­r Rt.
+MatÃ¡v
+Magyar TÅ‘kepiac
+SkÃ¡la-Coop Rt.
+Magyar TÅ‘kepiacban
+SkÃ¡la-Coop Kereskedelmi Ã©s Ipari Rt.
+Magyar TÅ‘kepiac
 OTP Bank Rt.
-Magyar Tõkepiacban
+Magyar TÅ‘kepiacban
 Wallis Rt.
-ABC Vagyonkezelõ Rt.
+ABC VagyonkezelÅ‘ Rt.
 Graboplast
 Graboplast
-Magyar Tõkepiac
+Magyar TÅ‘kepiac
 OTP Bank Rt.
 OTP
-Magyar Tõkepiacban
+Magyar TÅ‘kepiacban
 OTP Bank Rt.
 OTP Bank
-Magyar Tõkepiacban
-Concorde Értékpapír Rt.
-Matáv
-Magyar Tõkepiac
-Matáv Rt.
-Matáv
-Magyar Tõkepiac
+Magyar TÅ‘kepiacban
+Concorde Ã‰rtÃ©kpapÃ­r Rt.
+MatÃ¡v
+Magyar TÅ‘kepiac
+MatÃ¡v Rt.
+MatÃ¡v
+Magyar TÅ‘kepiac
 OTP Bank Rt.
 OTP
-Magyar Tõkepiacban
+Magyar TÅ‘kepiacban
 Royal/Dutch Shell
 ExxonMobil
 Gazprom
 Axa
 Dresdner Bankot
-Allianz biztosító
+Allianz biztosÃ­tÃ³
 Deutsche Bankkal
 Deutsche Bank
 Deutscher Herolddal
@@ -3886,8 +3886,8 @@ Heath Lambert Group
 Acordia Inc.
 Global
 Polip Insurance Kft.
-Regionális Fejlesztési Holding Rt.-vel
-Balatoni Regionális Fejlesztési Rt.-vel
+RegionÃ¡lis FejlesztÃ©si Holding Rt.-vel
+Balatoni RegionÃ¡lis FejlesztÃ©si Rt.-vel
 Indiai Tata Consulting Services
 DaimlerChrysler
 Hyundai Motor
@@ -3901,7 +3901,7 @@ Hitachi
 Nortel Networks
 Nokia
 mmO2
-British Telecommunicatinsrõl
+British TelecommunicatinsrÅ‘l
 Ericssonnnak
 ST Microelectronics
 Motorola
@@ -3941,7 +3941,7 @@ Nokia
 Nokia
 IBM
 CBSMarketWatch
-Európai Bizottság
+EurÃ³pai BizottsÃ¡g
 Lufthansa
 Austrian Airlines
 AA
@@ -3956,13 +3956,13 @@ Boeingnek
 EADS-nak
 Gibros BV
 Island Kft.
-Széchenyi-terv
-Befektetõben
-San Benedetto Magyar Ásványvíz Kft.
+SzÃ©chenyi-terv
+BefektetÅ‘ben
+San Benedetto Magyar ÃsvÃ¡nyvÃ­z Kft.
 Danone-csoport
 San Benedetto
 Dasanbe S.A.
-NAPI Gazdaságban
+NAPI GazdasÃ¡gban
 Webigen Rt.
 Vivendi Telecom Hungary
 Webigen Rt.-ben
@@ -3970,13 +3970,13 @@ Vivendi-Webigen
 Vivendi
 Webigennek
 Index.hu Rt.
-NAPI Gazdaság
+NAPI GazdasÃ¡g
 Index-szel
 Vivendi
 Webigen
 Infostartot
 Index
-Internettóra
+InternettÃ³ra
 Vivendi Telecom Hungary
 Univerzum
 Univerzum
@@ -3986,10 +3986,10 @@ Vivendi
 Job4Smarts
 Jobpilot
 CV Online
-Vegyépszer Rt.
-Vegyépszer
-Európa Ingatlanbefektetési Alap
-GÁTIBA Kft.-vel
+VegyÃ©pszer Rt.
+VegyÃ©pszer
+EurÃ³pa IngatlanbefektetÃ©si Alap
+GÃTIBA Kft.-vel
 Merrill Lynch
 Reuters
 Dresdner Bank
@@ -4040,9 +4040,9 @@ Motorola Inc.
 Reuters
 Hewlett-Packard
 Compaq-kal
-Pénzügyi Szervezetek Állami Felügyelete
-Citibank Befektetési és Értékpapír Rt.-t
-Magyar Tõkepiacban
+PÃ©nzÃ¼gyi Szervezetek Ãllami FelÃ¼gyelete
+Citibank BefektetÃ©si Ã©s Ã‰rtÃ©kpapÃ­r Rt.-t
+Magyar TÅ‘kepiacban
 PriceWaterHouseCoopers
 ABN AMRO
 TD Waterhouse Group Inc.
@@ -4063,347 +4063,347 @@ Siemens
 American Airlines
 AA
 Nokia
-Nokia Networksbõl
+Nokia NetworksbÅ‘l
 Nokia Networks
 Nokia
 Buckbee-Mears Hungary Kft.
-Aero-Pack Csomagolástechnikai Kft.
+Aero-Pack CsomagolÃ¡stechnikai Kft.
 Magyar Posta
-Magyar Hírlap
+Magyar HÃ­rlap
 Posta
 Flextronics
-NAPI Gazdaságban
+NAPI GazdasÃ¡gban
 Videoton Holding Rt.
 IBM-Hitachi
-NAPI Gazdaságban
-NAPI Gazdaság
+NAPI GazdasÃ¡gban
+NAPI GazdasÃ¡g
 IBM
 IBM
-NAPI Gazdaságban
+NAPI GazdasÃ¡gban
 Bouygues Telecom
 DoCoMo
 DoCoMo
-Pénzügyi Szervezetek Állami Felügyelete
-PSZÁF
-Raiffeisen Értékpapír és Befektetési Rt-t
-Magyar Tõkepiacban
-Pénzügyi Szervezetek Állami Felügyelete
-PSZÁF
-Aegon Magyarország Értékpapír Rt-t
-PSZÁF
-Magyar Tõkepiacban
+PÃ©nzÃ¼gyi Szervezetek Ãllami FelÃ¼gyelete
+PSZÃF
+Raiffeisen Ã‰rtÃ©kpapÃ­r Ã©s BefektetÃ©si Rt-t
+Magyar TÅ‘kepiacban
+PÃ©nzÃ¼gyi Szervezetek Ãllami FelÃ¼gyelete
+PSZÃF
+Aegon MagyarorszÃ¡g Ã‰rtÃ©kpapÃ­r Rt-t
+PSZÃF
+Magyar TÅ‘kepiacban
 Arthur Andersen
-Buda-Cash Brókerház Rt.
+Buda-Cash BrÃ³kerhÃ¡z Rt.
 TVK Rt.
 Buda-Cash
-Fõváros Bíróság
-Kollégiumán
-Pénzügyi Szervezetek Állami Felügyelete
+FÅ‘vÃ¡ros BÃ­rÃ³sÃ¡g
+KollÃ©giumÃ¡n
+PÃ©nzÃ¼gyi Szervezetek Ãllami FelÃ¼gyelete
 CIB Bank
 Buda-Chas
 MTI-t
-Pénzügyi Szervezetek Állami Felügyelete
-OTP Jelzálogbankjának
+PÃ©nzÃ¼gyi Szervezetek Ãllami FelÃ¼gyelete
+OTP JelzÃ¡logbankjÃ¡nak
 MTI-t
-Budapest Értékpapír és Befektetési Rt.
-BÉB Rt.
-Magyar Tõkepiac
-Pénzügyi Szervezetek Állami Felügyelete
-PSZÁF
-Amethyst Befektetési Szolgáltató Rt.-nek
-KELER Rt.-nél
-PSZÁF
-Magyar Tõkepiacban
-Pénzügyi Szervezetek Állami Felügyelete
-PSzÁF
-ÁB-Aegon Általános Biztosító Rt.
+Budapest Ã‰rtÃ©kpapÃ­r Ã©s BefektetÃ©si Rt.
+BÃ‰B Rt.
+Magyar TÅ‘kepiac
+PÃ©nzÃ¼gyi Szervezetek Ãllami FelÃ¼gyelete
+PSZÃF
+Amethyst BefektetÃ©si SzolgÃ¡ltatÃ³ Rt.-nek
+KELER Rt.-nÃ©l
+PSZÃF
+Magyar TÅ‘kepiacban
+PÃ©nzÃ¼gyi Szervezetek Ãllami FelÃ¼gyelete
+PSzÃF
+ÃB-Aegon ÃltalÃ¡nos BiztosÃ­tÃ³ Rt.
 MTI
 IE-New York Broker Rt.-t
-Magyar Tõkepiac
-Hunguest Vagyonkezelõ Rt.
-Állami Számvevõszéknek
-Kereskedelmi és Hitelbankot
+Magyar TÅ‘kepiac
+Hunguest VagyonkezelÅ‘ Rt.
+Ãllami SzÃ¡mvevÅ‘szÃ©knek
+Kereskedelmi Ã©s Hitelbankot
 K and H
-Pénzügyi Szervezetek Állami Felügyelete
-PSZÁF
-Gazdasági Versenyhivatal
-Pénzügyi Szervezetek Állami Felügyelete
-PSZÁF
-Dunainvest Tõzsdeügynökség Rt.
-PSZÁF
-Magyar Tõkepiacban
-Pénzügyi Szervezetek Állami Felügyelete
-PSZÁF
-Garmond Capital Befektetési Szolgáltató Rt.
-PSZÁF
-Magyar Tõkepiac
-Cégbíróság
-Kereskedelmi és Hitelbankot
-Pénzügyi Szervezetek Állami Felügyelete
-PSZÁF
-Gazdasági Versenyhivatal
-Kereskedelmi és Hitelbank
-Pénzügyi Szervezetek Állami Felügyelete
-ING Bank Magyarország Rt.-t
+PÃ©nzÃ¼gyi Szervezetek Ãllami FelÃ¼gyelete
+PSZÃF
+GazdasÃ¡gi Versenyhivatal
+PÃ©nzÃ¼gyi Szervezetek Ãllami FelÃ¼gyelete
+PSZÃF
+Dunainvest TÅ‘zsdeÃ¼gynÃ¶ksÃ©g Rt.
+PSZÃF
+Magyar TÅ‘kepiacban
+PÃ©nzÃ¼gyi Szervezetek Ãllami FelÃ¼gyelete
+PSZÃF
+Garmond Capital BefektetÃ©si SzolgÃ¡ltatÃ³ Rt.
+PSZÃF
+Magyar TÅ‘kepiac
+CÃ©gbÃ­rÃ³sÃ¡g
+Kereskedelmi Ã©s Hitelbankot
+PÃ©nzÃ¼gyi Szervezetek Ãllami FelÃ¼gyelete
+PSZÃF
+GazdasÃ¡gi Versenyhivatal
+Kereskedelmi Ã©s Hitelbank
+PÃ©nzÃ¼gyi Szervezetek Ãllami FelÃ¼gyelete
+ING Bank MagyarorszÃ¡g Rt.-t
 ERSTE Bank Hungary Rt.-t
-Magyar Tõkepiacban
-Pénzügyi Szervezetek Állami Felügyelete
-OTP Lakástakarékpénztár Rt
-Budapesti Értéktõzsde
+Magyar TÅ‘kepiacban
+PÃ©nzÃ¼gyi Szervezetek Ãllami FelÃ¼gyelete
+OTP LakÃ¡stakarÃ©kpÃ©nztÃ¡r Rt
+Budapesti Ã‰rtÃ©ktÅ‘zsde
 Phylaxia Pharma Rt.-t
-BÉT-nek
+BÃ‰T-nek
 Integra Informatikai Rt.-t
 Erste Bank Hungary Rt.-t
-Elsõ Hazai Energia-portfólió Rt.-t
+ElsÅ‘ Hazai Energia-portfÃ³liÃ³ Rt.-t
 Ehep
 Pannon GSM Rt.-t
-Széchenyi Vadászkastély Rt.-t
-Pénzügyi Szervezetek Állami Felügyelete
-PSZÁF
-Versze 2000 Értékpapír Kft.
-Magyar Tõkepiacban
-Partner Országos Önkéntes Nyugdíjpénztár
-Pénzügyi Szervezetek Állami Felügyelete
-PSZÁF
+SzÃ©chenyi VadÃ¡szkastÃ©ly Rt.-t
+PÃ©nzÃ¼gyi Szervezetek Ãllami FelÃ¼gyelete
+PSZÃF
+Versze 2000 Ã‰rtÃ©kpapÃ­r Kft.
+Magyar TÅ‘kepiacban
+Partner OrszÃ¡gos Ã–nkÃ©ntes NyugdÃ­jpÃ©nztÃ¡r
+PÃ©nzÃ¼gyi Szervezetek Ãllami FelÃ¼gyelete
+PSZÃF
 MTI-t
 profil
 Erste Bank
 Ceska Sporitelna
 CS
 Nabi Rt.
-Pénzügyi Szervezetek Állami Felügyelete
-PSZÁF
-Magyar Tõkepiac
-Pénzügyi Szervezetek Állami Felügyelete
-PSZÁF
-Dunainvest Tõzsdeügynökség Rt.
-PSZÁF
-Magyar Tõkepiacban
-Aegon Magyarország Értékpapír Rt-t
-Pénzügyi Szervezetek Állami Felügyelete
-PSZÁF
-Magyar Tõkepiacban
-Pénzügyi Szervezetek Állami Felügyelete
-PSZÁF
-Dunainvest Tõzsdeügynökség Rt.
-Erste Bank Értékpapír Kereskedelmi Rt.
-PSZÁF
+PÃ©nzÃ¼gyi Szervezetek Ãllami FelÃ¼gyelete
+PSZÃF
+Magyar TÅ‘kepiac
+PÃ©nzÃ¼gyi Szervezetek Ãllami FelÃ¼gyelete
+PSZÃF
+Dunainvest TÅ‘zsdeÃ¼gynÃ¶ksÃ©g Rt.
+PSZÃF
+Magyar TÅ‘kepiacban
+Aegon MagyarorszÃ¡g Ã‰rtÃ©kpapÃ­r Rt-t
+PÃ©nzÃ¼gyi Szervezetek Ãllami FelÃ¼gyelete
+PSZÃF
+Magyar TÅ‘kepiacban
+PÃ©nzÃ¼gyi Szervezetek Ãllami FelÃ¼gyelete
+PSZÃF
+Dunainvest TÅ‘zsdeÃ¼gynÃ¶ksÃ©g Rt.
+Erste Bank Ã‰rtÃ©kpapÃ­r Kereskedelmi Rt.
+PSZÃF
 MTI
-ING Baring Értékpapír Rt.-t
-Magyar Tõkepiacban
+ING Baring Ã‰rtÃ©kpapÃ­r Rt.-t
+Magyar TÅ‘kepiacban
 OTP Bank Rt.-t
-Pénzügyi Szervezetek Állami Felügyelete
-PSZÁF
-Magyar Tõkepiacban
+PÃ©nzÃ¼gyi Szervezetek Ãllami FelÃ¼gyelete
+PSZÃF
+Magyar TÅ‘kepiacban
 Synergon Rt.
-Pénzügyi Szervezetek Állami Felügyelete
-PSZÁF
-Magyar Tõkepiacban
-ING Baring Értékpapír Magyarország Rt.-t
-Pénzügyi Szervezetek Állami Felügyelete
-PSZÁF
-Magyar Tõkepiacban
-Equitas Bróker Rt.-t
-Pénzügyi Szervezetek Állami Felügyelete
-PSZÁF
-Magyar Tõkepiac
-Quaestor Értékpapír-kereskedelmi és Befektetési Rt.-t
-Pénzügyi Szervezetek Állami Felügyelete
-PSZÁF
-Magyar Tõkepiac
-Pénzügyi Szervezetek Állami Felügyelete
+PÃ©nzÃ¼gyi Szervezetek Ãllami FelÃ¼gyelete
+PSZÃF
+Magyar TÅ‘kepiacban
+ING Baring Ã‰rtÃ©kpapÃ­r MagyarorszÃ¡g Rt.-t
+PÃ©nzÃ¼gyi Szervezetek Ãllami FelÃ¼gyelete
+PSZÃF
+Magyar TÅ‘kepiacban
+Equitas BrÃ³ker Rt.-t
+PÃ©nzÃ¼gyi Szervezetek Ãllami FelÃ¼gyelete
+PSZÃF
+Magyar TÅ‘kepiac
+Quaestor Ã‰rtÃ©kpapÃ­r-kereskedelmi Ã©s BefektetÃ©si Rt.-t
+PÃ©nzÃ¼gyi Szervezetek Ãllami FelÃ¼gyelete
+PSZÃF
+Magyar TÅ‘kepiac
+PÃ©nzÃ¼gyi Szervezetek Ãllami FelÃ¼gyelete
 Csopakot
 Ivydale
-ING Baring Értékpapír Rt.-t
-Otthon Magyar-Osztrák Lakás-takarékpénztár Rt-t
-Pénzügyi Szervezetek Állami Felügyelete
-PSZÁF
-Magyar Tõkepiacban
-Takarék Bróker Értékpapír Forgalmazó és Tanácsadó Rt-t
-Pénzügyi Szervezetek Állami Felügyelete
-PSZÁF
-Magyar Tõkepiacban
-GarAgent Jármûipari Kft.-t
-Budapesti Értéktõzsde
+ING Baring Ã‰rtÃ©kpapÃ­r Rt.-t
+Otthon Magyar-OsztrÃ¡k LakÃ¡s-takarÃ©kpÃ©nztÃ¡r Rt-t
+PÃ©nzÃ¼gyi Szervezetek Ãllami FelÃ¼gyelete
+PSZÃF
+Magyar TÅ‘kepiacban
+TakarÃ©k BrÃ³ker Ã‰rtÃ©kpapÃ­r ForgalmazÃ³ Ã©s TanÃ¡csadÃ³ Rt-t
+PÃ©nzÃ¼gyi Szervezetek Ãllami FelÃ¼gyelete
+PSZÃF
+Magyar TÅ‘kepiacban
+GarAgent JÃ¡rmÅ±ipari Kft.-t
+Budapesti Ã‰rtÃ©ktÅ‘zsde
 Csepel Holding Rt.-t
-Európai Bizottság
+EurÃ³pai BizottsÃ¡g
 EU
-Pénzügyi Szervezetek Állami Felügyelete
-PSZÁF
-Magyar Tõkepiac
+PÃ©nzÃ¼gyi Szervezetek Ãllami FelÃ¼gyelete
+PSZÃF
+Magyar TÅ‘kepiac
 Arago
 Pick Szeged Rt.
 Pick
-Pénzügyi Szervezetek Állami Felügyeletével
-PSZÁF
+PÃ©nzÃ¼gyi Szervezetek Ãllami FelÃ¼gyeletÃ©vel
+PSZÃF
 Pick
-Magyar Tõkepiacban
-Fõvárosi Bíróság
-Kollégiumán
+Magyar TÅ‘kepiacban
+FÅ‘vÃ¡rosi BÃ­rÃ³sÃ¡g
+KollÃ©giumÃ¡n
 Landesbank
-Postabanktól
-Nádor 95 Rt.
-Pénzügyi Szervezetek Állami Felügyelete
-PSZÁF
-Pénzügyi Szervezetek Állami Felügyelete
-PSZÁF
-Pannon Országos Önsegélyezõ Pénztárt
-Magyar Tõkepiacban
-Pénzügyi Szervezetek Állami Felügyelete
-PSZÁF
+PostabanktÃ³l
+NÃ¡dor 95 Rt.
+PÃ©nzÃ¼gyi Szervezetek Ãllami FelÃ¼gyelete
+PSZÃF
+PÃ©nzÃ¼gyi Szervezetek Ãllami FelÃ¼gyelete
+PSZÃF
+Pannon OrszÃ¡gos Ã–nsegÃ©lyezÅ‘ PÃ©nztÃ¡rt
+Magyar TÅ‘kepiacban
+PÃ©nzÃ¼gyi Szervezetek Ãllami FelÃ¼gyelete
+PSZÃF
 Pick Szeged Rt.
-Magyar Tõkepiacban
+Magyar TÅ‘kepiacban
 Innova-Invest Rt.
-Pénzügyi Szervezetek Állami Felügyelete
-PSZÁF
-Elsõ Magyarországi Német Pénzpiaci Befektetési Alap
-PSZÁF
-Magyar Tõkepiacban
-Pénzügyi Szervezetek Állami Felügyelete
-PSZÁF
+PÃ©nzÃ¼gyi Szervezetek Ãllami FelÃ¼gyelete
+PSZÃF
+ElsÅ‘ MagyarorszÃ¡gi NÃ©met PÃ©nzpiaci BefektetÃ©si Alap
+PSZÃF
+Magyar TÅ‘kepiacban
+PÃ©nzÃ¼gyi Szervezetek Ãllami FelÃ¼gyelete
+PSZÃF
 Ivydale Investment Ltd.
-Csopak Szövetkezeti Rt.
-Magyar Tõkepiacban
-Pénzügyi Szervezetek Állami Felügyelete
-PSZÁF
+Csopak SzÃ¶vetkezeti Rt.
+Magyar TÅ‘kepiacban
+PÃ©nzÃ¼gyi Szervezetek Ãllami FelÃ¼gyelete
+PSZÃF
 IE-New York Broker Rt.
-Inter-Európa Bank Rt.
-Magyar Tõkepiacban
-Pénzügyi Szervezetek Állami Felügyelete
-PSZÁF
-Német Befektetési Társaság Rt.
-PSZÁF
-Magyar Tõkepiacban
+Inter-EurÃ³pa Bank Rt.
+Magyar TÅ‘kepiacban
+PÃ©nzÃ¼gyi Szervezetek Ãllami FelÃ¼gyelete
+PSZÃF
+NÃ©met BefektetÃ©si TÃ¡rsasÃ¡g Rt.
+PSZÃF
+Magyar TÅ‘kepiacban
 Innova-Invest Rt.
 IBUSZ Rt.
-Pénzügyi Szervezetek Állami Felügyeletének
-PSZÁF
-Magyar Tõkepiac
-Pénzügyi Szervezetek Állami Felügyelete
+PÃ©nzÃ¼gyi Szervezetek Ãllami FelÃ¼gyeletÃ©nek
+PSZÃF
+Magyar TÅ‘kepiac
+PÃ©nzÃ¼gyi Szervezetek Ãllami FelÃ¼gyelete
 BorsodChemet
 Arago Rt.-t
 Domestore Kft.-t
-ÁÉB Bank Rt.-t
-Magyar Tõkepiac
+ÃÃ‰B Bank Rt.-t
+Magyar TÅ‘kepiac
 OTP Bank Rt.
-Magyar Tõkepiacban
+Magyar TÅ‘kepiacban
 Britton Capital and Consulting Kft.
-Pénzügyi Szervezetek Állami Felügyelete
-PSZÁF
-Magyar Tõkepiac
-Pénzügyi Szervezetek Állami Felügyelete
-PSZÁF
+PÃ©nzÃ¼gyi Szervezetek Ãllami FelÃ¼gyelete
+PSZÃF
+Magyar TÅ‘kepiac
+PÃ©nzÃ¼gyi Szervezetek Ãllami FelÃ¼gyelete
+PSZÃF
 IBUSZ Rt.-t
-Magyar Tõkepiac
+Magyar TÅ‘kepiac
 Arago Rt.
 Arago Rt.
-Magyar Tõkepiacban
+Magyar TÅ‘kepiacban
 Arago Rt-t
 Domestore Kft.-t
-Magyar Tõkepiac
+Magyar TÅ‘kepiac
 Pick Szeged Rt.
 Katonpack Rt
-Pénzügyi Szervezetek Állami Felügyeletének
-PSZÁF
-Magyar Tõkepiac
+PÃ©nzÃ¼gyi Szervezetek Ãllami FelÃ¼gyeletÃ©nek
+PSZÃF
+Magyar TÅ‘kepiac
 Trigon
-1870-es Hitelvédelmi Szövetség
+1870-es HitelvÃ©delmi SzÃ¶vetsÃ©g
 KSV
-Budapesti Értéktõzsde Titkárságának
+Budapesti Ã‰rtÃ©ktÅ‘zsde TitkÃ¡rsÃ¡gÃ¡nak
 NABI Rt.-t
-BÉT
-Magyar Tõkepiac
+BÃ‰T
+Magyar TÅ‘kepiac
 Dresdner Bank Rt.
-Pénzügyi Szervezetek Állami Felügyeletétõl
-PSZÁF
+PÃ©nzÃ¼gyi Szervezetek Ãllami FelÃ¼gyeletÃ©tÅ‘l
+PSZÃF
 MTI-t
-Rába Rt.
-Gyõr-Moson-Sopron Megyei Cégbíróság
-Magyar Tõkepiac
-Devín Banka
-Pénzügyi Szervezetek Állami Felügyelete
-PSZÁF
-Davon Kereskedelmi és Tanácsadó Kft.-t
-RCX Kereskedelmi és Tanácsadó Kft.-t
+RÃ¡ba Rt.
+GyÅ‘r-Moson-Sopron Megyei CÃ©gbÃ­rÃ³sÃ¡g
+Magyar TÅ‘kepiac
+DevÃ­n Banka
+PÃ©nzÃ¼gyi Szervezetek Ãllami FelÃ¼gyelete
+PSZÃF
+Davon Kereskedelmi Ã©s TanÃ¡csadÃ³ Kft.-t
+RCX Kereskedelmi Ã©s TanÃ¡csadÃ³ Kft.-t
 Synergon Informatikai Rt.-ben
-Német Befektetési Társaság Rt.-t
-Novotrade Befektetési Rt.-ben
-Pénzügyi Szervezetek Állami Felügyelete
-PSZÁF
+NÃ©met BefektetÃ©si TÃ¡rsasÃ¡g Rt.-t
+Novotrade BefektetÃ©si Rt.-ben
+PÃ©nzÃ¼gyi Szervezetek Ãllami FelÃ¼gyelete
+PSZÃF
 BorsodChem Rt.
-Magyar Tõkepiacban
-Pénzügyi Szervezetek Állami Felügyelete
-Arago Befektetési Holding Rt.
+Magyar TÅ‘kepiacban
+PÃ©nzÃ¼gyi Szervezetek Ãllami FelÃ¼gyelete
+Arago BefektetÃ©si Holding Rt.
 Pick Szeged Rt.
-Magyar Tõkepiac
-Pénzügyi Szervezetek Állami Felügyelete
-PSZÁF
+Magyar TÅ‘kepiac
+PÃ©nzÃ¼gyi Szervezetek Ãllami FelÃ¼gyelete
+PSZÃF
 Arago Rt.-nek
 Eravis Rt.
-Magyar Tõkepiac
-Pénzügyi Szervezetek Állami Felügyelete
-PSZÁF
-OTP Lakástakarékpénztár
-PSZÁF
+Magyar TÅ‘kepiac
+PÃ©nzÃ¼gyi Szervezetek Ãllami FelÃ¼gyelete
+PSZÃF
+OTP LakÃ¡stakarÃ©kpÃ©nztÃ¡r
+PSZÃF
 Arago Rt.-t
 Pick Rt.-ben
-Magyar Tõkepiacban
-Signal Biztosító Rt.-t
-Grawe Életbiztosító Rt.-t
-Pénzügyi Szervezetek Állami Felügyelete
-PSZÁF
-Magyar Tõkepiac
-Graboplast Textil és Mûbõrgyártó Rt.
-Graboparkett Kecskeméti Parkettagyártó Kft.
-Magyar Tõkepiac
-Pénzügyi Szervezetek Állami Felügyelete
-PSZÁF
+Magyar TÅ‘kepiacban
+Signal BiztosÃ­tÃ³ Rt.-t
+Grawe Ã‰letbiztosÃ­tÃ³ Rt.-t
+PÃ©nzÃ¼gyi Szervezetek Ãllami FelÃ¼gyelete
+PSZÃF
+Magyar TÅ‘kepiac
+Graboplast Textil Ã©s MÅ±bÅ‘rgyÃ¡rtÃ³ Rt.
+Graboparkett KecskemÃ©ti ParkettagyÃ¡rtÃ³ Kft.
+Magyar TÅ‘kepiac
+PÃ©nzÃ¼gyi Szervezetek Ãllami FelÃ¼gyelete
+PSZÃF
 Tengelmann Warenhandelsgesellschaftet
-Skála-Coop Rt.-ben
-Magyar Tõkepiac
-Hungária Biztosító Rt Nyugdíjpénztára
-Allianz Hungária Önkéntes és Magánnyugdíjpénztárra
-Egészségügyi Dolgozók Elsõ Nyugdíjpénztárával
+SkÃ¡la-Coop Rt.-ben
+Magyar TÅ‘kepiac
+HungÃ¡ria BiztosÃ­tÃ³ Rt NyugdÃ­jpÃ©nztÃ¡ra
+Allianz HungÃ¡ria Ã–nkÃ©ntes Ã©s MagÃ¡nnyugdÃ­jpÃ©nztÃ¡rra
+EgÃ©szsÃ©gÃ¼gyi DolgozÃ³k ElsÅ‘ NyugdÃ­jpÃ©nztÃ¡rÃ¡val
 MTI-vel
-ABC Befektetési Rt.
+ABC BefektetÃ©si Rt.
 Graboplast
-Pénzügyi Szervezetek Állami Felügyelete
-PSZÁF
-Magyar Tõkepiac
+PÃ©nzÃ¼gyi Szervezetek Ãllami FelÃ¼gyelete
+PSZÃF
+Magyar TÅ‘kepiac
 Humet Rt.-t
-Pénzügyi Szervezetek Állami Felügyelete
-PSZÁF
-Pénzügyi Szervezetek Állami Felügyelete
+PÃ©nzÃ¼gyi Szervezetek Ãllami FelÃ¼gyelete
+PSZÃF
+PÃ©nzÃ¼gyi Szervezetek Ãllami FelÃ¼gyelete
 OTP Bank Rt.
 OTP
-Magyar Tõkepiacban
-Pénzügyi Szervezetek Állami Felügyelete
-PSZÁF
-Crédit Lyonnais Bank Magyarország Rt.-nél
-Magyar Tõkepiac
-Pénzügyi Szervezetek Állami Felügyelete
-PSZÁF
-Opel Bank Hungary Rt.-nél
-Magyar Tõkepiac
-Pénzügyi Szervezetek Állami Felügyelete
-PSZÁF
-Budapest Hitel és Fejlesztési Bank Rt.-nél
-Magyar Tõkepiac
-Pénzügyi Szervezetek Állami Felügyelete
-PSZÁF
-ING Bank Magyarország Rt.-nél
-Magyar Tõkepiac
+Magyar TÅ‘kepiacban
+PÃ©nzÃ¼gyi Szervezetek Ãllami FelÃ¼gyelete
+PSZÃF
+CrÃ©dit Lyonnais Bank MagyarorszÃ¡g Rt.-nÃ©l
+Magyar TÅ‘kepiac
+PÃ©nzÃ¼gyi Szervezetek Ãllami FelÃ¼gyelete
+PSZÃF
+Opel Bank Hungary Rt.-nÃ©l
+Magyar TÅ‘kepiac
+PÃ©nzÃ¼gyi Szervezetek Ãllami FelÃ¼gyelete
+PSZÃF
+Budapest Hitel Ã©s FejlesztÃ©si Bank Rt.-nÃ©l
+Magyar TÅ‘kepiac
+PÃ©nzÃ¼gyi Szervezetek Ãllami FelÃ¼gyelete
+PSZÃF
+ING Bank MagyarorszÃ¡g Rt.-nÃ©l
+Magyar TÅ‘kepiac
 Stomil
 Stomil
 Michelin
-Hírközlési Felügyelet
+HÃ­rkÃ¶zlÃ©si FelÃ¼gyelet
 NetLock Kft.-t
 MTI-vel
-Gazdasági Versenyhivatal
+GazdasÃ¡gi Versenyhivatal
 GVH
-Audiofon Hungária Kft.
+Audiofon HungÃ¡ria Kft.
 MTI-t
-Mészkõ és Dolomit
+MÃ©szkÅ‘ Ã©s Dolomit
 MD
 Kft.
 Hoffmann Rt.
@@ -4420,158 +4420,158 @@ Deutsche Telekomnak
 DT-vel
 SEC
 Microsoft Corp.
-Gazdasági Versenyhivatal
-Procter&Gamble Magyarország Nagykereskedelmi Kkt.
-Ariel Hydractív
+GazdasÃ¡gi Versenyhivatal
+Procter&Gamble MagyarorszÃ¡g Nagykereskedelmi Kkt.
+Ariel HydractÃ­v
 GVH
 Ariel
-Ariel Hydractív
-Vénusz
+Ariel HydractÃ­v
+VÃ©nusz
 Cereol Internationale
 Oftel
 BT Group Plc-t
 Oftel
 ISP
 BT-vel
-Kereskedelmi Világszervezet
+Kereskedelmi VilÃ¡gszervezet
 WTO
 EU
 Alitalia
 MTI
-Telefónica-t
+TelefÃ³nica-t
 SEC
-Merrill Lynchtõl
+Merrill LynchtÅ‘l
 Enronnal
 SEC
-Hírközlési Döntõbizottság
+HÃ­rkÃ¶zlÃ©si DÃ¶ntÅ‘bizottsÃ¡g
 HDB
-Matáv
-Gazdasági Versenyhivatal
+MatÃ¡v
+GazdasÃ¡gi Versenyhivatal
 GVH
-Südzucker AG
-Kabai Cukorgyár Rt.-ben
-Matáv
+SÃ¼dzucker AG
+Kabai CukorgyÃ¡r Rt.-ben
+MatÃ¡v
 RIO
 RIO-ban
-Matáv
-Matávéval
-Gazdasági Versenyhivatal
+MatÃ¡v
+MatÃ¡vÃ©val
+GazdasÃ¡gi Versenyhivatal
 GVH
-Südzucker AG
+SÃ¼dzucker AG
 Raffinerie Tirlemontoise S.A.-n
-Kabai Cukorgyár Rt.
+Kabai CukorgyÃ¡r Rt.
 Eastern Sugar B.V.-ben
 Corvin-Szigony
 Enix Pro Kft.
-Rév8 Rt.
+RÃ©v8 Rt.
 Enix Pro
-NAPI Gazdaságban
+NAPI GazdasÃ¡gban
 Vivendi
-Hírközlési Döntõbizottság
-Hírközlési Döntõbizottság
+HÃ­rkÃ¶zlÃ©si DÃ¶ntÅ‘bizottsÃ¡g
+HÃ­rkÃ¶zlÃ©si DÃ¶ntÅ‘bizottsÃ¡g
 V-fon Rt.
-V.R.A.M Távközlési Rt.-vel
-Triász-Perry Kft.
+V.R.A.M TÃ¡vkÃ¶zlÃ©si Rt.-vel
+TriÃ¡sz-Perry Kft.
 Stollwercknek
-Gazdasági Versenyhivatal
-Kraft Foods Hungária Kft.
+GazdasÃ¡gi Versenyhivatal
+Kraft Foods HungÃ¡ria Kft.
 Kraftnak
 Stollwerck Budapest Kft.
 Wohn Kft.-t
 Wohn Kft.
 Ginetu Holdings p.t.y Ltd.
-HBW Expressz Takarékpénztáré
-Gombos Immobilien Investment Bt.-é
+HBW Expressz TakarÃ©kpÃ©nztÃ¡rÃ©
+Gombos Immobilien Investment Bt.-Ã©
 H.S.J Kft.
-Hírközlési Döntõbizottság
+HÃ­rkÃ¶zlÃ©si DÃ¶ntÅ‘bizottsÃ¡g
 HDB
-Matáv
+MatÃ¡v
 HDB-hez
-Matáv
-Hírközlési Döntõbizottság
-Matávnak
-Matáv Belföldi Társszolgáltatói üzletág
-Matáv
-Legfelsõbb Bíróság
-Tolna Megyei Bíróság
+MatÃ¡v
+HÃ­rkÃ¶zlÃ©si DÃ¶ntÅ‘bizottsÃ¡g
+MatÃ¡vnak
+MatÃ¡v BelfÃ¶ldi TÃ¡rsszolgÃ¡ltatÃ³i Ã¼zletÃ¡g
+MatÃ¡v
+LegfelsÅ‘bb BÃ­rÃ³sÃ¡g
+Tolna Megyei BÃ­rÃ³sÃ¡g
 Alfa-Nova Kft.
-NAPI Gazdaságban
+NAPI GazdasÃ¡gban
 RTL Klub
-Magyar RTL Televízió Rt.
-Pesti Központi Kerületi Bíróságon
-Híd Rádió Rt.
-Színes Mai Lap
-RTL Klub Mónika-showjával
+Magyar RTL TelevÃ­ziÃ³ Rt.
+Pesti KÃ¶zponti KerÃ¼leti BÃ­rÃ³sÃ¡gon
+HÃ­d RÃ¡diÃ³ Rt.
+SzÃ­nes Mai Lap
+RTL Klub MÃ³nika-showjÃ¡val
 RTL Klub
-Matáv
-Hírközlési Döntõbizottság
+MatÃ¡v
+HÃ­rkÃ¶zlÃ©si DÃ¶ntÅ‘bizottsÃ¡g
 HDB
 HDB
-Matáv
+MatÃ¡v
 HDB
-Matáv
-Matávnak
-Matáv
-Sláger Rádió
+MatÃ¡v
+MatÃ¡vnak
+MatÃ¡v
+SlÃ¡ger RÃ¡diÃ³
 ORTT
-ORTT-tõl
+ORTT-tÅ‘l
 ORTT
-Helyi Rádiók Szövetségével
-Juventus Rádió
-Danubius Rádió
-Sláger Rádió
+Helyi RÃ¡diÃ³k SzÃ¶vetsÃ©gÃ©vel
+Juventus RÃ¡diÃ³
+Danubius RÃ¡diÃ³
+SlÃ¡ger RÃ¡diÃ³
 ORTT-t
-Hírközlési Döntõbizottság
-Versenytanács
+HÃ­rkÃ¶zlÃ©si DÃ¶ntÅ‘bizottsÃ¡g
+VersenytanÃ¡cs
 OTP Bank Rt.
 Mol Rt.
-Matáv Rt.
+MatÃ¡v Rt.
 Multipont
-Gazdasági Versenyhivatal
+GazdasÃ¡gi Versenyhivatal
 GVH
 Kombucha Gold
 Siesta Key Bt.-re
-"Nap kristály Flavin 7
+"Nap kristÃ¡ly Flavin 7
 Crystal Institute Kft.-re
 GVH
 Crystal Institute Kft.
 GVH
-"Nap kristály Flavin 7
+"Nap kristÃ¡ly Flavin 7
 GVH
-Kincstári Vagyoni Igazgatóság
+KincstÃ¡ri Vagyoni IgazgatÃ³sÃ¡g
 KVI
 Citadella 4-U Kft.-vel
-Kulturális Örökségvédelmi Hivatal
+KulturÃ¡lis Ã–rÃ¶ksÃ©gvÃ©delmi Hivatal
 Citadella 4-U Kft.
-NAPI Gazdaság
-Magyar Állam
-Kincstári Vagyoni Igazgatóság
-Befektetõben
-Hírközlési Döntõbizottság
+NAPI GazdasÃ¡g
+Magyar Ãllam
+KincstÃ¡ri Vagyoni IgazgatÃ³sÃ¡g
+BefektetÅ‘ben
+HÃ­rkÃ¶zlÃ©si DÃ¶ntÅ‘bizottsÃ¡g
 HDB
 Pannon GSM Rt.-t
 Westel Rt.-t
 V-fon
-Hírközlési Döntõbizottság
+HÃ­rkÃ¶zlÃ©si DÃ¶ntÅ‘bizottsÃ¡g
 HDB
-Gazdasági Versenyhivatal
+GazdasÃ¡gi Versenyhivatal
 GVH
-Philip Morris Magyarország Kft.
+Philip Morris MagyarorszÃ¡g Kft.
 Wohn Kft.
 Wohn Kft.
 Wohn
-HBW Expressz Takarékpénztár
-Capital Hitelház Rt.
+HBW Expressz TakarÃ©kpÃ©nztÃ¡r
+Capital HitelhÃ¡z Rt.
 NAPI Online-nak
 Jagi-bau Kft.-t
-P M S Kft.-tõl
+P M S Kft.-tÅ‘l
 Wohnnak
 H S J Kft.
 Wohnnal
-Fõvárosi Bíróság
+FÅ‘vÃ¡rosi BÃ­rÃ³sÃ¡g
 Wohnnal
-Budapesti Rendõr-fõkapitányság
-Fõvárosi Bíróság
+Budapesti RendÅ‘r-fÅ‘kapitÃ¡nysÃ¡g
+FÅ‘vÃ¡rosi BÃ­rÃ³sÃ¡g
 Graphisoft Rt.
 CadLine Kft.
 CadLine
@@ -4591,72 +4591,72 @@ Graphisoft
 CadLine
 Graphisoft
 CadLine
-Gazdasági Versenyhivatal
+GazdasÃ¡gi Versenyhivatal
 GVH
 Richter Gedeon Rt.
-Egis Gyógyszergyár Rt.
-Béres Gyógyszertár Rt.
-Béres Befektetési Rt.-n
-Magyar Gyógyszer Rt.
-Hungaropharma Gyógyszerkereskedelmi Részvénytársaság
-Hírközlési Döntõbizottság
+Egis GyÃ³gyszergyÃ¡r Rt.
+BÃ©res GyÃ³gyszertÃ¡r Rt.
+BÃ©res BefektetÃ©si Rt.-n
+Magyar GyÃ³gyszer Rt.
+Hungaropharma GyÃ³gyszerkereskedelmi RÃ©szvÃ©nytÃ¡rsasÃ¡g
+HÃ­rkÃ¶zlÃ©si DÃ¶ntÅ‘bizottsÃ¡g
 HDb
-Matávval
-Interdotnet Magyarország Kft.-nek
-Matáv
+MatÃ¡vval
+Interdotnet MagyarorszÃ¡g Kft.-nek
+MatÃ¡v
 Interdotnetnek
 MTI
 Business Software Alliance
 BSA
-Magyarország
-BSA-tól
+MagyarorszÃ¡g
+BSA-tÃ³l
 BSA
 BSA
 BSA
-Közbeszerzési Tanács
-Fõvárosi Bíróság
+KÃ¶zbeszerzÃ©si TanÃ¡cs
+FÅ‘vÃ¡rosi BÃ­rÃ³sÃ¡g
 FB
-Legfelsõbb Bíróság
+LegfelsÅ‘bb BÃ­rÃ³sÃ¡g
 LB
-Betonút Rt.-nek
-Gazdasági Versenyhivatal
+BetonÃºt Rt.-nek
+GazdasÃ¡gi Versenyhivatal
 GVH
-Matáv Rt.
+MatÃ¡v Rt.
 GVH
-Informatikai és Hírközlési Minisztérium
-Hírközlési Felügyelet
-Elsõ Pesti Telefontársaság
+Informatikai Ã©s HÃ­rkÃ¶zlÃ©si MinisztÃ©rium
+HÃ­rkÃ¶zlÃ©si FelÃ¼gyelet
+ElsÅ‘ Pesti TelefontÃ¡rsasÃ¡g
 EPT
 Rt.
-Fázis Rt.
+FÃ¡zis Rt.
 Postabank Rt.
-Népszabadság
+NÃ©pszabadsÃ¡g
 MFB
-BÁV Bizományi Kereskedõház és Záloghitel Rt.
-Népszabadság
-Magyar Fejlesztési Bank
-BÁV Rt.
-Hírközlési Döntõbizottság
+BÃV BizomÃ¡nyi KereskedÅ‘hÃ¡z Ã©s ZÃ¡loghitel Rt.
+NÃ©pszabadsÃ¡g
+Magyar FejlesztÃ©si Bank
+BÃV Rt.
+HÃ­rkÃ¶zlÃ©si DÃ¶ntÅ‘bizottsÃ¡g
 HDb
 Emitel
 Vivendi
 HDb
 Financial Times
-Nemzeti Autópálya Rt.
+Nemzeti AutÃ³pÃ¡lya Rt.
 NA
 NA
-Magyar Fejlesztési Bank Rt.
+Magyar FejlesztÃ©si Bank Rt.
 MTI-nek
 Financial Timesnak
 FT Deutschlandnak
-Matáv Rt-nél
-Magyar Tõkepiacban
+MatÃ¡v Rt-nÃ©l
+Magyar TÅ‘kepiacban
 OTP Bank
-GfK Piackutató Intézet
+GfK PiackutatÃ³ IntÃ©zet
 MTI-vel
-Postabank Igazgatósága
+Postabank IgazgatÃ³sÃ¡ga
 OTP Bank Rt.
-Magyar Tõkepiacban
+Magyar TÅ‘kepiacban
 Wall Street
 Dow Jones
 Corvinus Rt.
@@ -4665,17 +4665,17 @@ Dow Jones
 Postabank
 Postabank
 Dow Jones
-Cég Részvény Kötvény
+CÃ©g RÃ©szvÃ©ny KÃ¶tvÃ©ny
 Goldman Sachs
-GfK Piackutató Intézet
-Magyar Külkereskedelmi Bank
+GfK PiackutatÃ³ IntÃ©zet
+Magyar KÃ¼lkereskedelmi Bank
 MKB
 Marconi
 Microsoft Corp.
 Xbox
 Sony
 PlayStation2
-Playstation One-ét
+Playstation One-Ã©t
 Ruhrgas
 Daewoo Motor Co.
 Daewoo FSO
@@ -4696,7 +4696,7 @@ nua.com
 Deutsche Telekom
 DT
 Reuters
-Süddeutsche Zeitung
+SÃ¼ddeutsche Zeitung
 SD
 Microsoft
 Hotmailre
@@ -4803,7 +4803,7 @@ Microsoft
 Mercedes-Benz
 Lexus
 BMW
-Napi Gazdaságban
+Napi GazdasÃ¡gban
 Mercedesek
 BMW
 Toyota Lexus
@@ -4815,7 +4815,7 @@ Morgan Stanley
 Walt Disney Co.
 Wall Street Journal
 Interbrand
-Coca-Colát
+Coca-ColÃ¡t
 BMW
 DDB Worldwide
 DDB Budapest
@@ -4834,95 +4834,95 @@ Spar
 Metspa
 Tesco
 KPMG Consulting
-Andersen Budapest Vezetési Tanácsadás
+Andersen Budapest VezetÃ©si TanÃ¡csadÃ¡s
 KPMG Consulting
 FSI
 Audi Hungaria Motor Kft.
 Audi A4-es
 Index
-PSINet Magyarország Kft.
+PSINet MagyarorszÃ¡g Kft.
 Index.hu
-Matáv
-Informatikai és Hírközlési Minisztérium
+MatÃ¡v
+Informatikai Ã©s HÃ­rkÃ¶zlÃ©si MinisztÃ©rium
 IHM
-Pénzügyminisztérium
+PÃ©nzÃ¼gyminisztÃ©rium
 NAPI Online
 IHM-nek
 Raiffeisen Bank Rt.
-Raiffeisen Bank I Kötvény
-Magyar Tõkepiac
+Raiffeisen Bank I KÃ¶tvÃ©ny
+Magyar TÅ‘kepiac
 ConCorde Direct
 CIB
-CIB Kincsem Kötvényalap
-CIB Részvényalap
-CIB Európai Részvényalap
-FHB Földhitel és Jelzálogbank Rt.
-Budapesti Értéktõzsdén
-BÉT
-Magyar Tõkepiac
-Földhitel és Jelzálogbank Rt
+CIB Kincsem KÃ¶tvÃ©nyalap
+CIB RÃ©szvÃ©nyalap
+CIB EurÃ³pai RÃ©szvÃ©nyalap
+FHB FÃ¶ldhitel Ã©s JelzÃ¡logbank Rt.
+Budapesti Ã‰rtÃ©ktÅ‘zsdÃ©n
+BÃ‰T
+Magyar TÅ‘kepiac
+FÃ¶ldhitel Ã©s JelzÃ¡logbank Rt
 MTI-nek
-Adó és Pénzügyi Ellenõrzési Hivatal
+AdÃ³ Ã©s PÃ©nzÃ¼gyi EllenÅ‘rzÃ©si Hivatal
 APEH
 MTI-t
-Heves Megyei Igazgatóságának
-FHB Földhitel és Jelzálogbank Rt.
+Heves Megyei IgazgatÃ³sÃ¡gÃ¡nak
+FHB FÃ¶ldhitel Ã©s JelzÃ¡logbank Rt.
 FHB
-Magyar Tõkepiacban
-Földhitel és Jelzálogbank Rt
+Magyar TÅ‘kepiacban
+FÃ¶ldhitel Ã©s JelzÃ¡logbank Rt
 FHB
 FHB
-Magyar Tõkepiacban
-Concorde Értékpapír Rt.
-CIB Befektetési Alapkezelõ Rt.
+Magyar TÅ‘kepiacban
+Concorde Ã‰rtÃ©kpapÃ­r Rt.
+CIB BefektetÃ©si AlapkezelÅ‘ Rt.
 CIB
 MTI
-Concorde-tól
-Földhitel és Jelzálogbank Rt
+Concorde-tÃ³l
+FÃ¶ldhitel Ã©s JelzÃ¡logbank Rt
 FHB
-Földhitel és Jelzálogbank Rt
+FÃ¶ldhitel Ã©s JelzÃ¡logbank Rt
 FHB
 FHB
-Magyar Tõkepiacban
-Földhitel és Jelzálogbank Rt
+Magyar TÅ‘kepiacban
+FÃ¶ldhitel Ã©s JelzÃ¡logbank Rt
 FHB
 MTI-nek
 Citibank Rt.
-Credit Suisse Magyar Kötvényalap
+Credit Suisse Magyar KÃ¶tvÃ©nyalap
 Citibank Rt.
-Államadósság Kezelõ Központ
-ÁKK
+ÃllamadÃ³ssÃ¡g KezelÅ‘ KÃ¶zpont
+ÃKK
 Rt.
-Magyar Tõkepiacban
-Magyar Külkereskedelmi Bank Rt.
+Magyar TÅ‘kepiacban
+Magyar KÃ¼lkereskedelmi Bank Rt.
 MKB
-Magyar Tõkepiacban
-Magyar Távközlési Rt.
-Magyar Tõkepiacban
+Magyar TÅ‘kepiacban
+Magyar TÃ¡vkÃ¶zlÃ©si Rt.
+Magyar TÅ‘kepiacban
 FHB
-Magyar Tõkepiacban
-Buda-Cash Brókerház Rt.
+Magyar TÅ‘kepiacban
+Buda-Cash BrÃ³kerhÃ¡z Rt.
 "Buda-Cash Signal
 MTI-vel
 K and H
-Földhitel és Jelzálogbank
+FÃ¶ldhitel Ã©s JelzÃ¡logbank
 FHB
 FHB
 Deutsche Bank
-Concorde Befektetési Alapkezelõ Rt.
-Erste Bank Alapkezelõ Rt.
-Zürich Védõpajzs Vállalkozói Biztosítási Csomag
-Winterthur Biztosító Rt.-nél
-Giro Elszámolásforgalmi Rt.
-Földhitel és Jelzálogbank Rt
+Concorde BefektetÃ©si AlapkezelÅ‘ Rt.
+Erste Bank AlapkezelÅ‘ Rt.
+ZÃ¼rich VÃ©dÅ‘pajzs VÃ¡llalkozÃ³i BiztosÃ­tÃ¡si Csomag
+Winterthur BiztosÃ­tÃ³ Rt.-nÃ©l
+Giro ElszÃ¡molÃ¡sforgalmi Rt.
+FÃ¶ldhitel Ã©s JelzÃ¡logbank Rt
 FHB
 FHB
-Magyar Tõkepiacban
-K and H Általános Befektetési Alapkezelõ Rt.
-K and H Kötvény Alapot
-K and H Aranykosár Alapot
-Magyar Tõkepiacban
-Budapesti Értéktõzsde
+Magyar TÅ‘kepiacban
+K and H ÃltalÃ¡nos BefektetÃ©si AlapkezelÅ‘ Rt.
+K and H KÃ¶tvÃ©ny Alapot
+K and H AranykosÃ¡r Alapot
+Magyar TÅ‘kepiacban
+Budapesti Ã‰rtÃ©ktÅ‘zsde
 Vivendi Telecom Hungary csoport
 V-com Rt.
 Microsoft Corp.
@@ -4951,7 +4951,7 @@ Media Center Edition
 NABI
 Optare
 Excel
-Inter-Európa Bank
+Inter-EurÃ³pa Bank
 BankoWEB-et
 Axelero Internet
 Westel
@@ -4964,90 +4964,90 @@ Alupack 2000 Kft.
 Fux Rt.
 Alupack
 Fux
-Matávot
-Matáv
-NAPI Gazdaságban
+MatÃ¡vot
+MatÃ¡v
+NAPI GazdasÃ¡gban
 Pannon GSM
-Nokiával
-Pannon Vállalati Mobilhálózat
+NokiÃ¡val
+Pannon VÃ¡llalati MobilhÃ¡lÃ³zat
 Pannon
-Audi Hungária Motor Kft-vel
+Audi HungÃ¡ria Motor Kft-vel
 Magyar Posta
 Cardiopharm Rt.
-Európai Unió
+EurÃ³pai UniÃ³
 Digitpharma
 Pharmacopea Hungarica VII.
-Magyar Gyógyszerkönyv
-NAPI Gazdaságban
-Állami Nyomda
+Magyar GyÃ³gyszerkÃ¶nyv
+NAPI GazdasÃ¡gban
+Ãllami Nyomda
 IBM
 EMV
-Banktechnikai Szakkiállításon
+Banktechnikai SzakkiÃ¡llÃ­tÃ¡son
 IBM
 VISA
 IBM
 IBM Personal Security Card
-Sanoma Budapest Kiadó Rt.
-Nestlé Water
-Nestlé Aquarel
-Kékkúti Ásványvíz Rt.
-Magyar Könyvklub Kiadó és Kereskedelmi
+Sanoma Budapest KiadÃ³ Rt.
+NestlÃ© Water
+NestlÃ© Aquarel
+KÃ©kkÃºti ÃsvÃ¡nyvÃ­z Rt.
+Magyar KÃ¶nyvklub KiadÃ³ Ã©s Kereskedelmi
 MKK
 Rt.
-Exkluzív Könyvklub
+ExkluzÃ­v KÃ¶nyvklub
 MKK
 D.C Lax Informatika
-telnet Magyarország Rt.
+telnet MagyarorszÃ¡g Rt.
 Internet
-Matáv
-Matáv
-"Péntek 13
-Csevegõ
-"Péntek 13
-Matáv
-"Péntek 13
-"Péntek 13
-Csevegõ
-Csevegõ
-Barangoló
-Világkártya
-"Péntek 13
+MatÃ¡v
+MatÃ¡v
+"PÃ©ntek 13
+CsevegÅ‘
+"PÃ©ntek 13
+MatÃ¡v
+"PÃ©ntek 13
+"PÃ©ntek 13
+CsevegÅ‘
+CsevegÅ‘
+BarangolÃ³
+VilÃ¡gkÃ¡rtya
+"PÃ©ntek 13
 IBM
 Shark
 Silvertip
 Model 800-at
-Monor Telefon Társaság
+Monor Telefon TÃ¡rsasÃ¡g
 MTT
-Szomszéd
+SzomszÃ©d
 Hungary Network Rt.
 Ariadnet
 Ariadnet
 Hungary Network
-MEH Informatikai Kormánybiztossága
-Széchenyi-terv
+MEH Informatikai KormÃ¡nybiztossÃ¡ga
+SzÃ©chenyi-terv
 Visa International
 MTI-t
 Pharmavit Rt.
 Plussz
-Pharmavit Kft.-tõl
-BMS-tõl
+Pharmavit Kft.-tÅ‘l
+BMS-tÅ‘l
 Pharmavit Rt.
 Plusssz
-Pharmavittól
-Plusssz Vitamin Élelmiszer-és Gyógyszeripari Kft.
+PharmavittÃ³l
+Plusssz Vitamin Ã‰lelmiszer-Ã©s GyÃ³gyszeripari Kft.
 Plusssz
 Fundy
-Népszabadság
+NÃ©pszabadsÃ¡g
 Wood and Company Rt.
-Budapesti Értéktõzsde
-Magyar Tõkepiacban
+Budapesti Ã‰rtÃ©ktÅ‘zsde
+Magyar TÅ‘kepiacban
 Wood and Company
 MTI-hez
-Nomura Értékpapír Magyarország
+Nomura Ã‰rtÃ©kpapÃ­r MagyarorszÃ¡g
 MTI-t
-Dunainvest Tõzsdeügynökség Rt.
+Dunainvest TÅ‘zsdeÃ¼gynÃ¶ksÃ©g Rt.
 MTI-nek
-Nemzeti Takarékpénztár
+Nemzeti TakarÃ©kpÃ©nztÃ¡r
 Raiffeisen Zentralbank Austria
 Private Equity Management
 RPEM
@@ -5057,17 +5057,17 @@ OTP Bank
 MTI-t
 Magyar Posta Rt.
 Gazprombank
-Általános Értékforgalmi Bank
-ÁÉB
+ÃltalÃ¡nos Ã‰rtÃ©kforgalmi Bank
+ÃÃ‰B
 Rt.
 Provident Financial Rt.
 MTI-t
-Erste Bankjának
+Erste BankjÃ¡nak
 Erste Bank Hungary
 HBW Express
 Erste Bank
 Young Shin Hungary Elektronikai Kft
-Gazdasági Minisztérium
+GazdasÃ¡gi MinisztÃ©rium
 Opel Southeast Europe
 MTI-t
 BASF AG
@@ -5078,145 +5078,145 @@ MTI-t
 Robert Bosch Elektronikai Kft.
 Auchan
 Electro World
-Electro World Magyarország Kft.
+Electro World MagyarorszÃ¡g Kft.
 Shell
 Shell Hungary Rt.
-ProLogis Magyarország Kft.
-NAPI Gazdaság
-Tiszaújvárosi Ipari Parkban
+ProLogis MagyarorszÃ¡g Kft.
+NAPI GazdasÃ¡g
+TiszaÃºjvÃ¡rosi Ipari Parkban
 TIP
-August Küpper GmbH & Co KG
-Küpper Hungária Kft.
-NAPI Gazdaság
-Küppernek
-NAPI Gazdaságban
+August KÃ¼pper GmbH & Co KG
+KÃ¼pper HungÃ¡ria Kft.
+NAPI GazdasÃ¡g
+KÃ¼ppernek
+NAPI GazdasÃ¡gban
 IGM Robotrendszerek Kft.
 IGM Robotersysteme AG
 Pannonpower Rt.
-NAPI Gazdaság
-NAPI Gazdaságban
+NAPI GazdasÃ¡g
+NAPI GazdasÃ¡gban
 Varpex Kft.
-Varpex Disztribúciós Szolgáltatóház
+Varpex DisztribÃºciÃ³s SzolgÃ¡ltatÃ³hÃ¡z
 Dell Computer Corp.
 National Instruments
 National Instruments Europe Software
-Hardware Gyártó Kft.
-NAPI Gazdaságban
-Szerencsejáték Rt.
-Árkád üzletházban
-Swietelsky-Útvasút Kft.
+Hardware GyÃ¡rtÃ³ Kft.
+NAPI GazdasÃ¡gban
+SzerencsejÃ¡tÃ©k Rt.
+ÃrkÃ¡d Ã¼zlethÃ¡zban
+Swietelsky-ÃštvasÃºt Kft.
 Taravis Kft.
-NAPI Gazdaság
+NAPI GazdasÃ¡g
 Gallus Kft.
-NAPI Gazdaságban
-NAPI Gazdaság
-Perion Akkumulátorgyár Rt.
+NAPI GazdasÃ¡gban
+NAPI GazdasÃ¡g
+Perion AkkumulÃ¡torgyÃ¡r Rt.
 Akkutrade Ssro
 Perion
 Perion
-NAPI Gazdaságban
+NAPI GazdasÃ¡gban
 Mustang Marcali Rt.
 Mustang GmbH
 SCD Group Kft.
 Hunguest Hotels Rt.
 SCD Group
-Befektetõben
+BefektetÅ‘ben
 HPV-Hungary Kft.
-Befektetõben
+BefektetÅ‘ben
 Cora
 Bricostore
-Tatai Cserépgyárban
-Phoenix Mecano Kecskemét Kft.
-Árkád bevásárlóközpont
-ComGenex Kutató-Fejlesztõ Rt.
+Tatai CserÃ©pgyÃ¡rban
+Phoenix Mecano KecskemÃ©t Kft.
+ÃrkÃ¡d bevÃ¡sÃ¡rlÃ³kÃ¶zpont
+ComGenex KutatÃ³-FejlesztÅ‘ Rt.
 NAPI Online
 Schmitz Cargobull AG
 Schmitz Cargobull
-Schwarzmüller GmbH
-NAPI Gazdaságban
-ComGenex Kutató-Fejlesztõ Rt.
-NAPI Gazdaság
-NAPI Gazdaságban
-Diamond Electric Magyarország Kft.
+SchwarzmÃ¼ller GmbH
+NAPI GazdasÃ¡gban
+ComGenex KutatÃ³-FejlesztÅ‘ Rt.
+NAPI GazdasÃ¡g
+NAPI GazdasÃ¡gban
+Diamond Electric MagyarorszÃ¡g Kft.
 Auchan
-Elgan Ingatlanfejlesztési Kft.
+Elgan IngatlanfejlesztÃ©si Kft.
 Duna Plaza Kft.-t
 Tibbet & Britten
 Auchannak
-NAPI Gazdaságban
+NAPI GazdasÃ¡gban
 Vestel Electronic
 VE
 Vestel
-NAPI Gazdaságban
-Coloplast Hungary Gyártó Kft.
+NAPI GazdasÃ¡gban
+Coloplast Hungary GyÃ¡rtÃ³ Kft.
 Candy S.p.A
 Candy
 Hoover
-NAPI Gazdaságban
+NAPI GazdasÃ¡gban
 Audikba
 Hantech Rt.
 Hantech
 Audival
 Lander Carlisle Ltd.
-NAPI Gazdaság
+NAPI GazdasÃ¡g
 Mesta
-NAPI Gazdaságban
-Vértesi Erõmû
-Vért
+NAPI GazdasÃ¡gban
+VÃ©rtesi ErÅ‘mÅ±
+VÃ©rt
 Rt.
-Kereskedelmi és Hitelbank
+Kereskedelmi Ã©s Hitelbank
 EU
 Stelvio
 Sime Kft.
-NAPI Gazdaság
-Citroën
+NAPI GazdasÃ¡g
+CitroÃ«n
 CIWA Kft.
-Befektetõben
+BefektetÅ‘ben
 Chinoin Rt.
 Harbor Parkban
-Sanofi-Synthélabo
+Sanofi-SynthÃ©labo
 Chinoin
 Harbor Park
-Befektetõben
-Veszprémi Kommunális Rt.
-Toyo-Seat Európa Kft.
+BefektetÅ‘ben
+VeszprÃ©mi KommunÃ¡lis Rt.
+Toyo-Seat EurÃ³pa Kft.
 Stokvis Tapes
-NAPI Gazdaság
-Nokiának
-NAPI Gazdaságban
+NAPI GazdasÃ¡g
+NokiÃ¡nak
+NAPI GazdasÃ¡gban
 Pizza Express Rt.
-Kaptár "B" Energetika Kft.
-Kaptár Energetikai Holding Vagyonkezelõ Kft.
-Pápateszéri Téglaipari Kft.-nek
-Kaptár "A" Energetika Kft.-hez
-NAPI Gazdaság
+KaptÃ¡r "B" Energetika Kft.
+KaptÃ¡r Energetikai Holding VagyonkezelÅ‘ Kft.
+PÃ¡pateszÃ©ri TÃ©glaipari Kft.-nek
+KaptÃ¡r "A" Energetika Kft.-hez
+NAPI GazdasÃ¡g
 Wienerberger
-Similabda Vidámpark
+Similabda VidÃ¡mpark
 Similabda Bt.
 Maharttal
-Befektetõben
-Her-csi-hús Kft.
-NAPI Gazdaságban
-NAPI Gazdaság
-Trend2 Nagykereskedelmi Divatközpontot
+BefektetÅ‘ben
+Her-csi-hÃºs Kft.
+NAPI GazdasÃ¡gban
+NAPI GazdasÃ¡g
+Trend2 Nagykereskedelmi DivatkÃ¶zpontot
 Fashion Center Budapest Kft.
 Erste Bank
-NAPI Gazdaságban
+NAPI GazdasÃ¡gban
 Hungaroweiss Kft.
 Home Centert
 Interestate Rt.
-Befektetõben
-OBI Magyarország Kft.
+BefektetÅ‘ben
+OBI MagyarorszÃ¡g Kft.
 Pannon GSM
 GSM
 Pannon GSM
 Ortech Europe Kft.
 Tesco-Global
-NAPI Gazdaság
-Wipark Hungaria Garázs Kft.
-Novotel-Palace szálloda
+NAPI GazdasÃ¡g
+Wipark Hungaria GarÃ¡zs Kft.
+Novotel-Palace szÃ¡lloda
 Sunarrow Ltd.
-Nokiát
+NokiÃ¡t
 Nokia
 Magyar Posta
 MP
@@ -5225,39 +5225,39 @@ Siemens Rt.
 Strabag
 Arcadom
 Siemens Dematic AG
-Befektetõben
+BefektetÅ‘ben
 Diamond Electric
 Magyar Suzuki Rt.
 DaimlerChrysler
 Wiggins Group
-Napi Gazdaságban
+Napi GazdasÃ¡gban
 Magyar Suzuki Rt.
 Rotch Energy Limited
 Mol Rt.
 Rafineria Gdanska
 Nafta Polska
 OTP Bank Rt.
-Investicná a Rozvojova Banka
+InvesticnÃ¡ a Rozvojova Banka
 IRB
 MTI
-Société Générale
-Komercní Bankát
-Société Générale
-Komercní Banka
+SociÃ©tÃ© GÃ©nÃ©rale
+KomercnÃ­ BankÃ¡t
+SociÃ©tÃ© GÃ©nÃ©rale
+KomercnÃ­ Banka
 OTP Bank
-Investicna A Rozvojová Banka
+Investicna A RozvojovÃ¡ Banka
 IRB
 OTP Bank Rt.
 MTI-t
 OTP Bank Rt.
 IRB
 OTP Bank Rt.
-Beruházási és Fejlesztési Bankot
+BeruhÃ¡zÃ¡si Ã©s FejlesztÃ©si Bankot
 IRB
 OTP Bank Rt.
 IRB-t
 OTP Bank Rt.
-Investicná a Rozvojova Banka
+InvesticnÃ¡ a Rozvojova Banka
 IRB
 OTP Bank
 Investicna a Rozvojova Banka
@@ -5268,12 +5268,12 @@ Postabank
 Magyar Posta
 Magyar Posta
 OTP Bank
-Investicná a Rozvojová Banka
+InvesticnÃ¡ a RozvojovÃ¡ Banka
 IRB
-OTP Banknál
+OTP BanknÃ¡l
 MTI
-Investicná a Rozvojová Banka
-Beruházási és Fejlesztési Bank
+InvesticnÃ¡ a RozvojovÃ¡ Banka
+BeruhÃ¡zÃ¡si Ã©s FejlesztÃ©si Bank
 IRB
 OTP Rt.
 SITA
@@ -5283,22 +5283,22 @@ RG
 Rotch Energy Limited
 Nafta Polska
 OTP Bank Rt.
-Fejlesztési és Beruházási Bank
+FejlesztÃ©si Ã©s BeruhÃ¡zÃ¡si Bank
 IRB
-France Télécommal
+France TÃ©lÃ©commal
 TP SA
-Beruházási és Fejlesztési Bank
+BeruhÃ¡zÃ¡si Ã©s FejlesztÃ©si Bank
 IRB
 OTP Bank Rt.
 IRB
-Beruházási és Fejlesztési Bank
+BeruhÃ¡zÃ¡si Ã©s FejlesztÃ©si Bank
 IRB
 SITA
 SITA-nak
 OTP Bank Rt.
 Nafta Polska
 PKN Orlen
-Komercni Bankában
+Komercni BankÃ¡ban
 Goldman Sachs
 OMV
 PKN Orlen
@@ -5309,31 +5309,31 @@ Nafta Polska
 PKN Orlen
 PKN Orlen
 PAP
-Allianz biztosító
-Slovenska Poistovnát
+Allianz biztosÃ­tÃ³
+Slovenska PoistovnÃ¡t
 SP
 Allianzhoz
 Penta csoport
 Jutarnij list
-FHB Földhitel és Jelzálogbank Rt.-t
-Magyar Tõkepiacban
+FHB FÃ¶ldhitel Ã©s JelzÃ¡logbank Rt.-t
+Magyar TÅ‘kepiacban
 Nafta Polska
 PKN Orlen
 Bank Agricola
 Raiffeisen Zentralbank
-Román-amerikai Vállalkozási Alap
+RomÃ¡n-amerikai VÃ¡llalkozÃ¡si Alap
 IRB
 OTP Bank
 PZU SA
-Eurekónak
+EurekÃ³nak
 Mol Rt.-nek
 PKN Orlen
 Winterthur
 Mutuelles du Mans
 MMA
-Állami Privatizációs és Vagyonkezelõ Rt.
-VÁLTÓ-4 Libra Fejlesztési és Beruházási Rt.
-ÁPV Rt.
+Ãllami PrivatizÃ¡ciÃ³s Ã©s VagyonkezelÅ‘ Rt.
+VÃLTÃ“-4 Libra FejlesztÃ©si Ã©s BeruhÃ¡zÃ¡si Rt.
+ÃPV Rt.
 PKN Orlen
 Nafta Polska
 Mol Rt.
@@ -5345,18 +5345,18 @@ PKN Orlen
 Mol Rt.
 OMV
 OTP Bank Rt.
-Beruházási és Fejlesztési Bankért
+BeruhÃ¡zÃ¡si Ã©s FejlesztÃ©si BankÃ©rt
 IRB
 Raiffeisen Zentralbank
 RZB
-Raiffeisen International Részesedés Rt.-ben
+Raiffeisen International RÃ©szesedÃ©s Rt.-ben
 RIB
-Slovenská Poistovna
+SlovenskÃ¡ Poistovna
 Allianzot
-La Fondiariát
-Eurekót
+La FondiariÃ¡t
+EurekÃ³t
 Aegon NV
-Slovenská Poistovna
+SlovenskÃ¡ Poistovna
 Bulgartabak
 BTC
 Lafarge
@@ -5387,15 +5387,15 @@ Unipetrol
 Dow Jones
 MTI
 PKN Orlen
-Mol-tól
-OMV-tõl
+Mol-tÃ³l
+OMV-tÅ‘l
 Ziarul Financiar
 Mol Rt.
 PKN Orlennel
 Sidex
 LNM-ISPAT
 Sidex
-Resicai Kohászati Mûvek
+Resicai KohÃ¡szati MÅ±vek
 AVAPS
 Bayerische Hypo und Vereinsbank
 Bank Austria
@@ -5410,22 +5410,22 @@ Ukrtelecom
 SPP AS
 Unipetrol
 NKRE
-Kelet-szlovákiai Energetikai Mûvek Rt.-nek
+Kelet-szlovÃ¡kiai Energetikai MÅ±vek Rt.-nek
 VSE
 Corvinus Rt.
-Corvinus Nemzetközi Befektetési Rt.
+Corvinus NemzetkÃ¶zi BefektetÃ©si Rt.
 MTI-vel
 Credit Agricole
 Komercni Banka
 Komercni
 Reuters
 Transpetrol
-L Humanitének:
+L HumanitÃ©nek:
 NTV
 AP
-Kelet-szlovákiai Energetikai Mûvek
+Kelet-szlovÃ¡kiai Energetikai MÅ±vek
 VEZ
-részvénytársaság
+rÃ©szvÃ©nytÃ¡rsasÃ¡g
 AES Washington Holdings
 AP
 INA
@@ -5437,15 +5437,15 @@ Swisscom
 Reuters
 Bloomberg
 BTC
-Matávot
-Matáv
-NAPI Gazdaságban
+MatÃ¡vot
+MatÃ¡v
+NAPI GazdasÃ¡gban
 Royal Dutch/Shell
 Conoco
-Ceská Rafinerska
+CeskÃ¡ Rafinerska
 Unipetrol
 Shell
-Ceská Rafinerskában
+CeskÃ¡ RafinerskÃ¡ban
 Conoco
 ENI
 Agip
@@ -5462,29 +5462,29 @@ OMV-Mol-TVK
 Ukrtelekom
 Reuters-re
 MTI
-Nemzetközi Valutaalap
+NemzetkÃ¶zi Valutaalap
 IMF
-Világbank
+VilÃ¡gbank
 Rotch Energy Ltd.
 Gazeta Wyborcza
 Mol
 EBRD
 Petrom
 IMF
-Világbank
+VilÃ¡gbank
 EBRD
 EBRD
-Napi Gazdaságban
+Napi GazdasÃ¡gban
 BTK
-Matáv
+MatÃ¡v
 MTI-nek
 Mobtel
-Matáv
+MatÃ¡v
 Rzeczpospolita
 PKN Orlenben
 Bloomberg
 Mol Rt.
-ÖMV AG
+Ã–MV AG
 Lukoil
 Lukoil
 Rotch Energy
@@ -5493,7 +5493,7 @@ E.ON
 G-8
 Deutsche Bank
 TDC
-Cesky Telecomért
+Cesky TelecomÃ©rt
 Ukrtelekom
 Budapest Bank
 Moody's Investors Service
@@ -5522,10 +5522,10 @@ Moody's Investors Service
 Moody's
 OTP
 Investicna a Rozvojova Banka
-Befektetési és Fejlesztési Bank
+BefektetÃ©si Ã©s FejlesztÃ©si Bank
 IRB
 Moody's Investors Service
-Magyar Fejlesztési Bank
+Magyar FejlesztÃ©si Bank
 MFB
 Standard and Poor's
 S and P
@@ -5556,7 +5556,7 @@ S&P
 Standard & Poor's
 WorldCom Group
 US Airways Inc.
-S&P-500-ból
+S&P-500-bÃ³l
 CBSMarketWatch
 American Airlines
 AMR
@@ -5574,7 +5574,7 @@ Goldman Sachs
 Reuters
 Deutsche Telekom AG
 Goldman Sachs
-Matáv
+MatÃ¡v
 Moody's Investors Service
 Xerox Corp.
 CBSMarketWatch
@@ -5592,7 +5592,7 @@ SG Cowen
 IBM
 IBM
 SG Cowen
-France Télécom
+France TÃ©lÃ©com
 FT
 Orange
 E.on
@@ -5600,7 +5600,7 @@ ft.com
 FT-t
 Merrill Lynch
 E.on
-France Télécom
+France TÃ©lÃ©com
 Eon
 FT
 FT
@@ -5631,7 +5631,7 @@ Fiat SpA
 Bloomberg
 Moody's
 Moody's
-France Télécom
+France TÃ©lÃ©com
 Elan Corp.
 Standard & Poor's
 Vivendi Universal
@@ -5642,7 +5642,7 @@ Moody's
 Vivendi
 Vivendi
 S&P
-France Télécom
+France TÃ©lÃ©com
 Orange
 S&P
 Alcatel
@@ -5655,35 +5655,35 @@ Fitch
 France Telecom
 Fitch
 Phare 2000
-Nógrád Megyei Regionális Vállalkozásfejlesztési Alapítvány
+NÃ³grÃ¡d Megyei RegionÃ¡lis VÃ¡llalkozÃ¡sfejlesztÃ©si AlapÃ­tvÃ¡ny
 MTI-t
 Advaced Micro Devices
 AMD
 Athlon XP
 Nissan Motor
-Budapesti Értéktõzsde
+Budapesti Ã‰rtÃ©ktÅ‘zsde
 BUX
 Dow Chemical
 DuPont
 Shenhua Group
 Scala Business Solutions
-Pannon GSM Rt. nél
+Pannon GSM Rt. nÃ©l
 GSM
-Kögáz Rt.
+KÃ¶gÃ¡z Rt.
 Zenon Environmental Inc.
 Zenon
-Tokodi Üveggyárban
-Duna Plaza bevásárlóközpont
+Tokodi ÃœveggyÃ¡rban
+Duna Plaza bevÃ¡sÃ¡rlÃ³kÃ¶zpont
 Plaza Centers Kft.
-Tetra Pak Hungária Rt.
+Tetra Pak HungÃ¡ria Rt.
 NAPI Online
-Tetra Alapítvány
-Magyar Külkereskedelmi Bank
+Tetra AlapÃ­tvÃ¡ny
+Magyar KÃ¼lkereskedelmi Bank
 Goldman Sachs
 Commerzbank
 J.P Morgan Chase
 Graphisoft
-Magyar Tõkepiacban
+Magyar TÅ‘kepiacban
 OTP Bank
 MTI-t
 Allianz
@@ -5695,33 +5695,33 @@ ING Groep NV
 Magyar Nemzeti Bank
 Credit Suisse Group
 HypoVereinsbank
-Société Generale
+SociÃ©tÃ© Generale
 SocGen
 Generali
 Graphisoft N.V.
-Magyar Tõkepiacban
+Magyar TÅ‘kepiacban
 Bank of America
-FED-tõl
+FED-tÅ‘l
 Merrill
-Inter-Európa Bank Rt.
+Inter-EurÃ³pa Bank Rt.
 HAS
-Magyar Tõkepiac
+Magyar TÅ‘kepiac
 UBS
 OTP Bank
 HAS
 Yahoo
 Pick Szeged Rt.
-Magyar Tõkepiacban
-Prímagáz Hungária Rt.
-Magyar Tõkepiacban
+Magyar TÅ‘kepiacban
+PrÃ­magÃ¡z HungÃ¡ria Rt.
+Magyar TÅ‘kepiacban
 Danubius Hotels Rt.
-Magyar Tõkepiacban
-Zalakerámia Rt.
-Magyar Tõkepiacban
+Magyar TÅ‘kepiacban
+ZalakerÃ¡mia Rt.
+Magyar TÅ‘kepiacban
 Deutsche Bank
 Deutsche Bank
 Deutsche Bankot
-Société Générale
+SociÃ©tÃ© GÃ©nÃ©rale
 Bayerische Landesbank
 Deutsche Bank
 ABN Amro Holding
@@ -5729,29 +5729,29 @@ Wiener Stadtische
 Nomura Securities Co Ltd
 HypoVereinsbank
 Kartonpack Dobozipari Rt.
-Magyar Tõkepiacban
+Magyar TÅ‘kepiacban
 BNP-Paribas
 Commerzbank
 Zwack Unicum Rt.
-Magyar Tõkepiacban
+Magyar TÅ‘kepiacban
 Raiffeisen Bank
 Instinet csoport
-Matáv
-Magyar Tõkepiacban
+MatÃ¡v
+Magyar TÅ‘kepiacban
 Synergon Informatika Rt.
-Magyar Tõkepiacban
-Ceská Sporitelna
+Magyar TÅ‘kepiacban
+CeskÃ¡ Sporitelna
 Erste Bank
 Erste Bank AG
 Dresdner Bank AG
-Démász Rt.
+DÃ©mÃ¡sz Rt.
 IAS
 JP Morgan Chase
 Charles Schwab Corp.
 Citigroup
 Bank of America
-Rába Rt.
-Magyar Tõkepiacban
+RÃ¡ba Rt.
+Magyar TÅ‘kepiacban
 American Express
 MasterCard International
 Credit Suisse csoport
@@ -5765,60 +5765,60 @@ Citigroup Inc.
 American Express Co.
 Commerzbank
 ING Groep NV
-Magyar Külkereskedelmi Bank Rt.
+Magyar KÃ¼lkereskedelmi Bank Rt.
 Credit Suisse csoport
 UBS
 Pannonplast Rt.
-Budapesti Értéktõzsde
-Magyar Távközlési Rt.
-Matáv
-Magyar Tõkepiacban
+Budapesti Ã‰rtÃ©ktÅ‘zsde
+Magyar TÃ¡vkÃ¶zlÃ©si Rt.
+MatÃ¡v
+Magyar TÅ‘kepiacban
 Pick Szeged Rt.
-Magyar Tõkepiacban
-Démász Rt.
-Magyar Tõkepiacban
-Osztrák Takarékpénztárak Elsõ Bankja
+Magyar TÅ‘kepiacban
+DÃ©mÃ¡sz Rt.
+Magyar TÅ‘kepiacban
+OsztrÃ¡k TakarÃ©kpÃ©nztÃ¡rak ElsÅ‘ Bankja
 Synergon Informatika Rt.
-Magyar Tõkepiacban
+Magyar TÅ‘kepiacban
 MTI-nek
-Lakástakarék-pénztárak Egyesületénél
+LakÃ¡stakarÃ©k-pÃ©nztÃ¡rak EgyesÃ¼letÃ©nÃ©l
 Banca Comerciala Romana
 BCR
-Pénzügyi Szervezetek Állami Felügyelete
-PSZÁF
+PÃ©nzÃ¼gyi Szervezetek Ãllami FelÃ¼gyelete
+PSZÃF
 Generali
-Crédit Agricole
+CrÃ©dit Agricole
 AXA
 Raiffeisen Zentralbank
 RZB
-Magyar Fejlesztési Bank
+Magyar FejlesztÃ©si Bank
 MFB
 MTI-t
 Standard and Poor's
-Münchener Rückversicherung AG
+MÃ¼nchener RÃ¼ckversicherung AG
 Munich Re
 Thomson Financial/First Call
 ABN Amro
 European American Bank
-Második Deviza Factory Rt.
-Magyar Tõkepiac
-Rizikó Factory Rt.
-Magyar Tõkepiac
-Inter-Európa Bank
+MÃ¡sodik Deviza Factory Rt.
+Magyar TÅ‘kepiac
+RizikÃ³ Factory Rt.
+Magyar TÅ‘kepiac
+Inter-EurÃ³pa Bank
 IEB
 IE New York Broker
-Inter-Európa Bank
+Inter-EurÃ³pa Bank
 Dresdner Bank
-Allianz biztosító
+Allianz biztosÃ­tÃ³
 Reuters
-Novotrade Befektetési Rt.
+Novotrade BefektetÃ©si Rt.
 HAS
-Magyar Tõkepiac
+Magyar TÅ‘kepiac
 IBUSZ Rt.
-Magyar Tõkepiac
-Pannon-Flax Gyõri Lenszövõ Rt.
-Magyar Tõkepiacban
-Magyar Tõkepiac
+Magyar TÅ‘kepiac
+Pannon-Flax GyÅ‘ri LenszÃ¶vÅ‘ Rt.
+Magyar TÅ‘kepiacban
+Magyar TÅ‘kepiac
 Erste Bank
 Royal Bank of Scotland
 Bank Handlowy
@@ -5826,12 +5826,12 @@ ABN Amro
 CIB Bank Rt.
 Deutsche Bank
 Nomura Holding
-FHB Földhitel és Jelzálogbank Rt.
+FHB FÃ¶ldhitel Ã©s JelzÃ¡logbank Rt.
 FHB
-Magyar Tõkepiac
+Magyar TÅ‘kepiac
 UBS AG
-NABI Észak-amerikai Jármûipari Rt.
-Magyar Tõkepiac
+NABI Ã‰szak-amerikai JÃ¡rmÅ±ipari Rt.
+Magyar TÅ‘kepiac
 Standard and Poor's
 Konzumbank Rt.
 Credit Suisse Group
@@ -5840,15 +5840,15 @@ Generali Vienna csoport
 Bank of America
 Generali Holding Vienna
 Schroders Plc
-Ceskoslovenská Obchodni Banka
+CeskoslovenskÃ¡ Obchodni Banka
 CSOB
 IAS
 BNP-Paribas
 Raiffeisen Zentralbank csoport
 RZB
-Crédit Lyonnais
+CrÃ©dit Lyonnais
 Swiss Re
-Société Générale
+SociÃ©tÃ© GÃ©nÃ©rale
 HSBC Holdings Plc
 Allianz Lebensversicherungs AG
 Allianz AG Holding
@@ -5856,7 +5856,7 @@ AXA-nak
 Commerzbank
 dpa
 Aegon NV
-Európa Ingatlanbefektetési Alap
+EurÃ³pa IngatlanbefektetÃ©si Alap
 MTI-hez
 OTP Bank Rt.
 IAS
@@ -5864,14 +5864,14 @@ Goldman Sachs
 Reuters
 Manchester United
 Budapest Bank
-Malévnek
-ÁPV Rt.
-Országgyûlés Gazdasági Bizottságának
-Észak-magyarországi Áramszolgáltató Rt.
-Magyar Tõkepiac
-Brau Union Hungária Sörgyárak Rt.
-Magyar Tõkepiac
-Magyar Befektetési és Kereskedelemfeljesztési ITDH Kht.
+MalÃ©vnek
+ÃPV Rt.
+OrszÃ¡ggyÅ±lÃ©s GazdasÃ¡gi BizottsÃ¡gÃ¡nak
+Ã‰szak-magyarorszÃ¡gi ÃramszolgÃ¡ltatÃ³ Rt.
+Magyar TÅ‘kepiac
+Brau Union HungÃ¡ria SÃ¶rgyÃ¡rak Rt.
+Magyar TÅ‘kepiac
+Magyar BefektetÃ©si Ã©s KereskedelemfeljesztÃ©si ITDH Kht.
 Reuters
 BorsodChem Rt.
 Swisscom
@@ -5895,10 +5895,10 @@ PKN Orlen
 Reuters
 Wal-Mart Stores Inc.
 Fiat
-OMV-nél
+OMV-nÃ©l
 MobilCom AG
-Telefónica SA
-Telefónica Moviles SA
+TelefÃ³nica SA
+TelefÃ³nica Moviles SA
 Alitalia
 Linde AG
 Degussa AG
@@ -5906,7 +5906,7 @@ EBITA
 Kia Motors Corp.
 BMW AG
 Reuters
-Minibõl
+MinibÅ‘l
 British Sky Broadcasting
 BSkyB
 News Corp.-ot
@@ -5952,7 +5952,7 @@ VNU
 Golden Pages-ben
 Fiat
 Financial Times
-Fiat Autó
+Fiat AutÃ³
 British Petrol BP Plc
 BP
 Eli Lilly
@@ -5963,7 +5963,7 @@ Reuters
 Metro AG
 BP Plc-nek
 Aventis
-France Télécom SA
+France TÃ©lÃ©com SA
 Telenor
 Deutsche Post AG
 Orange SA
@@ -5987,7 +5987,7 @@ Marconi Plc.
 AOL Time Warner Inc.
 Time Warner
 AOL Time Warner Inc.
-GDP-jével
+GDP-jÃ©vel
 Alcatel SA
 Bloomberg
 DaimlerChrysler AG
@@ -6011,7 +6011,7 @@ Reuters
 Metro-Goldwyn-Mayer Inc.
 MGM
 Rollerball
-Hart háborúja
+Hart hÃ¡borÃºja
 Reuters
 Exxon Mobil Corp.
 Reuters
@@ -6151,7 +6151,7 @@ Aceralia SA
 Qualcomm
 Gucci Gpoup NV
 Oracle Corp.
-Club Méditerrannée
+Club MÃ©diterrannÃ©e
 Standard Microsystems Corp.
 Reuters
 ZVEI
@@ -6177,7 +6177,7 @@ Ford Motor
 Harley-Davidson Inc.
 LVMH
 Cadbury Schweppes Plc
-Pernod-Ricardtól
+Pernod-RicardtÃ³l
 Orangina
 Apple Computer Inc.
 Johnson&Johnson
@@ -6187,7 +6187,7 @@ Dell Computer Corp
 McAfee.com
 Saab AB
 Saab
-L'Oréal SA
+L'OrÃ©al SA
 BMW AG
 BMW
 BMW
@@ -6236,17 +6236,17 @@ Honda Motor
 Vodafone Group Plc
 Bloomberg
 Renault
-Napi Gazdaságban
+Napi GazdasÃ¡gban
 Fujitsu
 Telenor
 Pannon GSM
-France Télécom
+France TÃ©lÃ©com
 Orange
 TPSA
 Sony Corp.
 Columbia Pictures
-Pókember
-Napi Gazdaságban
+PÃ³kember
+Napi GazdasÃ¡gban
 NEC
 DuPont Co.
 GlaxoSmithKline Plc.
@@ -6258,9 +6258,9 @@ British Telecom
 Sony
 KLM
 Danone
-PSA Peugeot-Citroën
+PSA Peugeot-CitroÃ«n
 Siemens
-Sanofi-Synthélabo
+Sanofi-SynthÃ©labo
 Ambien
 Plavix
 Avapro
@@ -6293,7 +6293,7 @@ E-baynek
 Ericsson
 Infineon
 AB Electrolux
-Napi Gazdaságban
+Napi GazdasÃ¡gban
 Sun Microsystems
 IBM
 Philip Morris Cos Inc.
@@ -6311,7 +6311,7 @@ MAN
 Euronext
 RWE AG
 Pixar Animation Studios Inc.
-Szörny Rt.
+SzÃ¶rny Rt.
 Best Buy
 Arthur Andersen
 KPMG Consulting Inc.
@@ -6333,30 +6333,30 @@ Audi
 Procter&Gamble
 Toyota Motor Corp.
 KFKI
-HáziPatika.com-ban
-HáziPatika.com Kft.
+HÃ¡ziPatika.com-ban
+HÃ¡ziPatika.com Kft.
 Vodafone
-McDonald's Magyarország Kft.
-Árkád Bevásárlóközpontban
+McDonald's MagyarorszÃ¡g Kft.
+ÃrkÃ¡d BevÃ¡sÃ¡rlÃ³kÃ¶zpontban
 Oracle Hungary Kft.
 Oracle Corp.
 EPS
 Pannon GSM
-Magyar RTL Televízió Rt.
+Magyar RTL TelevÃ­ziÃ³ Rt.
 tv2
-Porsche Hungária
-NAPI Gazdaságnak
+Porsche HungÃ¡ria
+NAPI GazdasÃ¡gnak
 Dunaferr Rt.
-Porsche Hungária
-Szerencsejáték Rt.
+Porsche HungÃ¡ria
+SzerencsejÃ¡tÃ©k Rt.
 SzRt
 IKR Rt.
 NAPI Online-nak
-McDonald's Magyarország Kft.
-Malév
-Malév
-Borsodi Sörgyár Rt.
-Vértesi Erõmû Vért Rt.
+McDonald's MagyarorszÃ¡g Kft.
+MalÃ©v
+MalÃ©v
+Borsodi SÃ¶rgyÃ¡r Rt.
+VÃ©rtesi ErÅ‘mÅ± VÃ©rt Rt.
 SAP Hungary Kft.
 MTI-vel
 Fundamenta
@@ -6365,7 +6365,7 @@ Humet Rt.
 Humet
 Humet Rt.
 LuK Savaria Kft.-t
-Audi Hungária Motor Kft.
+Audi HungÃ¡ria Motor Kft.
 GE Capital
 Budapest Bankban
 EBRD
@@ -6374,59 +6374,59 @@ Budapest Bank Rt.
 MTI-t
 Templeton Strategic Emerging Markets Fund LDC
 Globus Konzervipari Rt.-ben
-Budapesti Értéktõzsde
-Domestore Üzletviteli és Tanácsadó Kft.
+Budapesti Ã‰rtÃ©ktÅ‘zsde
+Domestore Ãœzletviteli Ã©s TanÃ¡csadÃ³ Kft.
 Arago Rt.-ben
-Arago Befektetési Holding Rt.
-Magyar Tõkepiacban
-E.ON Hungária Energetikai Rt.
-Tiszántúli Áramszolgáltató Rt-ben
-Titász
-Magyar Tõkepiac
+Arago BefektetÃ©si Holding Rt.
+Magyar TÅ‘kepiacban
+E.ON HungÃ¡ria Energetikai Rt.
+TiszÃ¡ntÃºli ÃramszolgÃ¡ltatÃ³ Rt-ben
+TitÃ¡sz
+Magyar TÅ‘kepiac
 ING
 Bank Slaski-ban
 ING Bank
 Reuters
 Gazprom
-Általános Értékforgalmi Bankban
-ÁÉB
+ÃltalÃ¡nos Ã‰rtÃ©kforgalmi Bankban
+ÃÃ‰B
 Kommerszant Daily
-Brau Union Hungária Sörgyárak Rt.
+Brau Union HungÃ¡ria SÃ¶rgyÃ¡rak Rt.
 Brau Union AG
-Magyar Tõkepiac
-Multi-B Fejlesztõ Informatikai és Szolgáltató Rt.
-Rizikó Factory Rt.-ben
-Második Deviza Factory Rt.-ben
+Magyar TÅ‘kepiac
+Multi-B FejlesztÅ‘ Informatikai Ã©s SzolgÃ¡ltatÃ³ Rt.
+RizikÃ³ Factory Rt.-ben
+MÃ¡sodik Deviza Factory Rt.-ben
 Multi-B.
-Magyar Tõkepiacban
+Magyar TÅ‘kepiacban
 TVK
 Mol
 TVK
 TVK
-Magyar Tõkepiacban
+Magyar TÅ‘kepiacban
 Northern Blvd.Corp
 Richter Gedeonban
-BÉT
-Budapest Hitel és Fejlesztési Bank Rt
-Magyar Tõkepiacban
-BÁV Rt.
+BÃ‰T
+Budapest Hitel Ã©s FejlesztÃ©si Bank Rt
+Magyar TÅ‘kepiacban
+BÃV Rt.
 Daewoo Securities
 Bank of New York
 BorsodChem-ben
 Pick Szeged Rt.-ben
-Magyar Tõkepiacban
+Magyar TÅ‘kepiacban
 econet.hu Rt.
 Eco.Net Kft.
 econet.hu
-Magyar Tõkepiac
-Generalbroker Értékpapír Rt.
-Magyar Tõkepiacban
+Magyar TÅ‘kepiac
+Generalbroker Ã‰rtÃ©kpapÃ­r Rt.
+Magyar TÅ‘kepiacban
 OTP Bank Rt.
 Wallis Rt.-nek
-Hajdú-Béttel
+HajdÃº-BÃ©ttel
 OTP Rt.
-Magyar Tõkepiacban
-BÁV Bizományi Kereskedõház és Záloghitel Részvénytársaság
+Magyar TÅ‘kepiacban
+BÃV BizomÃ¡nyi KereskedÅ‘hÃ¡z Ã©s ZÃ¡loghitel RÃ©szvÃ©nytÃ¡rsasÃ¡g
 Oftel
 BT Group Plc
 Helsingin Sanomat
@@ -6472,7 +6472,7 @@ Lufthansa
 DHL Internationalben
 Deutsche Post World Net AG-nak
 Deutsche Telekom
-France Télécomban
+France TÃ©lÃ©comban
 Lukoil
 Interfax
 Intel Corp.
@@ -6487,7 +6487,7 @@ WorldCom Inc.
 WorldCom
 Avantel SA-ban
 Citigroup
-France Télécom
+France TÃ©lÃ©com
 FT
 La Tribune
 Deutsche Telekom
@@ -6525,24 +6525,24 @@ Flextronicsszal
 PKN Orlenben
 TPSA-ban
 Photo Porst
-Fõfotó Kft.-nek
+FÅ‘fotÃ³ Kft.-nek
 Photo Porsthoz
 Globus Konzervipari Rt
-Csabai Konzervgyár Rt.-ben
-Magyar Tõkepiacban
+Csabai KonzervgyÃ¡r Rt.-ben
+Magyar TÅ‘kepiacban
 Globus
 Clearstream Banking AG
 Hungagent Rt.
 Hungagent
-Magyar Tõkepiacban
-Magyar Külkereskedelmi Bank Rt.
-Aranypénz Lap és Könyvkiadó Rt-ben
-Magyar Tõkepiac
+Magyar TÅ‘kepiacban
+Magyar KÃ¼lkereskedelmi Bank Rt.
+AranypÃ©nz Lap Ã©s KÃ¶nyvkiadÃ³ Rt-ben
+Magyar TÅ‘kepiac
 Corvina Natural Products Inc.
 Humet Rt.-vel
 Humet
-Magyar Tõkepiacban
-Egri Távfûtõ és Vagyonkezelõ EVAT Rt.
+Magyar TÅ‘kepiacban
+Egri TÃ¡vfÅ±tÅ‘ Ã©s VagyonkezelÅ‘ EVAT Rt.
 MTI-t
 Financial Timest
 Pearson Plc.
@@ -6552,157 +6552,157 @@ PwC Consulting
 Monday
 Garfield
 Vivendi Universal
-Libération
+LibÃ©ration
 Universal Studios
 Universal Music
 Cegetel
-Vivendi Environnement-ról
-Számalk Rendszerház Rt.
-Számalk Kereskedõház Rt.
-Számalk Oktatási Rt.
-Számalk-Holding Vagyonkezelõ Rt.
-F-2002 Épületgazdálkodási Rt.
-Magyar Tõkepiac
+Vivendi Environnement-rÃ³l
+SzÃ¡malk RendszerhÃ¡z Rt.
+SzÃ¡malk KereskedÅ‘hÃ¡z Rt.
+SzÃ¡malk OktatÃ¡si Rt.
+SzÃ¡malk-Holding VagyonkezelÅ‘ Rt.
+F-2002 Ã‰pÃ¼letgazdÃ¡lkodÃ¡si Rt.
+Magyar TÅ‘kepiac
 Sales Force 1
-PROHOME Kft.-bõl
-PROHOME-ból
+PROHOME Kft.-bÅ‘l
+PROHOME-bÃ³l
 Magyar Posta Rt.
 Tetra Rt-t
 Posta
 Defend Kft-re
 Postabankot
 Magyar Posta Rt.
-Lõrinci Textil Kft.
-NAPI Gazdaság
-Csopak Rt.-bõl
+LÅ‘rinci Textil Kft.
+NAPI GazdasÃ¡g
+Csopak Rt.-bÅ‘l
 Csopak
-Reál Hungária Rt.
-NAPI Gazdaságban
+ReÃ¡l HungÃ¡ria Rt.
+NAPI GazdasÃ¡gban
 Fortum Engineering
-ETV-Erõterv Rt.-ben
+ETV-ErÅ‘terv Rt.-ben
 Fortum
 Deutsche Bank AG
-ABC Vagyonkezelõ Rt.
+ABC VagyonkezelÅ‘ Rt.
 Graboplast Rt.-ben
-Budapesti Értéktõzsde
+Budapesti Ã‰rtÃ©ktÅ‘zsde
 Sumitomo Mitsui
 SMBC
 Goldman Sachs-ban
 Reuters
-Takarékbank
-Fundamenta Lakástakarékpénztár Rt.-ben
-Német Befektetési Társaság Rt.
+TakarÃ©kbank
+Fundamenta LakÃ¡stakarÃ©kpÃ©nztÃ¡r Rt.-ben
+NÃ©met BefektetÃ©si TÃ¡rsasÃ¡g Rt.
 Novotrade Rt.-ben
-Magyar Tõkepiac
-Rizikó Factory Rt.
-Aranypók Rt.-ben
-Rizikó Factory Rt.
-Magyar Tõkepiacban
+Magyar TÅ‘kepiac
+RizikÃ³ Factory Rt.
+AranypÃ³k Rt.-ben
+RizikÃ³ Factory Rt.
+Magyar TÅ‘kepiacban
 CE Oil and Gas AG
 BorsodChem Rt.
-BWOB Kereskedelmi és Szolgáltató Rt.
-Rizikó Factory Rt.
-Budapesti Értéktõzsdérõl
+BWOB Kereskedelmi Ã©s SzolgÃ¡ltatÃ³ Rt.
+RizikÃ³ Factory Rt.
+Budapesti Ã‰rtÃ©ktÅ‘zsdÃ©rÅ‘l
 Yahoo!
 Yahoo!
 D-termin Kft.
-Rizikó Factory Rt.
+RizikÃ³ Factory Rt.
 Bicinium Kft.
-Második Deviza Factory Rt.
+MÃ¡sodik Deviza Factory Rt.
 OTP Bank Rt.
-Magyar Tõkepiacban
+Magyar TÅ‘kepiacban
 OTP Bank Rt.
-Magyar Tõkepiacban
+Magyar TÅ‘kepiacban
 OTP Bank Rt.
-Magyar Tõkepiacban
-Nehézfémöntöde Rt.
-Magyar Tõkepiacban
+Magyar TÅ‘kepiacban
+NehÃ©zfÃ©mÃ¶ntÃ¶de Rt.
+Magyar TÅ‘kepiacban
 KPN Telecom
-Concorde Értékpapír Rt.
+Concorde Ã‰rtÃ©kpapÃ­r Rt.
 Mol
-Magyar Tõkepiac
+Magyar TÅ‘kepiac
 Cisco Systems
 Nasdaq-on
 Cisco
-Budapesti Értéktõzsdén
+Budapesti Ã‰rtÃ©ktÅ‘zsdÃ©n
 OTP
-Beruházási és Fejlesztési Bank
+BeruhÃ¡zÃ¡si Ã©s FejlesztÃ©si Bank
 IRB
-Tiszai Vegyi Kombinát Rt.
-Magyar Tõkepiacban
+Tiszai Vegyi KombinÃ¡t Rt.
+Magyar TÅ‘kepiacban
 BorsodChem Rt.
 CE Oil and Gasnak
 BorsodChem
-Magyar Tõkepiacban
+Magyar TÅ‘kepiacban
 Arago Rt.-ben
 Domestore Kft.
 Arago
 Mol
-Magyar Tõkepiacban
-Transyl-West Vagyonkezelõ Kft.
+Magyar TÅ‘kepiacban
+Transyl-West VagyonkezelÅ‘ Kft.
 Biodiszkont Rt.-ben
-Magyar Tõkepiacban
+Magyar TÅ‘kepiacban
 OTP Bank Rt.
 OTP
-Magyar Tõkepiacban
+Magyar TÅ‘kepiacban
 Innova Invest Rt.
 IBUSZ Rt.
-Magyar Tõkepiac
-Concorde Értékpapír Rt.
+Magyar TÅ‘kepiac
+Concorde Ã‰rtÃ©kpapÃ­r Rt.
 Pick
-Pénzügyi Szervezetek Állami Felügyelete
-Magyar Tõkepiacban
+PÃ©nzÃ¼gyi Szervezetek Ãllami FelÃ¼gyelete
+Magyar TÅ‘kepiacban
 OTP Bank Rt.
-Magyar Tõkepiacban
+Magyar TÅ‘kepiacban
 Graboplast Rt.
-Budapesti Értéktõzsde
-BÉT
-BÉT
+Budapesti Ã‰rtÃ©ktÅ‘zsde
+BÃ‰T
+BÃ‰T
 MTI-t
-IE-New York Broker Befektetési Rt.
-Inter-Európa Bank Rt.-nek
-Magyar Tõkepiac
-Arago Befektetési Holding Rt.
-Magyar Tõkepiacban
-Budapesti Értéktõzsde Magyar Tõkepiacban
-Wood and Compamy Értékpapírkereskedelmi Rt.
-Concorde Értékpapír Rt.
+IE-New York Broker BefektetÃ©si Rt.
+Inter-EurÃ³pa Bank Rt.-nek
+Magyar TÅ‘kepiac
+Arago BefektetÃ©si Holding Rt.
+Magyar TÅ‘kepiacban
+Budapesti Ã‰rtÃ©ktÅ‘zsde Magyar TÅ‘kepiacban
+Wood and Compamy Ã‰rtÃ©kpapÃ­rkereskedelmi Rt.
+Concorde Ã‰rtÃ©kpapÃ­r Rt.
 Mol
-Magyar Tõkepiac
-ABC Vagyonkezelõ Rt.
+Magyar TÅ‘kepiac
+ABC VagyonkezelÅ‘ Rt.
 Graboplast
 ABC
-Budapesti Értéktõzsde
+Budapesti Ã‰rtÃ©ktÅ‘zsde
 Ivydale Investments Limited
 Csopak Rt.
-Magyar Tõkepiacban
+Magyar TÅ‘kepiacban
 Pannon-Flax Rt.
-Betonútépítõ Nemzetközi Építõipari Rt.
-BNÉ Rt.
+BetonÃºtÃ©pÃ­tÅ‘ NemzetkÃ¶zi Ã‰pÃ­tÅ‘ipari Rt.
+BNÃ‰ Rt.
 Pannon-Flax
-Magyar Tõkepiacban
+Magyar TÅ‘kepiacban
 Milton Apartman Rt.
 HB Westminster
-Magyar Tõkepiacban
-Callum Vagyonkezelõ Rt.
-Skála-Coop Kereskedelmi és Ipari Rt.
-Athina Szolgáltató Kft.
+Magyar TÅ‘kepiacban
+Callum VagyonkezelÅ‘ Rt.
+SkÃ¡la-Coop Kereskedelmi Ã©s Ipari Rt.
+Athina SzolgÃ¡ltatÃ³ Kft.
 Callum
-Magyar Tõkepiac
+Magyar TÅ‘kepiac
 CE Oil and Gas AG
 BorsodChem
 BorsodChem Rt.
 BC
 CE Oil
 CE Oil
-Magyar Tõkepiacban
+Magyar TÅ‘kepiacban
 OTP Bank Rt.
-Magyar Tõkepiacban
-Concorde Értékpapír Rt.
+Magyar TÅ‘kepiacban
+Concorde Ã‰rtÃ©kpapÃ­r Rt.
 Mol
-Magyar Tõkepiac
+Magyar TÅ‘kepiac
 Graboplast Rt.
-ABC Befektetési Rt.
+ABC BefektetÃ©si Rt.
 Graboplast
 Graboplast
 MTI-t
@@ -6712,422 +6712,422 @@ BSkyB
 Softbank Corp.
 Yahoo Inc.
 E.ON AG
-Veba Öl-ben
+Veba Ã–l-ben
 British Petroleum Plc-nek
 E.ON
-Skála-Coop Rt.
+SkÃ¡la-Coop Rt.
 T
-Magyar Tõkepiacban
+Magyar TÅ‘kepiacban
 KELER
-KELER Értéktárából
+KELER Ã‰rtÃ©ktÃ¡rÃ¡bÃ³l
 KELER
 Northorp Grumman
 TRW
 Boeing
 TRW
-Építõipari és Újjáépítési Vásáron
+Ã‰pÃ­tÅ‘ipari Ã©s ÃšjjÃ¡Ã©pÃ­tÃ©si VÃ¡sÃ¡ron
 Hungexpo Rt.
 MTI-vel
 EU
-Európai Unió
-Európai Unió
-Európai Bizottság
-Európai Központi Bank
+EurÃ³pai UniÃ³
+EurÃ³pai UniÃ³
+EurÃ³pai BizottsÃ¡g
+EurÃ³pai KÃ¶zponti Bank
 Erste Bank
 Format
-Ecostat Gazdaságelemzõ és Informatikai Intézet
-Gazdasági Minisztérium
+Ecostat GazdasÃ¡gelemzÅ‘ Ã©s Informatikai IntÃ©zet
+GazdasÃ¡gi MinisztÃ©rium
 GDP
 Pick Rt.
 Comtim
 PricewaterhouseCoopers
-Krónika
-Oktatási Minisztérium
-Veszprémi Egyetemen
+KrÃ³nika
+OktatÃ¡si MinisztÃ©rium
+VeszprÃ©mi Egyetemen
 Dow Jones
-Gazdasági Minisztérium
+GazdasÃ¡gi MinisztÃ©rium
 MTI-t
-Központi Statisztikai Hivatal
+KÃ¶zponti Statisztikai Hivatal
 KSH
-Központi Statisztikai Hivatal
+KÃ¶zponti Statisztikai Hivatal
 KSH
 Reuters
 Unilever
-Gazdasági Minisztérium
+GazdasÃ¡gi MinisztÃ©rium
 INSEE
 EKB
-Nemzetközi Valutaalappal
-Világbankkal
+NemzetkÃ¶zi Valutaalappal
+VilÃ¡gbankkal
 EU
-Európai Ingatlan Tanács
+EurÃ³pai Ingatlan TanÃ¡cs
 CEPI
-Országos Munkaügyi Kutató és Módszertani Központ
-Gazdasági Minisztérium
+OrszÃ¡gos MunkaÃ¼gyi KutatÃ³ Ã©s MÃ³dszertani KÃ¶zpont
+GazdasÃ¡gi MinisztÃ©rium
 GM
 MTI-vel
-Világbank
-Nemzetközi Valutaalappal
+VilÃ¡gbank
+NemzetkÃ¶zi Valutaalappal
 IMF
-Európai Unió
+EurÃ³pai UniÃ³
 EU
-Wall Streetrõl
+Wall StreetrÅ‘l
 Mol Rt.
 MTI-vel
-Nemzetközi Valutaalap
-Magyar Vállalkozásfejlesztési Alappítvány
+NemzetkÃ¶zi Valutaalap
+Magyar VÃ¡llalkozÃ¡sfejlesztÃ©si AlappÃ­tvÃ¡ny
 MVA
 Polski Cukier
 BASF
 Wall Street
-Agrármarketing Centrum Dél-Alföldi Régióközpontja
+AgrÃ¡rmarketing Centrum DÃ©l-AlfÃ¶ldi RÃ©giÃ³kÃ¶zpontja
 MTI-t
-Gazdasági Minisztérium
-Északkelet-magyarországi Regionális Fejlesztési Részvénytársaság
-Kereskedelmi Világszervezet
+GazdasÃ¡gi MinisztÃ©rium
+Ã‰szakkelet-magyarorszÃ¡gi RegionÃ¡lis FejlesztÃ©si RÃ©szvÃ©nytÃ¡rsasÃ¡g
+Kereskedelmi VilÃ¡gszervezet
 WTO
-Agrárintegráció az Ormánság vidékfejlesztéséért
-Földmûvelésügyi és Vidékfejlesztési Minisztérium
-Pénzügyminisztérium
-Külügyminisztérium
+AgrÃ¡rintegrÃ¡ciÃ³ az OrmÃ¡nsÃ¡g vidÃ©kfejlesztÃ©sÃ©Ã©rt
+FÃ¶ldmÅ±velÃ©sÃ¼gyi Ã©s VidÃ©kfejlesztÃ©si MinisztÃ©rium
+PÃ©nzÃ¼gyminisztÃ©rium
+KÃ¼lÃ¼gyminisztÃ©rium
 Vodafone
-Wall Streetrõl
+Wall StreetrÅ‘l
 Fed
 Merrill Lynch
 Cap Gemini
-Európai Unió
-Külügyminisztérium
+EurÃ³pai UniÃ³
+KÃ¼lÃ¼gyminisztÃ©rium
 ITDH
 Fed
-Új Kézfogás Közalapítvány
-ÚKK
+Ãšj KÃ©zfogÃ¡s KÃ¶zalapÃ­tvÃ¡ny
+ÃšKK
 El Pais
-Földmûvelésügyi és Vidékfejlesztési Minisztérium
+FÃ¶ldmÅ±velÃ©sÃ¼gyi Ã©s VidÃ©kfejlesztÃ©si MinisztÃ©rium
 MTI-nek
 Vodafone
-Wall Streetrõl
-Európai Unióba
+Wall StreetrÅ‘l
+EurÃ³pai UniÃ³ba
 Duna Charta
-Gazdasági Együttmûködési és Fejlesztési Szervezet
+GazdasÃ¡gi EgyÃ¼ttmÅ±kÃ¶dÃ©si Ã©s FejlesztÃ©si Szervezet
 OECD
 MTI
 EU-ba
 Economist Intelligence Unit
-Európai Parlament
-Központi Statisztikai Hivatal
-Primagáz Rt.
-Primagáz Rt.
+EurÃ³pai Parlament
+KÃ¶zponti Statisztikai Hivatal
+PrimagÃ¡z Rt.
+PrimagÃ¡z Rt.
 MTI-t
 MTI
 IMF
-Gazdasági Minisztérium
+GazdasÃ¡gi MinisztÃ©rium
 MTI-t
-EU Bizottsága
-Központi Statisztikai Hivatal
-Központi Statisztikai Hivatal
+EU BizottsÃ¡ga
+KÃ¶zponti Statisztikai Hivatal
+KÃ¶zponti Statisztikai Hivatal
 KSH
-Központi Statisztikai Hivatal
+KÃ¶zponti Statisztikai Hivatal
 KSH
 Istat
 NS
 Die Presse
 Posztup
 Wellcome Trust
-Külügyminisztérium
+KÃ¼lÃ¼gyminisztÃ©rium
 MTI-nek
 Mol
 MTI-t
-Központi Statisztikai Hivatal
-Kereskedelmi Világszervezet WTO Általános Tanácsának
-Külügyminisztérium
-KüM
+KÃ¶zponti Statisztikai Hivatal
+Kereskedelmi VilÃ¡gszervezet WTO ÃltalÃ¡nos TanÃ¡csÃ¡nak
+KÃ¼lÃ¼gyminisztÃ©rium
+KÃ¼M
 MTI-t
-Gazdasági Minisztérium
+GazdasÃ¡gi MinisztÃ©rium
 EKB
 Moody's Investors Service
 Erste Bank
-Budapesti Értéktõzsdén
-BÉT
+Budapesti Ã‰rtÃ©ktÅ‘zsdÃ©n
+BÃ‰T
 Fed
 MOL
 MTI-t
-Német Szakszervezeti Szövetség
+NÃ©met Szakszervezeti SzÃ¶vetsÃ©g
 DGB
-Európai Központi Bank
+EurÃ³pai KÃ¶zponti Bank
 EKB
 EKB
 Dow Jones
-Czipin and Proudfoot Nemzetközi Termelékenységi Tanácsadó
-Európai Központi Bank
+Czipin and Proudfoot NemzetkÃ¶zi TermelÃ©kenysÃ©gi TanÃ¡csadÃ³
+EurÃ³pai KÃ¶zponti Bank
 Reuters
 Eurostat
 EU
 INSEE
-Központi Statisztikai Hivatal
+KÃ¶zponti Statisztikai Hivatal
 KSH
 MTI
 PPI
 MTI-nek
-Budapesti Kereskedelmi és Iparkamarában
-Budapesti Kereskedelmi és Iparkamara
-Vásár Agriában Nemzetközi Vásár és Kiállítás
+Budapesti Kereskedelmi Ã©s IparkamarÃ¡ban
+Budapesti Kereskedelmi Ã©s Iparkamara
+VÃ¡sÃ¡r AgriÃ¡ban NemzetkÃ¶zi VÃ¡sÃ¡r Ã©s KiÃ¡llÃ­tÃ¡s
 Magyar Nemzeti Bank
 MNB
 MTI-t
 BBL-ING
 Wall Street
 Nasdaq
-Wall Streetrõl
+Wall StreetrÅ‘l
 Cisco Systems
-Bécsi Nemzetközi Összehasonlító Gazdasági Tanulmányok Intézete
+BÃ©csi NemzetkÃ¶zi Ã–sszehasonlÃ­tÃ³ GazdasÃ¡gi TanulmÃ¡nyok IntÃ©zete
 WIIW
-ÖSB
+Ã–SB
 Dow Jones
 Nasdaq
 Cseh Nemzeti Bank
 MTI
 Foreign Policy Centre
-Európai Unió
-Európa Fórum Egyesület
+EurÃ³pai UniÃ³
+EurÃ³pa FÃ³rum EgyesÃ¼let
 EU
-GfK Piackutató Intézet
+GfK PiackutatÃ³ IntÃ©zet
 MTI-hez
-Európai Parlament
+EurÃ³pai Parlament
 Frankfurter Allgemeine Zeitung
-Központi Statisztikai Hivatal
+KÃ¶zponti Statisztikai Hivatal
 KSH
-Központi Statisztikai Hivatal
+KÃ¶zponti Statisztikai Hivatal
 KSH
 MTI
 Dresdner Kleinwort Wasserstein
 Bank of England
 Interfax
-Szabolcs-Szatmár-Bereg Megyei Területfejlesztési Tanács
+Szabolcs-SzatmÃ¡r-Bereg Megyei TerÃ¼letfejlesztÃ©si TanÃ¡cs
 PPI
 Reuters
 Ukrtelekom
-Gazdasági Együttmûködési és Fejlesztési Szervezethez
+GazdasÃ¡gi EgyÃ¼ttmÅ±kÃ¶dÃ©si Ã©s FejlesztÃ©si Szervezethez
 OECD
 EU
-Országgyûlés
+OrszÃ¡ggyÅ±lÃ©s
 G7-nek
 EU
-Unión
+UniÃ³n
 Fessel GFK
 al-Qaeda
-Európai Újjáépítési és Fejlesztési Bank
+EurÃ³pai ÃšjjÃ¡Ã©pÃ­tÃ©si Ã©s FejlesztÃ©si Bank
 EBRD
-Államháztartási Hivatal
-ÁHH
-New York-i Világkereskedelmi Központot
-A magyar kormány ösztönözni akarja a növekedést
+ÃllamhÃ¡ztartÃ¡si Hivatal
+ÃHH
+New York-i VilÃ¡gkereskedelmi KÃ¶zpontot
+A magyar kormÃ¡ny Ã¶sztÃ¶nÃ¶zni akarja a nÃ¶vekedÃ©st
 Frankfurter Allgemeine Zeitung
 APEH
-Gazdasági Minisztérium
+GazdasÃ¡gi MinisztÃ©rium
 MTI-t
-Európai Unió
-Német-Magyar Ipari és Kereskedelmi Kamara
-Magyar Marketing Szövetség
+EurÃ³pai UniÃ³
+NÃ©met-Magyar Ipari Ã©s Kereskedelmi Kamara
+Magyar Marketing SzÃ¶vetsÃ©g
 MMSZ
-"Év honlapja
+"Ã‰v honlapja
 OTP Bank
 WebTime Kft.
 MMSZ
 MTI-t
-XII Országos Minõség-konferenciának
+XII OrszÃ¡gos MinÅ‘sÃ©g-konferenciÃ¡nak
 Region Kontakt
-Európai Újjáépítési és Fejlesztési Bank
+EurÃ³pai ÃšjjÃ¡Ã©pÃ­tÃ©si Ã©s FejlesztÃ©si Bank
 EBRD
 ENSZ
-Európai Uniónak
-Országgyûlés
-Központi Statisztikai Hivatal
+EurÃ³pai UniÃ³nak
+OrszÃ¡ggyÅ±lÃ©s
+KÃ¶zponti Statisztikai Hivatal
 KSH
-Központi Statisztikai Hivatal
+KÃ¶zponti Statisztikai Hivatal
 KSH
 MTI
 Dresdner Kleinwort Wasserstein
-Európai Unióhoz
-Európai Központi Bank
+EurÃ³pai UniÃ³hoz
+EurÃ³pai KÃ¶zponti Bank
 EKB
-Nobel-díj
-Kereskedelmi Világszervezethez
+Nobel-dÃ­j
+Kereskedelmi VilÃ¡gszervezethez
 WTO-hoz
-Központi Statisztikai Hivatal
+KÃ¶zponti Statisztikai Hivatal
 EU
-Pénzügyminisztérium
+PÃ©nzÃ¼gyminisztÃ©rium
 PM
-Ázsiai-Csendes-óceáni Gazdasági Együttmûködés
+Ãzsiai-Csendes-Ã³ceÃ¡ni GazdasÃ¡gi EgyÃ¼ttmÅ±kÃ¶dÃ©s
 APEC
-APEC 13 miniszteri értekezletének
-Gazdasági Együttmûködési és Fejlesztési Szervezet
-Központi Statisztikai Hivatal
+APEC 13 miniszteri Ã©rtekezletÃ©nek
+GazdasÃ¡gi EgyÃ¼ttmÅ±kÃ¶dÃ©si Ã©s FejlesztÃ©si Szervezet
+KÃ¶zponti Statisztikai Hivatal
 KSH
 MTI-vel
-Délkelet-európai Stabilitási Egyezmény
+DÃ©lkelet-eurÃ³pai StabilitÃ¡si EgyezmÃ©ny
 DKSE
-Külügyminisztérium
+KÃ¼lÃ¼gyminisztÃ©rium
 DKSE
-Európai Tanács
-Államadósság Kezelõ Központ Rt.
-Magyar Államkötvényt
-ÁKK Rt.
+EurÃ³pai TanÃ¡cs
+ÃllamadÃ³ssÃ¡g KezelÅ‘ KÃ¶zpont Rt.
+Magyar ÃllamkÃ¶tvÃ©nyt
+ÃKK Rt.
 MTI-t
 Bank of Japan
-Gyáriparosok Szövetsége
+GyÃ¡riparosok SzÃ¶vetsÃ©ge
 CBI
 NAPM
 Reuters
-Magyarországi Olasz Kereskedelmi Kamara
-Olasz Külkereskedelmi Intézet
+MagyarorszÃ¡gi Olasz Kereskedelmi Kamara
+Olasz KÃ¼lkereskedelmi IntÃ©zet
 GDP-je
 EU
-Pénzügyminisztérium
+PÃ©nzÃ¼gyminisztÃ©rium
 UBS Warburg
 MTI-nek
 UBS Warburg
-Szociális és Családügyi Minisztérium
+SzociÃ¡lis Ã©s CsalÃ¡dÃ¼gyi MinisztÃ©rium
 SZCSM
-Nemzeti Üdülési Szolgálat Kft.
+Nemzeti ÃœdÃ¼lÃ©si SzolgÃ¡lat Kft.
 MTI-t
 EU
 Financial Timesban
-Európai Bizottság
+EurÃ³pai BizottsÃ¡g
 MTI-t
-Gazdasági Együttmûködési és Fejlesztési Szervezet
+GazdasÃ¡gi EgyÃ¼ttmÅ±kÃ¶dÃ©si Ã©s FejlesztÃ©si Szervezet
 OECD
-"Világgazdasági Kilátások
-Európai Unió
+"VilÃ¡ggazdasÃ¡gi KilÃ¡tÃ¡sok
+EurÃ³pai UniÃ³
 EBRD
 Standard and Poor's
-Európai Újjáépítési és Fejlesztési Bank
+EurÃ³pai ÃšjjÃ¡Ã©pÃ­tÃ©si Ã©s FejlesztÃ©si Bank
 EBRD
 EU
-Brüsszeli Bizottság
-Európai Bizottság
-Európai Bizotság
-Európai Bizottság
-Európai Unió
+BrÃ¼sszeli BizottsÃ¡g
+EurÃ³pai BizottsÃ¡g
+EurÃ³pai BizotsÃ¡g
+EurÃ³pai BizottsÃ¡g
+EurÃ³pai UniÃ³
 ISPA
-Európai Bizottság
+EurÃ³pai BizottsÃ¡g
 EKB
 Reutersnek
-Európai Újjáépítési és Fejlesztési Bank
+EurÃ³pai ÃšjjÃ¡Ã©pÃ­tÃ©si Ã©s FejlesztÃ©si Bank
 EBRD
 Die Presse
-Az Audi a nagy bérelõnynek köszönhetõen Magyarország legnagyobb exportõre
-Európai Bizottság
-Európai Bizottság
-Vállalkozók és Munkáltatók Országos Szövetsége
+Az Audi a nagy bÃ©relÅ‘nynek kÃ¶szÃ¶nhetÅ‘en MagyarorszÃ¡g legnagyobb exportÅ‘re
+EurÃ³pai BizottsÃ¡g
+EurÃ³pai BizottsÃ¡g
+VÃ¡llalkozÃ³k Ã©s MunkÃ¡ltatÃ³k OrszÃ¡gos SzÃ¶vetsÃ©ge
 VOSZ
-Magyar Kereskedelmi és Iparkamarával
+Magyar Kereskedelmi Ã©s IparkamarÃ¡val
 MKIK
 EU
-Külügyminisztérium
-Hongkong Különleges Adminisztratív Övezet
+KÃ¼lÃ¼gyminisztÃ©rium
+Hongkong KÃ¼lÃ¶nleges AdminisztratÃ­v Ã–vezet
 Financial Timesban
 Handelsblatt
-Európai Unió
-Wifo Gazdaságkutató Intézet
-Gyáriparosok Szövetsége
-Igazságügyi Minisztérium
+EurÃ³pai UniÃ³
+Wifo GazdasÃ¡gkutatÃ³ IntÃ©zet
+GyÃ¡riparosok SzÃ¶vetsÃ©ge
+IgazsÃ¡gÃ¼gyi MinisztÃ©rium
 IM
 Eurochambres
-Magyar Kereskedelmi és Iparkamara
+Magyar Kereskedelmi Ã©s Iparkamara
 MKIK
-Európai Kereskedelmi és Iparkamarák Szövetsége
+EurÃ³pai Kereskedelmi Ã©s IparkamarÃ¡k SzÃ¶vetsÃ©ge
 Eurochambres
 Reuters
-Magyar Gazdasági Kamarával
-Európai Unió
+Magyar GazdasÃ¡gi KamarÃ¡val
+EurÃ³pai UniÃ³
 EURO-CHAMBER
-Osztrák Gazdasági Kamara
-Gazdasági Minisztérium
+OsztrÃ¡k GazdasÃ¡gi Kamara
+GazdasÃ¡gi MinisztÃ©rium
 GM
 MTI-nek
 EU
 Cseh Nemzeti Bank
-Európai Központi Bank
-Központi Statisztikai Hivatal
+EurÃ³pai KÃ¶zponti Bank
+KÃ¶zponti Statisztikai Hivatal
 MTI-nek
 Deutsche Bank
 Stuttgarter Nachrichten
 MTI
 Fed
 Fed
-Adó és pénzügyi Ellenõrzési Hivatal
-Világbank
+AdÃ³ Ã©s pÃ©nzÃ¼gyi EllenÅ‘rzÃ©si Hivatal
+VilÃ¡gbank
 Mol
-Fessel-GfK Piackutató Intézet
+Fessel-GfK PiackutatÃ³ IntÃ©zet
 MTI-nek
-Európai Unió
+EurÃ³pai UniÃ³
 Ziarul Financiar
 Reuters
 EU
 Reuters
 Reuters
-Európai Bizottság
-Európai Bizottság
+EurÃ³pai BizottsÃ¡g
+EurÃ³pai BizottsÃ¡g
 Eurostat
 EU
-Varsói Értéktõzsde
-Közép-Európai Blue Chip Index CETOP20 Részvényindexben
+VarsÃ³i Ã‰rtÃ©ktÅ‘zsde
+KÃ¶zÃ©p-EurÃ³pai Blue Chip Index CETOP20 RÃ©szvÃ©nyindexben
 Bank BPH PBK
-Budapesti Értéktõzsde
+Budapesti Ã‰rtÃ©ktÅ‘zsde
 MTI-t
 GUS
-Európai Bizottság
-Európai Parlamentet
-Központi Statisztikai Hivatal
+EurÃ³pai BizottsÃ¡g
+EurÃ³pai Parlamentet
+KÃ¶zponti Statisztikai Hivatal
 KSH
 MTI
-Európai Bizottság
+EurÃ³pai BizottsÃ¡g
 Reuters
-Európai Unióban
+EurÃ³pai UniÃ³ban
 Zycie
 Cseh Nemzeti Bank
 Hannoversche Allgemeine Zeitung
 Bundesbank
 EU
 SAPARD
-Földmûvelésügyi és Vidékfejlesztési Minisztérium
+FÃ¶ldmÅ±velÃ©sÃ¼gyi Ã©s VidÃ©kfejlesztÃ©si MinisztÃ©rium
 MTI-nek
 SAPARD
 ingatlanhaz.hu
 startlap.hu
-e-ware Számítástechnikai Tanácsadó Kereskedelmi és Szolgáltató Kft.
+e-ware SzÃ¡mÃ­tÃ¡stechnikai TanÃ¡csadÃ³ Kereskedelmi Ã©s SzolgÃ¡ltatÃ³ Kft.
 MTI-nek
-Pénzügyminisztérium
+PÃ©nzÃ¼gyminisztÃ©rium
 PM
-Európai Unió
+EurÃ³pai UniÃ³
 Magyar Nemzeti Bank
 MNB
 MTI-t
 Reuters
-Tolna Megyei Kereskedelmi és Iparkamara Euro Info Centre
-Széchenyi-terv
+Tolna Megyei Kereskedelmi Ã©s Iparkamara Euro Info Centre
+SzÃ©chenyi-terv
 MTI-t
-Budapesti Értéktõzsde
+Budapesti Ã‰rtÃ©ktÅ‘zsde
 Financial Times
-Európai Bizottság
+EurÃ³pai BizottsÃ¡g
 EU
 Frankfurter Allgemeine Zeitung
 Reuters
-Központi Statisztikai Hivatal
-Európai Unió
+KÃ¶zponti Statisztikai Hivatal
+EurÃ³pai UniÃ³
 Mol Rt.
-Központi Statisztikai Hivatal
+KÃ¶zponti Statisztikai Hivatal
 KSH
 MTI
 ABN AMRO
-Egyesült Nemzetek
+EgyesÃ¼lt Nemzetek
 ENSZ
-Dél-Dunántúli Régió
-Európai Bizottság
+DÃ©l-DunÃ¡ntÃºli RÃ©giÃ³
+EurÃ³pai BizottsÃ¡g
 Frankfurter Allgemeine Zeitung
-Európai Központi Bank
+EurÃ³pai KÃ¶zponti Bank
 EKB
 International Herald Tribune
-Magyar Nemzeti Bankról
+Magyar Nemzeti BankrÃ³l
 MNB
 Fidesz
 MNB
@@ -7137,564 +7137,564 @@ Mol
 Conoco
 Mol Rt.
 MTI-nek
-Központi Statisztikai Hivatal
+KÃ¶zponti Statisztikai Hivatal
 KSH
 MTI-t
 EU
-Európai Bizottság
-Birminghami Alabama Nemzetközi Fesztiválon
-Kristály Korona Díjat
-Westel Mobil Távközlési Rt.
+EurÃ³pai BizottsÃ¡g
+Birminghami Alabama NemzetkÃ¶zi FesztivÃ¡lon
+KristÃ¡ly Korona DÃ­jat
+Westel Mobil TÃ¡vkÃ¶zlÃ©si Rt.
 Pick Szeged
-Herendi Porcelángyár
+Herendi PorcelÃ¡ngyÃ¡r
 Pharmavit Rt.
 NABI North American Bus Industries
-Birminghami Vállalkozói Központ
+Birminghami VÃ¡llalkozÃ³i KÃ¶zpont
 ITDH
-Befektetési célok az északkelet-magyarországi régióban
-Európai Unió
-Európai Újjáépítési és Fejlesztési Bank
+BefektetÃ©si cÃ©lok az Ã©szakkelet-magyarorszÃ¡gi rÃ©giÃ³ban
+EurÃ³pai UniÃ³
+EurÃ³pai ÃšjjÃ¡Ã©pÃ­tÃ©si Ã©s FejlesztÃ©si Bank
 EBRD
-Európai Bizottság
+EurÃ³pai BizottsÃ¡g
 Mol
-Föld Napja
-Gazdaságkutató Intézet
+FÃ¶ld Napja
+GazdasÃ¡gkutatÃ³ IntÃ©zet
 Wifo
-Európai Bizottság Vállalkozási Fõigazgatóságának
-Minõségügyi kalauz
-Euro Info Központ
+EurÃ³pai BizottsÃ¡g VÃ¡llalkozÃ¡si FÅ‘igazgatÃ³sÃ¡gÃ¡nak
+MinÅ‘sÃ©gÃ¼gyi kalauz
+Euro Info KÃ¶zpont
 MTI-t
-Európai Újjáépítési és Fejlesztési Bank
+EurÃ³pai ÃšjjÃ¡Ã©pÃ­tÃ©si Ã©s FejlesztÃ©si Bank
 EBRD
-Új Kézfogás Közalapítvány
-Európai Bizottság
-Európai Bizottság
-Európai Bizottság
-Európai Bizottság
-Európai Bizottság
-Európai Bizottság
-Záhony és térsége -befektetési zóna a Páneurópai V Közlekedési Folyosón
-Európai Központi Bank
-Európai Bizottság
+Ãšj KÃ©zfogÃ¡s KÃ¶zalapÃ­tvÃ¡ny
+EurÃ³pai BizottsÃ¡g
+EurÃ³pai BizottsÃ¡g
+EurÃ³pai BizottsÃ¡g
+EurÃ³pai BizottsÃ¡g
+EurÃ³pai BizottsÃ¡g
+EurÃ³pai BizottsÃ¡g
+ZÃ¡hony Ã©s tÃ©rsÃ©ge -befektetÃ©si zÃ³na a PÃ¡neurÃ³pai V KÃ¶zlekedÃ©si FolyosÃ³n
+EurÃ³pai KÃ¶zponti Bank
+EurÃ³pai BizottsÃ¡g
 Credit Suisse First Boston
-Jonathermál Részvénytársaság
-Központi Statisztikai Hivatal
+JonathermÃ¡l RÃ©szvÃ©nytÃ¡rsasÃ¡g
+KÃ¶zponti Statisztikai Hivatal
 KSH
-Gazdasági Együttmûködési és Fejlesztési Szervezet
+GazdasÃ¡gi EgyÃ¼ttmÅ±kÃ¶dÃ©si Ã©s FejlesztÃ©si Szervezet
 OECD
 OECD
-Gazdasági és Együttmûködési Szervezet
+GazdasÃ¡gi Ã©s EgyÃ¼ttmÅ±kÃ¶dÃ©si Szervezet
 OECD
-CIB Értékpapír Rt.
+CIB Ã‰rtÃ©kpapÃ­r Rt.
 MTI-nek
 MVA
 MTI-t
-Budapest Kisvállalkozói Hitelprogram
-Budapesti Vállalkozásfejlesztési Közalapítvány
+Budapest KisvÃ¡llalkozÃ³i Hitelprogram
+Budapesti VÃ¡llalkozÃ¡sfejlesztÃ©si KÃ¶zalapÃ­tvÃ¡ny
 BVK
-Európai Bizottság
-Munkáspárt
-Konzervatív Párt
-Központi Statisztikai Hivatal
+EurÃ³pai BizottsÃ¡g
+MunkÃ¡spÃ¡rt
+KonzervatÃ­v PÃ¡rt
+KÃ¶zponti Statisztikai Hivatal
 MTI-t
-Európai Központi Bank
+EurÃ³pai KÃ¶zponti Bank
 EKB
 INSSE
-Központi Statisztikai Hivatal
+KÃ¶zponti Statisztikai Hivatal
 KSH
 KSH
-Munkáspárt
+MunkÃ¡spÃ¡rt
 Labour
 The Times
 ENSZ
-Európai Bizottság
+EurÃ³pai BizottsÃ¡g
 Havaria Pressre
 Index
-Széchenyi-terv
+SzÃ©chenyi-terv
 Robert Bosch Elektronikai Kft.-nek BMW
 Bosch
 C&A
 Redevco Central Europe
 Regus
-Bernheim Realestate Developmenttõl
+Bernheim Realestate DevelopmenttÅ‘l
 Redevco
-NAPI Gazdaságban
-Paksi Atomerõmû Rt.-nél
-Mûszakos Dolgozók Érdekvédelmi Szervezete
-Vértesi Erõmû
+NAPI GazdasÃ¡gban
+Paksi AtomerÅ‘mÅ± Rt.-nÃ©l
+MÅ±szakos DolgozÃ³k Ã‰rdekvÃ©delmi Szervezete
+VÃ©rtesi ErÅ‘mÅ±
 Studio Metropolitana
 Metro
 Magyar Posta Rt.
 Magyar Posta MP Rt.
-Fõgáz Rt.
-XV Kerületi Önkormányzatot
+FÅ‘gÃ¡z Rt.
+XV KerÃ¼leti Ã–nkormÃ¡nyzatot
 Gabi
 Sara Lee
 Nexus
-"Mesébe illõ gondoskodás
+"MesÃ©be illÅ‘ gondoskodÃ¡s
 Gabi
-X Magyar Innovációs Nagydíj
+X Magyar InnovÃ¡ciÃ³s NagydÃ­j
 Mol Rt.
-"Maradékfeldolgozás komplex megvalósítása a Mol Rt Dunai Finomítójában
-Környezetvédelmi Minisztérium
-NAPI Gazdaság
+"MaradÃ©kfeldolgozÃ¡s komplex megvalÃ³sÃ­tÃ¡sa a Mol Rt Dunai FinomÃ­tÃ³jÃ¡ban
+KÃ¶rnyezetvÃ©delmi MinisztÃ©rium
+NAPI GazdasÃ¡g
 Strabag AG Projektentwicklung
 Realia Immobilien Verwertungs GmbH
 Strabag Terasz-park
-Befektetõben
-Befektetõben
-Magyar Golf Szövetség
-Balaton-felvidéki Nemzeti Park
-Befektetõben
+BefektetÅ‘ben
+BefektetÅ‘ben
+Magyar Golf SzÃ¶vetsÃ©g
+Balaton-felvidÃ©ki Nemzeti Park
+BefektetÅ‘ben
 Penthouse
 Penthouse
 Perolly International Llc.
-NAPI Gazdaságban
+NAPI GazdasÃ¡gban
 Cogne
-DAM Steel Speciális Acélgyártó Rt.-nél
-NAPI Gazdaságban
+DAM Steel SpeciÃ¡lis AcÃ©lgyÃ¡rtÃ³ Rt.-nÃ©l
+NAPI GazdasÃ¡gban
 HVG
-Magyar Suzuki Rt-nél
-Soros Alapítvány
+Magyar Suzuki Rt-nÃ©l
+Soros AlapÃ­tvÃ¡ny
 Supergroup
-"Egy hajóban evezünk -Szavazz
+"Egy hajÃ³ban evezÃ¼nk -Szavazz
 Supergroup
-"Nagy hajó a Duna felett
+"Nagy hajÃ³ a Duna felett
 Supergroup
-Soros Alapítvány
-Soros Alapítvány
-"Élj a jogaiddal -menj el szavazni!
-"Hogyan legyünk polgárok?
-Befektetõben
+Soros AlapÃ­tvÃ¡ny
+Soros AlapÃ­tvÃ¡ny
+"Ã‰lj a jogaiddal -menj el szavazni!
+"Hogyan legyÃ¼nk polgÃ¡rok?
+BefektetÅ‘ben
 RTL Klub
 Mr Bean
 BRF Rt.
-Észak-balatoni Regionális Konferencia Központ Kft.
-Komárom-Esztergom Megyei Közgyûlés
+Ã‰szak-balatoni RegionÃ¡lis Konferencia KÃ¶zpont Kft.
+KomÃ¡rom-Esztergom Megyei KÃ¶zgyÅ±lÃ©s
 MSZP
 SZDSZ
-Vértesi Erõmûnek
-Antenna Hungária
+VÃ©rtesi ErÅ‘mÅ±nek
+Antenna HungÃ¡ria
 BankNet
-BT Magyarország
+BT MagyarorszÃ¡g
 eTel
 Euroweb Hungary
 GTS-Datanet
 HungaroDigitel
 Novacom
 PanTel
-UPC Magyarország
-Alternatív Távközlési Szolgáltatók Egyesülete
+UPC MagyarorszÃ¡g
+AlternatÃ­v TÃ¡vkÃ¶zlÃ©si SzolgÃ¡ltatÃ³k EgyesÃ¼lete
 Palazzo Csajkovszkij
-NAPI Gazdaság
+NAPI GazdasÃ¡g
 Palazzo Csajkovszkij Kft.
-Befektetõben
-BVM Épelem Kft.
+BefektetÅ‘ben
+BVM Ã‰pelem Kft.
 BVM
-Befektetõben
+BefektetÅ‘ben
 Hungexpo Rt.
-Construma nemzetközi építõipari
-Decorstone díszítõkõ-ipari szakvásár
-Budapesti Vásárközpontban
+Construma nemzetkÃ¶zi Ã©pÃ­tÅ‘ipari
+Decorstone dÃ­szÃ­tÅ‘kÅ‘-ipari szakvÃ¡sÃ¡r
+Budapesti VÃ¡sÃ¡rkÃ¶zpontban
 BRFK
 HTC-Jorgosz
 HTC-Jorgosz
-NAPI Gazdaságban
-Befektetõben
-Befektetõben
-Befektetõben
+NAPI GazdasÃ¡gban
+BefektetÅ‘ben
+BefektetÅ‘ben
+BefektetÅ‘ben
 OTP Bank Rt.-vel
-Befektetõben
+BefektetÅ‘ben
 OTP Ingatlan Rt.
-Befektetõben
+BefektetÅ‘ben
 Magyar Posta MP Rt.
 BRFK-n
 MP
 Posta
 Defend Security Kft.-vel
-Diákhitel Rt.-vel
-Magyar Követeléskezelõ Rt.
-Gazdasági Minisztériumhoz
-Terinfo Ingatlan Figyelõ Adatbank
-Primaép Kft.
-Befektetõben
-Aranyponty Halászati Rt.
-Befektetõben
+DiÃ¡khitel Rt.-vel
+Magyar KÃ¶vetelÃ©skezelÅ‘ Rt.
+GazdasÃ¡gi MinisztÃ©riumhoz
+Terinfo Ingatlan FigyelÅ‘ Adatbank
+PrimaÃ©p Kft.
+BefektetÅ‘ben
+Aranyponty HalÃ¡szati Rt.
+BefektetÅ‘ben
 Flamarc Estate Kft.
-Befektetõben
+BefektetÅ‘ben
 DIT Kht.
-Befektetõben
-Befektetõben
-MÁV Rt.
-MÁV
+BefektetÅ‘ben
+BefektetÅ‘ben
+MÃV Rt.
+MÃV
 R.S.C Kft.
-NAPI Gazdaság
+NAPI GazdasÃ¡g
 La-Mond Kft.
-Dóm Rt.
-Befektetõben
-Befektetõben
+DÃ³m Rt.
+BefektetÅ‘ben
+BefektetÅ‘ben
 Biggeorge's International BI Rt.
-Befektetõben
-Befektetõben
+BefektetÅ‘ben
+BefektetÅ‘ben
 Siemens
-Gyõr-Sopron-Ebenfurti Vasút GYSEV Rt.-nek
-MÁV
-Nemzetközi Ingatlanforgalmazási- Befektetési és Építészeti Kiállítás Konferencia és Fórum
+GyÅ‘r-Sopron-Ebenfurti VasÃºt GYSEV Rt.-nek
+MÃV
+NemzetkÃ¶zi IngatlanforgalmazÃ¡si- BefektetÃ©si Ã©s Ã‰pÃ­tÃ©szeti KiÃ¡llÃ­tÃ¡s Konferencia Ã©s FÃ³rum
 MSZP
-Matáv
+MatÃ¡v
 Mindenkinek
-Alkotmánybíróság
-NAPI Gazdaság
-Széchenyi-terv
-Befektetõben
+AlkotmÃ¡nybÃ­rÃ³sÃ¡g
+NAPI GazdasÃ¡g
+SzÃ©chenyi-terv
+BefektetÅ‘ben
 Athenaeum
-Befektetõben
-Széchenyi-terv
-Befektetõben
+BefektetÅ‘ben
+SzÃ©chenyi-terv
+BefektetÅ‘ben
 Kyra Kft.
-Befektetõben
+BefektetÅ‘ben
 RTL Klub Online
 Vbox
 Vrally
-Századforduló
-SztárTõzsde
-Malév
-NAPI Gazdaságban
+SzÃ¡zadfordulÃ³
+SztÃ¡rTÅ‘zsde
+MalÃ©v
+NAPI GazdasÃ¡gban
 Central European Business Centre
-AES Borsodi Hõerõmû
-Mórhõ Kft.
-NAPI Gazdaság
-Rózsakerti Fûtõmûben
+AES Borsodi HÅ‘erÅ‘mÅ±
+MÃ³rhÅ‘ Kft.
+NAPI GazdasÃ¡g
+RÃ³zsakerti FÅ±tÅ‘mÅ±ben
 Sinergy Kft.
-Fõtáv Rt.
+FÅ‘tÃ¡v Rt.
 Magyar IngatlanCenter Kft.
-Belvárosi Átriumház
-Befektetõben
-Befektetõben
-Országos Rádió és Televízió Testület
+BelvÃ¡rosi ÃtriumhÃ¡z
+BefektetÅ‘ben
+BefektetÅ‘ben
+OrszÃ¡gos RÃ¡diÃ³ Ã©s TelevÃ­ziÃ³ TestÃ¼let
 ORTT
-Média Hungária
-Szerencsejáték Rt.
+MÃ©dia HungÃ¡ria
+SzerencsejÃ¡tÃ©k Rt.
 SzRt.
-NAPI Gazdaságban
-Magyar Vegyipari Szövetség
-Fõvárosi Közgyûlés
+NAPI GazdasÃ¡gban
+Magyar Vegyipari SzÃ¶vetsÃ©g
+FÅ‘vÃ¡rosi KÃ¶zgyÅ±lÃ©s
 Sziget Kft.
-Sziget Fesztivál
-Hírközlési Felügyelet
-Széchenyi-terv
+Sziget FesztivÃ¡l
+HÃ­rkÃ¶zlÃ©si FelÃ¼gyelet
+SzÃ©chenyi-terv
 Danubius Hotels
-Befektetõben
-Befektetõben
-Befektetõben
-Hewlett-Packard Magyarország
+BefektetÅ‘ben
+BefektetÅ‘ben
+BefektetÅ‘ben
+Hewlett-Packard MagyarorszÃ¡g
 MTI
 Pezzaioli
 Best-Car Kft.
 Holnap
-Újpressz Rt.
+Ãšjpressz Rt.
 MTI
 IBM
 WebSphere
 Lotus
-Magyar Villamos Mûvek Rt.
+Magyar Villamos MÅ±vek Rt.
 Magyar Posta Rt.
 Magyar Posta
-Sláger Rádió Rt.
+SlÃ¡ger RÃ¡diÃ³ Rt.
 Danubius
-Juventus rádiót
-Slágerhez
-Vám és Pénzügyõrség Központi Bûnüldözési Parancsnokságának
+Juventus rÃ¡diÃ³t
+SlÃ¡gerhez
+VÃ¡m Ã©s PÃ©nzÃ¼gyÅ‘rsÃ©g KÃ¶zponti BÅ±nÃ¼ldÃ¶zÃ©si ParancsnoksÃ¡gÃ¡nak
 H Kft.-t
 VPOP
 Prometheus Rt.
 ORTT
 TV Sziget
 Sziget Kft.
-NAPI Gazdaságban
+NAPI GazdasÃ¡gban
 OMD Hungary
-OMD Akadémia
-RTL Klub Sztártõzsdéjének
-Legfõbb Ügyészség
-Miniszterelnöki Hivatal
+OMD AkadÃ©mia
+RTL Klub SztÃ¡rtÅ‘zsdÃ©jÃ©nek
+LegfÅ‘bb ÃœgyÃ©szsÃ©g
+MiniszterelnÃ¶ki Hivatal
 Fidesz
 Happy End Kft.-vel
-Befektetõben
+BefektetÅ‘ben
 MTA
 Gestor Kft.
-Befektetõben
+BefektetÅ‘ben
 J.F.K Rt.
-Skála Metró
-NAPI Gazdaság
-Befektetõben
-Befektetõben
+SkÃ¡la MetrÃ³
+NAPI GazdasÃ¡g
+BefektetÅ‘ben
+BefektetÅ‘ben
 BudaEstate Kft.
-NAPI Gazdaság
-NAPI Gazdaságban
-Netsurvey Internetkutató Intézet
-Malév
+NAPI GazdasÃ¡g
+NAPI GazdasÃ¡gban
+Netsurvey InternetkutatÃ³ IntÃ©zet
+MalÃ©v
 Posta
-Antenna Hungária Rt.
-NAPI Gazdaságban
+Antenna HungÃ¡ria Rt.
+NAPI GazdasÃ¡gban
 Vodafone
-Legfelsõbb Bíróság
+LegfelsÅ‘bb BÃ­rÃ³sÃ¡g
 LB
-Országimázs Központ
+OrszÃ¡gimÃ¡zs KÃ¶zpont
 OK
 DAF
-DAF Hungary Kft.-tõl
-Volán Tefu Rt.
+DAF Hungary Kft.-tÅ‘l
+VolÃ¡n Tefu Rt.
 DAF
-Volán Tefu
-Volán Tefu
-NAPI Gazdaságnak
+VolÃ¡n Tefu
+VolÃ¡n Tefu
+NAPI GazdasÃ¡gnak
 DAF
-Elem és Akkumulátor Forgalmazók Egyesülése
-NAPI Gazdaságban
+Elem Ã©s AkkumulÃ¡tor ForgalmazÃ³k EgyesÃ¼lÃ©se
+NAPI GazdasÃ¡gban
 SBI Group
-Befektetõben
-Befektetõben
+BefektetÅ‘ben
+BefektetÅ‘ben
 ECE Kft.
-Befektetõben
-MÁV Rt.-tõl
-Befektetõben
-Befektetõben
+BefektetÅ‘ben
+MÃV Rt.-tÅ‘l
+BefektetÅ‘ben
+BefektetÅ‘ben
 Dimatrade Kft.
-Befektetõben
-ÁPV Rt.
-Matáv
+BefektetÅ‘ben
+ÃPV Rt.
+MatÃ¡v
 hwsw.hu
-Duna Televíziónak
+Duna TelevÃ­ziÃ³nak
 MTI
-Matávhoz
+MatÃ¡vhoz
 Vivendi telecom Hungary Rt
-Szalók Holding Kft.
-NAPI Gazdaságban
+SzalÃ³k Holding Kft.
+NAPI GazdasÃ¡gban
 Renault Truck Kft.
-Oktatási Minisztérium
-Allianz Hungária Biztosító Rt.
-"Év internetes biztosítója Magyarországon 2002.
+OktatÃ¡si MinisztÃ©rium
+Allianz HungÃ¡ria BiztosÃ­tÃ³ Rt.
+"Ã‰v internetes biztosÃ­tÃ³ja MagyarorszÃ¡gon 2002.
 index.hu Rt.
-Bankbiztosítási és Kockázatkezelési Szakoktató Intézet
-Hewlett-Packard Magyarország Kft.
-Befektetõben
+BankbiztosÃ­tÃ¡si Ã©s KockÃ¡zatkezelÃ©si SzakoktatÃ³ IntÃ©zet
+Hewlett-Packard MagyarorszÃ¡g Kft.
+BefektetÅ‘ben
 Fux Rt.
-Befektetõben
-Befektetõben
-BellResearch és Think Consulting
-Magyar Infokommunikációs Jelentés
-Netsurvey Internetkutató Intézet
+BefektetÅ‘ben
+BefektetÅ‘ben
+BellResearch Ã©s Think Consulting
+Magyar InfokommunikÃ¡ciÃ³s JelentÃ©s
+Netsurvey InternetkutatÃ³ IntÃ©zet
 MOM
-Befektetõben
-Népszabadság
+BefektetÅ‘ben
+NÃ©pszabadsÃ¡g
 tv2
-Interaktív Kft.
+InteraktÃ­v Kft.
 tv2
-Internet Szolgáltatók Tanácsának
+Internet SzolgÃ¡ltatÃ³k TanÃ¡csÃ¡nak
 Zebra Klub Kft.
-INTERPRÉSZ 2001 Bt.
+INTERPRÃ‰SZ 2001 Bt.
 D-209.hu
-Országgyûlés
-Trend2 Nagykereskedelmi Divatközpont
+OrszÃ¡ggyÅ±lÃ©s
+Trend2 Nagykereskedelmi DivatkÃ¶zpont
 Fashion Center Budapest Kft.
-Befektetõben
+BefektetÅ‘ben
 BAH
 AP Sundance Kft.
 HVB Bank Rt.
 PanTel
 Peugeot
 Auchan
-Vám és Pénzügyõrség Országos Parancsnoksága
+VÃ¡m Ã©s PÃ©nzÃ¼gyÅ‘rsÃ©g OrszÃ¡gos ParancsnoksÃ¡ga
 AGB Hungary
 MTV
-GfK Hungária
-NAPI Gazdaságban
-Paksi Atomerõmû PA Rt.
-Magyar Villamos Energia Rendszerirányító Rt.
-Magyar Televízió MTV Rt.
-NAPI Gazdaságban
-Netsurvey Internetkutató Intézet
+GfK HungÃ¡ria
+NAPI GazdasÃ¡gban
+Paksi AtomerÅ‘mÅ± PA Rt.
+Magyar Villamos Energia RendszerirÃ¡nyÃ­tÃ³ Rt.
+Magyar TelevÃ­ziÃ³ MTV Rt.
+NAPI GazdasÃ¡gban
+Netsurvey InternetkutatÃ³ IntÃ©zet
 Cereol
-Vénusz
+VÃ©nusz
 Analgetic Rt.
 VPOP
 VPOP
 Analgetic
-ÁPV Rt.
-Tokaj Kereskedõház Rt.-nek
-ÁPV
+ÃPV Rt.
+Tokaj KereskedÅ‘hÃ¡z Rt.-nek
+ÃPV
 Filmcsatorna
-Befektetõben
+BefektetÅ‘ben
 Magyar Energia Hivatal
 Hivatal
 Baromfi-Coop Kft.
 Master Food Kft.
 Magyar Nemzeti Bank
 MNB
-Autókernek
-Holcimtól
-Autókernek
-NAPI Gazdaságban
+AutÃ³kernek
+HolcimtÃ³l
+AutÃ³kernek
+NAPI GazdasÃ¡gban
 adMaster Network
-Magyar Televíziónak
-Magyar Hírlapnak
+Magyar TelevÃ­ziÃ³nak
+Magyar HÃ­rlapnak
 Transelektro Rt.
-Fõvárosi Bíróság
-Belügyminisztérium
+FÅ‘vÃ¡rosi BÃ­rÃ³sÃ¡g
+BelÃ¼gyminisztÃ©rium
 Corvin-Szigony
-Befektetõben
-Gazdasági és Közlekedési Minisztérium
-Nemzeti Autópálya Rt.
+BefektetÅ‘ben
+GazdasÃ¡gi Ã©s KÃ¶zlekedÃ©si MinisztÃ©rium
+Nemzeti AutÃ³pÃ¡lya Rt.
 NA
 M7
 M3
 M70-es
-Fõvárosi Bíróság
+FÅ‘vÃ¡rosi BÃ­rÃ³sÃ¡g
 Napi Online
-Fõvárosi Közgyûlés
+FÅ‘vÃ¡rosi KÃ¶zgyÅ±lÃ©s
 M7-es
 M3-as
-Magyar Sörgyártók Szövetségének
-Kürt Computer Rendszerház Rt.
-Kürt
-KÜRT-tõl
-Informatikai és Hírközlési Minisztérium
+Magyar SÃ¶rgyÃ¡rtÃ³k SzÃ¶vetsÃ©gÃ©nek
+KÃ¼rt Computer RendszerhÃ¡z Rt.
+KÃ¼rt
+KÃœRT-tÅ‘l
+Informatikai Ã©s HÃ­rkÃ¶zlÃ©si MinisztÃ©rium
 HdB
-Matáv
-Matáv RIO-ban
+MatÃ¡v
+MatÃ¡v RIO-ban
 Elender Rt.
 Casa Kft.
-Magyar Fejlesztési Bank MFB Rt.-n
-MFB Üzletrész-hasznosító Kft.
+Magyar FejlesztÃ©si Bank MFB Rt.-n
+MFB ÃœzletrÃ©sz-hasznosÃ­tÃ³ Kft.
 Casa Kft.
-NAPI Gazdaság
+NAPI GazdasÃ¡g
 Redilco
-ÁPV Rt.
-Napi Gazdaságban
-Magyarországi Gyógyszergyártók Országos Szövetségének
+ÃPV Rt.
+Napi GazdasÃ¡gban
+MagyarorszÃ¡gi GyÃ³gyszergyÃ¡rtÃ³k OrszÃ¡gos SzÃ¶vetsÃ©gÃ©nek
 Magyosz
 MTI-nek
-Fogyasztóvédelmi Felügyelõség
+FogyasztÃ³vÃ©delmi FelÃ¼gyelÅ‘sÃ©g
 Sziget
 Index
 Sziget
-Borsodi Sörgyár Rt.
+Borsodi SÃ¶rgyÃ¡r Rt.
 MTI-t
 KSH
 tv2
-Elsõ Európai Befektetési és Fejlesztési Rt.
-Napi Gazdaságban
-MarketCom Tanácsadó Kft.
-MarketCom Tanácsadó Kft.
-Magyar Marketing Szövetség
-Vas Megyei Kereskedelmi és Iparkamara
-Nemzeti Minõségi Díj
-Vas Megyei Minõségi Díjat
+ElsÅ‘ EurÃ³pai BefektetÃ©si Ã©s FejlesztÃ©si Rt.
+Napi GazdasÃ¡gban
+MarketCom TanÃ¡csadÃ³ Kft.
+MarketCom TanÃ¡csadÃ³ Kft.
+Magyar Marketing SzÃ¶vetsÃ©g
+Vas Megyei Kereskedelmi Ã©s Iparkamara
+Nemzeti MinÅ‘sÃ©gi DÃ­j
+Vas Megyei MinÅ‘sÃ©gi DÃ­jat
 GKI
 Wallis
 Penthouse
-NAPI Gazdaság
+NAPI GazdasÃ¡g
 Penthouse
-NAPI Gazdaságban
+NAPI GazdasÃ¡gban
 Dow Jones
 FTSE-100
 Vivendi
 TotalFinaElf
 CAC 40
 ATX
-Budapesti Értéktõzsde
+Budapesti Ã‰rtÃ©ktÅ‘zsde
 BUX
-Budapesti Árutõzsde
+Budapesti ÃrutÅ‘zsde
 MTI-ECO
-Európai Újjáépítési és Fejlesztési Bank
+EurÃ³pai ÃšjjÃ¡Ã©pÃ­tÃ©si Ã©s FejlesztÃ©si Bank
 EBRD
 EBRD
-Budapesti Értéktõzsde
+Budapesti Ã‰rtÃ©ktÅ‘zsde
 BUX
-Banktech 2001 Nemzetközi Banktechnikai Szakkiállítás és Konferenciát
+Banktech 2001 NemzetkÃ¶zi Banktechnikai SzakkiÃ¡llÃ­tÃ¡s Ã©s KonferenciÃ¡t
 MTI-t
-Nemzetközi Valutaalapnak
-Államadósság Kezelõ Központ
-ÁKK
-Budapesti Értéktõzsde
+NemzetkÃ¶zi Valutaalapnak
+ÃllamadÃ³ssÃ¡g KezelÅ‘ KÃ¶zpont
+ÃKK
+Budapesti Ã‰rtÃ©ktÅ‘zsde
 DAX-30
-Budapesti Értéktõzsde
+Budapesti Ã‰rtÃ©ktÅ‘zsde
 BUX
 FTSE-100-as
 MTI
-Budapesti Értéktõzsdén
+Budapesti Ã‰rtÃ©ktÅ‘zsdÃ©n
 FTSE-100-as
 FTSE-100
-Európai Újjáépítési és Fejlesztési Bank
+EurÃ³pai ÃšjjÃ¡Ã©pÃ­tÃ©si Ã©s FejlesztÃ©si Bank
 EBRD
-Európai Újjáépítési és Fejlesztési Bank
+EurÃ³pai ÃšjjÃ¡Ã©pÃ­tÃ©si Ã©s FejlesztÃ©si Bank
 EBRD
 IKB Deutsche Industriebank AG
-Budapesti Értéktõzsde
+Budapesti Ã‰rtÃ©ktÅ‘zsde
 BUX
-Budapesti Árutõzsde
+Budapesti ÃrutÅ‘zsde
 MTI-ECO
-Budapesti Értéktõzsde
+Budapesti Ã‰rtÃ©ktÅ‘zsde
 BUX
-Európai Újjáépítési és Fejlesztési Bank
+EurÃ³pai ÃšjjÃ¡Ã©pÃ­tÃ©si Ã©s FejlesztÃ©si Bank
 EBRD
 EBRD
-Budapesti Értéktõzsde
+Budapesti Ã‰rtÃ©ktÅ‘zsde
 Magyar Nemzeti Bank
 MNB
-Budapesti Értéktõzsde
+Budapesti Ã‰rtÃ©ktÅ‘zsde
 DAX-30
-Budapesti Értéktõzsde
+Budapesti Ã‰rtÃ©ktÅ‘zsde
 BUX
 MTI
 FTSE-100-as
 FTSE-100-as
 FTSE-100
-Európai Unióba
+EurÃ³pai UniÃ³ba
 EU
 AP
-Budapesti Értéktõzsde
+Budapesti Ã‰rtÃ©ktÅ‘zsde
 BUX
-Budapesti Értéktõzsde
+Budapesti Ã‰rtÃ©ktÅ‘zsde
 BUX
 BUX
-Budapesti Értéktõzsde
-Mezõgép
-Prímagáz
-Budapesti Árutõzsde
-Budapesti Értéktõzsde
+Budapesti Ã‰rtÃ©ktÅ‘zsde
+MezÅ‘gÃ©p
+PrÃ­magÃ¡z
+Budapesti ÃrutÅ‘zsde
+Budapesti Ã‰rtÃ©ktÅ‘zsde
 BUX
 Magyar Nemzeti Bank
 MNB
-Budapesti Értéktõzsde
+Budapesti Ã‰rtÃ©ktÅ‘zsde
 BUX
 APEH
 MTI
-Budapesti Árutõzsde
-Budapesti Értéktõzsde
+Budapesti ÃrutÅ‘zsde
+Budapesti Ã‰rtÃ©ktÅ‘zsde
 BUX
 Raiffeisen Bank
-Földhitel és Jelzálogbank Rt
+FÃ¶ldhitel Ã©s JelzÃ¡logbank Rt
 MTI-t
 GPW
 Euronext
-Budapesti Értéktõzsde
+Budapesti Ã‰rtÃ©ktÅ‘zsde
 BUX
 RTS
-Budapesti Értéktõzsde
+Budapesti Ã‰rtÃ©ktÅ‘zsde
 BUX
-Budapesti Értéktõzsde
+Budapesti Ã‰rtÃ©ktÅ‘zsde
 BUX
 MTI-ECO
-Budapesti Árutõzsde
-Budapesti Értéktõzsdérõl
-Csopak Szövetkezeti Rt.
-BÉT
+Budapesti ÃrutÅ‘zsde
+Budapesti Ã‰rtÃ©ktÅ‘zsdÃ©rÅ‘l
+Csopak SzÃ¶vetkezeti Rt.
+BÃ‰T
 MTI-hez
 FTSE-100
-Wall Streetrõl
-Államadósság Kezelõ Központ Rt.
-ÁKK
+Wall StreetrÅ‘l
+ÃllamadÃ³ssÃ¡g KezelÅ‘ KÃ¶zpont Rt.
+ÃKK
 CAC 40
 TotalFinaElf
 Vivendi Universal
@@ -7705,48 +7705,48 @@ Wall Street-en
 Nasdaq
 DJIA
 Nasdaq
-SÚP 500-as
+SÃšP 500-as
 Toshiba
 FTSE-100
 FTSE-100
 FTSE-100
-Borsod-Abaúj-Zemplén Megyei Területfejlesztési Tanács
-Budapesti Értéktõzsde
+Borsod-AbaÃºj-ZemplÃ©n Megyei TerÃ¼letfejlesztÃ©si TanÃ¡cs
+Budapesti Ã‰rtÃ©ktÅ‘zsde
 BUX
 DAX-30
 MTI
-Budapesti Értéktõzsde
+Budapesti Ã‰rtÃ©ktÅ‘zsde
 BUX
-Második Deviza Factory Rt.
+MÃ¡sodik Deviza Factory Rt.
 MDF
-Magyar Tõkepiacban
-Budapesti Értéktõzsde
+Magyar TÅ‘kepiacban
+Budapesti Ã‰rtÃ©ktÅ‘zsde
 BUX
 KLM
 BSE
 KLM
-Államadósság Kezelõ Központ
-ÁKK
-Magyar Tõkepiac
-Államadósság Kezelõ Központ Rt.
-ÁKK
-Budapesti Értéktõzsde
+ÃllamadÃ³ssÃ¡g KezelÅ‘ KÃ¶zpont
+ÃKK
+Magyar TÅ‘kepiac
+ÃllamadÃ³ssÃ¡g KezelÅ‘ KÃ¶zpont Rt.
+ÃKK
+Budapesti Ã‰rtÃ©ktÅ‘zsde
 BUX
-Budapesti Értéktõzsde
-BÉT
+Budapesti Ã‰rtÃ©ktÅ‘zsde
+BÃ‰T
 Phylaxia Pharma Rt.
-BÉT
+BÃ‰T
 MTI-t
 Intercontinental Exchange
 ICE
 Eurostat
-Budapesti Értéktõzsde
+Budapesti Ã‰rtÃ©ktÅ‘zsde
 BUX
-Budapesti Árutõzsde
-Nemzetközi Valutaalap
+Budapesti ÃrutÅ‘zsde
+NemzetkÃ¶zi Valutaalap
 IMF
 AP
-Budapesti Értéktõzsde
+Budapesti Ã‰rtÃ©ktÅ‘zsde
 BUX
 MTI-ECO
 BUX
@@ -7754,13 +7754,13 @@ MTI
 Wall Street
 Fed
 Fed
-Nyíltpiaci Bizottságának
+NyÃ­ltpiaci BizottsÃ¡gÃ¡nak
 FOMC
 DAX-30
 Fed
-Nyíltpiaci Bizottságának
+NyÃ­ltpiaci BizottsÃ¡gÃ¡nak
 Fed
-Nyíltpiaci Bizottságának
+NyÃ­ltpiaci BizottsÃ¡gÃ¡nak
 Fed
 FTSE-100
 FTSE-100
@@ -7771,97 +7771,97 @@ FTSE-100
 FTSE-100
 Wall Street
 DAX-30
-Budapesti Értéktõzsde
+Budapesti Ã‰rtÃ©ktÅ‘zsde
 BUX
-Budapesti Értéktõzsde
+Budapesti Ã‰rtÃ©ktÅ‘zsde
 BUX
-Államadósság Kezelõ Központ Rt.
-ÁKK
-Budapesti Értéktõzsde
+ÃllamadÃ³ssÃ¡g KezelÅ‘ KÃ¶zpont Rt.
+ÃKK
+Budapesti Ã‰rtÃ©ktÅ‘zsde
 BUX
-APEH Fõvárosi és Pest Megyei Kiemelt Igazgatóságán
+APEH FÅ‘vÃ¡rosi Ã©s Pest Megyei Kiemelt IgazgatÃ³sÃ¡gÃ¡n
 APEH
-Gyõr-Moson-Sopron Megyei Igazgatóságának
+GyÅ‘r-Moson-Sopron Megyei IgazgatÃ³sÃ¡gÃ¡nak
 SAP
 Lengyel Nemzeti Bank
-Budapesti Értéktõzsde
+Budapesti Ã‰rtÃ©ktÅ‘zsde
 BUX
-Budapesti Értéktõzsde
+Budapesti Ã‰rtÃ©ktÅ‘zsde
 BUX
 MTI-ECO
 FTSE-100
-Budapesti Árutõzsde
-Világbank
+Budapesti ÃrutÅ‘zsde
+VilÃ¡gbank
 Lengyel Nemzeti Bank
-Budapesti Értéktõzsdén
+Budapesti Ã‰rtÃ©ktÅ‘zsdÃ©n
 MTI
-Budapesti Árutõzsde
+Budapesti ÃrutÅ‘zsde
 DJIA
 Fed
 Nasdaq
-Fed Nyíltpiaci Bizottsága
+Fed NyÃ­ltpiaci BizottsÃ¡ga
 Fed
 Fed
-Budapesti Értéktõzsde
+Budapesti Ã‰rtÃ©ktÅ‘zsde
 BUX
 DJIA
 Fed
 Nasdaq
-Budapesti Értéktõzsde
-BÉT
+Budapesti Ã‰rtÃ©ktÅ‘zsde
+BÃ‰T
 FTSE-100
 FTSE-100
 FTSE-100
 DAX-30
-Budapesti Értéktõzsdén
+Budapesti Ã‰rtÃ©ktÅ‘zsdÃ©n
 MTI
-Budapesti Értéktõzsde
+Budapesti Ã‰rtÃ©ktÅ‘zsde
 BUX
 MTI-ECO
-Budapesti Értéktõzsde
+Budapesti Ã‰rtÃ©ktÅ‘zsde
 BUX
 Magyar Nemzeti Bank
 MTI-nek
-Budapesti Értéktõzsde
+Budapesti Ã‰rtÃ©ktÅ‘zsde
 BUX
-Budapesti Értéktõzsde
-BÉT
-BÉT
+Budapesti Ã‰rtÃ©ktÅ‘zsde
+BÃ‰T
+BÃ‰T
 MTI-t
-Államadósság Kezelõ Központ Rt.
-ÁKK
-OTP Jelzálogbankja
+ÃllamadÃ³ssÃ¡g KezelÅ‘ KÃ¶zpont Rt.
+ÃKK
+OTP JelzÃ¡logbankja
 MTI-t
-OTP Jelzálogbank
-Budapesti Értéktõzsde
+OTP JelzÃ¡logbank
+Budapesti Ã‰rtÃ©ktÅ‘zsde
 MTI-nek
-Budapesti Értéktõzsde
-BÉT
+Budapesti Ã‰rtÃ©ktÅ‘zsde
+BÃ‰T
 MMTS
 QQQ
 Nasdaq
-BÉT
+BÃ‰T
 MTI-t
-Budapesti Értéktõzsde
+Budapesti Ã‰rtÃ©ktÅ‘zsde
 BUX
-Budapesti Értéktõzsde
+Budapesti Ã‰rtÃ©ktÅ‘zsde
 BUX
-Budapesti Értéktõzsde
+Budapesti Ã‰rtÃ©ktÅ‘zsde
 BUX
-Alkotmánybírósági beadványát
-Magyar Adótanácsadók és Könyvviteli Szolgáltatók Egyesülete
+AlkotmÃ¡nybÃ­rÃ³sÃ¡gi beadvÃ¡nyÃ¡t
+Magyar AdÃ³tanÃ¡csadÃ³k Ã©s KÃ¶nyvviteli SzolgÃ¡ltatÃ³k EgyesÃ¼lete
 MTI-t
 Magyar Nemzeti Bank
 MNB
 MNB
 MTI-t
-Budapesti Értéktõzsde
+Budapesti Ã‰rtÃ©ktÅ‘zsde
 BUX
-Budapesti Értéktõzsde
+Budapesti Ã‰rtÃ©ktÅ‘zsde
 BUX
-Budapesti Értéktõzsde
+Budapesti Ã‰rtÃ©ktÅ‘zsde
 BUX
-Budapesti Árutõzsde
+Budapesti ÃrutÅ‘zsde
 MTI-ECO
 AstraZeneca
 Fed
@@ -7869,47 +7869,47 @@ FTSE-100
 FTSE-100
 FTSE-100
 DAX-30
-Budapesti Értéktõzsde
+Budapesti Ã‰rtÃ©ktÅ‘zsde
 BUX
-Budapesti Értéktõzsde
+Budapesti Ã‰rtÃ©ktÅ‘zsde
 BUX
 DAX-30
-Budapesti Értéktõzsde
+Budapesti Ã‰rtÃ©ktÅ‘zsde
 BUX
-Budapesti Értéktõzsde
+Budapesti Ã‰rtÃ©ktÅ‘zsde
 BUX
-Európai Újjáépítési és Fejlesztési Bank
+EurÃ³pai ÃšjjÃ¡Ã©pÃ­tÃ©si Ã©s FejlesztÃ©si Bank
 EBRD
-Budapesti Értéktõzsde
+Budapesti Ã‰rtÃ©ktÅ‘zsde
 BUX
-Budapesti Árutõzsde
+Budapesti ÃrutÅ‘zsde
 Microsoft
 Sun Microsystems
-Európai Unió
-Budapesti Értéktõzsde
+EurÃ³pai UniÃ³
+Budapesti Ã‰rtÃ©ktÅ‘zsde
 BUX
 Magyar Nemzeti Bank
-Budapesti Értéktõzsde
+Budapesti Ã‰rtÃ©ktÅ‘zsde
 BUX
-Budapesti Árutõzsde
-Nemzetközi Olajtõzsde
+Budapesti ÃrutÅ‘zsde
+NemzetkÃ¶zi OlajtÅ‘zsde
 IPE
 Intercontinental Exchange
 ICE
 IPE-re
 Reutersszel
 MTI-ECO
-Budapesti Értéktõzsde
+Budapesti Ã‰rtÃ©ktÅ‘zsde
 BUX
 TVK Rt.
 MTI-t
-Budapesti Értéktõzsde
-Budapesti Értéktõzsde
+Budapesti Ã‰rtÃ©ktÅ‘zsde
+Budapesti Ã‰rtÃ©ktÅ‘zsde
 Wall Street
 TDK
-Budapesti Értéktõzsde
+Budapesti Ã‰rtÃ©ktÅ‘zsde
 BUX
-Budapesti Értéktõzsdén
+Budapesti Ã‰rtÃ©ktÅ‘zsdÃ©n
 MTI
 DAX-30
 FTSE-100-as
@@ -7922,59 +7922,59 @@ SAP
 Reuters
 DAX
 ATX
-Budapesti Értéktõzsde
+Budapesti Ã‰rtÃ©ktÅ‘zsde
 BUX
-Budapesti Árutõzsde
+Budapesti ÃrutÅ‘zsde
 Dresdner Kleinwort Wasserstein
 MTI-ECO
-Európai Újjáépítési és Fejlesztési Bank
+EurÃ³pai ÃšjjÃ¡Ã©pÃ­tÃ©si Ã©s FejlesztÃ©si Bank
 EBRD
-Államadósság Kezelõ Központ
-ÁKK
-Budapesti Értéktõzsde
-Alkotmánybíróság
+ÃllamadÃ³ssÃ¡g KezelÅ‘ KÃ¶zpont
+ÃKK
+Budapesti Ã‰rtÃ©ktÅ‘zsde
+AlkotmÃ¡nybÃ­rÃ³sÃ¡g
 FTSE-100-as
 DAX-30
-Budapesti Értéktõzsde
+Budapesti Ã‰rtÃ©ktÅ‘zsde
 BUX
-Budapesti Értéktõzsdén
+Budapesti Ã‰rtÃ©ktÅ‘zsdÃ©n
 MTI
 FTSE-100-as
 FTSE-100
-Kékkúti Ásványvíz Rt.
-Budapesti Értéktõzsde
-BÉT
-Magyar Tõkepiac
+KÃ©kkÃºti ÃsvÃ¡nyvÃ­z Rt.
+Budapesti Ã‰rtÃ©ktÅ‘zsde
+BÃ‰T
+Magyar TÅ‘kepiac
 DJIA
 Nasdaq Composite
 Fed
 Fed
 Wall Street
 Fed
-Budapesti Értéktõzsde
+Budapesti Ã‰rtÃ©ktÅ‘zsde
 BUX
-Budapesti Árutõzsde
+Budapesti ÃrutÅ‘zsde
 MTI-ECO
-Budapesti Értéktõzsde
+Budapesti Ã‰rtÃ©ktÅ‘zsde
 BUX
-Budapesti Értéktõzsde
+Budapesti Ã‰rtÃ©ktÅ‘zsde
 Magyar Nemzeti Bank
 MTI-t
-Budapesti Értéktõzsde
+Budapesti Ã‰rtÃ©ktÅ‘zsde
 CESI
-Matáv
+MatÃ¡v
 Mol
 OTP
 Richter
 Egis
-Budapesti Értéktõzsde
-Magyar Tõkepiacban
+Budapesti Ã‰rtÃ©ktÅ‘zsde
+Magyar TÅ‘kepiacban
 MTI-vel
 Magyar Nemzeti Bank
 MTI-t
 FTSE-100-as
 DAX-30
-Budapesti Értéktõzsde
+Budapesti Ã‰rtÃ©ktÅ‘zsde
 BUX
 MTI
 FTSE-100-as
@@ -7982,30 +7982,30 @@ FTSE-100
 DJIA
 Nasdaq Composite
 Cisco Systems
-Budapesti Értéktõzsde
+Budapesti Ã‰rtÃ©ktÅ‘zsde
 BUX
-APEH Üldözötteinek Szövetsége
-Budapesti Árutõzsde
+APEH ÃœldÃ¶zÃ¶tteinek SzÃ¶vetsÃ©ge
+Budapesti ÃrutÅ‘zsde
 MTI-ECO
 The Times
 Intercontinental Exchange
 ICE
-Nemzetközi Olajtõzsde
+NemzetkÃ¶zi OlajtÅ‘zsde
 IPE
 IPE-re
-Budapesti Értéktõzsde
+Budapesti Ã‰rtÃ©ktÅ‘zsde
 BUX
 MTI-t
-Államadósság Kezelõ Központ
-ÁKK
+ÃllamadÃ³ssÃ¡g KezelÅ‘ KÃ¶zpont
+ÃKK
 Magyar Nemzeti Bank
 MNB
 MTI-t
-Budapesti Értéktõzsde
-Budapesti Értéktõzsde
+Budapesti Ã‰rtÃ©ktÅ‘zsde
+Budapesti Ã‰rtÃ©ktÅ‘zsde
 BUX
 DAX-30
-Budapesti Értéktõzsdén
+Budapesti Ã‰rtÃ©ktÅ‘zsdÃ©n
 MTI
 Nikkei
 Magyar Nemzeti Bank
@@ -8014,97 +8014,97 @@ Nasdaq
 Composite Indexe
 DJIA
 RTS
-Budapesti Értéktõzsde
+Budapesti Ã‰rtÃ©ktÅ‘zsde
 BUX
-Budapesti Árutõzsde
+Budapesti ÃrutÅ‘zsde
 MTI
-Adó és Pénzügyi Ellenõrzési Hivataltól
+AdÃ³ Ã©s PÃ©nzÃ¼gyi EllenÅ‘rzÃ©si HivataltÃ³l
 RTS
-Budapesti Értéktõzsde
+Budapesti Ã‰rtÃ©ktÅ‘zsde
 BUX
 Magyar Nemzeti Bank
 MNB
-Budapesti Árutõzsde
+Budapesti ÃrutÅ‘zsde
 MTI-ECO
-Budapesti Értéktõzsde
+Budapesti Ã‰rtÃ©ktÅ‘zsde
 BUX
-Budapesti Értéktõzsde
+Budapesti Ã‰rtÃ©ktÅ‘zsde
 BUX
 Nikkei225
-Budapesti Értéktõzsde
+Budapesti Ã‰rtÃ©ktÅ‘zsde
 BUX
-Budapesti Értéktõzsdén
+Budapesti Ã‰rtÃ©ktÅ‘zsdÃ©n
 MTI
-Nikkei 225-ös
-Európai Újjáépítési és Fejlesztési Bank
+Nikkei 225-Ã¶s
+EurÃ³pai ÃšjjÃ¡Ã©pÃ­tÃ©si Ã©s FejlesztÃ©si Bank
 EBRD
 EBRD
-Pénzügyminisztérium
-Budapesti Értéktõzsde
+PÃ©nzÃ¼gyminisztÃ©rium
+Budapesti Ã‰rtÃ©ktÅ‘zsde
 BUX
-Budapesti Árutõzsde
+Budapesti ÃrutÅ‘zsde
 MTI-ECO
-Budapesti Értéktõzsde
+Budapesti Ã‰rtÃ©ktÅ‘zsde
 BUX
-Pénzügyminisztérium
-Államadósság Kezelõ Központ
-ÁKK
-Budapesti Értéktõzsde
+PÃ©nzÃ¼gyminisztÃ©rium
+ÃllamadÃ³ssÃ¡g KezelÅ‘ KÃ¶zpont
+ÃKK
+Budapesti Ã‰rtÃ©ktÅ‘zsde
 BUX
 Nikkei 225
-Budapesti Értéktõzsde
+Budapesti Ã‰rtÃ©ktÅ‘zsde
 BUX
 DJIA
 Nasdaq
-Európai Központi Bank
+EurÃ³pai KÃ¶zponti Bank
 EKB
 Wall Street
 Reuters
-Budapesti Árutõzsde
-Budapesti Értéktõzsde
+Budapesti ÃrutÅ‘zsde
+Budapesti Ã‰rtÃ©ktÅ‘zsde
 BUX
-Európai Újjáépítési és Fejlesztési Bank
+EurÃ³pai ÃšjjÃ¡Ã©pÃ­tÃ©si Ã©s FejlesztÃ©si Bank
 EBRD
 MTI-ECO
-Európai Központi Bank
+EurÃ³pai KÃ¶zponti Bank
 EKB
-Pénzügyminisztérium
+PÃ©nzÃ¼gyminisztÃ©rium
 PM
 MTI-nek
-Államadósság Kezelõ Központ
-ÁKK
-Budapesti Értéktõzsde
+ÃllamadÃ³ssÃ¡g KezelÅ‘ KÃ¶zpont
+ÃKK
+Budapesti Ã‰rtÃ©ktÅ‘zsde
 BUX
-Európai Unió
+EurÃ³pai UniÃ³
 Magyar Nemzeti Bank
-Világbank
+VilÃ¡gbank
 IFC-nek
-Budapesti Értéktõzsde
+Budapesti Ã‰rtÃ©ktÅ‘zsde
 BUX
-Budapesti Értéktõzsde
-BÉT
-Wintrust Értékpapír Ügynökség Rt.
-BÉT
-Magyar Tõkepiacban
-Budapesti Értéktõzsde
+Budapesti Ã‰rtÃ©ktÅ‘zsde
+BÃ‰T
+Wintrust Ã‰rtÃ©kpapÃ­r ÃœgynÃ¶ksÃ©g Rt.
+BÃ‰T
+Magyar TÅ‘kepiacban
+Budapesti Ã‰rtÃ©ktÅ‘zsde
 BUX
 MTI
 DJIA
 DJIA
 DJIA
-Budapesti Értéktõzsde
+Budapesti Ã‰rtÃ©ktÅ‘zsde
 BUX
-Budapesti Értéktõzsde
+Budapesti Ã‰rtÃ©ktÅ‘zsde
 BUX
-Budapesti Árutõzsde
+Budapesti ÃrutÅ‘zsde
 MTI-ECO
 IMF
-Világbank
-Budapesti Értéktõzsde
-Államadósság Kezelõ Központ
-ÁKK
-Budapesti Értéktõzsde
-Budapesti Értéktõzsde
+VilÃ¡gbank
+Budapesti Ã‰rtÃ©ktÅ‘zsde
+ÃllamadÃ³ssÃ¡g KezelÅ‘ KÃ¶zpont
+ÃKK
+Budapesti Ã‰rtÃ©ktÅ‘zsde
+Budapesti Ã‰rtÃ©ktÅ‘zsde
 BUX
 MTI
 Wall Street
@@ -8113,154 +8113,154 @@ LIFFE
 Wall Street
 Wall Street
 Dow Jones
-Európai Központi Bank
+EurÃ³pai KÃ¶zponti Bank
 EKB
-Európai Újjáépítési és Fejlesztési Bank
+EurÃ³pai ÃšjjÃ¡Ã©pÃ­tÃ©si Ã©s FejlesztÃ©si Bank
 EBRD
 EBRD
-Budapesti Értéktõzsde
+Budapesti Ã‰rtÃ©ktÅ‘zsde
 BUX
-Magyar Külkereskedelmi Bank
+Magyar KÃ¼lkereskedelmi Bank
 MKB
 MTI-t
 NYSE
 Nasdaq
-Budapesti Árutõzsde
-Budapesti Értéktõzsdének
-BÉT
+Budapesti ÃrutÅ‘zsde
+Budapesti Ã‰rtÃ©ktÅ‘zsdÃ©nek
+BÃ‰T
 Dow Jones
-Budapesti Értéktõzsde
+Budapesti Ã‰rtÃ©ktÅ‘zsde
 Magyar Nemzeti Bank
 MNB
-Budapesti Értéktõzsde
-Gazdasági Tanács
-Budapesti Értéktõzsde
+Budapesti Ã‰rtÃ©ktÅ‘zsde
+GazdasÃ¡gi TanÃ¡cs
+Budapesti Ã‰rtÃ©ktÅ‘zsde
 BUX
-Budapesti Értéktõzsdén
+Budapesti Ã‰rtÃ©ktÅ‘zsdÃ©n
 MTI
 Wall Street
 FTSE-100
 Wall Street
 ITAR-TASZSZ
 Fed
-Budapesti Árutõzsde
-Budapesti Értéktõzsde
+Budapesti ÃrutÅ‘zsde
+Budapesti Ã‰rtÃ©ktÅ‘zsde
 BUX
 DJIA
 Nasdaq
 Wall Street
 Credit Suisse First Boston
-Budapesti Értéktõzsde
+Budapesti Ã‰rtÃ©ktÅ‘zsde
 BUX
 Readingi Egyetem
 MTI
-Budapesti Árutõzsde
-BÁT
+Budapesti ÃrutÅ‘zsde
+BÃT
 MTI-ECO-nak
 Kopint-Datorg Rt.
 Magyar Nemzeti Bank
-Budapesti Értéktõzsde
-Budapesti Értéktõzsde
-Budapesti Értéktõzsde
+Budapesti Ã‰rtÃ©ktÅ‘zsde
+Budapesti Ã‰rtÃ©ktÅ‘zsde
+Budapesti Ã‰rtÃ©ktÅ‘zsde
 BUX
 MTI
 FTSE-100
-Budapesti árutõzsde
-Budapesti Értéktõzsde
+Budapesti Ã¡rutÅ‘zsde
+Budapesti Ã‰rtÃ©ktÅ‘zsde
 BUX
 MTI-ECO-t
-Budapesti Értéktõzsde
+Budapesti Ã‰rtÃ©ktÅ‘zsde
 Dell
-Budapesti Értéktõzsde
+Budapesti Ã‰rtÃ©ktÅ‘zsde
 BUX
 Magyar Nemzeti Bank
 MTI-t
 Magyar Nemzeti Bank
 MNB
 MTI-vel
-Államadósság Kezelõ Központ
-ÁKK
-Horvát Nemzeti Bank
-Budapesti Értéktõzsde BÉT Titkárságának
-HB Westminster Befektetési és Vagyonkezelõ Rt.
-BÉT
+ÃllamadÃ³ssÃ¡g KezelÅ‘ KÃ¶zpont
+ÃKK
+HorvÃ¡t Nemzeti Bank
+Budapesti Ã‰rtÃ©ktÅ‘zsde BÃ‰T TitkÃ¡rsÃ¡gÃ¡nak
+HB Westminster BefektetÃ©si Ã©s VagyonkezelÅ‘ Rt.
+BÃ‰T
 MTI-vel
-Budapesti Értéktõzsde
-BÉT
-HB Westminster Befektetési és Vagyonkezelõ Rt.
-BÉT
+Budapesti Ã‰rtÃ©ktÅ‘zsde
+BÃ‰T
+HB Westminster BefektetÃ©si Ã©s VagyonkezelÅ‘ Rt.
+BÃ‰T
 MTI-t
-Budapesti Értéktõzsde
+Budapesti Ã‰rtÃ©ktÅ‘zsde
 BUX
 Wall Street
-Budapesti Értéktõzsde
+Budapesti Ã‰rtÃ©ktÅ‘zsde
 BUX
-Budapesti Értéktõzsdén
+Budapesti Ã‰rtÃ©ktÅ‘zsdÃ©n
 MTI
 FTSE-100
 SAP
 Deutsche Telekom
 DJIA
 Nasdaq
-Budapesti Árutõzsde
-Budapesti Értéktõzsde
+Budapesti ÃrutÅ‘zsde
+Budapesti Ã‰rtÃ©ktÅ‘zsde
 BUX
 MTI-t
-Adó és Pénzügyi Ellenõrzési Hivatal
+AdÃ³ Ã©s PÃ©nzÃ¼gyi EllenÅ‘rzÃ©si Hivatal
 APEH
-Európai Bizottság
+EurÃ³pai BizottsÃ¡g
 MTI-ECO-nak
-Államadósság Kezelõ Központ
-ÁKK
-ÁKK
+ÃllamadÃ³ssÃ¡g KezelÅ‘ KÃ¶zpont
+ÃKK
+ÃKK
 IMF
-Világbank
-Budapesti Értéktõzsde
+VilÃ¡gbank
+Budapesti Ã‰rtÃ©ktÅ‘zsde
 BUX
-Párizsi Klubjának
-Budapesti Értéktõzsde
+PÃ¡rizsi KlubjÃ¡nak
+Budapesti Ã‰rtÃ©ktÅ‘zsde
 BUX
-Budapesti Értéktõzsde
+Budapesti Ã‰rtÃ©ktÅ‘zsde
 BUX
-Budapesti Értéktõzsdén
+Budapesti Ã‰rtÃ©ktÅ‘zsdÃ©n
 MTI
 Wall Street
 FTSE-100
-Budapesti Értéktõzsde
-BÉT
-BÉT
+Budapesti Ã‰rtÃ©ktÅ‘zsde
+BÃ‰T
+BÃ‰T
 MTI-hez
 Nasdaq
 DJIA
 Nasdaq
 DJIA
-Budapesti Értéktõzsde
+Budapesti Ã‰rtÃ©ktÅ‘zsde
 BUX
-Pénzügyminisztérium
+PÃ©nzÃ¼gyminisztÃ©rium
 MTI-nek
 MTI-Eco
-Budapesti Árutõzsde
-Budapesti Értéktõzsde
+Budapesti ÃrutÅ‘zsde
+Budapesti Ã‰rtÃ©ktÅ‘zsde
 BUX
-Budapesti Értéktõzsde
+Budapesti Ã‰rtÃ©ktÅ‘zsde
 BUX
-Államadósság Kezelõ Központ
-ÁKK
+ÃllamadÃ³ssÃ¡g KezelÅ‘ KÃ¶zpont
+ÃKK
 ABN Amro
-Budapesti Értéktõzsde
-BÉT
-Magyar Tõkepiac
+Budapesti Ã‰rtÃ©ktÅ‘zsde
+BÃ‰T
+Magyar TÅ‘kepiac
 Magyar Nemzeti Bank
 MTI-t
 MTI
-Budapesti Értéktõzsde
+Budapesti Ã‰rtÃ©ktÅ‘zsde
 BUX
-Budapesti Értéktõzsde
-BÉT
-BÉT
-Budapesti Értéktõzsde
+Budapesti Ã‰rtÃ©ktÅ‘zsde
+BÃ‰T
+BÃ‰T
+Budapesti Ã‰rtÃ©ktÅ‘zsde
 BUX
-Budapesti Értéktõzsdén
+Budapesti Ã‰rtÃ©ktÅ‘zsdÃ©n
 MTI
 FTSE-100
 Nikkei
@@ -8273,27 +8273,27 @@ Merrill Lynch
 Dow Jones
 DJIA
 Nasdaq
-Budapesti Értéktõzsde
+Budapesti Ã‰rtÃ©ktÅ‘zsde
 BUX
-Budapesti Árutõzsde
+Budapesti ÃrutÅ‘zsde
 MTI-ECO
 Magyar Nemzeti Bank
 MNB
 Magyar Nemzeti Bank
 MTI-t
-Kárpótlási Jegytulajdonosok Érdekvédelmi Egyesületének
-Pénzügyminisztériumban
+KÃ¡rpÃ³tlÃ¡si Jegytulajdonosok Ã‰rdekvÃ©delmi EgyesÃ¼letÃ©nek
+PÃ©nzÃ¼gyminisztÃ©riumban
 MTI-nek
-Budapesti Értéktõzsde
+Budapesti Ã‰rtÃ©ktÅ‘zsde
 BUX
-Budapesti Árutõzsde
-Legfelsõ Bíróság
-Budapesti Értéktõzsde
+Budapesti ÃrutÅ‘zsde
+LegfelsÅ‘ BÃ­rÃ³sÃ¡g
+Budapesti Ã‰rtÃ©ktÅ‘zsde
 BUX
-MNB Monetáris Tanácsa
+MNB MonetÃ¡ris TanÃ¡csa
 Reuters
 MTI-Eco
-Budapesti Értéktõzsde
+Budapesti Ã‰rtÃ©ktÅ‘zsde
 BUX
 ATX
 Deutsche Telekom
@@ -8301,10 +8301,10 @@ DAX
 Wall Street
 General Electric-et
 Citigroup
-Budapesti Értéktõzsde
+Budapesti Ã‰rtÃ©ktÅ‘zsde
 BUX
-Budapesti Árutõzsde
-Világgazdasági Fórum
+Budapesti ÃrutÅ‘zsde
+VilÃ¡ggazdasÃ¡gi FÃ³rum
 Magyar Nemzeti Bank
 FTSE-100
 FTSE-100
@@ -8312,54 +8312,54 @@ Richter
 MTI
 FTSE-100
 DAX-30
-Budapesti Értéktõzsde
+Budapesti Ã‰rtÃ©ktÅ‘zsde
 BUX
-Magyar Nemzeti Banknál
+Magyar Nemzeti BanknÃ¡l
 Magyar Nemzeti Bank
-Budapesti Értéktõzsde
+Budapesti Ã‰rtÃ©ktÅ‘zsde
 BUX
 Magyar Nemzeti Bank
 MTI-t
 MTI
-Budapesti Értéktõzsde
-Budapesti Értéktõzsde
+Budapesti Ã‰rtÃ©ktÅ‘zsde
+Budapesti Ã‰rtÃ©ktÅ‘zsde
 Magyar Nemzeti Bank
 MNB
-Budapesti Értéktõzsde
+Budapesti Ã‰rtÃ©ktÅ‘zsde
 BUX
 DJIA
 Nasdaq
-Európai Bankárszövetség
+EurÃ³pai BankÃ¡rszÃ¶vetsÃ©g
 FBE
 EU
 EMU
 Wall Street
-Monetáris Tanács
+MonetÃ¡ris TanÃ¡cs
 MTI-ECO
-Budapesti Árutõzsde
-Budapesti Értéktõzsde
+Budapesti ÃrutÅ‘zsde
+Budapesti Ã‰rtÃ©ktÅ‘zsde
 BUX
-Budapesti Értéktõzsde
+Budapesti Ã‰rtÃ©ktÅ‘zsde
 BUX
-Budapesti Értéktõzsde
+Budapesti Ã‰rtÃ©ktÅ‘zsde
 BUX
 MNB
 MTI-ECO
-Budapesti Értéktõzsde
+Budapesti Ã‰rtÃ©ktÅ‘zsde
 BUX
-Budapesti Árutõzsde
-Államadósság Kezelõ Központ Rt.
-ÁKK
-Budapesti Értéktõzsde
-BÉT
-Eravis Ingatlanforgalmazó Rt.
-BÉT
+Budapesti ÃrutÅ‘zsde
+ÃllamadÃ³ssÃ¡g KezelÅ‘ KÃ¶zpont Rt.
+ÃKK
+Budapesti Ã‰rtÃ©ktÅ‘zsde
+BÃ‰T
+Eravis IngatlanforgalmazÃ³ Rt.
+BÃ‰T
 Lengyel Nemzeti Bank
-Európai Unió
-Budapesti Értéktõzsde
+EurÃ³pai UniÃ³
+Budapesti Ã‰rtÃ©ktÅ‘zsde
 BUX
 TVN
-Budapesti Értéktõzsde
+Budapesti Ã‰rtÃ©ktÅ‘zsde
 BUX
 MTI
 Wall Street
@@ -8378,13 +8378,13 @@ BMC
 Wall Street
 Nasdaq
 RTS
-Magyar Nemzeti Banktól
-Magyar Fejlesztési Bankhoz
+Magyar Nemzeti BanktÃ³l
+Magyar FejlesztÃ©si Bankhoz
 MNB
-Budapesti Értéktõzsde
+Budapesti Ã‰rtÃ©ktÅ‘zsde
 BUX
 APEH
-Budapesti Értéktõzsde
+Budapesti Ã‰rtÃ©ktÅ‘zsde
 BUX
 Magyar Nemzeti Bank
 MNB
@@ -8392,94 +8392,94 @@ DAX-30
 FTSE-100
 MTI
 FTSE-100
-Országgyûlés
-Nemzetközi Valutaalap
+OrszÃ¡ggyÅ±lÃ©s
+NemzetkÃ¶zi Valutaalap
 IMF
 Wall Street
 Vivendi Universal
-Budapesti Értéktõzsde
+Budapesti Ã‰rtÃ©ktÅ‘zsde
 BUX
 Magyar Nemzeti Bank
 MNB
 MNB
-Monetáris Tanács
+MonetÃ¡ris TanÃ¡cs
 MTI-ECO
-Budapesti Értéktõzsde
+Budapesti Ã‰rtÃ©ktÅ‘zsde
 BUX
-Budapesti Árutõzsde
+Budapesti ÃrutÅ‘zsde
 MNB
 Magyar Nemzeti Bank
 MTI-nek
-Budapesti Árutõzsde
-Európai Unió
+Budapesti ÃrutÅ‘zsde
+EurÃ³pai UniÃ³
 MTI-nek
-Közép-Európai Blue Chip Index
+KÃ¶zÃ©p-EurÃ³pai Blue Chip Index
 CETOP20
-Budapesti Értéktõzsde
-Európai Unió
+Budapesti Ã‰rtÃ©ktÅ‘zsde
+EurÃ³pai UniÃ³
 OECD
 EBRD
-Európai Központi Bank
+EurÃ³pai KÃ¶zponti Bank
 EKB
 EKB
 MTI-Eco
-Budapesti Értéktõzsde
+Budapesti Ã‰rtÃ©ktÅ‘zsde
 BUX
-Budapesti Árutõzsde
-Budapesti Értéktõzsde
+Budapesti ÃrutÅ‘zsde
+Budapesti Ã‰rtÃ©ktÅ‘zsde
 MTI
-Budapesti Értéktõzsde
+Budapesti Ã‰rtÃ©ktÅ‘zsde
 BUX
-Budapesti Árutõzsde
-Lengyel Parasztpárt
-Munka Uniója
-Lengyel Nemzeti Bankról
-Budapesti Értéktõzsde
+Budapesti ÃrutÅ‘zsde
+Lengyel ParasztpÃ¡rt
+Munka UniÃ³ja
+Lengyel Nemzeti BankrÃ³l
+Budapesti Ã‰rtÃ©ktÅ‘zsde
 BUX
 Dow Jones
 Fed
-Budapesti Értéktõzsde
+Budapesti Ã‰rtÃ©ktÅ‘zsde
 BUX
-Budapesti Értéktõzsde
+Budapesti Ã‰rtÃ©ktÅ‘zsde
 BUX
 RTS
-Budapesti Értéktõzsde
+Budapesti Ã‰rtÃ©ktÅ‘zsde
 BUX
-Budapesti Értéktõzsde
+Budapesti Ã‰rtÃ©ktÅ‘zsde
 BUX
 DJIA
 Nasdaq
 DJIA
 Nasdaq
-Budapesti Értéktõzsde
+Budapesti Ã‰rtÃ©ktÅ‘zsde
 BUX
-Budapesti Értéktõzsde
+Budapesti Ã‰rtÃ©ktÅ‘zsde
 Nasdaq
 FTSE-100
 Cesky Telecom
 PX-50-es
-Budapesti Értéktõzsde
+Budapesti Ã‰rtÃ©ktÅ‘zsde
 BUX
-Budapesti Értéktõzsde
+Budapesti Ã‰rtÃ©ktÅ‘zsde
 BUX
-Budapesti Árutõzsde
-Budapesti Értéktõzsde
+Budapesti ÃrutÅ‘zsde
+Budapesti Ã‰rtÃ©ktÅ‘zsde
 BUX
-Államadósság Kezelõ Központ Rt.
-ÁKK
-Államadósság Kezelõ Központ Rt.
-ÁKK
-Budapesti Értéktõzsde
+ÃllamadÃ³ssÃ¡g KezelÅ‘ KÃ¶zpont Rt.
+ÃKK
+ÃllamadÃ³ssÃ¡g KezelÅ‘ KÃ¶zpont Rt.
+ÃKK
+Budapesti Ã‰rtÃ©ktÅ‘zsde
 BUX
-Európai Központi Banktól
+EurÃ³pai KÃ¶zponti BanktÃ³l
 EKB
 Wall Street
-Budapesti Értéktõzsde
+Budapesti Ã‰rtÃ©ktÅ‘zsde
 BUX
-Budapesti Értéktõzsde
+Budapesti Ã‰rtÃ©ktÅ‘zsde
 BUX
 FTSE-100
-Budapesti Árutõzsde
+Budapesti ÃrutÅ‘zsde
 Ifo
 Aoki
 CAC 40-es
@@ -8492,40 +8492,40 @@ Deutsche Bank
 Nasdaq
 Composite
 Wall Street
-Budapesti Értéktõzsde
+Budapesti Ã‰rtÃ©ktÅ‘zsde
 BUX
 Nortel
 Palm Inc.
 Walt Disney
 Visa International
-Budapesti Értéktõzsde
-BÉT
-"Tõzsdei Legek
-BÉT
+Budapesti Ã‰rtÃ©ktÅ‘zsde
+BÃ‰T
+"TÅ‘zsdei Legek
+BÃ‰T
 MTI-t
 MTI-ECO
-Budapesti Értéktõzsde
+Budapesti Ã‰rtÃ©ktÅ‘zsde
 BUX
-Budapesti Értéktõzsde
+Budapesti Ã‰rtÃ©ktÅ‘zsde
 BUX
-Ház
-APEH Heves Megyei Igazgatóságának
-Budapesti Értéktõzsdén
+HÃ¡z
+APEH Heves Megyei IgazgatÃ³sÃ¡gÃ¡nak
+Budapesti Ã‰rtÃ©ktÅ‘zsdÃ©n
 Carrefour
-Budapesti Értéktõzsde
+Budapesti Ã‰rtÃ©ktÅ‘zsde
 BUX
 Magyar Nemzeti Bank
 FTSE 100-as
-Diákhitel Központ Rt.
+DiÃ¡khitel KÃ¶zpont Rt.
 MTI-vel
-Diákhitel Központ Rt.
-Budapesti Árutõzsde
-Budapesti Értéktõzsde
+DiÃ¡khitel KÃ¶zpont Rt.
+Budapesti ÃrutÅ‘zsde
+Budapesti Ã‰rtÃ©ktÅ‘zsde
 BUX
-Budapesti Értéktõzsde
-BÉT
-Magyar Tõkepiacban
-Budapesti Értéktõzsdén
+Budapesti Ã‰rtÃ©ktÅ‘zsde
+BÃ‰T
+Magyar TÅ‘kepiacban
+Budapesti Ã‰rtÃ©ktÅ‘zsdÃ©n
 MTI
 FTSE-100
 DAX-30
@@ -8537,7 +8537,7 @@ MTI
 Fed
 DJIA
 Nasdaq
-Budapesti Árutõzsde
+Budapesti ÃrutÅ‘zsde
 Fed
 DJIA
 Nasdaq
@@ -8549,29 +8549,29 @@ DJIA
 Nasdaq
 Magyar Nemzeti Bank
 MNB
-Budapesti Értéktõzsde
+Budapesti Ã‰rtÃ©ktÅ‘zsde
 BUX
 Magyar Nemzeti Bank
 MTI-ECO
-Budapesti Értéktõzsde
+Budapesti Ã‰rtÃ©ktÅ‘zsde
 BUX
-Budapesti Értéktõzsde
+Budapesti Ã‰rtÃ©ktÅ‘zsde
 BUX
-Budapesti Értéktõzsde
+Budapesti Ã‰rtÃ©ktÅ‘zsde
 BUX
 MTI-ECO
-Budapesti Értéktõzsde
+Budapesti Ã‰rtÃ©ktÅ‘zsde
 BUX
 Graboplast
-Budapesti Értéktõzsde
+Budapesti Ã‰rtÃ©ktÅ‘zsde
 MTI-t
-Budapesti Értéktõzsde
+Budapesti Ã‰rtÃ©ktÅ‘zsde
 BUX
-Budapesti Értéktõzsde
+Budapesti Ã‰rtÃ©ktÅ‘zsde
 BUX
-Nemzetközi Valutaalap
+NemzetkÃ¶zi Valutaalap
 IMF
-Nemzetközi Valutaalaptól
+NemzetkÃ¶zi ValutaalaptÃ³l
 IMF
 Reuters
 DJIA
@@ -8579,15 +8579,15 @@ Nasdaq
 DJIA
 Nasdaq
 Wall Street
-Budapesti Értéktõzsdén
+Budapesti Ã‰rtÃ©ktÅ‘zsdÃ©n
 MTI
 FTSE-100-as
-Budapesti Értéktõzsde
+Budapesti Ã‰rtÃ©ktÅ‘zsde
 BUX
-Budapesti Árutõzsde
+Budapesti ÃrutÅ‘zsde
 Alcatel
 Aventis
-Budapesti Értéktõzsde
+Budapesti Ã‰rtÃ©ktÅ‘zsde
 BUX
 MTI-ECO
 DAX
@@ -8595,43 +8595,43 @@ Wall Street-en:
 DJIA
 Nasdaq
 FTSE-100
-Budapesti Értéktõzsde
+Budapesti Ã‰rtÃ©ktÅ‘zsde
 BUX
-Államadósság Kezelõ Központ Rt.
-Nemzetközi Valutaalappal
+ÃllamadÃ³ssÃ¡g KezelÅ‘ KÃ¶zpont Rt.
+NemzetkÃ¶zi Valutaalappal
 IMF
 Magyar Nemzeti Bank
 FTSE-100
-Budapesti Értéktõzsde
+Budapesti Ã‰rtÃ©ktÅ‘zsde
 BUX
 Wall Street
-Budapesti Értéktõzsde
+Budapesti Ã‰rtÃ©ktÅ‘zsde
 BUX
-Budapesti Árutõzsde
+Budapesti ÃrutÅ‘zsde
 MTI-ECO
-Budapesti Értéktõzsde
+Budapesti Ã‰rtÃ©ktÅ‘zsde
 BUX
-Budapesti Értéktõzsde
-BÉT
+Budapesti Ã‰rtÃ©ktÅ‘zsde
+BÃ‰T
 Mol
 TVK
 Mol
 TVK
-BÉT
+BÃ‰T
 MTI-t
-Budapesti Értéktõzsde
+Budapesti Ã‰rtÃ©ktÅ‘zsde
 BUX
 CAC 40-es
 ATX
 Bank of England
-Államadósság Kezelõ Központ Rt.
-ÁKK
+ÃllamadÃ³ssÃ¡g KezelÅ‘ KÃ¶zpont Rt.
+ÃKK
 FTSE-100
 BUX
 MTI
 FTSE-100
 DAX-30
-Budapesti Értéktõzsde
+Budapesti Ã‰rtÃ©ktÅ‘zsde
 BUX
 Fed
 Wall Streeten
@@ -8644,15 +8644,15 @@ Siemens
 Epcos
 Nokia
 EU
-Európai Központi Bank
+EurÃ³pai KÃ¶zponti Bank
 EKB
 FTSE-100
-Budapesti Értéktõzsde
+Budapesti Ã‰rtÃ©ktÅ‘zsde
 BUX
-Vám és Pénzügyõrség Országos Parancsnoksága
+VÃ¡m Ã©s PÃ©nzÃ¼gyÅ‘rsÃ©g OrszÃ¡gos ParancsnoksÃ¡ga
 VPOP
 MTI-t
-Államadósság Kezelõ Központ Rt.
+ÃllamadÃ³ssÃ¡g KezelÅ‘ KÃ¶zpont Rt.
 Wall Street
 DJIA
 Nasdaq
@@ -8660,135 +8660,135 @@ Nasdaq
 FTSE-100
 DJIA
 Nasdaq
-Budapesti Értéktõzsde
+Budapesti Ã‰rtÃ©ktÅ‘zsde
 BUX
-Budapesti Értéktõzsde
+Budapesti Ã‰rtÃ©ktÅ‘zsde
 BUX
-Budapesti Árutõzsde
-Gépjármû-felelõsségbiztosítási Bizottság
+Budapesti ÃrutÅ‘zsde
+GÃ©pjÃ¡rmÅ±-felelÅ‘ssÃ©gbiztosÃ­tÃ¡si BizottsÃ¡g
 GfB
 MTI-t
 MTI-ECO
-Budapesti Értéktõzsde
+Budapesti Ã‰rtÃ©ktÅ‘zsde
 BUX
-Budapesti Árutõzsde
-Budapesti Értéktõzsde
+Budapesti ÃrutÅ‘zsde
+Budapesti Ã‰rtÃ©ktÅ‘zsde
 BUX
 Londoni Klubbal
 MTI-ECO
-Budapesti Értéktõzsde
+Budapesti Ã‰rtÃ©ktÅ‘zsde
 BUX
-Államadósság Kezelõ Központ Rt.
-ÁKK
+ÃllamadÃ³ssÃ¡g KezelÅ‘ KÃ¶zpont Rt.
+ÃKK
 MTI-t
-Szerencsejáték Rt.
-Világbank
+SzerencsejÃ¡tÃ©k Rt.
+VilÃ¡gbank
 FTSE-100
 DAX-30
 FTSE-100
 MTI
-Európai Központi Bank
-Európai Újjáépítési és Fejlesztési Bank
+EurÃ³pai KÃ¶zponti Bank
+EurÃ³pai ÃšjjÃ¡Ã©pÃ­tÃ©si Ã©s FejlesztÃ©si Bank
 EBRD
 EKB
-Budapesti Értéktõzsde
+Budapesti Ã‰rtÃ©ktÅ‘zsde
 BUX
-Budapesti Értéktõzsde
+Budapesti Ã‰rtÃ©ktÅ‘zsde
 BUX
-Budapesti Értéktõzsde
+Budapesti Ã‰rtÃ©ktÅ‘zsde
 BUX
 Dow Jones
-Budapesti Értéktõzsde Tanácsának
+Budapesti Ã‰rtÃ©ktÅ‘zsde TanÃ¡csÃ¡nak
 Ibusz Rt.
 Eravis Rt.
-BÉT
-Magyar Tõkepiacban
+BÃ‰T
+Magyar TÅ‘kepiacban
 FTSE-100
 Magyar Nemzeti Bank
-Hálaadás
-Budapesti Értéktõzsdén
+HÃ¡laadÃ¡s
+Budapesti Ã‰rtÃ©ktÅ‘zsdÃ©n
 MTI
 FTSE-100
-Budapesti Értéktõzsde
+Budapesti Ã‰rtÃ©ktÅ‘zsde
 BUX
-Budapesti Árutõzsde
-Államadósság Kezelõ Központ Rt.
-ÁKK
-Budapesti Értéktõzsde
+Budapesti ÃrutÅ‘zsde
+ÃllamadÃ³ssÃ¡g KezelÅ‘ KÃ¶zpont Rt.
+ÃKK
+Budapesti Ã‰rtÃ©ktÅ‘zsde
 BUX
-Budapesti Értéktõzsde
+Budapesti Ã‰rtÃ©ktÅ‘zsde
 BUX
-Budapesti Értéktõzsde
+Budapesti Ã‰rtÃ©ktÅ‘zsde
 BUX
 Swiss Re
-Budapesti Értéktõzsde
+Budapesti Ã‰rtÃ©ktÅ‘zsde
 BUX
 MTI-ECO
 ERSTE Bank Hungary Rt.
-Magyar Tõkepiacban
+Magyar TÅ‘kepiacban
 FTSE-100
-Budapesti Értéktõzsdén
+Budapesti Ã‰rtÃ©ktÅ‘zsdÃ©n
 MTI
 DAX-30
-Budapesti Értéktõzsde
+Budapesti Ã‰rtÃ©ktÅ‘zsde
 BUX
 FTSE-100
 Wall Street
-Budapesti Értéktõzsde
+Budapesti Ã‰rtÃ©ktÅ‘zsde
 BUX
-Államadósság Kezelõ Központ Rt.
-ÁKK
-Kincstárjegy-aukció
-3 hónapos
-csökkenõ hozam
-Budapesti Értéktõzsde
+ÃllamadÃ³ssÃ¡g KezelÅ‘ KÃ¶zpont Rt.
+ÃKK
+KincstÃ¡rjegy-aukciÃ³
+3 hÃ³napos
+csÃ¶kkenÅ‘ hozam
+Budapesti Ã‰rtÃ©ktÅ‘zsde
 BUX
-Országos Betétbiztosítási Alap
+OrszÃ¡gos BetÃ©tbiztosÃ­tÃ¡si Alap
 OBA
-Budapesti Árutõzsde
+Budapesti ÃrutÅ‘zsde
 Bankinfo Center Kft.
-Budapesti Értéktõzsde
+Budapesti Ã‰rtÃ©ktÅ‘zsde
 BUX
-Budapesti Értéktõzsde
+Budapesti Ã‰rtÃ©ktÅ‘zsde
 BUX
-Budapesti Értéktõzsde
+Budapesti Ã‰rtÃ©ktÅ‘zsde
 BUX
-Világbank
+VilÃ¡gbank
 Vecernji list
 EKB
 FTSE-100
 DAX-30
-Budapesti Értéktõzsdén
+Budapesti Ã‰rtÃ©ktÅ‘zsdÃ©n
 MTI
 FTSE-100
-Budapesti Értéktõzsde
+Budapesti Ã‰rtÃ©ktÅ‘zsde
 BUX
 Nasdaq
-Easdaqból
+EasdaqbÃ³l
 Nasdaq Europe
-Budapesti Értéktõzsdén
+Budapesti Ã‰rtÃ©ktÅ‘zsdÃ©n
 MTI
 FTSE-100
 DAX-30
-Budapesti Értéktõzsde
+Budapesti Ã‰rtÃ©ktÅ‘zsde
 BUX
 MTI-ECO-nak
-Budapesti Árutõzsde
-Budapesti Értéktõzsde
+Budapesti ÃrutÅ‘zsde
+Budapesti Ã‰rtÃ©ktÅ‘zsde
 BUX
-Budapesti Értéktõzsde
+Budapesti Ã‰rtÃ©ktÅ‘zsde
 BUX
-Északi Szövetség
+Ã‰szaki SzÃ¶vetsÃ©g
 Wall Street
 APEH
-Északi Szövetség
-Északi Szövetség
+Ã‰szaki SzÃ¶vetsÃ©g
+Ã‰szaki SzÃ¶vetsÃ©g
 Europay International
-Budapesti Értéktõzsde
+Budapesti Ã‰rtÃ©ktÅ‘zsde
 BUX
-Északi Szövetség
-Államadósság Kezelõ Központ Rt.
-ÁKK
+Ã‰szaki SzÃ¶vetsÃ©g
+ÃllamadÃ³ssÃ¡g KezelÅ‘ KÃ¶zpont Rt.
+ÃKK
 MNB
 DJIA
 Nasdaq
@@ -8800,318 +8800,318 @@ CAC 40-es
 ATX
 Wall Street
 FTSE 100-nak
-Oscar-díjban
+Oscar-dÃ­jban
 Reuters
 DAX
 Wall Street-nek
-Budapesti Értéktõzsde
+Budapesti Ã‰rtÃ©ktÅ‘zsde
 BUX
 FTSE-100
 DJIA
 Nasdaq
-Európai Központi Bank
+EurÃ³pai KÃ¶zponti Bank
 EKB
 Wall Street
 Dassault Systemes
 France Telecom
-Európai Központi Bank
+EurÃ³pai KÃ¶zponti Bank
 EKB
 Wall Street
 EKB
 EKB
-Budapesti Árutõzsde
-Budapesti Értéktõzsde
+Budapesti ÃrutÅ‘zsde
+Budapesti Ã‰rtÃ©ktÅ‘zsde
 BUX
-Budapesti Értéktõzsde BÉT Titkárságának
+Budapesti Ã‰rtÃ©ktÅ‘zsde BÃ‰T TitkÃ¡rsÃ¡gÃ¡nak
 Pannon-Flax Rt.
-BÉT
+BÃ‰T
 MTI-vel
-Világbank
-Budapesti Árutõzsde
+VilÃ¡gbank
+Budapesti ÃrutÅ‘zsde
 MTI-ECO
-Budapesti Értéktõzsde
+Budapesti Ã‰rtÃ©ktÅ‘zsde
 BUX
 Magyar Nemzeti Bank
 Magyar Nemzeti Bank
-Budapesti Értéktõzsde
+Budapesti Ã‰rtÃ©ktÅ‘zsde
 BUX
 COMEX
-Lengyel Parasztpárt
+Lengyel ParasztpÃ¡rt
 PSL
-Lengyel Nemzeti Bankról
-Államadósság Kezelõ Központ Rt.
-ÁKK
-Államadósság Kezelõ Központ Rt.
-ÁKK
-Budapesti Értéktõzsde
+Lengyel Nemzeti BankrÃ³l
+ÃllamadÃ³ssÃ¡g KezelÅ‘ KÃ¶zpont Rt.
+ÃKK
+ÃllamadÃ³ssÃ¡g KezelÅ‘ KÃ¶zpont Rt.
+ÃKK
+Budapesti Ã‰rtÃ©ktÅ‘zsde
 BUX
-Budapesti Értéktõzsde
+Budapesti Ã‰rtÃ©ktÅ‘zsde
 BUX
-Budapesti Értéktõzsde
+Budapesti Ã‰rtÃ©ktÅ‘zsde
 BUX
-Európai Központi Bank
+EurÃ³pai KÃ¶zponti Bank
 EKB
 FTSE-100
-Budapesti Értéktõzsde
+Budapesti Ã‰rtÃ©ktÅ‘zsde
 BUX
 Wall Street
-Európai Központi Bank
+EurÃ³pai KÃ¶zponti Bank
 EKB
 Fed
-Világbank
+VilÃ¡gbank
 NYMEX
 MTI-ECO
-Budapesti Értéktõzsde
+Budapesti Ã‰rtÃ©ktÅ‘zsde
 BUX
-Világbank
-Európai Bizottság
-Budapesti Árutõzsde
-Budapesti Értéktõzsde
+VilÃ¡gbank
+EurÃ³pai BizottsÃ¡g
+Budapesti ÃrutÅ‘zsde
+Budapesti Ã‰rtÃ©ktÅ‘zsde
 BUX
 Magyar Nemzeti Bank
 MNB
 FTSE-100
-Államadósság Kezelõ Központ Rt.
-ÁKK
-Budapesti Értéktõzsde
+ÃllamadÃ³ssÃ¡g KezelÅ‘ KÃ¶zpont Rt.
+ÃKK
+Budapesti Ã‰rtÃ©ktÅ‘zsde
 BUX
 DAX-30
 BUX
 MTI
-Budapesti Értéktõzsde
+Budapesti Ã‰rtÃ©ktÅ‘zsde
 BUX
-Budapesti Értéktõzsde
+Budapesti Ã‰rtÃ©ktÅ‘zsde
 BUX
 Magyar Nemzeti Bank
 Magyar Nemzeti Bank
 MNB
 MTI-hez
-Budapesti Értéktõzsde
+Budapesti Ã‰rtÃ©ktÅ‘zsde
 BUX
 MTI-ECO
-Budapesti Értéktõzsde
+Budapesti Ã‰rtÃ©ktÅ‘zsde
 BUX
-Budapesti Értéktõzsde
+Budapesti Ã‰rtÃ©ktÅ‘zsde
 BUX
-Budapesti Értéktõzsde
+Budapesti Ã‰rtÃ©ktÅ‘zsde
 BUX
-Budapesti Árutõzsde
-Wall Streetrõl
+Budapesti ÃrutÅ‘zsde
+Wall StreetrÅ‘l
 Fed
 Qualcomm
 FTSE-100
 MTI
 FTSE-100
-Raiffeisen Befektetési Alapkezelõ Rt.
+Raiffeisen BefektetÃ©si AlapkezelÅ‘ Rt.
 Fed
 Fed
 DAX-30
-Budapesti Értéktõzsde
+Budapesti Ã‰rtÃ©ktÅ‘zsde
 BUX
 FTSE-100
 Wall Street
 Cisco System
 Fed
 FTSE-100
-Budapesti Értéktõzsdén
+Budapesti Ã‰rtÃ©ktÅ‘zsdÃ©n
 MTI
 FTSE-100
-Monetáris Tanács
+MonetÃ¡ris TanÃ¡cs
 Magyar Nemzeti Bank
 MNB
-Monetáris Tanács
-Budapesti Értéktõzsde
+MonetÃ¡ris TanÃ¡cs
+Budapesti Ã‰rtÃ©ktÅ‘zsde
 BUX
 OTP Bank Rt.
-Beruházási és Fejlesztési Bank
+BeruhÃ¡zÃ¡si Ã©s FejlesztÃ©si Bank
 IRB
-Budapesti Árutõzsde
+Budapesti ÃrutÅ‘zsde
 MTI-ECO
 Magyar Nemzeti Bank
 MNB
-Generali-Providencia Biztosító Rt.
-Budapesti Értéktõzsde
+Generali-Providencia BiztosÃ­tÃ³ Rt.
+Budapesti Ã‰rtÃ©ktÅ‘zsde
 BUX
-Budapesti Árutõzsde
+Budapesti ÃrutÅ‘zsde
 LIFFE
 LIFFE
 Reutersnek
-Budapesti Értéktõzsde
+Budapesti Ã‰rtÃ©ktÅ‘zsde
 BUX
-Budapesti Árutõzsde
+Budapesti ÃrutÅ‘zsde
 Nasdaq
 Nasdaq
 DJIA
 Nasdaq
 DJIA
-Államadósság Kezelõ Központ Rt.
-ÁKK
+ÃllamadÃ³ssÃ¡g KezelÅ‘ KÃ¶zpont Rt.
+ÃKK
 Wall Street
-Budapesti Értéktõzsde
+Budapesti Ã‰rtÃ©ktÅ‘zsde
 BUX
 DJIA
 Nasdaq
 DJIA
 Nasdaq
-Budapesti Értéktõzsde
+Budapesti Ã‰rtÃ©ktÅ‘zsde
 BUX
 OPEC
-Budapesti Értéktõzsde
+Budapesti Ã‰rtÃ©ktÅ‘zsde
 BUX
 FTSE-100
-Budapesti Értéktõzsde
+Budapesti Ã‰rtÃ©ktÅ‘zsde
 MTI-ECO
-Budapesti Árutõzsde
-Budapesti Értéktõzsde
+Budapesti ÃrutÅ‘zsde
+Budapesti Ã‰rtÃ©ktÅ‘zsde
 BUX
-Európai Központi Banknak
+EurÃ³pai KÃ¶zponti Banknak
 EKB
 OPEC
 DJIA
 Nasdaq
 DJIA
-Budapesti Értéktõzsde
+Budapesti Ã‰rtÃ©ktÅ‘zsde
 BUX
-Bankok Biztosítók Dolgozói Szakszervezeteinek Szövetsége
+Bankok BiztosÃ­tÃ³k DolgozÃ³i Szakszervezeteinek SzÃ¶vetsÃ©ge
 BBDSZSZ
 BBDSZSZ
 MTI-t
-Európai Központi Bankban
+EurÃ³pai KÃ¶zponti Bankban
 EKB
-Budapesti Értéktõzsde
+Budapesti Ã‰rtÃ©ktÅ‘zsde
 BUX
 OPEC
-Budapesti Árutõzsde
-Budapesti Értéktõzsde
+Budapesti ÃrutÅ‘zsde
+Budapesti Ã‰rtÃ©ktÅ‘zsde
 BUX
-Budapesti Árutõzsde
-Postabank és Takarékpénztárnál
+Budapesti ÃrutÅ‘zsde
+Postabank Ã©s TakarÃ©kpÃ©nztÃ¡rnÃ¡l
 MTI-t
 Nikkei 225
-Budapesti Értéktõzsde
+Budapesti Ã‰rtÃ©ktÅ‘zsde
 BUX
-Budapesti Értéktõzsde
+Budapesti Ã‰rtÃ©ktÅ‘zsde
 BUX
-Budapesti Árutõzsde
+Budapesti ÃrutÅ‘zsde
 Lengyel Nemzeti Bank
 RPP
-Budapesti Értéktõzsde
+Budapesti Ã‰rtÃ©ktÅ‘zsde
 BUX
 Magyar Nemzeti Bank
 Japan Bank for International Cooperationnak
 MTI-t
-Kereskedelmi és Hitelbank
+Kereskedelmi Ã©s Hitelbank
 K and H
 K and H
-Budapesti Értéktõzsde
+Budapesti Ã‰rtÃ©ktÅ‘zsde
 BUX
-Budapesti Értéktõzsde
+Budapesti Ã‰rtÃ©ktÅ‘zsde
 BUX
-Szabolcs-Szatmár-Bereg Megyei Területfejlesztési Tanács
+Szabolcs-SzatmÃ¡r-Bereg Megyei TerÃ¼letfejlesztÃ©si TanÃ¡cs
 Magyar Nemzeti Bank
-Budapesti Értéktõzsde
+Budapesti Ã‰rtÃ©ktÅ‘zsde
 BUX
 OTP Bank Rt.
-Magyar Tõkepiacban
-Budapesti Árutõzsde
+Magyar TÅ‘kepiacban
+Budapesti ÃrutÅ‘zsde
 MTI-ECO
-France Télécom
+France TÃ©lÃ©com
 LVMH
 CAC-40
-Európai Újjáépítési és Fejlesztési Bank
+EurÃ³pai ÃšjjÃ¡Ã©pÃ­tÃ©si Ã©s FejlesztÃ©si Bank
 EBRD
-Szabolcs-Szatmár-Bereg Megyei Területfejlesztési Tanács
-Budapesti Értéktõzsde
+Szabolcs-SzatmÃ¡r-Bereg Megyei TerÃ¼letfejlesztÃ©si TanÃ¡cs
+Budapesti Ã‰rtÃ©ktÅ‘zsde
 BUX
-Budapesti Árutõzsde
-Budapesti Értéktõzsde
+Budapesti ÃrutÅ‘zsde
+Budapesti Ã‰rtÃ©ktÅ‘zsde
 BUX
 FTSE-100
 DAX-30
 MTI
 FTSE-100
 MTI-Eco-nak
-Világbank
-Európai Unióhoz
+VilÃ¡gbank
+EurÃ³pai UniÃ³hoz
 Wall Street
-Európai Központi Bank
+EurÃ³pai KÃ¶zponti Bank
 EKB
-Budapesti Értéktõzsde
+Budapesti Ã‰rtÃ©ktÅ‘zsde
 BUX
 MTI-ECO
-Államadósság Kezelõ Központ
-ÁKK
-Budapesti Árutõzsde
-Budapesti Értéktõzsde
+ÃllamadÃ³ssÃ¡g KezelÅ‘ KÃ¶zpont
+ÃKK
+Budapesti ÃrutÅ‘zsde
+Budapesti Ã‰rtÃ©ktÅ‘zsde
 BUX
 Wall Street
-Budapesti Értéktõzsde
+Budapesti Ã‰rtÃ©ktÅ‘zsde
 BUX
-Fundamenta Lakástakarékpénztár
+Fundamenta LakÃ¡stakarÃ©kpÃ©nztÃ¡r
 DJIA
 Nasdaq
 Wall Street
-Budapesti Értéktõzsdén
+Budapesti Ã‰rtÃ©ktÅ‘zsdÃ©n
 MTI
-Budapesti Értéktõzsde
+Budapesti Ã‰rtÃ©ktÅ‘zsde
 BUX
-Inter-Európa Bank Rt.
-Európai Beruházási Bankkal
-Budapesti Értéktõzsde
+Inter-EurÃ³pa Bank Rt.
+EurÃ³pai BeruhÃ¡zÃ¡si Bankkal
+Budapesti Ã‰rtÃ©ktÅ‘zsde
 BUX
-Európai Központi Bank
+EurÃ³pai KÃ¶zponti Bank
 EKB
 Wall Street
 OPEC
 DAX
 Wall Streeten
 FTSE-100
-Budapesti Értéktõzsde
+Budapesti Ã‰rtÃ©ktÅ‘zsde
 BUX
 Europay Internationalhoz
 Europay
 MTI-t
-Budapesti Árutõzsde
-Budapesti Árutõzsde
-Budapesti Értéktõzsdén
+Budapesti ÃrutÅ‘zsde
+Budapesti ÃrutÅ‘zsde
+Budapesti Ã‰rtÃ©ktÅ‘zsdÃ©n
 MTI
-Budapesti Értéktõzsde
+Budapesti Ã‰rtÃ©ktÅ‘zsde
 BUX
-Budapesti Értéktõzsde
+Budapesti Ã‰rtÃ©ktÅ‘zsde
 BUX
-Budapesti Értéktõzsde
+Budapesti Ã‰rtÃ©ktÅ‘zsde
 BUX
 MTI-ECO
-Monetáris Tanács
+MonetÃ¡ris TanÃ¡cs
 MTI-t
 MTI-ECO
-Budapesti Árutõzsde
-Budapesti Értéktõzsde
+Budapesti ÃrutÅ‘zsde
+Budapesti Ã‰rtÃ©ktÅ‘zsde
 BUX
-Budapesti Árutõzsde
+Budapesti ÃrutÅ‘zsde
 Visa International
 Budapest Bankot
-Budapesti Értéktõzsde
+Budapesti Ã‰rtÃ©ktÅ‘zsde
 BUX
 Wall Street
 DJIA
-Budapesti Értéktõzsde
+Budapesti Ã‰rtÃ©ktÅ‘zsde
 BUX
 Wall Street
 Dow Jones
 SCOR SA
-Budapesti Értéktõzsde
-BÉT
+Budapesti Ã‰rtÃ©ktÅ‘zsde
+BÃ‰T
 Lufthansa
 Siemens
-DaimlerChrysleré
-Budapesti Árutõzsde
+DaimlerChryslerÃ©
+Budapesti ÃrutÅ‘zsde
 DJIA
-Aranypók Kereskedelmi Rt.
-Budapesti Értéktõzsdén
-BÉT
+AranypÃ³k Kereskedelmi Rt.
+Budapesti Ã‰rtÃ©ktÅ‘zsdÃ©n
+BÃ‰T
 MTI-vel
-Budapesti Értéktõzsde
+Budapesti Ã‰rtÃ©ktÅ‘zsde
 BUX
 OPEC
 Nasdaq
@@ -9126,72 +9126,72 @@ Dell Computernek
 DJIA
 Nasdaq
 MTI-ECO
-Budapesti Értéktõzsde
+Budapesti Ã‰rtÃ©ktÅ‘zsde
 BUX
-Budapesti Értéktõzsde
-Budapesti Értéktõzsde
+Budapesti Ã‰rtÃ©ktÅ‘zsde
+Budapesti Ã‰rtÃ©ktÅ‘zsde
 BUX
 OPEC
-Budapesti Árutõzsde
-Budapesti Értéktõzsde
+Budapesti ÃrutÅ‘zsde
+Budapesti Ã‰rtÃ©ktÅ‘zsde
 BUX
-Széchenyi-terv
-Pest Megyei Kereskedelmi és Iparkamara
+SzÃ©chenyi-terv
+Pest Megyei Kereskedelmi Ã©s Iparkamara
 PMKIK
-Kereskedelmi és Hitelbank Rt.-vel
+Kereskedelmi Ã©s Hitelbank Rt.-vel
 MTI-t
-Államadósság Kezelõ Központ Rt.
-ÁKK
+ÃllamadÃ³ssÃ¡g KezelÅ‘ KÃ¶zpont Rt.
+ÃKK
 ATX
 ATX
-Budapesti Árutõzsde
+Budapesti ÃrutÅ‘zsde
 Wall Street
 FTSE-100
-Budapesti Értéktõzsdén
+Budapesti Ã‰rtÃ©ktÅ‘zsdÃ©n
 MTI
 FTSE-100
-Budapesti Értéktõzsde
+Budapesti Ã‰rtÃ©ktÅ‘zsde
 BUX
 Wall Street
-Budapesti Értéktõzsde
+Budapesti Ã‰rtÃ©ktÅ‘zsde
 BUX
-Budapesti Értéktõzsde
+Budapesti Ã‰rtÃ©ktÅ‘zsde
 BUX
-Pénzügyminisztérium
+PÃ©nzÃ¼gyminisztÃ©rium
 FTSE-100
 OPEC
 Wall Street
 Nortel
 Eli Lilly
 Nasdaq
-Budapesti Értéktõzsde
+Budapesti Ã‰rtÃ©ktÅ‘zsde
 BUX
 DAX-30
-Budapesti Értéktõzsde
+Budapesti Ã‰rtÃ©ktÅ‘zsde
 BUX
 MTI
 Wall Street
 FTSE-100
 MTI-ECO
-Budapesti Árutõzsde
-Budapesti Értéktõzsde
+Budapesti ÃrutÅ‘zsde
+Budapesti Ã‰rtÃ©ktÅ‘zsde
 BUX
 MTI-ECO
 OPEC
 AP
 Brent
-Budapesti Értéktõzsde
+Budapesti Ã‰rtÃ©ktÅ‘zsde
 BUX
 Fed
-Budapesti Értéktõzsde
+Budapesti Ã‰rtÃ©ktÅ‘zsde
 BUX
-Államadósság Kezelõ Központ Rt.
-ÁKK
-Európai Központi Bank
+ÃllamadÃ³ssÃ¡g KezelÅ‘ KÃ¶zpont Rt.
+ÃKK
+EurÃ³pai KÃ¶zponti Bank
 EKB
 EKB
-Budapesti Árutõzsde
-Budapesti Értéktõzsde
+Budapesti ÃrutÅ‘zsde
+Budapesti Ã‰rtÃ©ktÅ‘zsde
 BUX
 Dow Jones
 DJIA
@@ -9199,122 +9199,122 @@ Wall Street-en
 DJIA
 DAX-30
 Wall Street
-Európai Újjáépítési és Fejlesztési Bank
+EurÃ³pai ÃšjjÃ¡Ã©pÃ­tÃ©si Ã©s FejlesztÃ©si Bank
 EBRD
-Budapesti Értéktõzsde
+Budapesti Ã‰rtÃ©ktÅ‘zsde
 BUX
-Budapesti Értéktõzsde
+Budapesti Ã‰rtÃ©ktÅ‘zsde
 BUX
 Magyar Nemzeti Bank
-Budapesti Árutõzsde
-Nemzetközi Olajtõzsdén
+Budapesti ÃrutÅ‘zsde
+NemzetkÃ¶zi OlajtÅ‘zsdÃ©n
 IPE
-Budapesti Értéktõzsde
+Budapesti Ã‰rtÃ©ktÅ‘zsde
 BUX
 NYMEX
-Budapesti Értéktõzsde
+Budapesti Ã‰rtÃ©ktÅ‘zsde
 BUX
-Budapesti Értéktõzsde
+Budapesti Ã‰rtÃ©ktÅ‘zsde
 BUX
 FTSE-100
-Budapesti Értéktõzsdén
+Budapesti Ã‰rtÃ©ktÅ‘zsdÃ©n
 MTI
 FTSE-100
 DAX-30
-Budapesti Értéktõzsde
+Budapesti Ã‰rtÃ©ktÅ‘zsde
 BUX
 MTI-ECO
-Budapesti Árutõzsde
-Államadósság Kezelõ Központ
-ÁKK
-Budapesti Értéktõzsde
+Budapesti ÃrutÅ‘zsde
+ÃllamadÃ³ssÃ¡g KezelÅ‘ KÃ¶zpont
+ÃKK
+Budapesti Ã‰rtÃ©ktÅ‘zsde
 BUX
-Budapesti Értéktõzsde
+Budapesti Ã‰rtÃ©ktÅ‘zsde
 BUX
-Budapesti Értéktõzsde
+Budapesti Ã‰rtÃ©ktÅ‘zsde
 BUX
 MTI-ECO
 PX-50-et
-OTP Jelzálogbank
+OTP JelzÃ¡logbank
 MTI-nek
-Budapesti Árutõzsde
-Budapesti Értéktõzsde
+Budapesti ÃrutÅ‘zsde
+Budapesti Ã‰rtÃ©ktÅ‘zsde
 BUX
 NYMEX
-Budapesti Árutõzsdén
+Budapesti ÃrutÅ‘zsdÃ©n
 Wall Street
 Brent
-Nemzetközi Olajtõzsdén
+NemzetkÃ¶zi OlajtÅ‘zsdÃ©n
 IPE
 Wall Street
-Budapesti Értéktõzsde
+Budapesti Ã‰rtÃ©ktÅ‘zsde
 BUX
 NYMEX
 MTI-ECO
-Budapesti Árutõzsde
+Budapesti ÃrutÅ‘zsde
 OPEC
-Budapesti Értéktõzsde
+Budapesti Ã‰rtÃ©ktÅ‘zsde
 BUX
-Budapesti Értéktõzsdén
+Budapesti Ã‰rtÃ©ktÅ‘zsdÃ©n
 MTI
 NYMEX
-Államadósság Kezelõ Központ Rt.
-ÁKK
-ÁKK
+ÃllamadÃ³ssÃ¡g KezelÅ‘ KÃ¶zpont Rt.
+ÃKK
+ÃKK
 FTSE-100
-Budapesti Értéktõzsde
+Budapesti Ã‰rtÃ©ktÅ‘zsde
 BUX
 NYMEX
 Mycal
 FTSE-100
-Budapesti Értéktõzsdén
+Budapesti Ã‰rtÃ©ktÅ‘zsdÃ©n
 MTI
 FTSE-100
-Nemzetközi Olajtõzsdén
+NemzetkÃ¶zi OlajtÅ‘zsdÃ©n
 IPE
 Brent
 Fed
-Nyíltpiaci Bizottságának
+NyÃ­ltpiaci BizottsÃ¡gÃ¡nak
 FOMC
 DAX-30
-Budapesti Értéktõzsde
+Budapesti Ã‰rtÃ©ktÅ‘zsde
 BUX
 Nymex
-Budapesti Értéktõzsde
-Európai Unió
-BÉT
+Budapesti Ã‰rtÃ©ktÅ‘zsde
+EurÃ³pai UniÃ³
+BÃ‰T
 MTI-t
 MTI-ECO
-Budapesti Árutõzsde
-Budapesti Értéktõzsde
+Budapesti ÃrutÅ‘zsde
+Budapesti Ã‰rtÃ©ktÅ‘zsde
 BUX
 Fed
 Nasdaq
 DJIA
-Fed Nyíltpiaci Bizottsága
+Fed NyÃ­ltpiaci BizottsÃ¡ga
 FOMC
-Világkereskedelmi Központ
+VilÃ¡gkereskedelmi KÃ¶zpont
 WTC
-Budapesti Értéktõzsde
+Budapesti Ã‰rtÃ©ktÅ‘zsde
 BUX
 Fed
 Federal Reserve
-Budapesti Értéktõzsde
+Budapesti Ã‰rtÃ©ktÅ‘zsde
 BUX
-Államadósság Kezelõ Központ Rt.
-ÁKK
+ÃllamadÃ³ssÃ¡g KezelÅ‘ KÃ¶zpont Rt.
+ÃKK
 FTSE-100
 FHB
-Budapesti Értéktõzsdén
-FHB Földhitel és Jelzálogbank Rt
-Magyar Tõkepiacban
-Budapesti Értéktõzsde
+Budapesti Ã‰rtÃ©ktÅ‘zsdÃ©n
+FHB FÃ¶ldhitel Ã©s JelzÃ¡logbank Rt
+Magyar TÅ‘kepiacban
+Budapesti Ã‰rtÃ©ktÅ‘zsde
 BUX
 Nasdaq
 Brookfields Properties Corp.
 econet.hu
-Budapesti Értéktõzsde
-Magyar Tõkepiacban
+Budapesti Ã‰rtÃ©ktÅ‘zsde
+Magyar TÅ‘kepiacban
 FTSE-100
 DAX-30
 FTSE 100-as
@@ -9324,37 +9324,37 @@ Infineon
 Nasdaq
 Oracle
 DJIA
-Budapesti Értéktõzsde
+Budapesti Ã‰rtÃ©ktÅ‘zsde
 BUX
 FTSE-100
 MNB
 MTI-hez
-Budapesti Értéktõzsde
+Budapesti Ã‰rtÃ©ktÅ‘zsde
 BUX
 FTSE-100
-Budapesti Értéktõzsde
+Budapesti Ã‰rtÃ©ktÅ‘zsde
 BUX
-Budapesti Árutõzsde
-Pénzügyminisztérium
-Budapesti Árutõzsde
-Budapesti Értéktõzsde
+Budapesti ÃrutÅ‘zsde
+PÃ©nzÃ¼gyminisztÃ©rium
+Budapesti ÃrutÅ‘zsde
+Budapesti Ã‰rtÃ©ktÅ‘zsde
 BUX
 Parlament
-Budapesti Értéktõzsde
+Budapesti Ã‰rtÃ©ktÅ‘zsde
 BUX
 FTSE-100
-Budapesti Értéktõzsde
+Budapesti Ã‰rtÃ©ktÅ‘zsde
 BUX
 MTI-ECO
-Budapesti Árutõzsde
+Budapesti ÃrutÅ‘zsde
 FTSE-100
 Bank of England
-Államadósság Kezelõ Központ Rt.
-ÁKK
+ÃllamadÃ³ssÃ¡g KezelÅ‘ KÃ¶zpont Rt.
+ÃKK
 DAX-30
-Budapesti Értéktõzsde
+Budapesti Ã‰rtÃ©ktÅ‘zsde
 BUX
-Budapesti Értéktõzsde
+Budapesti Ã‰rtÃ©ktÅ‘zsde
 BUX
 Nasdaq
 Oracle
@@ -9370,69 +9370,69 @@ Nasdaq
 Merrill Lynch-nek
 Motorola
 Citibank
-Budapesti Értéktõzsde
+Budapesti Ã‰rtÃ©ktÅ‘zsde
 BUX
-Budapesti Értéktõzsde
+Budapesti Ã‰rtÃ©ktÅ‘zsde
 BUX
 FTSE-100
 DAX
 Deutsche Telekom
 FTSE-100
-Budapesti Értéktõzsdén
-BÉT
-BÉT
+Budapesti Ã‰rtÃ©ktÅ‘zsdÃ©n
+BÃ‰T
+BÃ‰T
 Wall Streeten
 DJIA
 Nasdaq
-Budapesti Értéktõzsde
+Budapesti Ã‰rtÃ©ktÅ‘zsde
 BUX
 DJIA
-Budapesti Értéktõzsde
+Budapesti Ã‰rtÃ©ktÅ‘zsde
 BUX
 Dominancia Rt.
 MTI-nek
 Fed
 Itar-Tassz
-Fed Nyíltpiaci Bizottsága
+Fed NyÃ­ltpiaci BizottsÃ¡ga
 FOMC
-Pénzügyminisztérium
+PÃ©nzÃ¼gyminisztÃ©rium
 MTI-t
-Budapesti Árutõzsde
+Budapesti ÃrutÅ‘zsde
 MTI-ECO
-Budapesti Értéktõzsde
+Budapesti Ã‰rtÃ©ktÅ‘zsde
 BUX
 FTSE-100
 FTSE-100
 DAX-30
-Budapesti Értéktõzsde
+Budapesti Ã‰rtÃ©ktÅ‘zsde
 BUX
 DAX-30
-Budapesti Értéktõzsde
+Budapesti Ã‰rtÃ©ktÅ‘zsde
 BUX
-Budapesti Értéktõzsde
+Budapesti Ã‰rtÃ©ktÅ‘zsde
 BUX
 MTI
-Budapesti Értéktõzsde
+Budapesti Ã‰rtÃ©ktÅ‘zsde
 BUX
 FTSE-100
-Budapesti Árutõzsde
+Budapesti ÃrutÅ‘zsde
 Magyar Nemzeti Bank
 MNB
-Budapesti Árutõzsde
+Budapesti ÃrutÅ‘zsde
 IMF
 CAC 40
 Dow Jones
 Nikkei
 CIB
-Budapesti Értéktõzsde
+Budapesti Ã‰rtÃ©ktÅ‘zsde
 BUX
-Budapesti Árutõzsde
+Budapesti ÃrutÅ‘zsde
 Magyar Nemzeti Bank
 MTI-hez
 DAX-30
-Budapesti Értéktõzsdén
+Budapesti Ã‰rtÃ©ktÅ‘zsdÃ©n
 MTI
-Budapesti Értéktõzsde
+Budapesti Ã‰rtÃ©ktÅ‘zsde
 BUX
 FTSE-100
 FTSE-100
@@ -9443,7 +9443,7 @@ Nikkei
 FTSE-100
 FTSE-100
 FTSE-100
-Budapesti Értéktõzsde
+Budapesti Ã‰rtÃ©ktÅ‘zsde
 BUX
 DJIA
 Wall Street
@@ -9452,53 +9452,53 @@ Fed
 Magyar Nemzeti Bank
 MTI-t
 MTI-t
-Budapesti Értéktõzsde
+Budapesti Ã‰rtÃ©ktÅ‘zsde
 BUX
 MTI-ECO-t
-France Télécom
-Budapesti Árutõzsde
-Budapesti Értéktõzsde
+France TÃ©lÃ©com
+Budapesti ÃrutÅ‘zsde
+Budapesti Ã‰rtÃ©ktÅ‘zsde
 BUX
 Magyar Nemzeti Bank
 MNB
-Budapesti Értéktõzsdén
-Földhitel és Jelzálogbank Rt
+Budapesti Ã‰rtÃ©ktÅ‘zsdÃ©n
+FÃ¶ldhitel Ã©s JelzÃ¡logbank Rt
 FHB
-Magyar Tõkepiacban
-Budapesti Értéktõzsde
-BÉT
+Magyar TÅ‘kepiacban
+Budapesti Ã‰rtÃ©ktÅ‘zsde
+BÃ‰T
 Kartonpack
-Budapesti Értéktõzsde
+Budapesti Ã‰rtÃ©ktÅ‘zsde
 BUX
-Budapesti Értéktõzsde
-BÉT
+Budapesti Ã‰rtÃ©ktÅ‘zsde
+BÃ‰T
 Kartonpack Dobozipari Rt.
-BÉT
+BÃ‰T
 MTI-t
-Budapesti Értéktõzsde
+Budapesti Ã‰rtÃ©ktÅ‘zsde
 BUX
-Államadósság Kezelõ Központ
-ÁKK
-Budapesti Értéktõzsde
+ÃllamadÃ³ssÃ¡g KezelÅ‘ KÃ¶zpont
+ÃKK
+Budapesti Ã‰rtÃ©ktÅ‘zsde
 BUX
-Budapesti Értéktõzsde
+Budapesti Ã‰rtÃ©ktÅ‘zsde
 BUX
 FTSE-100
 FTSE-100
 MTI
-Budapesti Értéktõzsde
+Budapesti Ã‰rtÃ©ktÅ‘zsde
 BUX
-CA-IB Értékpapír Befektetési Alapkezelõ Rt.
-CA TopPharma Globális Gyógyszeripari Részvény Alap
-Magyar Tõkepiacban
-Európai Központi Bank
+CA-IB Ã‰rtÃ©kpapÃ­r BefektetÃ©si AlapkezelÅ‘ Rt.
+CA TopPharma GlobÃ¡lis GyÃ³gyszeripari RÃ©szvÃ©ny Alap
+Magyar TÅ‘kepiacban
+EurÃ³pai KÃ¶zponti Bank
 EKB
 EKB
 FTSE-100
 FTSE-100
 Fed
 Fed
-Budapesti Értéktõzsdén
+Budapesti Ã‰rtÃ©ktÅ‘zsdÃ©n
 MTI
 Nikkei
 Nikkei
@@ -9509,20 +9509,20 @@ MTI-ECO
 Magyar Nemzeti Bank
 MTI-t
 MTI-ECO-t
-Budapesti Értéktõzsde
+Budapesti Ã‰rtÃ©ktÅ‘zsde
 BUX
-Budapesti Árutõzsde
-Budapesti Értéktõzsde
+Budapesti ÃrutÅ‘zsde
+Budapesti Ã‰rtÃ©ktÅ‘zsde
 BUX
 Telekom Austria
 Wienerberger
 Magyar Nemzeti Bank
 MNB
-Budapesti Értéktõzsde
-BÉT
+Budapesti Ã‰rtÃ©ktÅ‘zsde
+BÃ‰T
 Pannon GSM
-BÉT
-Magyar Tõkepiacban
+BÃ‰T
+Magyar TÅ‘kepiacban
 Fed
 Nikkei
 FTSE-100
@@ -9534,7 +9534,7 @@ FTSE-100
 MTI
 BUX
 Nikkei
-Budapesti Értéktõzsde
+Budapesti Ã‰rtÃ©ktÅ‘zsde
 BUX
 Magyar Nemzeti Bank
 MNB
@@ -9542,7 +9542,7 @@ Magyar Nemzeti Bank
 FTSE-100
 DAX-30
 Federal Reserve
-Budapesti Értéktõzsde
+Budapesti Ã‰rtÃ©ktÅ‘zsde
 BUX
 MTI-ECO
 MTI
@@ -9551,37 +9551,37 @@ DAX-30
 Nasdaq
 DJIA
 Fed
-Budapesti Értéktõzsde
+Budapesti Ã‰rtÃ©ktÅ‘zsde
 BUX
 Magyar Nemzeti Bank
 MNB
 MTI-ECO
 Nasdaq
-ÖTOB
-Budapesti Értéktõzsde
+Ã–TOB
+Budapesti Ã‰rtÃ©ktÅ‘zsde
 BUX
-Budapesti Értéktõzsde
+Budapesti Ã‰rtÃ©ktÅ‘zsde
 BUX
-Európai Központi Bank
+EurÃ³pai KÃ¶zponti Bank
 EKB
 FTSE-100
-Budapesti Értéktõzsde
+Budapesti Ã‰rtÃ©ktÅ‘zsde
 BUX
 MTI
 Fed
 Microsoft Corp.
-Budapesti Árutõzsde
+Budapesti ÃrutÅ‘zsde
 FTSE-100
 FTSE-100
-Skoglund Holding Befektetési Rt.
-Budapesti Értéktõzsde
-BÉT
+Skoglund Holding BefektetÃ©si Rt.
+Budapesti Ã‰rtÃ©ktÅ‘zsde
+BÃ‰T
 MTI-t
 MTI-ECO
 FTSE-100
 FTSE-100
 Microsoft
-Budapesti Értéktõzsde
+Budapesti Ã‰rtÃ©ktÅ‘zsde
 BUX
 FTSE 100-as
 DJIA
@@ -9592,86 +9592,86 @@ Deutsche Telekom
 DAX
 Schroder Salomon Smith Barney
 Nasdaq
-Libro Médiavállalat és Internetszolgáltató
+Libro MÃ©diavÃ¡llalat Ã©s InternetszolgÃ¡ltatÃ³
 Wall Street-en
 Nasdaq-ot
-Budapesti Értéktõzsde
+Budapesti Ã‰rtÃ©ktÅ‘zsde
 BUX
-Budapesti Árutõzsde
+Budapesti ÃrutÅ‘zsde
 FTSE-100
 FTSE-100
 MTI
 FTSE-100
 DAX-30
-Budapesti Értéktõzsde
-NABI Észak-Amerikai Jármûipari Rt
+Budapesti Ã‰rtÃ©ktÅ‘zsde
+NABI Ã‰szak-Amerikai JÃ¡rmÅ±ipari Rt
 MTI-ECO
-Budapesti Értéktõzsde
+Budapesti Ã‰rtÃ©ktÅ‘zsde
 BUX
-Budapesti Értéktõzsde
+Budapesti Ã‰rtÃ©ktÅ‘zsde
 BUX
 Magyar Nemzeti Bank
-Budapesti Értéktõzsde
+Budapesti Ã‰rtÃ©ktÅ‘zsde
 BUX
 Cseh Nemzeti Bank
 STEM/MARK
-Budapesti Értéktõzsde
-NABI Észak-Amerikai Jármûipari Rt
+Budapesti Ã‰rtÃ©ktÅ‘zsde
+NABI Ã‰szak-Amerikai JÃ¡rmÅ±ipari Rt
 Magyar Nemzeti Bank
 MNB
 Fitch
-Budapesti Értéktõzsde
+Budapesti Ã‰rtÃ©ktÅ‘zsde
 BUX
-Budapesti Árutõzsde
+Budapesti ÃrutÅ‘zsde
 DJIA
 MTI-ECO
-Budapesti Értéktõzsde
+Budapesti Ã‰rtÃ©ktÅ‘zsde
 BUX
-Budapesti Árutõzsde
+Budapesti ÃrutÅ‘zsde
 Nasdaq
 DJIA
 Fed
-Államadósság Kezelõ Központ
-ÁKK
+ÃllamadÃ³ssÃ¡g KezelÅ‘ KÃ¶zpont
+ÃKK
 Ericsson
-Budapesti Értéktõzsde
+Budapesti Ã‰rtÃ©ktÅ‘zsde
 BUX
-Államháztartási Hivatalt
-ÁHH
+ÃllamhÃ¡ztartÃ¡si Hivatalt
+ÃHH
 Magyar Nemzeti Bank
 FTSE-100
 FTSE-100
 MTI
 FTSE-100
 DAX-30
-Budapesti Értéktõzsde
+Budapesti Ã‰rtÃ©ktÅ‘zsde
 BUX
 Ericsson
-Humet Rt.-nél
-Magyar Tõkepiacban
+Humet Rt.-nÃ©l
+Magyar TÅ‘kepiacban
 Wall Street Nasdaq
-Budapesti Értéktõzsde
+Budapesti Ã‰rtÃ©ktÅ‘zsde
 BUX
-Budapesti Értéktõzsde
-BÉT
-Pénzügyi Szervezetek Állami Felügyelete
-BÉT
+Budapesti Ã‰rtÃ©ktÅ‘zsde
+BÃ‰T
+PÃ©nzÃ¼gyi Szervezetek Ãllami FelÃ¼gyelete
+BÃ‰T
 Magyar Nemzeti Bank
 MTI-t
 ABN Amro
-Budapesti Értéktõzsde
+Budapesti Ã‰rtÃ©ktÅ‘zsde
 BUX
 Fed
-Budapesti Értéktõzsdén
+Budapesti Ã‰rtÃ©ktÅ‘zsdÃ©n
 MTI
 DAX-30
 FTSE-100
-Budapesti Értéktõzsde
+Budapesti Ã‰rtÃ©ktÅ‘zsde
 BUX
 Ericsson
-Budapesti Értéktõzsde
-BÉT
-Magyar Tõkepiac
+Budapesti Ã‰rtÃ©ktÅ‘zsde
+BÃ‰T
+Magyar TÅ‘kepiac
 FTSE-100
 FTSE-100
 FTSE-100
@@ -9681,33 +9681,33 @@ Wall Street
 FED
 FED
 Cap Gemini
-Bankközi piac -továbbra is stabil a forint
+BankkÃ¶zi piac -tovÃ¡bbra is stabil a forint
 Wall Street
 DJIA
 Nasdaq
 MNB
 MTI-t
-Budapesti Értéktõzsde
+Budapesti Ã‰rtÃ©ktÅ‘zsde
 BUX
-Budapesti Árutõzsde
+Budapesti ÃrutÅ‘zsde
 MTI-ECO
-Budapesti Értéktõzsde
+Budapesti Ã‰rtÃ©ktÅ‘zsde
 BUX
 DJIA
 Nasdaq
 Credianstalt
-Budapesti Értéktõzsde
+Budapesti Ã‰rtÃ©ktÅ‘zsde
 BUX
-Budapesti Árutõzsde
+Budapesti ÃrutÅ‘zsde
 Magyar Nemzeti Bank
 MNB
 Postabank
-Budapesti Értéktõzsde
-Európai Központi Bank
+Budapesti Ã‰rtÃ©ktÅ‘zsde
+EurÃ³pai KÃ¶zponti Bank
 EKB
-Budapesti Értéktõzsde
+Budapesti Ã‰rtÃ©ktÅ‘zsde
 BUX
-Budapesti Értéktõzsde
+Budapesti Ã‰rtÃ©ktÅ‘zsde
 BUX
 Fed
 MTI
@@ -9715,7 +9715,7 @@ DAX-30
 FTSE-100
 FTSE-100
 FTSE-100
-Földhitel és Jelzálogbank Rt
+FÃ¶ldhitel Ã©s JelzÃ¡logbank Rt
 FHB
 MTI-nek
 Nikkei
@@ -9725,38 +9725,38 @@ Fed
 VA Technologie
 MTI-ECO
 Cap Gemini
-APEH Borsod-Abaúj-Zemplén Megyei Igazgatóságához
+APEH Borsod-AbaÃºj-ZemplÃ©n Megyei IgazgatÃ³sÃ¡gÃ¡hoz
 Komercni Banka
-Budapesti Értéktõzsde
+Budapesti Ã‰rtÃ©ktÅ‘zsde
 BUX
 EKB
-Budapesti Árutõzsde
+Budapesti ÃrutÅ‘zsde
 MTI-ECO
 Merrill Lynch
 Applied Micro Circuits
-Budapesti Értéktõzsde
+Budapesti Ã‰rtÃ©ktÅ‘zsde
 BUX
 Bundesbank
-Budapesti Értéktõzsde
+Budapesti Ã‰rtÃ©ktÅ‘zsde
 BUX
-Budapesti Értéktõzsde
+Budapesti Ã‰rtÃ©ktÅ‘zsde
 BUX
-Matáv
-Államadósság Kezelõ Központ
-ÁKK
-Budapesti Értéktõzsde
+MatÃ¡v
+ÃllamadÃ³ssÃ¡g KezelÅ‘ KÃ¶zpont
+ÃKK
+Budapesti Ã‰rtÃ©ktÅ‘zsde
 BUX
-Budapesti Értéktõzsde
+Budapesti Ã‰rtÃ©ktÅ‘zsde
 BUX
-Prímagáz Hungária Rt.
-Magyar Tõkepiacban
+PrÃ­magÃ¡z HungÃ¡ria Rt.
+Magyar TÅ‘kepiacban
 DAX-30
 Fed
-Budapesti Értéktõzsdén
+Budapesti Ã‰rtÃ©ktÅ‘zsdÃ©n
 MTI
 FTSE-100
-Aranypók
-Magyar Tõkepiac
+AranypÃ³k
+Magyar TÅ‘kepiac
 FTSE-100
 FTSE-100
 Magyar Nemzeti Bank
@@ -9767,31 +9767,31 @@ Libor
 OMV
 Verbund
 Fed
-Budapesti Árutõzsde
+Budapesti ÃrutÅ‘zsde
 MTI-ECO
-Budapesti Értéktõzsde
+Budapesti Ã‰rtÃ©ktÅ‘zsde
 BUX
-Budapesti Értéktõzsde
+Budapesti Ã‰rtÃ©ktÅ‘zsde
 BUX
 DJIA
 Nasdaq
 Nasdaq Composite
 Dow Jones
-Adó és Pénzügyi Ellenõrzési Hivatal
+AdÃ³ Ã©s PÃ©nzÃ¼gyi EllenÅ‘rzÃ©si Hivatal
 Apeh
 MTI-nek
-Pénzügyminisztérium
-Budapesti Értéktõzsde
+PÃ©nzÃ¼gyminisztÃ©rium
+Budapesti Ã‰rtÃ©ktÅ‘zsde
 BUX
 IMF
 Magyar Nemzeti Bank
 MNB
-Budapesti Értéktõzsde
+Budapesti Ã‰rtÃ©ktÅ‘zsde
 BUX
-Budapesti Értéktõzsde
+Budapesti Ã‰rtÃ©ktÅ‘zsde
 BUX
 MTI-ECO
-Budapesti Értéktõzsde
+Budapesti Ã‰rtÃ©ktÅ‘zsde
 BUX
 MNB
 MTI-nek
@@ -9799,20 +9799,20 @@ DAX-30
 FTSE-100
 FTSE-100
 FTSE-100
-Budapesti Értéktõzsdén
+Budapesti Ã‰rtÃ©ktÅ‘zsdÃ©n
 MTI
 Nikkei
-Budapesti Értéktõzsde
+Budapesti Ã‰rtÃ©ktÅ‘zsde
 BUX
-Budapesti Értéktõzsde
+Budapesti Ã‰rtÃ©ktÅ‘zsde
 BUX
-Matáv
+MatÃ¡v
 MNB
 MTI-nek
-Budapesti Értéktõzsde
+Budapesti Ã‰rtÃ©ktÅ‘zsde
 BUX
 MTI
-Budapesti Árutõzsde
+Budapesti ÃrutÅ‘zsde
 DJIA
 Austria Tabak
 Austria Tabak
@@ -9821,8 +9821,8 @@ Wall Street-en
 DJIA
 Nasdaq
 Humet Rt.
-Magyar Tõkepiac
-Budapesti Értéktõzsde
+Magyar TÅ‘kepiac
+Budapesti Ã‰rtÃ©ktÅ‘zsde
 BUX
 OECD
 FATF
@@ -9831,16 +9831,16 @@ Magyar Nemzeti Bank
 MNB
 MNB
 MTI-nek
-Budapesti Értéktõzsde
+Budapesti Ã‰rtÃ©ktÅ‘zsde
 BUX
-Budapesti Árutõzsde
+Budapesti ÃrutÅ‘zsde
 Fed
 Wall Street
-Budapesti Értéktõzsde
-Budapesti Értéktõzsde
+Budapesti Ã‰rtÃ©ktÅ‘zsde
+Budapesti Ã‰rtÃ©ktÅ‘zsde
 Credit Suisse First Boston
 CSFB
-Budapesti Értéktõzsde
+Budapesti Ã‰rtÃ©ktÅ‘zsde
 BUX
 FTSE-100
 MTI
@@ -9848,67 +9848,67 @@ FTSE-100
 FTSE-100
 APEH
 MTI-t
-Budapesti Értéktõzsde
+Budapesti Ã‰rtÃ©ktÅ‘zsde
 BUX
 DJIA
 Deutsche Telekom
-Wall Streetrõl
-KPMG Hungária
+Wall StreetrÅ‘l
+KPMG HungÃ¡ria
 OMV
-Postabanknál
-Pénzügyi Szervezetek Állami Felügyeletének
-PSZÁF
+PostabanknÃ¡l
+PÃ©nzÃ¼gyi Szervezetek Ãllami FelÃ¼gyeletÃ©nek
+PSZÃF
 MTI-nek
-PSZÁF
-Budapesti Árutõzsde
+PSZÃF
+Budapesti ÃrutÅ‘zsde
 MTI-ECO-t
-Budapesti Árutõzsde
-Budapesti Értéktõzsde
+Budapesti ÃrutÅ‘zsde
+Budapesti Ã‰rtÃ©ktÅ‘zsde
 BUX
-Budapesti Árutõzsde
-BÁT
-BÁT
-Budapesti Értéktõzsde
+Budapesti ÃrutÅ‘zsde
+BÃT
+BÃT
+Budapesti Ã‰rtÃ©ktÅ‘zsde
 BUX
-Budapesti Értéktõzsde
+Budapesti Ã‰rtÃ©ktÅ‘zsde
 BUX
-Budapesti Értéktõzsde
+Budapesti Ã‰rtÃ©ktÅ‘zsde
 BUX
 DAX-30
 FTSE-100
 FTSE-100
 FTSE-100
-Budapesti Értéktõzsdén
+Budapesti Ã‰rtÃ©ktÅ‘zsdÃ©n
 MTI
 Dow Jonesszal
-Nemzetközi Valutaalap
+NemzetkÃ¶zi Valutaalap
 EFF
 Infineon
-Wall Streettõl
+Wall StreettÅ‘l
 Dow Jonesszal
 EVN
 OMV
-Budapesti Értéktõzsde
+Budapesti Ã‰rtÃ©ktÅ‘zsde
 MTI-hez
-Budapesti Értéktõzsde
+Budapesti Ã‰rtÃ©ktÅ‘zsde
 BUX
-Budapesti Árutõzsde
+Budapesti ÃrutÅ‘zsde
 MTI-ECO
-Budapesti Értéktõzsde
+Budapesti Ã‰rtÃ©ktÅ‘zsde
 BUX
-Budapesti Értéktõzsde
+Budapesti Ã‰rtÃ©ktÅ‘zsde
 BUX
-Budapesti Értéktõzsdén
+Budapesti Ã‰rtÃ©ktÅ‘zsdÃ©n
 Richter
 Portfolio.hu
 Intel
-Fed Nyíltpiaci Bizottsága
+Fed NyÃ­ltpiaci BizottsÃ¡ga
 FOMC
-Államadósság Kezelõ Központ
-ÁKK
-Budapesti Értéktõzsde
+ÃllamadÃ³ssÃ¡g KezelÅ‘ KÃ¶zpont
+ÃKK
+Budapesti Ã‰rtÃ©ktÅ‘zsde
 BUX
-Budapesti Értéktõzsde
+Budapesti Ã‰rtÃ©ktÅ‘zsde
 BUX
 BUX
 MTI
@@ -9919,33 +9919,33 @@ FTSE-100
 MTI-ECO
 DJIA
 SAP
-Magyar Postáé
+Magyar PostÃ¡Ã©
 Postabankban
 Wall Street
 FTSE 100-as
 Colt Telecom
 Cable and Wireless
 Reuters
-Postabankról
-Országgyûlés
+PostabankrÃ³l
+OrszÃ¡ggyÅ±lÃ©s
 Magyar Posta
 Postabankban
-Budapesti Értéktõzsde
+Budapesti Ã‰rtÃ©ktÅ‘zsde
 BUX
 MTI-ECO
-Budapesti Árutõzsde
-Budapesti Értéktõzsde
+Budapesti ÃrutÅ‘zsde
+Budapesti Ã‰rtÃ©ktÅ‘zsde
 BUX
-Budapesti Értéktõzsde
+Budapesti Ã‰rtÃ©ktÅ‘zsde
 BUX
-Államadósság Kezelõ Központ
-ÁKK
-Budapesti Értéktõzsde
+ÃllamadÃ³ssÃ¡g KezelÅ‘ KÃ¶zpont
+ÃKK
+Budapesti Ã‰rtÃ©ktÅ‘zsde
 BUX
-Budapesti Értéktõzsde
+Budapesti Ã‰rtÃ©ktÅ‘zsde
 BUX
 DAX-30
-Budapesti Értéktõzsdén
+Budapesti Ã‰rtÃ©ktÅ‘zsdÃ©n
 MTI
 FTSE-100
 FTSE-100
@@ -9955,7 +9955,7 @@ OTP Bank Rt.
 DJIA
 Wall Street Nasdaq
 Siemens
-Európai Újjáépítési és Fejlesztési Bank
+EurÃ³pai ÃšjjÃ¡Ã©pÃ­tÃ©si Ã©s FejlesztÃ©si Bank
 EBRD
 ATX
 EKB
@@ -9963,12 +9963,12 @@ EKB
 Total Fina Elf
 Vivendi Universal
 MTI-ECO
-Budapesti Értéktõzsde
+Budapesti Ã‰rtÃ©ktÅ‘zsde
 BUX
-Budapesti Árutõzsde
-Budapesti Értéktõzsde
+Budapesti ÃrutÅ‘zsde
+Budapesti Ã‰rtÃ©ktÅ‘zsde
 BUX
-Budapesti Értéktõzsde
+Budapesti Ã‰rtÃ©ktÅ‘zsde
 BUX
 Magyar Nemzeti Bank
 MNB
@@ -9977,15 +9977,15 @@ MNB
 Credit Suisse First Boston
 CSFB
 Magyar Nemzeti Bank
-Magyar Köztársaság Alkotmánybírósága
-Tõzsdei Egyéni Befektetõk Érdekvédelmi Szövetsége
-TEBÉSZ
-TEBÉSZ
+Magyar KÃ¶ztÃ¡rsasÃ¡g AlkotmÃ¡nybÃ­rÃ³sÃ¡ga
+TÅ‘zsdei EgyÃ©ni BefektetÅ‘k Ã‰rdekvÃ©delmi SzÃ¶vetsÃ©ge
+TEBÃ‰SZ
+TEBÃ‰SZ
 MTI-t
-Budapesti Értéktõzsde
+Budapesti Ã‰rtÃ©ktÅ‘zsde
 BUX
 Magyar Nemzeti Bank
-Budapesti Értéktõzsde
+Budapesti Ã‰rtÃ©ktÅ‘zsde
 BUX
 Magyar Nemzeti Bank
 FTSE-100
@@ -9993,8 +9993,8 @@ DAX-30
 FTSE-100
 FTSE-100
 Magyar Nemzeti Bank
-Budapesti Árutõzsde
-Budapesti Értéktõzsde
+Budapesti ÃrutÅ‘zsde
+Budapesti Ã‰rtÃ©ktÅ‘zsde
 BUX
 DJIA
 Nasdaq
@@ -10007,32 +10007,32 @@ Siemens
 DAX
 PX-50-es
 Cesky Telecom
-Államadósság Kezelõ Központ Részvénytársaság
-ÁKK Rt.
+ÃllamadÃ³ssÃ¡g KezelÅ‘ KÃ¶zpont RÃ©szvÃ©nytÃ¡rsasÃ¡g
+ÃKK Rt.
 Dow Jones
-Budapesti Értéktõzsde
+Budapesti Ã‰rtÃ©ktÅ‘zsde
 BUX
-Amerika-közi Fejlesztési Bank
+Amerika-kÃ¶zi FejlesztÃ©si Bank
 IADB
 Caboto-Gruppo IntesaBci
 Westdeutsche Landesbank
 MTI-ECO
-Budapesti Árutõzsde
-Budapesti Értéktõzsde
+Budapesti ÃrutÅ‘zsde
+Budapesti Ã‰rtÃ©ktÅ‘zsde
 BUX
-Budapesti Értéktõzsde
+Budapesti Ã‰rtÃ©ktÅ‘zsde
 MTI-ECO-nak
-Budapesti Értéktõzsde
+Budapesti Ã‰rtÃ©ktÅ‘zsde
 Synergon
-BÉT
+BÃ‰T
 MTI-t
-Budapesti Értéktõzsde
+Budapesti Ã‰rtÃ©ktÅ‘zsde
 BUX
 Synergon
-Budapesti Értéktõzsde
-BÉT
+Budapesti Ã‰rtÃ©ktÅ‘zsde
+BÃ‰T
 MTI-t
-Magyar Közlönyben
+Magyar KÃ¶zlÃ¶nyben
 DAX-30
 FTSE-100
 MTI
@@ -10041,11 +10041,11 @@ FTSE-100
 General Electric
 Honeywell International
 Wall Street
-EU Bizottság
-Budapesti Értéktõzsde
+EU BizottsÃ¡g
+Budapesti Ã‰rtÃ©ktÅ‘zsde
 BUX
 MTI-ECO
-Budapesti Értéktõzsde
+Budapesti Ã‰rtÃ©ktÅ‘zsde
 BUX
 DJIA
 Nasdaq Composite
@@ -10054,60 +10054,60 @@ Nasdaq Composite
 Dow Jones
 nasdaq
 DKIA
-Budapesti Értéktõzsde
+Budapesti Ã‰rtÃ©ktÅ‘zsde
 BUX
-Államadósság Kezelõ Központ
-ÁKK
-Pénzügyminisztérium
+ÃllamadÃ³ssÃ¡g KezelÅ‘ KÃ¶zpont
+ÃKK
+PÃ©nzÃ¼gyminisztÃ©rium
 BorsodChem
-Budapesti Értéktõzsde
-BÉT
+Budapesti Ã‰rtÃ©ktÅ‘zsde
+BÃ‰T
 MTI-t
-Pénzügyminisztérium
+PÃ©nzÃ¼gyminisztÃ©rium
 Magyar Nemzeti Bank
 MTI-t
 BorsodChem
-Budapesti Értéktõzsde
+Budapesti Ã‰rtÃ©ktÅ‘zsde
 MTI-t
-Budapesti Értéktõzsde
+Budapesti Ã‰rtÃ©ktÅ‘zsde
 BUX
-Budapesti Értéktõzsdén
+Budapesti Ã‰rtÃ©ktÅ‘zsdÃ©n
 MTI
 DAX-30
 FTSE-100
 FTSE-100
 FTSE-100
-Világbank
-Budapesti Értéktõzsde
+VilÃ¡gbank
+Budapesti Ã‰rtÃ©ktÅ‘zsde
 BUX
 MTI-ECO
-Budapesti Értéktõzsde
+Budapesti Ã‰rtÃ©ktÅ‘zsde
 BUX
-Budapesti Árutõzsde
+Budapesti ÃrutÅ‘zsde
 Intel
 Fed
 OTP Bank
-Investicná a Rozvojová Banka
+InvesticnÃ¡ a RozvojovÃ¡ Banka
 IRB
 MTI-nek
 OTP Bank Rt.
 APEH
 Nasdaq
-Budapesti Értéktõzsde
+Budapesti Ã‰rtÃ©ktÅ‘zsde
 Cesky Telecom
 MTI-t
-APEH Jász-Nagykun-Szolnok Megyei Igazgatósága
-Európai Központi Bank
+APEH JÃ¡sz-Nagykun-Szolnok Megyei IgazgatÃ³sÃ¡ga
+EurÃ³pai KÃ¶zponti Bank
 EKB
 OTP Bank Rt.
-Magyar Tõkepiacban
+Magyar TÅ‘kepiacban
 OTP Bank Rt.
-Magyar Tõkepiacban
-Budapesti Értéktõzsde
+Magyar TÅ‘kepiacban
+Budapesti Ã‰rtÃ©ktÅ‘zsde
 Rzeczpospolita
 FTSE-100
 DAX-30
-Budapesti Értéktõzsde
+Budapesti Ã‰rtÃ©ktÅ‘zsde
 BUX
 BUX
 MTI
@@ -10115,35 +10115,35 @@ FTSE-100
 FTSE-100
 Nokia
 Neuer Markt
-Új Piac
+Ãšj Piac
 Nokia
 Nokia
 Magyar Nemzeti Bank
 MNB
-Jegybanktanács
+JegybanktanÃ¡cs
 Intel
 Federal Reserve
-Budapesti Értéktõzsde
+Budapesti Ã‰rtÃ©ktÅ‘zsde
 BUX
 MTI-ECO
-Budapesti Árutõzsde
-Budapesti Értéktõzsde
+Budapesti ÃrutÅ‘zsde
+Budapesti Ã‰rtÃ©ktÅ‘zsde
 BUX
-Államadósság Kezelõ Központ
-ÁKK
-Európai Központi Bank
+ÃllamadÃ³ssÃ¡g KezelÅ‘ KÃ¶zpont
+ÃKK
+EurÃ³pai KÃ¶zponti Bank
 EKB
 Bundesbank
 EKB
 MTI-ECO
-GKI Gazdaságkutató Rt.
+GKI GazdasÃ¡gkutatÃ³ Rt.
 Ernst and Young
-Budapesti Értéktõzsde
-Budapesti Értéktõzsde
+Budapesti Ã‰rtÃ©ktÅ‘zsde
+Budapesti Ã‰rtÃ©ktÅ‘zsde
 BUX
 DAX-30
 FTSE-100
-Budapesti Értéktõzsdén
+Budapesti Ã‰rtÃ©ktÅ‘zsdÃ©n
 MTI
 FTSE-100
 FTSE-100
@@ -10152,32 +10152,32 @@ Fraport
 Metro
 Lufthansa
 WIG 20-as
-Budapesti Értéktõzsde
+Budapesti Ã‰rtÃ©ktÅ‘zsde
 BUX
-Nemzetközi Fizetések Bankjának
+NemzetkÃ¶zi FizetÃ©sek BankjÃ¡nak
 BIS
 MTI-ECO
-Budapesti Árutõzsde
-Bükkös BF Kft.-nek
-Zala Megyei Vállalkozásfejlesztési Alapítvány
+Budapesti ÃrutÅ‘zsde
+BÃ¼kkÃ¶s BF Kft.-nek
+Zala Megyei VÃ¡llalkozÃ¡sfejlesztÃ©si AlapÃ­tvÃ¡ny
 ZMVA
 City
 FSA
-Budapesti Értéktõzsde
+Budapesti Ã‰rtÃ©ktÅ‘zsde
 Magyar Nemzeti Bank
 MNB
-Budapesti Értéktõzsde
-Befektetõ-védelmi Alap
+Budapesti Ã‰rtÃ©ktÅ‘zsde
+BefektetÅ‘-vÃ©delmi Alap
 Beva
-Amethyst Befektetési Rt.
+Amethyst BefektetÃ©si Rt.
 Beva
-Magyar Tõkepiacban
+Magyar TÅ‘kepiacban
 Wall Street
-Budapesti Értéktõzsde
+Budapesti Ã‰rtÃ©ktÅ‘zsde
 BUX
 DAX-30
 FTSE-100
-Budapesti Értéktõzsdén
+Budapesti Ã‰rtÃ©ktÅ‘zsdÃ©n
 MTI
 FTSE-100
 FTSE-100
@@ -10186,109 +10186,109 @@ The Sunday Times
 Reuters
 FTSE-100
 LUKOIL
-Budapesti Értéktõzsde
+Budapesti Ã‰rtÃ©ktÅ‘zsde
 BUX
-Budapesti Árutõzsde
-IBM-é
-Világbank
+Budapesti ÃrutÅ‘zsde
+IBM-Ã©
+VilÃ¡gbank
 Infineon
 CAC 40
 Nasdaq
-Budapesti Értéktõzsde
+Budapesti Ã‰rtÃ©ktÅ‘zsde
 BUX
-Budapesti Értéktõzsde
+Budapesti Ã‰rtÃ©ktÅ‘zsde
 BUX
 Nasdaq-nak
 MTI-ECO
-Budapesti Árutõzsde
-Lengyel Nemzeti Bankról
-Budapesti Értéktõzsde
-Budapesti Értéktõzsde
-Európai Beruházási Bank
+Budapesti ÃrutÅ‘zsde
+Lengyel Nemzeti BankrÃ³l
+Budapesti Ã‰rtÃ©ktÅ‘zsde
+Budapesti Ã‰rtÃ©ktÅ‘zsde
+EurÃ³pai BeruhÃ¡zÃ¡si Bank
 EIB
 EU
 Dresdner Kleinwort Wasserstein
 DAX-30
-Budapesti Értéktõzsde
+Budapesti Ã‰rtÃ©ktÅ‘zsde
 BUX
 FTSE-100
-Budapesti Értéktõzsdén
+Budapesti Ã‰rtÃ©ktÅ‘zsdÃ©n
 MTI
 FTSE-100
 FTSE-100
-Budapesti Értéktõzsde
+Budapesti Ã‰rtÃ©ktÅ‘zsde
 BUX
-Magyar Bankszövetség
+Magyar BankszÃ¶vetsÃ©g
 National Semiconductor Corp.
 Carreker Corp.
 MTI-ECO-nak
 Bayer
 E.On
 Intel
-Budapesti Értéktõzsde
+Budapesti Ã‰rtÃ©ktÅ‘zsde
 BUX
 MTI-ECO
-Concorde Értékpapír Rt.
-Internet és Befektetés
-Budapesti Értéktõzsde
-Budapesti Árutõzsde
-Államadósság Kezelõ Központ
-ÁKK
-Budapesti Értéktõzsde
+Concorde Ã‰rtÃ©kpapÃ­r Rt.
+Internet Ã©s BefektetÃ©s
+Budapesti Ã‰rtÃ©ktÅ‘zsde
+Budapesti ÃrutÅ‘zsde
+ÃllamadÃ³ssÃ¡g KezelÅ‘ KÃ¶zpont
+ÃKK
+Budapesti Ã‰rtÃ©ktÅ‘zsde
 EU
 ERM-II-be
 ERM-II
-Vám és Pénzügyõrség Országos Parancsnokságának
+VÃ¡m Ã©s PÃ©nzÃ¼gyÅ‘rsÃ©g OrszÃ¡gos ParancsnoksÃ¡gÃ¡nak
 VPOP
 MTI-nek
-Budapesti Értéktõzsde
+Budapesti Ã‰rtÃ©ktÅ‘zsde
 BUX
 MTI-ECO
-Budapesti Értéktõzsde
+Budapesti Ã‰rtÃ©ktÅ‘zsde
 BUX
-Európai Bizottság
-Budapesti Árutõzsde
-Budapesti Értéktõzsde
+EurÃ³pai BizottsÃ¡g
+Budapesti ÃrutÅ‘zsde
+Budapesti Ã‰rtÃ©ktÅ‘zsde
 BUX
 MTI
 ERM
 Wall Streeten
 DAX
-Román Nemzeti Bank
-Államadósság Kezelõ Központ Rt.
-ÁKK
-Budapesti Értéktõzsde
+RomÃ¡n Nemzeti Bank
+ÃllamadÃ³ssÃ¡g KezelÅ‘ KÃ¶zpont Rt.
+ÃKK
+Budapesti Ã‰rtÃ©ktÅ‘zsde
 Intel
 FTSE-100
-Budapesti Értéktõzsde
+Budapesti Ã‰rtÃ©ktÅ‘zsde
 BUX
 FTSE-100
-Magyar Tõkepiac
+Magyar TÅ‘kepiac
 FTSE-100
-Budapesti Értéktõzsde
+Budapesti Ã‰rtÃ©ktÅ‘zsde
 MTI
 DAX-30
-Budapesti Értéktõzsde
+Budapesti Ã‰rtÃ©ktÅ‘zsde
 BUX
-Budapesti Értéktõzsde
+Budapesti Ã‰rtÃ©ktÅ‘zsde
 BUX
-Budapesti Értéktõzsde
+Budapesti Ã‰rtÃ©ktÅ‘zsde
 BUX
 IWH
-Államadósság Kezelõ Központ Rt.
-ÁKK
-Pénzügyminisztérium
-Központi Statisztikai Hivatal
-Société Générale
+ÃllamadÃ³ssÃ¡g KezelÅ‘ KÃ¶zpont Rt.
+ÃKK
+PÃ©nzÃ¼gyminisztÃ©rium
+KÃ¶zponti Statisztikai Hivatal
+SociÃ©tÃ© GÃ©nÃ©rale
 MTI-ECO
-Budapesti Értéktõzsde
+Budapesti Ã‰rtÃ©ktÅ‘zsde
 BUX
-Budapesti Értéktõzsde
+Budapesti Ã‰rtÃ©ktÅ‘zsde
 BUX
-Budapesti Értéktõzsde
+Budapesti Ã‰rtÃ©ktÅ‘zsde
 BUX
-Budapesti Értéktõzsde
-Budapesti Árutõzsde
+Budapesti Ã‰rtÃ©ktÅ‘zsde
+Budapesti ÃrutÅ‘zsde
 DAX-30
 FTSE-100
 Intel
@@ -10301,25 +10301,25 @@ FTSE-100
 DAX-30
 FTSE-100
 MTI
-Budapesti Értéktõzsde
+Budapesti Ã‰rtÃ©ktÅ‘zsde
 BUX
 Wall Street
 Fed
-Budapesti Értéktõzsde
+Budapesti Ã‰rtÃ©ktÅ‘zsde
 BUX
 Nasdaq
 Nasdaq
-Államadósság Kezelõ Központ Rt.
-ÁKK
-Budapesti Értéktõzsde
+ÃllamadÃ³ssÃ¡g KezelÅ‘ KÃ¶zpont Rt.
+ÃKK
+Budapesti Ã‰rtÃ©ktÅ‘zsde
 BUX
-Budapesti Értéktõzsde
+Budapesti Ã‰rtÃ©ktÅ‘zsde
 BUX
 MTI-ECO
 Nasdaq
-Budapesti Értéktõzsde
+Budapesti Ã‰rtÃ©ktÅ‘zsde
 BUX
-Budapesti Árutõzsde
+Budapesti ÃrutÅ‘zsde
 Reuters
 Fed
 CAC 40-es
@@ -10330,37 +10330,37 @@ MTI-t
 FTSE-100
 DAX-30
 Szberbank
-Budapesti Értéktõzsdén
+Budapesti Ã‰rtÃ©ktÅ‘zsdÃ©n
 MTI
 Magyar Nemzeti Bank
 MNB
 MTI-t
-Budapesti Értéktõzsde
+Budapesti Ã‰rtÃ©ktÅ‘zsde
 BUX
-Budapesti Árutõzsde
-Budapesti Értéktõzsde
+Budapesti ÃrutÅ‘zsde
+Budapesti Ã‰rtÃ©ktÅ‘zsde
 BUX
-Budapesti Értéktõzsde
+Budapesti Ã‰rtÃ©ktÅ‘zsde
 BUX
-Budapesti Értéktõzsde
+Budapesti Ã‰rtÃ©ktÅ‘zsde
 BUX
-Budapesti Értéktõzsde
+Budapesti Ã‰rtÃ©ktÅ‘zsde
 BUX
 MTI-ECO
-Budapesti Árutõzsde
+Budapesti ÃrutÅ‘zsde
 MTI-ECO
-Budapesti Értéktõzsde
+Budapesti Ã‰rtÃ©ktÅ‘zsde
 BUX
-Crédit Lyonnais-nál
+CrÃ©dit Lyonnais-nÃ¡l
 FATF
-Budapesti Értéktõzsde
+Budapesti Ã‰rtÃ©ktÅ‘zsde
 BUX
-Budapesti Értéktõzsde
+Budapesti Ã‰rtÃ©ktÅ‘zsde
 BUX
 RTS
 ATX
 FTSE 100-as
-AXA biztosító
+AXA biztosÃ­tÃ³
 CAC 40
 IBM-nek
 Sun-nak
@@ -10372,8 +10372,8 @@ Wall Street
 Nasdaq-on
 Magyar Nemzeti Bank
 MNB
-Budapesti Árutõzsde
-Budapesti Értéktõzsde
+Budapesti ÃrutÅ‘zsde
+Budapesti Ã‰rtÃ©ktÅ‘zsde
 BUX
 MTI
 Wall Street
@@ -10381,38 +10381,38 @@ FTSE-100
 FTSE-100
 DAX-30
 MTI
-Budapesti Értéktõzsde
+Budapesti Ã‰rtÃ©ktÅ‘zsde
 BUX
-Budapesti Értéktõzsde
+Budapesti Ã‰rtÃ©ktÅ‘zsde
 BUX
 Financial Times Deutschland
-Budapesti Értéktõzsde
+Budapesti Ã‰rtÃ©ktÅ‘zsde
 BUX
 Magyar Nemzeti Bank
 MNB
-Budapesti Értéktõzsde
-Budapesti Értéktõzsdén
-Európai Újjáépítési és Fejlesztési Bank
+Budapesti Ã‰rtÃ©ktÅ‘zsde
+Budapesti Ã‰rtÃ©ktÅ‘zsdÃ©n
+EurÃ³pai ÃšjjÃ¡Ã©pÃ­tÃ©si Ã©s FejlesztÃ©si Bank
 EBRD
 Ziarul Financiar
-Budapesti Értéktõzsde
+Budapesti Ã‰rtÃ©ktÅ‘zsde
 BUX
-Pénzügyminisztérium
+PÃ©nzÃ¼gyminisztÃ©rium
 MTI
 MTI-Eco
 APEH
 Inland Revenue
-Budapesti Értéktõzsde
+Budapesti Ã‰rtÃ©ktÅ‘zsde
 BUX
-Budapesti Értéktõzsde
+Budapesti Ã‰rtÃ©ktÅ‘zsde
 BUX
-Budapesti Árutõzsde
-Budapesti Értéktõzsde
+Budapesti ÃrutÅ‘zsde
+Budapesti Ã‰rtÃ©ktÅ‘zsde
 BUX
 DAX-30
 FTSE-100
 MTI
-Budapesti Értéktõzsde
+Budapesti Ã‰rtÃ©ktÅ‘zsde
 BUX
 FTSE-100
 FTSE-100
@@ -10429,72 +10429,72 @@ J.P Morgan Chase
 Infineon
 Deutsche Telekom
 FTSE-100
-Budapesti Értéktõzsde
+Budapesti Ã‰rtÃ©ktÅ‘zsde
 BUX
-Budapesti Árutõzsde
+Budapesti ÃrutÅ‘zsde
 MTI-ECO
-Európai Bizottság
-Budapesti Értéktõzsde
-Államadósság Kezelõ Központ
-ÁKK
-Budapesti Értéktõzsde
+EurÃ³pai BizottsÃ¡g
+Budapesti Ã‰rtÃ©ktÅ‘zsde
+ÃllamadÃ³ssÃ¡g KezelÅ‘ KÃ¶zpont
+ÃKK
+Budapesti Ã‰rtÃ©ktÅ‘zsde
 BUX
-Európai Újjáépítési és Fejlesztési Bankkal
+EurÃ³pai ÃšjjÃ¡Ã©pÃ­tÃ©si Ã©s FejlesztÃ©si Bankkal
 EBRD
-Budapesti Értéktõzsde
+Budapesti Ã‰rtÃ©ktÅ‘zsde
 The Independent
-Budapesti Értéktõzsde Tanácsa
-S+H Portfolio Vagyonkezelõ és Munkaerõgazdálkodási Rt.
-BÉT
+Budapesti Ã‰rtÃ©ktÅ‘zsde TanÃ¡csa
+S+H Portfolio VagyonkezelÅ‘ Ã©s MunkaerÅ‘gazdÃ¡lkodÃ¡si Rt.
+BÃ‰T
 MTI-ECO
-Budapesti Értéktõzsde
+Budapesti Ã‰rtÃ©ktÅ‘zsde
 BUX
 Wall Street
 DAX-30
 FTSE-100
-Budapesti Értéktõzsdén
+Budapesti Ã‰rtÃ©ktÅ‘zsdÃ©n
 MTI
 FTSE-100
 FTSE-100
-Budapesti Értéktõzsde
+Budapesti Ã‰rtÃ©ktÅ‘zsde
 BUX
 Lucent Technologies Inc.
 Comverse Technology Inc.
 BUX
-Budapesti Értéktõzsdén
+Budapesti Ã‰rtÃ©ktÅ‘zsdÃ©n
 MTI
-Pénzügyminisztérium
+PÃ©nzÃ¼gyminisztÃ©rium
 Magyar Nemzeti Bank
 FTSE-100
 Magyar Nemzeti Bank
 Magyar Nemzeti Bank
 MNB
 MNB
-Budapesti Árutõzsde
-Budapesti Értéktõzsde
+Budapesti ÃrutÅ‘zsde
+Budapesti Ã‰rtÃ©ktÅ‘zsde
 BUX
 Magyar Nemzeti Bank
 MTI-ECO
-Pénzügyi Szervezetek Állami Felügyelete
-PSZÁF
+PÃ©nzÃ¼gyi Szervezetek Ãllami FelÃ¼gyelete
+PSZÃF
 Garmond Capital Rt.
 Eastbrokers Rt.
-Magyar Tõkepiac
-Államadósság Kezelõ Központ
-ÁKK
-Budapesti Értéktõzsde
+Magyar TÅ‘kepiac
+ÃllamadÃ³ssÃ¡g KezelÅ‘ KÃ¶zpont
+ÃKK
+Budapesti Ã‰rtÃ©ktÅ‘zsde
 Dresdner Kleinwort Wasserstein
-Budapesti Értéktõzsdén
+Budapesti Ã‰rtÃ©ktÅ‘zsdÃ©n
 MTI
 FTSE-100
 FTSE-100
 Magyar Nemzeti Bank
 MNB
 OTP Bank Rt.
-Investicná a Rozvojová Banka
+InvesticnÃ¡ a RozvojovÃ¡ Banka
 IRB
 OTP Bank Rt.
-Magyar Tõkepiacban
+Magyar TÅ‘kepiacban
 Fed
 Fed
 Rosztelekom
@@ -10504,33 +10504,33 @@ DJIA
 DAX-30
 FTSE-100
 Nikkei
-Budapesti Értéktõzsde
+Budapesti Ã‰rtÃ©ktÅ‘zsde
 BUX
-Budapesti Árutõzsde
+Budapesti ÃrutÅ‘zsde
 General Motors
 GM
 Wall Street
 Fed
 Fed
-Budapesti Értéktõzsde
+Budapesti Ã‰rtÃ©ktÅ‘zsde
 BUX
 MTI-ECO
-Budapesti Árutõzsde
+Budapesti ÃrutÅ‘zsde
 APEH
-Heves Megyei Igazgatóságának
+Heves Megyei IgazgatÃ³sÃ¡gÃ¡nak
 HI
 MTI-t
-Budapesti Értéktõzsde
-Államadósság Kezelõ Központ Rt.
-ÁKK
-ÁKK Rt.
+Budapesti Ã‰rtÃ©ktÅ‘zsde
+ÃllamadÃ³ssÃ¡g KezelÅ‘ KÃ¶zpont Rt.
+ÃKK
+ÃKK Rt.
 MTI-t
-Budapesti Értéktõzsde
-Budapesti Értéktõzsde
-NABI Észak-Amerikai Jármûipari Rt
-BÉT
+Budapesti Ã‰rtÃ©ktÅ‘zsde
+Budapesti Ã‰rtÃ©ktÅ‘zsde
+NABI Ã‰szak-Amerikai JÃ¡rmÅ±ipari Rt
+BÃ‰T
 MTI-t
-Budapesti Értéktõzsde
+Budapesti Ã‰rtÃ©ktÅ‘zsde
 BUX
 DAX-30
 FTSE-100
@@ -10541,20 +10541,20 @@ Nasdaq
 Fed
 Deutsche Telekom
 Allianz
-Budapesti Értéktõzsde
+Budapesti Ã‰rtÃ©ktÅ‘zsde
 BUX
 Global Finance
 OTP Bankot
 MTI-t
 MTI-ECO
-Budapesti Árutõzsde
-Budapesti Értéktõzsde
-Európai Központi Bank
+Budapesti ÃrutÅ‘zsde
+Budapesti Ã‰rtÃ©ktÅ‘zsde
+EurÃ³pai KÃ¶zponti Bank
 EKB
-Államadósság Kezelõ Központ
-ÁKK
-Budapesti Értéktõzsde
-Budapesti Értéktõzsde
+ÃllamadÃ³ssÃ¡g KezelÅ‘ KÃ¶zpont
+ÃKK
+Budapesti Ã‰rtÃ©ktÅ‘zsde
+Budapesti Ã‰rtÃ©ktÅ‘zsde
 BUX
 DAX-30
 FTSE-100
@@ -10566,25 +10566,25 @@ Wall Street
 Sun Microsystems
 Alcatel
 Wall Street
-Budapesti Értéktõzsde
+Budapesti Ã‰rtÃ©ktÅ‘zsde
 BUX
-APEH Pest Megyei Igazgatóságának
-Budapesti Árutõzsde
-Budapesti Értéktõzsde
+APEH Pest Megyei IgazgatÃ³sÃ¡gÃ¡nak
+Budapesti ÃrutÅ‘zsde
+Budapesti Ã‰rtÃ©ktÅ‘zsde
 BUX
-Budapesti Értéktõzsde
+Budapesti Ã‰rtÃ©ktÅ‘zsde
 BUX
 IPE
 Intercontinental Exchange
 ICE
-Budapesti Értéktõzsde
+Budapesti Ã‰rtÃ©ktÅ‘zsde
 BUX
-Európai Központi Bank
-Budapesti Értéktõzsdén
-Magyar Tõkepiacban
+EurÃ³pai KÃ¶zponti Bank
+Budapesti Ã‰rtÃ©ktÅ‘zsdÃ©n
+Magyar TÅ‘kepiacban
 Yahoo!
 Nasdaq
-Budapesti Értéktõzsde
+Budapesti Ã‰rtÃ©ktÅ‘zsde
 BUX
 DAX-30
 FTSE-100
@@ -10597,23 +10597,23 @@ EMC
 DAX
 Deutsche Telekom
 CAC 40
-"Szabadságjogok Háza
+"SzabadsÃ¡gjogok HÃ¡za
 CDL
-Budapesti Értéktõzsde
+Budapesti Ã‰rtÃ©ktÅ‘zsde
 BUX
-Budapesti Árutõzsde
+Budapesti ÃrutÅ‘zsde
 MTI-ECO
-APEH Vas Megyei Igazgatóságának
-Budapesti Értéktõzsde
+APEH Vas Megyei IgazgatÃ³sÃ¡gÃ¡nak
+Budapesti Ã‰rtÃ©ktÅ‘zsde
 BUX
 Credit Suisse First Boston
 CSFB
-Államadósság Kezelõ Központ
-ÁKK
-APEH Csongrád Megyei Igazgatósága
-Budapesti Értéktõzsde
+ÃllamadÃ³ssÃ¡g KezelÅ‘ KÃ¶zpont
+ÃKK
+APEH CsongrÃ¡d Megyei IgazgatÃ³sÃ¡ga
+Budapesti Ã‰rtÃ©ktÅ‘zsde
 BUX
-Budapesti Értéktõzsde
+Budapesti Ã‰rtÃ©ktÅ‘zsde
 BUX
 MTI
 Mol
@@ -10621,19 +10621,19 @@ DAX-30
 FTSE-100
 FTSE-100
 FTSE-100
-Földhitel és Jelzálogbank Rt
+FÃ¶ldhitel Ã©s JelzÃ¡logbank Rt
 Deutsche Telekom
 Magyar Nemzeti Bank
 MNB
-CW AG IA-ról
+CW AG IA-rÃ³l
 MTI-nek
-Budapesti Értéktõzsde
+Budapesti Ã‰rtÃ©ktÅ‘zsde
 BUX
 MTI-ECO-nak
-Budapesti árutõzsde
-Világbank
+Budapesti Ã¡rutÅ‘zsde
+VilÃ¡gbank
 Frankfurter Allgemeine Zeitung
-Budapesti Értéktõzsde
+Budapesti Ã‰rtÃ©ktÅ‘zsde
 BUX
 Euronext
 LSE
@@ -10641,45 +10641,45 @@ OM AB
 LSE-re
 Magyar Nemzeti Bank
 MNB
-Budapesti Értéktõzsde
+Budapesti Ã‰rtÃ©ktÅ‘zsde
 BUX
 Wall Street
-Budapesti Értéktõzsde
+Budapesti Ã‰rtÃ©ktÅ‘zsde
 BUX
-Budapesti Értéktõzsdén
+Budapesti Ã‰rtÃ©ktÅ‘zsdÃ©n
 MTI
 FTSE-100
 DAX-30
 Nikkei
-Budapesti Értéktõzsde
+Budapesti Ã‰rtÃ©ktÅ‘zsde
 BUX
 The New York Times
-Budapesti Árutõzsde
+Budapesti ÃrutÅ‘zsde
 DJIA
 Wall Street
 Lufthansa
 Deutsche Bank
 Alcatel
 Der Konsument
-A fogyasztó
-Budapesti Értéktõzsde
+A fogyasztÃ³
+Budapesti Ã‰rtÃ©ktÅ‘zsde
 BUX
 ACI
-Budapesti Árutõzsde
+Budapesti ÃrutÅ‘zsde
 MTI-ECO
-Budapesti Értéktõzsde
+Budapesti Ã‰rtÃ©ktÅ‘zsde
 BUX
 Labour
-Budapesti Értéktõzsde
+Budapesti Ã‰rtÃ©ktÅ‘zsde
 BUX
 Brent
-Nemzetközi Olajtõzsdén
+NemzetkÃ¶zi OlajtÅ‘zsdÃ©n
 Brent
-Nemzetközi Olajtõzsdén
-Budapesti Értéktõzsde
+NemzetkÃ¶zi OlajtÅ‘zsdÃ©n
+Budapesti Ã‰rtÃ©ktÅ‘zsde
 BUX
 MTI
-Budapesti Értéktõzsde
+Budapesti Ã‰rtÃ©ktÅ‘zsde
 DAX-30
 FTSE-100
 FTSE-100
@@ -10695,37 +10695,37 @@ DAX-30
 FTSE 100-as
 Nissan
 Renault
-L'Oréal-é
-Bouygues-é
-Antenna Hungária Rt.
+L'OrÃ©al-Ã©
+Bouygues-Ã©
+Antenna HungÃ¡ria Rt.
 MTI-vel
-Budapesti Értéktõzsde
+Budapesti Ã‰rtÃ©ktÅ‘zsde
 BUX
 MTI-ECO
 MTI-ECO
 TB
-Budapesti Értéktõzsde
+Budapesti Ã‰rtÃ©ktÅ‘zsde
 BUX
-Magyar Fejlesztési Bank Rt-rõl
+Magyar FejlesztÃ©si Bank Rt-rÅ‘l
 MFB
-Magyar Közlöny
-Országgyûlés
-Budapesti Értéktõzsde
+Magyar KÃ¶zlÃ¶ny
+OrszÃ¡ggyÅ±lÃ©s
+Budapesti Ã‰rtÃ©ktÅ‘zsde
 BUX
 MTI
-Adó és Pénzügyi Ellenõrzési Hivataltól
+AdÃ³ Ã©s PÃ©nzÃ¼gyi EllenÅ‘rzÃ©si HivataltÃ³l
 MTI-ECO
-Államadósság Kezelõ Központ
-ÁKK
-Adó és Pénzügyi Ellenõrzési Hivatalhoz
+ÃllamadÃ³ssÃ¡g KezelÅ‘ KÃ¶zpont
+ÃKK
+AdÃ³ Ã©s PÃ©nzÃ¼gyi EllenÅ‘rzÃ©si Hivatalhoz
 APEH
-Budapesti Árutõzsde
-Adó és Pénzügyi Ellenõrzési Hivatalhoz
+Budapesti ÃrutÅ‘zsde
+AdÃ³ Ã©s PÃ©nzÃ¼gyi EllenÅ‘rzÃ©si Hivatalhoz
 APEH
-Budapesti Értéktõzsde
+Budapesti Ã‰rtÃ©ktÅ‘zsde
 BUX
 LSE
-Budapesti Értéktõzsde
+Budapesti Ã‰rtÃ©ktÅ‘zsde
 BUX
 Wall Street
 FTSE-100
@@ -10741,40 +10741,40 @@ Nasdaq
 FTSE 100-as
 Lengyel Nemzeti Bank
 NBP
-Európai Pénzügyi Unió
+EurÃ³pai PÃ©nzÃ¼gyi UniÃ³
 EMU
-Államadósság Kezelõ Központ Rt.
-Európa Tanács Fejlesztési Bankjánál
+ÃllamadÃ³ssÃ¡g KezelÅ‘ KÃ¶zpont Rt.
+EurÃ³pa TanÃ¡cs FejlesztÃ©si BankjÃ¡nÃ¡l
 CEB
-Pénzügyminisztérium
+PÃ©nzÃ¼gyminisztÃ©rium
 MTI-t
-Egyesített Energiarendszerek
-Szerbanké
+EgyesÃ­tett Energiarendszerek
+SzerbankÃ©
 Reuters
-Budapesti Értéktõzsde
+Budapesti Ã‰rtÃ©ktÅ‘zsde
 BUX
-Budapesti Árutõzsde
-Kereskedelmi és Hitelbank
+Budapesti ÃrutÅ‘zsde
+Kereskedelmi Ã©s Hitelbank
 K and H
 ABN Amro Bank
 K and H
 MTI-t
-Budapesti Értéktõzsde
+Budapesti Ã‰rtÃ©ktÅ‘zsde
 BUX
-Államadósság Kezelõ Központ
-ÁKK
-Budapesti Értéktõzsde
+ÃllamadÃ³ssÃ¡g KezelÅ‘ KÃ¶zpont
+ÃKK
+Budapesti Ã‰rtÃ©ktÅ‘zsde
 BUX
-Államadósság Kezelõ Központ
-ÁKK
+ÃllamadÃ³ssÃ¡g KezelÅ‘ KÃ¶zpont
+ÃKK
 MTI-ECO
-Budapesti Értéktõzsde
+Budapesti Ã‰rtÃ©ktÅ‘zsde
 BUX
-Munkáskamara
+MunkÃ¡skamara
 AK
-Budapesti Értéktõzsde
+Budapesti Ã‰rtÃ©ktÅ‘zsde
 BUX
-Budapesti Értéktõzsde
+Budapesti Ã‰rtÃ©ktÅ‘zsde
 BUX
 Wall Street-en:
 Nasdaq Composite
@@ -10787,28 +10787,28 @@ Nasdaq
 Magyar Nemzeti Bank
 MNB
 MTI-nek
-A forint útja az euró felé
-Egyesült Energiarendszerek
+A forint Ãºtja az eurÃ³ felÃ©
+EgyesÃ¼lt Energiarendszerek
 EER
-Budapesti Értéktõzsde
+Budapesti Ã‰rtÃ©ktÅ‘zsde
 BUX
-Budapesti Árutõzsde
+Budapesti ÃrutÅ‘zsde
 MTI-ECO
-Budapesti Értéktõzsde
+Budapesti Ã‰rtÃ©ktÅ‘zsde
 BUX
-Budapesti Értéktõzsde
+Budapesti Ã‰rtÃ©ktÅ‘zsde
 BUX
-Államadósság Kezelõ Központ
-ÁKK
-Budapesti Értéktõzsde
+ÃllamadÃ³ssÃ¡g KezelÅ‘ KÃ¶zpont
+ÃKK
+Budapesti Ã‰rtÃ©ktÅ‘zsde
 BUX
-Budapesti Értéktõzsde
+Budapesti Ã‰rtÃ©ktÅ‘zsde
 BUX
-Budapesti Értéktõzsdén
+Budapesti Ã‰rtÃ©ktÅ‘zsdÃ©n
 MTI
 Sinergon
-Magyar Tõkepiacban
-Budapesti Értéktõzsde
+Magyar TÅ‘kepiacban
+Budapesti Ã‰rtÃ©ktÅ‘zsde
 BUX
 FTSE-100
 DAX-30
@@ -10822,31 +10822,31 @@ Magyar Nemzeti Bank
 MTI-hez
 TechWIG
 WIG 20
-Budapesti Értéktõzsde
+Budapesti Ã‰rtÃ©ktÅ‘zsde
 BUX
-Világbank
-Világbank
+VilÃ¡gbank
+VilÃ¡gbank
 Credit Suisse First Boston
-Budapesti Árutõzsde
-EU-Bizottság
+Budapesti ÃrutÅ‘zsde
+EU-BizottsÃ¡g
 Magyar Nemzeti Bank
 MNB
-Budapesti Értéktõzsde
-Pénzügyi Szervezetek Állami Felügyeletének
-PSZÁF
-Európai Biztosításfelügyeletek
+Budapesti Ã‰rtÃ©ktÅ‘zsde
+PÃ©nzÃ¼gyi Szervezetek Ãllami FelÃ¼gyeletÃ©nek
+PSZÃF
+EurÃ³pai BiztosÃ­tÃ¡sfelÃ¼gyeletek
 Morgan Stanley Capital International
 MSCI
-Pénzügyi Szervezetek Állami Felügyeletének
-PSZÁF
-Európai Biztosításfelügyeletek
-Budapesti Értéktõzsde
-Budapesti Értéktõzsde
+PÃ©nzÃ¼gyi Szervezetek Ãllami FelÃ¼gyeletÃ©nek
+PSZÃF
+EurÃ³pai BiztosÃ­tÃ¡sfelÃ¼gyeletek
+Budapesti Ã‰rtÃ©ktÅ‘zsde
+Budapesti Ã‰rtÃ©ktÅ‘zsde
 BUX
 Wall Street
 Morgan Stanley Capital International
 MSCI
-Budapesti Értéktõzsdével
+Budapesti Ã‰rtÃ©ktÅ‘zsdÃ©vel
 MTI
 DAX-30
 FTSE-100
@@ -10858,32 +10858,32 @@ DJIA
 Preussag
 ATX
 EU
-Société Générale
+SociÃ©tÃ© GÃ©nÃ©rale
 CAC 40
 BSkyB
-Budapesti Értéktõzsde
+Budapesti Ã‰rtÃ©ktÅ‘zsde
 BUX
-Budapesti Árutõzsde
-Budapesti Értéktõzsde
+Budapesti ÃrutÅ‘zsde
+Budapesti Ã‰rtÃ©ktÅ‘zsde
 BUX
-Földhitel és Jelzálogbank Rt.
+FÃ¶ldhitel Ã©s JelzÃ¡logbank Rt.
 MTI-t
-Budapesti Értéktõzsde
+Budapesti Ã‰rtÃ©ktÅ‘zsde
 BUX
 MTI-ECO
-Budapesti Értéktõzsde
+Budapesti Ã‰rtÃ©ktÅ‘zsde
 BUX
 Wall Street
-Budapesti Értéktõzsde Titkárságának
+Budapesti Ã‰rtÃ©ktÅ‘zsde TitkÃ¡rsÃ¡gÃ¡nak
 Richter Gedeon Rt.
-BÉT
+BÃ‰T
 MTI-vel
-Budapesti Értéktõzsde
+Budapesti Ã‰rtÃ©ktÅ‘zsde
 BUX
 DAX-30
 Magyar Nemzeti Bank
 MTI-vel
-Budapesti Értéktõzsdén
+Budapesti Ã‰rtÃ©ktÅ‘zsdÃ©n
 MTI
 FTSE-100
 FTSE-100
@@ -10895,39 +10895,39 @@ Fed
 Wall Streeten
 Europay International
 Europay
-Európai Uniónak
-Európai Monetáris Uniónak
+EurÃ³pai UniÃ³nak
+EurÃ³pai MonetÃ¡ris UniÃ³nak
 Magyar Nemzeti Bank
-Tiszai Vegyi Kombinát Rt.
-Magyar Közgazdasági Társaság
-Budapesti Értéktõzsde
+Tiszai Vegyi KombinÃ¡t Rt.
+Magyar KÃ¶zgazdasÃ¡gi TÃ¡rsasÃ¡g
+Budapesti Ã‰rtÃ©ktÅ‘zsde
 BUX
-Budapesti Árutõzsde
-Államadósság Kezelõ Központ Rt.
-ÁKK
+Budapesti ÃrutÅ‘zsde
+ÃllamadÃ³ssÃ¡g KezelÅ‘ KÃ¶zpont Rt.
+ÃKK
 ABN AMRO Magyar Bank Rt.-vel
-ÁKK
+ÃKK
 MTI-t
-Államadósság Kezelõ Központ
-ÁKK
-Budapesti Értéktõzsde
+ÃllamadÃ³ssÃ¡g KezelÅ‘ KÃ¶zpont
+ÃKK
+Budapesti Ã‰rtÃ©ktÅ‘zsde
 BUX
 MTI-t
 APEH
-Pénzügyminisztérium
-Országos Nyugdíjas Polgári Egyesülettel
-Pénzügyminisztérium
-Országos Nyugdíjas Polgári Egyesület
-Budapesti Értéktõzsde
+PÃ©nzÃ¼gyminisztÃ©rium
+OrszÃ¡gos NyugdÃ­jas PolgÃ¡ri EgyesÃ¼lettel
+PÃ©nzÃ¼gyminisztÃ©rium
+OrszÃ¡gos NyugdÃ­jas PolgÃ¡ri EgyesÃ¼let
+Budapesti Ã‰rtÃ©ktÅ‘zsde
 BUX
 MTI-ECO
-Budapesti Árutõzsde
-Budapesti Értéktõzsde
+Budapesti ÃrutÅ‘zsde
+Budapesti Ã‰rtÃ©ktÅ‘zsde
 BUX
-Egyesült Energiarendszerek
+EgyesÃ¼lt Energiarendszerek
 RTS
-Államadósság Kezelõ Központ
-ÁKK
+ÃllamadÃ³ssÃ¡g KezelÅ‘ KÃ¶zpont
+ÃKK
 CAC 40
 NYMEX
 IPE
@@ -10938,81 +10938,81 @@ FTSE 100
 Wall Street-en
 Du Pont
 SAP
-Budapesti Értéktõzsde
-BÉT
-BÉT
-Budapesti Értéktõzsde
+Budapesti Ã‰rtÃ©ktÅ‘zsde
+BÃ‰T
+BÃ‰T
+Budapesti Ã‰rtÃ©ktÅ‘zsde
 BUX
 FTSE-100
 FTSE-100
 Newex
-Deutsche Börse
+Deutsche BÃ¶rse
 FTSE-100
 DAX-30
-Nikkei 225: +1,58 százalék
+Nikkei 225: +1,58 szÃ¡zalÃ©k
 MTI
-Budapesti Értéktõzsde
+Budapesti Ã‰rtÃ©ktÅ‘zsde
 BUX
-Budapesti Értéktõzsde
+Budapesti Ã‰rtÃ©ktÅ‘zsde
 BUX
 MTI-ECO
-Budapesti Értéktõzsde
+Budapesti Ã‰rtÃ©ktÅ‘zsde
 Wall Street
 Fed
-Államadósság Kezelõ Központ Rt.
-ÁKK
-Budapesti Értéktõzsde
+ÃllamadÃ³ssÃ¡g KezelÅ‘ KÃ¶zpont Rt.
+ÃKK
+Budapesti Ã‰rtÃ©ktÅ‘zsde
 BUX
-Európa Ingatlanbefektetési Alap
+EurÃ³pa IngatlanbefektetÃ©si Alap
 MTI-t
 DAX-30
-Budapesti Értéktõzsdén
+Budapesti Ã‰rtÃ©ktÅ‘zsdÃ©n
 MTI
 MTI-ECO
-Budapesti Értéktõzsde
+Budapesti Ã‰rtÃ©ktÅ‘zsde
 BUX
-Budapesti Árutõzsde
-Budapesti Értéktõzsde
+Budapesti ÃrutÅ‘zsde
+Budapesti Ã‰rtÃ©ktÅ‘zsde
 BUX
 FTSE-100
-APEH Csongrád Megyei Igazgatóságának
+APEH CsongrÃ¡d Megyei IgazgatÃ³sÃ¡gÃ¡nak
 MTI-t
 FTSE-100
 FTSE-100
 OTP Bank Rt.
 OTP
-Magyar Tõkepiacban
+Magyar TÅ‘kepiacban
 BUX
 Budapest Bank Rt.
-Magyar Tõkepiacban
+Magyar TÅ‘kepiacban
 FTSE-100
 FTSE-100
 FTSE-100
 DAX-30
 DJIA
-Budapesti Értéktõzsdén
+Budapesti Ã‰rtÃ©ktÅ‘zsdÃ©n
 MTI
-Budapesti Értéktõzsde
+Budapesti Ã‰rtÃ©ktÅ‘zsde
 BUX
-Budapesti Értéktõzsde
+Budapesti Ã‰rtÃ©ktÅ‘zsde
 BUX
 DJIA
 Fed
-Budapesti Értéktõzsde
+Budapesti Ã‰rtÃ©ktÅ‘zsde
 BUX
-Államadósság Kezelõ Központ
-ÁKK
+ÃllamadÃ³ssÃ¡g KezelÅ‘ KÃ¶zpont
+ÃKK
 Wall Street
 Fed
-Budapesti Értéktõzsde
+Budapesti Ã‰rtÃ©ktÅ‘zsde
 BUX
-Európai Bizottságnak
-Budapesti Értéktõzsde
-Budapesti Árutõzsde
-Budapesti Értéktõzsde
+EurÃ³pai BizottsÃ¡gnak
+Budapesti Ã‰rtÃ©ktÅ‘zsde
+Budapesti ÃrutÅ‘zsde
+Budapesti Ã‰rtÃ©ktÅ‘zsde
 BUX
 MTI-ECO
-Budapesti Értéktõzsde
+Budapesti Ã‰rtÃ©ktÅ‘zsde
 BUX
 Euronext
 Marconi
@@ -11023,42 +11023,42 @@ BUX
 MTI
 Postabank
 Magyar Nemzeti Bank
-Budapesti Értéktõzsde
+Budapesti Ã‰rtÃ©ktÅ‘zsde
 BUX
-Budapesti Értéktõzsde
+Budapesti Ã‰rtÃ©ktÅ‘zsde
 BUX
-Budapesti Értéktõzsde
-BÉT
+Budapesti Ã‰rtÃ©ktÅ‘zsde
+BÃ‰T
 Eravis
-BÉT
+BÃ‰T
 MTI-t
 Magyar Nemzeti Bank
 Magyar Nemzeti Bank
 Duma
 MTI-ECO
-Budapesti Értéktõzsde
+Budapesti Ã‰rtÃ©ktÅ‘zsde
 BUX
-Budapesti Értéktõzsde
+Budapesti Ã‰rtÃ©ktÅ‘zsde
 BUX
-Munkaadók és Gyáriparosok Országos Szövetsége
+MunkaadÃ³k Ã©s GyÃ¡riparosok OrszÃ¡gos SzÃ¶vetsÃ©ge
 MGYOSZ
-Gazdasági Tanács Operatív Bizottságának
+GazdasÃ¡gi TanÃ¡cs OperatÃ­v BizottsÃ¡gÃ¡nak
 Ecevit
 IMF
 IMF
-Budapesti Árutõzsde
+Budapesti ÃrutÅ‘zsde
 Magyar Nemzeti Bank
 MNB
 MTI-t
 MTI-ECO-nak
-Budapesti Árutõzsde
-Budapesti Értéktõzsde
+Budapesti ÃrutÅ‘zsde
+Budapesti Ã‰rtÃ©ktÅ‘zsde
 BUX
 Wall Street-re
 Bubor
 MTI-ECO
 Richter Gedeon Rt.
-Magyar Tõkepiacban
+Magyar TÅ‘kepiacban
 SAP
 Siemens
 Deutsche Telekom
@@ -11066,38 +11066,38 @@ EMC Corp.
 EMC Corp.
 Magyar Nemzeti Bank
 Magyar Nemzeti Bank
-Budapesti Árutõzsde
-Budapesti Értéktõzsde
+Budapesti ÃrutÅ‘zsde
+Budapesti Ã‰rtÃ©ktÅ‘zsde
 BUS
 Arago Rt.
 Eravis
-Magyar Tõkepiacban
-Budapesti Értéktõzsde
+Magyar TÅ‘kepiacban
+Budapesti Ã‰rtÃ©ktÅ‘zsde
 BUX
-Nikkei 225-ös
-BÉT-en
+Nikkei 225-Ã¶s
+BÃ‰T-en
 MTI
-Budapesti Értéktõzsde
+Budapesti Ã‰rtÃ©ktÅ‘zsde
 MTI-nek
-Budapesti Értéktõzsde
+Budapesti Ã‰rtÃ©ktÅ‘zsde
 BUX
-Budapesti Értéktõzsde
+Budapesti Ã‰rtÃ©ktÅ‘zsde
 BUX
-Budapesti Értéktõzsde
+Budapesti Ã‰rtÃ©ktÅ‘zsde
 BUX
-Budapesti Értéktõzsde
+Budapesti Ã‰rtÃ©ktÅ‘zsde
 BUX
-Államadósság Kezelõ Központ
-ÁKK
+ÃllamadÃ³ssÃ¡g KezelÅ‘ KÃ¶zpont
+ÃKK
 Magyar Nemzeti Bank
 MNB
 Magyar Nemzeti Bank
 MNB
 MTI-t
-Budapesti Árutõzsde
-Budapesti Értéktõzsde
+Budapesti ÃrutÅ‘zsde
+Budapesti Ã‰rtÃ©ktÅ‘zsde
 BUX
-OTP Értékpapír Rt.
+OTP Ã‰rtÃ©kpapÃ­r Rt.
 MTI-ECO-t
-Budapesti Értéktõzsde
+Budapesti Ã‰rtÃ©ktÅ‘zsde
 BUX

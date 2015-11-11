@@ -8,6 +8,7 @@ built and used by HunTag
 
 import sys
 import math
+import pickle
 from collections import defaultdict
 
 from tools import sentenceIterator
@@ -71,16 +72,17 @@ class TransModel:
         self.tags = set()
         self.bigramLogProb = {}
         self.unigramLogProb = {}
+
         # Compute unigram probs: P(t_n) = C(t_n)/sum_i(C(t_i))
         for tag, count in self._unigramCount.items():
             # if tag != self._boundarySymbol:
             self.tags.add(tag)
             self.unigramLogProb[tag] = math.log(count) - math.log(self._obsCount)
 
-        # Compute bigram probs (conditional probability using joint probabilities):
+        # Compute bigram probs (Conditional probability using joint probabilities):
         # Unigram prob: P(t_n-1) = C(t_n)/sum_i(C(t_i)) = self.unigramLogProb[tag]
-        # Joint prob: P(t_n-1, t_n) = C(t_n-1, t_n)/C(T_n-1) = bigramJointLogProb
-        # Conditional prob: P(t_n|t_n-1) = P(t_n-1, t_n)/P(t_n-1) = bigramJointLogProb(tag1,tag2) - self.unigramLogProb[tag1]
+        # Joint prob (bigram): P(t_n-1, t_n) = C(t_n-1, t_n)/C(t_n-1) = bigramJointLogProb
+        # Conditional prob (bigram): P(t_n|t_n-1) = P(t_n-1, t_n)/P(t_n-1) = bigramJointLogProb(tag1,tag2) - self.unigramLogProb[tag1]
         for pair, count in self._bigramCount.items():  # log(Bigram / Unigram)
             bigramJointLogProb = math.log(count) - math.log(self._unigramCount[pair[0]])
             self.bigramLogProb[pair] = bigramJointLogProb - self.unigramLogProb[pair[0]]
@@ -100,35 +102,15 @@ class TransModel:
         return math.exp(self.logProb(first, second))
 
     def writeToFile(self, fileName):
-        f = open(fileName, 'w', encoding='UTF-8')
-        f.write('{0}\n{1}\n{2}\n'.format(self._smooth, self._boundarySymbol,
-                                         self._languageModelWeight))
-        tagProbs = ['{0}:{1}'.format(tag, str(self.unigramLogProb[tag]))
-                    for tag in self.tags if tag != self._boundarySymbol]
-        f.write('{0}\n'.format(' '.join(tagProbs)))
-        for t1 in self.tags:
-            for t2 in self.tags:
-                # It's better to make the format specifier explicit
-                f.write('{0}\t{1}\t{2:.8f}\n'.format(t1, t2,
-                                                     self.logProb(t1, t2)))
-        f.close()
+        self.tags.remove(self._boundarySymbol)
+        with open(fileName, 'wb') as f:
+            pickle.dump(self, f)
 
     @staticmethod
     def getModelFromFile(fileName):
-        modelFile = open(fileName, encoding='UTF-8')
-        smooth = float(modelFile.readline())
-        boundarySymbol = modelFile.readline().strip()
-        lmw = float(modelFile.readline())
-        model = TransModel(smooth=smooth, boundarySymbol=boundarySymbol, lmw=lmw)
-        tagProbs = modelFile.readline().split()
-        for tagAndProb in tagProbs:
-            tag, prob = tagAndProb.split(':')
-            model.tags.add(tag)
-            model.unigramLogProb[tag] = float(prob)
-        for line in modelFile:
-            l = line.split()
-            t1, t2, logProb = l[0], l[1], float(l[2])
-            model.bigramLogProb[(t1, t2)] = logProb
+        f = open(fileName, 'rb')
+        model = pickle.load(f)
+        f.close()
         return model
 
     """
@@ -150,6 +132,7 @@ class TransModel:
         V = [{}]
         path = {}
         states = self.tags
+
         # Initialize base cases (t == 0)
         for y in states:
             V[0][y] = (self._languageModelWeight *

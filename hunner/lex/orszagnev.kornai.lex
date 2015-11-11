@@ -1,13 +1,13 @@
-Ázsia
-Afganisztán
+Ãzsia
+AfganisztÃ¡n
 Afghanistan
 Afrika
-Albánia
+AlbÃ¡nia
 Albania
-Algéria
+AlgÃ©ria
 Algeria
 Amerika
-Amerikai Egyesült Államok
+Amerikai EgyesÃ¼lt Ãllamok
 Andorra
 Anglia
 Angola
@@ -17,10 +17,10 @@ Armenia
 Aruba 
 Australia
 Austria
-Ausztrália
+AusztrÃ¡lia
 Ausztria
 Azerbaijan
-Azerbajdzsán
+AzerbajdzsÃ¡n
 Bahama
 Bahrain
 Bangladesh
@@ -40,7 +40,7 @@ Botswana
 Brazil
 Brazilia
 Brunei
-Bulgária
+BulgÃ¡ria
 Bulgaria
 Burkina Faso
 Burma
@@ -59,60 +59,60 @@ Congo
 Costa Rica
 Cote dIvoire
 Croatia
-Csád
-Cseh Köztársaság
-Csehszlovákia
+CsÃ¡d
+Cseh KÃ¶ztÃ¡rsasÃ¡g
+CsehszlovÃ¡kia
 Cuba
 Cyprus
 Czech Republic
-DÁnia
-Délafrika
-Délamerika
-Délkorea
+DÃnia
+DÃ©lafrika
+DÃ©lamerika
+DÃ©lkorea
 Democratic Republic of the Congo
 Denmark
 Djibouti
 Dominika
 Dzsibuti
-Északamerika
-Északkorea
-Észtország
+Ã‰szakamerika
+Ã‰szakkorea
+Ã‰sztorszÃ¡g
 Ecuador      
-Egyenlítõi Guinea
-Egyesült Államok
-Egyesült Arab Emirátusok
-Egyesült Királyság
+EgyenlÃ­tÅ‘i Guinea
+EgyesÃ¼lt Ãllamok
+EgyesÃ¼lt Arab EmirÃ¡tusok
+EgyesÃ¼lt KirÃ¡lysÃ¡g
 Egyiptom
 Egypt
-Elefántcsontpart
+ElefÃ¡ntcsontpart
 El Salvador  
 England
 Equatorial Guinea
 Eritrea
 Estonia
 Ethiopia
-Etiópia
-Európa
+EtiÃ³pia
+EurÃ³pa
 Finland
-Finnország
+FinnorszÃ¡g
 France
 Francia Guiana
-Franciaország
+FranciaorszÃ¡g
 French Guiana
-Fülöpszigetek
-Gána
+FÃ¼lÃ¶pszigetek
+GÃ¡na
 Gabon
 Gambia
 Georgia
 Germany
 Ghana
 Gibraltar
-Görögország
+GÃ¶rÃ¶gorszÃ¡g
 Great Britain
 Greece
 Greenland
 Grenada
-Grúzia
+GrÃºzia
 Guadeloupe
 Guatemala  
 Guinea
@@ -124,14 +124,14 @@ Hollandia
 Holy See
 Honduras
 Hong Kong
-Horvátország
+HorvÃ¡torszÃ¡g
 Hungary
-Írország
+ÃrorszÃ¡g
 Iceland
 India
-Indonézia
+IndonÃ©zia
 Indonesia
-Irán
+IrÃ¡n
 Irak
 Iran
 Iraq
@@ -146,21 +146,21 @@ Jamaika
 Jap1n
 Japan
 Jemen
-Jordánia
+JordÃ¡nia
 Jordan
-Jugoszlávia
-Jugoszlávia 
+JugoszlÃ¡via
+JugoszlÃ¡via 
 Kambodzsa
 Kamerun
 Kanada
 Kazakhstan
-Kazaksztán
+KazaksztÃ¡n
 Kenya
-Kína
-Kirgizisztán
-Középafrikai Köztársaság
+KÃ­na
+KirgizisztÃ¡n
+KÃ¶zÃ©pafrikai KÃ¶ztÃ¡rsasÃ¡g
 Kolumbia    
-Kongó
+KongÃ³
 Korea
 Kuba
 Kuwait
@@ -169,84 +169,84 @@ Laos
 Latinamerika
 Latvia
 Lebanon
-Lengyelország
+LengyelorszÃ¡g
 Lesotho
-Lettország
-Líbia
+LettorszÃ¡g
+LÃ­bia
 Libanon
-Libéria
+LibÃ©ria
 Liberia
 Libya
 Liechtenstein
 Lithuania
-Litvánia
+LitvÃ¡nia
 Luxembourg
 Luxemburg
-Málta
+MÃ¡lta
 Macau
-Macedónia
+MacedÃ³nia
 Macedonia
 Madagascar
-Madagaszkár
-Magyarország
-Makaó
-Makedónia
-Malájzia
+MadagaszkÃ¡r
+MagyarorszÃ¡g
+MakaÃ³
+MakedÃ³nia
+MalÃ¡jzia
 Malawi
 Malaysia
 Mali
 Malta
 Man Sziget
-Marokkó
+MarokkÃ³
 Martinique
-Mauritánia
+MauritÃ¡nia
 Mauritania
 Mexico
-Mexikó
+MexikÃ³
 Moldova
 Monaco
 Monako
-Mongólia
+MongÃ³lia
 Mongolia
 Montenegro
 Morocco
 Mozambik
 Mozambique
 Myanmar
-Nagybritánnia
+NagybritÃ¡nnia
 Namibia
 NDK
-Németország
-Nepál
+NÃ©metorszÃ¡g
+NepÃ¡l
 Nepal
 Netherlands
 Nicaragua  
-Nigéria
+NigÃ©ria
 Niger
 Nigeria
 North Korea
-Norvégia
+NorvÃ©gia
 Norway
 NSZK
 Nyugat-Szahara
-Örményország
-Olaszország
-Omán
+Ã–rmÃ©nyorszÃ¡g
+OlaszorszÃ¡g
+OmÃ¡n
 Oman
-Oroszország
+OroszorszÃ¡g
 Pakistan
-Pakisztán
+PakisztÃ¡n
 Panama     
 Paraguay
 Peru
 Philippines
 Poland
 Portoriko
-Portugália
+PortugÃ¡lia
 Portugal
 Puerto Rico
 Qatar
-Románia
+RomÃ¡nia
 Romania
 Ruanda
 Rumania
@@ -264,45 +264,45 @@ Slovenia
 Somalia
 South Korea
 Spain
-Spanyolország
+SpanyolorszÃ¡g
 Sri Lanka
 Sudan
-Svájc
-Svédország
+SvÃ¡jc
+SvÃ©dorszÃ¡g
 Swaziland
 Sweden
 Switzerland
 Syria
-Szaudarábia
-Szenegál
+SzaudarÃ¡bia
+SzenegÃ¡l
 Szerbia
-Szíria
-Szingapúr
-Szlovákia
-Szlovénia
-Szomália
-Szovjetúnió
-Szudán
-Szváziföld
-Tadzsikisztán
+SzÃ­ria
+SzingapÃºr
+SzlovÃ¡kia
+SzlovÃ©nia
+SzomÃ¡lia
+SzovjetÃºniÃ³
+SzudÃ¡n
+SzvÃ¡zifÃ¶ld
+TadzsikisztÃ¡n
 Taiwan
 Tajikistan
-Tanzánia
+TanzÃ¡nia
 Tanzania
-Thaiföld
+ThaifÃ¶ld
 Thailand
-Törökország
+TÃ¶rÃ¶korszÃ¡g
 Tobago
 Togo
 Trinidad
-Türkmenisztán
-Tunézia
+TÃ¼rkmenisztÃ¡n
+TunÃ©zia
 Tunisia
 Turkey
 Turkmenistan
-Újzéland
-Új Zéland
-Üzbegisztán
+ÃšjzÃ©land
+Ãšj ZÃ©land
+ÃœzbegisztÃ¡n
 Uganda
 UK
 Ukraine
@@ -313,9 +313,9 @@ Uruguay
 USA
 Uzbekistan
 Vatican City
-Vatikán
+VatikÃ¡n
 Venezuela
-Vietnám
+VietnÃ¡m
 Vietnam
 Western Sahara
 Yemen

@@ -6,18 +6,14 @@ import os
 from sklearn.externals import joblib
 from scipy.sparse import csr_matrix
 
-from bigram import TransModel
 from tools import sentenceIterator, featurizeSentence, BookKeeper
 
 
 class Tagger():
-    def __init__(self, features, options):
+    def __init__(self, features, transModel, options):
         self._features = features
         self._dataSizes = options['dataSizes']
-        if not (options['printWeights'] or options['toCRFsuite']):
-            print('loading transition model...', end='', file=sys.stderr, flush=True)
-            self._transProbs = TransModel.getModelFromFile(options['bigramModelFileName'])
-            print('done', file=sys.stderr, flush=True)
+        self._transProbs = transModel
         print('loading observation model...', end='', file=sys.stderr, flush=True)
         self._model = joblib.load('{0}'.format(options['modelFileName']))
         self._labelCounter = BookKeeper()

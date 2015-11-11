@@ -1,438 +1,438 @@
-Acsádon
-Afganisztán
-Afganisztánban
-Afganisztánt
-Algéria
-Alkotás utcai
-Alsó-Ausztriában
+AcsÃ¡don
+AfganisztÃ¡n
+AfganisztÃ¡nban
+AfganisztÃ¡nt
+AlgÃ©ria
+AlkotÃ¡s utcai
+AlsÃ³-AusztriÃ¡ban
 Amerika
-Amerikai Egyesült Államok
-Amerikai Egyesült Államokban
+Amerikai EgyesÃ¼lt Ãllamok
+Amerikai EgyesÃ¼lt Ãllamokban
 Amszterdamban
-Angliában
-Angyalföld
-Angyalföldön
-Argentína
-Argentínában
-Argentínának
-Árpád szálló
+AngliÃ¡ban
+AngyalfÃ¶ld
+AngyalfÃ¶ldÃ¶n
+ArgentÃ­na
+ArgentÃ­nÃ¡ban
+ArgentÃ­nÃ¡nak
+ÃrpÃ¡d szÃ¡llÃ³
 Austinban
-Ausztráliában
+AusztrÃ¡liÃ¡ban
 Ausztria
-Ausztriában
-Ázsia
-Ázsiában
-Bács-Kiskun
-Baden-Württembergben
-Baden Württemberg tartomány:
-Baden-Württemberg tartomány
-Bahiában
-Bajországban
+AusztriÃ¡ban
+Ãzsia
+ÃzsiÃ¡ban
+BÃ¡cs-Kiskun
+Baden-WÃ¼rttembergben
+Baden WÃ¼rttemberg tartomÃ¡ny:
+Baden-WÃ¼rttemberg tartomÃ¡ny
+BahiÃ¡ban
+BajorszÃ¡gban
 Balaton
-Balatonfûzfõn
-Balatonnál
+BalatonfÅ±zfÅ‘n
+BalatonnÃ¡l
 Balatont
-Balatontól
-Balkánon
+BalatontÃ³l
+BalkÃ¡non
 Baranya
 Barcson
 Batta Ipari Parkban
-Bécs
-Bécsben
-Békésben
-Békéscsaba
-Békéscsabán
+BÃ©cs
+BÃ©csben
+BÃ©kÃ©sben
+BÃ©kÃ©scsaba
+BÃ©kÃ©scsabÃ¡n
 Belgium
 Belgiumban
-Belgrád
-Belgrádban
-Belgrádon
-Beszédes J. sétányon
+BelgrÃ¡d
+BelgrÃ¡dban
+BelgrÃ¡don
+BeszÃ©des J. sÃ©tÃ¡nyon
 Birminghamben
 Blagnacban
-Börgöndön
-Borsod-Abaúj-Zemplén megyében
-Böszénfán
-Brazília
+BÃ¶rgÃ¶ndÃ¶n
+Borsod-AbaÃºj-ZemplÃ©n megyÃ©ben
+BÃ¶szÃ©nfÃ¡n
+BrazÃ­lia
 Brno-ban
-Brüsszelben
-Budaörs
-Budaörsön
+BrÃ¼sszelben
+BudaÃ¶rs
+BudaÃ¶rsÃ¶n
 Budapest
 Budapesten
 Buenos Airesbe
 Bukarestben
-Bükön
-Bulgária
-Bulgáriában
+BÃ¼kÃ¶n
+BulgÃ¡ria
+BulgÃ¡riÃ¡ban
 Burgenland
 Cipruson
 Citadella
 City Hotel Miskolcot
-Coloradóban
+ColoradÃ³ban
 Crolles-ben
-Csata utcában
-Csehország
-Csehországban
-Csehországnak
-Csendes-óceánon
-Csongrád megye
-Dánia
-Dániában
+Csata utcÃ¡ban
+CsehorszÃ¡g
+CsehorszÃ¡gban
+CsehorszÃ¡gnak
+Csendes-Ã³ceÃ¡non
+CsongrÃ¡d megye
+DÃ¡nia
+DÃ¡niÃ¡ban
 Debrecenben
-Dél-Afrika
+DÃ©l-Afrika
 Delaware
-Délkelet-Európa
-Dél-Kelet-Európában
-Dél-Korea
-Dessewffy utcák
+DÃ©lkelet-EurÃ³pa
+DÃ©l-Kelet-EurÃ³pÃ¡ban
+DÃ©l-Korea
+Dessewffy utcÃ¡k
 Dobri
-Dombóvár
-Dombóváron
+DombÃ³vÃ¡r
+DombÃ³vÃ¡ron
 Dorottya udvar
 Duna
 Dunaharasztiban
 Dunakeszihez
-Duna-Tisza közén
-Dunaújváros
-Dunaújvárosban
+Duna-Tisza kÃ¶zÃ©n
+DunaÃºjvÃ¡ros
+DunaÃºjvÃ¡rosban
 Egerben
-Egyesült Államok
-Egyesült Államokat
-Egyesült Államokba
-Egyesült Államokban
-Egyesült Államokból
-Egyesült Államoké
-Egyesült Államokétól
-Egyesült Államoknak
-Egyesült Államokon
-Egyesült Királyság
+EgyesÃ¼lt Ãllamok
+EgyesÃ¼lt Ãllamokat
+EgyesÃ¼lt Ãllamokba
+EgyesÃ¼lt Ãllamokban
+EgyesÃ¼lt ÃllamokbÃ³l
+EgyesÃ¼lt ÃllamokÃ©
+EgyesÃ¼lt ÃllamokÃ©tÃ³l
+EgyesÃ¼lt Ãllamoknak
+EgyesÃ¼lt Ãllamokon
+EgyesÃ¼lt KirÃ¡lysÃ¡g
 Eisenstadt
-Erkel Színházban
-Erzsébet híd
-Észak-Amerikába
-Észak-Amerikában
-Észak-Magyarországra
+Erkel SzÃ­nhÃ¡zban
+ErzsÃ©bet hÃ­d
+Ã‰szak-AmerikÃ¡ba
+Ã‰szak-AmerikÃ¡ban
+Ã‰szak-MagyarorszÃ¡gra
 Esztergomban
-Európa
-Európába
-Európában
-Európai
-Európának
-Fehéroroszország
-Fehéroroszországban
-Fehéroroszországot
-Fejér megye
-Ferihegyi repülõtér
-Finnország
-Floridában
-Foka-öböl
-Franciaország
-Franciaországban
-Franciaországnak
+EurÃ³pa
+EurÃ³pÃ¡ba
+EurÃ³pÃ¡ban
+EurÃ³pai
+EurÃ³pÃ¡nak
+FehÃ©roroszorszÃ¡g
+FehÃ©roroszorszÃ¡gban
+FehÃ©roroszorszÃ¡got
+FejÃ©r megye
+Ferihegyi repÃ¼lÅ‘tÃ©r
+FinnorszÃ¡g
+FloridÃ¡ban
+Foka-Ã¶bÃ¶l
+FranciaorszÃ¡g
+FranciaorszÃ¡gban
+FranciaorszÃ¡gnak
 Frankfurt
 Frankfurt am Main
 Frankfurtba
 Frankfurtban
-Független Államok Közössége
-Gárdony
+FÃ¼ggetlen Ãllamok KÃ¶zÃ¶ssÃ©ge
+GÃ¡rdony
 Gdansk
 Gomera
-Görögországban
+GÃ¶rÃ¶gorszÃ¡gban
 Gunarason
-Gyálon
-Gyöngyösön
-Gyõrben
-Gyõr-Moson-Sopron
-Gyõr-Moson-Sopron megye
-Gyõr-Moson-Sopron megyében
-Gyõrött
-Hagyományok Háza
-Hajdúszoboszlón
-Hajógyári Szigetet
+GyÃ¡lon
+GyÃ¶ngyÃ¶sÃ¶n
+GyÅ‘rben
+GyÅ‘r-Moson-Sopron
+GyÅ‘r-Moson-Sopron megye
+GyÅ‘r-Moson-Sopron megyÃ©ben
+GyÅ‘rÃ¶tt
+HagyomÃ¡nyok HÃ¡za
+HajdÃºszoboszlÃ³n
+HajÃ³gyÃ¡ri Szigetet
 Heathrownak
-Hencsén
+HencsÃ©n
 Herenden
 Hessenben
-Hessen szövetségi tartomány
-Hessen tartományban
-Hessen tartományból
-Heves megyében
+Hessen szÃ¶vetsÃ©gi tartomÃ¡ny
+Hessen tartomÃ¡nyban
+Hessen tartomÃ¡nybÃ³l
+Heves megyÃ©ben
 Hierro
 Hollandia
-Hollandiában
-Homoktövis lakópark
+HollandiÃ¡ban
+HomoktÃ¶vis lakÃ³park
 Hongkongon
-Horvátország
-Horvátországban
-Horvátországnak
-Hotel Palotában
+HorvÃ¡torszÃ¡g
+HorvÃ¡torszÃ¡gban
+HorvÃ¡torszÃ¡gnak
+Hotel PalotÃ¡ban
 India
 Iraknak
-Írországban
+ÃrorszÃ¡gban
 Izland
-Japán
-Japánban
-Japánnak
-Japánra
-Jászberényben
-Jász-Nagykun-Szolnok megyében
-Jókai
-Jókai utca
-Jugoszlávia
-Jugoszláviában
-Jugoszláviának
+JapÃ¡n
+JapÃ¡nban
+JapÃ¡nnak
+JapÃ¡nra
+JÃ¡szberÃ©nyben
+JÃ¡sz-Nagykun-Szolnok megyÃ©ben
+JÃ³kai
+JÃ³kai utca
+JugoszlÃ¡via
+JugoszlÃ¡viÃ¡ban
+JugoszlÃ¡viÃ¡nak
 Kabulba
 Kabult
-Kaliforniában
-Káli-medencében
+KaliforniÃ¡ban
+KÃ¡li-medencÃ©ben
 Kambodzsa
-Kanári-szigetekhez
+KanÃ¡ri-szigetekhez
 Kandahar
-Kápolna téren
-Kaposvár
-Kaposváron
-Káposztásmegyer II.-nél
-Kárpátalja
-Kaukázus
+KÃ¡polna tÃ©ren
+KaposvÃ¡r
+KaposvÃ¡ron
+KÃ¡posztÃ¡smegyer II.-nÃ©l
+KÃ¡rpÃ¡talja
+KaukÃ¡zus
 Kauntanban
-Kecskeméten
-Kelet és Dél-Európában
-Kelet és Közép-Európa
-Kelet és Közép-Európában
-Kelet-Európa
-Kelet-Európába
-Kelet-Európában
+KecskemÃ©ten
+Kelet Ã©s DÃ©l-EurÃ³pÃ¡ban
+Kelet Ã©s KÃ¶zÃ©p-EurÃ³pa
+Kelet Ã©s KÃ¶zÃ©p-EurÃ³pÃ¡ban
+Kelet-EurÃ³pa
+Kelet-EurÃ³pÃ¡ba
+Kelet-EurÃ³pÃ¡ban
 Kijev
 Kijevben
-Kína
-Kínába
-Kínában
-Kínáért
+KÃ­na
+KÃ­nÃ¡ba
+KÃ­nÃ¡ban
+KÃ­nÃ¡Ã©rt
 Kisalagon
-Kisbéren
-Kiskunmajsán
+KisbÃ©ren
+KiskunmajsÃ¡n
 Kismartonban
-Kolozsvárott
-Komáromban
+KolozsvÃ¡rott
+KomÃ¡romban
 Koprivnice
 Korneuburgban
-Közel-Keleten
-Közép-Ázsia
-Közép és Kelet-Európa
-Közép és Kelet-Európába
-Közép és Kelet-Európában
-Közép-Európában
-Közép-Kelet-Európa
-Külsõ-Váci úton
+KÃ¶zel-Keleten
+KÃ¶zÃ©p-Ãzsia
+KÃ¶zÃ©p Ã©s Kelet-EurÃ³pa
+KÃ¶zÃ©p Ã©s Kelet-EurÃ³pÃ¡ba
+KÃ¶zÃ©p Ã©s Kelet-EurÃ³pÃ¡ban
+KÃ¶zÃ©p-EurÃ³pÃ¡ban
+KÃ¶zÃ©p-Kelet-EurÃ³pa
+KÃ¼lsÅ‘-VÃ¡ci Ãºton
 Laosz
 Las Vegas
-Latin-Amerikában
+Latin-AmerikÃ¡ban
 Lemberg
 Lengyel-
-Lengyelország
-Lengyelországban
+LengyelorszÃ¡g
+LengyelorszÃ¡gban
 Liechtenstein
-Lillafüreden
+LillafÃ¼reden
 London
 Londonban
 Losoncon
-Losonc-Salgótarján
+Losonc-SalgÃ³tarjÃ¡n
 Lviv
 Lvivben
 Madrid
-Magyarország
-Magyarországé
-Magyarországért
-Magyarországgal
-Magyarországnak
-Magyarországon
-Magyarországot
-Magyarországra
-Magyarországról
-Magyar Sport Házára
-Malajziában
-Malmõben
+MagyarorszÃ¡g
+MagyarorszÃ¡gÃ©
+MagyarorszÃ¡gÃ©rt
+MagyarorszÃ¡ggal
+MagyarorszÃ¡gnak
+MagyarorszÃ¡gon
+MagyarorszÃ¡got
+MagyarorszÃ¡gra
+MagyarorszÃ¡grÃ³l
+Magyar Sport HÃ¡zÃ¡ra
+MalajziÃ¡ban
+MalmÅ‘ben
 Mammut II-ben
 Marcaliban
-Máriakálnokon
-Mezõlakon
-Millenáris Park
-Millenniumi Városközpontban
+MÃ¡riakÃ¡lnokon
+MezÅ‘lakon
+MillenÃ¡ris Park
+Millenniumi VÃ¡roskÃ¶zpontban
 Minszkben
 Miskolc
 Miskolcon
 Miskolcot
-Modern Magyar Mûvészeti Múzeum
-Mongólia
-Montenegró
-Montenegróban
-Mosonmagyaróvár
+Modern Magyar MÅ±vÃ©szeti MÃºzeum
+MongÃ³lia
+MontenegrÃ³
+MontenegrÃ³ban
+MosonmagyarÃ³vÃ¡r
 Moszkva
-Moszkvába
-Moszkvában
-Moszkva térnél
-Münchenben
-Nádor Szálló
-Nagyatádon
+MoszkvÃ¡ba
+MoszkvÃ¡ban
+Moszkva tÃ©rnÃ©l
+MÃ¼nchenben
+NÃ¡dor SzÃ¡llÃ³
+NagyatÃ¡don
 Nagy-Britannia
-Nagy-Britanniában
+Nagy-BritanniÃ¡ban
 Nagykanizsa
-Németország
-Németországban
-Németországon
-Németvölgyben
+NÃ©metorszÃ¡g
+NÃ©metorszÃ¡gban
+NÃ©metorszÃ¡gon
+NÃ©metvÃ¶lgyben
 Nemzeti Hangversenyterem
-Nemzeti Színház
-Népszigeten
+Nemzeti SzÃ­nhÃ¡z
+NÃ©pszigeten
 New York
 New Yorkban
 New York-ban
 New Yorkot
-Nógrád megyében
-Norvégia
+NÃ³grÃ¡d megyÃ©ben
+NorvÃ©gia
 Novi Popovacban
 Novi Sad
-Nyíregyházán
-Nyugat-Európában
-Nyugat-Pannónia
-Óbudán
-Olasz Köztársaság
-Olaszország
-Olaszországban
-Olaszországból
-Olaszországnak
-Ormánságban
-Örményországban
-Oroszország
-Oroszországban
-Oroszországból
-Oroszországgal
-Oroszországnak
-Oroszországot
+NyÃ­regyhÃ¡zÃ¡n
+Nyugat-EurÃ³pÃ¡ban
+Nyugat-PannÃ³nia
+Ã“budÃ¡n
+Olasz KÃ¶ztÃ¡rsasÃ¡g
+OlaszorszÃ¡g
+OlaszorszÃ¡gban
+OlaszorszÃ¡gbÃ³l
+OlaszorszÃ¡gnak
+OrmÃ¡nsÃ¡gban
+Ã–rmÃ©nyorszÃ¡gban
+OroszorszÃ¡g
+OroszorszÃ¡gban
+OroszorszÃ¡gbÃ³l
+OroszorszÃ¡ggal
+OroszorszÃ¡gnak
+OroszorszÃ¡got
 Pakson
-Palma de Mallorcán
-Párizsban
-Párizsból
+Palma de MallorcÃ¡n
+PÃ¡rizsban
+PÃ¡rizsbÃ³l
 Pasir Gudangban
-Pécsett
+PÃ©csett
 Pesten
 Pest megye
-Petõfibányán
+PetÅ‘fibÃ¡nyÃ¡n
 Podmaniczky
 Podmaniczky utca
 Pomorskie
 Port of Houstonban
-Pörtschachban
+PÃ¶rtschachban
 Pozsonyban
-Prága
-Prágában
-Rác fürdõ
-Rajna-Pfalz tartományban
-Rákoskeresztúron
-Rák-patak
-Róma
-Romában
-Románia
-Romániában
-Romániának
-Romániáról
+PrÃ¡ga
+PrÃ¡gÃ¡ban
+RÃ¡c fÃ¼rdÅ‘
+Rajna-Pfalz tartomÃ¡nyban
+RÃ¡koskeresztÃºron
+RÃ¡k-patak
+RÃ³ma
+RomÃ¡ban
+RomÃ¡nia
+RomÃ¡niÃ¡ban
+RomÃ¡niÃ¡nak
+RomÃ¡niÃ¡rÃ³l
 Rudas
-Salgótarjánban
+SalgÃ³tarjÃ¡nban
 Salzburgban
 Sanghai
 Sanghajba
 Sanghajban
-Sáregresen
-Sárváron
-Sátoraljaújhelyen
+SÃ¡regresen
+SÃ¡rvÃ¡ron
+SÃ¡toraljaÃºjhelyen
 Sealand
-Selmecbányán
-Seregély utcában
-Seregély utcai
-Siófok
+SelmecbÃ¡nyÃ¡n
+SeregÃ©ly utcÃ¡ban
+SeregÃ©ly utcai
+SiÃ³fok
 Sopron
 Sopronban
 Sopron-Szombathely
-Soroksáron
-Spanyolország
-Spanyolországban
-Spanyolországból
-Svájc
-Svájcban
-Svédország
-Svédországban
-Szabadkán
-Szabolcs-Szatmár-Bereg megye
-Szabolcs-Szatmár-Bereg megyében
-Szarajevóban
-Szatmár megye
-Széchenyi utcában
-Széchenyi utcai
+SoroksÃ¡ron
+SpanyolorszÃ¡g
+SpanyolorszÃ¡gban
+SpanyolorszÃ¡gbÃ³l
+SvÃ¡jc
+SvÃ¡jcban
+SvÃ©dorszÃ¡g
+SvÃ©dorszÃ¡gban
+SzabadkÃ¡n
+Szabolcs-SzatmÃ¡r-Bereg megye
+Szabolcs-SzatmÃ¡r-Bereg megyÃ©ben
+SzarajevÃ³ban
+SzatmÃ¡r megye
+SzÃ©chenyi utcÃ¡ban
+SzÃ©chenyi utcai
 Szegeden
-Székesfehérvár
-Székesfehérvárott
-Szentlõrincen
+SzÃ©kesfehÃ©rvÃ¡r
+SzÃ©kesfehÃ©rvÃ¡rott
+SzentlÅ‘rincen
 Szerbia
-Szerbiában
-Szerbiának
-Szingapúrban
-Szlovákia
-Szlovákiában
-Szlovákiának
-Szlovénia
-Szlovéniában
-Szöulban
-Szöulnak
-Tabán
+SzerbiÃ¡ban
+SzerbiÃ¡nak
+SzingapÃºrban
+SzlovÃ¡kia
+SzlovÃ¡kiÃ¡ban
+SzlovÃ¡kiÃ¡nak
+SzlovÃ©nia
+SzlovÃ©niÃ¡ban
+SzÃ¶ulban
+SzÃ¶ulnak
+TabÃ¡n
 Tabon
 Tajvanon
-Tapolcán
-Tatabányán
-Távol-Keletre
-Terror Háza
+TapolcÃ¡n
+TatabÃ¡nyÃ¡n
+TÃ¡vol-Keletre
+Terror HÃ¡za
 Texasban
-Thaiföld
-Tiszaújvárosban
-Tiszavasváriban
-Tokióban
+ThaifÃ¶ld
+TiszaÃºjvÃ¡rosban
+TiszavasvÃ¡riban
+TokiÃ³ban
 Tolna megye
-Tolna megyében
-Törökország
-Törökországba
-Törökországban
-Törökországgal
-Torontóban
+Tolna megyÃ©ben
+TÃ¶rÃ¶korszÃ¡g
+TÃ¶rÃ¶korszÃ¡gba
+TÃ¶rÃ¶korszÃ¡gban
+TÃ¶rÃ¶korszÃ¡ggal
+TorontÃ³ban
 Toulouse
-Tunézia
-Újvidéken
-Új-Zélandon
+TunÃ©zia
+ÃšjvidÃ©ken
+Ãšj-ZÃ©landon
 Ukrajna
-Ukrajnában
-Ukrajnából
-Ukrajnának
-Ukrajnával
-Ulánbátorban
-Üllõn
-Ungváron
+UkrajnÃ¡ban
+UkrajnÃ¡bÃ³l
+UkrajnÃ¡nak
+UkrajnÃ¡val
+UlÃ¡nbÃ¡torban
+ÃœllÅ‘n
+UngvÃ¡ron
 USA
 USA-ba
 USA-ban
-Vácon
-Vajdaságban
-Varsóban
+VÃ¡con
+VajdasÃ¡gban
+VarsÃ³ban
 Vas
-Vas megyében
-Vasváron
-Velencei-tóba
-Veresegyházra
-Veszprémben
+Vas megyÃ©ben
+VasvÃ¡ron
+Velencei-tÃ³ba
+VeresegyhÃ¡zra
+VeszprÃ©mben
 Vietnam
-Világkereskedelmi Központ
+VilÃ¡gkereskedelmi KÃ¶zpont
 Washingtonban
 Wiesbadenben
 Xinjiang
-Zágrábban
+ZÃ¡grÃ¡bban
 Zala
 Zalaegerszegen
 Zalaegerszegre
