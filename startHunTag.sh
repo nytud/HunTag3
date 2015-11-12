@@ -9,8 +9,8 @@ cat input.txt | python3 huntag.py train --toCRFsuite --model=modelName --config-
 #most-informative-features
 cat input.txt | python3 huntag.py most-informative-features --model=modelName --config-file=configs/hunchunk.krPatt.cfg > modelName.mostInformativeFeatures
 
-#bigram-train:
-cat input.txt | python3 huntag.py bigram-train --model=modelName
+#transmodel-train:
+cat input.txt | python3 huntag.py transmodel-train --model=modelName  # --trans-model-order [2 or 3, default: 3]
 
 #tag
 cat input.txt | python3 huntag.py tag --model=modelName --config-file=configs/hunchunk.krPatt.cfg

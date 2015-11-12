@@ -11,16 +11,16 @@ import numpy as np
 from feature import Feature
 from trainer import Trainer
 from tagger import Tagger
-from bigram import TransModel
+from transmodel import TransModel
 
 
-def mainBigramTrain(options, inputStream=sys.stdin):
-    bigramModel = TransModel(options['tagField'], lmw=options['lmw'])
+def mainTransModelTrain(options, inputStream=sys.stdin):
+    transModel = TransModel(options['tagField'], lmw=options['lmw'], order=options['transModelOrder'])
     # It's possible to train multiple times incrementally...
-    bigramModel.train(inputStream)
+    transModel.train(inputStream)
     # Close training, compute probabilities
-    bigramModel.count()
-    bigramModel.writeToFile(options['bigramModelFileName'])
+    transModel.count()
+    transModel.writeToFile(options['transModelFileName'])
 
 
 def mainTrain(featureSet, options, inputStream=sys.stdin):
@@ -47,9 +47,9 @@ def mainTrain(featureSet, options, inputStream=sys.stdin):
 def mainTag(featureSet, options, inputStream=sys.stdin):
     if not (options['printWeights'] or options['toCRFsuite']):
         print('loading transition model...', end='', file=sys.stderr, flush=True)
-        transModel = TransModel.getModelFromFile(options['bigramModelFileName'])
+        transModel = TransModel.getModelFromFile(options['transModelFileName'])
         print('done', file=sys.stderr, flush=True)
-    
+
     tagger = Tagger(featureSet, transModel, options)
     if 'inFeatFile' in options and options['inFeatFile']:
         # Tag a featurized file to to STDOUT
@@ -131,23 +131,27 @@ def validDir(inputDir):
 def parseArgs():
     parser = argparse.ArgumentParser()
 
-    parser.add_argument('task', choices=['bigram-train', 'most-informative-features', 'train', 'tag'],
-                        help='avaliable tasks: bigram-train, most-informative-features, train, tag')
+    parser.add_argument('task', choices=['transmodel-train', 'most-informative-features', 'train', 'tag'],
+                        help='avaliable tasks: transmodel-train, most-informative-features, train, tag')
 
     parser.add_argument('-c', '--config-file', dest='cfgFile',
                         help='read feature configuration from FILE',
                         metavar='FILE')
 
     parser.add_argument('-m', '--model', dest='modelName',
-                        help='name of (bigram) model to be read/written',
+                        help='name of the (trans) model to be read/written',
                         metavar='NAME')
 
     parser.add_argument('--model-ext', dest='modelExt', default='.model',
                         help='extension of model to be read/written',
                         metavar='EXT')
 
-    parser.add_argument('--bigram-model-ext', dest='bigramModelExt', default='.bigram',
-                        help='extension of bigram model file to be read/written',
+    parser.add_argument('--trans-model-ext', dest='transModelExt', default='.transmodel',
+                        help='extension of trans model file to be read/written',
+                        metavar='EXT')
+
+    parser.add_argument('--trans-model-order', dest='transModelOrder', default=3,
+                        help='order of the transition model',
                         metavar='EXT')
 
     parser.add_argument('--feat-num-ext', dest='featureNumbersExt', default='.featureNumbers',
@@ -213,7 +217,7 @@ def main():
         print('Error: Model name must be specified! Please see --help!', file=sys.stderr, flush=True)
         sys.exit(1)
     options.modelFileName = '{0}{1}'.format(options.modelName, options.modelExt)
-    options.bigramModelFileName = '{0}{1}'.format(options.modelName, options.bigramModelExt)
+    options.transModelFileName = '{0}{1}'.format(options.modelName, options.transModelExt)
     options.featCounterFileName = '{0}{1}'.format(options.modelName, options.featureNumbersExt)
     options.labelCounterFileName = '{0}{1}'.format(options.modelName, options.labelNumbersExt)
 
@@ -226,8 +230,8 @@ def main():
                         }                                        # ...for safety
 
     optionsDict = vars(options)
-    if optionsDict['task'] == 'bigram-train':
-        mainBigramTrain(optionsDict)
+    if optionsDict['task'] == 'transmodel-train':
+        mainTransModelTrain(optionsDict)
     elif optionsDict['task'] == 'train' or optionsDict['task'] == 'most-informative-features':
         featureSet = getFeatureSet(optionsDict['cfgFile'])
         mainTrain(featureSet, optionsDict)

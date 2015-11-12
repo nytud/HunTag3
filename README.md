@@ -90,17 +90,20 @@ Non-mandatory options:
 - -f FILE, --feature-file=FILE
     - write training events to FILE
 
-## bigram-train
-Used to train a bigram language model using a given field of the training data
+## transmodel-train
+Used to train a transition model (from a bigram or trigram language model) using a given field of the training data
 
-    cat TRAINING_DATA | python3 huntag.py bigram-train OPTIONS
+    cat TRAINING_DATA | python3 huntag.py transmodel-train OPTIONS
 
 Mandatory options:
 - -m NAME, --model=NAME
     - name of model file and lists
+- --trans-model-order [2 or 3, default: 3]
+    - order of the transition model (bigram or trigram)
+   
 
 ## tag
-Used to tag input. Given a maxent model providing the value P(l|w) for all labels l and words (set of feature values) w, and a bigram language model supplying P(l|l0) for all pairs of labels, HunTag will assign to each sentence the most likely label sequence.
+Used to tag input. Given a maxent model providing the value P(l|w) for all labels l and words (set of feature values) w, and a transition model supplying P(l|l0) for all pairs of labels, HunTag will assign to each sentence the most likely label sequence.
 
     cat INPUT | python3 huntag.py tag OPTIONS
 
@@ -147,8 +150,8 @@ This option generates suitable input for CRFsuite from training and tagging data
 
     # train
     cat input.txt | python3 huntag.py train --model=modelName --config-file=configs/hunchunk.krPatt.cfg
-    # bigram-train
-    cat input.txt | python3 huntag.py bigram-train --model=modelName
+    # transmodel-train
+    cat input.txt | python3 huntag.py transmodel-train --model=modelName
     # tag
     cat input.txt | python3 huntag.py tag --model=modelName --config-file=configs/hunchunk.krPatt.cfg
 
