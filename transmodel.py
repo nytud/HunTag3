@@ -18,19 +18,18 @@ from tools import sentenceIterator
 # Bigram or Trigram transition model
 class TransModel:
     def __init__(self, tagField=-1, smooth=0.000000000000001, boundarySymbol='S', lmw=1.0, order=3):
+        self._unigramCount = defaultdict(float)
+        self.unigramLogProb = {}
+        self._labda1 = 0.0
+        self._bigramCount = defaultdict(int)
+        self.bigramLogProb = {}
+        self._labda2 = 0.0
         self._trigramCount = defaultdict(int)
         self.trigramLogProb = {}
         self._labda3 = 0.0
-
-        self._bigramCount = defaultdict(int)
-        self.bigramLogProb = {}
-        self._unigramCount = defaultdict(float)
-        self.unigramLogProb = {}
         self._obsCount = 0
-        self.updated = True
-        self._labda1 = 0.0
-        self._labda2 = 0.0
         self.tags = set()
+        self.updated = True
         self.reset()
 
         self._tagField = tagField
@@ -41,7 +40,7 @@ class TransModel:
         if self._order == 2:
             self.viterbi = self.viterbiBigram
         elif self._order == 3:
-            self.viterbi = self.viterbiBigram
+            self.viterbi = self.viterbiTrigram
         else:
             print('Error: Transition modell order should be 2 or 3 got {0}!'.format(order), file=sys.stderr, flush=True)
             sys.exit(1)
@@ -49,19 +48,17 @@ class TransModel:
         self._updateWarning = 'WARNING: Probabilities have not been recalculated since last input!'
 
     def reset(self):
+        self._unigramCount = defaultdict(float)
+        self.unigramLogProb = {}
+        self._labda1 = 0.0
+        self._bigramCount = defaultdict(int)
+        self.bigramLogProb = {}
+        self._labda2 = 0.0
         self._trigramCount = defaultdict(int)
         self.trigramLogProb = {}
         self._labda3 = 0.0
-
-        self._bigramCount = defaultdict(int)
-        self.bigramLogProb = {}
-        self._unigramCount = defaultdict(float)
-        self.unigramLogProb = {}
         self._obsCount = 0
-        self._labda1 = 0.0
-        self._labda2 = 0.0
         self.tags = set()
-
         self.updated = True
 
     # Tag a sentence given the probability dists. of words
@@ -260,10 +257,8 @@ class TransModel:
 
     @staticmethod
     def getModelFromFile(fileName):
-        f = open(fileName, 'rb')
-        model = pickle.load(f)
-        f.close()
-        return model
+        with open(fileName, 'rb') as f:
+            return pickle.load(f)
 
     """
     source: http://en.wikipedia.org/wiki/Viterbi_algorithm
@@ -324,7 +319,7 @@ class TransModel:
             path = newpath
 
         # At the end of the text we do a multiplication with a transition to check 'If we were in the end, would we come this way or not?'...
-        (prob, state) = max([(V[len(tagProbsByPos) - 1][y0] + self.logProb(y0, self._boundarySymbol), y0) for y0 in states])
+        (prob, state) = max([(V[len(tagProbsByPos) - 1][y] + self.logProb(y, self._boundarySymbol), y) for y in states])
         return prob, path[state]
 
     def viterbiTrigram(self, tagProbsByPos):

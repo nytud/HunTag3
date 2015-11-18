@@ -875,7 +875,7 @@ def tags_since_dt(sentence, i):
     """
     tags = set()
     for pos in sentence[:i]:
-        if pos == 'DT':# [Tf], DT
+        if pos == '[Tf]':# [Tf], DT
             tags = set()
         else:
             tags.add(pos)
