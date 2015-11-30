@@ -3,7 +3,7 @@
 # Miscellaneous tools for HunTag
 
 from operator import itemgetter
-from collections import defaultdict
+from collections import Counter, defaultdict
 import sys
 
 
@@ -17,8 +17,7 @@ def sentenceIterator(inputStream):
             if len(currSen) == 0:  # Comment before sentence
                 currComment = line
             else:  # Error: Comment in the middle of sentence
-                print('ERROR: comments are only allowed before a sentence!',
-                      file=sys.stderr, flush=True)
+                print('ERROR: comments are only allowed before a sentence!', file=sys.stderr, flush=True)
                 sys.exit(1)
         # Blank line handling
         elif len(line) == 0:
@@ -27,13 +26,13 @@ def sentenceIterator(inputStream):
                 currSen = []
                 currComment = None
             else:  # Error: Multiple blank line
-                print('ERROR: wrong formatted sentences, only one blank line allowed!',
-                      file=sys.stderr, flush=True)
+                print('ERROR: wrong formatted sentences, only one blank line allowed!', file=sys.stderr, flush=True)
                 sys.exit(1)
         else:
             currSen.append(line.split())
     # XXX Here should be an error because of missing blank line before EOF
     if currSen:
+        print('WARNING: No blank line before EOF!', file=sys.stderr, flush=True)
         yield currSen, currComment
 
 
@@ -45,14 +44,34 @@ def featurizeSentence(sen, features):
     return sentenceFeats
 
 
+class intGen:
+    """
+    Original source: http://stackoverflow.com/a/6173641
+    """
+    def __init__(self, i=0):
+        self.i = i
+
+    def __call__(self):
+        self.i += 1
+        return self.i
+
+
 # Keeps Feature/Label-Number translation maps, for faster computations
-class BookKeeper():
-    def __init__(self):
-        self._counter = defaultdict(int)
-        self._nameToNo = {}
+class BookKeeper:
+    def __init__(self, fileName=None):
+        self._counter = Counter()
+        nextID = intGen()  # Initializes autoincr class
+        self._nameToNo = defaultdict(nextID)
         self.noToName = {}  # This is built only uppon reading back from file
-        self._nextNo = 0
-        self.numNotFound = self._nextNo - 1
+        if fileName is not None:
+            with open(fileName, encoding='UTF-8') as f:
+                no = 0
+                for line in f:
+                    l = line.strip().split()
+                    name, no = l[0], int(l[1])
+                    self._nameToNo[name] = no
+                    self.noToName[no] = name
+                nextID.i = no
 
     def numOfNames(self):
         return len(self._nameToNo)
@@ -61,43 +80,21 @@ class BookKeeper():
         self.noToName = {v: k for k, v in self._nameToNo.items()}
 
     def cutoff(self, cutoff):
-        toDelete = set()
-        for name, count in self._counter.items():
-            if count < cutoff:
-                toDelete.add(self._nameToNo[name])
-                self._nameToNo.pop(name)
-        newNameNo = dict(((name, i) for i, (name, no) in
-                          enumerate(sorted(self._nameToNo.items(), key=itemgetter(1)))))
+        toDelete = {self._nameToNo.pop(name) for name, count in self._counter.items() if count < cutoff}
         del self._counter
+        newNameNo = dict(((name, i) for i, (name, no) in enumerate(sorted(self._nameToNo.items(), key=itemgetter(1)))))
         del self._nameToNo
         self._nameToNo = newNameNo
         return toDelete
 
     def getNoTag(self, name):
-        if not name in self._nameToNo:
-            return self.numNotFound
-        return self._nameToNo[name]
+        return self._nameToNo.get(name)  # Defaults to None
 
     def getNoTrain(self, name):
         self._counter[name] += 1
-        if not name in self._nameToNo:
-            self._nameToNo[name] = self._nextNo
-            self._nextNo += 1
-        return self._nameToNo[name]
+        return self._nameToNo[name]  # Starts from 0 newcomers will get autoincremented value and stored
 
     def saveToFile(self, fileName):
-        f = open(fileName, 'w', encoding='UTF-8')
-        for name, no in sorted(self._nameToNo.items(), key=itemgetter(1)):
-            f.write('{0}\t{1}\n'.format(name, str(no)))
-        f.close()
-
-    def readFromFile(self, fileName):
-        self._nameToNo = {}
-        self.noToName = {}
-        for line in open(fileName, encoding='UTF-8'):
-            l = line.strip().split()
-            name, no = l[0], int(l[1])
-            self._nameToNo[name] = no
-            self.noToName[no] = name
-            # This isn't used currently
-            self._nextNo = no + 1
+        with open(fileName, 'w', encoding='UTF-8') as f:
+            f.writelines('{0}\t{1}\n'.format(name, no)
+                         for name, no in sorted(self._nameToNo.items(), key=itemgetter(1)))

@@ -11,7 +11,7 @@ import sys
 import features
 
 
-class Feature():
+class Feature:
     def __init__(self, kind, name, actionName, fields, radius, cutoff,
                  options):
         self.kind = kind
@@ -95,11 +95,11 @@ class Feature():
         return multipliedFeatVec
 
 
-"""
-the Lexicon class generates so-called lexicon features
-an instance of Lexicon() should be initialized for each lexicon file
-"""
-class Lexicon():
+class Lexicon:
+    """
+    the Lexicon class generates so-called lexicon features
+    an instance of Lexicon() should be initialized for each lexicon file
+    """
     def __init__(self, inputFile):
         self.phraseList = set()
         self.endParts = set()

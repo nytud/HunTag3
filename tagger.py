@@ -9,17 +9,15 @@ from scipy.sparse import csr_matrix
 from tools import sentenceIterator, featurizeSentence, BookKeeper
 
 
-class Tagger():
+class Tagger:
     def __init__(self, features, transModel, options):
         self._features = features
         self._dataSizes = options['dataSizes']
         self._transProbs = transModel
         print('loading observation model...', end='', file=sys.stderr, flush=True)
         self._model = joblib.load('{0}'.format(options['modelFileName']))
-        self._labelCounter = BookKeeper()
-        self._labelCounter.readFromFile(options['labelCounterFileName'])
-        self._featCounter = BookKeeper()
-        self._featCounter.readFromFile(options['featCounterFileName'])
+        self._labelCounter = BookKeeper(fileName=options['labelCounterFileName'])
+        self._featCounter = BookKeeper(fileName=options['featCounterFileName'])
         print('done', file=sys.stderr, flush=True)
 
     def printWeights(self, n=100):
@@ -75,19 +73,17 @@ class Tagger():
 
     def _getTagProbsByPos(self, senFeats):
         # Get Sentence Features translated to numbers and contexts in two steps
-        featNumbers = [set([self._featCounter.getNoTag(feat) for feat in feats])
-                       for feats in senFeats]
-        invalidFeatNo = self._featCounter.numNotFound
+        getNoTag = self._featCounter.getNoTag
+        featNumbers = [set([getNoTag(feat) for feat in feats if getNoTag(feat) is not None]) for feats in senFeats]
 
         rows = []
         cols = []
         data = []
         for rownum, featNumberSet in enumerate(featNumbers):
             for featNum in featNumberSet:
-                if featNum > invalidFeatNo:
-                    rows.append(rownum)
-                    cols.append(featNum)
-                    data.append(1)
+                rows.append(rownum)
+                cols.append(featNum)
+                data.append(1)
         contexts = csr_matrix((data, (rows, cols)),
                               shape=(len(featNumbers), self._featCounter.numOfNames()),
                               dtype=self._dataSizes['dataNP'])
@@ -98,17 +94,16 @@ class Tagger():
 
     def toCRFsuite(self, inputStream):
         senCount = 0
-        invalidFeatNo = self._featCounter.numNotFound
+        getNoTag = self._featCounter.getNoTag
         featnoToName = self._featCounter.noToName
         for sen, comment in sentenceIterator(inputStream):
             senCount += 1
             senFeats = featurizeSentence(sen, self._features)
             # Get Sentence Features translated to numbers and contexts in two steps
-            featNumbers = [set([self._featCounter.getNoTag(feat) for feat in feats])
-                           for feats in senFeats]
+            featNumbers = [set([getNoTag(feat) for feat in feats if getNoTag(feat) is not None]) for feats in senFeats]
             for featNumberSet in featNumbers:
                 print('\t'.join([featnoToName[featNum].replace(':', 'colon')
-                                 for featNum in featNumberSet if featNum > invalidFeatNo]))
+                                 for featNum in featNumberSet]))
             print()  # Sentence separator blank line
             if senCount % 1000 == 0:
                 print('{0}...'.format(str(senCount)), end='', file=sys.stderr, flush=True)

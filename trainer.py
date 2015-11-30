@@ -17,7 +17,7 @@ from sklearn.linear_model import LogisticRegression
 from tools import BookKeeper, sentenceIterator, featurizeSentence
 
 
-class Trainer():
+class Trainer:
     def __init__(self, features, options):
 
         # Set clasifier algorithm here

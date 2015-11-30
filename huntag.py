@@ -227,7 +227,7 @@ def main():
                          'data': 'B', 'dataNP': np.uint8,        # Currently data = {0, 1}
                          'labels': 'B', 'labelsNP': np.uint16,   # Currently labels > 256...
                          'sentEnd': 'Q', 'sentEndNP': np.uint64  # Sentence Ends in rowIndex
-                        }                                        # ...for safety
+                         }                                        # ...for safety
 
     optionsDict = vars(options)
     if optionsDict['task'] == 'transmodel-train':
