@@ -29,8 +29,7 @@ def mainTrain(featureSet, options, inputStream=sys.stdin):
     if 'inFeatFile' in options and options['inFeatFile']:
         # Use with featurized input
         trainer.getEventsFromFile(options['inFeatFile'])
-    else:
-        # Use with raw input
+    else:  # Use with raw input
         trainer.getEvents(inputStream)
 
     if options['task'] == 'most-informative-features':
@@ -45,6 +44,7 @@ def mainTrain(featureSet, options, inputStream=sys.stdin):
 
 
 def mainTag(featureSet, options, inputStream=sys.stdin):
+    transModel = None
     if not (options['printWeights'] or options['toCRFsuite']):
         print('loading transition model...', end='', file=sys.stderr, flush=True)
         transModel = TransModel.getModelFromFile(options['transModelFileName'])
@@ -53,35 +53,29 @@ def mainTag(featureSet, options, inputStream=sys.stdin):
     tagger = Tagger(featureSet, transModel, options)
     if 'inFeatFile' in options and options['inFeatFile']:
         # Tag a featurized file to to STDOUT
-        taggerFunc = lambda: tagger.tagFeatures(options['inFeatFile'])
-        writerFunc = lambda s, c: writeSentence(s, comment=c)
+        for sen, other in tagger.tagFeatures(options['inFeatFile']):
+            writeSentence(sen, comment=other)
     elif 'ioDirs' in options and options['ioDirs']:
         # Tag all files in a directory file to to fileName.tagged
-        taggerFunc = lambda: tagger.tagDir(options['ioDirs'][0])
-        writerFunc = lambda s, c: writeSentence(s, out=open(join(options['ioDirs'][1],
-            '{0}.tagged'.format(c)), 'a', encoding='UTF-8'))
+        for sen, other in tagger.tagDir(options['ioDirs'][0]):
+            writeSentence(sen, out=open(join(options['ioDirs'][1],
+                                             '{0}.tagged'.format(other)), 'a', encoding='UTF-8'))
     elif 'toCRFsuite' in options and options['toCRFsuite']:
         # Make CRFsuite format to STDOUT for tagging
-        taggerFunc = lambda: tagger.toCRFsuite(inputStream)
-        writerFunc = lambda s, c: None
+        tagger.toCRFsuite(inputStream)
     elif 'printWeights' in options and options['printWeights']:
         # Print MaxEnt weights to STDOUT
-        taggerFunc = lambda: tagger.printWeights(options['printWeights'])
-        writerFunc = lambda s, c: None
+        tagger.printWeights(options['printWeights'])
     else:
         # Tag STDIN to STDOUT
-        taggerFunc = lambda: tagger.tagCorp(inputStream)
-        writerFunc = lambda s, c: writeSentence(s, comment=c)
-
-    for sen, other in taggerFunc():
-        writerFunc(sen, other)
+        for sen, other in tagger.tagCorp(inputStream):
+            writeSentence(sen, comment=other)
 
 
 def writeSentence(sen, out=sys.stdout, comment=None):
     if comment:
         out.write('{0}\n'.format(comment))
-    for tok in sen:
-        out.write('{0}\n'.format('\t'.join(tok)))
+        out.writelines('{0}\n'.format('\t'.join(tok)) for tok in sen)
     out.write('\n')
 
 
@@ -225,7 +219,7 @@ def main():
     options.dataSizes = {'rows': 'Q', 'rowsNP': np.uint64,       # Really big...
                          'cols': 'Q', 'colsNP': np.uint64,       # ...enough for indices
                          'data': 'B', 'dataNP': np.uint8,        # Currently data = {0, 1}
-                         'labels': 'B', 'labelsNP': np.uint16,   # Currently labels > 256...
+                         'labels': 'H', 'labelsNP': np.uint16,   # Currently labels > 256...
                          'sentEnd': 'Q', 'sentEndNP': np.uint64  # Sentence Ends in rowIndex
                          }                                        # ...for safety
 

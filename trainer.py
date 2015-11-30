@@ -13,6 +13,9 @@ from scipy.sparse import csr_matrix
 import numpy as np
 from array import array
 from sklearn.linear_model import LogisticRegression
+# from sklearn.linear_model import SGDClassifier
+# from sklearn.svm import SVC
+# from sklearn.multiclass import OneVsRestClassifier
 
 from tools import BookKeeper, sentenceIterator, featurizeSentence
 
@@ -21,9 +24,22 @@ class Trainer:
     def __init__(self, features, options):
 
         # Set clasifier algorithm here
-        parameters = dict()
-        self._model = LogisticRegression(**parameters)
+        parameters = dict()  # dict(solver='lbfgs')
+        solver = LogisticRegression
 
+        # Possible alternative solvers:
+        # parameters = {'loss':'modified_huber',  'n_jobs': -1}
+        # solver = SGDClassifier
+
+        # ‘linear’, ‘poly’, ‘rbf’, ‘sigmoid’, ‘precomputed’ 
+        # parameters = {'kernel': 'rbf', 'probability': True}
+        # solver = SVC
+
+        # ‘linear’, ‘poly’, ‘rbf’, ‘sigmoid’, ‘precomputed’ 
+        # parameters = {'kernel': 'linear', 'probability': True}
+        # solver = OneVsRestClassifier(SVC(**parameters))  # XXX won't work because ** in parameters...
+
+        self._model = solver(**parameters)
         self._dataSizes = options['dataSizes']
         self._tagField = options['tagField']
         self._modelFileName = options['modelFileName']
@@ -46,8 +62,7 @@ class Trainer:
         self._labelCounter = BookKeeper()
         self._usedFeats = None
         if 'usedFeats' in options and options['usedFeats']:
-            self._usedFeats = set([line.strip()
-                                  for line in open(options['usedFeats'], encoding='UTF-8')])
+            self._usedFeats = {line.strip() for line in open(options['usedFeats'], encoding='UTF-8')}
 
     def save(self):
         print('saving model...', end='', file=sys.stderr, flush=True)
@@ -57,20 +72,16 @@ class Trainer:
         self._labelCounter.saveToFile(self._labelCounterFileName)
         print('done', file=sys.stderr, flush=True)
 
-    def _index(self, arr, start, elem):
-        ind = -1
-        for i, e in enumerate(arr[start:]):
-            if e <= elem:
-                ind = start + i
-            else:
-                break
-        return ind
-
     def _updateSentEnd(self, sentEnds, rowNums):
         newEnds = array(self._dataSizes['sentEnd'])
         vbeg = 0
         for end in sentEnds:
-            vend = self._index(rowNums, vbeg, end)
+            vend = -1
+            for i, e in enumerate(rowNums[vbeg:]):
+                if e <= end:
+                    vend = vbeg + i
+                else:
+                    break
             if vend > 0:
                 newEnds.append(vend)
                 vbeg = vend + 1
@@ -92,7 +103,7 @@ class Trainer:
 
     def _makeSparseArray(self, rowNum, colNum):
         print('creating training problem...', end='', file=sys.stderr, flush=True)
-        matrix = csr_matrix((self._data, (self._rows, self._cols)), shape=(rowNum, self._cols.max()+1),
+        matrix = csr_matrix((self._data, (self._rows, self._cols)), shape=(rowNum, colNum),
                             dtype=self._dataSizes['data'])
         del self._rows
         del self._cols
@@ -106,15 +117,14 @@ class Trainer:
         if self._cutoff < 2:
             self._matrix = self._makeSparseArray(self._tokCount, colNum)
         else:
-            print('discarding features with less than {0} occurences...'.format(
-                self._cutoff), end='', file=sys.stderr, flush=True)
+            print('discarding features with less than {0} occurences...'.format(self._cutoff), end='', file=sys.stderr,
+                  flush=True)
 
             toDelete = self._featCounter.cutoff(self._cutoff)
-            print('done!\nreducing training events by {0}...'.format(len(toDelete)),
-                  end='', file=sys.stderr, flush=True)
+            print('done!\nreducing training events by {0}...'.format(len(toDelete)), end='', file=sys.stderr,
+                  flush=True)
             # ...that are not in featCounter anymore
-            indicesToKeepNP = np.array([ind for ind, featNo in enumerate(self._cols)
-                                        if featNo not in toDelete],
+            indicesToKeepNP = np.array((ind for ind, featNo in enumerate(self._cols) if featNo not in toDelete),
                                        dtype=self._dataSizes['cols'])
             del toDelete
 
@@ -132,7 +142,7 @@ class Trainer:
             rowsNPNew = self._rows[indicesToKeepNP]
             rowNumKeep = np.unique(rowsNPNew)
             rowNum = rowNumKeep.shape[0]
-            colNum = indicesToKeepNP.shape[0]
+            colNum = indicesToKeepNP.shape[0].max() + 1
             del self._rows
             self._rows = rowsNPNew
             del indicesToKeepNP
@@ -178,8 +188,7 @@ class Trainer:
                 tokIndex += 1
                 tokFeats = sentenceFeats[c]
                 if self._usedFeats:
-                    tokFeats = [feat for feat in tokFeats
-                                if feat in self._usedFeats]
+                    tokFeats = [feat for feat in tokFeats if feat in self._usedFeats]
                 self._addContext(tokFeats, tok[self._tagField], tokIndex)
             self._sentEnd.append(tokIndex)
             if senCount % 1000 == 0:
@@ -206,10 +215,8 @@ class Trainer:
         colsAppend = self._cols.append
         dataAppend = self._data.append
 
-        # features are sorted to ensure identical output
-        # no matter where the features are coming from
-        for featNumber in set([self._featCounter.getNoTrain(feat)
-                               for feat in sorted(tokFeats)]):
+        # Features are sorted to ensure identical output no matter where the features are coming from
+        for featNumber in {self._featCounter.getNoTrain(feat) for feat in sorted(tokFeats)}:
             rowsAppend(curTok)
             colsAppend(featNumber)
             dataAppend(1)
@@ -258,13 +265,12 @@ class Trainer:
         beg = 0
         for end in sentEnd:
             for row in range(beg, end + 1):
-                columns = [featnoToName[col].replace(':', 'colon') for col in matrix[row, :].nonzero()[1]]
-                print('{0}\t{1}'.format(labelnoToName[labels[row]], '\t'.join(columns)))
+                print('{0}\t{1}'.format(labelnoToName[labels[row]], '\t'.join(featnoToName[col].replace(':', 'colon')
+                                                                              for col in matrix[row, :].nonzero()[1])))
             print()  # Sentence separator blank line
             beg = end + 1
 
     def train(self):
-        print('training with option(s) "{0}"...'.format(
-            self._parameters), end='', file=sys.stderr, flush=True)
+        print('training with option(s) "{0}"...'.format(self._parameters), end='', file=sys.stderr, flush=True)
         _ = self._model.fit(self._matrix, self._labels)
         print('done', file=sys.stderr, flush=True)
