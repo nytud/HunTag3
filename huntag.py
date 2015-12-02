@@ -33,6 +33,7 @@ def mainTrain(featureSet, options, inputStream=sys.stdin):
         trainer.getEvents(inputStream)
 
     if options['task'] == 'most-informative-features':
+        trainer.cutoffFeats()
         trainer.mostInformativeFeatures()
     elif 'toCRFsuite' in options and options['toCRFsuite']:
         trainer.cutoffFeats()

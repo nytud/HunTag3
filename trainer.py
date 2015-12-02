@@ -223,36 +223,99 @@ class Trainer:
 
         self._labels.append(self._labelCounter.getNoTrain(label))
 
-    def mostInformativeFeatures(self):
+    # Counting zero elements can be really slow...
+    def mostInformativeFeatures(self, n=-1, countZero=False):
+        # Compute min(P(feature=value|label1), for any label1)/max(P(feature=value|label2), for any label2)
+        # (using contitional probs using joint probabilities) as in NLTK (Bird et al. 2009):
+        # P(feature=value|label) = P(feature=value, label)/P(label)
+        # P(feature=value, label) = C(feature=value, label)/C(feature=value)
+        # P(label) = C(label)/sum_i(C(label_i))
+        #
+        # P(feature=value|label) = (C(feature=value, label)/C(feature=value))/(C(label)/sum_i(C(label_i))) =
+        # (C(feature=value, label)*sum_i(C(label_i)))/(C(feature=value)*C(label))
+        #
+        # min(P(feature=value|label1), for any label1)/max(P(feature=value|label2), for any label2) =
+        #
+        # min((C(feature=value, label1)*sum_i(C(label_i)))/(C(feature=value)*C(label1)), for any label1)/
+        # max((C(feature=value, label2)*sum_i(C(label_i)))/(C(feature=value)*C(label2)), for any label2) =
+        #
+        # (sum_i(C(label_i))/C(feature=value))*min(C(feature=value, label1)/C(label1)), for any label1)/
+        # (sum_i(C(label_i))/C(feature=value))*max(C(feature=value, label2)/C(label2)), for any label2) =
+        #
+        # min(C(feature=value, label1)/C(label1), for any label1)/
+        # max(C(feature=value, label2)/C(label2), for any label2)
+        matrix = self._matrix  # For easiser handling
         self._featCounter.makenoToName()
         self._labelCounter.makenoToName()
         featnoToName = self._featCounter.noToName
         labelnoToName = self._labelCounter.noToName
-        rows = self._rows
-        cols = self._cols
-        labels = self._labels
-        featSorted = defaultdict(Counter)
-        for ind, rowNum in enumerate(rows):
-            featSorted[cols[ind]][labels[rowNum]] += 1
+        labels = self._labels  # indexed by token rows (row = token number, column = feature number)
+        featValCounts = defaultdict(Counter)  # feat, val -> label: count
 
-        ranking = []
-        for featNum, occurences in sorted(featSorted.items()):
-            sumOccurences = 0
-            labelCounts = []
-            for label, count in sorted(occurences.items(), key=itemgetter(1), reverse=True):
-                sumOccurences += count
-                labelCounts.append((labelnoToName[label], count))
+        if countZero:
+            # Every index (including zeros to consider negative correlation)
+            for feat in range(matrix.shape[1]):
+                for tok in range(matrix.shape[0]):
+                    featValCounts[feat, matrix[tok, feat]][labels[tok]] += 1
+        else:
+            matrix = matrix.tocoo()
+            # Every nonzero index
+            for tok, feat, val in zip(matrix.row, matrix.col, matrix.data):
+                featValCounts[feat, val][labels[tok]] += 1
+        del matrix
 
-            maximum = labelCounts[0][1] / sumOccurences  # Because it's sorted reverse
-            labelCountsProb = []
-            for label, count in occurences.items():
-                labelCountsProb.append((labelnoToName[label], count / sumOccurences))
-            featData = '{0}\t{1}\t{2}\t{3}'.format(featnoToName[featNum], sumOccurences,
-                                                   '/'.join(['{0}:{1}'.format(l, c) for l, c in labelCounts]),
-                                                   '/'.join(['{0}:{1}'.format(l, p) for l, p in labelCountsProb]))
-            ranking.append((maximum, sumOccurences, featData))
-        for _, _, text in sorted(ranking, reverse=True):
-            print(text)
+        # (C(label2), for any label2)
+        labelCounts = Counter()
+        for k, v in zip(*np.unique(self._labels, return_counts=True)):
+            labelCounts[k] = v
+
+        numOfLabels = len(labelCounts)
+        maxprob = defaultdict(lambda: 0.0)
+        minprob = defaultdict(lambda: 1.0)
+        features = set()
+        # For every (feature, val) touple (that has nonzero count)
+        for feature, counts in featValCounts.items():
+            # For every label label...
+            features.add(feature)
+            for label, count in counts.items():
+                # prob can only be 0 if the nominator is 0, but this case is already filtered in the Counter...
+                prob = count/labelCounts[label]
+                maxprob[feature] = max(prob, maxprob[feature])
+                minprob[feature] = min(prob, minprob[feature])
+
+        # Convert features to a list, & sort it by how informative features are.
+        """
+        From NTLK docs:
+        For the purpose of this function, the
+        informativeness of a feature ``(fname,fval)`` is equal to the
+        highest value of P(fname=fval|label), for any label, divided by
+        the lowest value of P(fname=fval|label), for any label:
+
+        |  max[ P(fname=fval|label1) / P(fname=fval|label2) ]
+        """
+        print('"Feature name"=Value (True/False)\tSum of occurences\tCounts per label\tProbability per label', end='')
+        print('\tMax prob.:Min prob.=Ratio:1.0')  # Print header (legend)
+        # To avoid division by zero...
+        for feature in sorted(features, key=lambda feature_: minprob[feature_]/maxprob[feature_])[:n]:
+            sumOccurences = sum(featValCounts[feature].values())
+            if len(featValCounts[feature]) < numOfLabels:
+                ratio = 'INF'
+            else:
+                ratio = maxprob[feature]/minprob[feature]
+            # NLTK notation
+            # print('{0:50} = {1:} {2:6} : {3:-6} = {4} : 1.0'.format(featnoToName(feature[0]), feature[1],
+            #                                                                maxprob[feature],
+            #                                                                minprob[feature], ratio))
+            # More detailed notation
+            print('"{0:50s}"={1}\t{2}\t{3}\t{4}\t{5:6}:{6:-6}={7}:1.0'.format(
+                featnoToName[feature[0]],
+                bool(feature[1]),
+                sumOccurences,
+                '/'.join(('{0}:{1}'.format(labelnoToName[l], c)
+                          for l, c in featValCounts[feature].items())),
+                '/'.join(('{0}:{1:.8f}'.format(labelnoToName[l], c/labelCounts[l])
+                          for l, c in featValCounts[feature].items())),
+                maxprob[feature], minprob[feature], ratio))
 
     def toCRFsuite(self):
         self._featCounter.makenoToName()

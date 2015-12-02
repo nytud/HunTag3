@@ -184,11 +184,11 @@ class TransModel:
                 # safe_div provides a safe floating point division
                 # it returns -1 if the denominator is 0
                 if self._order == 3:
-                    c3 = safe_div(self._trigramCount[h1, h2, tag]-1, self._bigramCount[h1, h2]-1)
+                    c3 = safe_div(self._trigramCount[h1, h2, tag] - 1, self._bigramCount[h1, h2] - 1)
                 else:
                     c3 = -2.0  # Never will be maximum
-                c2 = safe_div(self._bigramCount[h2, tag]-1, self._unigramCount[h2]-1)
-                c1 = safe_div(self._unigramCount[tag]-1, self._obsCount-1)
+                c2 = safe_div(self._bigramCount[h2, tag] - 1, self._unigramCount[h2] - 1)
+                c1 = safe_div(self._unigramCount[tag] - 1, self._obsCount - 1)
 
                 # if c1 is the maximum value:
                 if (c1 > c3) and (c1 > c2):
@@ -222,9 +222,9 @@ class TransModel:
                 """
         # Lambda normalisation:
         # ensures that l1+l2+l3 = 1
-        self._lambda1 = tl1 / (tl1+tl2+tl3)
-        self._lambda2 = tl2 / (tl1+tl2+tl3)
-        self._lambda3 = tl3 / (tl1+tl2+tl3)
+        self._lambda1 = tl1 / (tl1 + tl2 + tl3)
+        self._lambda2 = tl2 / (tl1 + tl2 + tl3)
+        self._lambda3 = tl3 / (tl1 + tl2 + tl3)
         print('lambda1: {0}\nlambda2: {1}\nlambda3: {2}'.format(self._lambda1, self._lambda2, self._lambda3),
               file=sys.stderr, flush=True)
 
@@ -243,7 +243,7 @@ class TransModel:
         uni = self.unigramLogProb.get(nth, self._logSmooth)
 
         # Weighted by lambdas...
-        return self._lambda1*uni + self._lambda2*bi + self._lambda3*tri
+        return self._lambda1 * uni + self._lambda2 * bi + self._lambda3 * tri
 
     def prob(self, nMinusTwo=None, nMinusOne=None, nth=None):
         return math.exp(self._logProb(nMinusTwo, nMinusOne, nth))
