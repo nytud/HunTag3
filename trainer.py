@@ -6,7 +6,6 @@ trainer.py is a module of HunTag and is used to train maxent models
 """
 
 import sys
-from operator import itemgetter
 from collections import Counter, defaultdict
 from sklearn.externals import joblib
 from scipy.sparse import csr_matrix
@@ -113,7 +112,7 @@ class Trainer:
 
     def cutoffFeats(self):
         self._convertToNPArray()
-        colNum = self._featCounter.numOfNames()
+        colNum = self._featCounter.numOfNames() + 1
         if self._cutoff < 2:
             self._matrix = self._makeSparseArray(self._tokCount, colNum)
         else:

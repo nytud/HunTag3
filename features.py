@@ -493,8 +493,10 @@ def ngrams(token, options):
     """
     n = int(options['n'])
     f = [str(token[c:c + n]) for c in range(max(0, len(token) - n + 1))]
-    f[0] = '@{0}'.format(f[0])
-    f[-1] = '{0}@'.format(f[-1])
+    if len(f) > 0:
+        f[0] = '@{0}'.format(f[0])
+        f[-1] = '{0}@'.format(f[-1])
+    return f
 
 
 # XXX Return is not bool
@@ -1551,7 +1553,8 @@ def mmoSimple(mmoTags):
     return [x for x in MMOpatt.split(mmoTags) if x]
 
 
-# XXX This is never used. Will be deleted 
+### WILL BE DELETED
+# XXX This is never used. Will be deleted
 # Slow, because the combinatoric explosion...
 def myPatts(sen, fields, options, fullKr=False):
     lang = options['lang']
@@ -1580,41 +1583,39 @@ def myPatts(sen, fields, options, fullKr=False):
         # if (krVec[c] != 'O'):
         #     featVec[c].append(krVec[c])
         #     continue
-        for i in range(-rad, rad):
-            for j in range(-rad + 1, rad + 2):
-                # sys.stderr.write(str(i) + ' ' + str(j))
-                a = c + i
-                b = c + j
-
-                if a >= 0 and b <= len(sen) and minLength <= b - a <= maxLength:
-                    # sys.stderr.write('*')
-                    seqs = []
-                    for curr in range(c + i, c + j):
-                        seq = []
-                        for f in fields:
-                            seq.append(sen[curr][f])
-                        # Every elem is appended to 'seq', in every possible combination...
-                        if len(seqs) == 0:  # seq2 = seq
-                            seqs = seq
-                        else:
-                            ujelemek = []
-                            for v in seqs:  # already made sequences
-                                # print('elems already in: ' + str(v) + 'seq: ' + str(seq))
-                                for elem in seq:  # There is a new element
-                                    eddigi = deepcopy(v)
-                                    if isinstance(eddigi, list):
-                                        eddigi.append(elem)
-                                    else:
-                                        eddigi = [eddigi, elem]  # new elem = [old elem]
-                                    # ujelem.append(elem)
-                                    ujelemek.append(eddigi)
-                            # print('most ' + str(seqs) + str(ujelemek))
-                            seqs = ujelemek
-                            # print('most ' + str(seqs))
+        # Begining in -rad and rad but starts in the list boundaries (lower)
+        for k in range(max(-rad, -c), rad):
+            # Ending in -rad + 1 and rad + 2  but starts in the list boundaries (upper)
+            # and keep minimal and maximal length
+            for j in range(max(-rad + 1, minLength + k), min(rad + 2, maxLength + k + 1, len(sen) - c + 1)):
+                # sys.stderr.write('*')
+                seqs = []
+                for curr in range(c + k, c + j):
+                    seq = []
+                    for f in fields:
+                        seq.append(sen[curr][f])
+                    # Every elem is appended to 'seq', in every possible combination...
+                    if len(seqs) == 0:  # seq2 = seq
+                        seqs = seq
+                    else:
+                        ujelemek = []
+                        for v in seqs:  # already made sequences
+                            # print('elems already in: ' + str(v) + 'seq: ' + str(seq))
+                            for elem in seq:  # There is a new element
+                                eddigi = deepcopy(v)
+                                if isinstance(eddigi, list):
+                                    eddigi.append(elem)
+                                else:
+                                    eddigi = [eddigi, elem]  # new elem = [old elem]
+                                # ujelem.append(elem)
+                                ujelemek.append(eddigi)
+                        # print('most ' + str(seqs) + str(ujelemek))
+                        seqs = ujelemek
+                        # print('most ' + str(seqs))
                     # print(seqs) #
                     for u in seqs:
                         value = '+'.join(u)
-                        feat = '_'.join((str(i), str(j), value))
+                        feat = '{0}_{1}_{2}'.format(k, j, value)
                         featVec[c].append(feat)
                 # sys.stderr.write('\n')
     # print 'featVec:'
@@ -1693,16 +1694,8 @@ def mySpecPatts(sen, fields, options, fullKr=False):
         tagst = tags_since_pos(krVec, c, '[Tf]')
         if len(tagst) > 0:
             featVec[c].append('dt_' + tagst)
-        # print('@')
-        # print('word '+str(c), file=sys.stderr, flush=True)
-        # Múlt    múlt    FN      O       B-N_2+
-        # print('vektor: ')
-        # print(krVec[c])
-        # spec = krVec[c].split('#')
-        # print(spec)
-        # if (len(spec) > 1 and spec[0] != 'O'):
-        #     featVec[c].append(spec[0])
-        #     continue
+
+        # XXX EZ A PÁR SOR KÜLÖNBÖZIK A KRpatts-tól
         lastF = '' if c == 0 else krVec[c - 1]
         if lastF.startswith('[N') and krVec[c].startswith('[N') and lastF != krVec[c]:
             featVec[c].append('FNelter')
@@ -1711,14 +1704,13 @@ def mySpecPatts(sen, fields, options, fullKr=False):
             if len(tagst) > 0:
                 featVec[c].append('birtok_' + tagst)
 
-#            featVec[c].append('birtok') # all tags should be enumerated in between
+        # Begining in -rad and rad but starts in the list boundaries (lower)
+        for k in range(max(-rad, -c), rad):
+            # Ending in -rad + 1 and rad + 2  but starts in the list boundaries (upper)
+            # and keep minimal and maximal length
+            for j in range(max(-rad + 1, minLength + k), min(rad + 2, maxLength + k + 1, krVecLen - c + 1)):
+                value = '+'.join(krVec[c + k:c + j])
+                feat = '{0}_{1}_{2}'.format(k, j, value)
+                featVec[c].append(feat)
 
-        # XXX SHOULD LIMIT RADIUS TO THE BOUNDS!!!!
-        for k in range(-rad, rad):
-            for j in range(-rad + 1, rad + 2):
-                a = c + k
-                b = c + j
-                if a >= 0 and b <= krVecLen and minLength <= b - a <= maxLength:
-                    featVec[c].append('_'.join((str(k), str(j), '+'.join([krVec[x] for x in range(a, b)]))))
     return featVec
-
