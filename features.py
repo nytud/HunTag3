@@ -30,7 +30,7 @@ def stupidStem(token):
 
     Used extensively in other functions
     """
-    r = token.rfind("-")
+    r = token.rfind('-')
     if r == -1:
         return [token]
     else:
@@ -492,15 +492,9 @@ def ngrams(token, options):
         Use case: NER, Chunk
     """
     n = int(options['n'])
-    f = []
-    for c in range(max(0, len(token) - n + 1)):
-        if c == 0:
-            f.append('@{0}'.format(token[c:c + n]))
-        elif c + n == len(token):
-            f.append('{0}@'.format(token[c:c + n]))
-        else:
-            f.append(str(token[c:c + n]))
-    return f
+    f = [str(token[c:c + n]) for c in range(max(0, len(token) - n + 1))]
+    f[0] = '@{0}'.format(f[0])
+    f[-1] = '{0}@'.format(f[-1])
 
 
 # XXX Return is not bool
@@ -540,7 +534,7 @@ def msdPos(msdAnal):
 
     HunTag:
         Type: Token
-        Field: Any field
+        Field: Analysis
         Example: '[Nc-sa—s3]' -> N
         Use case: NER, Chunk
     """
@@ -559,7 +553,7 @@ def msdPosAndChar(msdAnal):
 
     HunTag:
         Type: Token
-        Field: Token
+        Field: Analysis
         Example: '[Nc-sa—s3]' -> [N2c, N]
         Use case: NER, Chunk
     """
@@ -867,6 +861,7 @@ def getPosTag(krAnal):
     return [re.split(r'\W+', krAnal.split('/')[-1])[0]]
 
 
+### WILL BE DELETED
 # XXX Return is not bool
 # XXX and not list
 def tags_since_dt(sentence, tokRange):
@@ -947,7 +942,8 @@ def krPatts(sen, fields, options, fullKr=False):
     # For every token in sentence
     for c in range(krVecLen):
         # since_dt using since_dt
-        tagst = tags_since_dt(krVec, c)
+
+        tagst = tags_since_pos(krVec, c, '[Tf]')  # [Tf], DT
         if len(tagst) > 0:
             featVec[c].append('dt_' + tagst)
         # Begining in -rad and rad but starts in the list boundaries (lower)
@@ -1407,7 +1403,7 @@ def getKrEnd(krAnal, _=None):
 
 ### WILL BE DELETED
 # XXX Return is not bool
-# XXX Same as krPatts?
+# XXX Same as krPatts except since_pos is missing
 def sentence_parsePatts(sen, fields, options):
     """parse KR code patterns
 
@@ -1571,7 +1567,7 @@ def myPatts(sen, fields, options, fullKr=False):
     # print 'fullKr:'
     # print fullKr
 
-    # assert len(fields)==1
+    # assert len(fields) == 1
     # f = fields[0]
     featVec = [[] for _ in sen]
     # sys.stderr.write(str(len(sen))+'words\n')
@@ -1643,7 +1639,7 @@ def tags_since_pos(sen, tokRange, myPos='DT', strict=True):
 
     HunTag:
         Type: Sentence
-        Field: Token
+        Field: analysis
         Example: ???
         Use case: NER, Chunk
 
@@ -1657,6 +1653,9 @@ def tags_since_pos(sen, tokRange, myPos='DT', strict=True):
         else:
             tags.append(pos)
     return '+'.join(tags)
+
+
+birtokos = re.compile(r'--[sp]\d')
 
 
 # Mypatts tesója
@@ -1676,7 +1675,6 @@ def mySpecPatts(sen, fields, options, fullKr=False):
     minLength = int(options['minLength'])
     maxLength = int(options['maxLength'])
     rad = int(options['rad'])
-
     assert len(fields) == 1
     f = fields[0]
     featVec = [[] for _ in sen]
@@ -1687,7 +1685,6 @@ def mySpecPatts(sen, fields, options, fullKr=False):
     #     krVec = [tok[f][0] for tok in sen]
     krVec = [tok[f] for tok in sen]
 
-    birtokos = re.compile(r'--[sp]\d')
     assert len(krVec) == len(sen)
     # print(str(len(sen))+'words', file=sys.stderr, flush=True)
     krVecLen = len(krVec)
