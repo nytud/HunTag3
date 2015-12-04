@@ -30,11 +30,11 @@ class Trainer:
         # parameters = {'loss':'modified_huber',  'n_jobs': -1}
         # solver = SGDClassifier
 
-        # ‘linear’, ‘poly’, ‘rbf’, ‘sigmoid’, ‘precomputed’ 
+        # ‘linear’, ‘poly’, ‘rbf’, ‘sigmoid’, ‘precomputed’
         # parameters = {'kernel': 'rbf', 'probability': True}
         # solver = SVC
 
-        # ‘linear’, ‘poly’, ‘rbf’, ‘sigmoid’, ‘precomputed’ 
+        # ‘linear’, ‘poly’, ‘rbf’, ‘sigmoid’, ‘precomputed’
         # parameters = {'kernel': 'linear', 'probability': True}
         # solver = OneVsRestClassifier(SVC(**parameters))  # XXX won't work because ** in parameters...
 

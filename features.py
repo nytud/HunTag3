@@ -896,6 +896,36 @@ def tags_since_dt(sentence, tokRange):
     return '+'.join(sorted(tags))
 
 
+def sincePos(krVec, c, tag, featPrefix, featVecElem):
+    tagst = tags_since_pos(krVec, c, tag)
+    if len(tagst) > 0:
+        featVecElem.append(featPrefix + tagst)
+
+
+def doNothing(*_):
+    pass
+
+
+# XXX LEFORDÍTANI
+def casDiff(c, krVec, featVecElem):
+    lastF = '' if c == 0 else krVec[c - 1]
+    if lastF.startswith('[N') and krVec[c].startswith('[N') and lastF != krVec[c]:
+        featVecElem.append('FNelter')
+
+
+# XXX LEFORDÍTANI
+def possConnect(c, krVec, featVecElem):
+    if birtokos.search(krVec[c]):
+        tagst = tags_since_pos(krVec, c, '^\[?N', False)
+        if len(tagst) > 0:
+            featVecElem.append('birtok_' + tagst)
+
+
+# fullKr == True
+# options['since_dt'] == 1
+# options['CASDiff'] == 1
+# options['POSSConnect'] == 1
+# options['lang'] in ('en', 'hu')
 # XXX Return is not bool
 def krPatts(sen, fields, options, fullKr=False):
     """Return KR code patterns
@@ -917,45 +947,59 @@ def krPatts(sen, fields, options, fullKr=False):
 
     Replaces:
        parsePatts: superseded
+       mySpecPatts: superseded
+       myPatts: Unimplementable, almost same
+       sentence_parsePatts: superseded
     """
-    assert len(fields) == 1
+    # options = {'lang': 'hu', 'since_dt': 1, 'CASDiff': 1, 'POSSConnect': 1}  # XXX TEST ONLY
+    fullKr = True
     assert options['lang'] in ('en', 'hu')
-    # lang = options['lang']
     minLength = int(options['minLength'])
     maxLength = int(options['maxLength'])
     rad = int(options['rad'])
-
     assert len(fields) == 1
     f = fields[0]
     featVec = [[] for _ in sen]
-    # XXX TODO: make it a parameter
-    # Use full KR code. It yielded better results.
     krVec = [tok[f] for tok in sen]
-    """
-    if lang == 'hu':
+
+    if options['lang'] == 'hu':
         if not fullKr:
             krVec = [getPosTag(kr) for kr in krVec]
     else:
         krVec = [tok[f][0] for tok in sen]
-    """
+
+    applyCasDiffFun = doNothing
+    applyPossConnectFun = doNothing
+
+    if options['lang'] == 'hu':
+        tag, featPrefix = '[Tf]', 'dt_'
+        if options['CASDiff'] == '1':
+            applyCasDiffFun = casDiff
+        if options['POSSConnect'] == '1':
+            applyPossConnectFun = possConnect
+    else:
+        tag, featPrefix = 'DT', 'dt_'
+
+    if options['since_dt'] == '1':
+        applySincePosFun = sincePos
+    else:
+        applySincePosFun = doNothing
 
     assert len(krVec) == len(sen)
     krVecLen = len(krVec)
     # For every token in sentence
     for c in range(krVecLen):
-        # since_dt using since_dt
-
-        tagst = tags_since_pos(krVec, c, '[Tf]')  # [Tf], DT
-        if len(tagst) > 0:
-            featVec[c].append('dt_' + tagst)
+        applySincePosFun(krVec, c, tag, featPrefix, featVec[c])
+        applyCasDiffFun(c, krVec, featVec[c])
+        applyPossConnectFun(c, krVec, featVec[c])
         # Begining in -rad and rad but starts in the list boundaries (lower)
         for k in range(max(-rad, -c), rad):
             # Ending in -rad + 1 and rad + 2  but starts in the list boundaries (upper)
             # and keep minimal and maximal length
             for j in range(max(-rad + 1, minLength + k), min(rad + 2, maxLength + k + 1, krVecLen - c + 1)):
-                    value = '+'.join(krVec[c + k:c + j])
-                    feat = '{0}_{1}_{2}'.format(k, j, value)
-                    featVec[c].append(feat)
+                value = '+'.join(krVec[c + k:c + j])
+                feat = '{0}_{1}_{2}'.format(k, j, value)
+                featVec[c].append(feat)
     return featVec
 
 
@@ -1659,6 +1703,7 @@ def tags_since_pos(sen, tokRange, myPos='DT', strict=True):
 birtokos = re.compile(r'--[sp]\d')
 
 
+### WILL BE DELETED
 # Mypatts tesója
 # Krpatts kis módosítással
 # Két szó egymás mellett más esetben van.
@@ -1671,34 +1716,56 @@ def mySpecPatts(sen, fields, options, fullKr=False):
     # print(krPatts(s, [1], o))
     # print(mySpecPatts(s, [1], o))
     # print(myPatts(s, [1,2], o))
-    lang = options['lang']
-    assert lang in ('en', 'hu')
+    assert options['lang'] in ('en', 'hu')
     minLength = int(options['minLength'])
     maxLength = int(options['maxLength'])
     rad = int(options['rad'])
     assert len(fields) == 1
     f = fields[0]
     featVec = [[] for _ in sen]
-    # if lang == 'hu':
-    #     if not fullKr:
-    #         krVec = [getPosTag(kr) for kr in krVec]
-    # else:
-    #     krVec = [tok[f][0] for tok in sen]
+    # XXX TODO: make it a parameter
+    # Use full KR code. It yielded better results.
     krVec = [tok[f] for tok in sen]
+    """
+    if lang == 'hu':
+        if not fullKr:
+            krVec = [getPosTag(kr) for kr in krVec]
+    else:
+        krVec = [tok[f][0] for tok in sen]
+    """
+
+    assert options['lang'] in ('en', 'hu')
+    minLength = int(options['minLength'])
+    maxLength = int(options['maxLength'])
+    rad = int(options['rad'])
+    assert len(fields) == 1
+    f = fields[0]
+    featVec = [[] for _ in sen]
+    # XXX TODO: make it a parameter
+    # Use full KR code. It yielded better results.
+    krVec = [tok[f] for tok in sen]
+    """
+    if lang == 'hu':
+        if not fullKr:
+            krVec = [getPosTag(kr) for kr in krVec]
+    else:
+        krVec = [tok[f][0] for tok in sen]
+    """
 
     assert len(krVec) == len(sen)
-    # print(str(len(sen))+'words', file=sys.stderr, flush=True)
     krVecLen = len(krVec)
+    # For every token in sentence
     for c in range(krVecLen):
+        # since_dt using since_dt
 
-        tagst = tags_since_pos(krVec, c, '[Tf]')
+        tagst = tags_since_pos(krVec, c, '[Tf]')  # [Tf], DT
         if len(tagst) > 0:
             featVec[c].append('dt_' + tagst)
 
         # XXX EZ A PÁR SOR KÜLÖNBÖZIK A KRpatts-tól
         lastF = '' if c == 0 else krVec[c - 1]
         if lastF.startswith('[N') and krVec[c].startswith('[N') and lastF != krVec[c]:
-            featVec[c].append('FNelter')
+            featVec[c].append('FNelter')  # XXX LEFORDÍTANI
         if birtokos.search(krVec[c]):
             tagst = tags_since_pos(krVec, c, '^\[?N', False)
             if len(tagst) > 0:
@@ -1712,5 +1779,4 @@ def mySpecPatts(sen, fields, options, fullKr=False):
                 value = '+'.join(krVec[c + k:c + j])
                 feat = '{0}_{1}_{2}'.format(k, j, value)
                 featVec[c].append(feat)
-
     return featVec
