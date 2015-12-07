@@ -37,13 +37,6 @@ def stupidStem(token):
         return [token[:r]]
 
 
-### WILL BE DELETED
-# The original isCapitalizedOperator, but this checks only
-# if it has uppercase in it anywhere
-def isCapitalizedOperator(form):
-    return [int(form.lower() != form)]
-
-
 def hasCapOperator(form):
     """Has it capital letter anywhere?
 
@@ -66,12 +59,6 @@ def hasCapOperator(form):
     return [int(form.lower() != form)]
 
 
-### WILL BE DELETED
-# New: all lowercase
-def lowerCaseOperator(form):
-    return [int(form.lower() == form)]
-
-
 def isCapOperator(form):
     """Only the first letter is capital
     This is the new isCapitalized: Starts with uppercase
@@ -92,12 +79,6 @@ def isCapOperator(form):
         token_notCapitalizedOperator: inverse, redundant
     """
     return [int(form[0] != form[0].lower())]
-
-
-### WILL BE DELETED
-# This is new: Starts lowercase
-def notCapitalizedOperator(form):
-    return [int(form[0] == form[0].lower())]
 
 
 def isAllcapsOperator(form):
@@ -174,25 +155,6 @@ def startsWithNumberOperator(form):
     return [int(form[0].isdigit())]
 
 
-### WILL BE DELETED
-def isNumberOperator(form):
-    """stupidStem contains letters or just numbers and punctuation?
-
-    Args:
-       form (str): The token
-
-    Returns:
-       [Bool in int format]: True if token_stupidStem is only numbers or punctuation
-
-    HunTag:
-        Type: Token
-        Field: Token
-        Example: '3-gram' -> [1], 'n-gram' -> [0]
-        Use case: NER
-    """
-    return [int(set(stupidStem(form)[0]).issubset(set('0123456789,.-%')))]
-
-
 def hasNumberOperator(form):
     """Token contains numbers
 
@@ -263,36 +225,6 @@ def hasPeriodOperator(form):
         Use case: NER, but not in SzegedNER
     """
     return [int('.' in form)]
-
-
-### WILL BE DELETED
-def sentenceStart(sen):
-    featureVector = []
-    for formIndex, form in enumerate(sen):
-        if form == '':
-            featureVector.append('')
-        else:
-            if formIndex > 0:
-                val = int(sen[formIndex - 1] == '')
-            else:
-                val = 1
-            featureVector.append(val)
-    return featureVector
-
-
-### WILL BE DELETED
-def sentenceEnd(sen):
-    featureVector = []
-    for formIndex, form in enumerate(sen):
-        if form == '':
-            featureVector.append('')
-        else:
-            if formIndex + 1 < len(sen):
-                val = int(sen[formIndex + 1] == '')
-            else:
-                val = 1
-            featureVector.append(val)
-    return featureVector
 
 
 # GLOBAL DECLARATION BEGIN
@@ -369,39 +301,6 @@ def shortPattern(token):
     return [pattern]
 
 
-### WILL BE DELETED
-def scase(token):
-    """Lowercase token's first letter
-
-    Args:
-       token (str): The token
-
-    Returns:
-       [Str]: Token, first letter lowercased
-
-    HunTag:
-        Type: Token
-        Field: Token
-        Example: 'Alma' -> [alma], 'ALMA' -> [aLMA]
-        Use case: NER
-    """
-    if token[0] in bigcase:
-        token = token[0].lower() + token[1:]
-
-    return [token]
-
-"""
-### WILL BE DELETED
-def isInRangeWithSmallCase(word):
-    # print(word, file=sys.stderr, flush=True)
-    checkedRange = 30
-    if word[0] in smallcase:
-        return 'n/a'
-    else:
-        return [int(db.isInRange(scase(word), checkedRange, wordcount))]
-"""
-
-
 # XXX Return is not bool
 def fchunkTag(chunkTag):
     """Returns the field as it is. (getForm do the same for non-merged tokens)
@@ -444,12 +343,6 @@ def chunkType(chunkTag):
         token_getTagType: is same
     """
     return [chunkTag[2:]]
-
-
-### WILL BE DELETED
-def chunkPart(chunktag):
-    # 'B-NP' -> B
-    return [chunktag[0]]
 
 
 # XXX Return is not bool
@@ -698,84 +591,6 @@ def fullKrPieces(krAnal):
     return krPieces('/'.join(krAnal.split('/')[1:]))
 
 
-### WILL BE DELETED
-def krFeats(kr):
-    pieces = re.split(r'\W+', kr)[1:]
-    feats = []
-    last = ''
-    for piece in pieces:
-        if piece in ('1', '2'):
-            processed = '{0}_{1}'.format(last, piece)
-        else:
-            processed = piece
-
-        feats.append(processed)
-        last = piece
-
-    return [feat for feat in feats if feat]
-
-
-### WILL BE DELETED
-def krConjs(kr):
-    pieces = re.split(r'\W+', kr)
-    conjs = []
-
-    for ind, e1 in enumerate(pieces):
-        for e2 in pieces[ind + 1:]:
-            if e2 == '':
-                continue
-            conjs.append('{0}+{1}'.format(e1, e2))
-
-    return [feat for feat in conjs if feat]
-
-
-### WILL BE DELETED
-def capsPattern(sen, fields):
-    """Capitalized word sequence patterns"""
-    featVec = [[] for _ in sen]
-
-    assert len(fields) == 1
-    tokens = [word[fields[0]] for word in sen]
-    upperFlags = [hasCapOperator(token)[0] for token in tokens]
-    start = -1
-    mapStartToSize = {}
-    for pos, flag in enumerate(upperFlags + [0]):
-        if flag == 0:
-            if start != -1:
-                mapStartToSize[start] = pos - start
-            start = -1
-            continue
-        else:
-            if start == -1:
-                start = pos
-        if start != -1:
-            mapStartToSize[start] = len(upperFlags) - start
-
-    for pos, flag in enumerate(upperFlags):
-        if flag == 0:
-            start = -1
-            continue
-        if start == -1:
-            start = pos
-        positionInsideCapSeq = pos - start
-        lengthOfCapSeq = mapStartToSize[start]
-        p = str(positionInsideCapSeq)
-        l = str(lengthOfCapSeq)
-        featVec[pos] += ['p{0}'.format(p),
-                         'l{0}'.format(l),
-                         'p{0}l{1}'.format(p, l)]
-
-    return featVec
-
-
-### WILL BE DELETED
-def capsPattern_test():
-    tokens = 'A certain Ratio Of GDP is Gone Forever'.split()
-    sentence = [[token] for token in tokens]
-    fields = [0]
-    print(capsPattern(sentence, fields))
-
-
 def isBetweenSameCases(sen, fields, options=None):
     """Is between same grammatical cases
 
@@ -863,39 +678,6 @@ def getPosTag(krAnal):
     return [re.split(r'\W+', krAnal.split('/')[-1])[0]]
 
 
-### WILL BE DELETED
-# XXX Return is not bool
-# XXX and not list
-def tags_since_dt(sentence, tokRange):
-    """
-    Last determinant feature:
-    All the POS tags that occured since the last determinant is joined with '+'
-    Determinant: XXX TODO: Make this a parameter
-    English: 'DT'
-    Hungarian (KR code): '[Tf]'
-
-    Args:
-       sentence (list): List of tokens in the sentence
-       tokRange (int): number of tokens used
-
-    Returns:
-       [Str]: Pass ???
-
-    HunTag:
-        Type: Sentence
-        Field: Analysis
-        Example: ???
-        Use case: Chunk
-    """
-    tags = set()
-    for pos in sentence[:tokRange]:
-        if pos == '[Tf]':  # [Tf], DT
-            tags = set()
-        else:
-            tags.add(pos)
-    return '+'.join(sorted(tags))
-
-
 def sincePos(krVec, c, tag, featPrefix, featVecElem):
     tagst = tags_since_pos(krVec, c, tag)
     if len(tagst) > 0:
@@ -911,6 +693,8 @@ def casDiff(c, krVec, featVecElem):
     lastF = '' if c == 0 else krVec[c - 1]
     if lastF.startswith('[N') and krVec[c].startswith('[N') and lastF != krVec[c]:
         featVecElem.append('FNelter')
+
+birtokos = re.compile(r'--[sp]\d')
 
 
 # XXX LEFORDÍTANI
@@ -1019,22 +803,6 @@ def krPlural(krAnal):
         Use case: NER, Chunk
     """
     return [int('NOUN<PLUR' in krAnal)]
-
-
-### WILL BE DELETED
-def getTagType(tag):
-    return tag[2:]
-
-
-### WILL BE DELETED
-def posStart(postag):
-    return postag[0]
-
-
-### WILL BE DELETED
-def posEnd(postag):
-    """Last character of field (BNC tag)"""
-    return postag[-1]
 
 
 # XXX Return is not bool
@@ -1266,7 +1034,7 @@ def newSentenceStart(sen, _):
 
     Args:
        sen (list): List of tokens in the sentence
-
+       _: Unused
     Returns:
        [[Bool in int format]]: True if Token is at the sentence start
 
@@ -1286,6 +1054,7 @@ def newSentenceEnd(sen, _):
 
     Args:
        sen (list): List of tokens in the sentence
+       _: Unused
 
     Returns:
        [[Bool in int format]]: True if Token is at the sentence end
@@ -1299,11 +1068,6 @@ def newSentenceEnd(sen, _):
     featVec = [[0] for _ in sen]
     featVec[-1][0] = 1
     return featVec
-
-
-### WILL BE DELETED
-def OOV(lemma):
-    return [int('OOV' in lemma)]
 
 
 def unknown(anal):
@@ -1395,11 +1159,6 @@ def getPennTags(pennTag):
         return ['0']
 
 
-### WILL BE DELETED
-def plural(tag):
-    return [int(tag == 'NNS' or tag == 'NNPS')]
-
-
 def HumorPlural(humorTag):
     """Check if Humor code plural
 
@@ -1418,17 +1177,13 @@ def HumorPlural(humorTag):
     return [int('PL' in humorTag)]
 
 
-### WILL BE DELETED
-def getBNCtag(tag):
-    return [tag]
-
-
 # XXX Return is not bool
 def getKrEnd(krAnal, _=None):
     """Return KR code end
 
     Args:
        krAnal (str): The token
+       _: Unused
 
     Returns:
        [Str]: ???
@@ -1447,53 +1202,12 @@ def getKrEnd(krAnal, _=None):
     return [end]
 
 
-### WILL BE DELETED
-# XXX Return is not bool
-# XXX Same as krPatts except since_pos is missing
-def sentence_parsePatts(sen, fields, options):
-    """parse KR code patterns
-
-    Args:
-       sen (list): List of tokens in the sentence
-       fields (list): number of fields used
-       options (dict): available options
-
-    Returns:
-       [[str]]: ???
-
-    HunTag:
-        Type: Sentence
-        Field: analysis
-        Example: ???
-        Use case: NER, but not in SzegedNER
-    """
-    assert len(fields) == 1
-    f = fields[0]
-    minLength = options['minLength']
-    maxLength = options['maxLength']
-    rad = options['rad']
-
-    krVec = [tok[f] for tok in sen]
-    featVec = [[] for _ in krVec]
-    krVecLen = len(krVec)
-    # For every token in sentence
-    for c in range(krVecLen):
-        # Begining in -rad and rad but starts in the list boundaries (lower)
-        for k in range(max(-rad, -c), rad):
-            # Ending in -rad + 1 and rad + 2  but starts in the list boundaries (upper)
-            # and keep minimal and maximal length
-            for j in range(max(-rad + 1, minLength + k), min(rad + 2, maxLength + k + 1, krVecLen - c + 1)):
-                    value = '+'.join(krVec[c + k:c + j])
-                    feat = '{0}_{1}_{2}'.format(k, j, value)
-                    featVec[c].append(feat)
-    return featVec
-
-
 def token_pennPlural(pennTag, _=None):
     """Check if Penn code plural
 
     Args:
        pennTag (str): Penn tag
+       _: Unused
 
     Returns:
        [Bool in int format]: ???
@@ -1597,77 +1311,6 @@ def mmoSimple(mmoTags):
     return [x for x in MMOpatt.split(mmoTags) if x]
 
 
-### WILL BE DELETED
-# XXX This is never used. Will be deleted
-# Slow, because the combinatoric explosion...
-def myPatts(sen, fields, options, fullKr=False):
-    lang = options['lang']
-    assert lang in ('en', 'hu')
-    minLength = int(options['minLength'])
-    maxLength = int(options['maxLength'])
-    rad = int(options['rad'])
-
-    # print 'sen:'
-    # print sen
-    # print 'fields:'
-    # print fields
-    # print 'fullKr:'
-    # print fullKr
-
-    # assert len(fields) == 1
-    # f = fields[0]
-    featVec = [[] for _ in sen]
-    # sys.stderr.write(str(len(sen))+'words\n')
-    for c in range(len(sen)):
-        # Múlt    múlt    FN      O       B-N_2+
-        # print('vektor: ')
-        # print(krVec[c])
-        # spec = krVec[ckrVec[c]].split('#')
-        # print(spec)
-        # if (krVec[c] != 'O'):
-        #     featVec[c].append(krVec[c])
-        #     continue
-        # Begining in -rad and rad but starts in the list boundaries (lower)
-        for k in range(max(-rad, -c), rad):
-            # Ending in -rad + 1 and rad + 2  but starts in the list boundaries (upper)
-            # and keep minimal and maximal length
-            for j in range(max(-rad + 1, minLength + k), min(rad + 2, maxLength + k + 1, len(sen) - c + 1)):
-                # sys.stderr.write('*')
-                seqs = []
-                for curr in range(c + k, c + j):
-                    seq = []
-                    for f in fields:
-                        seq.append(sen[curr][f])
-                    # Every elem is appended to 'seq', in every possible combination...
-                    if len(seqs) == 0:  # seq2 = seq
-                        seqs = seq
-                    else:
-                        ujelemek = []
-                        for v in seqs:  # already made sequences
-                            # print('elems already in: ' + str(v) + 'seq: ' + str(seq))
-                            for elem in seq:  # There is a new element
-                                eddigi = deepcopy(v)
-                                if isinstance(eddigi, list):
-                                    eddigi.append(elem)
-                                else:
-                                    eddigi = [eddigi, elem]  # new elem = [old elem]
-                                # ujelem.append(elem)
-                                ujelemek.append(eddigi)
-                        # print('most ' + str(seqs) + str(ujelemek))
-                        seqs = ujelemek
-                        # print('most ' + str(seqs))
-                    # print(seqs) #
-                    for u in seqs:
-                        value = '+'.join(u)
-                        feat = '{0}_{1}_{2}'.format(k, j, value)
-                        featVec[c].append(feat)
-                # sys.stderr.write('\n')
-    # print 'featVec:'
-    # print featVec
-    return featVec
-
-
-# XXX never used
 # XXX Return is not bool
 # XXX and not list
 def tags_since_pos(sen, tokRange, myPos='DT', strict=True):
@@ -1698,85 +1341,3 @@ def tags_since_pos(sen, tokRange, myPos='DT', strict=True):
         else:
             tags.append(pos)
     return '+'.join(tags)
-
-
-birtokos = re.compile(r'--[sp]\d')
-
-
-### WILL BE DELETED
-# Mypatts tesója
-# Krpatts kis módosítással
-# Két szó egymás mellett más esetben van.
-# Birtokos és a birtok kereső is
-def mySpecPatts(sen, fields, options, fullKr=False):
-    # XXX Tests, to be included in comment
-    # s = [['egy', '[Tf]', 'egyf2'], ['ketto', 'N--s2kettof1', 'kettof2'], ['harom', 'N--p3haromf1', 'haromf3'],
-    #  ['negy', 'negyf1', 'negyf2']]
-    # o = {'lang':'hu', 'minLength': 2, 'maxLength' : 99, 'rad' : 2}
-    # print(krPatts(s, [1], o))
-    # print(mySpecPatts(s, [1], o))
-    # print(myPatts(s, [1,2], o))
-    assert options['lang'] in ('en', 'hu')
-    minLength = int(options['minLength'])
-    maxLength = int(options['maxLength'])
-    rad = int(options['rad'])
-    assert len(fields) == 1
-    f = fields[0]
-    featVec = [[] for _ in sen]
-    # XXX TODO: make it a parameter
-    # Use full KR code. It yielded better results.
-    krVec = [tok[f] for tok in sen]
-    """
-    if lang == 'hu':
-        if not fullKr:
-            krVec = [getPosTag(kr) for kr in krVec]
-    else:
-        krVec = [tok[f][0] for tok in sen]
-    """
-
-    assert options['lang'] in ('en', 'hu')
-    minLength = int(options['minLength'])
-    maxLength = int(options['maxLength'])
-    rad = int(options['rad'])
-    assert len(fields) == 1
-    f = fields[0]
-    featVec = [[] for _ in sen]
-    # XXX TODO: make it a parameter
-    # Use full KR code. It yielded better results.
-    krVec = [tok[f] for tok in sen]
-    """
-    if lang == 'hu':
-        if not fullKr:
-            krVec = [getPosTag(kr) for kr in krVec]
-    else:
-        krVec = [tok[f][0] for tok in sen]
-    """
-
-    assert len(krVec) == len(sen)
-    krVecLen = len(krVec)
-    # For every token in sentence
-    for c in range(krVecLen):
-        # since_dt using since_dt
-
-        tagst = tags_since_pos(krVec, c, '[Tf]')  # [Tf], DT
-        if len(tagst) > 0:
-            featVec[c].append('dt_' + tagst)
-
-        # XXX EZ A PÁR SOR KÜLÖNBÖZIK A KRpatts-tól
-        lastF = '' if c == 0 else krVec[c - 1]
-        if lastF.startswith('[N') and krVec[c].startswith('[N') and lastF != krVec[c]:
-            featVec[c].append('FNelter')  # XXX LEFORDÍTANI
-        if birtokos.search(krVec[c]):
-            tagst = tags_since_pos(krVec, c, '^\[?N', False)
-            if len(tagst) > 0:
-                featVec[c].append('birtok_' + tagst)
-
-        # Begining in -rad and rad but starts in the list boundaries (lower)
-        for k in range(max(-rad, -c), rad):
-            # Ending in -rad + 1 and rad + 2  but starts in the list boundaries (upper)
-            # and keep minimal and maximal length
-            for j in range(max(-rad + 1, minLength + k), min(rad + 2, maxLength + k + 1, krVecLen - c + 1)):
-                value = '+'.join(krVec[c + k:c + j])
-                feat = '{0}_{1}_{2}'.format(k, j, value)
-                featVec[c].append(feat)
-    return featVec
