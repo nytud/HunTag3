@@ -8,16 +8,81 @@ them.
 
 import re
 import sys
-from copy import deepcopy
+
+# GLOBAL DECLARATION BEGIN
+# see: token_longPattern, token_shortPattern, sentence_lemmaLowered, possConnect, token_mmoSimple
+smallcase = 'aábcdeéfghiíjklmnoóöőpqrstuúüűvwxyz'
+bigcase = 'AÁBCDEÉFGHIÍJKLMNOÓÖŐPQRSTUÚÜŰVWXYZ'
+big2small = {}
+for i, _ in enumerate(bigcase):
+    big2small[bigcase[i]] = smallcase[i]
+possessor = re.compile(r'--[sp]\d')
+MMOpatt = re.compile('[\[,\]]')
+# GLOBAL DECLARATION END
+
+
+# HELPER FUNCTIONS BEGIN
+def tags_since_pos(sen, tokRange, myPos='DT', strict=True):
+    """Sentence ending token or not
+
+    Args:
+       sen (list): List of tokens in the sentence
+       tokRange (int): range of tokens from the start of the sentence
+       myPos (str):
+       strict(bool): ...
+
+    Returns:
+       [[Bool in int format]]: True if Token is at the sentence end
+
+    HunTag:
+        Type: Sentence
+        Field: analysis
+        Example: ???
+        Use case: NER, Chunk
+
+    Replaces:
+        since_dt: abstraction
+    """
+    tags = []
+    for pos in sen[:tokRange]:
+        if (strict and myPos == pos) or (not strict and re.search(myPos, pos)):
+            tags = [pos]
+        else:
+            tags.append(pos)
+    return ['+'.join(tags)]
+
+
+def sincePos(krVec, c, tag, featPrefix, featVecElem):
+    tagst = tags_since_pos(krVec, c, tag)[0]
+    if len(tagst) > 0:
+        featVecElem.append(featPrefix + tagst)
+
+
+def doNothing(*_):
+    pass
+
+
+def casDiff(c, krVec, featVecElem):
+    lastF = '' if c == 0 else krVec[c - 1]
+    if lastF.startswith('[N') and krVec[c].startswith('[N') and lastF != krVec[c]:
+        featVecElem.append('casDiff')
+
+
+def possConnect(c, krVec, featVecElem):
+    if possessor.search(krVec[c]):
+        tagst = tags_since_pos(krVec, c, '^\[?N', False)[0]
+        if len(tagst) > 0:
+            featVecElem.append('possessee_' + tagst)
+# HELPER FUNCTIONS END
 
 
 # XXX Return is not bool
-# XXX and not list (Fixed)
-def stupidStem(token):
+def token_stupidStem(token, _=None):
     """Stem tokens with hyphen (-) in them.
 
     Args:
        token (str): The token
+       _: Unused
 
     Returns:
        [Str]: The part of the token before hyphen (-) character
@@ -37,11 +102,12 @@ def stupidStem(token):
         return [token[:r]]
 
 
-def hasCapOperator(form):
+def token_hasCapOperator(form, _=None):
     """Has it capital letter anywhere?
 
     Args:
        form (str): The token
+       _: Unused
 
     Returns:
        [Bool in int format]: True if lowercasing modifies the token
@@ -59,12 +125,13 @@ def hasCapOperator(form):
     return [int(form.lower() != form)]
 
 
-def isCapOperator(form):
+def token_isCapOperator(form, _=None):
     """Only the first letter is capital
     This is the new isCapitalized: Starts with uppercase
 
     Args:
        form (str): The token
+       _: Unused
 
     Returns:
        [Bool in int format]: True if lowercasing the first letter modifies the token
@@ -81,11 +148,12 @@ def isCapOperator(form):
     return [int(form[0] != form[0].lower())]
 
 
-def isAllcapsOperator(form):
+def token_isAllcapsOperator(form, _=None):
     """StupidStem consists of uppercase letters
 
     Args:
        form (str): The token
+       _: Unused
 
     Returns:
        [Bool in int format]: True if token_stupidStem is uppercase
@@ -96,15 +164,15 @@ def isAllcapsOperator(form):
         Example: 'MTI-vel' -> [1], 'Mti-vel' -> [0]
         Use case: NER
     """
-    return [int(stupidStem(form)[0].isupper())]
+    return [int(token_stupidStem(form)[0].isupper())]
 
 
-# XXX token_stupidStem or whole token?
-def isCamelOperator(form):
+def token_isCamelOperator(form, _=None):
     """The first letter is lower, the others has, but not all uppercase (camelCasing)
 
     Args:
        form (str): The token
+       _: Unused
 
     Returns:
        [Bool in int format]: True if Not all letter are uppercase, but at least one is from the second character
@@ -115,15 +183,15 @@ def isCamelOperator(form):
         Example: 'aLMa' -> [1], 'ALMA' -> [0], 'alma' -> [0]
         Use case: NER
     """
-    return [int(not isAllcapsOperator(form) and form[1:].lower() != form[1:])]
+    return [int(not token_isAllcapsOperator(form) and form[1:].lower() != form[1:])]
 
 
-# XXX token_stupidStem or whole token?
-def threeCaps(form):
+def token_threeCaps(form, _=None):
     """Token is three uppercase letters?
 
     Args:
        form (str): The token
+       _: Unused
 
     Returns:
        [Bool in int format]: True if Token consist of three uppercase letters
@@ -134,14 +202,15 @@ def threeCaps(form):
         Example: 'MTI' -> [1], 'Mti' -> [0], 'Matáv' -> [0]
         Use case: NER, but not in SzegedNER
     """
-    return [int(len(form) == 3 and stupidStem(form)[0].isupper())]
+    return [int(len(form) == 3 and token_stupidStem(form)[0].isupper())]
 
 
-def startsWithNumberOperator(form):
+def token_startsWithNumberOperator(form, _=None):
     """Token starts with number
 
     Args:
        form (str): The token
+       _: Unused
 
     Returns:
        [Bool in int format]: True if Token's first letter is a digit
@@ -155,11 +224,12 @@ def startsWithNumberOperator(form):
     return [int(form[0].isdigit())]
 
 
-def hasNumberOperator(form):
+def token_hasNumberOperator(form, _=None):
     """Token contains numbers
 
     Args:
        form (str): The token
+       _: Unused
 
     Returns:
        [Bool in int format]: True if token contains numbers
@@ -173,11 +243,12 @@ def hasNumberOperator(form):
     return [int(not set('0123456789').isdisjoint(set(form)))]
 
 
-def hasDashOperator(form):
+def token_hasDashOperator(form, _=None):
     """Token contains hyphen (-)
 
     Args:
        form (str): The token
+       _: Unused
 
     Returns:
        [Bool in int format]: True if token contains hyphen (-)
@@ -191,11 +262,12 @@ def hasDashOperator(form):
     return [int('-' in form)]
 
 
-def hasUnderscoreOperator(form):
+def token_hasUnderscoreOperator(form, _=None):
     """Token contains underscore (_)
 
     Args:
        form (str): The token
+       _: Unused
 
     Returns:
        [Bool in int format]: True if token contains underscore (_)
@@ -209,11 +281,12 @@ def hasUnderscoreOperator(form):
     return [int('_' in form)]
 
 
-def hasPeriodOperator(form):
+def token_hasPeriodOperator(form, _=None):
     """Token contains period (.)
 
     Args:
        form (str): The token
+       _: Unused
 
     Returns:
        [Bool in int format]: True if token contains period (.)
@@ -227,22 +300,13 @@ def hasPeriodOperator(form):
     return [int('.' in form)]
 
 
-# GLOBAL DECLARATION BEGIN
-# see: token_longPattern, token_shortPattern, token_scase, token_lemmaLowered
-smallcase = 'aábcdeéfghiíjklmnoóöőpqrstuúüűvwxyz'
-bigcase = 'AÁBCDEÉFGHIÍJKLMNOÓÖŐPQRSTUÚÜŰVWXYZ'
-big2small = {}
-for i, _ in enumerate(bigcase):
-    big2small[bigcase[i]] = smallcase[i]
-# GLOBAL DECLARATION END
-
-
 # XXX Return is not bool
-def longPattern(token):
+def token_longPattern(token, _=None):
     """Convert token by it's casing pattern
 
     Args:
        token (str): The token
+       _: Unused
 
     Returns:
        [Str]: For each letter uppercase -> A, lowercase -> a, not letter -> _
@@ -266,11 +330,12 @@ def longPattern(token):
 
 
 # XXX Return is not bool
-def shortPattern(token):
+def token_shortPattern(token, _=None):
     """Convert token by it's shortened casing pattern
 
     Args:
        token (str): The token
+       _: Unused
 
     Returns:
        [Str]: For each letter uppercase -> A, lowercase -> a, not letter -> _
@@ -302,11 +367,12 @@ def shortPattern(token):
 
 
 # XXX Return is not bool
-def fchunkTag(chunkTag):
+def token_chunkTag(chunkTag, _=None):
     """Returns the field as it is. (getForm do the same for non-merged tokens)
 
     Args:
        chunkTag (str):  NP chunking tag
+       _: Unused
 
     Returns:
        [Str]: The field as it is
@@ -324,11 +390,12 @@ def fchunkTag(chunkTag):
 
 
 # XXX Return is not bool
-def chunkType(chunkTag):
+def token_chunkType(chunkTag, _=None):
     """Returns the field type from the 3rd character
 
     Args:
        chunkTag (str):  NP chunking tag
+       _: Unused
 
     Returns:
        [Str]: The field from the 3rd character
@@ -346,12 +413,13 @@ def chunkType(chunkTag):
 
 
 # XXX Return is not bool
-def getForm(token):
+def token_getForm(token, _=None):
     """Returns input if it has no underscore (_) in it, else returns 'MERGED'
      (Recski merged multi-token names by underscore (_) in chunking)
 
     Args:
        token (str): The token
+       _: Unused
 
     Returns:
        [Str]: Token or MERGED if multi-token name merged by underscore
@@ -368,7 +436,7 @@ def getForm(token):
 
 
 # XXX Return is not bool
-def ngrams(token, options):
+def token_ngrams(token, options):
     """Make character n-grams
 
     Args:
@@ -393,11 +461,12 @@ def ngrams(token, options):
 
 
 # XXX Return is not bool
-def firstChar(token):
+def token_firstChar(token, _=None):
     """Return the first character
 
     Args:
        token (str): The token
+       _: Unused
 
     Returns:
        [Str]: Field's first character
@@ -417,12 +486,12 @@ def firstChar(token):
 
 
 # XXX Return is not bool
-# XXX and not list (Fixed)
-def msdPos(msdAnal):
+def token_msdPos(msdAnal, _=None):
     """Return the second character (Square brackets enclosed)
 
     Args:
        msdAnal (str): MSD code analysis
+       _: Unused
 
     Returns:
        [Str]: Field's second character
@@ -437,11 +506,12 @@ def msdPos(msdAnal):
 
 
 # XXX Return is not bool
-def msdPosAndChar(msdAnal):
+def token_msdPosAndChar(msdAnal, _=None):
     """MSD code's 'krPieces' function (Square brackets enclosed)
 
     Args:
        msdAnal (str):  MSD code analysis
+       _: Unused
 
     Returns:
        [Str]: MSD code's pieces
@@ -457,7 +527,7 @@ def msdPosAndChar(msdAnal):
 
 
 # XXX Return is not bool
-def prefix(token, options):
+def token_prefix(token, options):
     """Make n-long prefix
 
     Args:
@@ -477,7 +547,7 @@ def prefix(token, options):
 
 
 # XXX Return is not bool
-def suffix(token, options):
+def token_suffix(token, options):
     """Make n-long suffix
 
     Args:
@@ -497,13 +567,13 @@ def suffix(token, options):
 
 
 # XXX Return is not bool
-# XXX Arguments potentially wrong
-def lemmaLowered(sen, fields):
+def sentence_lemmaLowered(sen, fields, _=None):
     """Lemma or Token has first letter capitalized
 
     Args:
        sen (list): List of tokens in the sentence
        fields (list): number of fields used (order: token, lemma)
+       _: Unused
 
     Returns:
        [[Str/Int]]: 1,0,'raised' See the truth table below
@@ -532,11 +602,12 @@ def lemmaLowered(sen, fields):
 
 
 # XXX Return is not bool
-def krPieces(krAnal):
+def token_krPieces(krAnal, _=None):
     """Split KR code analysis to pieces
 
     Args:
        krAnal (str): KR code analysis
+       _: Unused
 
     Returns:
        [Str]: Pass KR code pieces
@@ -573,11 +644,12 @@ def krPieces(krAnal):
 
 
 # XXX Return is not bool
-def fullKrPieces(krAnal):
+def token_fullKrPieces(krAnal, _=None):
     """Split KR code analysis to pieces from full analysis (with lemma)
 
     Args:
        krAnal (str): KR code analysis
+       _: Unused
 
     Returns:
        [Str]: Pass KR code pieces
@@ -588,10 +660,10 @@ def fullKrPieces(krAnal):
         Example: ???
         Use case: NER, Chunk
     """
-    return krPieces('/'.join(krAnal.split('/')[1:]))
+    return token_krPieces('/'.join(krAnal.split('/')[1:]))
 
 
-def isBetweenSameCases(sen, fields, options=None):
+def sentence_isBetweenSameCases(sen, fields, options=None):
     """Is between same grammatical cases
 
     Args:
@@ -660,11 +732,12 @@ def isBetweenSameCases(sen, fields, options=None):
 
 
 # XXX Return is not bool
-def getPosTag(krAnal):
+def token_getPosTag(krAnal, _=None):
     """Return KR code POS tag
 
     Args:
        krAnal (str): KR code analysis
+       _: Unused
 
     Returns:
        [Str]: Pass ???
@@ -678,40 +751,8 @@ def getPosTag(krAnal):
     return [re.split(r'\W+', krAnal.split('/')[-1])[0]]
 
 
-def sincePos(krVec, c, tag, featPrefix, featVecElem):
-    tagst = tags_since_pos(krVec, c, tag)
-    if len(tagst) > 0:
-        featVecElem.append(featPrefix + tagst)
-
-
-def doNothing(*_):
-    pass
-
-
-# XXX LEFORDÍTANI
-def casDiff(c, krVec, featVecElem):
-    lastF = '' if c == 0 else krVec[c - 1]
-    if lastF.startswith('[N') and krVec[c].startswith('[N') and lastF != krVec[c]:
-        featVecElem.append('FNelter')
-
-birtokos = re.compile(r'--[sp]\d')
-
-
-# XXX LEFORDÍTANI
-def possConnect(c, krVec, featVecElem):
-    if birtokos.search(krVec[c]):
-        tagst = tags_since_pos(krVec, c, '^\[?N', False)
-        if len(tagst) > 0:
-            featVecElem.append('birtok_' + tagst)
-
-
-# fullKr == True
-# options['since_dt'] == 1
-# options['CASDiff'] == 1
-# options['POSSConnect'] == 1
-# options['lang'] in ('en', 'hu')
 # XXX Return is not bool
-def krPatts(sen, fields, options, fullKr=False):
+def sentence_krPatts(sen, fields, options):
     """Return KR code patterns
         http://people.mokk.bme.hu/~recski/pub/huntag_anyt.pdf page 6
 
@@ -735,8 +776,6 @@ def krPatts(sen, fields, options, fullKr=False):
        myPatts: Unimplementable, almost same
        sentence_parsePatts: superseded
     """
-    # options = {'lang': 'hu', 'since_dt': 1, 'CASDiff': 1, 'POSSConnect': 1}  # XXX TEST ONLY
-    fullKr = True
     assert options['lang'] in ('en', 'hu')
     minLength = int(options['minLength'])
     maxLength = int(options['maxLength'])
@@ -747,8 +786,8 @@ def krPatts(sen, fields, options, fullKr=False):
     krVec = [tok[f] for tok in sen]
 
     if options['lang'] == 'hu':
-        if not fullKr:
-            krVec = [getPosTag(kr) for kr in krVec]
+        if not options['fullKr']:
+            krVec = [token_getPosTag(kr)[0] for kr in krVec]
     else:
         krVec = [tok[f][0] for tok in sen]
 
@@ -787,11 +826,12 @@ def krPatts(sen, fields, options, fullKr=False):
     return featVec
 
 
-def krPlural(krAnal):
+def token_krPlural(krAnal, _=None):
     """Detect plural form in KR code
 
     Args:
        krAnal (str): KR code analysis
+       _: Unused
 
     Returns:
        [Bool in int format]: True if KR code is plural
@@ -806,12 +846,12 @@ def krPlural(krAnal):
 
 
 # XXX Return is not bool
-# XXX and not list (Fixed)
-def getNpPart(chunkTag):
+def token_getNpPart(chunkTag, _=None):
     """Checks if the token is part of NP
 
     Args:
        chunkTag (Str): NP chunking tag
+       _: Unused
 
     Returns:
        [Str]: Return tag's first character or 'O'
@@ -828,12 +868,12 @@ def getNpPart(chunkTag):
         return [chunkTag[0]]
 
 
-# XXX lowercased function name: CapPeriodOperator
-def capPeriodOperator(form):
+def token_capPeriodOperator(form, _=None):
     """Token is an uppercase letter followed by a period (from Bikel et al. (1999))
 
     Args:
        form (str): The token
+       _: Unused
 
     Returns:
        [Bool in int format]: Matches re [A-Z]\.$
@@ -847,11 +887,12 @@ def capPeriodOperator(form):
     return [int(bool(re.match(r'[A-Z]\.$', form)))]
 
 
-def isDigitOperator(form):
+def token_isDigitOperator(form, _=None):
     """Token is number
 
     Args:
        form (str): The token
+       _: Unused
 
     Returns:
        [Bool in int format]: True if Token is number
@@ -865,11 +906,12 @@ def isDigitOperator(form):
     return [int(form.isdigit())]
 
 
-def oneDigitNumOperator(form):
+def token_oneDigitNumOperator(form, _=None):
     """Token is one digit (from Zhou and Su (2002))
 
     Args:
        form (str): The token
+       _: Unused
 
     Returns:
        [Bool in int format]: True if Token is one digit
@@ -883,11 +925,12 @@ def oneDigitNumOperator(form):
     return [int(len(form) == 1 and form.isdigit())]
 
 
-def twoDigitNumOperator(form):
+def token_twoDigitNumOperator(form, _=None):
     """Token is two digit (from Bikel et al. (1999))
 
     Args:
        form (str): The token
+       _: Unused
 
     Returns:
        [Bool in int format]: True if Token is two digit
@@ -901,11 +944,12 @@ def twoDigitNumOperator(form):
     return [int(len(form) == 2 and form.isdigit())]
 
 
-def threeDigitNumOperator(form):
+def token_threeDigitNumOperator(form, _=None):
     """Token is three digit
 
     Args:
        form (str): The token
+       _: Unused
 
     Returns:
        [Bool in int format]: True if Token is three digit
@@ -919,11 +963,12 @@ def threeDigitNumOperator(form):
     return [int(len(form) == 3 and form.isdigit())]
 
 
-def fourDigitNumOperator(form):
+def token_fourDigitNumOperator(form, _=None):
     """Token is four digit
 
     Args:
        form (str): The token
+       _: Unused
 
     Returns:
        [Bool in int format]: True if Token is four digit
@@ -937,11 +982,12 @@ def fourDigitNumOperator(form):
     return [int(len(form) == 4 and form.isdigit())]
 
 
-def isPunctuationOperator(form):
+def token_isPunctuationOperator(form, _=None):
     """Token is punctuation
 
     Args:
        form (str): The token
+       _: Unused
 
     Returns:
        [Bool in int format]: True if Token is punctuation
@@ -955,11 +1001,12 @@ def isPunctuationOperator(form):
     return [int(set(form).issubset(set(',.!"\'():?<>[];{}')))]
 
 
-def containsDigitAndDashOperator(form):
+def token_containsDigitAndDashOperator(form, _=None):
     """Token contains digit and hyphen (-) (from Bikel et al. (1999))
 
     Args:
        form (str): The token
+       _: Unused
 
     Returns:
        [Bool in int format]: True if Token contains digits and hyphen (-)
@@ -973,11 +1020,12 @@ def containsDigitAndDashOperator(form):
     return [int(bool(re.match('[0-9]+-[0-9]+', form)))]
 
 
-def containsDigitAndSlashOperator(form):
+def token_containsDigitAndSlashOperator(form, _=None):
     """Token contains digit and slash (/) (from Bikel et al. (1999))
 
     Args:
        form (str): The token
+       _: Unused
 
     Returns:
        [Bool in int format]: True if Token contains digit and slash (/)
@@ -991,11 +1039,12 @@ def containsDigitAndSlashOperator(form):
     return [int(bool(re.match('[0-9]+/[0-9]+', form)))]
 
 
-def containsDigitAndCommaOperator(form):
+def token_containsDigitAndCommaOperator(form, _=None):
     """Token contains digit and comma (. or ,) (from Bikel et al. (1999))
 
     Args:
        form (str): The token
+       _: Unused
 
     Returns:
        [Bool in int format]: True if Token contains digit and comma (. or ,)
@@ -1009,12 +1058,12 @@ def containsDigitAndCommaOperator(form):
     return [int(bool(re.match('[0-9]+[,.][0-9]+', form)))]
 
 
-# XXX lowercased function name: YearDecadeOperator
-def yearDecadeOperator(form):
+def token_yearDecadeOperator(form, _=None):
     """Token contains year decade (from Zhou and Su (2002))
 
     Args:
        form (str): The token
+       _: Unused
 
     Returns:
        [Bool in int format]: True if Token contains year decade
@@ -1029,12 +1078,14 @@ def yearDecadeOperator(form):
                 re.match('[0-9][0-9][0-9][0-9]s$', form)))]
 
 
-def newSentenceStart(sen, _):
+def sentence_newSentenceStart(sen, _=None, __=None):
     """Sentence starting token or not
 
     Args:
        sen (list): List of tokens in the sentence
        _: Unused
+       __: Unused
+
     Returns:
        [[Bool in int format]]: True if Token is at the sentence start
 
@@ -1049,12 +1100,13 @@ def newSentenceStart(sen, _):
     return featVec
 
 
-def newSentenceEnd(sen, _):
+def sentence_newSentenceEnd(sen, _=None, __=None):
     """Sentence ending token or not
 
     Args:
        sen (list): List of tokens in the sentence
        _: Unused
+       __: Unused
 
     Returns:
        [[Bool in int format]]: True if Token is at the sentence end
@@ -1070,11 +1122,12 @@ def newSentenceEnd(sen, _):
     return featVec
 
 
-def unknown(anal):
+def token_unknown(anal, _=None):
     """Guessed Unknown word from HunMorph?
 
     Args:
        anal (str): The analysis
+       _: Unused
 
     Returns:
        [[Bool in int format]]: True if Tokens analysis contains OOV OR UNKNOWN
@@ -1092,11 +1145,12 @@ def unknown(anal):
 
 
 # XXX Return is not bool
-def getKrLemma(krLemma):
+def token_getKrLemma(krLemma, _=None):
     """Get lemma from HunMorph's analysis
 
     Args:
        krLemma (str): The token
+       _: Unused
 
     Returns:
        [Str]: Returns lemma
@@ -1111,11 +1165,12 @@ def getKrLemma(krLemma):
 
 
 # XXX Return is not bool
-def getKrPos(krAnal):
+def token_getKrPos(krAnal, _=None):
     """Get KR code POS tag
 
     Args:
        krAnal (str): The token
+       _: Unused
 
     Returns:
        [Str]: Returns POS part of KR code
@@ -1132,11 +1187,12 @@ def getKrPos(krAnal):
 
 
 # XXX Return is not bool
-def getPennTags(pennTag):
+def token_getPennTags(pennTag, _=None):
     """Reduces Penn tagset's similar tags
 
     Args:
        pennTag (str): Penn Tag
+       _: Unused
 
     Returns:
        [Str]: ???
@@ -1159,11 +1215,12 @@ def getPennTags(pennTag):
         return ['0']
 
 
-def HumorPlural(humorTag):
+def token_humorPlural(humorTag, _=None):
     """Check if Humor code plural
 
     Args:
        humorTag (str): Humor analysis
+       _: Unused
 
     Returns:
        [[Bool in int format]]: True if Humor analysis is plural
@@ -1178,7 +1235,7 @@ def HumorPlural(humorTag):
 
 
 # XXX Return is not bool
-def getKrEnd(krAnal, _=None):
+def token_getKrEnd(krAnal, _=None):
     """Return KR code end
 
     Args:
@@ -1225,7 +1282,7 @@ def token_pennPlural(pennTag, _=None):
 
 
 # XXX Return is not bool
-def humorPieces(humorTag):
+def token_humorPieces(humorTag, _=None):
     """Return Humor tag pieces
     For Humor code:
     'FN/N|PROP|FIRST/ffinev;veznev' => ['FN', 'N|PROP|FIRST', 'ffinev;veznev']
@@ -1233,6 +1290,7 @@ def humorPieces(humorTag):
 
     Args:
        humorTag (str): Humor tag
+       _: Unused
 
     Returns:
        [str]: ???
@@ -1247,11 +1305,12 @@ def humorPieces(humorTag):
 
 
 # XXX Return is not bool
-def humorSimple(humorTag):
+def token_humorSimple(humorTag, _=None):
     """Humor test: return self
 
     Args:
        humorTag (str): Humor tag
+       _: Unused
 
     Returns:
        [str]: self
@@ -1266,11 +1325,12 @@ def humorSimple(humorTag):
 
 
 # XXX Return is not bool
-def wordNetSimple(wordNetTags):
+def token_wordNetSimple(wordNetTags, _=None):
     """Wordnet synsets as tags
 
     Args:
        wordNetTags (str): wordNet synsets as tags
+       _: Unused
 
     Returns:
        [str]: list of wordNet synsets as features
@@ -1285,15 +1345,14 @@ def wordNetSimple(wordNetTags):
         return []
     return wordNetTags.split('/')
 
-MMOpatt = re.compile('[\[,\]]')
-
 
 # XXX Return is not bool
-def mmoSimple(mmoTags):
+def token_mmoSimple(mmoTags, _=None):
     """MMO properties
 
     Args:
        mmoTags (str): wordNet synsets as tags
+       _: Unused
 
     Returns:
        [str]: list of MMO tags as features
@@ -1309,35 +1368,3 @@ def mmoSimple(mmoTags):
     if mmoTags == '-':
         return []
     return [x for x in MMOpatt.split(mmoTags) if x]
-
-
-# XXX Return is not bool
-# XXX and not list
-def tags_since_pos(sen, tokRange, myPos='DT', strict=True):
-    """Sentence ending token or not
-
-    Args:
-       sen (list): List of tokens in the sentence
-       tokRange (int): range of tokens from the start of the sentence
-       myPos (str):
-       strict(bool): ...
-
-    Returns:
-       [[Bool in int format]]: True if Token is at the sentence end
-
-    HunTag:
-        Type: Sentence
-        Field: analysis
-        Example: ???
-        Use case: NER, Chunk
-
-    Replaces:
-        since_dt: abstraction
-    """
-    tags = []
-    for pos in sen[:tokRange]:
-        if (strict and myPos == pos) or (not strict and re.search(myPos, pos)):
-            tags = [pos]
-        else:
-            tags.append(pos)
-    return '+'.join(tags)
