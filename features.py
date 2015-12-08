@@ -239,6 +239,9 @@ def token_hasNumberOperator(form, _=None):
         Field: Token
         Example: '3-gram' -> [1], 'n-gram' -> [0]
         Use case: NER
+
+    Replaces:
+        token_isNumberOperator: deprecated
     """
     return [int(not set('0123456789').isdisjoint(set(form)))]
 
@@ -796,14 +799,14 @@ def sentence_krPatts(sen, fields, options):
 
     if options['lang'] == 'hu':
         tag, featPrefix = '[Tf]', 'dt_'
-        if options['CASDiff'] == '1':
+        if options['CASDiff'] == 1:
             applyCasDiffFun = casDiff
-        if options['POSSConnect'] == '1':
+        if options['POSSConnect'] == 1:
             applyPossConnectFun = possConnect
     else:
         tag, featPrefix = 'DT', 'dt_'
 
-    if options['since_dt'] == '1':
+    if options['since_dt'] == 1:
         applySincePosFun = sincePos
     else:
         applySincePosFun = doNothing

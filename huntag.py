@@ -7,6 +7,7 @@ from os.path import isdir, join
 import sys
 import os
 import numpy as np
+import yaml
 
 from feature import Feature
 from trainer import Trainer
@@ -80,37 +81,60 @@ def writeSentence(sen, out=sys.stdout, comment=None):
     out.write('\n')
 
 
-def getFeatureSet(cfgFile):
+def loadYaml(cfgFile):
+    lines = open(cfgFile, encoding='UTF-8').readlines()
+    try:
+        start = lines.index('%YAML 1.1\n')
+    except ValueError:
+        print('Error in config file: No document start marker found!', file=sys.stderr)
+        sys.exit(1)
+    rev = lines[start:]
+    rev.reverse()
+    try:
+        end = rev.index('...\n')*(-1)
+    except ValueError:
+        print('Error in config file: No document end marker found!', file=sys.stderr)
+        sys.exit(1)
+    if end == 0:
+        lines = lines[start:]
+    else:
+        lines = lines[start:end]
+
+    return yaml.load(''.join(lines))
+
+
+def getFeatureSetYAML(cfgFile):
     features = {}
-    optsByFeature = defaultdict(dict)
     defaultRadius = -1
     defaultCutoff = 1
-    for line in open(cfgFile, encoding='UTF-8'):
-        line = line.strip()
-        if len(line) == 0 or line[0] == '#':
-            continue
-        feature = line.split()
-        if feature[0] == 'let':
-            featName, key, value = feature[1:4]
-            optsByFeature[featName][key] = value
-            continue
-        if feature[0] == '!defaultRadius':
-            defaultRadius = int(feature[1])
-            continue
-        if feature[0] == '!defaultCutoff':
-            defaultCutoff = int(feature[1])
-            continue
+    cfg = loadYaml(cfgFile)
 
-        feaType, name, actionName = feature[:3]
-        fields = [int(field) for field in feature[3].split(',')]
-        if len(feature) > 4:
-            radius = int(feature[4])
+    if 'default' in cfg:
+        if 'cutoff' in cfg['default']:
+            defaultCutoff = cfg['default']['cutoff']
+        if 'radius' in cfg['default']:
+            defaultRadius = cfg['default']['radius']
+
+    for feat in cfg['features']:
+        options = {}
+        if 'options' in feat:
+            options = feat['options']
+
+        if isinstance(feat['fields'], int):
+            fields = [feat['fields']]
         else:
-            radius = defaultRadius
+            fields = [int(field) for field in feat['fields'].split(',')]
+
+        radius = defaultRadius
+        if 'radius' in feat:
+            radius = feat['radius']
+
         cutoff = defaultCutoff
-        options = optsByFeature[name]
-        feat = Feature(feaType, name, actionName, fields, radius, cutoff, options)
-        features[name] = feat
+        if 'cutoff' in feat:
+            cutoff = feat['cutoff']
+
+        name = feat['name']
+        features[name] = Feature(feat['type'], name, feat['actionName'], fields, radius, cutoff, options)
 
     return features
 
@@ -228,14 +252,14 @@ def main():
     if optionsDict['task'] == 'transmodel-train':
         mainTransModelTrain(optionsDict)
     elif optionsDict['task'] == 'train' or optionsDict['task'] == 'most-informative-features':
-        featureSet = getFeatureSet(optionsDict['cfgFile'])
+        featureSet = getFeatureSetYAML(optionsDict['cfgFile'])
         mainTrain(featureSet, optionsDict)
     elif optionsDict['task'] == 'tag':
         if optionsDict['inFeatFileName']:
             featureSet = None
             optionsDict['inFeatFile'] = open(optionsDict['inFeatFileName'], encoding='UTF-8')
         else:
-            featureSet = getFeatureSet(optionsDict['cfgFile'])
+            featureSet = getFeatureSetYAML(optionsDict['cfgFile'])
         mainTag(featureSet, optionsDict)
     else:
         print('Error: Task name must be specified! Please see --help!', file=sys.stderr, flush=True)
