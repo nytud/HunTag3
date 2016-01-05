@@ -48,7 +48,7 @@ class intGen:
     """
     Original source: http://stackoverflow.com/a/6173641
     """
-    def __init__(self, i=0):
+    def __init__(self, i=-1):  # To start from 0...
         self.i = i
 
     def __call__(self):

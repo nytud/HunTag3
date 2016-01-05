@@ -18,6 +18,10 @@ def safe_div(v1, v2):
     """
     Safe floating point division function, does not allow division by 0
     returns -1 if the denominator is 0
+
+    Args:
+        v1: numerator
+        v2: denominator
     """
     if v2 == 0:
         return -1.0

@@ -1,7 +1,6 @@
 #!/usr/bin/python3
 # -*- coding: utf-8, vim: expandtab:ts=4 -*-
 
-from collections import defaultdict
 import argparse
 from os.path import isdir, join
 import sys

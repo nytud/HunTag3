@@ -112,7 +112,7 @@ class Trainer:
 
     def cutoffFeats(self):
         self._convertToNPArray()
-        colNum = self._featCounter.numOfNames() + 1
+        colNum = self._featCounter.numOfNames()
         if self._cutoff < 2:
             self._matrix = self._makeSparseArray(self._tokCount, colNum)
         else:
@@ -123,8 +123,8 @@ class Trainer:
             print('done!\nreducing training events by {0}...'.format(len(toDelete)), end='', file=sys.stderr,
                   flush=True)
             # ...that are not in featCounter anymore
-            indicesToKeepNP = np.array((ind for ind, featNo in enumerate(self._cols) if featNo not in toDelete),
-                                       dtype=self._dataSizes['cols'])
+            indicesToKeepNP = np.fromiter((ind for ind, featNo in enumerate(self._cols) if featNo not in toDelete),
+                                          dtype=self._dataSizes['cols'])
             del toDelete
 
             # Reduce cols
@@ -141,7 +141,7 @@ class Trainer:
             rowsNPNew = self._rows[indicesToKeepNP]
             rowNumKeep = np.unique(rowsNPNew)
             rowNum = rowNumKeep.shape[0]
-            colNum = indicesToKeepNP.shape[0].max() + 1
+            colNum = indicesToKeepNP.max() + 1
             del self._rows
             self._rows = rowsNPNew
             del indicesToKeepNP
