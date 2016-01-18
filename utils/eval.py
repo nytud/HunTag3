@@ -501,6 +501,22 @@ def getSenPrec(corp):
 def runEval(stdin, goldField='-2', autoField='-1', mode='BI', conll=False,
             bPoints=False, sen=False, strict=False, pattern=False):
     """
+
+    Args:
+        stdin:
+        goldField:
+        autoField:
+        mode:
+        conll:
+        bPoints:
+        sen:
+        strict:
+        pattern:
+
+    Returns:
+
+    """
+    """
     try:
         taggedFile = sys.stdin.readlines()
         goldField = int(sys.argv[1])
@@ -539,9 +555,9 @@ def runEval(stdin, goldField='-2', autoField='-1', mode='BI', conll=False,
     if sen:
         getSenPrec(tF)
 
-    #assert allErrors+results[2] == results[1]
-    #printErrorTypes(errorTypes)
-    #printConfMatrix(wrongCategory)
+    # assert allErrors+results[2] == results[1]
+    # printErrorTypes(errorTypes)
+    # printConfMatrix(wrongCategory)
     if pattern:
         patternCount = getChunkPatterns(tF, int(goldField), int(autoField),
                                         mode)

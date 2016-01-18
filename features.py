@@ -72,7 +72,7 @@ def possConnect(c, krVec, featVecElem):
     if possessor.search(krVec[c]):
         tagst = tags_since_pos(krVec, c, '^\[?N', False)[0]
         if len(tagst) > 0:
-            featVecElem.append('possessee_' + tagst)
+            featVecElem.append('possession_' + tagst)
 # HELPER FUNCTIONS END
 
 
@@ -452,14 +452,16 @@ def token_ngrams(token, options):
     HunTag:
         Type: Token
         Field: Token
-        Example: 'alma', n=3 -> [@alm, lma], 'almafa' -> [@alm, lma, maf, afa@]
+        Example: 'alma', n=3 -> ['@alm', 'lma@'], 'almafa' -> ['@alm', 'lma', 'maf', 'afa@'], 'Y2K' -> ['@Y2K']
         Use case: NER, Chunk
     """
     n = int(options['n'])
     f = [str(token[c:c + n]) for c in range(max(0, len(token) - n + 1))]
-    if len(f) > 0:
+    flen = len(f)
+    if flen > 0:
         f[0] = '@{0}'.format(f[0])
-        f[-1] = '{0}@'.format(f[-1])
+        if flen > 1:
+            f[-1] = '{0}@'.format(f[-1])
     return f
 
 
@@ -757,7 +759,8 @@ def token_getPosTag(krAnal, _=None):
 # XXX Return is not bool
 def sentence_krPatts(sen, fields, options):
     """Return KR code patterns
-        http://people.mokk.bme.hu/~recski/pub/huntag_anyt.pdf page 6
+    G. Recski, D. Varga: Magyar főnévi csoportok azonosítása In: Általános Nyelvészeti Tanulmányok 24. 2012.
+    http://people.mokk.bme.hu/~recski/pub/huntag_anyt.pdf Page 6
 
     Args:
        sen (list): List of tokens in the sentence
@@ -791,6 +794,8 @@ def sentence_krPatts(sen, fields, options):
     if options['lang'] == 'hu':
         if not options['fullKr']:
             krVec = [token_getPosTag(kr)[0] for kr in krVec]
+        else:
+            krVec = [tok[f] for tok in sen]
     else:
         krVec = [tok[f][0] for tok in sen]
 
@@ -1081,13 +1086,12 @@ def token_yearDecadeOperator(form, _=None):
                 re.match('[0-9][0-9][0-9][0-9]s$', form)))]
 
 
-def sentence_newSentenceStart(sen, _=None, __=None):
+def sentence_newSentenceStart(sen, *_):
     """Sentence starting token or not
 
     Args:
        sen (list): List of tokens in the sentence
        _: Unused
-       __: Unused
 
     Returns:
        [[Bool in int format]]: True if Token is at the sentence start
@@ -1103,13 +1107,12 @@ def sentence_newSentenceStart(sen, _=None, __=None):
     return featVec
 
 
-def sentence_newSentenceEnd(sen, _=None, __=None):
+def sentence_newSentenceEnd(sen, *_):
     """Sentence ending token or not
 
     Args:
        sen (list): List of tokens in the sentence
        _: Unused
-       __: Unused
 
     Returns:
        [[Bool in int format]]: True if Token is at the sentence end

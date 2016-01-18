@@ -234,8 +234,9 @@ features:
     type: sentence
     actionName: krPatts
     fields: 1
+    radius: 0  # rad is not radius!
     options:
-        rad: 3
+        rad: 3  # The old config is misleading!
         minLength: 2
         maxLength: 99
         lang: hu

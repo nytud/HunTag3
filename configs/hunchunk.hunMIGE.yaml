@@ -34,8 +34,9 @@ features:
     #~ type: sentence
     #~ actionName: krPatts
     #~ fields: 4
+    #~ radius: 0  # rad is not radius!
     #~ options:
-        #~ rad: 3
+        #~ rad: 3  # The old config is misleading!
         #~ minLength: 2
         #~ maxLength: 99
         #~ lang: hu
@@ -49,8 +50,9 @@ features:
     type: sentence
     actionName: krPatts
     fields: 2
+    radius: 0  # rad is not radius!
     options:
-        rad: 3
+        rad: 3  # The old config is misleading!
         minLength: 2
         maxLength: 99
         lang: hu
@@ -182,7 +184,7 @@ features:
     #~ fields: 3
 
  - # MMO features
-    name: wn
+    name: mmo
     type: token
     actionName: mmoSimple
     fields: 3

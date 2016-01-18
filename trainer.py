@@ -223,7 +223,7 @@ class Trainer:
         self._labels.append(self._labelCounter.getNoTrain(label))
 
     # Counting zero elements can be really slow...
-    def mostInformativeFeatures(self, n=-1, countZero=False):
+    def mostInformativeFeatures(self, outputStream=sys.stdout, n=-1, countZero=False):
         # Compute min(P(feature=value|label1), for any label1)/max(P(feature=value|label2), for any label2)
         # (using contitional probs using joint probabilities) as in NLTK (Bird et al. 2009):
         # P(feature=value|label) = P(feature=value, label)/P(label)
@@ -292,8 +292,8 @@ class Trainer:
 
         |  max[ P(fname=fval|label1) / P(fname=fval|label2) ]
         """
-        print('"Feature name"=Value (True/False)\tSum of occurences\tCounts per label\tProbability per label', end='')
-        print('\tMax prob.:Min prob.=Ratio:1.0')  # Print header (legend)
+        print('"Feature name"=Value (True/False)', 'Sum of occurences', 'Counts per label', 'Probability per label',
+              'Max prob.:Min prob.=Ratio:1.0', sep='\t', file=outputStream)  # Print header (legend)
         # To avoid division by zero...
         for feature in sorted(features, key=lambda feature_: minprob[feature_]/maxprob[feature_])[:n]:
             sumOccurences = sum(featValCounts[feature].values())
@@ -314,9 +314,9 @@ class Trainer:
                           for l, c in featValCounts[feature].items())),
                 '/'.join(('{0}:{1:.8f}'.format(labelnoToName[l], c/labelCounts[l])
                           for l, c in featValCounts[feature].items())),
-                maxprob[feature], minprob[feature], ratio))
+                maxprob[feature], minprob[feature], ratio), file=outputStream)
 
-    def toCRFsuite(self):
+    def toCRFsuite(self, outputStream=sys.stdout):
         self._featCounter.makenoToName()
         self._labelCounter.makenoToName()
         featnoToName = self._featCounter.noToName
@@ -328,8 +328,9 @@ class Trainer:
         for end in sentEnd:
             for row in range(beg, end + 1):
                 print('{0}\t{1}'.format(labelnoToName[labels[row]], '\t'.join(featnoToName[col].replace(':', 'colon')
-                                                                              for col in matrix[row, :].nonzero()[1])))
-            print()  # Sentence separator blank line
+                                                                              for col in matrix[row, :].nonzero()[1])),
+                      file=outputStream)
+            print(file=outputStream)  # Sentence separator blank line
             beg = end + 1
 
     def train(self):

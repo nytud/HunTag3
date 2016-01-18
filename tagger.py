@@ -20,7 +20,7 @@ class Tagger:
         self._featCounter = BookKeeper(fileName=options['featCounterFileName'])
         print('done', file=sys.stderr, flush=True)
 
-    def printWeights(self, n=100):
+    def printWeights(self, n=100, outputStream=sys.stdout):
         coefs = self._model.coef_
         labelNoToName = self._labelCounter.noToName
         featNoToName = self._featCounter.noToName
@@ -28,9 +28,9 @@ class Tagger:
         for i, label in sorted(labelNoToName.items()):
             columns = ['{0}:{1}'.format(w, feat) for w, (no, feat) in sorted(zip(coefs[i, :], sortedFeats),
                                                                              reverse=True)]
-            print('{0}\t{1}'.format(label, '\t'.join(columns[:n])))  # Best
+            print('{0}\t{1}'.format(label, '\t'.join(columns[:n])), file=outputStream)  # Best
             # Worst -> Negative correlation
-            print('{0}\t{1}'.format(label, '\t'.join(sorted(columns[-n:], reverse=True))))
+            print('{0}\t{1}'.format(label, '\t'.join(sorted(columns[-n:], reverse=True))), file=outputStream)
 
     def tagFeatures(self, data):
         senFeats = []
@@ -53,7 +53,7 @@ class Tagger:
             for sen, _ in self.tagCorp(open(os.path.join(dirName, fn), encoding='UTF-8')):
                 yield sen, fn
 
-    def tagCorp(self, inputStream):
+    def tagCorp(self, inputStream=sys.stdin):
         senCount = 0
         for sen, comment in sentenceIterator(inputStream):
             senCount += 1
@@ -84,7 +84,7 @@ class Tagger:
                          for probDist in self._model.predict_proba(contexts)]
         return tagProbsByPos
 
-    def toCRFsuite(self, inputStream):
+    def toCRFsuite(self, inputStream, outputStream=sys.stdout):
         senCount = 0
         getNoTag = self._featCounter.getNoTag
         featnoToName = self._featCounter.noToName
@@ -94,8 +94,9 @@ class Tagger:
             # Get Sentence Features translated to numbers and contexts in two steps
             for featNumberSet in ({getNoTag(feat) for feat in feats if getNoTag(feat) is not None}
                                   for feats in senFeats):
-                print('\t'.join(featnoToName[featNum].replace(':', 'colon') for featNum in featNumberSet))
-            print()  # Sentence separator blank line
+                print('\t'.join(featnoToName[featNum].replace(':', 'colon') for featNum in featNumberSet),
+                      file=outputStream)
+            print(file=outputStream)  # Sentence separator blank line
             if senCount % 1000 == 0:
                 print('{0}...'.format(str(senCount)), end='', file=sys.stderr, flush=True)
         print('{0}...done'.format(str(senCount)), file=sys.stderr, flush=True)

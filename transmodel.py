@@ -379,6 +379,7 @@ class TransModel:
         # Micro-optimalization: Brants (2000) say self._logProb(None, y, self._boundarySymbol),
         # but why not self._logProb(z, y, self._boundarySymbol) ?
         (prob, state, state2) = max([(V[len(tagProbsByPos) - 1][z, y] +
+                                      # self._logProb(z, y, self._boundarySymbol), z, y)
                                       self._logProb(None, y, self._boundarySymbol), z, y)
                                      for z in states for y in states])
         return prob, path[state, state2]

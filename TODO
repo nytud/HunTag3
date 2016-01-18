@@ -1,3 +1,2 @@
-unicode
-support for features with external resources (other than lexicon features - might not need those once this is done)
-non-verbose mode -> Done! See startHunTag.sh
+beam search in viterbi
+Fix and test unigram trainers in SciKitLearn (SGD and others)
