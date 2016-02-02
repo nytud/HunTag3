@@ -62,7 +62,7 @@ class BookKeeper:
         self._counter = Counter()
         nextID = intGen()  # Initializes autoincr class
         self._nameToNo = defaultdict(nextID)
-        self.noToName = {}  # This is built only uppon reading back from file
+        self.noToName = {}  # This is built only upon reading back from file
         if fileName is not None:
             with open(fileName, encoding='UTF-8') as f:
                 no = 0
