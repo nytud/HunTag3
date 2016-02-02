@@ -25,6 +25,7 @@ HungTag3 is the official successor of [HunTag](https://github.com/recski/HunTag)
 - Scikit-learn
 - YAML bindings
 - Optional: CRFsuite
+- Minimum 8 GB RAM recomended for training
 
 # Data format
 
@@ -235,9 +236,9 @@ In: Zygmunt Vetulani; Joseph Mariani (eds.) 7th Language & Technology Conference
 "Poznań: Uniwersytet im. Adama Mickiewicza w Poznaniu" 558 p. ISBN:978-83-932640-8-7 pp. 213-218.
 
 ```
-@proceedings{LTC05,
+@proceedings{LTC15,
   title        = {7th Language & Technology Conference: Human Language Technologies as a Challenge for Computer Science and Linguistics},
-  shorttitle   = {LTC '05},
+  shorttitle   = {LTC '15},
   eventdate    = {2015-11-27/2015-11-30},
   venue        = {Pozna\'n, Poland},
   isbn         = {978-83-932640-8-7},
@@ -248,7 +249,7 @@ In: Zygmunt Vetulani; Joseph Mariani (eds.) 7th Language & Technology Conference
   author      = {Endr\'edy, Istv\'an and Indig, Bal\'azs},
   title       = {HunTag3: a general-purpose, modular sequential tagger -- chunking phrases in English and maximal NPs and NER for Hungarian},
   subtitle    = {Completeness and Uniform Interpolation},
-  crossref    = {LTC05},
+  crossref    = {LTC15},
   pages       = {213-218}
 }
 ```
