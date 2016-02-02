@@ -38,6 +38,7 @@ def mainTrain(featureSet, options):
     elif 'toCRFsuite' in options and options['toCRFsuite']:
         trainer.cutoffFeats()
         trainer.toCRFsuite(options['outputStream'])
+        trainer.save()
     else:
         trainer.cutoffFeats()
         trainer.train()
