@@ -178,11 +178,11 @@ def parseArgs():
                         help='order of the transition model',
                         metavar='EXT')
 
-    parser.add_argument('--feat-num-ext', dest='featureNumbersExt', default='.featureNumbers',
+    parser.add_argument('--feat-num-ext', dest='featureNumbersExt', default='.featureNumbers.gz',
                         help='extension of feature numbers file to be read/written',
                         metavar='EXT')
 
-    parser.add_argument('--label-num-ext', dest='labelNumbersExt', default='.labelNumbers',
+    parser.add_argument('--label-num-ext', dest='labelNumbersExt', default='.labelNumbers.gz',
                         help='extension of label numbers file to be read/written',
                         metavar='EXT')
 

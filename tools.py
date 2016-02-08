@@ -4,6 +4,7 @@
 
 from operator import itemgetter
 from collections import Counter, defaultdict
+import gzip
 import sys
 
 
@@ -64,7 +65,7 @@ class BookKeeper:
         self._nameToNo = defaultdict(nextID)
         self.noToName = {}  # This is built only upon reading back from file
         if fileName is not None:
-            with open(fileName, encoding='UTF-8') as f:
+            with gzip.open(fileName, mode='rt', encoding='UTF-8') as f:
                 no = 0
                 for line in f:
                     l = line.strip().split()
@@ -95,6 +96,6 @@ class BookKeeper:
         return self._nameToNo[name]  # Starts from 0 newcomers will get autoincremented value and stored
 
     def saveToFile(self, fileName):
-        with open(fileName, 'w', encoding='UTF-8') as f:
+        with gzip.open(fileName, mode='wt', encoding='UTF-8') as f:
             f.writelines('{0}\t{1}\n'.format(name, no)
                          for name, no in sorted(self._nameToNo.items(), key=itemgetter(1)))
