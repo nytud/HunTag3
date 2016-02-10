@@ -83,7 +83,7 @@ class BookKeeper:
     def cutoff(self, cutoff):
         toDelete = {self._nameToNo.pop(name) for name, count in self._counter.items() if count < cutoff}
         del self._counter
-        newNameNo = dict(((name, i) for i, (name, no) in enumerate(sorted(self._nameToNo.items(), key=itemgetter(1)))))
+        newNameNo = {name: i for i, (name, _) in enumerate(sorted(self._nameToNo.items(), key=itemgetter(1)))}
         del self._nameToNo
         self._nameToNo = newNameNo
         return toDelete
