@@ -217,7 +217,7 @@ Some transitional versions also exist, but they are not supported. In this repos
 
 # Authors
 
-HunTag3 is a massive overhaul, cleanup and functional extension of the original HunTag idea and codebase. HunTag3 was created by Balázs Indig.
+HunTag3 is a massive overhaul, cleanup and functional extension of the original HunTag idea and codebase. HunTag3 was created by Balázs Indig with contributions from Márton Miháltz.
 
 HunTag was created by Gábor Recski and Dániel Varga. It is a reimplementation and generalization of a Named Entity Recognizer built by Dániel Varga and Eszter Simon.
 

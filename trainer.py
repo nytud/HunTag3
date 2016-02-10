@@ -65,7 +65,7 @@ class Trainer:
 
     def save(self):
         print('saving model...', end='', file=sys.stderr, flush=True)
-        joblib.dump(self._model, '{0}'.format(self._modelFileName))
+        joblib.dump(self._model, '{0}'.format(self._modelFileName), compress=3)
         print('done\nsaving feature and label lists...', end='', file=sys.stderr, flush=True)
         self._featCounter.saveToFile(self._featCounterFileName)
         self._labelCounter.saveToFile(self._labelCounterFileName)
