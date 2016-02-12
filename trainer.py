@@ -44,8 +44,6 @@ class Trainer:
         self._modelFileName = options['modelFileName']
         self._parameters = options['trainParams']
         self._cutoff = options['cutoff']
-        self._featCounterFileName = options['featCounterFileName']
-        self._labelCounterFileName = options['labelCounterFileName']
         self._features = features
 
         self._tokCount = -1  # Index starts from 0
@@ -64,11 +62,8 @@ class Trainer:
             self._usedFeats = {line.strip() for line in open(options['usedFeats'], encoding='UTF-8')}
 
     def save(self):
-        print('saving model...', end='', file=sys.stderr, flush=True)
-        joblib.dump(self._model, '{0}'.format(self._modelFileName), compress=3)
-        print('done\nsaving feature and label lists...', end='', file=sys.stderr, flush=True)
-        self._featCounter.saveToFile(self._featCounterFileName)
-        self._labelCounter.saveToFile(self._labelCounterFileName)
+        print('saving model, feature and label lists...', end='', file=sys.stderr, flush=True)
+        joblib.dump((self._model, self._featCounter, self._labelCounter), '{0}'.format(self._modelFileName), compress=3)
         print('done', file=sys.stderr, flush=True)
 
     def _updateSentEnd(self, sentEnds, rowNums):

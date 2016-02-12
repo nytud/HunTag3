@@ -4,7 +4,6 @@
 
 from operator import itemgetter
 from collections import Counter, defaultdict
-import gzip
 import sys
 
 
@@ -59,20 +58,16 @@ class intGen:
 
 # Keeps Feature/Label-Number translation maps, for faster computations
 class BookKeeper:
-    def __init__(self, fileName=None):
+    def __init__(self):
         self._counter = Counter()
         nextID = intGen()  # Initializes autoincr class
         self._nameToNo = defaultdict(nextID)
         self.noToName = {}  # This is built only upon reading back from file
-        if fileName is not None:
-            with gzip.open(fileName, mode='rt', encoding='UTF-8') as f:
-                no = 0
-                for line in f:
-                    l = line.strip().split()
-                    name, no = l[0], int(l[1])
-                    self._nameToNo[name] = no
-                    self.noToName[no] = name
-                nextID.i = no
+
+    def makeInvertedDict(self):
+        self.noToName = {}  # This is built only upon reading back from file
+        for name, no in self._nameToNo.items():
+            self.noToName[no] = name
 
     def numOfNames(self):
         return len(self._nameToNo)
@@ -94,8 +89,3 @@ class BookKeeper:
     def getNoTrain(self, name):
         self._counter[name] += 1
         return self._nameToNo[name]  # Starts from 0 newcomers will get autoincremented value and stored
-
-    def saveToFile(self, fileName):
-        with gzip.open(fileName, mode='wt', encoding='UTF-8') as f:
-            f.writelines('{0}\t{1}\n'.format(name, no)
-                         for name, no in sorted(self._nameToNo.items(), key=itemgetter(1)))
