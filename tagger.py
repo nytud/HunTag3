@@ -1,6 +1,8 @@
 #!/usr/bin/python3
 # -*- coding: utf-8, vim: expandtab:ts=4 -*-
 
+import gzip
+import pickle
 import sys
 import os
 from sklearn.externals import joblib
@@ -15,9 +17,15 @@ class Tagger:
         self._dataSizes = options['dataSizes']
         self._transProbs = transModel
         print('loading observation model...', end='', file=sys.stderr, flush=True)
-        self._model, self._featCounter, self._labelCounter = joblib.load('{0}'.format(options['modelFileName']))
-        self._labelCounter.makeInvertedDict()
+        self._model = joblib.load('{0}'.format(options['modelFileName']))
+        self._featCounter = None
+        with gzip.open(options['featCounterFileName']) as f:
+            self._featCounter = pickle.loads(f.read())
         self._featCounter.makeInvertedDict()
+        self._labelCounter = None
+        with gzip.open(options['labelCounterFileName']) as f:
+            self._labelCounter = pickle.loads(f.read())
+        self._labelCounter.makeInvertedDict()
         print('done', file=sys.stderr, flush=True)
 
     def printWeights(self, n=100, outputStream=sys.stdout):
