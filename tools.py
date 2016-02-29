@@ -102,5 +102,6 @@ class BookKeeper:
         with gzip.open(filename, mode='rt', encoding='UTF-8') as f:
             for line in f:
                 k, v = line.rstrip().split('\t')
+                v = int(v)
                 self._nameToNo[k] = v
                 self.noToName[v] = k
