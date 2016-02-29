@@ -65,7 +65,7 @@ class BookKeeper:
         self._nameToNo = defaultdict(nextID)
         self.noToName = {}  # This is built only upon reading back from file
         if loadfromfile is not None:
-            self.load(loadfromfile)
+            nextID.i = self.load(loadfromfile)
 
     def makeInvertedDict(self):
         self.noToName = {}  # This is built only upon reading back from file
@@ -99,9 +99,12 @@ class BookKeeper:
                 f.write('{}\t{}\n'.format(key, value))
 
     def load(self, filename):
+        n = 0
         with gzip.open(filename, mode='rt', encoding='UTF-8') as f:
             for line in f:
                 k, v = line.rstrip().split('\t')
                 v = int(v)
                 self._nameToNo[k] = v
                 self.noToName[v] = k
+                n = v
+        return n
