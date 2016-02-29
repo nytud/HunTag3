@@ -5,6 +5,7 @@
 from operator import itemgetter
 from collections import Counter, defaultdict
 import sys
+import gzip
 
 
 def sentenceIterator(inputStream):
@@ -58,11 +59,13 @@ class intGen:
 
 # Keeps Feature/Label-Number translation maps, for faster computations
 class BookKeeper:
-    def __init__(self):
+    def __init__(self, loadfromfile=None):
         self._counter = Counter()
         nextID = intGen()  # Initializes autoincr class
         self._nameToNo = defaultdict(nextID)
         self.noToName = {}  # This is built only upon reading back from file
+        if loadfromfile is not None:
+            nextID.i = self.load(loadfromfile)
 
     def makeInvertedDict(self):
         self.noToName = {}  # This is built only upon reading back from file
@@ -89,3 +92,19 @@ class BookKeeper:
     def getNoTrain(self, name):
         self._counter[name] += 1
         return self._nameToNo[name]  # Starts from 0 newcomers will get autoincremented value and stored
+
+    def save(self, filename):
+        with gzip.open(filename, mode='wt', encoding='UTF-8') as f:
+            for key, value in sorted(self._nameToNo.items(), key=itemgetter(1)):
+                f.write('{}\t{}\n'.format(key, value))
+
+    def load(self, filename):
+        n = 0
+        with gzip.open(filename, mode='rt', encoding='UTF-8') as f:
+            for line in f:
+                k, v = line.rstrip().split('\t')
+                v = int(v)
+                self._nameToNo[k] = v
+                self.noToName[v] = k
+                n = v
+        return n
