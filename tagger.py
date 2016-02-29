@@ -17,7 +17,7 @@ class Tagger:
         print('loading observation model...', end='', file=sys.stderr, flush=True)
         self._model = joblib.load('{0}'.format(options['modelFileName']))
         self._featCounter = BookKeeper(options['featCounterFileName'])
-        self._labelCounter = BookKeeper(options['featCounterFileName'])
+        self._labelCounter = BookKeeper(options['labelCounterFileName'])
         print('done', file=sys.stderr, flush=True)
 
     def printWeights(self, n=100, outputStream=sys.stdout):
