@@ -5,8 +5,6 @@
 trainer.py is a module of HunTag and is used to train maxent models
 """
 
-import gzip
-import pickle
 import sys
 from collections import Counter, defaultdict
 from sklearn.externals import joblib
@@ -68,10 +66,8 @@ class Trainer:
     def save(self):
         print('saving model, feature and label lists...', end='', file=sys.stderr, flush=True)
         joblib.dump(self._model, '{0}'.format(self._modelFileName), compress=3)
-        with gzip.open(self._featCounterFileName, mode='wb') as f:
-            f.write(pickle.dumps(self._featCounter))
-        with gzip.open(self._labelCounterFileName, mode='wb') as f:
-            f.write(pickle.dumps(self._labelCounter))
+        self._featCounter.save(self._featCounterFileName)
+        self._labelCounter.save(self._labelCounterFileName)
         print('done', file=sys.stderr, flush=True)
 
     def _updateSentEnd(self, sentEnds, rowNums):

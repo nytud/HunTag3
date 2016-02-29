@@ -1,14 +1,12 @@
 #!/usr/bin/python3
 # -*- coding: utf-8, vim: expandtab:ts=4 -*-
 
-import gzip
-import pickle
 import sys
 import os
 from sklearn.externals import joblib
 from scipy.sparse import csr_matrix
 
-from tools import sentenceIterator, featurizeSentence
+from tools import sentenceIterator, featurizeSentence, BookKeeper
 
 
 class Tagger:
@@ -18,14 +16,8 @@ class Tagger:
         self._transProbs = transModel
         print('loading observation model...', end='', file=sys.stderr, flush=True)
         self._model = joblib.load('{0}'.format(options['modelFileName']))
-        self._featCounter = None
-        with gzip.open(options['featCounterFileName']) as f:
-            self._featCounter = pickle.loads(f.read())
-        self._featCounter.makeInvertedDict()
-        self._labelCounter = None
-        with gzip.open(options['labelCounterFileName']) as f:
-            self._labelCounter = pickle.loads(f.read())
-        self._labelCounter.makeInvertedDict()
+        self._featCounter = BookKeeper(options['featCounterFileName'])
+        self._labelCounter = BookKeeper(options['featCounterFileName'])
         print('done', file=sys.stderr, flush=True)
 
     def printWeights(self, n=100, outputStream=sys.stdout):
