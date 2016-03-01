@@ -29,23 +29,8 @@ default:
 # év      év      [Nc-sn] NX[abstract=YES,countable=YES,encnt=YES,measure=YES,time=YES]   év/elvont_fogalom/mennyiség/időszak/alapmértékegység/naptári_év  0       2       2       I-N_2+
 
 features:
- #~ - # Kr code patterns of a sentence (extended version) EXTENSIONS DISABLED!
-    #~ name: krpatt
-    #~ type: sentence
-    #~ actionName: krPatts
-    #~ fields: 4
-    #~ radius: 0  # rad is not radius!
-    #~ options:
-        #~ rad: 3  # The old config is misleading!
-        #~ minLength: 2
-        #~ maxLength: 99
-        #~ lang: hu
-        #~ since_dt: 0
-        #~ CASDiff: 0
-        #~ POSSConnect: 0
-        #~ fullKr: 0
-
  - # Kr code patterns of a sentence (extended version)
+   # For use with MSD code! (Endrédy & Indig 2015, 1st column in Table 6)
     name: mypatt
     type: sentence
     actionName: krPatts
@@ -56,10 +41,11 @@ features:
         minLength: 2
         maxLength: 99
         lang: hu
-        since_dt: 1
-        CASDiff: 1
-        POSSConnect: 1
-        fullKr: 1
+        MSD: 1
+        since_dt: 1  # (Endrédy & Indig 2015, section 4.2)
+        CASDiff: 1  # (Endrédy & Indig 2015, section 4.2)
+        POSSConnect: 1  # (Endrédy & Indig 2015, section 4.2)
+        fullKr: 0
 
  #~ - # Does it have capital letter in it anywhere? (old isCapitalizedOperator)
     #~ name: capitalized
@@ -147,7 +133,7 @@ features:
     #~ actionName: krPieces
     #~ fields: 4
 
- - # Split Humor code to pieces
+ - # Split Humor code to pieces (Here MSD codes is extracted by this feature)
     name: humor
     type: token
     actionName: humorPieces

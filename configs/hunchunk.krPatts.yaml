@@ -24,15 +24,13 @@ default:
  cutoff: 1  #  1 if not set
  radius: 5  # -1 if not set
 
-# Example:
-# év      év      [Nc-sn] NX[abstract=YES,countable=YES,encnt=YES,measure=YES,time=YES]   év/elvont_fogalom/mennyiség/időszak/alapmértékegység/naptári_év  0       2       2       I-N_2+
-
 features:
- - # Kr code patterns of a sentence (extended version) EXTENSIONS DISABLED!
+ - # Kr code patterns of a sentence (extended version) EXTENSIONS ENABLED! (otherwise same as hunchunk.krPatt.yaml)
+   # For use with KR code! (Endrédy & Indig 2015, 3rd column in Table 6)
     name: krpatt
     type: sentence
     actionName: krPatts
-    fields: 2
+    fields: 1
     radius: 0  # rad is not radius!
     options:
         rad: 3  # The old config is misleading!
@@ -40,9 +38,9 @@ features:
         maxLength: 99
         lang: hu
         MSD: 1
-        since_dt: 0  # (Endrédy & Indig 2015, section 4.2)
-        CASDiff: 0  # (Endrédy & Indig 2015, section 4.2)
-        POSSConnect: 0  # (Endrédy & Indig 2015, section 4.2)
+        since_dt: 1  # (Endrédy & Indig 2015, section 4.2)
+        CASDiff: 1  # (Endrédy & Indig 2015, section 4.2)
+        POSSConnect: 1  # (Endrédy & Indig 2015, section 4.2)
         fullKr: 0
 
  #~ - # Does it have capital letter in it anywhere? (old isCapitalizedOperator)
@@ -119,84 +117,12 @@ features:
     options:
         n: 3
 
- #~ - # Kr code pieces
-    #~ name: kr
-    #~ type: token
-    #~ actionName: krPieces
-    #~ fields: 2
-#~
- #~ - # Kr code pieces (wn or kr is in field 4)
-    #~ name: kr
-    #~ type: token
-    #~ actionName: krPieces
-    #~ fields: 4
-
- - # Split Humor code to pieces (Here MSD codes is extracted by this feature)
-    name: humor
+ - # Kr code pieces
+    name: kr
     type: token
-    actionName: humorPieces
-    fields: 2
+    actionName: krPieces
+    fields: 1
 
- #~ - # Description: XXX Fill me!
-    #~ name: hibrid
-    #~ type: token
-    #~ actionName: humorSimple
-    #~ fields: 3
-#~ 
- #~ - # Description: XXX Fill me!
-    #~ name: stemH
-    #~ type: token
-    #~ actionName: humorSimple
-    #~ fields: 1
-#~ 
- #~ - # Description: XXX Fill me!
-    #~ name: stemH
-    #~ type: token
-    #~ actionName: humorSimple
-    #~ fields: 1
-#~ 
- #~ - # Description: XXX Fill me!
-    #~ name: cats
-    #~ type: token
-    #~ actionName: humorSimple
-    #~ fields: 2
-#~ 
- #~ - # Description: XXX Fill me!
-    #~ name: cats
-    #~ type: token
-    #~ actionName: humorPieces
-    #~ fields: 3
-#~ 
- #~ - # MMO features
-    #~ name: mmo
-    #~ type: token
-    #~ actionName: mmoSimple
-    #~ fields: 3
-#~ 
- #~ - # WordNet features
-    #~ name: wn
-    #~ type: token
-    #~ actionName: wordNetSimple
-    #~ fields: 4
-#~ 
- #~ - # Stopword or not?
-    #~ name: stopw
-    #~ type: token
-    #~ actionName: humorSimple
-    #~ fields: 5
-#~ 
- #~ - # Length of token?
-    #~ name: length
-    #~ type: token
-    #~ actionName: humorSimple
-    #~ fields: 6
-#~ 
- #~ - # Position in sentence...
-    #~ name: position
-    #~ type: token
-    #~ actionName: humorSimple
-    #~ fields: 7
-#~ 
  #~ - # The n caracter long prefix of a token
     #~ name: prefix
     #~ type: token

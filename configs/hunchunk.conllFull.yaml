@@ -32,14 +32,14 @@ features:
     name: krpatt
     type: sentence
     actionName: krPatts
-    fields: 2
+    fields: 1
     radius: 0  # rad is not radius!
     options:
         rad: 3  # The old config is misleading!
         minLength: 2
         maxLength: 99
         lang: hu
-        MSD: 1
+        MSD: 0
         since_dt: 0  # (Endrédy & Indig 2015, section 4.2)
         CASDiff: 0  # (Endrédy & Indig 2015, section 4.2)
         POSSConnect: 0  # (Endrédy & Indig 2015, section 4.2)
@@ -131,11 +131,11 @@ features:
     #~ actionName: krPieces
     #~ fields: 4
 
- - # Split Humor code to pieces (Here MSD codes is extracted by this feature)
+ - # Split Humor code to pieces
     name: humor
     type: token
     actionName: humorPieces
-    fields: 2
+    fields: 1
 
  #~ - # Description: XXX Fill me!
     #~ name: hibrid
@@ -168,34 +168,34 @@ features:
     #~ fields: 3
 #~ 
  #~ - # MMO features
-    #~ name: mmo
+    #~ name: wn
     #~ type: token
     #~ actionName: mmoSimple
     #~ fields: 3
-#~ 
- #~ - # WordNet features
-    #~ name: wn
-    #~ type: token
-    #~ actionName: wordNetSimple
-    #~ fields: 4
-#~ 
- #~ - # Stopword or not?
-    #~ name: stopw
-    #~ type: token
-    #~ actionName: humorSimple
-    #~ fields: 5
-#~ 
- #~ - # Length of token?
-    #~ name: length
-    #~ type: token
-    #~ actionName: humorSimple
-    #~ fields: 6
-#~ 
- #~ - # Position in sentence...
-    #~ name: position
-    #~ type: token
-    #~ actionName: humorSimple
-    #~ fields: 7
+
+ - # WordNet features
+    name: wn
+    type: token
+    actionName: wordNetSimple
+    fields: 2
+
+ - # Stopword or not?
+    name: stopw
+    type: token
+    actionName: humorSimple
+    fields: 3
+
+ - # Length of token?
+    name: length
+    type: token
+    actionName: humorSimple
+    fields: 4
+
+ - # Position in sentence...
+    name: position
+    type: token
+    actionName: humorSimple
+    fields: 5
 #~ 
  #~ - # The n caracter long prefix of a token
     #~ name: prefix

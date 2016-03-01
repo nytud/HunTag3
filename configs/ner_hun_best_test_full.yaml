@@ -240,9 +240,10 @@ features:
         minLength: 2
         maxLength: 99
         lang: hu
-        since_dt: 0
-        CASDiff: 0
-        POSSConnect: 0
+        MSD: 0
+        since_dt: 0  # (Endrédy & Indig 2015, section 4.2)
+        CASDiff: 0  # (Endrédy & Indig 2015, section 4.2)
+        POSSConnect: 0  # (Endrédy & Indig 2015, section 4.2)
         fullKr: 0
 
  - # Checks if the neighbouring tokens have the same grammatical case

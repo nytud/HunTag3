@@ -26,6 +26,7 @@ default:
 
 features:
  - # Kr code patterns of a sentence (extended version) EXTENSIONS DISABLED!
+   # For use with KR code! (Endrédy & Indig 2015, 2nd column in Table 6)
     name: krpatt
     type: sentence
     actionName: krPatts
@@ -36,9 +37,10 @@ features:
         minLength: 2
         maxLength: 99
         lang: hu
-        since_dt: 0
-        CASDiff: 0
-        POSSConnect: 0
+        MSD: 0
+        since_dt: 0  # (Endrédy & Indig 2015, section 4.2)
+        CASDiff: 0  # (Endrédy & Indig 2015, section 4.2)
+        POSSConnect: 0  # (Endrédy & Indig 2015, section 4.2)
         fullKr: 0
 
  #~ - # Does it have capital letter in it anywhere? (old isCapitalizedOperator)
