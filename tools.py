@@ -4,6 +4,7 @@
 
 from operator import itemgetter
 from collections import Counter, defaultdict
+from itertools import count
 import sys
 import gzip
 
@@ -45,27 +46,15 @@ def featurizeSentence(sen, features):
     return sentenceFeats
 
 
-class intGen:
-    """
-    Original source: http://stackoverflow.com/a/6173641
-    """
-    def __init__(self, i=-1):  # To start from 0...
-        self.i = i
-
-    def __call__(self):
-        self.i += 1
-        return self.i
-
-
 # Keeps Feature/Label-Number translation maps, for faster computations
 class BookKeeper:
     def __init__(self, loadfromfile=None):
         self._counter = Counter()
-        nextID = intGen()  # Initializes autoincr class
-        self._nameToNo = defaultdict(nextID)
+        # Original source: (1.31) http://sahandsaba.com/thirty-python-language-features-and-tricks-you-may-not-know.html
+        self._nameToNo = defaultdict(count(start=-1).__next__)
         self.noToName = {}  # This is built only upon reading back from file
         if loadfromfile is not None:
-            nextID.i = self.load(loadfromfile)
+            self._nameToNo.default_factory = count(start=self.load(loadfromfile)).__next__
 
     def makeInvertedDict(self):
         self.noToName = {}  # This is built only upon reading back from file
@@ -95,16 +84,14 @@ class BookKeeper:
 
     def save(self, filename):
         with gzip.open(filename, mode='wt', encoding='UTF-8') as f:
-            for key, value in sorted(self._nameToNo.items(), key=itemgetter(1)):
-                f.write('{}\t{}\n'.format(key, value))
+            f.writelines('{}\t{}\n'.format(name, no) for name, no in sorted(self._nameToNo.items(), key=itemgetter(1)))
 
     def load(self, filename):
-        n = 0
+        no = -1  # Last no
         with gzip.open(filename, mode='rt', encoding='UTF-8') as f:
             for line in f:
-                k, v = line.rstrip().split('\t')
-                v = int(v)
-                self._nameToNo[k] = v
-                self.noToName[v] = k
-                n = v
-        return n
+                l = line.strip().split()
+                name, no = l[0], int(l[1])
+                self._nameToNo[name] = no
+                self.noToName[no] = name
+        return no

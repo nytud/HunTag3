@@ -64,8 +64,9 @@ class Trainer:
             self._usedFeats = {line.strip() for line in open(options['usedFeats'], encoding='UTF-8')}
 
     def save(self):
-        print('saving model, feature and label lists...', end='', file=sys.stderr, flush=True)
+        print('saving model...', end='', file=sys.stderr, flush=True)
         joblib.dump(self._model, '{0}'.format(self._modelFileName), compress=3)
+        print('done\nsaving feature and label lists...', end='', file=sys.stderr, flush=True)
         self._featCounter.save(self._featCounterFileName)
         self._labelCounter.save(self._labelCounterFileName)
         print('done', file=sys.stderr, flush=True)
