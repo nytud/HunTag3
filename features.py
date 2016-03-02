@@ -837,7 +837,7 @@ def sentence_krPatts(sen, fields, options):
     krVec = [tok[f] for tok in sen]
 
     if options['lang'] == 'hu':
-        if not options['fullKr'] or options['MSD']:
+        if not options['fullKr'] and not options['MSD']:
             krVec = [token_getPosTag(kr)[0] for kr in krVec]
         elif options['MSD']:
             krVec = [tok[f] for tok in sen]
