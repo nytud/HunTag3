@@ -293,25 +293,25 @@ features:
  - # Description: XXX Fill me!
     name: trainloc
     type: lex
-    actionName: hunner/lex/used/loc.fromtraincorpus.lex
+    actionName: hunner/lex/loc.fromtraincorpus.lex
     fields: 0
 
  - # Description: XXX Fill me!
     name: trainorg
     type: lex
-    actionName: hunner/lex/used/org.fromtraincorpus.lex
+    actionName: hunner/lex/org.fromtraincorpus.lex
     fields: 0
 
  - # Description: XXX Fill me!
     name: trainpers
     type: lex
-    actionName: hunner/lex/used/per.fromtraincorpus.lex
+    actionName: hunner/lex/per.fromtraincorpus.lex
     fields: 0
 
  - # Description: XXX Fill me!
     name: trainmisc
     type: lex
-    actionName: hunner/lex/used/misc.fromtraincorpus.lex
+    actionName: hunner/lex_from_Eszter.Simon/misc.fromtraincorpus.lex
     fields: 0
 
  #~ - # Description: XXX Fill me!
