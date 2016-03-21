@@ -225,32 +225,27 @@ The patch for Liblinear (to lower memory usage) was created by Attila Zséder. S
 
 # License
 
-HunTag is made available under the GNU Lesser General Public License v3.0. If you received HunTag in a package that also contain the Hungarian training corpora for Named Entity Recoginition or chunking task, then please note that these corpora are derivative works based on the Szeged Treebank, and they are made available under the same restrictions that apply to the original Szeged Treebank
+HunTag3 is made available under the GNU Lesser General Public License v3.0. If you received HunTag3 in a package that also contain the Hungarian training corpora for named-entity recognition or chunking task, then please note that these corpora are derivative works based on the Szeged Treebank, and they are made available under the same restrictions that apply to the original Szeged Treebank
 
 # Reference
 
 If you use the tool, please cite the following paper:
 
-István Endrédy and Balázs Indig (2015): *HunTag3: a general-purpose, modular sequential tagger -- chunking phrases in English and maximal NPs and NER for Hungarian*
+[István Endrédy and Balázs Indig (2015): *HunTag3: a general-purpose, modular sequential tagger -- chunking phrases in English and maximal NPs and NER for Hungarian*
 In: Zygmunt Vetulani; Joseph Mariani (eds.) 7th Language & Technology Conference: Human Language Technologies as a Challenge for Computer Science and Linguistics. (2015.11.27-2015.11.30, Poznań, Poland)
-"Poznań: Uniwersytet im. Adama Mickiewicza w Poznaniu" 558 p. ISBN:978-83-932640-8-7 pp. 213-218.
+"Poznań: Uniwersytet im. Adama Mickiewicza w Poznaniu" 558 p. ISBN:978-83-932640-8-7 pp. 213-218.](http://ltc.amu.edu.pl/book/papers/TAN2-2.pdf)
 
 ```
-@proceedings{LTC15,
-  title        = {7th Language & Technology Conference: Human Language Technologies as a Challenge for Computer Science and Linguistics},
-  shorttitle   = {LTC '15},
-  eventdate    = {2015-11-27/2015-11-30},
-  venue        = {Pozna\'n, Poland},
-  isbn         = {978-83-932640-8-7},
-  publisher    = {Pozna\'n: Uniwersytet im. Adama Mickiewicza w Poznaniu},
-  date         = {2015},
-}
-@inproceedings{huntag3,
+@inproceedings{HunTag3,
+  title       = {{HunTag3:} a general-purpose, modular sequential tagger -- chunking phrases in {English and maximal NPs and NER for Hungarian}},
   author      = {Endr\'edy, Istv\'an and Indig, Bal\'azs},
-  title       = {HunTag3: a general-purpose, modular sequential tagger -- chunking phrases in English and maximal NPs and NER for Hungarian},
-  subtitle    = {Completeness and Uniform Interpolation},
-  crossref    = {LTC15},
+  booktitle   = {7th {L}anguage \& {T}echnology {C}onference, {Human Language Technologies as a Challenge for Computer Science and Linguistics (LTC '15)}},
+  year        = {2015},
+  month       = {November}, 
+  publisher   = {Pozna\'n: {U}niwersytet im. {Adama Mickiewicza w Poznaniu}},
+  isbn        = {978-83-932640-8-7},
   pages       = {213-218}
+  address     = {{P}ozna\'n, {P}oland}
 }
 ```
 
