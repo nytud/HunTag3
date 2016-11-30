@@ -229,6 +229,9 @@ HunTag3 is made available under the GNU Lesser General Public License v3.0. If y
 
 # Reference
 
+This tool is also [integrated](https://github.com/dlt-rilmta/hunlp-GATE)
+into the [e-magyar](http://www.e-magyar.hu) language processing system. It is called emNER.
+
 If you use the tool, please cite the following paper:
 
 [István Endrédy and Balázs Indig (2015): *HunTag3: a general-purpose, modular sequential tagger -- chunking phrases in English and maximal NPs and NER for Hungarian*
