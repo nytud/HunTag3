@@ -247,7 +247,7 @@ In: Zygmunt Vetulani; Joseph Mariani (eds.) 7th Language & Technology Conference
   month       = {November}, 
   publisher   = {Pozna\'n: {U}niwersytet im. {Adama Mickiewicza w Poznaniu}},
   isbn        = {978-83-932640-8-7},
-  pages       = {213-218}
+  pages       = {213-218},
   address     = {{P}ozna\'n, {P}oland}
 }
 ```
