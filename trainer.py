@@ -40,12 +40,12 @@ class Trainer:
 
         self._model = solver(**parameters)
         self._data_sizes = options['data_sizes']
-        self._tag_field = options['tagField']
-        self._model_file_name = options['modelFileName']
-        self._parameters = options['trainParams']
+        self._tag_field = options['tag_field']
+        self._model_file_name = options['model_filename']
+        self._parameters = options['train_params']
         self._cutoff = options['cutoff']
-        self._feat_counter_file_name = options['featCounterFileName']
-        self._label_counter_file_name = options['labelCounterFileName']
+        self._feat_counter_file_name = options['featcounter_filename']
+        self._label_counter_file_name = options['labelcounter_filename']
         self._features = features
 
         self._tok_count = -1  # Index starts from 0
@@ -54,14 +54,14 @@ class Trainer:
         self._cols = array(self._data_sizes['cols'])
         self._data = array(self._data_sizes['data'])
         self._labels = array(self._data_sizes['labels'])
-        self._sent_end = array(self._data_sizes['sentEnd'])  # Keep track of sentence boundaries
+        self._sent_end = array(self._data_sizes['sent_end'])  # Keep track of sentence boundaries
         self._matrix = None
 
         self._feat_counter = BookKeeper()
         self._label_counter = BookKeeper()
         self._used_feats = None
-        if 'usedFeats' in options and options['usedFeats']:
-            self._used_feats = {line.strip() for line in open(options['usedFeats'], encoding='UTF-8')}
+        if 'used_feats' in options and options['used_feats']:
+            self._used_feats = {line.strip() for line in open(options['used_feats'], encoding='UTF-8')}
 
     def save(self):
         print('saving model...', end='', file=sys.stderr, flush=True)
@@ -72,7 +72,7 @@ class Trainer:
         print('done', file=sys.stderr, flush=True)
 
     def _update_sent_end(self, sent_ends, row_nums):
-        new_ends = array(self._data_sizes['sentEnd'])
+        new_ends = array(self._data_sizes['sent_end'])
         vbeg = 0
         for end in sent_ends:
             vend = -1

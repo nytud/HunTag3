@@ -79,7 +79,7 @@ class Tagger:
                 cols.append(featNum)
                 data.append(1)
         contexts = csr_matrix((data, (rows, cols)), shape=(len(feat_numbers), self._feat_counter.num_of_names()),
-                              dtype=self._data_sizes['dataNP'])
+                              dtype=self._data_sizes['data_np'])
         tagprobs_by_pos = [{self._label_counter.no_to_name[i]: prob for i, prob in enumerate(prob_dist)}
                            for prob_dist in self._model.predict_proba(contexts)]
         return tagprobs_by_pos
