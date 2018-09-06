@@ -41,7 +41,7 @@ def sentence_iterator(input_stream):
 def featurize_sentence(sen, features):
     sentence_feats = [[] for _ in sen]
     for feature in features.values():
-        for c, feats in enumerate(feature.evalSentence(sen)):
+        for c, feats in enumerate(feature.eval_sentence(sen)):
             sentence_feats[c] += feats
     return sentence_feats
 
