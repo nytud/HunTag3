@@ -33,14 +33,14 @@ features:
     radius: 0  # rad is not radius!
     options:
         rad: 3  # The old config is misleading!
-        minLength: 2
-        maxLength: 99
+        min_length: 2
+        max_length: 99
         lang: hu
-        MSD: 1  # Same as hunchunk.krPatt.yaml but need MSD to have the full POS tag
+        msd: 1  # Same as hunchunk.krPatt.yaml but need MSD to have the full POS tag
         since_dt: 0  # (Endrédy & Indig 2015, section 4.2)
-        CASDiff: 0  # (Endrédy & Indig 2015, section 4.2)
-        POSSConnect: 0  # (Endrédy & Indig 2015, section 4.2)
-        fullKr: 0
+        cas_diff: 0  # (Endrédy & Indig 2015, section 4.2)
+        poss_connect: 0  # (Endrédy & Indig 2015, section 4.2)
+        full_kr: 0
 
  #~ - # Does it have capital letter in it anywhere? (old isCapitalizedOperator)
     #~ name: capitalized

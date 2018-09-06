@@ -16,14 +16,14 @@ bigcase = 'AÁBCDEÉFGHIÍJKLMNOÓÖŐPQRSTUÚÜŰVWXYZ'
 big2small = {}
 for i, _ in enumerate(bigcase):
     big2small[bigcase[i]] = smallcase[i]
-casREKR = re.compile('<CAS')
-casREMSD = re.compile('\[?N')
-possessorMSD = re.compile(r'--[sp]\d')
-objMSD = '\[?N'
+cas_re_kr = re.compile('<CAS')
+cas_re_msd = re.compile('\[?N')
+possessor_msd = re.compile(r'--[sp]\d')
+obj_msd = '\[?N'
 
-possessorKR = re.compile('<POSS')
-objKR = 'NOUN'
-MMOpatt = re.compile('[\[,\]]')
+possessor_kr = re.compile('<POSS')
+obj_kr = 'NOUN'
+mmo_patt = re.compile('[\[,\]]')
 # GLOBAL DECLARATION END
 
 
@@ -534,11 +534,11 @@ def token_firstChar(token, _=None):
 
 
 # XXX Return is not bool
-def token_msdPos(msdAnal, _=None):
+def token_msdPos(msd_anal, _=None):
     """Return the second character (Square brackets enclosed)
 
     Args:
-       msdAnal (str): MSD code analysis
+       msd_anal (str): MSD code analysis
        _: Unused
 
     Returns:
@@ -550,7 +550,7 @@ def token_msdPos(msdAnal, _=None):
         Example: '[Nc-sa—s3]' -> N
         Use case: NER, Chunk
     """
-    return [msdAnal[1]]
+    return [msd_anal[1]]
 
 
 # XXX Return is not bool
@@ -759,7 +759,7 @@ def sentence_isBetweenSameCases(sen, fields, options=None):
     Args:
        sen (list): The list of tokens in the sentence
        fields (list): Field numbers, that will be used
-       options (dict): options (maxDist default: 6
+       options (dict): options (max_dist default: 6
 
     Returns:
        [[Bool in int format]]: Pass the resulting array
@@ -771,12 +771,12 @@ def sentence_isBetweenSameCases(sen, fields, options=None):
         Use case: NER, Chunk
     """
     if options is None:
-        options = {'maxDist': '6'}
+        options = {'max_dist': '6'}
     if len(fields) > 1:
         print('Error: "isBetweenSameCases" function\'s "fields" argument\'s\
             length must be one not {0}'.format(len(fields)), file=sys.stderr, flush=True)
         sys.exit(1)
-    maxDist = int(options['maxDist'])
+    max_dist = int(options['max_dist'])
     noun_cases = [[] for _ in sen]
     feat_vec = [[] for _ in sen]
     kr_vec = [token[fields[0]] for token in sen]
@@ -822,7 +822,7 @@ def sentence_isBetweenSameCases(sen, fields, options=None):
     for j, _ in enumerate(sen):
         feat_vec[j] = [0]
         if (right_case[j][0] == left_case[j][0] and right_case[j][0] is not None and
-                abs(right_case[j][1] - left_case[j][1]) <= maxDist):
+                abs(right_case[j][1] - left_case[j][1]) <= max_dist):
             feat_vec[j] = [1]
 
     return feat_vec
@@ -877,8 +877,8 @@ def sentence_krPatts(sen, fields, options):
        sentence_parsePatts: superseded
     """
     assert options['lang'] in ('en', 'hu')
-    minLength = int(options['minLength'])
-    maxLength = int(options['maxLength'])
+    min_length = int(options['min_length'])
+    max_length = int(options['max_length'])
     rad = int(options['rad'])
     assert len(fields) == 1
     f = fields[0]
@@ -886,9 +886,9 @@ def sentence_krPatts(sen, fields, options):
     kr_vec = [tok[f] for tok in sen]
 
     if options['lang'] == 'hu':
-        if not options['fullKr'] and not options['MSD']:
+        if not options['full_kr'] and not options['msd']:
             kr_vec = [token_getPosTag(kr)[0] for kr in kr_vec]
-        elif options['MSD']:
+        elif options['msd']:
             kr_vec = [tok[f] for tok in sen]
     else:
         kr_vec = [tok[f][0] for tok in sen]
@@ -897,17 +897,17 @@ def sentence_krPatts(sen, fields, options):
     apply_poss_connect_fun = do_nothing
 
     if options['lang'] == 'hu':
-        if options['MSD']:
+        if options['msd']:
             tag_dt, feat_prefix_dt = '[Tf]', 'dt_'  # "(since) last detrminant" MSD
-            cas_re, feat_name = casREMSD, 'cas_diff'  # cas_diff
-            poss_re, obj, feat_prefix_poss = possessorMSD, objMSD, 'possession_'
+            cas_re, feat_name = cas_re_msd, 'cas_diff'  # cas_diff
+            poss_re, obj, feat_prefix_poss = possessor_msd, obj_msd, 'possession_'
         else:
             tag_dt, feat_prefix_dt = 'DT', 'dt_'    # "(since) last detrminant" KR
-            cas_re, feat_name = casREKR, 'cas_diff'   # cas_diff
-            poss_re, obj, feat_prefix_poss = possessorKR, objKR, 'possession_'
-        if options['CASDiff'] == 1:
+            cas_re, feat_name = cas_re_kr, 'cas_diff'   # cas_diff
+            poss_re, obj, feat_prefix_poss = possessor_kr, obj_kr, 'possession_'
+        if options['cas_diff'] == 1:
             apply_cas_diff_fun = cas_diff
-        if options['POSSConnect'] == 1:
+        if options['poss_connect'] == 1:
             apply_poss_connect_fun = poss_connect
     else:
         tag_dt, feat_prefix_dt = 'DT', 'dt_'  # "(since) last detrminant" CoNLL (poss_connect and CasDiff not used)
@@ -930,7 +930,7 @@ def sentence_krPatts(sen, fields, options):
         for k in range(max(-rad, -c), rad):
             # Ending in -rad + 1 and rad + 2  but starts in the list boundaries (upper)
             # and keep minimal and maximal length
-            for j in range(max(-rad + 1, minLength + k), min(rad + 2, maxLength + k + 1, kr_vec_len - c + 1)):
+            for j in range(max(-rad + 1, min_length + k), min(rad + 2, max_length + k + 1, kr_vec_len - c + 1)):
                 value = '+'.join(kr_vec[c + k:c + j])
                 feat = '{0}_{1}_{2}'.format(k, j, value)
                 feat_vec[c].append(feat)
@@ -1515,4 +1515,4 @@ def token_mmoSimple(mmo_tags, _=None):
     """
     if mmo_tags == '-':
         return []
-    return [x for x in MMOpatt.split(mmo_tags) if x]
+    return [x for x in mmo_patt.split(mmo_tags) if x]
