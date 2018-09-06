@@ -102,4 +102,4 @@ class Tagger:
         print('{0}...done'.format(str(sen_count)), file=sys.stderr, flush=True)
 
     def _tag_sen_feats(self, sen_feats):
-        return self._transProbs.tagSent(self._get_tag_probs_by_pos(sen_feats))
+        return self._transProbs.tag_sent(self._get_tag_probs_by_pos(sen_feats))

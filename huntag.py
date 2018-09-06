@@ -20,7 +20,7 @@ def mainTransModelTrain(options):
     transModel.train(options['inputStream'])
     # Close training, compute probabilities
     transModel.count()
-    transModel.writeToFile(options['transModelFileName'])
+    transModel.write_to_file(options['transModelFileName'])
 
 
 def mainTrain(featureSet, options):
@@ -49,7 +49,7 @@ def mainTag(featureSet, options):
     transModel = None
     if not (options['print_weights'] or options['to_crfsuite']):
         print('loading transition model...', end='', file=sys.stderr, flush=True)
-        transModel = TransModel.getModelFromFile(options['transModelFileName'])
+        transModel = TransModel.get_model_from_file(options['transModelFileName'])
         print('done', file=sys.stderr, flush=True)
 
     tagger = Tagger(featureSet, transModel, options)
