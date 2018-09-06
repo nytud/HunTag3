@@ -3,7 +3,7 @@
 #train
 cat input.txt | python3 huntag.py train --model=modelName --config-file=configs/hunchunk.hunMIGE.yaml
 
-#train toCRFsuite
+#train to_crfsuite
 cat input.txt | python3 huntag.py train --toCRFsuite --model=modelName --config-file=configs/hunchunk.hunMIGE.yaml > modelName.CRFsuite.train
 
 #most-informative-features
@@ -15,7 +15,7 @@ cat input.txt | python3 huntag.py transmodel-train --model=modelName  # --trans-
 #tag
 cat input.txt | python3 huntag.py tag --model=modelName --config-file=configs/hunchunk.hunMIGE.yaml > input.tag
 
-#tag toCRFsuite
+#tag to_crfsuite
 cat input.txt | python3 huntag.py tag --toCRFsuite --model=modelName --config-file=configs/hunchunk.hunMIGE.yaml > modelName.CRFsuite.tag
 
 #tag FeatureWeights

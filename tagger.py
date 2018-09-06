@@ -22,8 +22,8 @@ class Tagger:
 
     def printWeights(self, n=100, outputStream=sys.stdout):
         coefs = self._model.coef_
-        labelNoToName = self._labelCounter.noToName
-        featNoToName = self._featCounter.noToName
+        labelNoToName = self._labelCounter.no_to_name
+        featNoToName = self._featCounter.no_to_name
         sortedFeats = sorted(featNoToName.items())
         for i, label in sorted(labelNoToName.items()):
             columns = ['{0}:{1}'.format(w, feat) for w, (no, feat) in sorted(zip(coefs[i, :], sortedFeats),
@@ -80,14 +80,14 @@ class Tagger:
                 data.append(1)
         contexts = csr_matrix((data, (rows, cols)), shape=(len(featNumbers), self._featCounter.num_of_names()),
                               dtype=self._dataSizes['dataNP'])
-        tagProbsByPos = [{self._labelCounter.noToName[i]: prob for i, prob in enumerate(probDist)}
+        tagProbsByPos = [{self._labelCounter.no_to_name[i]: prob for i, prob in enumerate(probDist)}
                          for probDist in self._model.predict_proba(contexts)]
         return tagProbsByPos
 
     def toCRFsuite(self, inputStream, outputStream=sys.stdout):
         senCount = 0
         getNoTag = self._featCounter.get_no_tag
-        featnoToName = self._featCounter.noToName
+        featnoToName = self._featCounter.no_to_name
         for sen, comment in sentence_iterator(inputStream):
             senCount += 1
             senFeats = featurize_sentence(sen, self._features)

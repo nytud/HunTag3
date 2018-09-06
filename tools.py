@@ -52,20 +52,20 @@ class BookKeeper:
         self._counter = Counter()
         # Original source: (1.31) http://sahandsaba.com/thirty-python-language-features-and-tricks-you-may-not-know.html
         self._nameToNo = defaultdict(count().__next__)
-        self.noToName = {}  # This is built only upon reading back from file
+        self.no_to_name = {}  # This is built only upon reading back from file
         if loadfromfile is not None:
             self._nameToNo.default_factory = count(start=self.load(loadfromfile)).__next__
 
     def make_inverted_dict(self):
-        self.noToName = {}  # This is built only upon reading back from file
+        self.no_to_name = {}  # This is built only upon reading back from file
         for name, no in self._nameToNo.items():
-            self.noToName[no] = name
+            self.no_to_name[no] = name
 
     def num_of_names(self):
         return len(self._nameToNo)
 
     def makeno_to_name(self):
-        self.noToName = {v: k for k, v in self._nameToNo.items()}
+        self.no_to_name = {v: k for k, v in self._nameToNo.items()}
 
     def cutoff(self, cutoff):
         to_delete = {self._nameToNo.pop(name) for name, counts in self._counter.items() if counts < cutoff}
@@ -93,5 +93,5 @@ class BookKeeper:
                 line = line.strip().split()
                 name, no = line[0], int(line[1])
                 self._nameToNo[name] = no
-                self.noToName[no] = name
+                self.no_to_name[no] = name
         return no

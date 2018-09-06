@@ -54,7 +54,7 @@ class Trainer:
         self._cols = array(self._dataSizes['cols'])
         self._data = array(self._dataSizes['data'])
         self._labels = array(self._dataSizes['labels'])
-        self._sentEnd = array(self._dataSizes['sentEnd'])  # Keep track of sentence boundaries
+        self._sent_end = array(self._dataSizes['sentEnd'])  # Keep track of sentence boundaries
         self._matrix = None
 
         self._featCounter = BookKeeper()
@@ -71,38 +71,38 @@ class Trainer:
         self._labelCounter.save(self._labelCounterFileName)
         print('done', file=sys.stderr, flush=True)
 
-    def _updateSentEnd(self, sentEnds, rowNums):
-        newEnds = array(self._dataSizes['sentEnd'])
+    def _update_sent_end(self, sent_ends, row_nums):
+        new_ends = array(self._dataSizes['sentEnd'])
         vbeg = 0
-        for end in sentEnds:
+        for end in sent_ends:
             vend = -1
-            for i, e in enumerate(rowNums[vbeg:]):
+            for i, e in enumerate(row_nums[vbeg:]):
                 if e <= end:
                     vend = vbeg + i
                 else:
                     break
             if vend > 0:
-                newEnds.append(vend)
+                new_ends.append(vend)
                 vbeg = vend + 1
-        return newEnds
+        return new_ends
 
-    def _convertToNPArray(self):
-        rowsNP = np.array(self._rows, dtype=self._dataSizes['rowsNP'])
-        colsNP = np.array(self._cols, dtype=self._dataSizes['cols'])
-        dataNP = np.array(self._data, dtype=self._dataSizes['data'])
-        labelsNP = np.array(self._labels, dtype=self._dataSizes['labels'])
+    def _convert_to_np_array(self):
+        rows_np = np.array(self._rows, dtype=self._dataSizes['rows_np'])
+        cols_np = np.array(self._cols, dtype=self._dataSizes['cols'])
+        data_np = np.array(self._data, dtype=self._dataSizes['data'])
+        labels_np = np.array(self._labels, dtype=self._dataSizes['labels'])
         del self._rows
         del self._cols
         del self._data
         del self._labels
-        self._rows = rowsNP
-        self._cols = colsNP
-        self._data = dataNP
-        self._labels = labelsNP
+        self._rows = rows_np
+        self._cols = cols_np
+        self._data = data_np
+        self._labels = labels_np
 
-    def _makeSparseArray(self, rowNum, colNum):
+    def _make_sparse_array(self, row_num, col_num):
         print('creating training problem...', end='', file=sys.stderr, flush=True)
-        matrix = csr_matrix((self._data, (self._rows, self._cols)), shape=(rowNum, colNum),
+        matrix = csr_matrix((self._data, (self._rows, self._cols)), shape=(row_num, col_num),
                             dtype=self._dataSizes['data'])
         del self._rows
         del self._cols
@@ -110,120 +110,120 @@ class Trainer:
         print('done!', file=sys.stderr, flush=True)
         return matrix
 
-    def cutoffFeats(self):
-        self._convertToNPArray()
-        colNum = self._featCounter.num_of_names()
+    def cutoff_feats(self):
+        self._convert_to_np_array()
+        col_num = self._featCounter.num_of_names()
         if self._cutoff < 2:
-            self._matrix = self._makeSparseArray(self._tokCount, colNum)
+            self._matrix = self._make_sparse_array(self._tokCount, col_num)
         else:
             print('discarding features with less than {0} occurences...'.format(self._cutoff), end='', file=sys.stderr,
                   flush=True)
 
-            toDelete = self._featCounter.cutoff(self._cutoff)
-            print('done!\nreducing training events by {0}...'.format(len(toDelete)), end='', file=sys.stderr,
+            to_delete = self._featCounter.cutoff(self._cutoff)
+            print('done!\nreducing training events by {0}...'.format(len(to_delete)), end='', file=sys.stderr,
                   flush=True)
             # ...that are not in featCounter anymore
-            indicesToKeepNP = np.fromiter((ind for ind, featNo in enumerate(self._cols) if featNo not in toDelete),
-                                          dtype=self._dataSizes['cols'])
-            del toDelete
+            indices_to_keep_np = np.fromiter((ind for ind, featNo in enumerate(self._cols) if featNo not in to_delete),
+                                             dtype=self._dataSizes['cols'])
+            del to_delete
 
             # Reduce cols
-            colsNPNew = self._cols[indicesToKeepNP]
+            cols_np_new = self._cols[indices_to_keep_np]
             del self._cols
-            self._cols = colsNPNew
+            self._cols = cols_np_new
 
             # Reduce data
-            dataNPNew = self._data[indicesToKeepNP]
+            data_np_new = self._data[indices_to_keep_np]
             del self._data
-            self._data = dataNPNew
+            self._data = data_np_new
 
             # Reduce rows
-            rowsNPNew = self._rows[indicesToKeepNP]
-            rowNumKeep = np.unique(rowsNPNew)
-            rowNum = rowNumKeep.shape[0]
-            colNum = indicesToKeepNP.max() + 1
+            rows_np_new = self._rows[indices_to_keep_np]
+            row_num_keep = np.unique(rows_np_new)
+            row_num = row_num_keep.shape[0]
+            col_num = indices_to_keep_np.max() + 1
             del self._rows
-            self._rows = rowsNPNew
-            del indicesToKeepNP
+            self._rows = rows_np_new
+            del indices_to_keep_np
 
             # Reduce labels
-            labelsNPNew = self._labels[rowNumKeep]
+            labels_np_new = self._labels[row_num_keep]
             del self._labels
-            self._labels = labelsNPNew
+            self._labels = labels_np_new
 
             # Update sentence end markers
-            newEnd = self._updateSentEnd(self._sentEnd, rowNumKeep)
-            del self._sentEnd
-            self._sentEnd = newEnd
-            del rowNumKeep
+            new_end = self._update_sent_end(self._sent_end, row_num_keep)
+            del self._sent_end
+            self._sent_end = new_end
+            del row_num_keep
 
             print('done!', file=sys.stderr, flush=True)
-            matrix = self._makeSparseArray(rowNum, colNum)
+            matrix = self._make_sparse_array(row_num, col_num)
             print('updating indices...', end='', file=sys.stderr, flush=True)
 
             # Update rowNos
             rows, _ = matrix.nonzero()
-            matrixNew = matrix[np.unique(rows), :]
+            matrix_new = matrix[np.unique(rows), :]
             del matrix
             del rows
 
             # Update featNos
-            _, cols = matrixNew.nonzero()
-            self._matrix = matrixNew[:, np.unique(cols)]
-            del matrixNew
+            _, cols = matrix_new.nonzero()
+            self._matrix = matrix_new[:, np.unique(cols)]
+            del matrix_new
             del cols
 
             print('done!', file=sys.stderr, flush=True)
 
     # Input need featurizing
-    def getEvents(self, data):
+    def get_events(self, data):
         print('featurizing sentences...', end='', file=sys.stderr, flush=True)
-        senCount = 0
-        tokIndex = -1  # Index starts from 0
+        sen_count = 0
+        tok_index = -1  # Index starts from 0
         for sen, _ in sentence_iterator(data):
-            senCount += 1
-            sentenceFeats = featurize_sentence(sen, self._features)
+            sen_count += 1
+            sentence_feats = featurize_sentence(sen, self._features)
             for c, tok in enumerate(sen):
-                tokIndex += 1
-                tokFeats = sentenceFeats[c]
+                tok_index += 1
+                tok_feats = sentence_feats[c]
                 if self._usedFeats:
-                    tokFeats = [feat for feat in tokFeats if feat in self._usedFeats]
-                self._addContext(tokFeats, tok[self._tagField], tokIndex)
-            self._sentEnd.append(tokIndex)
-            if senCount % 1000 == 0:
-                print('{0}...'.format(str(senCount)), end='', file=sys.stderr, flush=True)
+                    tok_feats = [feat for feat in tok_feats if feat in self._usedFeats]
+                self._add_context(tok_feats, tok[self._tagField], tok_index)
+            self._sent_end.append(tok_index)
+            if sen_count % 1000 == 0:
+                print('{0}...'.format(str(sen_count)), end='', file=sys.stderr, flush=True)
 
-        self._tokCount = tokIndex + 1
-        print('{0}...done!'.format(str(senCount)), file=sys.stderr, flush=True)
+        self._tokCount = tok_index + 1
+        print('{0}...done!'.format(str(sen_count)), file=sys.stderr, flush=True)
 
     # Already featurized input
-    def getEventsFromFile(self, data):
-        tokIndex = -1  # Index starts from 0
+    def get_events_from_file(self, data):
+        tok_index = -1  # Index starts from 0
         for line in data:
             line = line.strip()
             if len(line) > 0:
-                tokIndex += 1
-                l = line.split()
-                label, feats = l[0], l[1:]
-                self._addContext(feats, label, tokIndex)
-            self._sentEnd.append(tokIndex)
-        self._tokCount = tokIndex + 1
+                tok_index += 1
+                line = line.split()
+                label, feats = line[0], line[1:]
+                self._add_context(feats, label, tok_index)
+            self._sent_end.append(tok_index)
+        self._tokCount = tok_index + 1
 
-    def _addContext(self, tokFeats, label, curTok):
-        rowsAppend = self._rows.append
-        colsAppend = self._cols.append
-        dataAppend = self._data.append
+    def _add_context(self, tok_feats, label, cur_tok):
+        rows_append = self._rows.append
+        cols_append = self._cols.append
+        data_append = self._data.append
 
         # Features are sorted to ensure identical output no matter where the features are coming from
-        for featNumber in {self._featCounter.get_no_train(feat) for feat in sorted(tokFeats)}:
-            rowsAppend(curTok)
-            colsAppend(featNumber)
-            dataAppend(1)
+        for featNumber in {self._featCounter.get_no_train(feat) for feat in sorted(tok_feats)}:
+            rows_append(cur_tok)
+            cols_append(featNumber)
+            data_append(1)
 
         self._labels.append(self._labelCounter.get_no_train(label))
 
     # Counting zero elements can be really slow...
-    def mostInformativeFeatures(self, outputStream=sys.stdout, n=-1, countZero=False):
+    def most_informative_features(self, output_stream=sys.stdout, n=-1, count_zero=False):
         # Compute min(P(feature=value|label1), for any label1)/max(P(feature=value|label2), for any label2)
         # (using contitional probs using joint probabilities) as in NLTK (Bird et al. 2009):
         # P(feature=value|label) = P(feature=value, label)/P(label)
@@ -246,39 +246,39 @@ class Trainer:
         matrix = self._matrix  # For easiser handling
         self._featCounter.makeno_to_name()
         self._labelCounter.makeno_to_name()
-        featnoToName = self._featCounter.noToName
-        labelnoToName = self._labelCounter.noToName
+        featno_to_name = self._featCounter.no_to_name
+        labelno_to_name = self._labelCounter.no_to_name
         labels = self._labels  # indexed by token rows (row = token number, column = feature number)
-        featValCounts = defaultdict(Counter)  # feat, val -> label: count
+        feat_val_counts = defaultdict(Counter)  # feat, val -> label: count
 
-        if countZero:
+        if count_zero:
             # Every index (including zeros to consider negative correlation)
             for feat in range(matrix.shape[1]):
                 for tok in range(matrix.shape[0]):
-                    featValCounts[feat, matrix[tok, feat]][labels[tok]] += 1
+                    feat_val_counts[feat, matrix[tok, feat]][labels[tok]] += 1
         else:
             matrix = matrix.tocoo()
             # Every nonzero index
             for tok, feat, val in zip(matrix.row, matrix.col, matrix.data):
-                featValCounts[feat, val][labels[tok]] += 1
+                feat_val_counts[feat, val][labels[tok]] += 1
         del matrix
 
         # (C(label2), for any label2)
-        labelCounts = Counter()
+        label_counts = Counter()
         for k, v in zip(*np.unique(self._labels, return_counts=True)):
-            labelCounts[k] = v
+            label_counts[k] = v
 
-        numOfLabels = len(labelCounts)
+        num_of_labels = len(label_counts)
         maxprob = defaultdict(lambda: 0.0)
         minprob = defaultdict(lambda: 1.0)
         features = set()
         # For every (feature, val) touple (that has nonzero count)
-        for feature, counts in featValCounts.items():
+        for feature, counts in feat_val_counts.items():
             # For every label label...
             features.add(feature)
             for label, count in counts.items():
                 # prob can only be 0 if the nominator is 0, but this case is already filtered in the Counter...
-                prob = count/labelCounts[label]
+                prob = count/label_counts[label]
                 maxprob[feature] = max(prob, maxprob[feature])
                 minprob[feature] = min(prob, minprob[feature])
 
@@ -293,44 +293,45 @@ class Trainer:
         |  max[ P(fname=fval|label1) / P(fname=fval|label2) ]
         """
         print('"Feature name"=Value (True/False)', 'Sum of occurences', 'Counts per label', 'Probability per label',
-              'Max prob.:Min prob.=Ratio:1.0', sep='\t', file=outputStream)  # Print header (legend)
+              'Max prob.:Min prob.=Ratio:1.0', sep='\t', file=output_stream)  # Print header (legend)
         # To avoid division by zero...
         for feature in sorted(features, key=lambda feature_: minprob[feature_]/maxprob[feature_])[:n]:
-            sumOccurences = sum(featValCounts[feature].values())
-            if len(featValCounts[feature]) < numOfLabels:
+            sum_occurences = sum(feat_val_counts[feature].values())
+            if len(feat_val_counts[feature]) < num_of_labels:
                 ratio = 'INF'
             else:
                 ratio = maxprob[feature]/minprob[feature]
             # NLTK notation
-            # print('{0:50} = {1:} {2:6} : {3:-6} = {4} : 1.0'.format(featnoToName(feature[0]), feature[1],
+            # print('{0:50} = {1:} {2:6} : {3:-6} = {4} : 1.0'.format(featno_to_name(feature[0]), feature[1],
             #                                                                maxprob[feature],
             #                                                                minprob[feature], ratio))
             # More detailed notation
             print('"{0:50s}"={1}\t{2}\t{3}\t{4}\t{5:6}:{6:-6}={7}:1.0'.format(
-                featnoToName[feature[0]],
+                featno_to_name[feature[0]],
                 bool(feature[1]),
-                sumOccurences,
-                '/'.join(('{0}:{1}'.format(labelnoToName[l], c)
-                          for l, c in featValCounts[feature].items())),
-                '/'.join(('{0}:{1:.8f}'.format(labelnoToName[l], c/labelCounts[l])
-                          for l, c in featValCounts[feature].items())),
-                maxprob[feature], minprob[feature], ratio), file=outputStream)
+                sum_occurences,
+                '/'.join(('{0}:{1}'.format(labelno_to_name[l], c)
+                          for l, c in feat_val_counts[feature].items())),
+                '/'.join(('{0}:{1:.8f}'.format(labelno_to_name[l], c/label_counts[l])
+                          for l, c in feat_val_counts[feature].items())),
+                maxprob[feature], minprob[feature], ratio), file=output_stream)
 
-    def toCRFsuite(self, outputStream=sys.stdout):
+    def to_crfsuite(self, output_stream=sys.stdout):
         self._featCounter.makeno_to_name()
         self._labelCounter.makeno_to_name()
-        featnoToName = self._featCounter.noToName
-        labelnoToName = self._labelCounter.noToName
-        sentEnd = self._sentEnd
+        featno_to_name = self._featCounter.no_to_name
+        labelno_to_name = self._labelCounter.no_to_name
+        sent_end = self._sent_end
         matrix = self._matrix.tocsr()
         labels = self._labels
         beg = 0
-        for end in sentEnd:
+        for end in sent_end:
             for row in range(beg, end + 1):
-                print('{0}\t{1}'.format(labelnoToName[labels[row]], '\t'.join(featnoToName[col].replace(':', 'colon')
-                                                                              for col in matrix[row, :].nonzero()[1])),
-                      file=outputStream)
-            print(file=outputStream)  # Sentence separator blank line
+                print('{0}\t{1}'.format(labelno_to_name[labels[row]],
+                                        '\t'.join(featno_to_name[col].replace(':', 'colon')
+                                                  for col in matrix[row, :].nonzero()[1])),
+                      file=output_stream)
+            print(file=output_stream)  # Sentence separator blank line
             beg = end + 1
 
     def train(self):

@@ -131,7 +131,7 @@ Non-mandatory options:
 ## most-informative-features
 Generates a feature ranking by counting label probabilities (for each label) and frequency per feature (correlations with labels) and sort them in decreasing order of confidence and frequency. This output is usefull for inspecting features quality.
 
-    cat TRAINING_DATA | python3 huntag.py most-informative-features OPTIONS > modelName.mostInformativeFeatures
+    cat TRAINING_DATA | python3 huntag.py most-informative-features OPTIONS > modelName.most_informative_features
 or
 	huntag3.py most-informative-features -i TRAINING_DATA  OPTIONS
 
@@ -166,7 +166,7 @@ Non-mandatory options:
 - -o OUTPUT, --output=OUTPUT
 	- output is written to OUTPUT file instead of STDOUT
 
-## --toCRFsuite
+## --to-crfsuite
 This option generates suitable input for CRFsuite from training and tagging data. Model name is required as the features and labels are translated to numbers and back. CRFsuite use its own bigram model.
 
 # Usage examples
@@ -182,17 +182,17 @@ This option generates suitable input for CRFsuite from training and tagging data
 
 ## CRFsuite usage
 
-    # train toCRFsuite
-    cat input.txt | python3 huntag.py train --toCRFsuite --model=modelName --config-file=configs/hunchunk.krPatt.yaml > modelName.CRFsuite.train
-    # tag toCRFsuite
-    cat input.txt | python3 huntag.py tag --toCRFsuite --model=modelName --config-file=configs/hunchunk.krPatt.yaml > modelName.CRFsuite.tag
+    # train to-crfsuite
+    cat input.txt | python3 huntag.py train --to-crfsuite --model=modelName --config-file=configs/hunchunk.krPatt.yaml > modelName.CRFsuite.train
+    # tag to-crfsuite
+    cat input.txt | python3 huntag.py tag --to-crfsuite --model=modelName --config-file=configs/hunchunk.krPatt.yaml > modelName.CRFsuite.tag
 
 ## Debug features
 
     # train
     cat input.txt | python3 huntag.py train --model=modelName --config-file=configs/hunchunk.krPatt.yaml
     # most-informative-features
-    cat input.txt | python3 huntag.py most-informative-features --model=modelName --config-file=configs/hunchunk.krPatt.yaml > modelName.mostInformativeFeatures
+    cat input.txt | python3 huntag.py most-informative-features --model=modelName --config-file=configs/hunchunk.krPatt.yaml > modelName.most_informative_features
     # tag FeatureWeights
     cat input.txt | python3 huntag.py tag --printWeights 100 --model=modelName --config-file=configs/hunchunk.krPatt.yaml > modelNam.modelWeights
 

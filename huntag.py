@@ -28,26 +28,26 @@ def mainTrain(featureSet, options):
 
     if 'inFeatFile' in options and options['inFeatFile']:
         # Use with featurized input
-        trainer.getEventsFromFile(options['inFeatFile'])
+        trainer.get_events_from_file(options['inFeatFile'])
     else:  # Use with raw input
-        trainer.getEvents(options['inputStream'])
+        trainer.get_events(options['inputStream'])
 
     if options['task'] == 'most-informative-features':
-        trainer.cutoffFeats()
-        trainer.mostInformativeFeatures(options['outputStream'])
-    elif 'toCRFsuite' in options and options['toCRFsuite']:
-        trainer.cutoffFeats()
-        trainer.toCRFsuite(options['outputStream'])
+        trainer.cutoff_feats()
+        trainer.most_informative_features(options['outputStream'])
+    elif 'to_crfsuite' in options and options['to_crfsuite']:
+        trainer.cutoff_feats()
+        trainer.to_crfsuite(options['outputStream'])
         trainer.save()
     else:
-        trainer.cutoffFeats()
+        trainer.cutoff_feats()
         trainer.train()
         trainer.save()
 
 
 def mainTag(featureSet, options):
     transModel = None
-    if not (options['printWeights'] or options['toCRFsuite']):
+    if not (options['printWeights'] or options['to_crfsuite']):
         print('loading transition model...', end='', file=sys.stderr, flush=True)
         transModel = TransModel.getModelFromFile(options['transModelFileName'])
         print('done', file=sys.stderr, flush=True)
@@ -61,7 +61,7 @@ def mainTag(featureSet, options):
         # Tag all files in a directory file to to fileName.tagged
         for sen, fileName in tagger.tagDir(options['ioDirs'][0]):
             writeSentence(sen, open(join(options['ioDirs'][1], '{0}.tagged'.format(fileName)), 'a', encoding='UTF-8'))
-    elif 'toCRFsuite' in options and options['toCRFsuite']:
+    elif 'to_crfsuite' in options and options['to_crfsuite']:
         # Make CRFsuite format to outputStream for tagging
         tagger.toCRFsuite(options['inputStream'], options['outputStream'])
     elif 'printWeights' in options and options['printWeights']:
@@ -219,20 +219,20 @@ def parseArgs():
                         metavar='DIR')
 
     groupI.add_argument('-f', '--input-feature-file', dest='inFeatFileName', type=validFile,
-                        help='use training events in FILE (already featurized input, see --toCRFsuite)',
+                        help='use training events in FILE (already featurized input, see --to-crfsuite)',
                         metavar='FILE')
 
     groupO = parser.add_mutually_exclusive_group()
 
     groupO.add_argument('-F', '--feature-file', dest='outFeatFileName',
-                        help='write training events to FILE (deprecated, use --toCRFsuite instead)',
+                        help='write training events to FILE (deprecated, use --to-crfsuite instead)',
                         metavar='FILE')
 
     groupO.add_argument('-o', '--output', dest='outputFileName',
                         help='Use output file instead of STDOUT',
                         metavar='FILE')
 
-    groupO.add_argument('--toCRFsuite', dest='toCRFsuite', action='store_true', default=False,
+    groupO.add_argument('--to-crfsuite', dest='to_crfsuite', action='store_true', default=False,
                         help='convert input to CRFsuite format to STDOUT')
 
     groupO.add_argument('--printWeights', dest='printWeights', type=int,
@@ -244,7 +244,7 @@ def parseArgs():
 def main():
     options = parseArgs()
     if options.outFeatFileName:
-        print('Error: Argument --feature-file is deprecated! Use --toCRFsuite instead!',
+        print('Error: Argument --feature-file is deprecated! Use --to-crfsuite instead!',
               file=sys.stderr, flush=True)
         sys.exit(1)
 
