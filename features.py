@@ -10,7 +10,7 @@ import re
 import sys
 
 # GLOBAL DECLARATION BEGIN
-# see: token_longPattern, token_shortPattern, sentence_lemmaLowered, possConnect, token_mmoSimple
+# see: token_longPattern, token_shortPattern, sentence_lemmaLowered, poss_connect, token_mmoSimple
 smallcase = 'aábcdeéfghiíjklmnoóöőpqrstuúüűvwxyz'
 bigcase = 'AÁBCDEÉFGHIÍJKLMNOÓÖŐPQRSTUÚÜŰVWXYZ'
 big2small = {}
@@ -28,17 +28,17 @@ MMOpatt = re.compile('[\[,\]]')
 
 
 # HELPER FUNCTIONS BEGIN
-def tags_since_pos(sen, tokRange, myPos, strict=True):
-    """Gather all tags since POS myPos in the sentence (not used directly as a feature)
+def tags_since_pos(sen, tok_range, my_pos, strict=True):
+    """Gather all tags since POS my_pos in the sentence (not used directly as a feature)
 
     Args:
        sen (list): List of tokens in the sentence
-       tokRange (int): range of tokens from the start of the sentence
-       myPos (str): POS tag to search for
+       tok_range (int): range of tokens from the start of the sentence
+       my_pos (str): POS tag to search for
        strict(bool): full matching or not...
 
     Returns:
-       [tags joined by '+']: all tags since myPos POS tag
+       [tags joined by '+']: all tags since my_pos POS tag
 
     HunTag:
         Type: Sentence
@@ -50,72 +50,72 @@ def tags_since_pos(sen, tokRange, myPos, strict=True):
         since_dt: abstraction
     """
     tags = []
-    for pos in sen[:tokRange]:
-        if (strict and myPos == pos) or (not strict and re.search(myPos, pos)):
+    for pos in sen[:tok_range]:
+        if (strict and my_pos == pos) or (not strict and re.search(my_pos, pos)):
             tags = [pos]
         else:
             tags.append(pos)
     return ['+'.join(tags)]
 
 
-def sincePos(krVec, c, featVecElem, tag, featPrefix):
+def since_pos(kr_vec, c, feat_vec_elem, tag, feat_prefix):
     """Parameter XXX
 
     Args:
-       krVec (list): List of tokens in the sentence
+       kr_vec (list): List of tokens in the sentence
        c (int): Range of tokens from the start of the sentence
-       featVecElem (list): Current feature Vector element (to be updated)
+       feat_vec_elem (list): Current feature Vector element (to be updated)
        tag(str): full matching or not...
-       featPrefix(str): prefix to set
+       feat_prefix(str): prefix to set
 
     Returns (updates featVecELem):
        [tags joined by '+']: all tags since myPos POS tag
     """
-    tagst = tags_since_pos(krVec, c, tag)[0]
+    tagst = tags_since_pos(kr_vec, c, tag)[0]
     if len(tagst) > 0:
-        featVecElem.append(featPrefix + tagst)
+        feat_vec_elem.append(feat_prefix + tagst)
 
 
-def doNothing(*_):
+def do_nothing(*_):
     pass
 
 
-def casDiff(krVec, c, featVecElem, casRE, featName):
-    """Test if subsequent nouns is in di'casDiff'fferent grammatical case...
+def cas_diff(kr_vec, c, feat_vec_elem, cas_re, feat_name):
+    """Test if subsequent nouns is in di'cas_diff'fferent grammatical case...
 
     Args:
-       krVec (list): List of tokens in the sentence
+       kr_vec (list): List of tokens in the sentence
        c (int): Range of tokens from the start of the sentence
-       featVecElem (list): Current feature Vector element (to be updated)
-       casRE(re.pattern): pattern to match
-       featName(str): Name of the feature to be set
+       feat_vec_elem (list): Current feature Vector element (to be updated)
+       cas_re(re.pattern): pattern to match
+       feat_name(str): Name of the feature to be set
 
     Returns (updates featVecELem):
-       ['casDiff']: if case is different...
+       ['cas_diff']: if case is different...
     """
-    lastF = '' if c == 0 else krVec[c - 1]
-    if casRE.search(lastF) and casRE.search(krVec[c]) and lastF != krVec[c]:
-        featVecElem.append(featName)
+    last_f = '' if c == 0 else kr_vec[c - 1]
+    if cas_re.search(last_f) and cas_re.search(kr_vec[c]) and last_f != kr_vec[c]:
+        feat_vec_elem.append(feat_name)
 
 
-def possConnect(krVec, c, featVecElem, possessor, obj, featPrefix):
+def poss_connect(kr_vec, c, feat_vec_elem, possessor, obj, feat_prefix):
     """Connect possessor with posessed object
 
     Args:
-       krVec (list): List of tokens in the sentence
+       kr_vec (list): List of tokens in the sentence
        c (int): Range of tokens from the start of the sentence
-       featVecElem (list): Current feature Vector element (to be updated)
+       feat_vec_elem (list): Current feature Vector element (to be updated)
        possessor(re.pattern): Pattern of possessor
        obj(str): Possessed object string to be compiled into pattern
-       featPrefix(str): prefix to set
+       feat_prefix(str): prefix to set
 
     Returns (updates featVecELem):
        [tags joined by '+']: all tags since obj POS tag
     """
-    if possessor.search(krVec[c]):
-        tagst = tags_since_pos(krVec, c, obj, False)[0]
+    if possessor.search(kr_vec[c]):
+        tagst = tags_since_pos(kr_vec, c, obj, False)[0]
         if len(tagst) > 0:
-            featVecElem.append(featPrefix + tagst)
+            feat_vec_elem.append(feat_prefix + tagst)
 # HELPER FUNCTIONS END
 
 
@@ -633,28 +633,28 @@ def sentence_lemmaLowered(sen, fields, _=None):
         Use case: NER
     """
     assert len(fields) == 2
-    featVec = []
+    feat_vec = []
     for token, lemma in zip((tok[fields[0]] for tok in sen), (tok[fields[1]] for tok in sen)):
         if token[0] not in bigcase and big2small[lemma[0]] == token[0]:  # token lower and lemma upper
-            featVec.append(['raised'])
+            feat_vec.append(['raised'])
 
         elif token[0] in bigcase and token[0] == lemma[0]:  # token upper and lemma upper
-            featVec.append([0])
+            feat_vec.append([0])
 
         elif token[0] in bigcase and big2small[token[0]] == lemma[0]:  # token upper and lemma lower
-            featVec.append([1])
+            feat_vec.append([1])
 
-        featVec.append(['N/A'])  # token lower and lemma lower
+        feat_vec.append(['N/A'])  # token lower and lemma lower
 
-    return featVec
+    return feat_vec
 
 
 # XXX Return is not bool
-def token_krPieces(krAnal, _=None):
+def token_krPieces(kr_anal, _=None):
     """Split KR code analysis to pieces
 
     Args:
-       krAnal (str): KR code analysis
+       kr_anal (str): KR code analysis
        _: Unused
 
     Returns:
@@ -672,7 +672,7 @@ def token_krPieces(krAnal, _=None):
                kr features should be like!
                see: https://github.com/recski/HunTag/issues/4
     """
-    pieces = re.split(r'\W+', krAnal.split('/')[-1])
+    pieces = re.split(r'\W+', kr_anal.split('/')[-1])
     pos = pieces[0]
     feats = []
     last = ''
@@ -713,11 +713,11 @@ def token_univPieces(univAnal, _=None):
 
 
 # XXX Return is not bool
-def token_hfstPieces(hfstAnal, _=None):
+def token_hfstPieces(hfst_anal, _=None):
     """Split the morphological codes of the HFST-based eM-morph morphological analyser to pieces
 
     Args:
-       hfstAnal (str): eM-morph morphological codes
+       hfst_anal (str): eM-morph morphological codes
        _: Unused
 
     Returns:
@@ -730,15 +730,15 @@ def token_hfstPieces(hfstAnal, _=None):
         Use case: Chunk
 
     """
-    pieces = hfstAnal.split('[')
+    pieces = hfst_anal.split('[')
     return [piece.strip('[]') for piece in pieces if piece]
 
 # XXX Return is not bool
-def token_fullKrPieces(krAnal, _=None):
+def token_fullKrPieces(kr_anal, _=None):
     """Split KR code analysis to pieces from full analysis (with lemma)
 
     Args:
-       krAnal (str): KR code analysis
+       kr_anal (str): KR code analysis
        _: Unused
 
     Returns:
@@ -750,7 +750,7 @@ def token_fullKrPieces(krAnal, _=None):
         Example: ???
         Use case: NER, Chunk
     """
-    return token_krPieces('/'.join(krAnal.split('/')[1:]))
+    return token_krPieces('/'.join(kr_anal.split('/')[1:]))
 
 
 def sentence_isBetweenSameCases(sen, fields, options=None):
@@ -777,63 +777,63 @@ def sentence_isBetweenSameCases(sen, fields, options=None):
             length must be one not {0}'.format(len(fields)), file=sys.stderr, flush=True)
         sys.exit(1)
     maxDist = int(options['maxDist'])
-    nounCases = [[] for _ in sen]
-    featVec = [[] for _ in sen]
-    krVec = [token[fields[0]] for token in sen]
+    noun_cases = [[] for _ in sen]
+    feat_vec = [[] for _ in sen]
+    kr_vec = [token[fields[0]] for token in sen]
 
-    for c, kr in enumerate(krVec):
+    for c, kr in enumerate(kr_vec):
         if 'CAS' in kr:
             cases = re.findall(r'CAS<...>', kr)
             if not cases:
-                nounCases[c] = ['NO_CASE']
+                noun_cases[c] = ['NO_CASE']
             else:
                 case = cases[0][-4:-1]
-                nounCases[c] = [case]
+                noun_cases[c] = [case]
         elif 'Case=' in kr:
             cases = re.findall(r'Case=[A-Z][a-z][a-z]', kr)
             if not cases:
-                nounCases[c] = ['NO_CASE']
+                noun_cases[c] = ['NO_CASE']
             else:
                 case = cases[0][-4:-1]
-                nounCases[c] = [case]
+                noun_cases[c] = [case]
 
-    leftCase = {}
-    rightCase = {}
-    currCase = None
-    casePos = None
+    left_case = {}
+    right_case = {}
+    curr_case = None
+    case_pos = None
     for j, _ in enumerate(sen):
-        if not nounCases[j]:
-            leftCase[j] = (currCase, casePos)
+        if not noun_cases[j]:
+            left_case[j] = (curr_case, case_pos)
         else:
-            currCase = nounCases[j]
-            casePos = j
-            leftCase[j] = (None, None)
+            curr_case = noun_cases[j]
+            case_pos = j
+            left_case[j] = (None, None)
 
-    currCase = None
-    casePos = None
+    curr_case = None
+    case_pos = None
     for j in range(len(sen) - 1, -1, -1):
-        if not nounCases[j]:
-            rightCase[j] = (currCase, casePos)
+        if not noun_cases[j]:
+            right_case[j] = (curr_case, case_pos)
         else:
-            currCase = nounCases[j]
-            casePos = j
-            rightCase[j] = (None, None)
+            curr_case = noun_cases[j]
+            case_pos = j
+            right_case[j] = (None, None)
 
     for j, _ in enumerate(sen):
-        featVec[j] = [0]
-        if (rightCase[j][0] == leftCase[j][0] and rightCase[j][0] is not None and
-                abs(rightCase[j][1] - leftCase[j][1]) <= maxDist):
-            featVec[j] = [1]
+        feat_vec[j] = [0]
+        if (right_case[j][0] == left_case[j][0] and right_case[j][0] is not None and
+                abs(right_case[j][1] - left_case[j][1]) <= maxDist):
+            feat_vec[j] = [1]
 
-    return featVec
+    return feat_vec
 
 
 # XXX Return is not bool
-def token_getPosTag(krAnal, _=None):
+def token_getPosTag(kr_anal, _=None):
     """Return KR code POS tag
 
     Args:
-       krAnal (str): KR code analysis
+       kr_anal (str): KR code analysis
        _: Unused
 
     Returns:
@@ -845,7 +845,7 @@ def token_getPosTag(krAnal, _=None):
         Example: ???
         Use case: NER, Chunk
     """
-    return [re.split(r'\W+', krAnal.split('/')[-1])[0]]
+    return [re.split(r'\W+', kr_anal.split('/')[-1])[0]]
 
 
 # XXX Return is not bool
@@ -882,66 +882,66 @@ def sentence_krPatts(sen, fields, options):
     rad = int(options['rad'])
     assert len(fields) == 1
     f = fields[0]
-    featVec = [[] for _ in sen]
-    krVec = [tok[f] for tok in sen]
+    feat_vec = [[] for _ in sen]
+    kr_vec = [tok[f] for tok in sen]
 
     if options['lang'] == 'hu':
         if not options['fullKr'] and not options['MSD']:
-            krVec = [token_getPosTag(kr)[0] for kr in krVec]
+            kr_vec = [token_getPosTag(kr)[0] for kr in kr_vec]
         elif options['MSD']:
-            krVec = [tok[f] for tok in sen]
+            kr_vec = [tok[f] for tok in sen]
     else:
-        krVec = [tok[f][0] for tok in sen]
+        kr_vec = [tok[f][0] for tok in sen]
 
-    applyCasDiffFun = doNothing
-    applyPossConnectFun = doNothing
+    apply_cas_diff_fun = do_nothing
+    apply_poss_connect_fun = do_nothing
 
     if options['lang'] == 'hu':
         if options['MSD']:
-            tag_dt, featPrefix_dt = '[Tf]', 'dt_'  # "(since) last detrminant" MSD
-            casRE, featName = casREMSD, 'casDiff'  # casDiff
-            possRE, obj, featPrefix_poss = possessorMSD, objMSD, 'possession_'
+            tag_dt, feat_prefix_dt = '[Tf]', 'dt_'  # "(since) last detrminant" MSD
+            cas_re, feat_name = casREMSD, 'cas_diff'  # cas_diff
+            poss_re, obj, feat_prefix_poss = possessorMSD, objMSD, 'possession_'
         else:
-            tag_dt, featPrefix_dt = 'DT', 'dt_'    # "(since) last detrminant" KR
-            casRE, featName = casREKR, 'casDiff'   # casDiff
-            possRE, obj, featPrefix_poss = possessorKR, objKR, 'possession_'
+            tag_dt, feat_prefix_dt = 'DT', 'dt_'    # "(since) last detrminant" KR
+            cas_re, feat_name = casREKR, 'cas_diff'   # cas_diff
+            poss_re, obj, feat_prefix_poss = possessorKR, objKR, 'possession_'
         if options['CASDiff'] == 1:
-            applyCasDiffFun = casDiff
+            apply_cas_diff_fun = cas_diff
         if options['POSSConnect'] == 1:
-            applyPossConnectFun = possConnect
+            apply_poss_connect_fun = poss_connect
     else:
-        tag_dt, featPrefix_dt = 'DT', 'dt_'  # "(since) last detrminant" CoNLL (possConnect and CasDiff not used)
-        casRE, featName = None, None
-        possRE, obj, featPrefix_poss = None, None, None
+        tag_dt, feat_prefix_dt = 'DT', 'dt_'  # "(since) last detrminant" CoNLL (poss_connect and CasDiff not used)
+        cas_re, feat_name = None, None
+        poss_re, obj, feat_prefix_poss = None, None, None
 
     if options['since_dt'] == 1:
-        applySincePosFun = sincePos
+        apply_since_pos_fun = since_pos
     else:
-        applySincePosFun = doNothing
+        apply_since_pos_fun = do_nothing
 
-    assert len(krVec) == len(sen)
-    krVecLen = len(krVec)
+    assert len(kr_vec) == len(sen)
+    kr_vec_len = len(kr_vec)
     # For every token in sentence
-    for c in range(krVecLen):
-        applySincePosFun(krVec, c, featVec[c], tag_dt, featPrefix_dt)
-        applyCasDiffFun(krVec, c, featVec[c], casRE, featName)
-        applyPossConnectFun(krVec, c, featVec[c], possRE, obj, featPrefix_poss)
+    for c in range(kr_vec_len):
+        apply_since_pos_fun(kr_vec, c, feat_vec[c], tag_dt, feat_prefix_dt)
+        apply_cas_diff_fun(kr_vec, c, feat_vec[c], cas_re, feat_name)
+        apply_poss_connect_fun(kr_vec, c, feat_vec[c], poss_re, obj, feat_prefix_poss)
         # Begining in -rad and rad but starts in the list boundaries (lower)
         for k in range(max(-rad, -c), rad):
             # Ending in -rad + 1 and rad + 2  but starts in the list boundaries (upper)
             # and keep minimal and maximal length
-            for j in range(max(-rad + 1, minLength + k), min(rad + 2, maxLength + k + 1, krVecLen - c + 1)):
-                value = '+'.join(krVec[c + k:c + j])
+            for j in range(max(-rad + 1, minLength + k), min(rad + 2, maxLength + k + 1, kr_vec_len - c + 1)):
+                value = '+'.join(kr_vec[c + k:c + j])
                 feat = '{0}_{1}_{2}'.format(k, j, value)
-                featVec[c].append(feat)
-    return featVec
+                feat_vec[c].append(feat)
+    return feat_vec
 
 
-def token_krPlural(krAnal, _=None):
+def token_krPlural(kr_anal, _=None):
     """Detect plural form in KR code
 
     Args:
-       krAnal (str): KR code analysis
+       kr_anal (str): KR code analysis
        _: Unused
 
     Returns:
@@ -953,14 +953,14 @@ def token_krPlural(krAnal, _=None):
         Example: ???
         Use case: NER, Chunk
     """
-    return [int('NOUN<PLUR' in krAnal)]
+    return [int('NOUN<PLUR' in kr_anal)]
 
 
-def token_univPlural(univAnal, _=None):
+def token_univPlural(univ_anal, _=None):
     """Detect plural form in univmorf feature-value pairs
 
     Args:
-       univAnal (str): univmorf code analysis
+       univ_anal (str): univmorf code analysis
        _: Unused
 
     Returns:
@@ -972,15 +972,15 @@ def token_univPlural(univAnal, _=None):
         Example: 'teendők' Case=Nom|Number=Plur --> univPlural = 1
         Use case: NER, Chunk
     """
-    return [int('Number=Plural' in univAnal)]
+    return [int('Number=Plural' in univ_anal)]
 
 
 # XXX Return is not bool
-def token_hfstPlural(hfstAnal, _=None):
+def token_hfstPlural(hfst_anal, _=None):
     """Detect plural form in the new formalism of HFST-based Hungarian morphological analyser (aka eM-morph)
 
     Args:
-       hfstAnal (str): hfstmorf code analysis
+       hfst_anal (str): hfstmorf code analysis
        _: Unused
 
     Returns:
@@ -992,15 +992,15 @@ def token_hfstPlural(hfstAnal, _=None):
         Example: 'teendők' [Pl][Nom] --> hfstPlural = 1
         Use case: NER
     """
-    return [int('[Pl]' in hfstAnal)]
+    return [int('[Pl]' in hfst_anal)]
 
 
 # XXX Return is not bool
-def token_getNpPart(chunkTag, _=None):
+def token_getNpPart(chunk_tag, _=None):
     """Checks if the token is part of NP
 
     Args:
-       chunkTag (Str): NP chunking tag
+       chunk_tag (Str): NP chunking tag
        _: Unused
 
     Returns:
@@ -1012,10 +1012,10 @@ def token_getNpPart(chunkTag, _=None):
         Example: ???
         Use case: NER, Chunk
     """
-    if chunkTag == 'O' or chunkTag[2:] != 'NP':
+    if chunk_tag == 'O' or chunk_tag[2:] != 'NP':
         return ['O']
     else:
-        return [chunkTag[0]]
+        return [chunk_tag[0]]
 
 
 def token_capPeriodOperator(form, _=None):
@@ -1244,9 +1244,9 @@ def sentence_newSentenceStart(sen, *_):
         Example: ???
         Use case: NER, Chunk
     """
-    featVec = [[0] for _ in sen]
-    featVec[0][0] = 1
-    return featVec
+    feat_vec = [[0] for _ in sen]
+    feat_vec[0][0] = 1
+    return feat_vec
 
 
 def sentence_newSentenceEnd(sen, *_):
@@ -1265,9 +1265,9 @@ def sentence_newSentenceEnd(sen, *_):
         Example: ???
         Use case: NER, Chunk
     """
-    featVec = [[0] for _ in sen]
-    featVec[-1][0] = 1
-    return featVec
+    feat_vec = [[0] for _ in sen]
+    feat_vec[-1][0] = 1
+    return feat_vec
 
 
 def token_unknown(anal, _=None):
@@ -1313,11 +1313,11 @@ def token_getKrLemma(krLemma, _=None):
 
 
 # XXX Return is not bool
-def token_getKrPos(krAnal, _=None):
+def token_getKrPos(kr_anal, _=None):
     """Get KR code POS tag
 
     Args:
-       krAnal (str): The token
+       kr_anal (str): The token
        _: Unused
 
     Returns:
@@ -1329,17 +1329,17 @@ def token_getKrPos(krAnal, _=None):
         Example: ???
         Use case: NER, but not in SzegedNER
     """
-    if '<' in krAnal:
-        return [krAnal.split('<')[0]]
-    return [krAnal]
+    if '<' in kr_anal:
+        return [kr_anal.split('<')[0]]
+    return [kr_anal]
 
 
 # XXX Return is not bool
-def token_getPennTags(pennTag, _=None):
+def token_getPennTags(penn_tag, _=None):
     """Reduces Penn tagset's similar tags
 
     Args:
-       pennTag (str): Penn Tag
+       penn_tag (str): Penn Tag
        _: Unused
 
     Returns:
@@ -1351,23 +1351,23 @@ def token_getPennTags(pennTag, _=None):
         Example: ???
         Use case: NER
     """
-    if re.match('^N', pennTag) or re.match('^PRP', pennTag):
+    if re.match('^N', penn_tag) or re.match('^PRP', penn_tag):
         return ['noun']
-    elif pennTag == 'IN' or pennTag == 'TO' or pennTag == 'RP':
+    elif penn_tag == 'IN' or penn_tag == 'TO' or penn_tag == 'RP':
         return ['prep']
-    elif re.match('DT$', pennTag):
+    elif re.match('DT$', penn_tag):
         return ['det']
-    elif re.match('^VB', pennTag) or pennTag == 'MD':
+    elif re.match('^VB', penn_tag) or penn_tag == 'MD':
         return ['verb']
     else:
         return ['0']
 
 
-def token_humorPlural(humorTag, _=None):
+def token_humorPlural(humor_tag, _=None):
     """Check if Humor code plural
 
     Args:
-       humorTag (str): Humor analysis
+       humor_tag (str): Humor analysis
        _: Unused
 
     Returns:
@@ -1379,15 +1379,15 @@ def token_humorPlural(humorTag, _=None):
         Example: ???
         Use case: NER
     """
-    return [int('PL' in humorTag)]
+    return [int('PL' in humor_tag)]
 
 
 # XXX Return is not bool
-def token_getKrEnd(krAnal, _=None):
+def token_getKrEnd(kr_anal, _=None):
     """Return KR code end
 
     Args:
-       krAnal (str): The token
+       kr_anal (str): The token
        _: Unused
 
     Returns:
@@ -1400,18 +1400,18 @@ def token_getKrEnd(krAnal, _=None):
         Use case: NER, but not in SzegedNER
     """
     end = '0'
-    if '<' in krAnal:
-        pieces = krAnal.split('<', 1)
+    if '<' in kr_anal:
+        pieces = kr_anal.split('<', 1)
         end = pieces[1]
 
     return [end]
 
 
-def token_pennPlural(pennTag, _=None):
+def token_pennPlural(penn_tag, _=None):
     """Check if Penn code plural
 
     Args:
-       pennTag (str): Penn tag
+       penn_tag (str): Penn tag
        _: Unused
 
     Returns:
@@ -1426,18 +1426,18 @@ def token_pennPlural(pennTag, _=None):
     Replaces:
         token_plural: is same
     """
-    return [int(pennTag == 'NNS' or pennTag == 'NNPS')]
+    return [int(penn_tag == 'NNS' or penn_tag == 'NNPS')]
 
 
 # XXX Return is not bool
-def token_humorPieces(humorTag, _=None):
+def token_humorPieces(humor_tag, _=None):
     """Return Humor tag pieces
     For Humor code:
     'FN/N|PROP|FIRST/ffinev;veznev' => ['FN', 'N|PROP|FIRST', 'ffinev;veznev']
     'FN+PSe3+DEL' => ['FN', 'PSe3', 'DEL']
 
     Args:
-       humorTag (str): Humor tag
+       humor_tag (str): Humor tag
        _: Unused
 
     Returns:
@@ -1449,15 +1449,15 @@ def token_humorPieces(humorTag, _=None):
         Example: ???
         Use case: Chunk, NER
     """
-    return [item for part in humorTag.split('/') for item in part.split('+')]
+    return [item for part in humor_tag.split('/') for item in part.split('+')]
 
 
 # XXX Return is not bool
-def token_humorSimple(humorTag, _=None):
+def token_humorSimple(humor_tag, _=None):
     """Humor test: return self
 
     Args:
-       humorTag (str): Humor tag
+       humor_tag (str): Humor tag
        _: Unused
 
     Returns:
@@ -1469,15 +1469,15 @@ def token_humorSimple(humorTag, _=None):
         Example: ???
         Use case: Chunk, NER
     """
-    return [humorTag]
+    return [humor_tag]
 
 
 # XXX Return is not bool
-def token_wordNetSimple(wordNetTags, _=None):
+def token_wordNetSimple(word_net_tags, _=None):
     """Wordnet synsets as tags
 
     Args:
-       wordNetTags (str): wordNet synsets as tags
+       word_net_tags (str): wordNet synsets as tags
        _: Unused
 
     Returns:
@@ -1489,17 +1489,17 @@ def token_wordNetSimple(wordNetTags, _=None):
         Example: animate.n.1/human.n.1 -> ['animate.n.1', 'human.n.1'], '' -> []
         Use case: Chunk, NER
     """
-    if len(wordNetTags) == 0:
+    if len(word_net_tags) == 0:
         return []
-    return wordNetTags.split('/')
+    return word_net_tags.split('/')
 
 
 # XXX Return is not bool
-def token_mmoSimple(mmoTags, _=None):
+def token_mmoSimple(mmo_tags, _=None):
     """MMO properties
 
     Args:
-       mmoTags (str): wordNet synsets as tags
+       mmo_tags (str): wordNet synsets as tags
        _: Unused
 
     Returns:
@@ -1513,6 +1513,6 @@ def token_mmoSimple(mmoTags, _=None):
             out: ['NX', 'abstract=YES', 'animate=NIL', 'auth=YES', 'company=NIL', 'encnt=YES', 'human=NIL']
         Use case: Chunk, NER
     """
-    if mmoTags == '-':
+    if mmo_tags == '-':
         return []
-    return [x for x in MMOpatt.split(mmoTags) if x]
+    return [x for x in MMOpatt.split(mmo_tags) if x]
