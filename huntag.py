@@ -14,17 +14,17 @@ from tagger import Tagger
 from transmodel import TransModel
 
 
-def mainTransModelTrain(options):
-    transModel = TransModel(options['tagField'], lmw=options['lmw'], order=options['transModelOrder'])
+def main_trans_model_train(options):
+    trans_model = TransModel(options['tagField'], lmw=options['lmw'], order=options['transModelOrder'])
     # It's possible to train multiple times incrementally...
-    transModel.train(options['inputStream'])
+    trans_model.train(options['inputStream'])
     # Close training, compute probabilities
-    transModel.count()
-    transModel.write_to_file(options['transModelFileName'])
+    trans_model.count()
+    trans_model.write_to_file(options['transModelFileName'])
 
 
-def mainTrain(featureSet, options):
-    trainer = Trainer(featureSet, options)
+def main_train(feature_set, options):
+    trainer = Trainer(feature_set, options)
 
     if 'inFeatFile' in options and options['inFeatFile']:
         # Use with featurized input
@@ -45,22 +45,22 @@ def mainTrain(featureSet, options):
         trainer.save()
 
 
-def mainTag(featureSet, options):
-    transModel = None
+def main_tag(feature_set, options):
+    trans_model = None
     if not (options['print_weights'] or options['to_crfsuite']):
         print('loading transition model...', end='', file=sys.stderr, flush=True)
-        transModel = TransModel.get_model_from_file(options['transModelFileName'])
+        trans_model = TransModel.get_model_from_file(options['transModelFileName'])
         print('done', file=sys.stderr, flush=True)
 
-    tagger = Tagger(featureSet, transModel, options)
+    tagger = Tagger(feature_set, trans_model, options)
     if 'inFeatFile' in options and options['inFeatFile']:
         # Tag a featurized file to to outputStream
         for sen, comment in tagger.tag_features(options['inFeatFile']):
-            writeSentence(sen, options['outputStream'], comment)
+            write_sentence(sen, options['outputStream'], comment)
     elif 'ioDirs' in options and options['ioDirs']:
         # Tag all files in a directory file to to fileName.tagged
         for sen, fileName in tagger.tag_dir(options['ioDirs'][0]):
-            writeSentence(sen, open(join(options['ioDirs'][1], '{0}.tagged'.format(fileName)), 'a', encoding='UTF-8'))
+            write_sentence(sen, open(join(options['ioDirs'][1], '{0}.tagged'.format(fileName)), 'a', encoding='UTF-8'))
     elif 'to_crfsuite' in options and options['to_crfsuite']:
         # Make CRFsuite format to outputStream for tagging
         tagger.to_crfsuite(options['inputStream'], options['outputStream'])
@@ -70,10 +70,10 @@ def mainTag(featureSet, options):
     else:
         # Tag inputStream to outputStream
         for sen, comment in tagger.tag_corp(options['inputStream']):
-            writeSentence(sen, options['outputStream'], comment)
+            write_sentence(sen, options['outputStream'], comment)
 
 
-def writeSentence(sen, out=sys.stdout, comment=None):
+def write_sentence(sen, out=sys.stdout, comment=None):
     if comment:
         out.write('{0}\n'.format(comment))
     out.writelines('{0}\n'.format('\t'.join(tok)) for tok in sen)
@@ -81,8 +81,8 @@ def writeSentence(sen, out=sys.stdout, comment=None):
     out.flush()
 
 
-def loadYaml(cfgFile):
-    lines = open(cfgFile, encoding='UTF-8').readlines()
+def load_yaml(cfg_file):
+    lines = open(cfg_file, encoding='UTF-8').readlines()
     try:
         start = lines.index('%YAML 1.1\n')
     except ValueError:
@@ -103,17 +103,17 @@ def loadYaml(cfgFile):
     return yaml.load(''.join(lines))
 
 
-def getFeatureSetYAML(cfgFile):
+def get_featureset_yaml(cfg_file):
     features = {}
-    defaultRadius = -1
-    defaultCutoff = 1
-    cfg = loadYaml(cfgFile)
+    default_radius = -1
+    default_cutoff = 1
+    cfg = load_yaml(cfg_file)
 
     if 'default' in cfg:
         if 'cutoff' in cfg['default']:
-            defaultCutoff = cfg['default']['cutoff']
+            default_cutoff = cfg['default']['cutoff']
         if 'radius' in cfg['default']:
-            defaultRadius = cfg['default']['radius']
+            default_radius = cfg['default']['radius']
 
     for feat in cfg['features']:
         options = {}
@@ -125,11 +125,11 @@ def getFeatureSetYAML(cfgFile):
         else:
             fields = [int(field) for field in feat['fields'].split(',')]
 
-        radius = defaultRadius
+        radius = default_radius
         if 'radius' in feat:
             radius = feat['radius']
 
-        cutoff = defaultCutoff
+        cutoff = default_cutoff
         if 'cutoff' in feat:
             cutoff = feat['cutoff']
 
@@ -139,27 +139,27 @@ def getFeatureSetYAML(cfgFile):
     return features
 
 
-def validDir(inputDir):
-    if not isdir(inputDir):
-        raise argparse.ArgumentTypeError('"{0}" must be a directory!'.format(inputDir))
-    outDir = '{0}_out'.format(inputDir)
-    os.mkdir(outDir)
-    return inputDir, outDir
+def valid_dir(input_dir):
+    if not isdir(input_dir):
+        raise argparse.ArgumentTypeError('"{0}" must be a directory!'.format(input_dir))
+    out_dir = '{0}_out'.format(input_dir)
+    os.mkdir(out_dir)
+    return input_dir, out_dir
 
 
-def validFile(inputFile):
-    if not isfile(inputFile):
-        raise argparse.ArgumentTypeError('"{0}" must be a file!'.format(inputFile))
-    return inputFile
+def valid_file(input_file):
+    if not isfile(input_file):
+        raise argparse.ArgumentTypeError('"{0}" must be a file!'.format(input_file))
+    return input_file
 
 
-def parseArgs():
+def parse_args():
     parser = argparse.ArgumentParser()
 
     parser.add_argument('task', choices=['transmodel-train', 'most-informative-features', 'train', 'tag'],
                         help='avaliable tasks: transmodel-train, most-informative-features, train, tag')
 
-    parser.add_argument('-c', '--config-file', dest='cfgFile', type=validFile,
+    parser.add_argument('-c', '--config-file', dest='cfgFile', type=valid_file,
                         help='read feature configuration from FILE',
                         metavar='FILE')
 
@@ -200,7 +200,7 @@ def parseArgs():
                         help='pass PARAMS to trainer',
                         metavar='PARAMS')
 
-    parser.add_argument('-u', '--used-feats', dest='usedFeats', type=validFile,
+    parser.add_argument('-u', '--used-feats', dest='usedFeats', type=valid_file,
                         help='limit used features to those in FILE',
                         metavar='FILE')
 
@@ -208,41 +208,41 @@ def parseArgs():
                         help='specify FIELD containing the labels to build models from',
                         metavar='FIELD')
 
-    groupI = parser.add_mutually_exclusive_group()
+    group_i = parser.add_mutually_exclusive_group()
 
-    groupI.add_argument('-i', '--input', dest='inputFileName', type=validFile,
-                        help='Use input file instead of STDIN',
-                        metavar='FILE')
+    group_i.add_argument('-i', '--input', dest='inputFileName', type=valid_file,
+                         help='Use input file instead of STDIN',
+                         metavar='FILE')
 
-    groupI.add_argument('-d', '--input-dir', dest='ioDirs', type=validDir,
-                        help='process all files in DIR (instead of stdin)',
-                        metavar='DIR')
+    group_i.add_argument('-d', '--input-dir', dest='ioDirs', type=valid_dir,
+                         help='process all files in DIR (instead of stdin)',
+                         metavar='DIR')
 
-    groupI.add_argument('-f', '--input-feature-file', dest='inFeatFileName', type=validFile,
-                        help='use training events in FILE (already featurized input, see --to-crfsuite)',
-                        metavar='FILE')
+    group_i.add_argument('-f', '--input-feature-file', dest='inFeatFileName', type=valid_file,
+                         help='use training events in FILE (already featurized input, see --to-crfsuite)',
+                         metavar='FILE')
 
-    groupO = parser.add_mutually_exclusive_group()
+    group_o = parser.add_mutually_exclusive_group()
 
-    groupO.add_argument('-F', '--feature-file', dest='outFeatFileName',
-                        help='write training events to FILE (deprecated, use --to-crfsuite instead)',
-                        metavar='FILE')
+    group_o.add_argument('-F', '--feature-file', dest='outFeatFileName',
+                         help='write training events to FILE (deprecated, use --to-crfsuite instead)',
+                         metavar='FILE')
 
-    groupO.add_argument('-o', '--output', dest='outputFileName',
-                        help='Use output file instead of STDOUT',
-                        metavar='FILE')
+    group_o.add_argument('-o', '--output', dest='outputFileName',
+                         help='Use output file instead of STDOUT',
+                         metavar='FILE')
 
-    groupO.add_argument('--to-crfsuite', dest='to_crfsuite', action='store_true', default=False,
-                        help='convert input to CRFsuite format to STDOUT')
+    group_o.add_argument('--to-crfsuite', dest='to_crfsuite', action='store_true', default=False,
+                         help='convert input to CRFsuite format to STDOUT')
 
-    groupO.add_argument('--print-weights', dest='print_weights', type=int,
-                        help='print model weights instead of tagging')
+    group_o.add_argument('--print-weights', dest='print_weights', type=int,
+                         help='print model weights instead of tagging')
 
     return parser.parse_args()
 
 
 def main():
-    options = parseArgs()
+    options = parse_args()
     if options.outFeatFileName:
         print('Error: Argument --feature-file is deprecated! Use --to-crfsuite instead!',
               file=sys.stderr, flush=True)
@@ -266,27 +266,28 @@ def main():
     options.outputStream = sys.stdout
     options.inputStream = sys.stdin
 
-    optionsDict = vars(options)
-    if optionsDict['inputFileName']:
-        optionsDict['inputStream'] = open(optionsDict['inputFileName'], encoding='UTF-8')
-    if optionsDict['outputFileName']:
-        optionsDict['outputStream'] = open(optionsDict['outputFileName'], 'w', encoding='UTF-8')
+    options_dict = vars(options)
+    if options_dict['inputFileName']:
+        options_dict['inputStream'] = open(options_dict['inputFileName'], encoding='UTF-8')
+    if options_dict['outputFileName']:
+        options_dict['outputStream'] = open(options_dict['outputFileName'], 'w', encoding='UTF-8')
 
-    if optionsDict['task'] == 'transmodel-train':
-        mainTransModelTrain(optionsDict)
-    elif optionsDict['task'] == 'train' or optionsDict['task'] == 'most-informative-features':
-        featureSet = getFeatureSetYAML(optionsDict['cfgFile'])
-        mainTrain(featureSet, optionsDict)
-    elif optionsDict['task'] == 'tag':
-        if optionsDict['inFeatFileName']:
-            featureSet = None
-            optionsDict['inFeatFile'] = open(optionsDict['inFeatFileName'], encoding='UTF-8')
+    if options_dict['task'] == 'transmodel-train':
+        main_trans_model_train(options_dict)
+    elif options_dict['task'] == 'train' or options_dict['task'] == 'most-informative-features':
+        feature_set = get_featureset_yaml(options_dict['cfgFile'])
+        main_train(feature_set, options_dict)
+    elif options_dict['task'] == 'tag':
+        if options_dict['inFeatFileName']:
+            feature_set = None
+            options_dict['inFeatFile'] = open(options_dict['inFeatFileName'], encoding='UTF-8')
         else:
-            featureSet = getFeatureSetYAML(optionsDict['cfgFile'])
-        mainTag(featureSet, optionsDict)
+            feature_set = get_featureset_yaml(options_dict['cfgFile'])
+        main_tag(feature_set, options_dict)
     else:
         print('Error: Task name must be specified! Please see --help!', file=sys.stderr, flush=True)
         sys.exit(1)
+
 
 if __name__ == '__main__':
     main()
