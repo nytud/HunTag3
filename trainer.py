@@ -16,7 +16,7 @@ from sklearn.linear_model import LogisticRegression
 # from sklearn.svm import SVC
 # from sklearn.multiclass import OneVsRestClassifier
 
-from tools import BookKeeper, sentenceIterator, featurizeSentence
+from tools import BookKeeper, sentence_iterator, featurize_sentence
 
 
 class Trainer:
@@ -112,7 +112,7 @@ class Trainer:
 
     def cutoffFeats(self):
         self._convertToNPArray()
-        colNum = self._featCounter.numOfNames()
+        colNum = self._featCounter.num_of_names()
         if self._cutoff < 2:
             self._matrix = self._makeSparseArray(self._tokCount, colNum)
         else:
@@ -180,9 +180,9 @@ class Trainer:
         print('featurizing sentences...', end='', file=sys.stderr, flush=True)
         senCount = 0
         tokIndex = -1  # Index starts from 0
-        for sen, _ in sentenceIterator(data):
+        for sen, _ in sentence_iterator(data):
             senCount += 1
-            sentenceFeats = featurizeSentence(sen, self._features)
+            sentenceFeats = featurize_sentence(sen, self._features)
             for c, tok in enumerate(sen):
                 tokIndex += 1
                 tokFeats = sentenceFeats[c]
@@ -215,12 +215,12 @@ class Trainer:
         dataAppend = self._data.append
 
         # Features are sorted to ensure identical output no matter where the features are coming from
-        for featNumber in {self._featCounter.getNoTrain(feat) for feat in sorted(tokFeats)}:
+        for featNumber in {self._featCounter.get_no_train(feat) for feat in sorted(tokFeats)}:
             rowsAppend(curTok)
             colsAppend(featNumber)
             dataAppend(1)
 
-        self._labels.append(self._labelCounter.getNoTrain(label))
+        self._labels.append(self._labelCounter.get_no_train(label))
 
     # Counting zero elements can be really slow...
     def mostInformativeFeatures(self, outputStream=sys.stdout, n=-1, countZero=False):
@@ -244,8 +244,8 @@ class Trainer:
         # min(C(feature=value, label1)/C(label1), for any label1)/
         # max(C(feature=value, label2)/C(label2), for any label2)
         matrix = self._matrix  # For easiser handling
-        self._featCounter.makenoToName()
-        self._labelCounter.makenoToName()
+        self._featCounter.makeno_to_name()
+        self._labelCounter.makeno_to_name()
         featnoToName = self._featCounter.noToName
         labelnoToName = self._labelCounter.noToName
         labels = self._labels  # indexed by token rows (row = token number, column = feature number)
@@ -317,8 +317,8 @@ class Trainer:
                 maxprob[feature], minprob[feature], ratio), file=outputStream)
 
     def toCRFsuite(self, outputStream=sys.stdout):
-        self._featCounter.makenoToName()
-        self._labelCounter.makenoToName()
+        self._featCounter.makeno_to_name()
+        self._labelCounter.makeno_to_name()
         featnoToName = self._featCounter.noToName
         labelnoToName = self._labelCounter.noToName
         sentEnd = self._sentEnd

@@ -11,7 +11,7 @@ import math
 import pickle
 from collections import Counter
 
-from tools import sentenceIterator
+from tools import sentence_iterator
 
 
 def safe_div(v1, v2):
@@ -76,7 +76,7 @@ class TransModel:
 
     # Train a Stream
     def train(self, inputStream):
-        for sen, _ in sentenceIterator(inputStream):
+        for sen, _ in sentence_iterator(inputStream):
             self.obsSequence((tok[self._tagField] for tok in sen))
 
     # Train a Sentence (Either way we count trigrams, but later we will not use them)

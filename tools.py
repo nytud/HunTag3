@@ -9,41 +9,41 @@ import sys
 import gzip
 
 
-def sentenceIterator(inputStream):
-    currSen = []
-    currComment = None
-    for line in inputStream:
+def sentence_iterator(input_stream):
+    curr_sen = []
+    curr_comment = None
+    for line in input_stream:
         line = line.strip()
         # Comment handling
         if line.startswith('"""'):
-            if len(currSen) == 0:  # Comment before sentence
-                currComment = line
+            if len(curr_sen) == 0:  # Comment before sentence
+                curr_comment = line
             else:  # Error: Comment in the middle of sentence
                 print('ERROR: comments are only allowed before a sentence!', file=sys.stderr, flush=True)
                 sys.exit(1)
         # Blank line handling
         elif len(line) == 0:
-            if currSen:  # End of sentence
-                yield currSen, currComment
-                currSen = []
-                currComment = None
-            else:  # Error: Multiple blank line
+            if curr_sen:  # End of sentence
+                yield curr_sen, curr_comment
+                curr_sen = []
+                curr_comment = None
+            else:  # Error: Multiple blank line # TODO: Should be only Warning
                 print('ERROR: wrong formatted sentences, only one blank line allowed!', file=sys.stderr, flush=True)
                 sys.exit(1)
         else:
-            currSen.append(line.split())
+            curr_sen.append(line.split())
     # XXX Here should be an error because of missing blank line before EOF
-    if currSen:
+    if curr_sen:
         print('WARNING: No blank line before EOF!', file=sys.stderr, flush=True)
-        yield currSen, currComment
+        yield curr_sen, curr_comment
 
 
-def featurizeSentence(sen, features):
-    sentenceFeats = [[] for _ in sen]
+def featurize_sentence(sen, features):
+    sentence_feats = [[] for _ in sen]
     for feature in features.values():
         for c, feats in enumerate(feature.evalSentence(sen)):
-            sentenceFeats[c] += feats
-    return sentenceFeats
+            sentence_feats[c] += feats
+    return sentence_feats
 
 
 # Keeps Feature/Label-Number translation maps, for faster computations
@@ -56,29 +56,29 @@ class BookKeeper:
         if loadfromfile is not None:
             self._nameToNo.default_factory = count(start=self.load(loadfromfile)).__next__
 
-    def makeInvertedDict(self):
+    def make_inverted_dict(self):
         self.noToName = {}  # This is built only upon reading back from file
         for name, no in self._nameToNo.items():
             self.noToName[no] = name
 
-    def numOfNames(self):
+    def num_of_names(self):
         return len(self._nameToNo)
 
-    def makenoToName(self):
+    def makeno_to_name(self):
         self.noToName = {v: k for k, v in self._nameToNo.items()}
 
     def cutoff(self, cutoff):
-        toDelete = {self._nameToNo.pop(name) for name, counts in self._counter.items() if counts < cutoff}
+        to_delete = {self._nameToNo.pop(name) for name, counts in self._counter.items() if counts < cutoff}
         del self._counter
-        newNameNo = {name: i for i, (name, _) in enumerate(sorted(self._nameToNo.items(), key=itemgetter(1)))}
+        new_name_no = {name: i for i, (name, _) in enumerate(sorted(self._nameToNo.items(), key=itemgetter(1)))}
         del self._nameToNo
-        self._nameToNo = newNameNo
-        return toDelete
+        self._nameToNo = new_name_no
+        return to_delete
 
-    def getNoTag(self, name):
+    def get_no_tag(self, name):
         return self._nameToNo.get(name)  # Defaults to None
 
-    def getNoTrain(self, name):
+    def get_no_train(self, name):
         self._counter[name] += 1
         return self._nameToNo[name]  # Starts from 0 newcomers will get autoincremented value and stored
 
@@ -90,8 +90,8 @@ class BookKeeper:
         no = 0  # Last no
         with gzip.open(filename, mode='rt', encoding='UTF-8') as f:
             for line in f:
-                l = line.strip().split()
-                name, no = l[0], int(l[1])
+                line = line.strip().split()
+                name, no = line[0], int(line[1])
                 self._nameToNo[name] = no
                 self.noToName[no] = name
         return no

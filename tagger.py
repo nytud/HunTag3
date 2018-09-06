@@ -6,7 +6,7 @@ import os
 from sklearn.externals import joblib
 from scipy.sparse import csr_matrix
 
-from tools import sentenceIterator, featurizeSentence, BookKeeper
+from tools import sentence_iterator, featurize_sentence, BookKeeper
 
 
 class Tagger:
@@ -55,9 +55,9 @@ class Tagger:
 
     def tagCorp(self, inputStream=sys.stdin):
         senCount = 0
-        for sen, comment in sentenceIterator(inputStream):
+        for sen, comment in sentence_iterator(inputStream):
             senCount += 1
-            senFeats = featurizeSentence(sen, self._features)
+            senFeats = featurize_sentence(sen, self._features)
             bestTagging = self._tagSenFeats(senFeats)
             taggedSen = [tok + [bestTagging[c]] for c, tok in enumerate(sen)]  # Add tagging to sentence
             yield taggedSen, comment
@@ -67,7 +67,7 @@ class Tagger:
 
     def _getTagProbsByPos(self, senFeats):
         # Get Sentence Features translated to numbers and contexts in two steps
-        getNoTag = self._featCounter.getNoTag
+        getNoTag = self._featCounter.get_no_tag
         featNumbers = [{getNoTag(feat) for feat in feats if getNoTag(feat) is not None} for feats in senFeats]
 
         rows = []
@@ -78,7 +78,7 @@ class Tagger:
                 rows.append(rownum)
                 cols.append(featNum)
                 data.append(1)
-        contexts = csr_matrix((data, (rows, cols)), shape=(len(featNumbers), self._featCounter.numOfNames()),
+        contexts = csr_matrix((data, (rows, cols)), shape=(len(featNumbers), self._featCounter.num_of_names()),
                               dtype=self._dataSizes['dataNP'])
         tagProbsByPos = [{self._labelCounter.noToName[i]: prob for i, prob in enumerate(probDist)}
                          for probDist in self._model.predict_proba(contexts)]
@@ -86,11 +86,11 @@ class Tagger:
 
     def toCRFsuite(self, inputStream, outputStream=sys.stdout):
         senCount = 0
-        getNoTag = self._featCounter.getNoTag
+        getNoTag = self._featCounter.get_no_tag
         featnoToName = self._featCounter.noToName
-        for sen, comment in sentenceIterator(inputStream):
+        for sen, comment in sentence_iterator(inputStream):
             senCount += 1
-            senFeats = featurizeSentence(sen, self._features)
+            senFeats = featurize_sentence(sen, self._features)
             # Get Sentence Features translated to numbers and contexts in two steps
             for featNumberSet in ({getNoTag(feat) for feat in feats if getNoTag(feat) is not None}
                                   for feats in senFeats):
