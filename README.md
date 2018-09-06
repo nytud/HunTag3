@@ -147,13 +147,13 @@ Non-mandatory options:
 - -o OUTPUT, --output=OUTPUT
 	- output is written to OUTPUT file instead of STDOUT
 
-## tag --printWeights N
+## tag --print-weights N
 Usefull for inspecting feature weights (per label) assigned by the MaxEnt learner. (As name suggests, training must happen before tagging.)
 Negative weights mean negative correlation, which is also usefull.
 
-    python3 huntag.py tag --printWeights N OPTIONS > modelName.modelWeights
+    python3 huntag.py tag --print-weights N OPTIONS > modelName.modelWeights
 or
-	huntag.py tag --printWeights N OPTIONS -o modelName.modelWeights
+	huntag.py tag --print-weights N OPTIONS -o modelName.modelWeights
 
 Mandatory options:
 - N is the number of features to print (default: 100)
@@ -194,7 +194,7 @@ This option generates suitable input for CRFsuite from training and tagging data
     # most-informative-features
     cat input.txt | python3 huntag.py most-informative-features --model=modelName --config-file=configs/hunchunk.krPatt.yaml > modelName.most_informative_features
     # tag FeatureWeights
-    cat input.txt | python3 huntag.py tag --printWeights 100 --model=modelName --config-file=configs/hunchunk.krPatt.yaml > modelNam.modelWeights
+    cat input.txt | python3 huntag.py tag --print-weights 100 --model=modelName --config-file=configs/hunchunk.krPatt.yaml > modelNam.modelWeights
 
 # Differences between HunTag3 and HunTag
 HunTag has numerous features that have been replaced in multiple steps (see commits). These are:

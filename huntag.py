@@ -47,7 +47,7 @@ def mainTrain(featureSet, options):
 
 def mainTag(featureSet, options):
     transModel = None
-    if not (options['printWeights'] or options['to_crfsuite']):
+    if not (options['print_weights'] or options['to_crfsuite']):
         print('loading transition model...', end='', file=sys.stderr, flush=True)
         transModel = TransModel.getModelFromFile(options['transModelFileName'])
         print('done', file=sys.stderr, flush=True)
@@ -55,21 +55,21 @@ def mainTag(featureSet, options):
     tagger = Tagger(featureSet, transModel, options)
     if 'inFeatFile' in options and options['inFeatFile']:
         # Tag a featurized file to to outputStream
-        for sen, comment in tagger.tagFeatures(options['inFeatFile']):
+        for sen, comment in tagger.tag_features(options['inFeatFile']):
             writeSentence(sen, options['outputStream'], comment)
     elif 'ioDirs' in options and options['ioDirs']:
         # Tag all files in a directory file to to fileName.tagged
-        for sen, fileName in tagger.tagDir(options['ioDirs'][0]):
+        for sen, fileName in tagger.tag_dir(options['ioDirs'][0]):
             writeSentence(sen, open(join(options['ioDirs'][1], '{0}.tagged'.format(fileName)), 'a', encoding='UTF-8'))
     elif 'to_crfsuite' in options and options['to_crfsuite']:
         # Make CRFsuite format to outputStream for tagging
-        tagger.toCRFsuite(options['inputStream'], options['outputStream'])
-    elif 'printWeights' in options and options['printWeights']:
+        tagger.to_crfsuite(options['inputStream'], options['outputStream'])
+    elif 'print_weights' in options and options['print_weights']:
         # Print MaxEnt weights to STDOUT
-        tagger.printWeights(options['printWeights'], options['outputStream'])
+        tagger.print_weights(options['print_weights'], options['outputStream'])
     else:
         # Tag inputStream to outputStream
-        for sen, comment in tagger.tagCorp(options['inputStream']):
+        for sen, comment in tagger.tag_corp(options['inputStream']):
             writeSentence(sen, options['outputStream'], comment)
 
 
@@ -235,7 +235,7 @@ def parseArgs():
     groupO.add_argument('--to-crfsuite', dest='to_crfsuite', action='store_true', default=False,
                         help='convert input to CRFsuite format to STDOUT')
 
-    groupO.add_argument('--printWeights', dest='printWeights', type=int,
+    groupO.add_argument('--print-weights', dest='print_weights', type=int,
                         help='print model weights instead of tagging')
 
     return parser.parse_args()
