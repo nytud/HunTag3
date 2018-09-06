@@ -51,40 +51,40 @@ class BookKeeper:
     def __init__(self, loadfromfile=None):
         self._counter = Counter()
         # Original source: (1.31) http://sahandsaba.com/thirty-python-language-features-and-tricks-you-may-not-know.html
-        self._nameToNo = defaultdict(count().__next__)
+        self._name_to_no = defaultdict(count().__next__)
         self.no_to_name = {}  # This is built only upon reading back from file
         if loadfromfile is not None:
-            self._nameToNo.default_factory = count(start=self.load(loadfromfile)).__next__
+            self._name_to_no.default_factory = count(start=self.load(loadfromfile)).__next__
 
     def make_inverted_dict(self):
         self.no_to_name = {}  # This is built only upon reading back from file
-        for name, no in self._nameToNo.items():
+        for name, no in self._name_to_no.items():
             self.no_to_name[no] = name
 
     def num_of_names(self):
-        return len(self._nameToNo)
+        return len(self._name_to_no)
 
     def makeno_to_name(self):
-        self.no_to_name = {v: k for k, v in self._nameToNo.items()}
+        self.no_to_name = {v: k for k, v in self._name_to_no.items()}
 
     def cutoff(self, cutoff):
-        to_delete = {self._nameToNo.pop(name) for name, counts in self._counter.items() if counts < cutoff}
+        to_delete = {self._name_to_no.pop(name) for name, counts in self._counter.items() if counts < cutoff}
         del self._counter
-        new_name_no = {name: i for i, (name, _) in enumerate(sorted(self._nameToNo.items(), key=itemgetter(1)))}
-        del self._nameToNo
-        self._nameToNo = new_name_no
+        new_name_no = {name: i for i, (name, _) in enumerate(sorted(self._name_to_no.items(), key=itemgetter(1)))}
+        del self._name_to_no
+        self._name_to_no = new_name_no
         return to_delete
 
     def get_no_tag(self, name):
-        return self._nameToNo.get(name)  # Defaults to None
+        return self._name_to_no.get(name)  # Defaults to None
 
     def get_no_train(self, name):
         self._counter[name] += 1
-        return self._nameToNo[name]  # Starts from 0 newcomers will get autoincremented value and stored
+        return self._name_to_no[name]  # Starts from 0 newcomers will get autoincremented value and stored
 
     def save(self, filename):
         with gzip.open(filename, mode='wt', encoding='UTF-8') as f:
-            f.writelines('{}\t{}\n'.format(name, no) for name, no in sorted(self._nameToNo.items(), key=itemgetter(1)))
+            f.writelines('{}\t{}\n'.format(name, no) for name, no in sorted(self._name_to_no.items(), key=itemgetter(1)))
 
     def load(self, filename):
         no = 0  # Last no
@@ -92,6 +92,6 @@ class BookKeeper:
             for line in f:
                 line = line.strip().split()
                 name, no = line[0], int(line[1])
-                self._nameToNo[name] = no
+                self._name_to_no[name] = no
                 self.no_to_name[no] = name
         return no
