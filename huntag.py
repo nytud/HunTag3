@@ -134,7 +134,7 @@ def get_featureset_yaml(cfg_file):
             cutoff = feat['cutoff']
 
         name = feat['name']
-        features[name] = Feature(feat['type'], name, feat['actionName'], fields, radius, cutoff, options)
+        features[name] = Feature(feat['type'], name, feat['action_name'], fields, radius, cutoff, options)
 
     return features
 

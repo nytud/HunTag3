@@ -59,7 +59,7 @@ There are three type of features:
 For each feature mandatory fields are the following:
 - **name**: name of the feature as appears in the output (featurized input, most-informative-features, etc.)
 - **type**: sentence/token/lexicon
-- **actionName**: Refers to the features.py function name or the lexicon file
+- **action_name**: Refers to the features.py function name or the lexicon file
 - **fields**: Refers to the field of the input (starting from zero), that the feature use (only *sentence* type features allowed to have more values here separated by comma. Lexicon features must supply the field of the token here)
 - **radius**: **(Only for sentence type features)** add the features of each corresponding token to the feature list of all the token its given length radius (independent from the feature)
 - **options**: **(Only for sentence type features)** Here one can enumerate all options that the corresponding feature need (see feature documentation in features.py) 

@@ -28,13 +28,13 @@ features:
  - # Checks for underscore (_) character in token
     name: form
     type: token
-    actionName: getForm
+    action_name: getForm
     fields: 0
 
  - # N-grams of the letters in a token
     name: ngr
     type: token
-    actionName: ngrams
+    action_name: ngrams
     fields: 0
     options:
         n: 2
@@ -42,7 +42,7 @@ features:
  - # The n caracter long prefix ot a token
     name: prefix
     type: token
-    actionName: prefix
+    action_name: prefix
     fields: 0
     options:
         n: 6
@@ -50,7 +50,7 @@ features:
  - # The n caracter long suffix ot a token
     name: prefix
     type: token
-    actionName: prefix
+    action_name: prefix
     fields: 0
     options:
         n: 4
@@ -58,145 +58,145 @@ features:
  - # Does it have capital letter in it anywhere?
     name: hascap
     type: token
-    actionName: hasCapOperator
+    action_name: hasCapOperator
     fields: 0
 
  - # Only first letter is capital?
     name: capitalized
     type: token
-    actionName: isCapOperator
+    action_name: isCapOperator
     fields: 0
 
  - # Does it have all letter capital?
     name: allcaps
     type: token
-    actionName: isAllcapsOperator
+    action_name: isAllcapsOperator
     fields: 0
 
  - # Is the token Camel case?
     name: camel
     type: token
-    actionName: isCamelOperator
+    action_name: isCamelOperator
     fields: 0
 
  - # Token is three uppercase letters?
     name: threecaps
     type: token
-    actionName: threeCaps
+    action_name: threeCaps
     fields: 0
 
  - # Token is an uppercase letter followed by a period (from Bikel et al. (1999))
     name: capperiod
     type: token
-    actionName: capPeriodOperator
+    action_name: capPeriodOperator
     fields: 0
 
  - # Token pattern: lowercase -> 'a', uppercase -> 'A', other -> '_'
     name: longpatt
     type: token
-    actionName: longPattern
+    action_name: longPattern
     fields: 0
 
  - # Token pattern: lowercase -> 'a', uppercase -> 'A', other -> '_', merge neighbouring characters if they are same
     name: shortpatt
     type: token
-    actionName: shortPattern
+    action_name: shortPattern
     fields: 0
 
  - # Token is number
     name: isdigit
     type: token
-    actionName: isDigitOperator
+    action_name: isDigitOperator
     fields: 0
 
  - # Token is one digit (from Zhou and Su (2002))
     name: onedigit
     type: token
-    actionName: oneDigitNumOperator
+    action_name: oneDigitNumOperator
     fields: 0
     
  - # Token is two digit (from Bikel et al. (1999))
     name: twodigit
     type: token
-    actionName: twoDigitNumOperator
+    action_name: twoDigitNumOperator
     fields: 0
     
  - # Token is four digit
     name: fourdigit
     type: token
-    actionName: fourDigitNumOperator
+    action_name: fourDigitNumOperator
     fields: 0
 
  - # Token starts with number
     name: startswithnumber
     type: token
-    actionName: startsWithNumberOperator
+    action_name: startsWithNumberOperator
     fields: 0
 
  - # Token is three uppercase letters?
     name: digitslash
     type: token
-    actionName: containsDigitAndSlashOperator
+    action_name: containsDigitAndSlashOperator
     fields: 0
 
  - # Token is three uppercase letters?
     name: digitdash
     type: token
-    actionName: containsDigitAndDashOperator
+    action_name: containsDigitAndDashOperator
     fields: 0
 
  - # Token contains digit and comma (. or ,) (from Bikel et al. (1999))
     name: digitcomma
     type: token
-    actionName: containsDigitAndCommaOperator
+    action_name: containsDigitAndCommaOperator
     fields: 0
 
  - # Does the token contain number?
     name: hasnumber
     type: token
-    actionName: hasNumberOperator
+    action_name: hasNumberOperator
     fields: 0
 
  - # Token contains year decade (from Zhou and Su (2002))
     name: yeardecade
     type: token
-    actionName: yearDecadeOperator
+    action_name: yearDecadeOperator
     fields: 0
 
  - # Does the token contain dash?
     name: hasdash
     type: token
-    actionName: hasDashOperator
+    action_name: hasDashOperator
     fields: 0
 
  - # Does the token contain period?
     name: hasperiod
     type: token
-    actionName: hasPeriodOperator
+    action_name: hasPeriodOperator
     fields: 0
 
  - # Token is punctuation
     name: punct
     type: token
-    actionName: isPunctuationOperator
+    action_name: isPunctuationOperator
     fields: 0
 
  - # Get POS from BNC
     name: pos
     type: token
-    actionName: chunkTag
+    action_name: chunkTag
     fields: 1
 
  - # Description: XXX Fill me
     name: posstart
     type: token
-    actionName: firstChar
+    action_name: firstChar
     fields: 1
 
  - # Kr code patterns of a sentence (extended version) EXTENSIONS DISABLED!
     name: krpatt
     type: sentence
-    actionName: krPatts
+    action_name: krPatts
     fields: 1
     radius: 0  # rad is not radius!
     options:
@@ -213,61 +213,61 @@ features:
  - # Is sentence begin?
     name: sentstart
     type: sentence
-    actionName: newSentenceStart
+    action_name: newSentenceStart
     fields: 0
 
  - # Is sentence end?
     name: sentend
     type: sentence
-    actionName: newSentenceEnd
+    action_name: newSentenceEnd
     fields: 0
 
  - # Description: XXX Fill me!
     name: loc
     type: lex
-    actionName: hunner/freebase_lists/loc/loc.sorted
+    action_name: hunner/freebase_lists/loc/loc.sorted
     fields: 0
 
  - # Description: XXX Fill me!
     name: org
     type: lex
-    actionName: hunner/freebase_lists/org/org.sorted
+    action_name: hunner/freebase_lists/org/org.sorted
     fields: 0
 
  - # Description: XXX Fill me!
     name: pers
     type: lex
-    actionName: hunner/freebase_lists/pers/pers.sorted
+    action_name: hunner/freebase_lists/pers/pers.sorted
     fields: 0
 
  - # Description: XXX Fill me!
     name: misc
     type: lex
-    actionName: hunner/freebase_lists/misc/misc.sorted
+    action_name: hunner/freebase_lists/misc/misc.sorted
     fields: 0
 
  - # Description: XXX Fill me!
     name: trainloc
     type: lex
-    actionName: hunner/enwiki/fromTrainLists/loc.fromtrain.list
+    action_name: hunner/enwiki/fromTrainLists/loc.fromtrain.list
     fields: 0
 
  - # Description: XXX Fill me!
     name: trainorg
     type: lex
-    actionName: hunner/enwiki/fromTrainLists/org.fromtrain.list
+    action_name: hunner/enwiki/fromTrainLists/org.fromtrain.list
     fields: 0
 
  - # Description: XXX Fill me!
     name: trainpers
     type: lex
-    actionName: hunner/enwiki/fromTrainLists/per.fromtrain.list
+    action_name: hunner/enwiki/fromTrainLists/per.fromtrain.list
     fields: 0
 
  - # Description: XXX Fill me!
     name: trainmisc
     type: lex
-    actionName: hunner/enwiki/fromTrainLists/misc.fromtrain.list
+    action_name: hunner/enwiki/fromTrainLists/misc.fromtrain.list
     fields: 0
 
 ...

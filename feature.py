@@ -15,7 +15,7 @@ class Feature:
     def __init__(self, kind, name, action_name, fields, radius, cutoff, options):
         self.kind = kind
         self.name = name
-        self.actionName = action_name
+        self.action_name = action_name
         self.fields = fields
         self.radius = int(radius)
         self.cutoff = int(cutoff)
@@ -31,9 +31,9 @@ class Feature:
             self.lexicon = Lexicon(action_name)  # Load input file
 
         elif self.kind in ('token', 'sentence'):
-            function_name = '{0}_{1}'.format(self.kind, self.actionName)
+            function_name = '{0}_{1}'.format(self.kind, self.action_name)
             if function_name not in features.__dict__:
-                print('Unknown operator named {0}\n'.format(self.actionName), file=sys.stderr, flush=True)
+                print('Unknown operator named {0}\n'.format(self.action_name), file=sys.stderr, flush=True)
                 sys.exit(1)
             self.function = features.__dict__[function_name]
         else:
@@ -75,29 +75,29 @@ class Lexicon:
     an instance of Lexicon() should be initialized for each lexicon file
     """
     def __init__(self, input_file):
-        self.phraseList = set()
-        self.endParts = set()
-        self.midParts = set()
-        self.startParts = set()
+        self.phrase_list = set()
+        self.end_parts = set()
+        self.mid_parts = set()
+        self.start_parts = set()
         for line in open(input_file, encoding='UTF-8'):
             phrase = line.strip()
-            self.phraseList.add(phrase)
+            self.phrase_list.add(phrase)
             words = phrase.split()
             if len(words) > 1:
-                self.endParts.add(words[-1])
-                self.startParts.add(words[0])
+                self.end_parts.add(words[-1])
+                self.start_parts.add(words[0])
                 for w in words[1:-1]:
-                    self.midParts.add(w)
+                    self.mid_parts.add(w)
 
     def _get_word_feats(self, word):
         word_feats = []
-        if word in self.phraseList:
+        if word in self.phrase_list:
             word_feats.append('lone')
-        if word in self.endParts:
+        if word in self.end_parts:
             word_feats.append('end')
-        if word in self.startParts:
+        if word in self.start_parts:
             word_feats.append('start')
-        if word in self.midParts:
+        if word in self.mid_parts:
             word_feats.append('mid')
         return word_feats
 

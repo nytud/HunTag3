@@ -29,7 +29,7 @@ features:
    # For use with KR code! (Endrédy & Indig 2015, 3rd column in Table 6)
     name: krpatt
     type: sentence
-    actionName: krPatts
+    action_name: krPatts
     fields: 1
     radius: 0  # rad is not radius!
     options:
@@ -46,73 +46,73 @@ features:
  #~ - # Does it have capital letter in it anywhere? (old isCapitalizedOperator)
     #~ name: capitalized
     #~ type: token
-    #~ actionName: hasCapOperator
+    #~ action_name: hasCapOperator
     #~ fields: 0
 #~ 
  #~ - # Token starts with number?
     #~ name: startswithnumber
     #~ type: token
-    #~ actionName: startsWithNumberOperator
+    #~ action_name: startsWithNumberOperator
     #~ fields: 0
 #~ 
  #~ - # Does 'stupidstem' contain letters or only numbers and puncts?
     #~ name: isnumber
     #~ type: token
-    #~ actionName: isNumberOperator
+    #~ action_name: isNumberOperator
     #~ fields: 0
 #~ 
  #~ - # Does the token contain number?
     #~ name: hasnumber
     #~ type: token
-    #~ actionName: hasNumberOperator
+    #~ action_name: hasNumberOperator
     #~ fields: 0
 #~ 
   #~ - # Does 'stupidstem' contain only capital letters?
     #~ name: allcaps
     #~ type: token
-    #~ actionName: isAllcapsOperator
+    #~ action_name: isAllcapsOperator
     #~ fields: 0
 #~ 
   #~ - # Is the token Camel case?
     #~ name: camel
     #~ type: token
-    #~ actionName: isCamelOperator
+    #~ action_name: isCamelOperator
     #~ fields: 0
 #~
   #~ - # Does the token contain dash?
     #~ name: hasdash
     #~ type: token
-    #~ actionName: hasDashOperator
+    #~ action_name: hasDashOperator
     #~ fields: 0
 #~
   #~ - # Does the token contain period?
     #~ name: hasperiod
     #~ type: token
-    #~ actionName: hasPeriodOperator
+    #~ action_name: hasPeriodOperator
     #~ fields: 0
 #~
   #~ - # Token pattern: lowercase -> 'a', uppercase -> 'A', other -> '_', merge neighbouring characters if they are same
     #~ name: shortpattern
     #~ type: token
-    #~ actionName: shortPattern
+    #~ action_name: shortPattern
     #~ fields: 0
 #~
  - # Checks for underscore (_) character in token (duplicate)
     name: hasunderscore
     type: token
-    actionName: hasUnderscoreOperator
+    action_name: hasUnderscoreOperator
     fields: 0
 
  - # Checks for underscore (_) character in token
     name: form
     type: token
-    actionName: getForm
+    action_name: getForm
     fields: 0
 
  - # N-grams of the letters in a token
     name: ngr
     type: token
-    actionName: ngrams
+    action_name: ngrams
     fields: 0
     options:
         n: 3
@@ -120,13 +120,13 @@ features:
  - # Kr code pieces
     name: kr
     type: token
-    actionName: krPieces
+    action_name: krPieces
     fields: 1
 
  #~ - # The n caracter long prefix of a token
     #~ name: prefix
     #~ type: token
-    #~ actionName: prefix
+    #~ action_name: prefix
     #~ fields: 0
     #~ options:
     #~     n: 3  # XXX No default value!
@@ -134,13 +134,13 @@ features:
  #~ - # The first letter of the BNC tag which is roughly the main POS tag (old posStart)
     #~ name: posstart
     #~ type: token
-    #~ actionName: firstChar
+    #~ action_name: firstChar
     #~ fields: 1
 #~
  #~ - # Checks if the neighbouring tokens have the same grammatical case
     #~ name: bwsamecases
     #~ type: sentence
-    #~ actionName: isBetweenSameCases
+    #~ action_name: isBetweenSameCases
     #~ fields: 1
 
 ...

@@ -28,7 +28,7 @@ features:
  - # Kr code patterns of a sentence (extended version) EXTENSIONS DISABLED!
     name: krpatt
     type: sentence
-    actionName: krPatts
+    action_name: krPatts
     fields: 1
     radius: 0  # rad is not radius!
     options:
@@ -46,19 +46,19 @@ features:
  - # Checks for underscore (_) character in token
     name: form
     type: token
-    actionName: getForm
+    action_name: getForm
     fields: 0
 
  - # Description: XXX Fill me!
     name: pos
     type: token
-    actionName: getForm
+    action_name: getForm
     fields: 1
 
  - # N-grams of the letters in a token
     name: ngr
     type: token
-    actionName: ngrams
+    action_name: ngrams
     fields: 0
     options:
         n: 3
@@ -66,7 +66,7 @@ features:
  - # The first letter of the BNC tag which is roughly the main POS tag (old posStart)
     name: posstart
     type: token
-    actionName: firstChar
+    action_name: firstChar
     fields: 1
 
 ...
