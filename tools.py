@@ -27,9 +27,8 @@ def sentence_iterator(input_stream):
                 yield curr_sen, curr_comment
                 curr_sen = []
                 curr_comment = None
-            else:  # Error: Multiple blank line # TODO: Should be only Warning
-                print('ERROR: wrong formatted sentences, only one blank line allowed!', file=sys.stderr, flush=True)
-                sys.exit(1)
+            else:  # WARNING: Multiple blank line
+                print('WARNING: wrong formatted sentences, only one blank line allowed!', file=sys.stderr, flush=True)
         else:
             curr_sen.append(line.split())
     # XXX Here should be an error because of missing blank line before EOF
