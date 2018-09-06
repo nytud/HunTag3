@@ -12,20 +12,20 @@ from tools import sentence_iterator, featurize_sentence, BookKeeper
 class Tagger:
     def __init__(self, features, trans_model, options):
         self._features = features
-        self._dataSizes = options['dataSizes']
-        self._transProbs = trans_model
+        self._data_sizes = options['data_sizes']
+        self._trans_probs = trans_model
         print('loading observation model...', end='', file=sys.stderr, flush=True)
         self._model = joblib.load('{0}'.format(options['modelFileName']))
-        self._featCounter = BookKeeper(options['featCounterFileName'])
-        self._labelCounter = BookKeeper(options['labelCounterFileName'])
+        self._feat_counter = BookKeeper(options['featCounterFileName'])
+        self._label_counter = BookKeeper(options['labelCounterFileName'])
         print('done', file=sys.stderr, flush=True)
 
     def print_weights(self, n=100, output_stream=sys.stdout):
         coefs = self._model.coef_
-        label_no_to_name = self._labelCounter.no_to_name
-        feat_no_to_name = self._featCounter.no_to_name
-        sorted_feats = sorted(feat_no_to_name.items())
-        for i, label in sorted(label_no_to_name.items()):
+        labelno_to_name = self._label_counter.no_to_name
+        featno_to_name = self._feat_counter.no_to_name
+        sorted_feats = sorted(featno_to_name.items())
+        for i, label in sorted(labelno_to_name.items()):
             columns = ['{0}:{1}'.format(w, feat) for w, (no, feat) in sorted(zip(coefs[i, :], sorted_feats),
                                                                              reverse=True)]
             print('{0}\t{1}'.format(label, '\t'.join(columns[:n])), file=output_stream)  # Best
@@ -67,7 +67,7 @@ class Tagger:
 
     def _get_tag_probs_by_pos(self, sen_feats):
         # Get Sentence Features translated to numbers and contexts in two steps
-        get_no_tag = self._featCounter.get_no_tag
+        get_no_tag = self._feat_counter.get_no_tag
         feat_numbers = [{get_no_tag(feat) for feat in feats if get_no_tag(feat) is not None} for feats in sen_feats]
 
         rows = []
@@ -78,16 +78,16 @@ class Tagger:
                 rows.append(rownum)
                 cols.append(featNum)
                 data.append(1)
-        contexts = csr_matrix((data, (rows, cols)), shape=(len(feat_numbers), self._featCounter.num_of_names()),
-                              dtype=self._dataSizes['dataNP'])
-        tag_probs_by_pos = [{self._labelCounter.no_to_name[i]: prob for i, prob in enumerate(probDist)}
-                            for probDist in self._model.predict_proba(contexts)]
-        return tag_probs_by_pos
+        contexts = csr_matrix((data, (rows, cols)), shape=(len(feat_numbers), self._feat_counter.num_of_names()),
+                              dtype=self._data_sizes['dataNP'])
+        tagprobs_by_pos = [{self._label_counter.no_to_name[i]: prob for i, prob in enumerate(prob_dist)}
+                           for prob_dist in self._model.predict_proba(contexts)]
+        return tagprobs_by_pos
 
     def to_crfsuite(self, input_stream, output_stream=sys.stdout):
         sen_count = 0
-        get_no_tag = self._featCounter.get_no_tag
-        featno_to_name = self._featCounter.no_to_name
+        get_no_tag = self._feat_counter.get_no_tag
+        featno_to_name = self._feat_counter.no_to_name
         for sen, comment in sentence_iterator(input_stream):
             sen_count += 1
             sen_feats = featurize_sentence(sen, self._features)
@@ -102,4 +102,4 @@ class Tagger:
         print('{0}...done'.format(str(sen_count)), file=sys.stderr, flush=True)
 
     def _tag_sen_feats(self, sen_feats):
-        return self._transProbs.tag_sent(self._get_tag_probs_by_pos(sen_feats))
+        return self._trans_probs.tag_sent(self._get_tag_probs_by_pos(sen_feats))

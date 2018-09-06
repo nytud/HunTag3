@@ -39,7 +39,7 @@ class Trainer:
         # solver = OneVsRestClassifier(SVC(**parameters))  # XXX won't work because ** in parameters...
 
         self._model = solver(**parameters)
-        self._dataSizes = options['dataSizes']
+        self._dataSizes = options['data_sizes']
         self._tagField = options['tagField']
         self._modelFileName = options['modelFileName']
         self._parameters = options['trainParams']

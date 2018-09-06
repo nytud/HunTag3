@@ -257,12 +257,12 @@ def main():
     options.labelCounterFileName = '{0}{1}'.format(options.modelName, options.labelNumbersExt)
 
     # Data sizes across the program (training and tagging). Check manuals for other sizes
-    options.dataSizes = {'rows': 'Q', 'rowsNP': np.uint64,       # Really big...
-                         'cols': 'Q', 'colsNP': np.uint64,       # ...enough for indices
-                         'data': 'B', 'dataNP': np.uint8,        # Currently data = {0, 1}
-                         'labels': 'H', 'labelsNP': np.uint16,   # Currently labels > 256...
-                         'sentEnd': 'Q', 'sentEndNP': np.uint64  # Sentence Ends in rowIndex
-                         }                                       # ...for safety
+    options.data_sizes = {'rows': 'Q', 'rowsNP': np.uint64,       # Really big...
+                          'cols': 'Q', 'colsNP': np.uint64,       # ...enough for indices
+                          'data': 'B', 'dataNP': np.uint8,        # Currently data = {0, 1}
+                          'labels': 'H', 'labelsNP': np.uint16,   # Currently labels > 256...
+                          'sentEnd': 'Q', 'sentEndNP': np.uint64  # Sentence Ends in rowIndex
+                          }                                       # ...for safety
     options.outputStream = sys.stdout
     options.inputStream = sys.stdin
 
