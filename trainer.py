@@ -39,40 +39,40 @@ class Trainer:
         # solver = OneVsRestClassifier(SVC(**parameters))  # XXX won't work because ** in parameters...
 
         self._model = solver(**parameters)
-        self._dataSizes = options['data_sizes']
-        self._tagField = options['tagField']
-        self._modelFileName = options['modelFileName']
+        self._data_sizes = options['data_sizes']
+        self._tag_field = options['tagField']
+        self._model_file_name = options['modelFileName']
         self._parameters = options['trainParams']
         self._cutoff = options['cutoff']
-        self._featCounterFileName = options['featCounterFileName']
-        self._labelCounterFileName = options['labelCounterFileName']
+        self._feat_counter_file_name = options['featCounterFileName']
+        self._label_counter_file_name = options['labelCounterFileName']
         self._features = features
 
-        self._tokCount = -1  # Index starts from 0
+        self._tok_count = -1  # Index starts from 0
 
-        self._rows = array(self._dataSizes['rows'])
-        self._cols = array(self._dataSizes['cols'])
-        self._data = array(self._dataSizes['data'])
-        self._labels = array(self._dataSizes['labels'])
-        self._sent_end = array(self._dataSizes['sentEnd'])  # Keep track of sentence boundaries
+        self._rows = array(self._data_sizes['rows'])
+        self._cols = array(self._data_sizes['cols'])
+        self._data = array(self._data_sizes['data'])
+        self._labels = array(self._data_sizes['labels'])
+        self._sent_end = array(self._data_sizes['sentEnd'])  # Keep track of sentence boundaries
         self._matrix = None
 
-        self._featCounter = BookKeeper()
-        self._labelCounter = BookKeeper()
-        self._usedFeats = None
+        self._feat_counter = BookKeeper()
+        self._label_counter = BookKeeper()
+        self._used_feats = None
         if 'usedFeats' in options and options['usedFeats']:
-            self._usedFeats = {line.strip() for line in open(options['usedFeats'], encoding='UTF-8')}
+            self._used_feats = {line.strip() for line in open(options['usedFeats'], encoding='UTF-8')}
 
     def save(self):
         print('saving model...', end='', file=sys.stderr, flush=True)
-        joblib.dump(self._model, '{0}'.format(self._modelFileName), compress=3)
+        joblib.dump(self._model, '{0}'.format(self._model_file_name), compress=3)
         print('done\nsaving feature and label lists...', end='', file=sys.stderr, flush=True)
-        self._featCounter.save(self._featCounterFileName)
-        self._labelCounter.save(self._labelCounterFileName)
+        self._feat_counter.save(self._feat_counter_file_name)
+        self._label_counter.save(self._label_counter_file_name)
         print('done', file=sys.stderr, flush=True)
 
     def _update_sent_end(self, sent_ends, row_nums):
-        new_ends = array(self._dataSizes['sentEnd'])
+        new_ends = array(self._data_sizes['sentEnd'])
         vbeg = 0
         for end in sent_ends:
             vend = -1
@@ -87,10 +87,10 @@ class Trainer:
         return new_ends
 
     def _convert_to_np_array(self):
-        rows_np = np.array(self._rows, dtype=self._dataSizes['rows_np'])
-        cols_np = np.array(self._cols, dtype=self._dataSizes['cols'])
-        data_np = np.array(self._data, dtype=self._dataSizes['data'])
-        labels_np = np.array(self._labels, dtype=self._dataSizes['labels'])
+        rows_np = np.array(self._rows, dtype=self._data_sizes['rows_np'])
+        cols_np = np.array(self._cols, dtype=self._data_sizes['cols'])
+        data_np = np.array(self._data, dtype=self._data_sizes['data'])
+        labels_np = np.array(self._labels, dtype=self._data_sizes['labels'])
         del self._rows
         del self._cols
         del self._data
@@ -103,7 +103,7 @@ class Trainer:
     def _make_sparse_array(self, row_num, col_num):
         print('creating training problem...', end='', file=sys.stderr, flush=True)
         matrix = csr_matrix((self._data, (self._rows, self._cols)), shape=(row_num, col_num),
-                            dtype=self._dataSizes['data'])
+                            dtype=self._data_sizes['data'])
         del self._rows
         del self._cols
         del self._data
@@ -112,19 +112,19 @@ class Trainer:
 
     def cutoff_feats(self):
         self._convert_to_np_array()
-        col_num = self._featCounter.num_of_names()
+        col_num = self._feat_counter.num_of_names()
         if self._cutoff < 2:
-            self._matrix = self._make_sparse_array(self._tokCount, col_num)
+            self._matrix = self._make_sparse_array(self._tok_count, col_num)
         else:
             print('discarding features with less than {0} occurences...'.format(self._cutoff), end='', file=sys.stderr,
                   flush=True)
 
-            to_delete = self._featCounter.cutoff(self._cutoff)
+            to_delete = self._feat_counter.cutoff(self._cutoff)
             print('done!\nreducing training events by {0}...'.format(len(to_delete)), end='', file=sys.stderr,
                   flush=True)
             # ...that are not in featCounter anymore
             indices_to_keep_np = np.fromiter((ind for ind, featNo in enumerate(self._cols) if featNo not in to_delete),
-                                             dtype=self._dataSizes['cols'])
+                                             dtype=self._data_sizes['cols'])
             del to_delete
 
             # Reduce cols
@@ -186,14 +186,14 @@ class Trainer:
             for c, tok in enumerate(sen):
                 tok_index += 1
                 tok_feats = sentence_feats[c]
-                if self._usedFeats:
-                    tok_feats = [feat for feat in tok_feats if feat in self._usedFeats]
-                self._add_context(tok_feats, tok[self._tagField], tok_index)
+                if self._used_feats:
+                    tok_feats = [feat for feat in tok_feats if feat in self._used_feats]
+                self._add_context(tok_feats, tok[self._tag_field], tok_index)
             self._sent_end.append(tok_index)
             if sen_count % 1000 == 0:
                 print('{0}...'.format(str(sen_count)), end='', file=sys.stderr, flush=True)
 
-        self._tokCount = tok_index + 1
+        self._tok_count = tok_index + 1
         print('{0}...done!'.format(str(sen_count)), file=sys.stderr, flush=True)
 
     # Already featurized input
@@ -207,7 +207,7 @@ class Trainer:
                 label, feats = line[0], line[1:]
                 self._add_context(feats, label, tok_index)
             self._sent_end.append(tok_index)
-        self._tokCount = tok_index + 1
+        self._tok_count = tok_index + 1
 
     def _add_context(self, tok_feats, label, cur_tok):
         rows_append = self._rows.append
@@ -215,12 +215,12 @@ class Trainer:
         data_append = self._data.append
 
         # Features are sorted to ensure identical output no matter where the features are coming from
-        for featNumber in {self._featCounter.get_no_train(feat) for feat in sorted(tok_feats)}:
+        for featNumber in {self._feat_counter.get_no_train(feat) for feat in sorted(tok_feats)}:
             rows_append(cur_tok)
             cols_append(featNumber)
             data_append(1)
 
-        self._labels.append(self._labelCounter.get_no_train(label))
+        self._labels.append(self._label_counter.get_no_train(label))
 
     # Counting zero elements can be really slow...
     def most_informative_features(self, output_stream=sys.stdout, n=-1, count_zero=False):
@@ -244,10 +244,10 @@ class Trainer:
         # min(C(feature=value, label1)/C(label1), for any label1)/
         # max(C(feature=value, label2)/C(label2), for any label2)
         matrix = self._matrix  # For easiser handling
-        self._featCounter.makeno_to_name()
-        self._labelCounter.makeno_to_name()
-        featno_to_name = self._featCounter.no_to_name
-        labelno_to_name = self._labelCounter.no_to_name
+        self._feat_counter.makeno_to_name()
+        self._label_counter.makeno_to_name()
+        featno_to_name = self._feat_counter.no_to_name
+        labelno_to_name = self._label_counter.no_to_name
         labels = self._labels  # indexed by token rows (row = token number, column = feature number)
         feat_val_counts = defaultdict(Counter)  # feat, val -> label: count
 
@@ -317,10 +317,10 @@ class Trainer:
                 maxprob[feature], minprob[feature], ratio), file=output_stream)
 
     def to_crfsuite(self, output_stream=sys.stdout):
-        self._featCounter.makeno_to_name()
-        self._labelCounter.makeno_to_name()
-        featno_to_name = self._featCounter.no_to_name
-        labelno_to_name = self._labelCounter.no_to_name
+        self._feat_counter.makeno_to_name()
+        self._label_counter.makeno_to_name()
+        featno_to_name = self._feat_counter.no_to_name
+        labelno_to_name = self._label_counter.no_to_name
         sent_end = self._sent_end
         matrix = self._matrix.tocsr()
         labels = self._labels
