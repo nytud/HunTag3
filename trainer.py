@@ -16,7 +16,7 @@ from sklearn.linear_model import LogisticRegression
 # from sklearn.svm import SVC
 # from sklearn.multiclass import OneVsRestClassifier
 
-from tools import BookKeeper, sentence_iterator, featurize_sentence
+from tools import BookKeeper, sentence_iterator, featurize_sentence, use_featurized_sentence
 
 
 class Trainer:
@@ -65,6 +65,7 @@ class Trainer:
         if feat_filename is not None:
             used_feats = {line.strip() for line in open(feat_filename, encoding='UTF-8')}
             self._feat_filter = lambda token_feats: [feat for feat in token_feats if feat in used_feats]
+            self._tag_field = options.get('tag_field', 0)
 
     def save(self):
         print('saving model...', end='', file=sys.stderr, flush=True)
@@ -178,41 +179,33 @@ class Trainer:
 
             print('done!', file=sys.stderr, flush=True)
 
-    # Input need featurizing
-    def get_events(self, data):
+    def get_events_from_data(self, data, featurized_data=False):
+        """
+        Read input data in variable forms
+        :param data: one token per line, empty line as sentence separator
+        :param featurized_data: extract the features from lines or data is already featurized
+        :return: Nothing
+        """
         print('featurizing sentences...', end='', file=sys.stderr, flush=True)
         sen_count = 0
         tok_index = -1  # Index starts from 0
+        if featurized_data:
+            featurize_sentence_fun = use_featurized_sentence
+        else:
+            featurize_sentence_fun = featurize_sentence
+
         for sen, _ in sentence_iterator(data):
             sen_count += 1
-            sentence_feats = featurize_sentence(sen, self._features, self._feat_filter)
-            for c, tok in enumerate(sen):
+            sentence_feats = featurize_sentence_fun(sen, self._features, self._feat_filter, self._tag_field)
+            for label, *feats in sentence_feats:
                 tok_index += 1
-                tok_feats = sentence_feats[c]
-                self._add_context(tok_feats, tok[self._tag_field], tok_index)
+                self._add_context(feats, label, tok_index)
             self._sent_end.append(tok_index)
             if sen_count % 1000 == 0:
                 print('{0}...'.format(str(sen_count)), end='', file=sys.stderr, flush=True)
 
         self._tok_count = tok_index + 1
         print('{0}...done!'.format(str(sen_count)), file=sys.stderr, flush=True)
-
-    def get_events_from_file(self, data):
-        """
-        Already featurized input (first field is the label, after that every field are the features...)
-        :param data: one token per line, empty line as sentence separator
-        :return: Nothing
-        """
-        tok_index = -1  # Index starts from 0
-        for line in data:
-            line = line.strip()
-            if len(line) > 0:
-                tok_index += 1
-                line = line.split()
-                label, feats = line[0], line[1:]
-                self._add_context(feats, label, tok_index)
-            self._sent_end.append(tok_index)
-        self._tok_count = tok_index + 1
 
     def _add_context(self, tok_feats, label, cur_tok):
         rows_append = self._rows.append
@@ -321,7 +314,7 @@ class Trainer:
                           for l, c in feat_val_counts[feature].items())),
                 maxprob[feature], minprob[feature], ratio), file=output_stream)
 
-    def to_crfsuite(self, output_stream=sys.stdout):
+    def write_featurized_input(self, output_stream=sys.stdout):
         self._feat_counter.makeno_to_name()
         self._label_counter.makeno_to_name()
         featno_to_name = self._feat_counter.no_to_name

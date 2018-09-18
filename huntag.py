@@ -26,25 +26,17 @@ def main_trans_model_train(options):
 def main_train(feature_set, options):
     trainer = Trainer(feature_set, options)
 
-    infeat_file = options.get('infeat_file')
-
-    if infeat_file is not None:
-        # Use with featurized input
-        trainer.get_events_from_file(infeat_file)
-    else:  # Use with raw input
-        trainer.get_events(options['input_stream'])
-
+    trainer.get_events_from_data(options['input_stream'], options['inp_featurized'])
     trainer.cutoff_feats()
-    to_crfsuite = options.get('to_crfsuite')
 
     if options['task'] == 'most-informative-features':
         trainer.most_informative_features(options['output_stream'])
-    elif to_crfsuite is not None:
-        trainer.to_crfsuite(options['output_stream'])
+    elif options['task'] == 'train-featurize':
+        trainer.write_featurized_input(options['output_stream'])
     else:
         trainer.train()
 
-    if options['task'] != 'most-informative-features':
+    if options['save_model']:
         trainer.save()
 
 
@@ -160,8 +152,10 @@ def valid_file(input_file):
 def parse_args():
     parser = argparse.ArgumentParser()
 
-    parser.add_argument('task', choices=['transmodel-train', 'most-informative-features', 'train', 'tag'],
-                        help='avaliable tasks: transmodel-train, most-informative-features, train, tag')
+    parser.add_argument('task', choices=['transmodel-train', 'most-informative-features', 'train', 'tag',
+                                         'print-weights', 'train-featurize', 'tag-featurize'],
+                        help='avaliable tasks: transmodel-train, most-informative-features, train, tag, '
+                             'print-weights, train-featurize, tag-featurize')
 
     parser.add_argument('-c', '--config-file', dest='cfg_file', type=valid_file,
                         help='read feature configuration from FILE',
@@ -212,6 +206,13 @@ def parse_args():
                         help='specify FIELD containing the labels to build models from',
                         metavar='FIELD')
 
+    parser.add_argument('--input-featurized', dest='inp_featurized', action='store_true', default=False,
+                        help='use training events in FILE (already featurized input, see --to-crfsuite)')
+
+    parser.add_argument('-o', '--output', dest='output_filename',
+                        help='Use output file instead of STDOUT',
+                        metavar='FILE')
+
     group_i = parser.add_mutually_exclusive_group()
 
     group_i.add_argument('-i', '--input', dest='input_filename', type=valid_file,
@@ -221,26 +222,6 @@ def parse_args():
     group_i.add_argument('-d', '--input-dir', dest='io_dirs', type=valid_dir,
                          help='process all files in DIR (instead of stdin)',
                          metavar='DIR')
-
-    group_i.add_argument('-f', '--input-feature-file', dest='infeat_filename', type=valid_file,
-                         help='use training events in FILE (already featurized input, see --to-crfsuite)',
-                         metavar='FILE')
-
-    group_o = parser.add_mutually_exclusive_group()
-
-    group_o.add_argument('-F', '--feature-file', dest='outfeat_filename',
-                         help='write training events to FILE (deprecated, use --to-crfsuite instead)',
-                         metavar='FILE')
-
-    group_o.add_argument('-o', '--output', dest='output_filename',
-                         help='Use output file instead of STDOUT',
-                         metavar='FILE')
-
-    group_o.add_argument('--to-crfsuite', dest='to_crfsuite', action='store_true', default=False,
-                         help='convert input to CRFsuite format to STDOUT')
-
-    group_o.add_argument('--print-weights', dest='print_weights', type=int,
-                         help='print model weights instead of tagging')
 
     return parser.parse_args()
 
@@ -267,26 +248,31 @@ def main():
                           'labels': 'H', 'labels_np': np.uint16,     # Currently labels > 256...
                           'sent_end': 'Q', 'sent_end_np': np.uint64  # Sentence Ends in rowIndex
                           }                                          # ...for safety
-    options.output_stream = sys.stdout
-    options.input_stream = sys.stdin
 
     options_dict = vars(options)
     if options_dict['input_filename']:
         options_dict['input_stream'] = open(options_dict['input_filename'], encoding='UTF-8')
+    else:
+        options['input_stream'] = sys.stdin
+
     if options_dict['output_filename']:
         options_dict['output_stream'] = open(options_dict['output_filename'], 'w', encoding='UTF-8')
+    else:
+        options['output_stream'] = sys.stdout
 
+    # Use with featurized input or raw input
+    if options_dict['inp_featurized']:
+        feature_set = None
+    else:
+        feature_set = get_featureset_yaml(options_dict['cfg_file'])
+
+    options['save_model'] = False
     if options_dict['task'] == 'transmodel-train':
         main_trans_model_train(options_dict)
-    elif options_dict['task'] == 'train' or options_dict['task'] == 'most-informative-features':
-        feature_set = get_featureset_yaml(options_dict['cfg_file'])
+    elif options_dict['task'] in {'train', 'most-informative-features'}:
+        options['save_model'] = True
         main_train(feature_set, options_dict)
     elif options_dict['task'] == 'tag':
-        if options_dict['infeat_filename']:
-            feature_set = None
-            options_dict['infeat_file'] = open(options_dict['infeat_filename'], encoding='UTF-8')
-        else:
-            feature_set = get_featureset_yaml(options_dict['cfg_file'])
         main_tag(feature_set, options_dict)
     else:
         print('Error: Task name must be specified! Please see --help!', file=sys.stderr, flush=True)

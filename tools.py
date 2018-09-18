@@ -31,18 +31,24 @@ def sentence_iterator(input_stream):
                 print('WARNING: wrong formatted sentences, only one blank line allowed!', file=sys.stderr, flush=True)
         else:
             curr_sen.append(line.split())
-    # XXX Here should be an error because of missing blank line before EOF
     if curr_sen:
         print('WARNING: No blank line before EOF!', file=sys.stderr, flush=True)
         yield curr_sen, curr_comment
 
 
 # TODO: Maybe better place in feature.py
-def featurize_sentence(sen, features, feat_filter):
-    sentence_feats = [[] for _ in sen]
+def featurize_sentence(sen, features, feat_filter, label_field):
+    sentence_feats = [[fields[label_field]] for fields in sen]
     for feature in features.values():
         for c, feats in enumerate(feature.eval_sentence(sen)):
             sentence_feats[c] += feat_filter(feats)
+    return sentence_feats
+
+
+def use_featurized_sentence(sen, _, feat_filter, label_field):
+    sentence_feats = [[fields[label_field]] for fields in sen]
+    for c, feats in enumerate(enumerate(sen)):
+        sentence_feats[c] += feat_filter([feat for i, feat in enumerate(feats) if i != label_field])
     return sentence_feats
 
 
