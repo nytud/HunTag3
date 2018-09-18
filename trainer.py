@@ -187,13 +187,13 @@ class Trainer:
         :return: Nothing
         """
         print('featurizing sentences...', end='', file=sys.stderr, flush=True)
-        sen_count = 0
-        tok_index = -1  # Index starts from 0
         if featurized_data:
             featurize_sentence_fun = use_featurized_sentence
         else:
             featurize_sentence_fun = featurize_sentence
 
+        sen_count = 0
+        tok_index = -1  # Index starts from 0
         for sen, _ in sentence_iterator(data):
             sen_count += 1
             sentence_feats = featurize_sentence_fun(sen, self._features, self._feat_filter, self._tag_field)

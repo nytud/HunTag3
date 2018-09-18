@@ -36,17 +36,24 @@ def sentence_iterator(input_stream):
         yield curr_sen, curr_comment
 
 
-# TODO: Maybe better place in feature.py
-def featurize_sentence(sen, features, feat_filter, label_field):
-    sentence_feats = [[fields[label_field]] for fields in sen]
+def featurize_sentence(sen, features, feat_filter=lambda token_feats: token_feats, label_field=None):
+    if label_field is None:  # Tagging
+        sentence_feats = [[] for _ in sen]
+    else:  # Training
+        sentence_feats = [[fields[label_field]] for fields in sen]
+
     for feature in features.values():
         for c, feats in enumerate(feature.eval_sentence(sen)):
             sentence_feats[c] += feat_filter(feats)
     return sentence_feats
 
 
-def use_featurized_sentence(sen, _, feat_filter, label_field):
-    sentence_feats = [[fields[label_field]] for fields in sen]
+def use_featurized_sentence(sen, _, feat_filter=lambda token_feats: token_feats, label_field=None):
+    if label_field is None:  # Tagging
+        sentence_feats = [[] for _ in sen]
+    else:  # Training
+        sentence_feats = [[fields[label_field]] for fields in sen]
+
     for c, feats in enumerate(enumerate(sen)):
         sentence_feats[c] += feat_filter([feat for i, feat in enumerate(feats) if i != label_field])
     return sentence_feats
@@ -62,16 +69,12 @@ class BookKeeper:
         if loadfromfile is not None:
             self._name_to_no.default_factory = count(start=self.load(loadfromfile)).__next__
 
-    def make_inverted_dict(self):
-        self.no_to_name = {}  # This is built only upon reading back from file
-        for name, no in self._name_to_no.items():
-            self.no_to_name[no] = name
-
     def num_of_names(self):
         return len(self._name_to_no)
 
     def makeno_to_name(self):
         self.no_to_name = {v: k for k, v in self._name_to_no.items()}
+        assert len(self.no_to_name) == len(self._name_to_no)
 
     def cutoff(self, cutoff):
         to_delete = {self._name_to_no.pop(name) for name, counts in self._counter.items() if counts < cutoff}

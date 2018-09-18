@@ -16,11 +16,11 @@ from transmodel import TransModel
 
 def main_trans_model_train(options):
     trans_model = TransModel(options['tag_field'], lmw=options['lmw'], order=options['transmodel_order'])
-    # It's possible to train multiple times incrementally...
+    # It's possible to train multiple times incrementally... (Just call this function on different data, then compile())
     trans_model.train(options['input_stream'])
     # Close training, compute probabilities
-    trans_model.count()
-    trans_model.write_to_file(options['transmodel_filename'])
+    trans_model.compile()
+    trans_model.save_to_file(options['transmodel_filename'])
 
 
 def main_train(feature_set, options):
@@ -35,37 +35,27 @@ def main_train(feature_set, options):
         trainer.write_featurized_input(options['output_stream'])
     else:
         trainer.train()
-
-    if options['save_model']:
         trainer.save()
 
 
 def main_tag(feature_set, options):
-    trans_model = None
-    if not (options['print_weights'] or options['to_crfsuite']):
+    if options['task'] not in {'print_weights', 'tag-featurize'}:
         print('loading transition model...', end='', file=sys.stderr, flush=True)
-        trans_model = TransModel.get_model_from_file(options['transmodel_filename'])
+        trans_model = TransModel.load_from_file(options['transmodel_filename'])
         print('done', file=sys.stderr, flush=True)
+    else:
+        trans_model = None
 
     tagger = Tagger(feature_set, trans_model, options)
-    infeat_file = options.get('infeat_file')
-    if infeat_file is not None:
-        # Tag a featurized file to to output_stream
-        for sen, comment in tagger.tag_features(infeat_file):
-            write_sentence(sen, options['output_stream'], comment)
-    elif 'io_dirs' in options and options['io_dirs']:
-        # Tag all files in a directory file to to filename.tagged
+
+    if 'io_dirs' in options and options['io_dirs']:  # Tag all files in a directory file to to filename.tagged
         for sen, filename in tagger.tag_dir(options['io_dirs'][0]):
             write_sentence(sen, open(join(options['io_dirs'][1], '{0}.tagged'.format(filename)), 'a', encoding='UTF-8'))
-    elif 'to_crfsuite' in options and options['to_crfsuite']:
-        # Make CRFsuite format to output_stream for tagging
-        tagger.to_crfsuite(options['input_stream'], options['output_stream'])
-    elif 'print_weights' in options and options['print_weights']:
-        # Print MaxEnt weights to STDOUT
+    elif 'print_weights' in options and options['print_weights']:  # Print MaxEnt weights to STDOUT
         tagger.print_weights(options['print_weights'], options['output_stream'])
-    else:
-        # Tag input_stream to output_stream
-        for sen, comment in tagger.tag_corp(options['input_stream']):
+    else:  # Tag a featurized or unfeaturized file or write the featurized format to to output_stream
+        for sen, comment in tagger.tag_corp(options['input_stream'], options['inp_featurized'],
+                                            options['task'] == 'tag-featurize'):
             write_sentence(sen, options['output_stream'], comment)
 
 
@@ -161,7 +151,7 @@ def parse_args():
                         help='read feature configuration from FILE',
                         metavar='FILE')
 
-    parser.add_argument('-m', '--model', dest='model_name',
+    parser.add_argument('-m', '--model', dest='model_name', required=True,
                         help='name of the (trans) model to be read/written',
                         metavar='NAME')
 
@@ -207,7 +197,7 @@ def parse_args():
                         metavar='FIELD')
 
     parser.add_argument('--input-featurized', dest='inp_featurized', action='store_true', default=False,
-                        help='use training events in FILE (already featurized input, see --to-crfsuite)')
+                        help='use training events in FILE (already featurized input, see {train,tag}-featurize)')
 
     parser.add_argument('-o', '--output', dest='output_filename',
                         help='Use output file instead of STDOUT',
@@ -228,14 +218,11 @@ def parse_args():
 
 def main():
     options = parse_args()
-    if options.outfeat_filename:
-        print('Error: Argument --feature-file is deprecated! Use --to-crfsuite instead!',
-              file=sys.stderr, flush=True)
+    if options.inp_featurized and options.task in {'train-featurize', 'tag-featurize'}:
+        print('Error: Can not featurize input, which is already featurized according to CLI options!', file=sys.stderr,
+              flush=True)
         sys.exit(1)
 
-    if not options.model_name:
-        print('Error: Model name must be specified! Please see --help!', file=sys.stderr, flush=True)
-        sys.exit(1)
     options.model_filename = '{0}{1}'.format(options.model_name, options.model_ext)
     options.transmodel_filename = '{0}{1}'.format(options.model_name, options.transmodel_ext)
     options.featcounter_filename = '{0}{1}'.format(options.model_name, options.featurenumbers_ext)
@@ -253,12 +240,12 @@ def main():
     if options_dict['input_filename']:
         options_dict['input_stream'] = open(options_dict['input_filename'], encoding='UTF-8')
     else:
-        options['input_stream'] = sys.stdin
+        options_dict['input_stream'] = sys.stdin
 
     if options_dict['output_filename']:
         options_dict['output_stream'] = open(options_dict['output_filename'], 'w', encoding='UTF-8')
     else:
-        options['output_stream'] = sys.stdout
+        options_dict['output_stream'] = sys.stdout
 
     # Use with featurized input or raw input
     if options_dict['inp_featurized']:
@@ -266,15 +253,13 @@ def main():
     else:
         feature_set = get_featureset_yaml(options_dict['cfg_file'])
 
-    options['save_model'] = False
     if options_dict['task'] == 'transmodel-train':
         main_trans_model_train(options_dict)
-    elif options_dict['task'] in {'train', 'most-informative-features'}:
-        options['save_model'] = True
+    elif options_dict['task'] in {'train', 'most-informative-features', 'train-featurize'}:
         main_train(feature_set, options_dict)
-    elif options_dict['task'] == 'tag':
+    elif options_dict['task'] in {'tag', 'print-weights', 'tag-featurize'}:
         main_tag(feature_set, options_dict)
-    else:
+    else:  # Will never happen because argparse...
         print('Error: Task name must be specified! Please see --help!', file=sys.stderr, flush=True)
         sys.exit(1)
 

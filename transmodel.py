@@ -106,7 +106,7 @@ class TransModel:
         self.updated = False
 
     # Close model, and compute probabilities after (possibly incremental) training
-    def count(self):
+    def compile(self):
         self.trigram_logprob = {}
         self.bigram_logprob = {}
         self.unigram_logprob = {}
@@ -252,13 +252,13 @@ class TransModel:
     def prob(self, n_minus_two=None, n_minus_one=None, nth=None):
         return math.exp(self._log_prob(n_minus_two, n_minus_one, nth))
 
-    def write_to_file(self, file_name):
+    def save_to_file(self, file_name):
         self.tags.remove(self._boundary_symbol)
         with open(file_name, 'wb') as f:
             pickle.dump(self, f)
 
     @staticmethod
-    def get_model_from_file(file_name):
+    def load_from_file(file_name):
         with open(file_name, 'rb') as f:
             return pickle.load(f)
 
