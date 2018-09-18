@@ -28,13 +28,13 @@ features:
  - # Checks for underscore (_) character in token
     name: form
     type: token
-    actionName: getForm
+    action_name: getForm
     fields: 0
 
  - # N-grams of the letters in a token
     name: ngr
     type: token
-    actionName: ngrams
+    action_name: ngrams
     fields: 0
     options:
         n: 2
@@ -42,7 +42,7 @@ features:
  - # The n caracter long prefix ot a token
     name: prefix
     type: token
-    actionName: prefix
+    action_name: prefix
     fields: 0
     options:
         n: 5
@@ -51,287 +51,287 @@ features:
  - # Token pattern: lowercase -> 'a', uppercase -> 'A', other -> '_'
     name: longpatt
     type: token
-    actionName: longPattern
+    action_name: longPattern
     fields: 0
 
  - # Token pattern: lowercase -> 'a', uppercase -> 'A', other -> '_', merge neighbouring characters if they are same
     name: shortpatt
     type: token
-    actionName: shortPattern
+    action_name: shortPattern
     fields: 0
 
 
  - # Does it have capital letter in it anywhere?
     name: hascap
     type: token
-    actionName: hasCapOperator
+    action_name: hasCapOperator
     fields: 0
 
  - # Does it have all letter capital?
     name: allcaps
     type: token
-    actionName: isAllcapsOperator
+    action_name: isAllcapsOperator
     fields: 0
 
  - # Token is an uppercase letter followed by a period (from Bikel et al. (1999))
     name: capperiod
     type: token
-    actionName: capPeriodOperator
+    action_name: capPeriodOperator
     fields: 0
 
  - # Is the token Camel case?
     name: camel
     type: token
-    actionName: isCamelOperator
+    action_name: isCamelOperator
     fields: 0
 
  - # Only first letter is capital?
     name: capitalized
     type: token
-    actionName: isCapOperator
+    action_name: isCapOperator
     fields: 0
 
 
  - # Token is two digit (from Bikel et al. (1999))
     name: twodigit
     type: token
-    actionName: twoDigitNumOperator
+    action_name: twoDigitNumOperator
     fields: 0
 
  - # Token contains digit and comma (. or ,) (from Bikel et al. (1999))
     name: digitcomma
     type: token
-    actionName: containsDigitAndCommaOperator
+    action_name: containsDigitAndCommaOperator
     fields: 0
 
  - # Token is four digit
     name: fourdigit
     type: token
-    actionName: fourDigitNumOperator
+    action_name: fourDigitNumOperator
     fields: 0
 
  - # Does the token contain number?
     name: hasnumber
     type: token
-    actionName: hasNumberOperator
+    action_name: hasNumberOperator
     fields: 0
 
  - # Token is number
     name: isdigit
     type: token
-    actionName: isDigitOperator
+    action_name: isDigitOperator
     fields: 0
 
  - # Token contains year decade (from Zhou and Su (2002))
     name: yeardecade
     type: token
-    actionName: yearDecadeOperator
+    action_name: yearDecadeOperator
     fields: 0
 
 
  - # Get lemma
     name: lemma
     type: token
-    actionName: getForm
+    action_name: getForm
     fields: 1
 
 # - # Is OOV?
 #    name: oov
 #    type: token
-#    actionName: unknown
+#    action_name: unknown
 #    fields: 2
 
  - # Detect plural form in hfst code
     name: plur
     type: token
-    actionName: hfstPlural
+    action_name: hfstPlural
     fields: 3
 
  - # Kr code patterns of a sentence (extended version) EXTENSIONS DISABLED!
     name: krpatt
     type: sentence
-    actionName: krPatts
+    action_name: krPatts
     fields: 2
     radius: 0  # rad is not radius!
     options:
         rad: 3  # The old config is misleading!
-        minLength: 2
-        maxLength: 99
+        min_length: 2
+        max_length: 99
         lang: hu
-        MSD: 0
+        msd: 0
         since_dt: 0  # (Endrédy & Indig 2015, section 4.2)
-        CASDiff: 0  # (Endrédy & Indig 2015, section 4.2)
-        POSSConnect: 0  # (Endrédy & Indig 2015, section 4.2)
-        fullKr: 0
+        cas_diff: 0  # (Endrédy & Indig 2015, section 4.2)
+        poss_connect: 0  # (Endrédy & Indig 2015, section 4.2)
+        full_kr: 0
 
 # - # Checks if the neighbouring tokens have the same grammatical case
 #    name: bwsamecases
 #    type: sentence
-#    actionName: isBetweenSameCases
+#    action_name: isBetweenSameCases
 #    fields: 3
 #    options:
-#        maxDist: 6
+#        max_dist: 6
 
  - # Description: Location names generated from the train corpus
     name: trainloc
     type: lex
-    actionName: hunner/lex/loc.fromtraincorpus.lex
+    action_name: hunner/lex/loc.fromtraincorpus.lex
     fields: 0
 
  - # Description: Organisation names generated from the train corpus
     name: trainorg
     type: lex
-    actionName: hunner/lex/org.fromtraincorpus.lex
+    action_name: hunner/lex/org.fromtraincorpus.lex
     fields: 0
 
  - # Description: Person names generated from the train corpus
     name: trainpers
     type: lex
-    actionName: hunner/lex/per.fromtraincorpus.lex
+    action_name: hunner/lex/per.fromtraincorpus.lex
     fields: 0
 
  - # Description: Miscallenous names generated from the train corpus
     name: trainmisc
     type: lex
-    actionName: hunner/lex_from_Eszter.Simon/misc.fromtraincorpus.lex
+    action_name: hunner/lex_from_Eszter.Simon/misc.fromtraincorpus.lex
     fields: 0
 
  #~ - # Description: XXX Fill me!
     #~ name: trainloc
     #~ type: lex
-    #~ actionName: hunner/lex/loc.fromtraincorpus.lex
+    #~ action_name: hunner/lex/loc.fromtraincorpus.lex
     #~ fields: 0
 #~ 
  #~ - # Description: XXX Fill me!
     #~ name: trainorg
     #~ type: lex
-    #~ actionName: hunner/lex/org.fromtraincorpus.lex
+    #~ action_name: hunner/lex/org.fromtraincorpus.lex
     #~ fields: 0
 #~ 
  #~ - # Description: XXX Fill me!
     #~ name: trainpers
     #~ type: lex
-    #~ actionName: hunner/lex/per.fromtraincorpus.lex
+    #~ action_name: hunner/lex/per.fromtraincorpus.lex
     #~ fields: 0
 #~ 
  #~ - # Description: XXX Fill me!
     #~ name: trainmisc
     #~ type: lex
-    #~ actionName: hunner/lex/misc.fromtraincorpus.lex
+    #~ action_name: hunner/lex/misc.fromtraincorpus.lex
     #~ fields: 0
 
  #~ - # Description: XXX Fill me!
     #~ name: wikiloc
     #~ type: lex
-    #~ actionName: ../huwiki/fromTrainLists/loc.fromtrain.list
+    #~ action_name: ../huwiki/fromTrainLists/loc.fromtrain.list
     #~ fields: 0
 #~ 
  #~ - # Description: XXX Fill me!
     #~ name: wikiorg
     #~ type: lex
-    #~ actionName: ../huwiki/fromTrainLists/misc.fromtrain.list
+    #~ action_name: ../huwiki/fromTrainLists/misc.fromtrain.list
     #~ fields: 0
 #~ 
  #~ - # Description: XXX Fill me!
     #~ name: wikipers
     #~ type: lex
-    #~ actionName: ../huwiki/fromTrainLists/org.fromtrain.list
+    #~ action_name: ../huwiki/fromTrainLists/org.fromtrain.list
     #~ fields: 0
 #~ 
  #~ - # Description: XXX Fill me!
     #~ name: wikimisc
     #~ type: lex
-    #~ actionName: ../huwiki/fromTrainLists/per.fromtrain.list
+    #~ action_name: ../huwiki/fromTrainLists/per.fromtrain.list
     #~ fields: 0
 #~ 
  #~ - # Description: XXX Fill me!
     #~ name: loc
     #~ type: lex
-    #~ actionName: hunner/lex/loc/loc_all
+    #~ action_name: hunner/lex/loc/loc_all
     #~ fields: 0
 #~ 
  #~ - # Description: XXX Fill me!
     #~ name: street
     #~ type: lex
-    #~ actionName: hunner/lex/loc/utcanev.matav.lex
+    #~ action_name: hunner/lex/loc/utcanev.matav.lex
     #~ fields: 0
 #~ 
  #~ - # Description: XXX Fill me!
     #~ name: locsuff
     #~ type: lex
-    #~ actionName: hunner/lex/loc/loc_suffix.txt
+    #~ action_name: hunner/lex/loc/loc_suffix.txt
     #~ fields: 0
 #~ 
  #~ - # Description: XXX Fill me!
     #~ name: misc
     #~ type: lex
-    #~ actionName: hunner/lex/misc/misc_all
+    #~ action_name: hunner/lex/misc/misc_all
     #~ fields: 0
 #~ 
  #~ - # Description: XXX Fill me!
     #~ name: org
     #~ type: lex
-    #~ actionName: hunner/lex/org/org_all
+    #~ action_name: hunner/lex/org/org_all
     #~ fields: 0
 #~ 
  #~ - # Description: XXX Fill me!
     #~ name: orgsuff
     #~ type: lex
-    #~ actionName: hunner/lex/org/cegszuffix.lex
+    #~ action_name: hunner/lex/org/cegszuffix.lex
     #~ fields: 0
 #~ 
  #~ - # Description: XXX Fill me!
     #~ name: firstname
     #~ type: lex
-    #~ actionName: hunner/lex/per/keresztnev_all
+    #~ action_name: hunner/lex/per/keresztnev_all
     #~ fields: 0
 #~ 
  #~ - # Description: XXX Fill me!
     #~ name: lastname
     #~ type: lex
-    #~ actionName: hunner/lex/per/vezeteknev_all
+    #~ action_name: hunner/lex/per/vezeteknev_all
     #~ fields: 0
 #~ 
  #~ - # Description: XXX Fill me!
     #~ name: perspre
     #~ type: lex
-    #~ actionName: hunner/lex/per/pers_prefix.txt
+    #~ action_name: hunner/lex/per/pers_prefix.txt
     #~ fields: 0
 #~ 
  #~ - # Description: XXX Fill me!
     #~ name: rang
     #~ type: lex
-    #~ actionName: hunner/lex/per/rang.txt
+    #~ action_name: hunner/lex/per/rang.txt
     #~ fields: 0
 #~ 
  #~ - # Description: XXX Fill me!
     #~ name: loc
     #~ type: lex
-    #~ actionName: hunner/lex/loc/loc_bh
+    #~ action_name: hunner/lex/loc/loc_bh
     #~ fields: 0
 #~ 
  #~ - # Description: XXX Fill me!
     #~ name: misc
     #~ type: lex
-    #~ actionName: hunner/lex/misc/misc_bh
+    #~ action_name: hunner/lex/misc/misc_bh
     #~ fields: 0
 #~ 
  #~ - # Description: XXX Fill me!
     #~ name: org
     #~ type: lex
-    #~ actionName: hunner/lex/org/org_bh
+    #~ action_name: hunner/lex/org/org_bh
     #~ fields: 0
 #~ 
  #~ - # Description: XXX Fill me!
     #~ name: kernev
     #~ type: lex
-    #~ actionName: hunner/lex/per/kernev_bh
+    #~ action_name: hunner/lex/per/kernev_bh
     #~ fields: 0
 #~ 
  #~ - # Description: XXX Fill me!
     #~ name: veznev
     #~ type: lex
-    #~ actionName: hunner/lex/per/veznev_bh
+    #~ action_name: hunner/lex/per/veznev_bh
     #~ fields: 0
 
 ...

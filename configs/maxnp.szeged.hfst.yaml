@@ -32,37 +32,37 @@ features:
  - # Kr code patterns of a sentence (extended version)
     name: mypatt
     type: sentence
-    actionName: krPatts
+    action_name: krPatts
     fields: 2
     radius: 0  # rad is not radius!
     options:
         rad: 3  # The old config is misleading!
-        minLength: 2
-        maxLength: 99
+        min_length: 2
+        max_length: 99
         lang: hu
-        MSD: 0
+        msd: 0
         since_dt: 0  # (Endrédy & Indig 2015, section 4.2)
-        CASDiff: 0  # (Endrédy & Indig 2015, section 4.2)
-        POSSConnect: 0  # (Endrédy & Indig 2015, section 4.2)
-        fullKr: 0
+        cas_diff: 0  # (Endrédy & Indig 2015, section 4.2)
+        poss_connect: 0  # (Endrédy & Indig 2015, section 4.2)
+        full_kr: 0
 
 #~
  - # Checks for underscore (_) character in token (duplicate)
     name: hasunderscore
     type: token
-    actionName: hasUnderscoreOperator
+    action_name: hasUnderscoreOperator
     fields: 0
 
  - # Checks for underscore (_) character in token
     name: form
     type: token
-    actionName: getForm
+    action_name: getForm
     fields: 0
 
  - # N-grams of the letters in a token
     name: ngr
     type: token
-    actionName: ngrams
+    action_name: ngrams
     fields: 0
     options:
         n: 3
@@ -70,7 +70,7 @@ features:
  - # HFST code pieces 
     name: hfst
     type: token
-    actionName: hfstPieces
+    action_name: hfstPieces
     fields: 3
 
 
