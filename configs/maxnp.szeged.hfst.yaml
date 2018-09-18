@@ -1,0 +1,79 @@
+#!/bin/sh
+# -*- coding: utf-8, vim: expandtab:ts=4 -*-
+# The origin of the idea of 'runable yaml': https://gist.github.com/corvax19/5661251
+python3 -c '
+import yaml
+import sys
+
+try:
+    yaml.load(sys.stdin)
+
+except yaml.YAMLError as exc:
+    if hasattr(exc, "problem_mark"):
+        shifting = 20  # Line no. where "%YAML 1.1" is! (Numbering starts from 0!)
+        exc.problem_mark.line += shifting
+        exc.context_mark.line += shifting
+    print("Syntax error: {0}".format(exc))
+    sys.exit(1)
+
+print("Syntax OK!")
+'<<EOF
+%YAML 1.1
+---
+default:
+ cutoff: 1  #  1 if not set
+ radius: 5  # -1 if not set
+
+# Example:
+# kivilágított    kivilágított    [Afp-sn]MIGE    -       [Afp-sn]        0       12      12      I-N_2+
+# év      év      [Nc-sn] NX[abstract=YES,countable=YES,encnt=YES,measure=YES,time=YES]   év/elvont_fogalom/mennyiség/időszak/alapmértékegység/naptári_év  0       2       2       I-N_2+
+
+features:
+ - # Kr code patterns of a sentence (extended version)
+    name: mypatt
+    type: sentence
+    actionName: krPatts
+    fields: 2
+    radius: 0  # rad is not radius!
+    options:
+        rad: 3  # The old config is misleading!
+        minLength: 2
+        maxLength: 99
+        lang: hu
+        MSD: 0
+        since_dt: 0  # (Endrédy & Indig 2015, section 4.2)
+        CASDiff: 0  # (Endrédy & Indig 2015, section 4.2)
+        POSSConnect: 0  # (Endrédy & Indig 2015, section 4.2)
+        fullKr: 0
+
+#~
+ - # Checks for underscore (_) character in token (duplicate)
+    name: hasunderscore
+    type: token
+    actionName: hasUnderscoreOperator
+    fields: 0
+
+ - # Checks for underscore (_) character in token
+    name: form
+    type: token
+    actionName: getForm
+    fields: 0
+
+ - # N-grams of the letters in a token
+    name: ngr
+    type: token
+    actionName: ngrams
+    fields: 0
+    options:
+        n: 3
+
+ - # HFST code pieces 
+    name: hfst
+    type: token
+    actionName: hfstPieces
+    fields: 3
+
+
+
+...
+EOF
