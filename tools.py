@@ -37,11 +37,12 @@ def sentence_iterator(input_stream):
         yield curr_sen, curr_comment
 
 
-def featurize_sentence(sen, features):
+# TODO: Maybe better place in feature.py
+def featurize_sentence(sen, features, feat_filter):
     sentence_feats = [[] for _ in sen]
     for feature in features.values():
         for c, feats in enumerate(feature.eval_sentence(sen)):
-            sentence_feats[c] += feats
+            sentence_feats[c] += feat_filter(feats)
     return sentence_feats
 
 
@@ -83,7 +84,8 @@ class BookKeeper:
 
     def save(self, filename):
         with gzip.open(filename, mode='wt', encoding='UTF-8') as f:
-            f.writelines('{}\t{}\n'.format(name, no) for name, no in sorted(self._name_to_no.items(), key=itemgetter(1)))
+            f.writelines('{}\t{}\n'.format(name, no) for name, no in sorted(self._name_to_no.items(),
+                                                                            key=itemgetter(1)))
 
     def load(self, filename):
         no = 0  # Last no

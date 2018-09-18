@@ -15,7 +15,7 @@ from transmodel import TransModel
 
 
 def main_trans_model_train(options):
-    trans_model = TransModel(options['tag_field'], lmw=options['lmw'], order=options['transModelOrder'])
+    trans_model = TransModel(options['tag_field'], lmw=options['lmw'], order=options['transmodel_order'])
     # It's possible to train multiple times incrementally...
     trans_model.train(options['input_stream'])
     # Close training, compute probabilities
@@ -26,22 +26,25 @@ def main_trans_model_train(options):
 def main_train(feature_set, options):
     trainer = Trainer(feature_set, options)
 
-    if 'inFeatFile' in options and options['inFeatFile']:
+    infeat_file = options.get('infeat_file')
+
+    if infeat_file is not None:
         # Use with featurized input
-        trainer.get_events_from_file(options['inFeatFile'])
+        trainer.get_events_from_file(infeat_file)
     else:  # Use with raw input
         trainer.get_events(options['input_stream'])
 
+    trainer.cutoff_feats()
+    to_crfsuite = options.get('to_crfsuite')
+
     if options['task'] == 'most-informative-features':
-        trainer.cutoff_feats()
         trainer.most_informative_features(options['output_stream'])
-    elif 'to_crfsuite' in options and options['to_crfsuite']:
-        trainer.cutoff_feats()
+    elif to_crfsuite is not None:
         trainer.to_crfsuite(options['output_stream'])
-        trainer.save()
     else:
-        trainer.cutoff_feats()
         trainer.train()
+
+    if options['task'] != 'most-informative-features':
         trainer.save()
 
 
@@ -53,9 +56,10 @@ def main_tag(feature_set, options):
         print('done', file=sys.stderr, flush=True)
 
     tagger = Tagger(feature_set, trans_model, options)
-    if 'inFeatFile' in options and options['inFeatFile']:
+    infeat_file = options.get('infeat_file')
+    if infeat_file is not None:
         # Tag a featurized file to to output_stream
-        for sen, comment in tagger.tag_features(options['inFeatFile']):
+        for sen, comment in tagger.tag_features(infeat_file):
             write_sentence(sen, options['output_stream'], comment)
     elif 'io_dirs' in options and options['io_dirs']:
         # Tag all files in a directory file to to filename.tagged
@@ -175,7 +179,7 @@ def parse_args():
                         help='extension of trans model file to be read/written',
                         metavar='EXT')
 
-    parser.add_argument('--trans-model-order', dest='transModelOrder', default=3,
+    parser.add_argument('--trans-model-order', dest='transmodel_order', default=3,
                         help='order of the transition model',
                         metavar='EXT')
 

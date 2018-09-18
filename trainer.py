@@ -59,9 +59,12 @@ class Trainer:
 
         self._feat_counter = BookKeeper()
         self._label_counter = BookKeeper()
-        self._used_feats = None
-        if 'used_feats' in options and options['used_feats']:
-            self._used_feats = {line.strip() for line in open(options['used_feats'], encoding='UTF-8')}
+
+        self._feat_filter = lambda token_feats: token_feats
+        feat_filename = options.get('used_feats')
+        if feat_filename is not None:
+            used_feats = {line.strip() for line in open(feat_filename, encoding='UTF-8')}
+            self._feat_filter = lambda token_feats: [feat for feat in token_feats if feat in used_feats]
 
     def save(self):
         print('saving model...', end='', file=sys.stderr, flush=True)
@@ -182,12 +185,10 @@ class Trainer:
         tok_index = -1  # Index starts from 0
         for sen, _ in sentence_iterator(data):
             sen_count += 1
-            sentence_feats = featurize_sentence(sen, self._features)
+            sentence_feats = featurize_sentence(sen, self._features, self._feat_filter)
             for c, tok in enumerate(sen):
                 tok_index += 1
                 tok_feats = sentence_feats[c]
-                if self._used_feats:
-                    tok_feats = [feat for feat in tok_feats if feat in self._used_feats]
                 self._add_context(tok_feats, tok[self._tag_field], tok_index)
             self._sent_end.append(tok_index)
             if sen_count % 1000 == 0:
@@ -196,8 +197,12 @@ class Trainer:
         self._tok_count = tok_index + 1
         print('{0}...done!'.format(str(sen_count)), file=sys.stderr, flush=True)
 
-    # Already featurized input
     def get_events_from_file(self, data):
+        """
+        Already featurized input (first field is the label, after that every field are the features...)
+        :param data: one token per line, empty line as sentence separator
+        :return: Nothing
+        """
         tok_index = -1  # Index starts from 0
         for line in data:
             line = line.strip()
