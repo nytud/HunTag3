@@ -117,7 +117,7 @@ class Trainer:
     def cutoff_feats(self):
         self._convert_to_np_array()
         col_num = self._feat_counter.num_of_names()
-        if self._cutoff < 2:
+        if self._cutoff < 2:  # Keep all...
             self._matrix = self._make_sparse_array(self._tok_count, col_num)
         else:
             print('discarding features with less than {0} occurences...'.format(self._cutoff), end='', file=sys.stderr,

@@ -96,29 +96,19 @@ def get_featureset_yaml(cfg_file):
     cfg = load_yaml(cfg_file)
 
     if 'default' in cfg:
-        if 'cutoff' in cfg['default']:
-            default_cutoff = cfg['default']['cutoff']
-        if 'radius' in cfg['default']:
-            default_radius = cfg['default']['radius']
+        default_cutoff = cfg['default'].get('cutoff', default_cutoff)
+        default_radius = cfg['default'].get('radius', default_radius)
 
     for feat in cfg['features']:
-        options = {}
-        if 'options' in feat:
-            options = feat['options']
+        options = feat.get('options', {})
 
         if isinstance(feat['fields'], int):
             fields = [feat['fields']]
         else:
             fields = [int(field) for field in feat['fields'].split(',')]
 
-        radius = default_radius
-        if 'radius' in feat:
-            radius = feat['radius']
-
-        cutoff = default_cutoff
-        if 'cutoff' in feat:
-            cutoff = feat['cutoff']
-
+        radius = feat.get('radius', default_radius)
+        cutoff = feat.get('cutoff', default_cutoff)
         name = feat['name']
         features[name] = Feature(feat['type'], name, feat['action_name'], fields, radius, cutoff, options)
 
