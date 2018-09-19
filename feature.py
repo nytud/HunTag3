@@ -17,6 +17,7 @@ class Feature:
         self.name = name
         self.action_name = action_name
         self.fields = fields
+        self.field_indices = None
         self.radius = int(radius)
         self.cutoff = int(cutoff)
         self.options = options
@@ -43,13 +44,13 @@ class Feature:
     def eval_sentence(self, sentence):
         if self.kind == 'token':
             # Pick the relevant fields (label can be not just the last field)
-            feat_vec = [self.function(word[self.fields[0]], self.options) for word in sentence]
+            feat_vec = [self.function(word[self.field_indices[0]], self.options) for word in sentence]
         elif self.kind == 'lex':
             # Word will be substituted by its features from the Lexicon
             # self.fields denote the column of the word
-            feat_vec = self.lexicon.lex_eval_sentence([word[self.fields[0]] for word in sentence])
+            feat_vec = self.lexicon.lex_eval_sentence([word[self.field_indices[0]] for word in sentence])
         elif self.kind == 'sentence':
-            feat_vec = self.function(sentence, self.fields, self.options)
+            feat_vec = self.function(sentence, self.field_indices, self.options)
         else:
             print('eval_sentence: Unknown kind named {0}'.format(self.kind), file=sys.stderr, flush=True)
             sys.exit(1)

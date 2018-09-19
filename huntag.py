@@ -15,7 +15,8 @@ from transmodel import TransModel
 
 
 def main_trans_model_train(options):
-    trans_model = TransModel(options['tag_field'], lmw=options['lmw'], order=options['transmodel_order'])
+    tag_field = options['field_names'][options['tag_field']]
+    trans_model = TransModel(tag_field, lmw=options['lmw'], order=options['transmodel_order'])
     # It's possible to train multiple times incrementally... (Just call this function on different data, then compile())
     trans_model.train(options['input_stream'])
     # Close training, compute probabilities
@@ -102,7 +103,7 @@ def get_featureset_yaml(cfg_file):
     for feat in cfg['features']:
         options = feat.get('options', {})
 
-        if isinstance(feat['fields'], int):
+        if isinstance(feat['fields'], str):
             fields = [feat['fields']]
         else:
             fields = [int(field) for field in feat['fields'].split(',')]
@@ -182,7 +183,7 @@ def parse_args():
                         help='limit used features to those in FILE',
                         metavar='FILE')
 
-    parser.add_argument('-t', '--tag-field', dest='tag_field', type=int, default=-1,
+    parser.add_argument('-t', '--tag-field', dest='tag_field', default='label',
                         help='specify FIELD containing the labels to build models from',
                         metavar='FIELD')
 
@@ -236,6 +237,11 @@ def main():
         options_dict['output_stream'] = open(options_dict['output_filename'], 'w', encoding='UTF-8')
     else:
         options_dict['output_stream'] = sys.stdout
+
+    if options_dict['io_dirs'] is None:
+        # read one line to create input fileld permutation dict...
+        options_dict['field_names'] = {name: i for i, name in enumerate(options_dict['input_stream'].readline().
+                                                                        strip().split())}
 
     # Use with featurized input or raw input
     if options_dict['inp_featurized']:

@@ -33,7 +33,7 @@ features:
     name: mypatt
     type: sentence
     action_name: kr_patts
-    fields: 2
+    fields: morph
     radius: 0  # rad is not radius!
     options:
         rad: 3  # The old config is misleading!
@@ -51,19 +51,19 @@ features:
     name: hasunderscore
     type: token
     action_name: has_underscore_operator
-    fields: 0
+    fields: token
 
  - # Checks for underscore (_) character in token
     name: form
     type: token
     action_name: get_form
-    fields: 0
+    fields: token
 
  - # N-grams of the letters in a token
     name: ngr
     type: token
     action_name: ngrams
-    fields: 0
+    fields: token
     options:
         n: 3
 
@@ -71,7 +71,7 @@ features:
     name: hfst
     type: token
     action_name: hfst_pieces
-    fields: 3
+    fields: morph
 
 
 

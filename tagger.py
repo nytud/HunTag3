@@ -6,12 +6,13 @@ import os
 from sklearn.externals import joblib
 from scipy.sparse import csr_matrix
 
-from tools import sentence_iterator, featurize_sentence, use_featurized_sentence, BookKeeper
+from tools import sentence_iterator, featurize_sentence, use_featurized_sentence, BookKeeper, feature_names_to_indices
 
 
 class Tagger:
     def __init__(self, features, trans_model, options):
-        self._features = features
+        self._features = feature_names_to_indices(features, options['field_names'])
+        self._tag_field = options['field_names'][options['tag_field']]
         self._data_sizes = options['data_sizes']
         self._trans_probs = trans_model
         print('loading observation model...', end='', file=sys.stderr, flush=True)
@@ -34,19 +35,21 @@ class Tagger:
         return tagprobs_by_pos
 
     @staticmethod
-    def _add_tagging_normal(_, best_tagging):
+    def _add_tagging_normal(_, best_tagging, __):
         return [[label] for label in best_tagging]
 
     @staticmethod
-    def _add_tagging_featurized(sent, best_tagging):
-        return [tok + [label] for tok, label in zip(sent, best_tagging)]
+    def _add_tagging_featurized(sent, best_tagging, tag_index):
+        for tok, label in zip(sent, best_tagging):
+            tok.insert(tag_index, label)
+        return sent
 
-    def tag_by_feat_number(self, sen, feat_numbers, add_tagging):
+    def tag_by_feat_number(self, sen, feat_numbers, add_tagging, tag_index):
         best_tagging = self._trans_probs.tag_sent(self._get_tag_probs_by_pos(feat_numbers))
-        return add_tagging(sen, best_tagging)  # Add tagging to sentence
+        return add_tagging(sen, best_tagging, tag_index)  # Add tagging to sentence
 
     @staticmethod
-    def _print_features(_, __, feat_numbers, featno_to_name):
+    def _print_features(_, __, feat_numbers, featno_to_name, ___):
         return [[featno_to_name[featNum].replace(':', 'colon') for featNum in featNumberSet]
                 for featNumberSet in feat_numbers]
 
@@ -72,7 +75,7 @@ class Tagger:
             # Get Sentence Features translated to numbers and contexts in two steps
             feat_numbers = [{get_no_tag(feat) for feat in feats if get_no_tag(feat) is not None} for feats in sen_feats]
 
-            yield tag_fun(sen, feat_numbers, format_output), comment
+            yield tag_fun(sen, feat_numbers, format_output, self._tag_field), comment
 
             if sen_count % 1000 == 0:
                 print('{0}...'.format(sen_count), end='', file=sys.stderr, flush=True)
@@ -81,8 +84,11 @@ class Tagger:
     def tag_dir(self, dir_name):
         for fn in os.listdir(dir_name):
             print('processing file {0}...'.format(fn), end='', file=sys.stderr, flush=True)
-            for sen, _ in self.tag_corp(open(os.path.join(dir_name, fn), encoding='UTF-8')):
-                yield sen, fn
+            with open(os.path.join(dir_name, fn), encoding='UTF-8') as fh:
+                field_names = {name: i for i, name in enumerate(fh.readline().strip().split())}
+                self._features = feature_names_to_indices(self._features, field_names)
+                for sen, _ in self.tag_corp(fh):
+                    yield sen, fn
 
     def print_weights(self, n=100, output_stream=sys.stdout):
         coefs = self._model.coef_

@@ -36,6 +36,12 @@ def sentence_iterator(input_stream):
         yield curr_sen, curr_comment
 
 
+def feature_names_to_indices(features, name_dict):
+    for name, feature in features.items():
+        feature.field_indices = [name_dict[f] for f in feature.fields]
+    return features
+
+
 def featurize_sentence(sen, features, feat_filter=lambda token_feats: token_feats, label_field=None):
     if label_field is None:  # Tagging
         sentence_feats = [[] for _ in sen]

@@ -16,7 +16,7 @@ from sklearn.linear_model import LogisticRegression
 # from sklearn.svm import SVC
 # from sklearn.multiclass import OneVsRestClassifier
 
-from tools import BookKeeper, sentence_iterator, featurize_sentence, use_featurized_sentence
+from tools import BookKeeper, sentence_iterator, featurize_sentence, use_featurized_sentence, feature_names_to_indices
 
 
 class Trainer:
@@ -40,13 +40,13 @@ class Trainer:
 
         self._model = solver(**parameters)
         self._data_sizes = options['data_sizes']
-        self._tag_field = options['tag_field']
+        self._tag_field = options['field_names'][options['tag_field']]
         self._model_file_name = options['model_filename']
         self._parameters = options['train_params']
         self._cutoff = options['cutoff']
         self._feat_counter_file_name = options['featcounter_filename']
         self._label_counter_file_name = options['labelcounter_filename']
-        self._features = features
+        self._features = feature_names_to_indices(features, options['field_names'])
 
         self._tok_count = -1  # Index starts from 0
 
@@ -65,7 +65,7 @@ class Trainer:
         if feat_filename is not None:
             used_feats = {line.strip() for line in open(feat_filename, encoding='UTF-8')}
             self._feat_filter = lambda token_feats: [feat for feat in token_feats if feat in used_feats]
-            self._tag_field = options.get('tag_field', 0)
+            self._tag_field = 0  # Always the first field!
 
     def save(self):
         print('saving model...', end='', file=sys.stderr, flush=True)
