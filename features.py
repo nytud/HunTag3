@@ -10,7 +10,7 @@ import re
 import sys
 
 # GLOBAL DECLARATION BEGIN
-# see: token_long_pattern, token_short_pattern, sentence_lemma_lowered, poss_connect, token_mmo_simple
+# see: token_long_pattern, token_short_pattern, sentence_lemma_lowered, poss_connect
 smallcase = 'aábcdeéfghiíjklmnoóöőpqrstuúüűvwxyz'
 bigcase = 'AÁBCDEÉFGHIÍJKLMNOÓÖŐPQRSTUÚÜŰVWXYZ'
 big2small = {}
@@ -23,7 +23,6 @@ obj_msd = '\[?N'
 
 possessor_kr = re.compile('<POSS')
 obj_kr = 'NOUN'
-mmo_patt = re.compile('[\[,\]]')
 # GLOBAL DECLARATION END
 
 
@@ -534,47 +533,6 @@ def token_first_char(token, _=None):
 
 
 # XXX Return is not bool
-def token_msd_pos(msd_anal, _=None):
-    """Return the second character (Square brackets enclosed)
-
-    Args:
-       msd_anal (str): MSD code analysis
-       _: Unused
-
-    Returns:
-       [Str]: Field's second character
-
-    HunTag:
-        Type: Token
-        Field: Analysis
-        Example: '[Nc-sa—s3]' -> N
-        Use case: NER, Chunk
-    """
-    return [msd_anal[1]]
-
-
-# XXX Return is not bool
-def token_msd_pos_and_char(msd_anal, _=None):
-    """MSD code's 'krPieces' function (Square brackets enclosed)
-
-    Args:
-       msd_anal (str):  MSD code analysis
-       _: Unused
-
-    Returns:
-       [Str]: MSD code's pieces
-
-    HunTag:
-        Type: Token
-        Field: Analysis
-        Example: '[Nc-sa—s3]' -> [N2c, N]
-        Use case: NER, Chunk
-    """
-    pos = msd_anal[1]  # main POS
-    return ['{0}{1}{2}'.format(pos, c, ch) for c, ch in enumerate(msd_anal[2:-1]) if ch != '-']
-
-
-# XXX Return is not bool
 def token_prefix(token, options):
     """Make n-long prefix
 
@@ -650,48 +608,6 @@ def sentence_lemma_lowered(sen, fields, _=None):
 
 
 # XXX Return is not bool
-def token_kr_pieces(kr_anal, _=None):
-    """Split KR code analysis to pieces
-
-    Args:
-       kr_anal (str): KR code analysis
-       _: Unused
-
-    Returns:
-       [Str]: Pass KR code pieces
-
-    HunTag:
-        Type: Token
-        Field: Token
-        Example: ???
-        Use case: NER, Chunk
-
-    Known bug: token_kr_pieces is incorrect e.g. not all occurences of PLUR refer
-               to NOUN. KR codes must be parsed in a more sophisticated manner
-               -- we have the code that does so, but we must decide on what
-               kr features should be like!
-               see: https://github.com/recski/HunTag/issues/4
-    """
-    pieces = re.split(r'\W+', kr_anal.split('/')[-1])
-    pos = pieces[0]
-    feats = []
-    last = ''
-    for piece in pieces:
-        if piece == 'PLUR':
-            processed = '{0}_PLUR'.format(pos)
-        elif piece in ('1', '2') or last == 'CAS':
-            processed = '{0}_{1}'.format(last, piece)
-        else:
-            processed = piece
-        if processed != 'CAS':
-            feats.append(processed)
-
-        last = piece
-
-    return [feat for feat in feats if feat]
-
-
-# XXX Return is not bool
 def token_univ_pieces(univ_anal, _=None):
     """Split Univmorf feature-value pairs to pieces
 
@@ -733,26 +649,6 @@ def token_hfst_pieces(hfst_anal, _=None):
     """
     pieces = hfst_anal.split('[')
     return [piece.strip('[]') for piece in pieces if piece]
-
-
-# XXX Return is not bool
-def token_full_kr_pieces(kr_anal, _=None):
-    """Split KR code analysis to pieces from full analysis (with lemma)
-
-    Args:
-       kr_anal (str): KR code analysis
-       _: Unused
-
-    Returns:
-       [Str]: Pass KR code pieces
-
-    HunTag:
-        Type: Token
-        Field: Token
-        Example: ???
-        Use case: NER, Chunk
-    """
-    return token_kr_pieces('/'.join(kr_anal.split('/')[1:]))
 
 
 def sentence_is_between_same_cases(sen, fields, options=None):
@@ -937,25 +833,6 @@ def sentence_kr_patts(sen, fields, options):
                 feat = '{0}_{1}_{2}'.format(k, j, value)
                 feat_vec[c].append(feat)
     return feat_vec
-
-
-def token_kr_plural(kr_anal, _=None):
-    """Detect plural form in KR code
-
-    Args:
-       kr_anal (str): KR code analysis
-       _: Unused
-
-    Returns:
-       [Bool in int format]: True if KR code is plural
-
-    HunTag:
-        Type: Token
-        Field: Analysis
-        Example: ???
-        Use case: NER, Chunk
-    """
-    return [int('NOUN<PLUR' in kr_anal)]
 
 
 def token_univ_plural(univ_anal, _=None):
@@ -1295,48 +1172,6 @@ def token_unknown(anal, _=None):
 
 
 # XXX Return is not bool
-def token_get_kr_lemma(kr_lemma, _=None):
-    """Get lemma from HunMorph's analysis
-
-    Args:
-       kr_lemma (str): The token
-       _: Unused
-
-    Returns:
-       [Str]: Returns lemma
-
-    HunTag:
-        Type: Token
-        Field: analysis
-        Example: ???
-        Use case: NER
-    """
-    return [kr_lemma.split('/')[0]]
-
-
-# XXX Return is not bool
-def token_get_kr_pos(kr_anal, _=None):
-    """Get KR code POS tag
-
-    Args:
-       kr_anal (str): The token
-       _: Unused
-
-    Returns:
-       [Str]: Returns POS part of KR code
-
-    HunTag:
-        Type: Token
-        Field: analysis
-        Example: ???
-        Use case: NER, but not in SzegedNER
-    """
-    if '<' in kr_anal:
-        return [kr_anal.split('<')[0]]
-    return [kr_anal]
-
-
-# XXX Return is not bool
 def token_get_penn_tags(penn_tag, _=None):
     """Reduces Penn tagset's similar tags
 
@@ -1365,50 +1200,6 @@ def token_get_penn_tags(penn_tag, _=None):
         return ['0']
 
 
-def token_humor_plural(humor_tag, _=None):
-    """Check if Humor code plural
-
-    Args:
-       humor_tag (str): Humor analysis
-       _: Unused
-
-    Returns:
-       [[Bool in int format]]: True if Humor analysis is plural
-
-    HunTag:
-        Type: Token
-        Field: analysis
-        Example: ???
-        Use case: NER
-    """
-    return [int('PL' in humor_tag)]
-
-
-# XXX Return is not bool
-def token_get_kr_end(kr_anal, _=None):
-    """Return KR code end
-
-    Args:
-       kr_anal (str): The token
-       _: Unused
-
-    Returns:
-       [Str]: ???
-
-    HunTag:
-        Type: Token
-        Field: analysis
-        Example: ???
-        Use case: NER, but not in SzegedNER
-    """
-    end = '0'
-    if '<' in kr_anal:
-        pieces = kr_anal.split('<', 1)
-        end = pieces[1]
-
-    return [end]
-
-
 def token_penn_plural(penn_tag, _=None):
     """Check if Penn code plural
 
@@ -1429,92 +1220,3 @@ def token_penn_plural(penn_tag, _=None):
         token_plural: is same
     """
     return [int(penn_tag == 'NNS' or penn_tag == 'NNPS')]
-
-
-# XXX Return is not bool
-def token_humor_pieces(humor_tag, _=None):
-    """Return Humor tag pieces
-    For Humor code:
-    'FN/N|PROP|FIRST/ffinev;veznev' => ['FN', 'N|PROP|FIRST', 'ffinev;veznev']
-    'FN+PSe3+DEL' => ['FN', 'PSe3', 'DEL']
-
-    Args:
-       humor_tag (str): Humor tag
-       _: Unused
-
-    Returns:
-       [str]: ???
-
-    HunTag:
-        Type: Token
-        Field: analysis
-        Example: ???
-        Use case: Chunk, NER
-    """
-    return [item for part in humor_tag.split('/') for item in part.split('+')]
-
-
-# XXX Return is not bool
-def token_humor_simple(humor_tag, _=None):
-    """Humor test: return self
-
-    Args:
-       humor_tag (str): Humor tag
-       _: Unused
-
-    Returns:
-       [str]: self
-
-    HunTag:
-        Type: Token
-        Field: analysis
-        Example: ???
-        Use case: Chunk, NER
-    """
-    return [humor_tag]
-
-
-# XXX Return is not bool
-def token_wordnet_simple(word_net_tags, _=None):
-    """Wordnet synsets as tags
-
-    Args:
-       word_net_tags (str): wordNet synsets as tags
-       _: Unused
-
-    Returns:
-       [str]: list of wordNet synsets as features
-
-    HunTag:
-        Type: Token
-        Field: WordNet tags
-        Example: animate.n.1/human.n.1 -> ['animate.n.1', 'human.n.1'], '' -> []
-        Use case: Chunk, NER
-    """
-    if len(word_net_tags) == 0:
-        return []
-    return word_net_tags.split('/')
-
-
-# XXX Return is not bool
-def token_mmo_simple(mmo_tags, _=None):
-    """MMO properties
-
-    Args:
-       mmo_tags (str): wordNet synsets as tags
-       _: Unused
-
-    Returns:
-       [str]: list of MMO tags as features
-
-    HunTag:
-        Type: Token
-        Field: MMOtags
-        Example:
-            in:'NX[abstract=YES,animate=NIL,auth=YES,company=NIL,encnt=YES,human=NIL]'
-            out: ['NX', 'abstract=YES', 'animate=NIL', 'auth=YES', 'company=NIL', 'encnt=YES', 'human=NIL']
-        Use case: Chunk, NER
-    """
-    if mmo_tags == '-':
-        return []
-    return [x for x in mmo_patt.split(mmo_tags) if x]
