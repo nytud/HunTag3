@@ -32,7 +32,7 @@ features:
  - # Kr code patterns of a sentence (extended version)
     name: mypatt
     type: sentence
-    action_name: krPatts
+    action_name: kr_patts
     fields: 2
     radius: 0  # rad is not radius!
     options:
@@ -50,13 +50,13 @@ features:
  - # Checks for underscore (_) character in token (duplicate)
     name: hasunderscore
     type: token
-    action_name: hasUnderscoreOperator
+    action_name: has_underscore_operator
     fields: 0
 
  - # Checks for underscore (_) character in token
     name: form
     type: token
-    action_name: getForm
+    action_name: get_form
     fields: 0
 
  - # N-grams of the letters in a token
@@ -70,7 +70,7 @@ features:
  - # HFST code pieces 
     name: hfst
     type: token
-    action_name: hfstPieces
+    action_name: hfst_pieces
     fields: 3
 
 
