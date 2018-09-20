@@ -3,12 +3,12 @@
 """
 feature.py is a module of HunTag. The Feature class is used for representing
 a feature type and calculating its value for some input. Feature instances are
-created by the getFeatureSet function in huntag.py.
+created by the getFeatureSet function in huntag_main.py.
 """
 
 import sys
 
-import features
+from huntag import features
 
 
 class Feature:

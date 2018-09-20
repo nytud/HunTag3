@@ -8,10 +8,10 @@ import os
 import numpy as np
 import yaml
 
-from feature import Feature
-from trainer import Trainer
-from tagger import Tagger
-from transmodel import TransModel
+from huntag.feature import Feature
+from huntag.trainer import Trainer
+from huntag.tagger import Tagger
+from huntag.transmodel import TransModel
 
 
 def main_trans_model_train(options):

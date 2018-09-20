@@ -16,7 +16,8 @@ from sklearn.linear_model import LogisticRegression
 # from sklearn.svm import SVC
 # from sklearn.multiclass import OneVsRestClassifier
 
-from tools import BookKeeper, sentence_iterator, featurize_sentence, use_featurized_sentence, feature_names_to_indices
+from huntag.tools import BookKeeper, sentence_iterator, featurize_sentence, use_featurized_sentence,\
+    feature_names_to_indices
 
 
 class Trainer:

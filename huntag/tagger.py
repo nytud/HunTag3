@@ -6,7 +6,8 @@ import os
 from sklearn.externals import joblib
 from scipy.sparse import csr_matrix
 
-from tools import sentence_iterator, featurize_sentence, use_featurized_sentence, BookKeeper, feature_names_to_indices
+from huntag.tools import sentence_iterator, featurize_sentence, use_featurized_sentence, BookKeeper,\
+    feature_names_to_indices
 
 
 class Tagger:

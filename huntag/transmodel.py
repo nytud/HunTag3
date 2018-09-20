@@ -11,7 +11,7 @@ import math
 import pickle
 from collections import Counter
 
-from tools import sentence_iterator
+from huntag.tools import sentence_iterator
 
 
 def safe_div(v1, v2):
