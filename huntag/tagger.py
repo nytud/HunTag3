@@ -17,9 +17,9 @@ class Tagger:
         self._data_sizes = options['data_sizes']
         self._trans_probs = trans_model
         print('loading observation model...', end='', file=sys.stderr, flush=True)
-        self._model = joblib.load('{0}'.format(options['modelFileName']))
-        self._feat_counter = BookKeeper(options['featCounterFileName'])
-        self._label_counter = BookKeeper(options['labelCounterFileName'])
+        self._model = joblib.load('{0}'.format(options['model_filename']))
+        self._feat_counter = BookKeeper(options['featcounter_filename'])
+        self._label_counter = BookKeeper(options['labelcounter_filename'])
         print('done', file=sys.stderr, flush=True)
 
     def _get_tag_probs_by_pos(self, feat_numbers):

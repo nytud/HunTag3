@@ -7,6 +7,18 @@ from collections import Counter, defaultdict
 from itertools import count
 import sys
 import gzip
+import numpy as np
+import yaml
+
+from huntag.feature import Feature
+
+# Data sizes across the program (training and tagging). Check manuals for other sizes
+data_sizes = {'rows': 'Q', 'rows_np': np.uint64,         # Really big...
+              'cols': 'Q', 'cols_np': np.uint64,         # ...enough for indices
+              'data': 'B', 'data_np': np.uint8,          # Currently data = {0, 1}
+              'labels': 'H', 'labels_np': np.uint16,     # Currently labels > 256...
+              'sent_end': 'Q', 'sent_end_np': np.uint64  # Sentence Ends in rowIndex
+              }                                          # ...for safety
 
 
 def sentence_iterator(input_stream):
@@ -63,6 +75,54 @@ def use_featurized_sentence(sen, _, feat_filter=lambda token_feats: token_feats,
     for c, feats in enumerate(enumerate(sen)):
         sentence_feats[c] += feat_filter([feat for i, feat in enumerate(feats) if i != label_field])
     return sentence_feats
+
+
+def load_yaml(cfg_file):
+    lines = open(cfg_file, encoding='UTF-8').readlines()
+    try:
+        start = lines.index('%YAML 1.1\n')
+    except ValueError:
+        print('Error in config file: No document start marker found!', file=sys.stderr)
+        sys.exit(1)
+    rev = lines[start:]
+    rev.reverse()
+    try:
+        end = rev.index('...\n')*(-1)
+    except ValueError:
+        print('Error in config file: No document end marker found!', file=sys.stderr)
+        sys.exit(1)
+    if end == 0:
+        lines = lines[start:]
+    else:
+        lines = lines[start:end]
+
+    return yaml.load(''.join(lines))
+
+
+def get_featureset_yaml(cfg_file):
+    features = {}
+    default_radius = -1
+    default_cutoff = 1
+    cfg = load_yaml(cfg_file)
+
+    if 'default' in cfg:
+        default_cutoff = cfg['default'].get('cutoff', default_cutoff)
+        default_radius = cfg['default'].get('radius', default_radius)
+
+    for feat in cfg['features']:
+        options = feat.get('options', {})
+
+        if isinstance(feat['fields'], str):
+            fields = [feat['fields']]
+        else:
+            fields = [int(field) for field in feat['fields'].split(',')]
+
+        radius = feat.get('radius', default_radius)
+        cutoff = feat.get('cutoff', default_cutoff)
+        name = feat['name']
+        features[name] = Feature(feat['type'], name, feat['action_name'], fields, radius, cutoff, options)
+
+    return features
 
 
 # Keeps Feature/Label-Number translation maps, for faster computations

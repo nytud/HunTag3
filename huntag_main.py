@@ -5,10 +5,8 @@ import argparse
 from os.path import isdir, join, isfile
 import sys
 import os
-import numpy as np
-import yaml
 
-from huntag.feature import Feature
+from huntag.tools import get_featureset_yaml, data_sizes
 from huntag.trainer import Trainer
 from huntag.tagger import Tagger
 from huntag.transmodel import TransModel
@@ -66,54 +64,6 @@ def write_sentence(sen, out=sys.stdout, comment=None):
     out.writelines('{0}\n'.format('\t'.join(tok)) for tok in sen)
     out.write('\n')
     out.flush()
-
-
-def load_yaml(cfg_file):
-    lines = open(cfg_file, encoding='UTF-8').readlines()
-    try:
-        start = lines.index('%YAML 1.1\n')
-    except ValueError:
-        print('Error in config file: No document start marker found!', file=sys.stderr)
-        sys.exit(1)
-    rev = lines[start:]
-    rev.reverse()
-    try:
-        end = rev.index('...\n')*(-1)
-    except ValueError:
-        print('Error in config file: No document end marker found!', file=sys.stderr)
-        sys.exit(1)
-    if end == 0:
-        lines = lines[start:]
-    else:
-        lines = lines[start:end]
-
-    return yaml.load(''.join(lines))
-
-
-def get_featureset_yaml(cfg_file):
-    features = {}
-    default_radius = -1
-    default_cutoff = 1
-    cfg = load_yaml(cfg_file)
-
-    if 'default' in cfg:
-        default_cutoff = cfg['default'].get('cutoff', default_cutoff)
-        default_radius = cfg['default'].get('radius', default_radius)
-
-    for feat in cfg['features']:
-        options = feat.get('options', {})
-
-        if isinstance(feat['fields'], str):
-            fields = [feat['fields']]
-        else:
-            fields = [int(field) for field in feat['fields'].split(',')]
-
-        radius = feat.get('radius', default_radius)
-        cutoff = feat.get('cutoff', default_cutoff)
-        name = feat['name']
-        features[name] = Feature(feat['type'], name, feat['action_name'], fields, radius, cutoff, options)
-
-    return features
 
 
 def valid_dir(input_dir):
@@ -218,14 +168,7 @@ def main():
     options.transmodel_filename = '{0}{1}'.format(options.model_name, options.transmodel_ext)
     options.featcounter_filename = '{0}{1}'.format(options.model_name, options.featurenumbers_ext)
     options.labelcounter_filename = '{0}{1}'.format(options.model_name, options.labelnumbers_ext)
-
-    # Data sizes across the program (training and tagging). Check manuals for other sizes
-    options.data_sizes = {'rows': 'Q', 'rows_np': np.uint64,         # Really big...
-                          'cols': 'Q', 'cols_np': np.uint64,         # ...enough for indices
-                          'data': 'B', 'data_np': np.uint8,          # Currently data = {0, 1}
-                          'labels': 'H', 'labels_np': np.uint16,     # Currently labels > 256...
-                          'sent_end': 'Q', 'sent_end_np': np.uint64  # Sentence Ends in rowIndex
-                          }                                          # ...for safety
+    options.data_sizes = data_sizes
 
     options_dict = vars(options)
     if options_dict['input_filename']:
@@ -240,8 +183,9 @@ def main():
 
     if options_dict['io_dirs'] is None:
         # read one line to create input fileld permutation dict...
-        options_dict['field_names'] = {name: i for i, name in enumerate(options_dict['input_stream'].readline().
-                                                                        strip().split())}
+        first_line = options_dict['input_stream'].readline()
+        options_dict['output_stream'].write(first_line)
+        options_dict['field_names'] = {name: i for i, name in enumerate(first_line.strip().split())}
 
     # Use with featurized input or raw input
     if options_dict['inp_featurized']:
