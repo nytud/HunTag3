@@ -41,7 +41,7 @@ class Trainer:
 
         self._model = solver(**parameters)
         self._data_sizes = options['data_sizes']
-        self._tag_field = options['field_names'][options['tag_field']]
+        self._tag_field = options['field_names'][options['gold_tag_field']]
         self._model_file_name = options['model_filename']
         self._parameters = options['train_params']
         self._cutoff = options['cutoff']

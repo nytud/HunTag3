@@ -36,11 +36,11 @@ class Tagger:
         return tagprobs_by_pos
 
     @staticmethod
-    def _add_tagging_normal(_, best_tagging, __):
+    def _add_tagging_featurized(_, best_tagging, __):
         return [[label] for label in best_tagging]
 
     @staticmethod
-    def _add_tagging_featurized(sent, best_tagging, tag_index):
+    def _add_tagging_normal(sent, best_tagging, tag_index):
         for tok, label in zip(sent, best_tagging):
             tok.insert(tag_index, label)
         return sent

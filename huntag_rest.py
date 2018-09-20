@@ -2,9 +2,10 @@
 # -*- coding: utf-8, vim: expandtab:ts=4 -*-
 
 import sys
+import codecs
 from collections import defaultdict
 
-from flask import Flask, request, abort, Response
+from flask import Flask, request, abort, Response, stream_with_context
 from flask_restful import Resource, Api
 
 # Import Tagger
@@ -16,7 +17,7 @@ from huntag.tools import get_featureset_yaml, feature_names_to_indices, data_siz
 import threading
 
 # TO BE MODIFIED!!!
-model_name = 'hfst.maxnp'
+model_name = 'test'
 cfg_file = 'configs/maxnp.szeged.hfst.yaml'
 
 # THESE SHOULD WORK WITHOUT MODIFICATION!
@@ -46,37 +47,37 @@ api = Api(app)
 
 def tag_file_and_write_as_stream(inp_file):
     first_line = inp_file.readline()
-    yield first_line
+    yield first_line.encode('UTF-8')
     field_names = {name: i for i, name in enumerate(first_line.strip().split())}
     huntag_tagger._features = feature_names_to_indices(feature_set, field_names)
     huntag_tagger._tag_field = field_names[options['tag_field']]
 
     for sen, comment in huntag_tagger.tag_corp(inp_file):
         if comment:
-            yield '{0}\n'.format(comment)
-        yield from ('{0}\n'.format('\t'.join(tok)) for tok in sen)
-        yield '\n'
+            yield '{0}\n'.format(comment).encode('UTF-8')
+        yield from ('{0}\n'.format('\t'.join(tok)).encode('UTF-8') for tok in sen)
+        yield '\n'.encode('UTF-8')
 
 
 class HunTagREST(Resource):
     @staticmethod
     @app.route('/')
     def usage():
-            return 'Usage: HTTP POST on /tag'
+            return 'Usage: HTTP POST on /tag_file'
 
     @staticmethod
     @app.route('/tag_file')
     def tag_file_usage():
-            return 'Usage: HTTP POST /tag a file in the apropriate format'
+            return 'Usage: HTTP POST /tag_file a file in the apropriate format'
 
     @staticmethod
     @app.route('/tag_file', methods=['POST'])
     def tag_file():
         if 'file' not in request.files:
             abort(400)
-        inp_file = request.files['file']
+        inp_file = codecs.getreader('UTF-8')(request.files['file'])
 
-        return Response(tag_file_and_write_as_stream(inp_file), direct_passthrough=True)
+        return Response(stream_with_context(tag_file_and_write_as_stream(inp_file)), direct_passthrough=True)
 
 
 if __name__ == '__main__':

@@ -13,7 +13,7 @@ from huntag.transmodel import TransModel
 
 
 def main_trans_model_train(options):
-    tag_field = options['field_names'][options['tag_field']]
+    tag_field = options['field_names'][options['gold_tag_field']]
     trans_model = TransModel(tag_field, lmw=options['lmw'], order=options['transmodel_order'])
     # It's possible to train multiple times incrementally... (Just call this function on different data, then compile())
     trans_model.train(options['input_stream'])
@@ -134,7 +134,11 @@ def parse_args():
                         metavar='FILE')
 
     parser.add_argument('-t', '--tag-field', dest='tag_field', default='label',
-                        help='specify FIELD containing the labels to build models from',
+                        help='specify FIELD where the generated labels requested (tagging)',
+                        metavar='FIELD')
+
+    parser.add_argument('-g', '--gold-tag-field', dest='gold_tag_field', default='gold',
+                        help='specify FIELD containing the gold labels to build models from (training)',
                         metavar='FIELD')
 
     parser.add_argument('--input-featurized', dest='inp_featurized', action='store_true', default=False,
