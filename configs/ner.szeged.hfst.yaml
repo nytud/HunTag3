@@ -29,13 +29,13 @@ features:
     name: form
     type: token
     action_name: get_form
-    fields: 0
+    fields: token
 
  - # N-grams of the letters in a token
     name: ngr
     type: token
     action_name: ngrams
-    fields: 0
+    fields: token
     options:
         n: 2
 
@@ -43,7 +43,7 @@ features:
     name: prefix
     type: token
     action_name: prefix
-    fields: 0
+    fields: token
     options:
         n: 5
 
@@ -52,106 +52,106 @@ features:
     name: longpatt
     type: token
     action_name: long_pattern
-    fields: 0
+    fields: token
 
  - # Token pattern: lowercase -> 'a', uppercase -> 'A', other -> '_', merge neighbouring characters if they are same
     name: shortpatt
     type: token
     action_name: short_pattern
-    fields: 0
+    fields: token
 
 
  - # Does it have capital letter in it anywhere?
     name: hascap
     type: token
     action_name: has_cap_operator
-    fields: 0
+    fields: token
 
  - # Does it have all letter capital?
     name: allcaps
     type: token
     action_name: is_allcaps_operator
-    fields: 0
+    fields: token
 
  - # Token is an uppercase letter followed by a period (from Bikel et al. (1999))
     name: capperiod
     type: token
     action_name: cap_period_operator
-    fields: 0
+    fields: token
 
  - # Is the token Camel case?
     name: camel
     type: token
     action_name: is_camel_operator
-    fields: 0
+    fields: token
 
  - # Only first letter is capital?
     name: capitalized
     type: token
     action_name: is_cap_operator
-    fields: 0
+    fields: token
 
 
  - # Token is two digit (from Bikel et al. (1999))
     name: twodigit
     type: token
     action_name: two_digit_num_operator
-    fields: 0
+    fields: token
 
  - # Token contains digit and comma (. or ,) (from Bikel et al. (1999))
     name: digitcomma
     type: token
     action_name: contains_digit_and_comma_operator
-    fields: 0
+    fields: token
 
  - # Token is four digit
     name: fourdigit
     type: token
     action_name: four_digit_num_operator
-    fields: 0
+    fields: token
 
  - # Does the token contain number?
     name: hasnumber
     type: token
     action_name: has_number_operator
-    fields: 0
+    fields: token
 
  - # Token is number
     name: isdigit
     type: token
     action_name: is_digit_operator
-    fields: 0
+    fields: token
 
  - # Token contains year decade (from Zhou and Su (2002))
     name: yeardecade
     type: token
     action_name: year_decade_operator
-    fields: 0
+    fields: token
 
 
  - # Get lemma
     name: lemma
     type: token
     action_name: get_form
-    fields: 1
+    fields: stem
 
 # - # Is OOV?
 #    name: oov
 #    type: token
 #    action_name: unknown
-#    fields: 2
+#    fields: pos
 
  - # Detect plural form in hfst code
     name: plur
     type: token
     action_name: hfst_plural
-    fields: 3
+    fields: morph
 
  - # Kr code patterns of a sentence (extended version) EXTENSIONS DISABLED!
     name: krpatt
     type: sentence
     action_name: kr_patts
-    fields: 2
+    fields: pos
     radius: 0  # rad is not radius!
     options:
         rad: 3  # The old config is misleading!
@@ -168,7 +168,7 @@ features:
 #    name: bwsamecases
 #    type: sentence
 #    action_name: is_between_same_cases
-#    fields: 3
+#    fields: morph
 #    options:
 #        max_dist: 6
 
@@ -176,163 +176,163 @@ features:
     name: trainloc
     type: lex
     action_name: hunner/lex/loc.fromtraincorpus.lex
-    fields: 0
+    fields: token
 
  - # Description: Organisation names generated from the train corpus
     name: trainorg
     type: lex
     action_name: hunner/lex/org.fromtraincorpus.lex
-    fields: 0
+    fields: token
 
  - # Description: Person names generated from the train corpus
     name: trainpers
     type: lex
     action_name: hunner/lex/per.fromtraincorpus.lex
-    fields: 0
+    fields: token
 
  - # Description: Miscallenous names generated from the train corpus
     name: trainmisc
     type: lex
     action_name: hunner/lex_from_Eszter.Simon/misc.fromtraincorpus.lex
-    fields: 0
+    fields: token
 
  #~ - # Description: XXX Fill me!
     #~ name: trainloc
     #~ type: lex
     #~ action_name: hunner/lex/loc.fromtraincorpus.lex
-    #~ fields: 0
+    #~ fields: token
 #~ 
  #~ - # Description: XXX Fill me!
     #~ name: trainorg
     #~ type: lex
     #~ action_name: hunner/lex/org.fromtraincorpus.lex
-    #~ fields: 0
+    #~ fields: token
 #~ 
  #~ - # Description: XXX Fill me!
     #~ name: trainpers
     #~ type: lex
     #~ action_name: hunner/lex/per.fromtraincorpus.lex
-    #~ fields: 0
+    #~ fields: token
 #~ 
  #~ - # Description: XXX Fill me!
     #~ name: trainmisc
     #~ type: lex
     #~ action_name: hunner/lex/misc.fromtraincorpus.lex
-    #~ fields: 0
+    #~ fields: token
 
  #~ - # Description: XXX Fill me!
     #~ name: wikiloc
     #~ type: lex
     #~ action_name: ../huwiki/fromTrainLists/loc.fromtrain.list
-    #~ fields: 0
+    #~ fields: token
 #~ 
  #~ - # Description: XXX Fill me!
     #~ name: wikiorg
     #~ type: lex
     #~ action_name: ../huwiki/fromTrainLists/misc.fromtrain.list
-    #~ fields: 0
+    #~ fields: token
 #~ 
  #~ - # Description: XXX Fill me!
     #~ name: wikipers
     #~ type: lex
     #~ action_name: ../huwiki/fromTrainLists/org.fromtrain.list
-    #~ fields: 0
+    #~ fields: token
 #~ 
  #~ - # Description: XXX Fill me!
     #~ name: wikimisc
     #~ type: lex
     #~ action_name: ../huwiki/fromTrainLists/per.fromtrain.list
-    #~ fields: 0
+    #~ fields: token
 #~ 
  #~ - # Description: XXX Fill me!
     #~ name: loc
     #~ type: lex
     #~ action_name: hunner/lex/loc/loc_all
-    #~ fields: 0
+    #~ fields: token
 #~ 
  #~ - # Description: XXX Fill me!
     #~ name: street
     #~ type: lex
     #~ action_name: hunner/lex/loc/utcanev.matav.lex
-    #~ fields: 0
+    #~ fields: token
 #~ 
  #~ - # Description: XXX Fill me!
     #~ name: locsuff
     #~ type: lex
     #~ action_name: hunner/lex/loc/loc_suffix.txt
-    #~ fields: 0
+    #~ fields: token
 #~ 
  #~ - # Description: XXX Fill me!
     #~ name: misc
     #~ type: lex
     #~ action_name: hunner/lex/misc/misc_all
-    #~ fields: 0
+    #~ fields: token
 #~ 
  #~ - # Description: XXX Fill me!
     #~ name: org
     #~ type: lex
     #~ action_name: hunner/lex/org/org_all
-    #~ fields: 0
+    #~ fields: token
 #~ 
  #~ - # Description: XXX Fill me!
     #~ name: orgsuff
     #~ type: lex
     #~ action_name: hunner/lex/org/cegszuffix.lex
-    #~ fields: 0
+    #~ fields: token
 #~ 
  #~ - # Description: XXX Fill me!
     #~ name: firstname
     #~ type: lex
     #~ action_name: hunner/lex/per/keresztnev_all
-    #~ fields: 0
+    #~ fields: token
 #~ 
  #~ - # Description: XXX Fill me!
     #~ name: lastname
     #~ type: lex
     #~ action_name: hunner/lex/per/vezeteknev_all
-    #~ fields: 0
+    #~ fields: token
 #~ 
  #~ - # Description: XXX Fill me!
     #~ name: perspre
     #~ type: lex
     #~ action_name: hunner/lex/per/pers_prefix.txt
-    #~ fields: 0
+    #~ fields: token
 #~ 
  #~ - # Description: XXX Fill me!
     #~ name: rang
     #~ type: lex
     #~ action_name: hunner/lex/per/rang.txt
-    #~ fields: 0
+    #~ fields: token
 #~ 
  #~ - # Description: XXX Fill me!
     #~ name: loc
     #~ type: lex
     #~ action_name: hunner/lex/loc/loc_bh
-    #~ fields: 0
+    #~ fields: token
 #~ 
  #~ - # Description: XXX Fill me!
     #~ name: misc
     #~ type: lex
     #~ action_name: hunner/lex/misc/misc_bh
-    #~ fields: 0
+    #~ fields: token
 #~ 
  #~ - # Description: XXX Fill me!
     #~ name: org
     #~ type: lex
     #~ action_name: hunner/lex/org/org_bh
-    #~ fields: 0
+    #~ fields: token
 #~ 
  #~ - # Description: XXX Fill me!
     #~ name: kernev
     #~ type: lex
     #~ action_name: hunner/lex/per/kernev_bh
-    #~ fields: 0
+    #~ fields: token
 #~ 
  #~ - # Description: XXX Fill me!
     #~ name: veznev
     #~ type: lex
     #~ action_name: hunner/lex/per/veznev_bh
-    #~ fields: 0
+    #~ fields: token
 
 ...
 EOF
