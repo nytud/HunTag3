@@ -1,4 +1,4 @@
-HunTag3 - A sequential tagger for NLP combining the Scikit-learn/LinearRegressionClassifier linear classifier and Hidden Markov Models.  
+## HunTag3 - A sequential tagger for NLP combining the Scikit-learn/LinearRegressionClassifier linear classifier and Hidden Markov Models
   
 Based on training data, HunTag3 can perform any kind of sequential sentence  
 tagging and has been used for NP chunking and Named Entity Recognition for English and Hungarian.  
@@ -189,6 +189,10 @@ A 100 token long example can be found in the git repository for clarifying the f
     # tag FeatureWeights
     cat input.txt | python3 huntag_main.py tag --print-weights 100 --model=modelName --config-file=configs/maxnp.szeged.hfst.yaml > modelNam.modelWeights
 
+# Models
+
+Pretrained models for Hungarian are available at https://github.com/dlt-rilmta/hunlp-GATE
+
 # Authors  
   
 HunTag3 is a massive overhaul, cleanup and functional extension of the original HunTag idea and codebase. HunTag3 was created by Balázs Indig with contributions from Márton Miháltz.  
@@ -202,9 +206,8 @@ The patch for Liblinear (to lower memory usage) was created by Attila Zséder. S
 HunTag3 is made available under the GNU Lesser General Public License v3.0. If you received HunTag3 in a package that also contain the Hungarian training corpora for named-entity recognition or chunking task, then please note that these corpora are derivative works based on the Szeged Treebank, and they are made available under the same restrictions that apply to the original Szeged Treebank  
   
 # Reference  
-  
-This tool is also [integrated](https://github.com/dlt-rilmta/hunlp-GATE)  
-into the [e-magyar](http://www.e-magyar.hu) language processing system. It is called emNER.  
+
+This tool is also [integrated](https://github.com/dlt-rilmta/hunlp-GATE) into the [e-magyar](http://www.e-magyar.hu) language processing system. It is called emNER.  
   
 If you use the tool, please cite the following paper:  
   
