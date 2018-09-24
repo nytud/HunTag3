@@ -156,7 +156,8 @@ Non-mandatory options:
 This options generate suitable input for CRFsuite from training and tagging data. Model name is required as the features and labels are translated to numbers and back. CRFsuite use its own bigram model.  
   
 ## REST API    
- - Edit the `model_name` and `cfg_file` in `huntag_rest.py` and run the file `python3 huntag_rest.py` - Note: Setup an appropriate Python3 virtualenv in conjunction with a WSGI server for performance.    
+- Edit the `model_name` and `cfg_file` in `huntag.wsgi` and run the appropriate Python3 virtualenv in conjunction with a WSGI server.
+- For testing, one can use the REST API with `huntag_main.py tag-server` mode similarly to `tag` mode (**WARNING: FLASK'S DEBUG SERVER IS SLOW!**)
 - The clients should ask the following or similar:    
 
 

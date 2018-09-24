@@ -1,15 +1,17 @@
 #!/usr/bin/python3
 # -*- coding: utf-8, vim: expandtab:ts=4 -*-
 
-import argparse
-from os.path import isdir, join, isfile
 import sys
-import os
+import argparse
+from os import mkdir
+from os.path import isdir, join, isfile
+from collections import defaultdict
 
 from huntag.tools import get_featureset_yaml, data_sizes
 from huntag.trainer import Trainer
 from huntag.tagger import Tagger
 from huntag.transmodel import TransModel
+from huntag.huntag_rest import add_params, app
 
 
 def main_trans_model_train(options):
@@ -47,7 +49,10 @@ def main_tag(feature_set, options):
 
     tagger = Tagger(feature_set, trans_model, options)
 
-    if 'io_dirs' in options and options['io_dirs']:  # Tag all files in a directory file to to filename.tagged
+    if options['task'] == 'tag-server':
+        add_params(tagger)
+        app.run(debug=True)
+    elif 'io_dirs' in options and options['io_dirs']:  # Tag all files in a directory file to to filename.tagged
         for sen, filename in tagger.tag_dir(options['io_dirs'][0]):
             write_sentence(sen, open(join(options['io_dirs'][1], '{0}.tagged'.format(filename)), 'a', encoding='UTF-8'))
     elif 'print_weights' in options and options['print_weights']:  # Print MaxEnt weights to STDOUT
@@ -70,7 +75,7 @@ def valid_dir(input_dir):
     if not isdir(input_dir):
         raise argparse.ArgumentTypeError('"{0}" must be a directory!'.format(input_dir))
     out_dir = '{0}_out'.format(input_dir)
-    os.mkdir(out_dir)
+    mkdir(out_dir)
     return input_dir, out_dir
 
 
@@ -84,9 +89,9 @@ def parse_args():
     parser = argparse.ArgumentParser()
 
     parser.add_argument('task', choices=['transmodel-train', 'most-informative-features', 'train', 'tag',
-                                         'print-weights', 'train-featurize', 'tag-featurize'],
+                                         'print-weights', 'train-featurize', 'tag-featurize', 'tag-server'],
                         help='avaliable tasks: transmodel-train, most-informative-features, train, tag, '
-                             'print-weights, train-featurize, tag-featurize')
+                             'print-weights, train-featurize, tag-featurize, tag-server')
 
     parser.add_argument('-c', '--config-file', dest='cfg_file', type=valid_file,
                         help='read feature configuration from FILE',
@@ -185,11 +190,13 @@ def main():
     else:
         options_dict['output_stream'] = sys.stdout
 
-    if options_dict['io_dirs'] is None:
+    if options_dict['io_dirs'] is None and options_dict['task'] != 'tag-server':
         # read one line to create input fileld permutation dict...
         first_line = options_dict['input_stream'].readline()
         options_dict['output_stream'].write(first_line)
         options_dict['field_names'] = {name: i for i, name in enumerate(first_line.strip().split())}
+    else:
+        options_dict['field_names'] = defaultdict(str)
 
     # Use with featurized input or raw input
     if options_dict['inp_featurized']:
@@ -201,7 +208,7 @@ def main():
         main_trans_model_train(options_dict)
     elif options_dict['task'] in {'train', 'most-informative-features', 'train-featurize'}:
         main_train(feature_set, options_dict)
-    elif options_dict['task'] in {'tag', 'print-weights', 'tag-featurize'}:
+    elif options_dict['task'] in {'tag', 'print-weights', 'tag-featurize', 'tag-server', 'tag-server'}:
         main_tag(feature_set, options_dict)
     else:  # Will never happen because argparse...
         print('Error: Task name must be specified! Please see --help!', file=sys.stderr, flush=True)

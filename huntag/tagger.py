@@ -12,8 +12,9 @@ from huntag.tools import sentence_iterator, featurize_sentence, use_featurized_s
 
 class Tagger:
     def __init__(self, features, trans_model, options):
-        self._features = feature_names_to_indices(features, options['field_names'])
-        self._tag_field = options['field_names'][options['tag_field']]
+        self.features = feature_names_to_indices(features, options['field_names'])
+        self.tag_field_name = options['tag_field']
+        self.tag_field = options['field_names'][options['tag_field']]
         self._data_sizes = options['data_sizes']
         self._trans_probs = trans_model
         print('loading observation model...', end='', file=sys.stderr, flush=True)
@@ -54,6 +55,19 @@ class Tagger:
         return [[featno_to_name[featNum].replace(':', 'colon') for featNum in featNumberSet]
                 for featNumberSet in feat_numbers]
 
+    def tag_file_and_write_as_stream(self, inp_file):
+        first_line = inp_file.readline()
+        yield first_line.encode('UTF-8')
+        field_names = {name: i for i, name in enumerate(first_line.strip().split())}
+        self.features = feature_names_to_indices(self.features, field_names)
+        self.tag_field = field_names[self.tag_field_name]
+
+        for sen, comment in self.tag_corp(inp_file):
+            if comment:
+                yield '{0}\n'.format(comment).encode('UTF-8')
+            yield from ('{0}\n'.format('\t'.join(tok)).encode('UTF-8') for tok in sen)
+            yield '\n'.encode('UTF-8')
+
     def tag_corp(self, input_stream, featurized_data=False, print_features=False):
         if featurized_data:
             featurize_sentence_fun = use_featurized_sentence
@@ -72,11 +86,11 @@ class Tagger:
         sen_count = 0
         for sen, comment in sentence_iterator(input_stream):
             sen_count += 1
-            sen_feats = featurize_sentence_fun(sen, self._features)
+            sen_feats = featurize_sentence_fun(sen, self.features)
             # Get Sentence Features translated to numbers and contexts in two steps
             feat_numbers = [{get_no_tag(feat) for feat in feats if get_no_tag(feat) is not None} for feats in sen_feats]
 
-            yield tag_fun(sen, feat_numbers, format_output, self._tag_field), comment
+            yield tag_fun(sen, feat_numbers, format_output, self.tag_field), comment
 
             if sen_count % 1000 == 0:
                 print('{0}...'.format(sen_count), end='', file=sys.stderr, flush=True)
@@ -87,7 +101,7 @@ class Tagger:
             print('processing file {0}...'.format(fn), end='', file=sys.stderr, flush=True)
             with open(os.path.join(dir_name, fn), encoding='UTF-8') as fh:
                 field_names = {name: i for i, name in enumerate(fh.readline().strip().split())}
-                self._features = feature_names_to_indices(self._features, field_names)
+                self.features = feature_names_to_indices(self.features, field_names)
                 for sen, _ in self.tag_corp(fh):
                     yield sen, fn
 
