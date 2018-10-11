@@ -1,3 +1,4 @@
+
 ## HunTag3 - A sequential tagger for NLP combining the Scikit-learn/LinearRegressionClassifier linear classifier and Hidden Markov Models
   
 Based on training data, HunTag3 can perform any kind of sequential sentence  
@@ -8,7 +9,6 @@ HungTag3 is the official successor of [HunTag](https://github.com/recski/HunTag)
   
 # Highlights  
   
-- **NEW:** Has a REST API for tagging files with a pretrained model  
 - Using [NumPy](http://www.numpy.org/)/[SciPy.sparse](http://scipy.org/) arrays  
 - Runabble [YAML](http://www.yaml.org/) configuration  
 - Independent unigram model from [SciKit-learn](http://scikit-learn.org/stable/) (LinearRegressionClassifier)  
@@ -17,7 +17,7 @@ HungTag3 is the official successor of [HunTag](https://github.com/recski/HunTag)
 - Can work with featurized input and can generate featurized output for other taggers  
 - Consumes minimal memory possible  
 - [NLTK.classify.naivebayes-like](http://www.nltk.org/api/nltk.classify.html#nltk.classify.naivebayes.NaiveBayesClassifier.most_informative_features) *Most Informative Features* function for examining features quality  
-- Able to write the unigram featuret weights  
+- Able to write the unigram feature weights  
   
 # Requirements  
   
@@ -27,11 +27,13 @@ HungTag3 is the official successor of [HunTag](https://github.com/recski/HunTag)
   
 # Data format  
   
-- Input data must be a tab-separated file (TSV) with one word per line and **the first line must contain the field names**  
+- Input data must be a tab-separated file (TSV) with one word per line
+- **The first line must be the header which contain the names of the fields reqired by the used config**  
 - An empty line to mark sentence boundaries  
-- Each line must contain the same number of fields (except the first line, which must name a field for the output)  
-- Conventionally the last field must contain the correct label for the word (it is possible to use other fields for the label, but it must be set using the apropriate command line arguments).  
-  - The label may be in the BI format used at CoNLL shared tasks (e. g. B-NP to mark the first word of a noun phrase, I-NP to mark the rest and O to mark words outside an NP)  
+- Each line must contain the same number of fields
+- The column name containing correct/desired label for each word must be set from the CLI or by argument
+- The output label is placed to the last column with the specified column name
+- The label may be in the BI format used at CoNLL shared tasks (e. g. B-NP to mark the first word of a noun phrase, I-NP to mark the rest and O to mark words outside an NP)  
   - Or in the so-called BIE1 format which has a seperate symbol for words constituting a chunk themselves (1-NP) and one for the last words of multi-word phrases (E-NP)  
   - The first two characters of labels should always conform to one of these two conventions, the rest may be any string describing the category  
   
@@ -40,7 +42,7 @@ HungTag3 is the official successor of [HunTag](https://github.com/recski/HunTag)
 The flexibility of Huntag comes from the fact that it will generate any kind of features from the input data given the **appropriate python functions** (please refer to features.py and the config files).  
 Several dozens of features used regularly in NLP tasks are already implemented in the file features.py, however the user is encouraged to add any number of her own.  
   
-Once the desired features are implemented, a data set and a configuration file containing the list of feature functions to be used are all HunTag needs to perform training and tagging.  
+Once the desired features are implemented, a data set and a configuration file containing the list of feature functions to be used are all HunTag needs (not counting the data) to perform training and tagging.  
   
 # Config file  
 The configuration file lists the features that are to be used for a given task. The feature file may start with a command specifying the default radius for features. This is non-mandatory. Example:  
@@ -67,11 +69,14 @@ HunTag may be run in any of the following modes (see startHuntag.sh for overview
 ## train and train-featurize  
 Used to train a model or just featurize given a training corpus with a set of feature functions. When run in TRAIN mode, HunTag creates three files, one containing the model and two listing features and labels and the integers they are mapped to when passed to the learner. With the --model option set to NAME, the three files will be stored under NAME.model, NAME.featureNumbers.gz and NAME.labelNumbers.gz respectively.  
   
- cat TRAINING_DATA | python3 huntag_main.py train OPTIONSor  
-   huntag_main.py train -i TRAINING_DATA OPTIONS  
+
+     cat TRAINING_DATA | python3 huntag_main.py train OPTION
+     or
+     cat TRAINING_DATA | python3 huntag_main.py train -i TRAINING_DATA OPTIONS  
+
   
 Mandatory options:  
-- -c FILE, --config-file=FILE  
+- -c FILE, --config-file=FILE
   - read feature configuration from FILE  
 - -m NAME, --model=NAME  
   - name of model and lists  
@@ -79,12 +84,19 @@ Mandatory options:
 Non-mandatory options:  
 - -i INPUT, --input=INPUT  
    - input is taken from INPUT file instead of STDIN  
+- -g NAME, --gold-tag-field=NAME
+   - specifies the name of the column containing the gold labels
+- --input-featurized
+   - if set the input is handled as it is already featurized (first column is the label, the other columns are features, no need for header)
   
 ## transmodel-train  
 Used to train a transition model (from a bigram or trigram language model) using a given field of the training data  
   
- cat TRAINING_DATA | python3 huntag_main.py transmodel-train OPTIONSor  
-   huntag_main.py transmodel-train -i TRAINING_DATA OPTIONS  
+
+     cat TRAINING_DATA | python3 huntag_main.py transmodel-train OPTIONS
+     or  
+     cat TRAINING_DATA | python3 huntag_main.py transmodel-train -i TRAINING_DATA OPTIONS  
+
   
 Mandatory options:  
 - -m NAME, --model=NAME  
@@ -94,13 +106,20 @@ Mandatory options:
   
 Non-mandatory options:  
 - -i INPUT, --input=INPUT  
-   - input is taken from INPUT file instead of STDIN  
+   - input is taken from INPUT file instead of STDIN
+- -g NAME, --gold-tag-field=NAME
+   - specifies the name of the column containing the gold labels
+- --input-featurized
+   - if set the input is handled as it is already featurized (first column is the label, the other columns are features, no need for header)
   
 ## tag or tag-featurize  
 Used to tag or just featurize the input. Given a maxent model providing the value P(l|w) for all labels l and words (set of feature values) w, and a transition model supplying P(l|l0) for all pairs of labels, HunTag will assign to each sentence the most likely label sequence.  
   
- cat INPUT | python3 huntag_main.py tag OPTIONSor  
-   huntag_main.py tag -i INPUT OPTIONS  
+
+     cat INPUT | python3 huntag_main.py tag OPTIONS
+     or  
+     cat INPUT | python3 huntag_main.py tag -i INPUT OPTIONS
+
   
 Mandatory options:  
 - -m NAME, --model=NAME  
@@ -114,13 +133,22 @@ Non-mandatory options:
 - -i INPUT, --input=INPUT  
    - input is taken from INPUT file instead of STDIN  
 - -o OUTPUT, --output=OUTPUT  
-   - output is written to OUTPUT file instead of STDOUT  
+   - output is written to OUTPUT file instead of STDOUT
+- -t NAME, --tag-field=NAME
+   - specifies the name of the column containing the gold labels
+- --input-featurized
+   - if set the input is handled as it is already featurized (first column is the label, the other columns are features, no need for header)
+
   
 ## most-informative-features  
 Generates a feature ranking by counting label probabilities (for each label) and frequency per feature (correlations with labels) and sort them in decreasing order of confidence and frequency. This output is usefull for inspecting features quality.  
   
- cat TRAINING_DATA | python3 huntag_main.py most-informative-features OPTIONS > modelName.most_informative_featuresor  
-   huntag_main.py most-informative-features -i TRAINING_DATA  OPTIONS  
+
+    cat TRAINING_DATA | python3 huntag_main.py most-informative-features OPTIONS > modelName.most_informative_features
+    or  
+    cat TRAINING_DATA | python3 huntag_main.py most-informative-features -i TRAINING_DATA  OPTIONS
+
+  
   
 Mandatory options:  
 - -m NAME, --model=NAME  
@@ -132,14 +160,21 @@ Non-mandatory options:
 - -i INPUT, --input=INPUT  
    - input is taken from INPUT file instead of STDIN  
 - -o OUTPUT, --output=OUTPUT  
-   - output is written to OUTPUT file instead of STDOUT  
+   - output is written to OUTPUT file instead of STDOUT
+- -g NAME, --gold-tag-field=NAME
+   - specifies the name of the column containing the gold labels
+- --input-featurized
+   - if set the input is handled as it is already featurized (first column is the label, the other columns are features, no need for header)
   
 ## tag --print-weights N  
 Usefull for inspecting feature weights (per label) assigned by the MaxEnt learner. (As name suggests, training must happen before tagging.)  
 Negative weights mean negative correlation, which is also usefull.  
   
- python3 huntag.py tag --print-weights N OPTIONS > modelName.modelWeightsor  
-   huntag.py tag --print-weights N OPTIONS -o modelName.modelWeights  
+
+     python3 huntag.py tag --print-weights N OPTIONS > modelName.modelWeights
+     or  
+     python3 huntag.py tag --print-weights N OPTIONS -o modelName.modelWeights  
+
   
 Mandatory options:  
 - N is the number of features to print (default: 100)  
@@ -153,15 +188,7 @@ Non-mandatory options:
    - output is written to OUTPUT file instead of STDOUT  
   
 ## train-featurize and tag-feturize  
-This options generate suitable input for CRFsuite from training and tagging data. Model name is required as the features and labels are translated to numbers and back. CRFsuite use its own bigram model.  
-  
-## REST API    
-- Edit the `model_name` and `cfg_file` in `huntag.wsgi` and run the appropriate Python3 virtualenv in conjunction with a WSGI server.
-- For testing, one can use the REST API with `huntag_main.py tag-server` mode similarly to `tag` mode (**WARNING: FLASK'S DEBUG SERVER IS SLOW!**)
-- The clients should ask the following or similar:    
-
-
-    r = requests.post('http://127.0.0.1:5000/tag_file', files={'file':open('test.maxnp.hfst', encoding='UTF-8')})
+This options generate suitable input for CRFsuite from training and tagging data. Model name is required as the features and labels are translated to numbers and back. CRFsuite use its own bigram model.
 
 # Usage examples  
   
@@ -208,7 +235,7 @@ HunTag3 is made available under the GNU Lesser General Public License v3.0. If y
   
 # Reference  
 
-This tool is also [integrated](https://github.com/dlt-rilmta/hunlp-GATE) into the [e-magyar](http://www.e-magyar.hu) language processing system. It is called emNER.  
+This tool is also [integrated](https://github.com/dlt-rilmta/hunlp-GATE) into the [e-magyar](http://www.e-magyar.hu) language processing system. It is called *emChunk/emNER*.  
   
 If you use the tool, please cite the following paper:  
   
