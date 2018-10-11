@@ -16,8 +16,8 @@ from sklearn.linear_model import LogisticRegression
 # from sklearn.svm import SVC
 # from sklearn.multiclass import OneVsRestClassifier
 
-from huntag.tools import BookKeeper, sentence_iterator, featurize_sentence, use_featurized_sentence,\
-    feature_names_to_indices
+from huntag.tools import BookKeeper, featurize_sentence, use_featurized_sentence,\
+    bind_features_to_indices
 
 
 class Trainer:
@@ -39,18 +39,25 @@ class Trainer:
         # parameters = {'kernel': 'linear', 'probability': True}
         # solver = OneVsRestClassifier(SVC(**parameters))  # XXX won't work because ** in parameters...
 
-        self._model = solver(**parameters)
-        self._data_sizes = options['data_sizes']
-        self._tag_field = options['field_names'][options['gold_tag_field']]
-        self._model_file_name = options['model_filename']
-        self._parameters = options['train_params']
         self._cutoff = options['cutoff']
+        self._parameters = options['train_params']
+        self._model = solver(**parameters)
+
+        self._tag_field = options['field_names'][options['gold_tag_field']]
+        self._features = bind_features_to_indices(features, options['field_names'])
+
+        self._model_file_name = options['model_filename']
         self._feat_counter_file_name = options['featcounter_filename']
         self._label_counter_file_name = options['labelcounter_filename']
-        self._features = feature_names_to_indices(features, options['field_names'])
+
+        if options['inp_featurized']:
+            self._featurize_sentence_fun = use_featurized_sentence
+        else:
+            self._featurize_sentence_fun = featurize_sentence
 
         self._tok_count = -1  # Index starts from 0
 
+        self._data_sizes = options['data_sizes']
         self._rows = array(self._data_sizes['rows'])
         self._cols = array(self._data_sizes['cols'])
         self._data = array(self._data_sizes['data'])
@@ -180,33 +187,16 @@ class Trainer:
 
             print('done!', file=sys.stderr, flush=True)
 
-    def get_events_from_data(self, data, featurized_data=False):
+    def get_events_from_sent(self, sen):
         """
         Read input data in variable forms
-        :param data: one token per line, empty line as sentence separator
-        :param featurized_data: extract the features from lines or data is already featurized
+        :param sen: one token per elem
         :return: Nothing
         """
-        print('featurizing sentences...', end='', file=sys.stderr, flush=True)
-        if featurized_data:
-            featurize_sentence_fun = use_featurized_sentence
-        else:
-            featurize_sentence_fun = featurize_sentence
-
-        sen_count = 0
-        tok_index = -1  # Index starts from 0
-        for sen, _ in sentence_iterator(data):
-            sen_count += 1
-            sentence_feats = featurize_sentence_fun(sen, self._features, self._feat_filter, self._tag_field)
-            for label, *feats in sentence_feats:
-                tok_index += 1
-                self._add_context(feats, label, tok_index)
-            self._sent_end.append(tok_index)
-            if sen_count % 1000 == 0:
-                print('{0}...'.format(str(sen_count)), end='', file=sys.stderr, flush=True)
-
-        self._tok_count = tok_index + 1
-        print('{0}...done!'.format(str(sen_count)), file=sys.stderr, flush=True)
+        for label, *feats in self._featurize_sentence_fun(sen, self._features, self._feat_filter, self._tag_field):
+            self._tok_count += 1
+            self._add_context(feats, label, self._tok_count)
+        self._sent_end.append(self._tok_count)
 
     def _add_context(self, tok_feats, label, cur_tok):
         rows_append = self._rows.append

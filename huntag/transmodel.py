@@ -11,8 +11,6 @@ import math
 import pickle
 from collections import Counter
 
-from huntag.tools import sentence_iterator
-
 
 def safe_div(v1, v2):
     """
@@ -75,8 +73,8 @@ class TransModel:
         return self.viterbi(tagprobs_by_pos)[1]
 
     # Train a Stream
-    def train(self, input_stream):
-        for sen, _ in sentence_iterator(input_stream):
+    def train(self, sentence_iterator):
+        for sen, _ in sentence_iterator:
             self.obs_sequence((tok[self._tag_field] for tok in sen))
 
     # Train a Sentence (Either way we count trigrams, but later we will not use them)
