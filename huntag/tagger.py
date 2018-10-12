@@ -17,6 +17,12 @@ class Tagger:
         self._data_sizes = options['data_sizes']
         self._trans_probs = trans_model
 
+        print('loading observation model...', end='', file=sys.stderr, flush=True)
+        self._model = joblib.load('{0}'.format(options['model_filename']))
+        self._feat_counter = BookKeeper(options['featcounter_filename'])
+        self._label_counter = BookKeeper(options['labelcounter_filename'])
+        print('done', file=sys.stderr, flush=True)
+
         # Set functions according to task...
         if options.get('inp_featurized', False):
             self._featurize_sentence_fun = use_featurized_sentence
@@ -30,12 +36,6 @@ class Tagger:
             else:  # tag sentences
                 self._format_output = self._add_tagging_normal
                 self._tag_fun = self.tag_by_feat_number
-
-        print('loading observation model...', end='', file=sys.stderr, flush=True)
-        self._model = joblib.load('{0}'.format(options['model_filename']))
-        self._feat_counter = BookKeeper(options['featcounter_filename'])
-        self._label_counter = BookKeeper(options['labelcounter_filename'])
-        print('done', file=sys.stderr, flush=True)
 
     def _get_tag_probs_by_pos(self, feat_numbers):
         rows, cols, data = [], [], []
@@ -65,7 +65,7 @@ class Tagger:
         return add_tagging(sen, best_tagging, tag_index)  # Add tagging to sentence
 
     @staticmethod
-    def _print_features(_, __, feat_numbers, featno_to_name, ___):
+    def _print_features(_, feat_numbers, featno_to_name, __):
         return [[featno_to_name[featNum].replace(':', 'colon') for featNum in featNumberSet]
                 for featNumberSet in feat_numbers]
 

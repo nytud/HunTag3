@@ -47,7 +47,7 @@ def main_train(task, input_stream, output_stream, feature_set, options):
 
 def main_tag(task, input_stream, output_stream, transmodel_filename, feature_set, options, print_weights=None,
              io_dirs=None):
-    if task not in {'print_weights', 'tag-featurize'}:
+    if task not in {'print-weights', 'tag-featurize'}:
         print('loading transition model...', end='', file=sys.stderr, flush=True)
         trans_model = TransModel.load_from_file(transmodel_filename)
         print('done', file=sys.stderr, flush=True)
@@ -58,8 +58,8 @@ def main_tag(task, input_stream, output_stream, transmodel_filename, feature_set
 
     if io_dirs is not None:  # Tag all files in a directory file to to filename.tagged
         tag_dir(io_dirs, tagger)
-    elif task == 'print_weights':  # Print MaxEnt weights to output stream
-        tagger.print_weights(print_weights, output_stream)
+    elif task == 'print-weights':  # Print MaxEnt weights to output stream
+        tagger.print_weights(output_stream, print_weights)
     else:  # Tag a featurized or unfeaturized file or write the featurized format to to output_stream
         output_stream.writelines(process(input_stream, tagger))
         output_stream.flush()
