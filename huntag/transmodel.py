@@ -65,11 +65,6 @@ class TransModel:
 
         self._update_warning = 'WARNING: Probabilities have not been recalculated since last input!'
 
-    def prepare_fields(self, field_names):
-        # The target field is already exists, not to be generated!
-        self._tag_field = field_names[self._target_field]
-        return []
-
     def reset(self):
         self._unigram_count = Counter()
         self._bigram_count = Counter()
@@ -78,17 +73,28 @@ class TransModel:
         self._sent_count = 0
         self.updated = True
 
+    def prepare_fields(self, field_names):
+        # The target field is already exists, not to be generated!
+        self._tag_field = field_names.get(self._target_field)
+        if self._tag_field is None:
+            fields = [f for f in field_names.keys() if isinstance(f, str)]
+            print('ERROR: INVALID --gold-tag-field ({0}) SPECIFIED! AVAILABLE FIELDS: {1} !'.format(self._target_field,
+                                                                                                    ', '.join(fields)),
+                  file=sys.stderr, flush=True)
+            exit(1)
+        return []
+
+    # Train a Stream
+    def process_sentence(self, sentence, _):
+        self._obs_sequence((tok[self._tag_field] for tok in sentence))
+        return [[]]
+
     # Tag a sentence given the probability dists. of words
     def tag_sent(self, tagprobs_by_pos):
         return self.viterbi(tagprobs_by_pos)[1]
 
-    # Train a Stream
-    def process_sentence(self, sentence, _):
-        self.obs_sequence((tok[self._tag_field] for tok in sentence))
-        return [[]]
-
     # Train a Sentence (Either way we count trigrams, but later we will not use them)
-    def obs_sequence(self, tag_sequence):
+    def _obs_sequence(self, tag_sequence):
         last_before = self._boundary_symbol
         last = self._boundary_symbol
         # Add the two boundary symbol to the counts...

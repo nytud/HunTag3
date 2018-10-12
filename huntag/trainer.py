@@ -190,7 +190,13 @@ class Trainer:
 
     def prepare_fields(self, field_names):
         # The target field is already exists, not to be generated!
-        self._tag_field = field_names[self._target_field]
+        self._tag_field = field_names.get(self._target_field)
+        if self._tag_field is None:
+            fields = [f for f in field_names.keys() if isinstance(f, str)]
+            print('ERROR: INVALID --gold-tag-field ({0}) SPECIFIED! AVAILABLE FIELDS: {1} !'.format(self._target_field,
+                                                                                                    ', '.join(fields)),
+                  file=sys.stderr, flush=True)
+            exit(1)
         return bind_features_to_indices(self.features, field_names)
 
     def process_sentence(self, sen, features):
