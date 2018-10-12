@@ -1,4 +1,4 @@
-token	stem	pos	morph	gold
+string	lemma	hfstana	hfstana2	gold
 Hétfőn	hétfő	[/N]	[Supe]	1-NP
 folytatódik	folytatódik	[/V]	[Prs.NDef.3Sg]	O
 az	az	[/Det|art.Def]	_	B-NP
