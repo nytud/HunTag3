@@ -5,19 +5,17 @@ import sys
 from sklearn.externals import joblib
 from scipy.sparse import csr_matrix
 
-from huntag.tools import featurize_sentence, use_featurized_sentence, BookKeeper, bind_features_to_indices
+from huntag.tools import BookKeeper, featurize_sentence, use_featurized_sentence, bind_features_to_indices
 
 
 class Tagger:
     def __init__(self, features, trans_model, options):
-        self.features = features
-        self.tag_field_name = options['tag_field']
-        self.tag_field = options['field_names'][options['tag_field']]
-        self.field_names = options['field_names']
+        self._tag_field = None
         self.target_fields = [options['tag_field']]
+
+        self.features = features
         self._data_sizes = options['data_sizes']
         self._trans_probs = trans_model
-        self.use_header = options['use_header']
 
         # Set functions according to task...
         if options.get('inp_featurized', False):
@@ -72,6 +70,7 @@ class Tagger:
                 for featNumberSet in feat_numbers]
 
     def prepare_fields(self, field_names):
+        self._tag_field = field_names[self.target_fields[0]]
         return bind_features_to_indices(self.features, field_names)
 
     def process_sentence(self, sen, features_bound_to_column_ids):
@@ -79,9 +78,9 @@ class Tagger:
         get_no_tag = self._feat_counter.get_no_tag
         # Get Sentence Features translated to numbers and contexts in two steps
         feat_numbers = [{get_no_tag(feat) for feat in feats if get_no_tag(feat) is not None} for feats in sen_feats]
-        yield self._tag_fun(sen, feat_numbers, self._format_output, self.tag_field)
+        return self._tag_fun(sen, feat_numbers, self._format_output, self._tag_field)
 
-    def print_weights(self, n=100, output_stream=sys.stdout):
+    def print_weights(self, output_stream, n=100):
         coefs = self._model.coef_
         labelno_to_name = self._label_counter.no_to_name
         featno_to_name = self._feat_counter.no_to_name

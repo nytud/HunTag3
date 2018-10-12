@@ -16,8 +16,7 @@ from sklearn.linear_model import LogisticRegression
 # from sklearn.svm import SVC
 # from sklearn.multiclass import OneVsRestClassifier
 
-from huntag.tools import BookKeeper, featurize_sentence, use_featurized_sentence,\
-    bind_features_to_indices
+from huntag.tools import BookKeeper, featurize_sentence, use_featurized_sentence, bind_features_to_indices
 
 
 class Trainer:
@@ -43,8 +42,9 @@ class Trainer:
         self._parameters = options['train_params']
         self._model = solver(**parameters)
 
-        self._tag_field = options['field_names'][options['gold_tag_field']]
-        self._features = bind_features_to_indices(features, options['field_names'])
+        self.features = features
+        self.target_fields = []
+        self._target_field = options['gold_tag_field']
 
         self._model_file_name = options['model_filename']
         self._feat_counter_file_name = options['featcounter_filename']
@@ -123,6 +123,7 @@ class Trainer:
         return matrix
 
     def cutoff_feats(self):
+        self._tok_count += 1  # This actually was the token index which starts from 0...
         self._convert_to_np_array()
         col_num = self._feat_counter.num_of_names()
         if self._cutoff < 2:  # Keep all...
@@ -187,16 +188,23 @@ class Trainer:
 
             print('done!', file=sys.stderr, flush=True)
 
-    def get_events_from_sent(self, sen):
+    def prepare_fields(self, field_names):
+        # The target field is already exists, not to be generated!
+        self._tag_field = field_names[self._target_field]
+        return bind_features_to_indices(self.features, field_names)
+
+    def process_sentence(self, sen, features):
         """
         Read input data in variable forms
         :param sen: one token per elem
-        :return: Nothing
+        :param features: the features bound to columns
+        :return: dummy list of tokens which are list of features
         """
-        for label, *feats in self._featurize_sentence_fun(sen, self._features, self._feat_filter, self._tag_field):
+        for label, *feats in self._featurize_sentence_fun(sen, features, self._feat_filter, self._tag_field):
             self._tok_count += 1
             self._add_context(feats, label, self._tok_count)
         self._sent_end.append(self._tok_count)
+        return [[]]  # Dummy
 
     def _add_context(self, tok_feats, label, cur_tok):
         rows_append = self._rows.append

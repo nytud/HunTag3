@@ -21,62 +21,6 @@ data_sizes = {'rows': 'Q', 'rows_np': np.uint64,         # Really big...
               }                                          # ...for safety
 
 
-def process_header(stream, target_fields):
-    fields = stream.readline().strip().split()                      # Read header to fields
-    fields.extend(target_fields)                                    # Add target fields
-    field_names = {name: i for i, name in enumerate(fields)}        # Decode field names
-    field_names.update({i: name for i, name in enumerate(fields)})  # Both ways...
-    return '{0}\n'.format('\t'.join(fields)), field_names
-
-
-def process(stream, internal_app):
-    if internal_app.use_header:
-        header, field_names = process_header(stream, internal_app.target_fields)
-        yield header
-    else:
-        field_names = internal_app.field_names + internal_app.target_fields
-    field_values = internal_app.prepare_fields(field_names)
-
-    sen_count = 0
-    for sen, comment in sentence_iterator(stream):
-        sen_count += 1
-        if comment:
-            yield '{0}\n'.format(comment)
-        yield from ('{0}\n'.format('\t'.join(tok)) for tok in internal_app.process_sentence(sen, field_values))
-        yield '\n'
-
-        if sen_count % 1000 == 0:
-            print('{0}...'.format(sen_count), end='', file=sys.stderr, flush=True)
-    print('{0}...done'.format(sen_count), file=sys.stderr, flush=True)
-
-
-def sentence_iterator(input_stream):
-    curr_sen = []
-    curr_comment = None
-    for line in input_stream:
-        line = line.strip()
-        # Comment handling
-        if line.startswith('"""'):
-            if len(curr_sen) == 0:  # Comment before sentence
-                curr_comment = line
-            else:  # Error: Comment in the middle of sentence
-                print('ERROR: comments are only allowed before a sentence!', file=sys.stderr, flush=True)
-                sys.exit(1)
-        # Blank line handling
-        elif len(line) == 0:
-            if curr_sen:  # End of sentence
-                yield curr_sen, curr_comment
-                curr_sen = []
-                curr_comment = None
-            else:  # WARNING: Multiple blank line
-                print('WARNING: wrong formatted sentences, only one blank line allowed!', file=sys.stderr, flush=True)
-        else:
-            curr_sen.append(line.split())
-    if curr_sen:
-        print('WARNING: No blank line before EOF!', file=sys.stderr, flush=True)
-        yield curr_sen, curr_comment
-
-
 def bind_features_to_indices(features, name_dict):
     for name, feature in features.items():
         feature.field_indices = [name_dict[f] for f in feature.fields]
@@ -134,8 +78,6 @@ def get_featureset_yaml(cfg_file):
     default_cutoff = 1
     cfg = load_yaml(cfg_file)
 
-    default_column_order = cfg.get('default_column_order')
-
     if 'default' in cfg:
         default_cutoff = cfg['default'].get('cutoff', default_cutoff)
         default_radius = cfg['default'].get('radius', default_radius)
@@ -153,7 +95,7 @@ def get_featureset_yaml(cfg_file):
         name = feat['name']
         features[name] = Feature(feat['type'], name, feat['action_name'], fields, radius, cutoff, options)
 
-    return default_column_order, features
+    return features
 
 
 # Keeps Feature/Label-Number translation maps, for faster computations

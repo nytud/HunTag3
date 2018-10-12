@@ -1,4 +1,4 @@
-token	stem	pos	morph	gold	label
+token	stem	pos	morph	gold
 Hétfőn	hétfő	[/N]	[Supe]	O
 folytatódik	folytatódik	[/V]	[Prs.NDef.3Sg]	O
 az	az	[/Det|art.Def]	_	O

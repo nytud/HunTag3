@@ -8,16 +8,21 @@ from os import mkdir
 from os.path import isdir, join, isfile
 from collections import defaultdict
 
-from huntag.tools import get_featureset_yaml, data_sizes, process_header, process, sentence_iterator
+from huntag.tools import get_featureset_yaml, data_sizes
+from huntag.tsvhandler import process
 from huntag.trainer import Trainer
 from huntag.tagger import Tagger
 from huntag.transmodel import TransModel
 
 
-def main_trans_model_train(input_stream, model_filename, gold_tag_field_id, lm_weight, model_order):
-    trans_model = TransModel(gold_tag_field_id, lmw=lm_weight, order=model_order)
+def main_trans_model_train(input_stream, model_filename, gold_tag_field, lm_weight, model_order):
+    trans_model = TransModel(gold_tag_field, lmw=lm_weight, order=model_order)
     # It's possible to train multiple times incrementally... (Just call this function on different data, then compile())
-    trans_model.train(sentence_iterator(input_stream))
+
+    # Exhaust training process iterator...
+    for _ in process(input_stream, trans_model):
+        pass
+
     # Close training, compute probabilities
     trans_model.compile()
     trans_model.save_to_file(model_filename)
@@ -26,14 +31,9 @@ def main_trans_model_train(input_stream, model_filename, gold_tag_field_id, lm_w
 def main_train(task, input_stream, output_stream, feature_set, options):
     trainer = Trainer(feature_set, options)
 
-    print('featurizing sentences...', end='', file=sys.stderr, flush=True)
-    sen_count = 0
-    for sen_count, (sen, _) in enumerate(sentence_iterator(input_stream)):
-        trainer.get_events_from_sent(sen)
-        if sen_count % 1000 == 0:
-            print('{0}...'.format(str(sen_count)), end='', file=sys.stderr, flush=True)
-
-    print('{0}...done!'.format(str(sen_count)), file=sys.stderr, flush=True)
+    # Exhaust training process iterator...
+    for _ in process(input_stream, trainer):
+        pass
     trainer.cutoff_feats()
 
     if task == 'most-informative-features':
@@ -58,7 +58,7 @@ def main_tag(task, input_stream, output_stream, transmodel_filename, feature_set
 
     if io_dirs is not None:  # Tag all files in a directory file to to filename.tagged
         tag_dir(io_dirs, tagger)
-    elif print_weights is not None:  # Print MaxEnt weights to output stream
+    elif task == 'print_weights':  # Print MaxEnt weights to output stream
         tagger.print_weights(print_weights, output_stream)
     else:  # Tag a featurized or unfeaturized file or write the featurized format to to output_stream
         output_stream.writelines(process(input_stream, tagger))
@@ -156,9 +156,9 @@ def parse_args():
                         help='Use output file instead of STDOUT',
                         metavar='FILE')
 
-    parser.add_argument('--use-header', dest='use_header', action='store_true', default=False,
-                        help='Use the first input line as header',
-                        metavar='BOOL')
+    parser.add_argument('-w', '--num-weights', dest='num_weights', type=int, default=100,
+                        help='Print only the first N weights',
+                        metavar='N')
 
     group_i = parser.add_mutually_exclusive_group()
 
@@ -181,17 +181,18 @@ def main():
         sys.exit(1)
 
     options.data_sizes = data_sizes
+
+    # Model files...
     options.model_filename = '{0}{1}'.format(options.model_name, options.model_ext)
     options.featcounter_filename = '{0}{1}'.format(options.model_name, options.featurenumbers_ext)
     options.labelcounter_filename = '{0}{1}'.format(options.model_name, options.labelnumbers_ext)
     transmodel_filename = '{0}{1}'.format(options.model_name, options.transmodel_ext)
 
     task = options.task
+
+    # Set input and output stream...
     input_filename = options.input_filename
     output_filename = options.output_filename
-
-    options_dict = vars(options)
-    # TODO: az input output stream et meg a taskot itt ki lehetne szedni az optionsból saját változóba egyből...
     if input_filename:
         input_stream = open(input_filename, encoding='UTF-8')
     else:
@@ -202,40 +203,23 @@ def main():
     else:
         output_stream = sys.stdout
 
-    # TODO: Rethink this!
+    options_dict = vars(options)
+
     # Use with featurized input or raw input
-    if options_dict['inp_featurized']:
+    if options_dict['inp_featurized'] or task == 'transmodel-train':
         feature_set = None
         options_dict['field_names'] = defaultdict(str)
-        options_dict['field_names'][options_dict['gold_tag_field']] = 0  # If featurized, then the first is the label!
-        options_dict['field_names'][0] = options_dict['gold_tag_field']
     else:
-        options_dict['field_names'], feature_set = get_featureset_yaml(options_dict['cfg_file'])
-
-    # Set field id-s for train...
-    gold_tag_field_id = -1  # Dummy
-    if task in {'train', 'most-informative-features', 'train-featurize', 'transmodel-train'}:
-        if options_dict['use_header']:  # Header has higher priority!
-            options_dict['field_names'] = process_header(input_stream, [options_dict['gold_tag_field']])[1]
-        elif not options_dict['inp_featurized'] and options_dict['field_names'] is None:
-            print('ERROR: FIELD NAMES ARE NOT PROPERLY SET! USE HEADER OR SET THEM IN THE CFG!',
-                  file=sys.stderr, flush=True)
-            exit(1)
-
-        gold_tag_field_id = options_dict['field_names'].get(options_dict['gold_tag_field'])
-        if gold_tag_field_id is None:
-            print('ERROR: GOLD TAG FIELD IS NOT PROPERLY SET! HEADER OR CFG MUST HAVE A MATCH WITH --gold-tag-field!',
-                  file=sys.stderr, flush=True)
-            exit(1)
+        feature_set = get_featureset_yaml(options_dict['cfg_file'])
 
     if task == 'transmodel-train':
-        main_trans_model_train(input_stream, transmodel_filename, gold_tag_field_id, options_dict['lmw'],
+        main_trans_model_train(input_stream, transmodel_filename, options_dict['gold_tag_field'], options_dict['lmw'],
                                options_dict['transmodel_order'])
     elif task in {'train', 'most-informative-features', 'train-featurize'}:
         main_train(task, input_stream, output_stream, feature_set, options_dict)
     elif task in {'tag', 'print-weights', 'tag-featurize'}:
-        main_tag(task, input_stream, output_stream, transmodel_filename, feature_set, options,
-                 options_dict['print_weights'], options_dict['io_dirs'])
+        main_tag(task, input_stream, output_stream, transmodel_filename, feature_set, options_dict,
+                 options_dict['num_weights'], options_dict['io_dirs'])
     else:  # Will never happen because argparse...
         print('Error: Task name must be specified! Please see --help!', file=sys.stderr, flush=True)
         sys.exit(1)

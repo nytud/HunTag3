@@ -29,7 +29,7 @@ def safe_div(v1, v2):
 
 # Bigram or Trigram transition model
 class TransModel:
-    def __init__(self, tag_field=-1, smooth=0.000000000000001, boundary_symbol='S', lmw=1.0, order=3):
+    def __init__(self, target_field, smooth=0.000000000000001, boundary_symbol='S', lmw=1.0, order=3):
         self._unigram_count = Counter()
         self.unigram_logprob = {}
         self._lambda1 = 0.0
@@ -45,7 +45,12 @@ class TransModel:
         self.updated = True
         self.reset()
 
-        self._tag_field = tag_field
+        self.target_fields = []
+        self._target_field = target_field
+        self._tag_field = None
+
+        self.target_fields = []
+
         self._log_smooth = math.log(float(smooth))
         self._boundary_symbol = boundary_symbol
         self._language_model_weight = float(lmw)
@@ -60,6 +65,11 @@ class TransModel:
 
         self._update_warning = 'WARNING: Probabilities have not been recalculated since last input!'
 
+    def prepare_fields(self, field_names):
+        # The target field is already exists, not to be generated!
+        self._tag_field = field_names[self._target_field]
+        return []
+
     def reset(self):
         self._unigram_count = Counter()
         self._bigram_count = Counter()
@@ -73,9 +83,9 @@ class TransModel:
         return self.viterbi(tagprobs_by_pos)[1]
 
     # Train a Stream
-    def train(self, sentence_iterator):
-        for sen, _ in sentence_iterator:
-            self.obs_sequence((tok[self._tag_field] for tok in sen))
+    def process_sentence(self, sentence, _):
+        self.obs_sequence((tok[self._tag_field] for tok in sentence))
+        return [[]]
 
     # Train a Sentence (Either way we count trigrams, but later we will not use them)
     def obs_sequence(self, tag_sequence):
