@@ -182,6 +182,7 @@ def main():
     options.transmodel_filename = transmodel_filename
 
     task = options.task
+    options.source_fields = {}
 
     # Set input and output stream...
     input_filename = options.input_filename

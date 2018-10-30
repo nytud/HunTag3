@@ -13,6 +13,7 @@ class Tagger:
     def __init__(self, features, options):
         self._tag_field = None
         self.target_fields = [options['tag_field']]
+        self.source_fields = options['source_fields']
 
         self.features = features
         self._data_sizes = options['data_sizes']
