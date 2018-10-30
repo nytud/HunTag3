@@ -85,10 +85,7 @@ def get_featureset_yaml(cfg_file):
     for feat in cfg['features']:
         options = feat.get('options', {})
 
-        if isinstance(feat['fields'], str):
-            fields = [feat['fields']]
-        else:
-            fields = [int(field) for field in feat['fields'].split(',')]
+        fields = feat['fields'].split(',')
 
         radius = feat.get('radius', default_radius)
         cutoff = feat.get('cutoff', default_cutoff)
