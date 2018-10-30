@@ -45,16 +45,8 @@ def main_train(task, input_stream, output_stream, feature_set, options):
         trainer.save()
 
 
-def main_tag(task, input_stream, output_stream, transmodel_filename, feature_set, options, print_weights=None,
-             io_dirs=None):
-    if task not in {'print-weights', 'tag-featurize'}:
-        print('loading transition model...', end='', file=sys.stderr, flush=True)
-        trans_model = TransModel.load_from_file(transmodel_filename)
-        print('done', file=sys.stderr, flush=True)
-    else:
-        trans_model = None
-
-    tagger = Tagger(feature_set, trans_model, options)
+def main_tag(task, input_stream, output_stream, feature_set, options, print_weights=None, io_dirs=None):
+    tagger = Tagger(feature_set, options)
 
     if io_dirs is not None:  # Tag all files in a directory file to to filename.tagged
         tag_dir(io_dirs, tagger)
@@ -187,6 +179,7 @@ def main():
     options.featcounter_filename = '{0}{1}'.format(options.model_name, options.featurenumbers_ext)
     options.labelcounter_filename = '{0}{1}'.format(options.model_name, options.labelnumbers_ext)
     transmodel_filename = '{0}{1}'.format(options.model_name, options.transmodel_ext)
+    options.transmodel_filename = transmodel_filename
 
     task = options.task
 
@@ -218,8 +211,8 @@ def main():
     elif task in {'train', 'most-informative-features', 'train-featurize'}:
         main_train(task, input_stream, output_stream, feature_set, options_dict)
     elif task in {'tag', 'print-weights', 'tag-featurize'}:
-        main_tag(task, input_stream, output_stream, transmodel_filename, feature_set, options_dict,
-                 options_dict['num_weights'], options_dict['io_dirs'])
+        main_tag(task, input_stream, output_stream, feature_set, options_dict, options_dict['num_weights'],
+                 options_dict['io_dirs'])
     else:  # Will never happen because argparse...
         print('Error: Task name must be specified! Please see --help!', file=sys.stderr, flush=True)
         sys.exit(1)

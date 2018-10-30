@@ -6,16 +6,23 @@ from sklearn.externals import joblib
 from scipy.sparse import csr_matrix
 
 from huntag.tools import BookKeeper, featurize_sentence, use_featurized_sentence, bind_features_to_indices
+from huntag.transmodel import TransModel
 
 
 class Tagger:
-    def __init__(self, features, trans_model, options):
+    def __init__(self, features, options):
         self._tag_field = None
         self.target_fields = [options['tag_field']]
 
         self.features = features
         self._data_sizes = options['data_sizes']
-        self._trans_probs = trans_model
+
+        if options['task'] not in {'print-weights', 'tag-featurize'}:
+            print('loading transition model...', end='', file=sys.stderr, flush=True)
+            self._trans_probs = TransModel.load_from_file(options['transmodel_filename'])
+            print('done', file=sys.stderr, flush=True)
+        else:
+            self._trans_probs = None
 
         print('loading observation model...', end='', file=sys.stderr, flush=True)
         self._model = joblib.load('{0}'.format(options['model_filename']))
