@@ -168,7 +168,7 @@ features:
 #    name: bwsamecases
 #    type: sentence
 #    action_name: is_between_same_cases
-#    fields: hfstana2
+#    fields: hfstana
 #    options:
 #        max_dist: 6
 
