@@ -16,7 +16,7 @@ from huntag.transmodel import TransModel
 
 
 def main_trans_model_train(input_stream, model_filename, gold_tag_field, lm_weight, model_order):
-    trans_model = TransModel(gold_tag_field, lmw=lm_weight, order=model_order)
+    trans_model = TransModel(source_fields={gold_tag_field}, lmw=lm_weight, order=model_order)
     # It's possible to train multiple times incrementally... (Just call this function on different data, then compile())
 
     # Exhaust training process iterator...
@@ -29,7 +29,7 @@ def main_trans_model_train(input_stream, model_filename, gold_tag_field, lm_weig
 
 
 def main_train(task, input_stream, output_stream, feature_set, options):
-    trainer = Trainer(feature_set, options)
+    trainer = Trainer(feature_set, options, source_fields={options['gold_tag_field']})
 
     # Exhaust training process iterator...
     for _ in process(input_stream, trainer):

@@ -20,10 +20,10 @@ from huntag.tools import BookKeeper, featurize_sentence, use_featurized_sentence
 
 
 class Trainer:
-    def __init__(self, features, options):
+    def __init__(self, features, options, source_fields=None, target_fields=None):
 
         # Set clasifier algorithm here
-        parameters = dict()  # dict(solver='lbfgs')
+        parameters = {'solver': 'lbfgs', 'multi_class': 'auto'}
         solver = LogisticRegression
 
         # Possible alternative solvers:
@@ -43,8 +43,20 @@ class Trainer:
         self._model = solver(**parameters)
 
         self.features = features
+
+        # Field names for e-magyar TSV
+        if source_fields is None:
+            source_fields = {}
+
+        if target_fields is None:
+            target_fields = []
+
+        self.source_fields = source_fields
+        self.target_fields = target_fields
+
+        self.source_fields.union({field for feat in features.values() for field in feat.fields})
         self.target_fields = []
-        self._target_field = options['gold_tag_field']
+        self._tag_field_name = options['gold_tag_field']
 
         self._model_file_name = options['model_filename']
         self._feat_counter_file_name = options['featcounter_filename']
@@ -189,15 +201,9 @@ class Trainer:
             print('done!', file=sys.stderr, flush=True)
 
     def prepare_fields(self, field_names):
-        # The target field is already exists, not to be generated!
-        self._tag_field = field_names.get(self._target_field)
-        if self._tag_field is None:
-            fields = [f for f in field_names.keys() if isinstance(f, str)]
-            print('ERROR: INVALID --gold-tag-field ({0}) SPECIFIED! AVAILABLE FIELDS: {1} !'.format(self._target_field,
-                                                                                                    ', '.join(fields)),
-                  file=sys.stderr, flush=True)
-            exit(1)
-        return bind_features_to_indices(self.features, field_names)
+        self._tag_field = field_names.get(self._tag_field_name)  # Bind tag field separately as it has no feature
+        return bind_features_to_indices(self.features, {k: v for k, v in field_names.items()
+                                                        if k != self._tag_field_name and v != self._tag_field_name})
 
     def process_sentence(self, sen, features):
         """

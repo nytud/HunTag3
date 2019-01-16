@@ -29,7 +29,8 @@ def safe_div(v1, v2):
 
 # Bigram or Trigram transition model
 class TransModel:
-    def __init__(self, target_field, smooth=0.000000000000001, boundary_symbol='S', lmw=1.0, order=3):
+    def __init__(self, source_fields=None, target_fields=None, smooth=0.000000000000001, boundary_symbol='S', lmw=1.0,
+                 order=3):
         self._unigram_count = Counter()
         self.unigram_logprob = {}
         self._lambda1 = 0.0
@@ -45,11 +46,15 @@ class TransModel:
         self.updated = True
         self.reset()
 
-        self.target_fields = []
-        self._target_field = target_field
-        self._tag_field = None
+        # Field names for e-magyar TSV
+        if source_fields is None:
+            source_fields = {}
 
-        self.target_fields = []
+        if target_fields is None:
+            target_fields = []
+
+        self.source_fields = source_fields
+        self.target_fields = target_fields
 
         self._log_smooth = math.log(float(smooth))
         self._boundary_symbol = boundary_symbol
@@ -74,20 +79,18 @@ class TransModel:
         self.updated = True
 
     def prepare_fields(self, field_names):
-        # The target field is already exists, not to be generated!
-        self._tag_field = field_names.get(self._target_field)
-        if self._tag_field is None:
-            fields = [f for f in field_names.keys() if isinstance(f, str)]
-            print('ERROR: INVALID --gold-tag-field ({0}) SPECIFIED! AVAILABLE FIELDS: {1} !'.format(self._target_field,
-                                                                                                    ', '.join(fields)),
-                  file=sys.stderr, flush=True)
+        source_fields_len = len(self.source_fields)
+        if source_fields_len != 1:
+            print('ERROR: Wrong number of source fields are specified ({0})! '
+                  'TRANSITION MODELL TRAINNG REQUIRE ONLY THE GOLD TAG FIELD!'.
+                  format(source_fields_len), file=sys.stderr, flush=True)
             exit(1)
-        return []
+        return [field_names[next(iter(self.source_fields))]]  # Look up the id of the only source field by name...
 
     # Train a Stream
-    def process_sentence(self, sentence, _):
-        self._obs_sequence((tok[self._tag_field] for tok in sentence))
-        return [[]]
+    def process_sentence(self, sentence, field_names):
+        self._obs_sequence((tok[field_names[0]] for tok in sentence))
+        return [[]]  # Nothing to return just the model...
 
     # Tag a sentence given the probability dists. of words
     def tag_sent(self, tagprobs_by_pos):
