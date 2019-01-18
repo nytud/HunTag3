@@ -72,7 +72,7 @@ Used to train a model or just featurize given a training corpus with a set of fe
 
      cat TRAINING_DATA | python3 huntag_main.py train OPTION
      or
-     cat TRAINING_DATA | python3 huntag_main.py train -i TRAINING_DATA OPTIONS  
+     python3 huntag_main.py train -i TRAINING_DATA OPTIONS  
 
   
 Mandatory options:  
@@ -95,7 +95,7 @@ Used to train a transition model (from a bigram or trigram language model) using
 
      cat TRAINING_DATA | python3 huntag_main.py transmodel-train OPTIONS
      or  
-     cat TRAINING_DATA | python3 huntag_main.py transmodel-train -i TRAINING_DATA OPTIONS  
+     python3 huntag_main.py transmodel-train -i TRAINING_DATA OPTIONS  
 
   
 Mandatory options:  
@@ -118,7 +118,7 @@ Used to tag or just featurize the input. Given a maxent model providing the valu
 
      cat INPUT | python3 huntag_main.py tag OPTIONS
      or  
-     cat INPUT | python3 huntag_main.py tag -i INPUT OPTIONS
+     python3 huntag_main.py tag -i INPUT OPTIONS
 
   
 Mandatory options:  
@@ -146,7 +146,7 @@ Generates a feature ranking by counting label probabilities (for each label) and
 
     cat TRAINING_DATA | python3 huntag_main.py most-informative-features OPTIONS > modelName.most_informative_features
     or  
-    cat TRAINING_DATA | python3 huntag_main.py most-informative-features -i TRAINING_DATA  OPTIONS
+    python3 huntag_main.py most-informative-features -i TRAINING_DATA  OPTIONS
 
   
   
@@ -197,25 +197,25 @@ A 100 token long example can be found in the git repository for clarifying the f
 ## Basic usage: train-tag    
     
     # train
-    cat input.txt | python3 huntag_main.py train --model=modelName --config-file=configs/maxnp.szeged.hfst.yaml
+    cat input.txt | python3 huntag_main.py train --model=modelName --config-file=configs/maxnp.szeged.emmorph.yaml
     # transmodel-train
     cat input.txt | python3 huntag_main.py transmodel-train --model=modelName  # --trans-model-order [2 or 3, default: 3]
     # tag
-    cat input.txt | python3 huntag_main.py tag --model=modelName --config-file=configs/maxnp.szeged.hfst.yaml ## Featurizing input (eg. for CRFsuite)
+    cat input.txt | python3 huntag_main.py tag --model=modelName --config-file=configs/maxnp.szeged.emmorph.yaml ## Featurizing input (eg. for CRFsuite)
     
 ## Advanced usage (for example with CRFsuite):
 
     # train-featurize
-    cat input.txt | python3 huntag_main.py train-featurize --model=modelName --config-file=configs/maxnp.szeged.hfst.yaml > modelName.CRFsuite.train
+    cat input.txt | python3 huntag_main.py train-featurize --model=modelName --config-file=configs/maxnp.szeged.emmorph.yaml > modelName.CRFsuite.train
     # tag-featurize
-    cat input.txt | python3 huntag_main.py tag-featurize --model=modelName --config-file=configs/maxnp.szeged.hfst.yaml > modelName.CRFsuite.tag
+    cat input.txt | python3 huntag_main.py tag-featurize --model=modelName --config-file=configs/maxnp.szeged.emmorph.yaml > modelName.CRFsuite.tag
 
 ## Debuging features:
 
     # most-informative-features
-    cat input.txt | python3 huntag_main.py most-informative-features --model=modelName --config-file=configs/maxnp.szeged.hfst.yaml > modelName.most_informative_features 
+    cat input.txt | python3 huntag_main.py most-informative-features --model=modelName --config-file=configs/maxnp.szeged.emmorph.yaml > modelName.most_informative_features 
     # tag FeatureWeights
-    cat input.txt | python3 huntag_main.py tag --print-weights 100 --model=modelName --config-file=configs/maxnp.szeged.hfst.yaml > modelNam.modelWeights
+    cat input.txt | python3 huntag_main.py tag --print-weights 100 --model=modelName --config-file=configs/maxnp.szeged.emmorph.yaml > modelNam.modelWeights
 
 # Models
 

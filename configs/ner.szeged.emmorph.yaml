@@ -145,7 +145,7 @@ features:
     name: plur
     type: token
     action_name: hfst_plural
-    fields: xpostag2
+    fields: xpostag
 
  - # Kr code patterns of a sentence (extended version) EXTENSIONS DISABLED!
     name: krpatt
@@ -188,13 +188,13 @@ features:
     name: trainpers
     type: lex
     action_name: hunner/lex/per.fromtraincorpus.lex
-    fields: from
+    fields: form
 
  - # Description: Miscallenous names generated from the train corpus
     name: trainmisc
     type: lex
     action_name: hunner/lex_from_Eszter.Simon/misc.fromtraincorpus.lex
-    fields: from
+    fields: form
 
  #~ - # Description: XXX Fill me!
     #~ name: trainloc
