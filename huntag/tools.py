@@ -21,11 +21,35 @@ data_sizes = {'rows': 'Q', 'rows_np': np.uint64,         # Really big...
               }                                          # ...for safety
 
 
-def load_default_options(model_filename):
-    return {'data_sizes': data_sizes, 'task': 'tag',
-            'featcounter_filename': '{0}{1}'.format(model_filename, '.featureNumbers.gz'),
-            'labelcounter_filename': '{0}{1}'.format(model_filename, '.labelNumbers.gz'),
-            'transmodel_filename': '{0}{1}'.format(model_filename, '.transmodel')}
+def load_options_and_features(opts, source_fields, target_fields):
+    # Load default options
+    options = {'data_sizes': data_sizes, 'task': 'tag', 'inp_featurized': False,
+               'model_filename': '{0}{1}'.format(opts['model_name'], '.model'),
+               'featcounter_filename': '{0}{1}'.format(opts['model_name'], '.featureNumbers.gz'),
+               'labelcounter_filename': '{0}{1}'.format(opts['model_name'], '.labelNumbers.gz'),
+               'transmodel_filename': '{0}{1}'.format(opts['model_name'], '.transmodel')}
+
+    options.update(opts)  # Update defaults with supplied options
+
+    # Load features
+    if options['inp_featurized']:  # Use with featurized input or raw input
+        features = None
+    elif 'features' not in options:  # Load features
+        features = get_featureset_yaml(options['cfg_file'])
+    else:
+        features = options['features']  # Or feed loaded features!
+
+    # Field names for e-magyar TSV
+    if source_fields is None:
+        source_fields = set()
+    if target_fields is None:
+        target_fields = []
+
+    source_fields = source_fields
+    target_fields = target_fields
+
+    source_fields = source_fields.union({field for feat in features.values() for field in feat.fields})
+    return features, source_fields, target_fields, options
 
 
 def bind_features_to_indices(features, name_dict):

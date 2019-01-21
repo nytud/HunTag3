@@ -5,33 +5,16 @@ import sys
 from sklearn.externals import joblib
 from scipy.sparse import csr_matrix
 
-from huntag.tools import BookKeeper, featurize_sentence, use_featurized_sentence, bind_features_to_indices,\
-    load_default_options, get_featureset_yaml
+from huntag.tools import BookKeeper, featurize_sentence, use_featurized_sentence, bind_features_to_indices, \
+    load_options_and_features
 from huntag.transmodel import TransModel
 
 
 class Tagger:
     def __init__(self, opts, source_fields=None, target_fields=None):
-        options = load_default_options(opts['model_filename'])
-        options.update(opts)
+        self.features, self.source_fields, self.target_fields, options = \
+            load_options_and_features(opts, source_fields, target_fields)
 
-        if options['inp_featurized']:  # Use with featurized input or raw input
-            self.features = None
-        else:  # Load features or feed loaded features after init!
-            self.features = get_featureset_yaml(options['cfg_file'])
-
-        # Field names for e-magyar TSV
-        if source_fields is None:
-            source_fields = set()
-
-        if target_fields is None:
-            target_fields = []
-
-        self.source_fields = source_fields
-        self.target_fields = target_fields
-
-        self.source_fields = {field for feat in self.features.values() for field in feat.fields}
-        self.target_fields = target_fields
         self._tag_field = None
 
         self._data_sizes = options['data_sizes']
