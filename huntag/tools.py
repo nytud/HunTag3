@@ -21,6 +21,13 @@ data_sizes = {'rows': 'Q', 'rows_np': np.uint64,         # Really big...
               }                                          # ...for safety
 
 
+def load_default_options(model_filename):
+    return {'data_sizes': data_sizes, 'task': 'tag',
+            'featcounter_filename': '{0}{1}'.format(model_filename, '.featureNumbers.gz'),
+            'labelcounter_filename': '{0}{1}'.format(model_filename, '.labelNumbers.gz'),
+            'transmodel_filename': '{0}{1}'.format(model_filename, '.transmodel')}
+
+
 def bind_features_to_indices(features, name_dict):
     for name, feature in features.items():
         feature.field_indices = [name_dict[f] for f in feature.fields]
@@ -51,7 +58,13 @@ def use_featurized_sentence(sen, _, feat_filter=lambda token_feats: token_feats,
 
 
 def load_yaml(cfg_file):
-    lines = open(cfg_file, encoding='UTF-8').readlines()
+    try:
+        lines = open(cfg_file, encoding='UTF-8').readlines()
+    except FileNotFoundError:
+        print('Error: Config file ({0}) not found!'.format(cfg_file), file=sys.stderr)
+        lines = ''
+        exit(1)
+
     try:
         start = lines.index('%YAML 1.1\n')
     except ValueError:

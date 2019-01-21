@@ -16,11 +16,19 @@ from sklearn.linear_model import LogisticRegression
 # from sklearn.svm import SVC
 # from sklearn.multiclass import OneVsRestClassifier
 
-from huntag.tools import BookKeeper, featurize_sentence, use_featurized_sentence, bind_features_to_indices
+from huntag.tools import BookKeeper, featurize_sentence, use_featurized_sentence, bind_features_to_indices,\
+    load_default_options, get_featureset_yaml
 
 
 class Trainer:
-    def __init__(self, features, options, source_fields=None, target_fields=None):
+    def __init__(self, opts, source_fields=None, target_fields=None):
+        options = load_default_options(opts['model_filename'])
+        options.update(opts)
+
+        if options['inp_featurized']:  # Use with featurized input or raw input
+            self.features = None
+        else:  # Load features or feed loaded features after init!
+            self.features = get_featureset_yaml(options['cfg_file'])
 
         # Set clasifier algorithm here
         parameters = {'solver': 'lbfgs', 'multi_class': 'auto'}
@@ -42,11 +50,9 @@ class Trainer:
         self._parameters = options['train_params']
         self._model = solver(**parameters)
 
-        self.features = features
-
         # Field names for e-magyar TSV
         if source_fields is None:
-            source_fields = {}
+            source_fields = set()
 
         if target_fields is None:
             target_fields = []
@@ -54,7 +60,7 @@ class Trainer:
         self.source_fields = source_fields
         self.target_fields = target_fields
 
-        self.source_fields.union({field for feat in features.values() for field in feat.fields})
+        self.source_fields = {field for feat in self.features.values() for field in feat.fields}
         self.target_fields = []
         self._tag_field_name = options['gold_tag_field']
 

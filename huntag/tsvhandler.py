@@ -5,7 +5,7 @@ import sys
 
 
 def process_header(stream, source_fields, target_fields):
-    fields = next(stream).strip().split('\t')                           # Read header to fields
+    fields = next(stream).strip().split('\t')                       # Read header to fields
     if not source_fields.issubset(set(fields)):
         raise NameError('Input does not have the required field names ({0}). The following field names found: {1}'.
                         format(sorted(source_fields), fields))

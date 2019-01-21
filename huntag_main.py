@@ -6,55 +6,11 @@ import sys
 import argparse
 from os import mkdir
 from os.path import isdir, join, isfile
-from collections import defaultdict
 
-from huntag.tools import get_featureset_yaml, data_sizes
 from huntag.tsvhandler import process
 from huntag.trainer import Trainer
 from huntag.tagger import Tagger
 from huntag.transmodel import TransModel
-
-
-def main_trans_model_train(input_stream, model_filename, gold_tag_field, lm_weight, model_order):
-    trans_model = TransModel(source_fields={gold_tag_field}, lmw=lm_weight, order=model_order)
-    # It's possible to train multiple times incrementally... (Just call this function on different data, then compile())
-
-    # Exhaust training process iterator...
-    for _ in process(input_stream, trans_model):
-        pass
-
-    # Close training, compute probabilities
-    trans_model.compile()
-    trans_model.save_to_file(model_filename)
-
-
-def main_train(task, input_stream, output_stream, feature_set, options):
-    trainer = Trainer(feature_set, options, source_fields={options['gold_tag_field']})
-
-    # Exhaust training process iterator...
-    for _ in process(input_stream, trainer):
-        pass
-    trainer.cutoff_feats()
-
-    if task == 'most-informative-features':
-        trainer.most_informative_features(output_stream)
-    elif task == 'train-featurize':
-        trainer.write_featurized_input(output_stream)
-    else:
-        trainer.train()
-        trainer.save()
-
-
-def main_tag(task, input_stream, output_stream, feature_set, options, print_weights=None, io_dirs=None):
-    tagger = Tagger(feature_set, options)
-
-    if io_dirs is not None:  # Tag all files in a directory file to to filename.tagged
-        tag_dir(io_dirs, tagger)
-    elif task == 'print-weights':  # Print MaxEnt weights to output stream
-        tagger.print_weights(output_stream, print_weights)
-    else:  # Tag a featurized or unfeaturized file or write the featurized format to to output_stream
-        output_stream.writelines(process(input_stream, tagger))
-        output_stream.flush()
 
 
 def tag_dir(io_dirs, tagger):
@@ -116,8 +72,7 @@ def parse_args():
                         help='extension of label numbers file to be read/written',
                         metavar='EXT')
 
-    parser.add_argument('-l', '--language-model-weight', dest='lmw',
-                        type=float, default=1,
+    parser.add_argument('--language-model-weight', dest='lmw',  type=float, default=1,
                         help='set relative weight of the language model to L',
                         metavar='L')
 
@@ -141,6 +96,10 @@ def parse_args():
                         help='specify FIELD containing the gold labels to build models from (training)',
                         metavar='FIELD')
 
+    parser.add_argument('-l', '--label-tag-field', dest='label_tag_field', default='label',
+                        help='specify FIELD containing the predicted labels (tagging)',
+                        metavar='FIELD')
+
     parser.add_argument('--input-featurized', dest='inp_featurized', action='store_true', default=False,
                         help='use training events in FILE (already featurized input, see {train,tag}-featurize)')
 
@@ -162,57 +121,78 @@ def parse_args():
                          help='process all files in DIR (instead of stdin)',
                          metavar='DIR')
 
-    return parser.parse_args()
+    options = parser.parse_args()
 
+    # Put together model filenames...
+    options.model_filename = '{0}{1}'.format(options.model_name, options.model_ext)
+    options.featcounter_filename = '{0}{1}'.format(options.model_name, options.featurenumbers_ext)
+    options.labelcounter_filename = '{0}{1}'.format(options.model_name, options.labelnumbers_ext)
+    options.transmodel_filename = '{0}{1}'.format(options.model_name, options.transmodel_ext)
 
-def main():
-    options = parse_args()
+    # Set input and output stream...
+    if options.input_filename:
+        options.input_stream = open(options.input_filename, encoding='UTF-8')
+    else:
+        options.input_stream = sys.stdin
+
+    if options.output_filename:
+        options.output_stream = open(options.output_filename, 'w', encoding='UTF-8')
+    else:
+        options.output_stream = sys.stdout
+
     if options.inp_featurized and options.task in {'train-featurize', 'tag-featurize'}:
         print('Error: Can not featurize input, which is already featurized according to CLI options!', file=sys.stderr,
               flush=True)
         sys.exit(1)
 
-    options.data_sizes = data_sizes
+    return vars(options)
 
-    # Model files...
-    options.model_filename = '{0}{1}'.format(options.model_name, options.model_ext)
-    options.featcounter_filename = '{0}{1}'.format(options.model_name, options.featurenumbers_ext)
-    options.labelcounter_filename = '{0}{1}'.format(options.model_name, options.labelnumbers_ext)
-    transmodel_filename = '{0}{1}'.format(options.model_name, options.transmodel_ext)
-    options.transmodel_filename = transmodel_filename
 
-    task = options.task
+def main():
+    options = parse_args()
 
-    # Set input and output stream...
-    input_filename = options.input_filename
-    output_filename = options.output_filename
-    if input_filename:
-        input_stream = open(input_filename, encoding='UTF-8')
-    else:
-        input_stream = sys.stdin
+    if options['task'] == 'transmodel-train':  # TRANSMODEL TRAIN
 
-    if output_filename:
-        output_stream = open(output_filename, 'w', encoding='UTF-8')
-    else:
-        output_stream = sys.stdout
+        trans_model = TransModel(source_fields={options['gold_tag_field']}, lmw=options['lmw'],
+                                 order=options['transmodel_order'])
 
-    options_dict = vars(options)
+        # It's possible to train multiple times incrementally... (Just call process on different data, then compile())
+        # Exhaust training process iterator...
+        for _ in process(options['input_stream'], trans_model):
+            pass
 
-    # Use with featurized input or raw input
-    if options_dict['inp_featurized'] or task == 'transmodel-train':
-        feature_set = None
-        options_dict['field_names'] = defaultdict(str)
-    else:
-        feature_set = get_featureset_yaml(options_dict['cfg_file'])
+        # Close training, compute probabilities
+        trans_model.compile()
+        trans_model.save_to_file(options['transmodel_filename'])
+    elif options['task'] in {'train', 'most-informative-features', 'train-featurize'}:  # TRAIN
 
-    if task == 'transmodel-train':
-        main_trans_model_train(input_stream, transmodel_filename, options_dict['gold_tag_field'], options_dict['lmw'],
-                               options_dict['transmodel_order'])
-    elif task in {'train', 'most-informative-features', 'train-featurize'}:
-        main_train(task, input_stream, output_stream, feature_set, options_dict)
-    elif task in {'tag', 'print-weights', 'tag-featurize'}:
-        main_tag(task, input_stream, output_stream, feature_set, options_dict, options_dict['num_weights'],
-                 options_dict['io_dirs'])
+        trainer = Trainer(options, source_fields={options['gold_tag_field']})
+
+        # Exhaust training process iterator...
+        for _ in process(options['input_stream'], trainer):
+            pass
+        trainer.cutoff_feats()
+
+        if options['task'] == 'most-informative-features':
+            trainer.most_informative_features(options['output_stream'])
+        elif options['task'] == 'train-featurize':
+            trainer.write_featurized_input(options['output_stream'])
+        else:
+            trainer.train()
+            trainer.save()
+
+    elif options['task'] in {'tag', 'print-weights', 'tag-featurize'}:  # TAG
+
+        tagger = Tagger(options, target_fields=[options['label_tag_field']])
+
+        if options['io_dirs'] is not None:  # Tag all files in a directory file to to filename.tagged
+            tag_dir(options['io_dirs'], tagger)
+        elif options['task'] == 'print-weights':  # Print MaxEnt weights to output stream
+            tagger.print_weights(options['output_stream'], options['num_weights'])
+        else:  # Tag a featurized or unfeaturized file or write the featurized format to to output_stream
+            options['output_stream'].writelines(process(options['input_stream'], tagger))
+            options['output_stream'].flush()
+
     else:  # Will never happen because argparse...
         print('Error: Task name must be specified! Please see --help!', file=sys.stderr, flush=True)
         sys.exit(1)

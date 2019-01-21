@@ -5,17 +5,35 @@ import sys
 from sklearn.externals import joblib
 from scipy.sparse import csr_matrix
 
-from huntag.tools import BookKeeper, featurize_sentence, use_featurized_sentence, bind_features_to_indices
+from huntag.tools import BookKeeper, featurize_sentence, use_featurized_sentence, bind_features_to_indices,\
+    load_default_options, get_featureset_yaml
 from huntag.transmodel import TransModel
 
 
 class Tagger:
-    def __init__(self, features, options):
-        self._tag_field = None
-        self.target_fields = [options['tag_field']]
-        self.source_fields = {field for feat in features.values() for field in feat.fields}
+    def __init__(self, opts, source_fields=None, target_fields=None):
+        options = load_default_options(opts['model_filename'])
+        options.update(opts)
 
-        self.features = features
+        if options['inp_featurized']:  # Use with featurized input or raw input
+            self.features = None
+        else:  # Load features or feed loaded features after init!
+            self.features = get_featureset_yaml(options['cfg_file'])
+
+        # Field names for e-magyar TSV
+        if source_fields is None:
+            source_fields = set()
+
+        if target_fields is None:
+            target_fields = []
+
+        self.source_fields = source_fields
+        self.target_fields = target_fields
+
+        self.source_fields = {field for feat in self.features.values() for field in feat.fields}
+        self.target_fields = target_fields
+        self._tag_field = None
+
         self._data_sizes = options['data_sizes']
 
         if options['task'] not in {'print-weights', 'tag-featurize'}:
@@ -78,8 +96,15 @@ class Tagger:
                 for featNumberSet in feat_numbers]
 
     def prepare_fields(self, field_names):
+        target_fields_len = len(self.target_fields)
+        if target_fields_len != 1:
+            print('ERROR: Wrong number of target fields are specified ({0})! '
+                  'TAGGING REQUIRES ONLY ONE TAG FIELD!'.
+                  format(target_fields_len), file=sys.stderr, flush=True)
+            exit(1)
         self._tag_field = field_names[self.target_fields[0]]
-        return bind_features_to_indices(self.features, field_names)
+        return bind_features_to_indices(self.features, {k: v for k, v in field_names.items()
+                                                        if k != self._tag_field and v != self._tag_field})
 
     def process_sentence(self, sen, features_bound_to_column_ids):
         sen_feats = self._featurize_sentence_fun(sen, features_bound_to_column_ids)
