@@ -23,7 +23,7 @@ HungTag3 is the official successor of [HunTag](https://github.com/recski/HunTag)
   
 - See requirements.txt (pip install -r requirements.txt)  
 - Optional: CRFsuite  
-- Minimum 8 GB RAM recomended for training  
+- Minimum 8 GB RAM recomended for training
   
 # Data format  
   
@@ -219,7 +219,7 @@ A 100 token long example can be found in the git repository for clarifying the f
 
 # Models
 
-Pretrained models for Hungarian are available at https://github.com/dlt-rilmta/hunlp-GATE
+Pretrained models for Hungarian are available in the `models` directory.
 
 # Authors  
   
