@@ -27,8 +27,11 @@ class Trainer:
 
         self._tag_field_name = options['gold_tag_field']  # One of the source fields
 
-        # Set clasifier algorithm here
-        parameters = {'solver': 'lbfgs', 'multi_class': 'auto'}
+        if options['train_params'] is None:
+            # Set clasifier algorithm here
+            parameters = {'solver': 'lbfgs', 'multi_class': 'auto', 'max_iter': 5000}
+        else:
+            parameters = options['train_params']
         solver = LogisticRegression
 
         # Possible alternative solvers:
@@ -44,7 +47,7 @@ class Trainer:
         # solver = OneVsRestClassifier(SVC(**parameters))  # XXX won't work because ** in parameters...
 
         self._cutoff = options['cutoff']
-        self._parameters = options['train_params']
+        self._parameters = parameters
         self._model = solver(**parameters)
 
         self._model_file_name = options['model_filename']

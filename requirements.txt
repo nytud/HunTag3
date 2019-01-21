@@ -2,6 +2,3 @@ pyyaml
 numpy
 scipy
 scikit-learn
-# For the REST API
-flask
-flask_restful
