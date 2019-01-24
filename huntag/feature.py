@@ -6,6 +6,7 @@ a feature type and calculating its value for some input. Feature instances are
 created by the getFeatureSet function in huntag_main.py.
 """
 
+import os
 import sys
 
 from huntag import features
@@ -80,15 +81,18 @@ class Lexicon:
         self.end_parts = set()
         self.mid_parts = set()
         self.start_parts = set()
-        for line in open(input_file, encoding='UTF-8'):
-            phrase = line.strip()
-            self.phrase_list.add(phrase)
-            words = phrase.split()
-            if len(words) > 1:
-                self.end_parts.add(words[-1])
-                self.start_parts.add(words[0])
-                for w in words[1:-1]:
-                    self.mid_parts.add(w)
+        if not os.path.isfile(input_file):
+            input_file = os.path.abspath(os.path.join(os.path.dirname(__file__), '..', input_file))
+        with open(input_file, encoding='UTF-8') as fh:
+            for line in fh:
+                phrase = line.strip()
+                self.phrase_list.add(phrase)
+                words = phrase.split()
+                if len(words) > 1:
+                    self.end_parts.add(words[-1])
+                    self.start_parts.add(words[0])
+                    for w in words[1:-1]:
+                        self.mid_parts.add(w)
 
     def _get_word_feats(self, word):
         word_feats = []

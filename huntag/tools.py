@@ -1,14 +1,16 @@
 #!/usr/bin/python3
 # -*- coding: utf-8, vim: expandtab:ts=4 -*-
+
 # Miscellaneous tools for HunTag
 
+import os
+import sys
+import gzip
+import yaml
+import numpy as np
 from operator import itemgetter
 from collections import Counter, defaultdict
 from itertools import count
-import sys
-import gzip
-import numpy as np
-import yaml
 
 from huntag.feature import Feature
 
@@ -82,8 +84,11 @@ def use_featurized_sentence(sen, _, feat_filter=lambda token_feats: token_feats,
 
 
 def load_yaml(cfg_file):
+    if not os.path.isfile(cfg_file):
+        cfg_file = os.path.abspath(os.path.join(os.path.dirname(__file__), '..', cfg_file))
     try:
-        lines = open(cfg_file, encoding='UTF-8').readlines()
+        with open(cfg_file, encoding='UTF-8') as fh:
+            lines = fh.readlines()
     except FileNotFoundError:
         print('Error: Config file ({0}) not found!'.format(cfg_file), file=sys.stderr)
         lines = ''
@@ -173,7 +178,7 @@ class BookKeeper:
         no = 0  # Last no
         with gzip.open(filename, mode='rt', encoding='UTF-8') as f:
             for line in f:
-                line = line.strip().split()
+                line = line.strip().split('\t')
                 name, no = line[0], int(line[1])
                 self._name_to_no[name] = no
                 self.no_to_name[no] = name

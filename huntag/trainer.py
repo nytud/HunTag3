@@ -75,7 +75,8 @@ class Trainer:
         self._feat_filter = lambda token_feats: token_feats
         feat_filename = options.get('used_feats')
         if feat_filename is not None:
-            used_feats = {line.strip() for line in open(feat_filename, encoding='UTF-8')}
+            with open(feat_filename, encoding='UTF-8') as fh:
+                used_feats = {line.strip() for line in fh}
             self._feat_filter = lambda token_feats: [feat for feat in token_feats if feat in used_feats]
             self._tag_field = 0  # Always the first field!
 
