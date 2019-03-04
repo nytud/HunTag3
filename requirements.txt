@@ -1,4 +1,4 @@
 pyyaml
 numpy
 scipy
-scikit-learn=0.20.2
+scikit-learn==0.20.2
