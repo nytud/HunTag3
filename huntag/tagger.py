@@ -5,9 +5,9 @@ import sys
 from sklearn.externals import joblib
 from scipy.sparse import csr_matrix
 
-from huntag.tools import BookKeeper, featurize_sentence, use_featurized_sentence, bind_features_to_indices, \
+from .tools import BookKeeper, featurize_sentence, use_featurized_sentence, bind_features_to_indices, \
     load_options_and_features
-from huntag.transmodel import TransModel
+from .transmodel import TransModel
 
 
 class Tagger:

@@ -17,14 +17,26 @@ HungTag3 is the official successor of [HunTag](https://github.com/recski/HunTag)
 - Can work with featurized input and can generate featurized output for other taggers  
 - Consumes minimal memory possible  
 - [NLTK.classify.naivebayes-like](http://www.nltk.org/api/nltk.classify.html#nltk.classify.naivebayes.NaiveBayesClassifier.most_informative_features) *Most Informative Features* function for examining features quality  
-- Able to write the unigram feature weights  
+- Able to write the unigram feature weights
+- Uses the [xtsv](https://github.com/dlt-rilmta/xtsv) framework for input processing
+- REST API (through xtsv)
   
 # Requirements  
   
 - See requirements.txt (pip install -r requirements.txt)  
 - Optional: CRFsuite  
 - Minimum 8 GB RAM recomended for training
-  
+
+# Installation
+
+The authors recommend using HunTag3 in [emtsv](https://github.com/dlt-rilmta/emtsv) the new version of [e-magyar](http://www.e-magyar.hu) language processing system. This module is called *emChunk/emNER*.
+
+## Standalone installation
+- git clone --recurse-submodules https://github.com/ppke-nlpg/HunTag3.git
+- cd HunTag3
+- pip3 install -r requirements.txt
+- Run the examples in startHunTag.sh
+
 # Data format  
   
 - Input data must be a tab-separated file (TSV) with one word per line

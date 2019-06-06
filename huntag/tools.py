@@ -12,7 +12,7 @@ from operator import itemgetter
 from collections import Counter, defaultdict
 from itertools import count
 
-from huntag.feature import Feature
+from .feature import Feature
 
 # Data sizes across the program (training and tagging). Check manuals for other sizes
 data_sizes = {'rows': 'Q', 'rows_np': np.uint64,         # Really big...

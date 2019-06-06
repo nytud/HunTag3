@@ -7,7 +7,7 @@ import argparse
 from os import mkdir
 from os.path import isdir, join, isfile
 
-from huntag.tsvhandler import process
+from xtsv.tsvhandler import process
 from huntag.trainer import Trainer
 from huntag.tagger import Tagger
 from huntag.transmodel import TransModel

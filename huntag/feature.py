@@ -9,7 +9,7 @@ created by the getFeatureSet function in huntag_main.py.
 import os
 import sys
 
-from huntag import features
+from . import features
 
 
 class Feature:
