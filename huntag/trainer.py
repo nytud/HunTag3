@@ -7,7 +7,7 @@ trainer.py is a module of HunTag and is used to train maxent models
 
 import sys
 from collections import Counter, defaultdict
-from sklearn.externals import joblib
+import joblib
 from scipy.sparse import csr_matrix
 import numpy as np
 from array import array

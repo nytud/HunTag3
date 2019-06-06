@@ -271,13 +271,37 @@ class TransModel:
 
     def save_to_file(self, file_name):
         self.tags.remove(self._boundary_symbol)
+
+        obs = ((self._unigram_count, self.unigram_logprob, self._lambda1),
+               (self._bigram_count, self.bigram_logprob , self._lambda2),
+               (self._trigram_count, self.trigram_logprob, self._lambda3))
+        rest = (self._obs_count, self._sent_count, self.tags, self.updated, self.source_fields, self.target_fields)
+        params = (self._log_smooth, self._boundary_symbol, self._language_model_weight, self._order)
+
         with open(file_name, 'wb') as f:
-            pickle.dump(self, f)
+            pickle.dump((obs, rest, params), f)
 
     @staticmethod
     def load_from_file(file_name):
         with open(file_name, 'rb') as f:
-            return pickle.load(f)
+            obs, rest, params = pickle.load(f)
+            m = TransModel()
+            m._unigram_count, m.unigram_logprob, m._lambda1 = obs[0]
+            m._bigram_count, m.bigram_logprob, m._lambda2 = obs[1]
+            m._trigram_count, m.trigram_logprob, m._lambda3 = obs[2]
+            m._obs_count, m._sent_count, m.tags, m.updated, m.source_fields, m.target_fields = rest
+            m._log_smooth, m._boundary_symbol, m._language_model_weight, m._order = params
+
+            if m._order == 2:
+                m.viterbi = m._viterbi_bigram
+            elif m._order == 3:
+                m.viterbi = m._viterbi_trigram
+            else:
+                print('Error: Transition modell order should be 2 or 3 got {0}!'.format(m._order), file=sys.stderr,
+                      flush=True)
+                sys.exit(1)
+
+            return m
 
     """
     source: http://en.wikipedia.org/wiki/Viterbi_algorithm

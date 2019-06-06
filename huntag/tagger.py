@@ -2,7 +2,7 @@
 # -*- coding: utf-8, vim: expandtab:ts=4 -*-
 
 import sys
-from sklearn.externals import joblib
+import joblib
 from scipy.sparse import csr_matrix
 
 from .tools import BookKeeper, featurize_sentence, use_featurized_sentence, bind_features_to_indices, \
