@@ -111,7 +111,7 @@ def load_yaml(cfg_file):
     else:
         lines = lines[start:end]
 
-    return yaml.load(''.join(lines))
+    return yaml.load(''.join(lines), Loader=yaml.SafeLoader)
 
 
 def get_featureset_yaml(cfg_file):
