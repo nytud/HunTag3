@@ -1,14 +1,10 @@
-
-# __Warning: This repository might not contain the newest version of the source code. The development is continued at https://github.com/dlt-rilmta/HunTag3__ 
-
----
-
 ## HunTag3 - A sequential tagger for NLP combining the Scikit-learn/LinearRegressionClassifier linear classifier and Hidden Markov Models
   
 Based on training data, HunTag3 can perform any kind of sequential sentence  
 tagging and has been used for NP chunking and Named Entity Recognition for English and Hungarian.  
   
-HungTag3 is the official successor of [HunTag](https://github.com/recski/HunTag) project.  
+HungTag3 is the official successor of [HunTag](https://github.com/recski/HunTag) project.
+A previous version of the code is stored at https://github.com/ppke-nlpg/HunTag3 .
 (See git tags for past major milestones.)  
   
 # Highlights  
