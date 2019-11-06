@@ -1,4 +1,8 @@
 
+# __Warning: This repository might not contain the newest version of the source code. The development is continued at https://github.com/dlt-rilmta/HunTag3__ 
+
+---
+
 ## HunTag3 - A sequential tagger for NLP combining the Scikit-learn/LinearRegressionClassifier linear classifier and Hidden Markov Models
   
 Based on training data, HunTag3 can perform any kind of sequential sentence  
