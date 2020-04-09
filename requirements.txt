@@ -1,4 +1,4 @@
-xtsv<1.0
+xtsv>=1.0,<2.0
 pyyaml
 numpy
 scipy==1.3.3
