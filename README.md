@@ -32,10 +32,13 @@ A previous version of the code is stored at https://github.com/ppke-nlpg/HunTag3
 The authors recommend using HunTag3 in [emtsv](https://github.com/dlt-rilmta/emtsv) the new version of [e-magyar](http://www.e-magyar.hu) language processing system. This module is called *emChunk/emNER*.
 
 ## Standalone installation
-- git clone --recurse-submodules https://github.com/ppke-nlpg/HunTag3.git
-- cd HunTag3
-- pip3 install -r requirements.txt
-- Run the examples in startHunTag.sh
+
+Download and install [the wheel package](https://github.com/dlt-rilmta/HunTag3/releases) or use this repository with the following commands:
+
+- `git clone --recurse-submodules https://github.com/dlt-rilmta/HunTag3.git`
+- `cd HunTag3`
+- `pip3 install -r requirements.txt`
+- Run the tests in Makefile for examples (e.g. `make test`)
 
 # Data format  
   
@@ -48,11 +51,12 @@ The authors recommend using HunTag3 in [emtsv](https://github.com/dlt-rilmta/emt
 - The label may be in the BI format used at CoNLL shared tasks (e. g. B-NP to mark the first word of a noun phrase, I-NP to mark the rest and O to mark words outside an NP)  
   - Or in the so-called BIE1 format which has a seperate symbol for words constituting a chunk themselves (1-NP) and one for the last words of multi-word phrases (E-NP)  
   - The first two characters of labels should always conform to one of these two conventions, the rest may be any string describing the category  
+  - If one wants to convert between these formats or want to check the data for incorrect label order it is recommended to use [emIOBUtils](https://github.com/dlt-rilmta/emIOBUtils)
   
 # Features  
   
-The flexibility of Huntag comes from the fact that it will generate any kind of features from the input data given the **appropriate python functions** (please refer to features.py and the config files).  
-Several dozens of features used regularly in NLP tasks are already implemented in the file features.py, however the user is encouraged to add any number of her own.  
+The flexibility of Huntag comes from the fact that it will generate any kind of features from the input data given the **appropriate python functions** (please refer to [features.py](https://github.com/dlt-rilmta/HunTag3/blob/master/huntag/features.py) and the [config files](https://github.com/dlt-rilmta/HunTag3/tree/master/huntag/configs)).  
+Several dozens of features used regularly in NLP tasks are already implemented in the file [features.py](https://github.com/dlt-rilmta/HunTag3/blob/master/huntag/features.py), however the user is encouraged to add any number of her own.  
   
 Once the desired features are implemented, a data set and a configuration file containing the list of feature functions to be used are all HunTag needs (not counting the data) to perform training and tagging.  
   
@@ -76,15 +80,15 @@ For each feature mandatory fields are the following:
 See configs folder for examples on the format.  
   
 # Usage  
-HunTag may be run in any of the following modes (see startHuntag.sh for overview and *huntag_main.py --help* for details):  
+HunTag may be run in any of the following modes (see the `Makefile` for overview and `python3 -m huntag --help` for details):
   
 ## train and train-featurize  
 Used to train a model or just featurize given a training corpus with a set of feature functions. When run in TRAIN mode, HunTag creates three files, one containing the model and two listing features and labels and the integers they are mapped to when passed to the learner. With the --model option set to NAME, the three files will be stored under NAME.model, NAME.featureNumbers.gz and NAME.labelNumbers.gz respectively.  
   
 
-     cat TRAINING_DATA | python3 huntag_main.py train OPTION
+     cat TRAINING_DATA | python3 -m huntag train OPTION
      or
-     python3 huntag_main.py train -i TRAINING_DATA OPTIONS  
+     python3 -m huntag train -i TRAINING_DATA OPTIONS  
 
   
 Mandatory options:  
@@ -105,9 +109,9 @@ Non-mandatory options:
 Used to train a transition model (from a bigram or trigram language model) using a given field of the training data  
   
 
-     cat TRAINING_DATA | python3 huntag_main.py transmodel-train OPTIONS
+     cat TRAINING_DATA | python3 -m huntag transmodel-train OPTIONS
      or  
-     python3 huntag_main.py transmodel-train -i TRAINING_DATA OPTIONS  
+     python3 -m huntag transmodel-train -i TRAINING_DATA OPTIONS  
 
   
 Mandatory options:  
@@ -128,9 +132,9 @@ Non-mandatory options:
 Used to tag or just featurize the input. Given a maxent model providing the value P(l|w) for all labels l and words (set of feature values) w, and a transition model supplying P(l|l0) for all pairs of labels, HunTag will assign to each sentence the most likely label sequence.  
   
 
-     cat INPUT | python3 huntag_main.py tag OPTIONS
+     cat INPUT | python3 -m huntag tag OPTIONS
      or  
-     python3 huntag_main.py tag -i INPUT OPTIONS
+     python3 -m huntag tag -i INPUT OPTIONS
 
   
 Mandatory options:  
@@ -146,7 +150,7 @@ Non-mandatory options:
    - input is taken from INPUT file instead of STDIN  
 - -o OUTPUT, --output=OUTPUT  
    - output is written to OUTPUT file instead of STDOUT
-- -t NAME, --tag-field=NAME
+- -t NAME, --label-tag-field=NAME
    - specifies the name of the column containing the gold labels
 - --input-featurized
    - if set the input is handled as it is already featurized (first column is the label, the other columns are features, no need for header)
@@ -156,9 +160,9 @@ Non-mandatory options:
 Generates a feature ranking by counting label probabilities (for each label) and frequency per feature (correlations with labels) and sort them in decreasing order of confidence and frequency. This output is usefull for inspecting features quality.  
   
 
-    cat TRAINING_DATA | python3 huntag_main.py most-informative-features OPTIONS > modelName.most_informative_features
+    cat TRAINING_DATA | python3 -m huntag most-informative-features OPTIONS > modelName.most_informative_features
     or  
-    python3 huntag_main.py most-informative-features -i TRAINING_DATA  OPTIONS
+    python3 -m huntag most-informative-features -i TRAINING_DATA  OPTIONS
 
   
   
@@ -183,9 +187,9 @@ Usefull for inspecting feature weights (per label) assigned by the MaxEnt learne
 Negative weights mean negative correlation, which is also usefull.  
   
 
-     python3 huntag.py tag --print-weights N OPTIONS > modelName.modelWeights
+     python3 -m huntag tag --print-weights N OPTIONS > modelName.modelWeights
      or  
-     python3 huntag.py tag --print-weights N OPTIONS -o modelName.modelWeights  
+     python3 -m huntag tag --print-weights N OPTIONS -o modelName.modelWeights  
 
   
 Mandatory options:  
@@ -209,25 +213,25 @@ A 100 token long example can be found in the git repository for clarifying the f
 ## Basic usage: train-tag    
     
     # train
-    cat input.txt | python3 huntag_main.py train --model=modelName --config-file=configs/maxnp.szeged.emmorph.yaml
+    cat input.txt | python3 -m huntag train --model=modelName --config-file=configs/maxnp.szeged.emmorph.yaml
     # transmodel-train
-    cat input.txt | python3 huntag_main.py transmodel-train --model=modelName  # --trans-model-order [2 or 3, default: 3]
+    cat input.txt | python3 -m huntag transmodel-train --model=modelName  # --trans-model-order [2 or 3, default: 3]
     # tag
-    cat input.txt | python3 huntag_main.py tag --model=modelName --config-file=configs/maxnp.szeged.emmorph.yaml ## Featurizing input (eg. for CRFsuite)
+    cat input.txt | python3 -m huntag tag --model=modelName --config-file=configs/maxnp.szeged.emmorph.yaml ## Featurizing input (eg. for CRFsuite)
     
 ## Advanced usage (for example with CRFsuite):
 
     # train-featurize
-    cat input.txt | python3 huntag_main.py train-featurize --model=modelName --config-file=configs/maxnp.szeged.emmorph.yaml > modelName.CRFsuite.train
+    cat input.txt | python3 -m huntag train-featurize --model=modelName --config-file=configs/maxnp.szeged.emmorph.yaml > modelName.CRFsuite.train
     # tag-featurize
-    cat input.txt | python3 huntag_main.py tag-featurize --model=modelName --config-file=configs/maxnp.szeged.emmorph.yaml > modelName.CRFsuite.tag
+    cat input.txt | python3 -m huntag tag-featurize --model=modelName --config-file=configs/maxnp.szeged.emmorph.yaml > modelName.CRFsuite.tag
 
 ## Debuging features:
 
     # most-informative-features
-    cat input.txt | python3 huntag_main.py most-informative-features --model=modelName --config-file=configs/maxnp.szeged.emmorph.yaml > modelName.most_informative_features 
+    cat input.txt | python3 -m huntag most-informative-features --model=modelName --config-file=configs/maxnp.szeged.emmorph.yaml > modelName.most_informative_features 
     # tag FeatureWeights
-    cat input.txt | python3 huntag_main.py tag --print-weights 100 --model=modelName --config-file=configs/maxnp.szeged.emmorph.yaml > modelNam.modelWeights
+    cat input.txt | python3 -m huntag tag --print-weights 100 --model=modelName --config-file=configs/maxnp.szeged.emmorph.yaml > modelNam.modelWeights
 
 # Models
 
@@ -258,7 +262,9 @@ In: Zygmunt Vetulani; Joseph Mariani (eds.) 7th Language & Technology Conference
 ```  
 @inproceedings{HunTag3,  
  title       = {{HunTag3:} a general-purpose, modular sequential tagger -- chunking phrases in {English and maximal NPs and NER for Hungarian}}, author      = {Endr\'edy, Istv\'an and Indig, Bal\'azs}, booktitle   = {7th {L}anguage \& {T}echnology {C}onference, {Human Language Technologies as a Challenge for Computer Science and Linguistics (LTC '15)}}, year        = {2015}, month       = {November},  publisher   = {Pozna\'n: {U}niwersytet im. {Adama Mickiewicza w Poznaniu}},  
- isbn        = {978-83-932640-8-7}, pages       = {213-218}, address     = {{P}ozna\'n, {P}oland}}  
+ isbn        = {978-83-932640-8-7},
+ pages       = {213-218},
+ address     = {{P}ozna\'n, {P}oland}}  
 ```  
   
 If you use some specialized version for Hungarian, please also cite the following paper:  
@@ -267,5 +273,9 @@ Dóra Csendes, János Csirik, Tibor Gyimóthy and András Kocsor (2005): The Sze
   
 ```  
 @inproceedings{Csendes:2005,  
- author={Csendes, D{\'o}ra and Csirik, J{\'a}nos and Gyim{\'o}thy, Tibor and Kocsor, Andr{\'a}s}, title={The {S}zeged {T}reebank}, booktitle={Lecture Notes in Computer Science: Text, Speech and Dialogue}, year={2005}, pages={123-131}, publisher={Springer}}  
+ author={Csendes, D{\'o}ra and Csirik, J{\'a}nos and Gyim{\'o}thy, Tibor and Kocsor, Andr{\'a}s},
+ title={The {S}zeged {T}reebank}, booktitle={Lecture Notes in Computer Science: Text, Speech and Dialogue},
+ year={2005},
+ pages={123-131},
+ publisher={Springer}}  
 ```

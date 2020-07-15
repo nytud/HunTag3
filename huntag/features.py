@@ -17,9 +17,9 @@ big2small = {}
 for i, _ in enumerate(bigcase):
     big2small[bigcase[i]] = smallcase[i]
 cas_re_kr = re.compile('<CAS')
-cas_re_msd = re.compile('\[?N')
+cas_re_msd = re.compile(r'\[?N')
 possessor_msd = re.compile(r'--[sp]\d')
-obj_msd = '\[?N'
+obj_msd = r'\[?N'
 
 possessor_kr = re.compile('<POSS')
 obj_kr = 'NOUN'
@@ -1104,7 +1104,7 @@ def token_year_decade_operator(form, _=None):
         Use case: NER
     """
     return [int(bool(re.match('[0-9][0-9]s$', form) or
-                re.match('[0-9][0-9][0-9][0-9]s$', form)))]
+                     re.match('[0-9][0-9][0-9][0-9]s$', form)))]
 
 
 def sentence_new_sentence_start(sen, *_):

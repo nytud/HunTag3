@@ -1,0 +1,7 @@
+include huntag/models/*
+include huntag/configs/*
+include huntag/configs/*
+include huntag/hunner/lex/loc.fromtraincorpus.lex
+include huntag/hunner/lex/org.fromtraincorpus.lex
+include huntag/hunner/lex/per.fromtraincorpus.lex
+include huntag/hunner/lex_from_Eszter.Simon/misc.fromtraincorpus.lex

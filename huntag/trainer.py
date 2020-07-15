@@ -7,10 +7,11 @@ trainer.py is a module of HunTag and is used to train maxent models
 
 import sys
 from collections import Counter, defaultdict
+from array import array
+
 import joblib
 from scipy.sparse import csr_matrix
 import numpy as np
-from array import array
 from sklearn.linear_model import LogisticRegression
 # from sklearn.linear_model import SGDClassifier
 # from sklearn.svm import SVC
@@ -312,10 +313,10 @@ class Trainer:
                 featno_to_name[feature[0]],
                 bool(feature[1]),
                 sum_occurences,
-                '/'.join(('{0}:{1}'.format(labelno_to_name[l], c)
-                          for l, c in feat_val_counts[feature].items())),
-                '/'.join(('{0}:{1:.8f}'.format(labelno_to_name[l], c/label_counts[l])
-                          for l, c in feat_val_counts[feature].items())),
+                '/'.join(('{0}:{1}'.format(labelno_to_name[label], c)
+                          for label, c in feat_val_counts[feature].items())),
+                '/'.join(('{0}:{1:.8f}'.format(labelno_to_name[label], c/label_counts[label])
+                          for label, c in feat_val_counts[feature].items())),
                 maxprob[feature], minprob[feature], ratio), file=output_stream)
 
     def write_featurized_input(self, output_stream=sys.stdout):

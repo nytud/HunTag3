@@ -3,13 +3,13 @@
 """
 feature.py is a module of HunTag. The Feature class is used for representing
 a feature type and calculating its value for some input. Feature instances are
-created by the getFeatureSet function in huntag_main.py.
+created by the getFeatureSet function in __main__.py.
 """
 
-import os
 import sys
 
 from . import features
+from .argparser import valid_file
 
 
 class Feature:
@@ -81,9 +81,7 @@ class Lexicon:
         self.end_parts = set()
         self.mid_parts = set()
         self.start_parts = set()
-        if not os.path.isfile(input_file):
-            input_file = os.path.abspath(os.path.join(os.path.dirname(__file__), '..', input_file))
-        with open(input_file, encoding='UTF-8') as fh:
+        with open(valid_file(input_file), encoding='UTF-8') as fh:
             for line in fh:
                 phrase = line.strip()
                 self.phrase_list.add(phrase)

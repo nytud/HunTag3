@@ -3,7 +3,6 @@
 
 # Miscellaneous tools for HunTag
 
-import os
 import sys
 import gzip
 import yaml
@@ -84,15 +83,12 @@ def use_featurized_sentence(sen, _, feat_filter=lambda token_feats: token_feats,
 
 
 def load_yaml(cfg_file):
-    if not os.path.isfile(cfg_file):
-        cfg_file = os.path.abspath(os.path.join(os.path.dirname(__file__), '..', cfg_file))
     try:
         with open(cfg_file, encoding='UTF-8') as fh:
             lines = fh.readlines()
     except FileNotFoundError:
         print('Error: Config file ({0}) not found!'.format(cfg_file), file=sys.stderr)
-        lines = ''
-        exit(1)
+        sys.exit(1)
 
     try:
         start = lines.index('%YAML 1.1\n')

@@ -8,6 +8,7 @@ from scipy.sparse import csr_matrix
 from .tools import BookKeeper, featurize_sentence, use_featurized_sentence, bind_features_to_indices, \
     load_options_and_features
 from .transmodel import TransModel
+from .argparser import valid_file
 
 
 class Tagger:
@@ -29,9 +30,9 @@ class Tagger:
             self._trans_probs = None
 
         print('loading observation model...', end='', file=sys.stderr, flush=True)
-        self._model = joblib.load('{0}'.format(options['model_filename']))
-        self._feat_counter = BookKeeper(options['featcounter_filename'])
-        self._label_counter = BookKeeper(options['labelcounter_filename'])
+        self._model = joblib.load(valid_file(options['model_filename']))
+        self._feat_counter = BookKeeper(valid_file(options['featcounter_filename']))
+        self._label_counter = BookKeeper(valid_file(options['labelcounter_filename']))
         print('done', file=sys.stderr, flush=True)
 
         # Set functions according to task...
@@ -86,7 +87,7 @@ class Tagger:
             print('ERROR: Wrong number of target fields are specified ({0})! '
                   'TAGGING REQUIRES ONLY ONE TAG FIELD!'.
                   format(target_fields_len), file=sys.stderr, flush=True)
-            exit(1)
+            sys.exit(1)
         self._tag_field = field_names[self.target_fields[0]]
         return bind_features_to_indices(self.features, {k: v for k, v in field_names.items()
                                                         if k != self._tag_field and v != self._tag_field})
