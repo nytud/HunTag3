@@ -19,10 +19,13 @@ from sklearn.linear_model import LogisticRegression
 
 from .tools import BookKeeper, featurize_sentence, use_featurized_sentence, bind_features_to_indices, \
     load_options_and_features
+from .argparser import valid_file
 
 
 class Trainer:
     def __init__(self, opts, source_fields=None, target_fields=None):
+        if 'cfg_file' in opts:
+            opts['cfg_file'] = valid_file(opts['cfg_file'])  # Validate config file!
         self.features, self.source_fields, self.target_fields, options = \
             load_options_and_features(opts, source_fields, target_fields)
 

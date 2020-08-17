@@ -11,8 +11,6 @@ import math
 import pickle
 from collections import Counter
 
-from .argparser import valid_file
-
 
 def safe_div(v1, v2):
     """
@@ -285,7 +283,7 @@ class TransModel:
 
     @staticmethod
     def load_from_file(file_name):
-        with open(valid_file(file_name), 'rb') as f:
+        with open(file_name, 'rb') as f:
             obs, rest, params = pickle.load(f)
             m = TransModel()
             m._unigram_count, m.unigram_logprob, m._lambda1 = obs[0]

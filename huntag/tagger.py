@@ -15,6 +15,8 @@ class Tagger:
     pass_header = True
 
     def __init__(self, opts, source_fields=None, target_fields=None):
+        if 'cfg_file' in opts:
+            opts['cfg_file'] = valid_file(opts['cfg_file'])  # Validate config file!
         self.features, self.source_fields, self.target_fields, options = \
             load_options_and_features(opts, source_fields, target_fields)
 
@@ -24,7 +26,7 @@ class Tagger:
 
         if options['task'] not in {'print-weights', 'tag-featurize'}:
             print('loading transition model...', end='', file=sys.stderr, flush=True)
-            self._trans_probs = TransModel.load_from_file(options['transmodel_filename'])
+            self._trans_probs = TransModel.load_from_file(valid_file(options['transmodel_filename']))
             print('done', file=sys.stderr, flush=True)
         else:
             self._trans_probs = None
