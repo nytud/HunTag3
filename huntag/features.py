@@ -1,4 +1,4 @@
-#!/usr/bin/python3
+#!/usr/bin/env python3
 # -*- coding: utf-8, vim: expandtab:ts=4 -*-
 """
 features.py stores implementations of individual feature types for use with

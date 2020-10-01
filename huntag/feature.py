@@ -1,4 +1,4 @@
-#!/usr/bin/python3
+#!/usr/bin/env python3
 # -*- coding: utf-8, vim: expandtab:ts=4 -*-
 """
 feature.py is a module of HunTag. The Feature class is used for representing
