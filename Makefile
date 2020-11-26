@@ -1,13 +1,30 @@
 # Bash is needed for time
+.DEFAULT_GOAL = all
 SHELL := /bin/bash -o pipefail
-DIR := ${CURDIR}
-red := $(shell tput setaf 1)
-green := $(shell tput setaf 2)
-sgr0 := $(shell tput sgr0)
-# DEP_COMMAND := "command"
-# DEP_FILE := "file"
-MODULE := "huntag"
-MODULE_PARAMS := ""
+RED := $(shell tput setaf 1)
+GREEN := $(shell tput setaf 2)
+NOCOLOR := $(shell tput sgr0)
+PYTHON := python3
+VENVDIR := $(CURDIR)/venv
+VENVPIP := $(VENVDIR)/bin/python -m pip
+VENVPYTHON := $(VENVDIR)/bin/python
+
+# Module specific parameters
+MODULE := huntag
+MODULE_PARAMS :=
+
+# This target does not show as possible target with bash completion
+--extra-deps:
+ 	# Do extra stuff (e.g. compiling, downloading) before building the package
+	@exit 0
+.PHONY: --extra-deps
+
+--clean-extra-deps:
+	@exit 0
+	# @rm -rf stuff
+.PHONY: --clean-extra-deps
+
+# From here only generic parts
 
 # Parse version string and create new version. Originally from: https://github.com/mittelholcz/contextfun
 # Variable is empty in Travis-CI if not git tag present
@@ -22,158 +39,86 @@ NEWMAJORVER="$$(( $(MAJOR)+1 )).0.0"
 NEWMINORVER="$(MAJOR).$$(( $(MINOR)+1 )).0"
 NEWPATCHVER="$(MAJOR).$(MINOR).$$(( $(PATCH)+1 ))"
 
-all:
-	@echo "See Makefile for possible targets!"
+all: clean venv build install test
+	@echo "$(GREEN)The package is succesfully installed into the virtualenv ($(VENVDIR)) and all tests are OK!$(NOCOLOR)"
 
-# extra:
-# 	# Do extra stuff (e.g. compiling, downloading) before building the package
+install-dep-packages:
+	@echo "Installing needed packages from Aptfile..."
+	@command -v apt-get >/dev/null 2>&1 || \
+			(echo >&2 "$(RED)Command 'apt-get' could not be found!$(NOCOLOR)"; exit 1)
+	@[[ $$(dpkg -l | grep -wcf $(CURDIR)/Aptfile) -eq $$(cat $(CURDIR)/Aptfile | wc -l) ]] || \
+		(sudo -E apt-get update && \
+		sudo -E apt-get -yq --no-install-suggests --no-install-recommends $(travis_apt_get_options) install \
+			`cat $(CURDIR)/Aptfile`)
+	@echo "$(GREEN)Needed packages are succesfully installed!$(NOCOLOR)"
+.PHONY: install-dep-packages
 
-# clean-extra:
-# 	rm -rf extra stuff
+venv:
+	@echo "Creating virtualenv...$(NOCOLOR)"
+	rm -rf $(VENVDIR)
+	$(PYTHON) -m venv $(VENVDIR)
+	$(VENVPIP) install wheel
+	$(VENVPIP) install -r requirements-dev.txt
+	@echo "$(GREEN)Virtualenv is succesfully created!$(NOCOLOR)"
+.PHONY: venv
 
-# install-dep-packages:
-# 	# Install packages in Aptfile
-# 	sudo -E apt-get update
-# 	sudo -E apt-get -yq --no-install-suggests --no-install-recommends $(travis_apt_get_options) install `cat Aptfile`
-
-# check:
-# 	# Check for file or command
-# 	@test -f $(DEP_FILE) >/dev/null 2>&1 || \
-# 		 { echo >&2 "File \`$(DEP_FILE)\` could not be found!"; exit 1; }
-# 	@command -v $(DEP_COMMAND) >/dev/null 2>&1 || { echo >&2 "Command \`$(DEP_COMMAND)\`could not be found!"; exit 1; }
-
-dist/*.whl dist/*.tar.gz: # check extra
+build: install-dep-packages venv --extra-deps
 	@echo "Building package..."
-	python3 setup.py sdist bdist_wheel
+	@[[ -z "$$(ls dist/*.whl dist/*.tar.gz 2> /dev/null)" ]] || \
+		(echo -e "$(RED)dist/*.whl dist/*.tar.gz files exists.\nPlease use 'make clean' before build!$(NOCOLOR)"; \
+		exit 1)
+	@$(VENVPYTHON) setup.py sdist bdist_wheel
+	@echo "$(GREEN)Package is succesfully built!$(NOCOLOR)"
+.PHONY: build
 
-build: dist/*.whl dist/*.tar.gz
-
-install-user: build
+install: build
 	@echo "Installing package to user..."
-	pip3 install dist/*.whl
+	$(VENVPIP) install --upgrade dist/*.whl
+	@echo "$(GREEN)Package is succesfully installed!$(NOCOLOR)"
+.PHONY: install
 
-test-train:
-	@echo "Running train tests..."
-	# train
-	time (cd /tmp && python3 -m $(MODULE) train --model=testMNP --config-file=configs/maxnp.szeged.emmorph.yaml \
-						--gold-tag-field gold -i $(DIR)/tests/test.maxnp.emmorph 2>&1 | head -n100)
-	@echo "$(green)Test OK$(sgr0)"
-	time (cd /tmp && python3 -m $(MODULE) train --model=testNER --config-file=configs/ner.szeged.emmorph.yaml \
-						--gold-tag-field gold -i $(DIR)/tests/test.ner.emmorph 2>&1 | head -n100)
-	@echo "$(green)Test OK$(sgr0)"
-	# train, featurize (for crfsuite)
-	time (cd /tmp && python3 -m $(MODULE) train-featurize --model=testMNP --config-file=configs/maxnp.szeged.emmorph.yaml \
-						--gold-tag-field gold -i $(DIR)/tests/test.maxnp.emmorph | \
-						diff -sy --suppress-common-lines - $(DIR)/tests/test.maxnp.CRFsuite.train 2>&1 | head -n100)
-	@echo "$(green)Test OK$(sgr0)"
-	time (cd /tmp && python3 -m $(MODULE) train-featurize --model=testNER --config-file=configs/ner.szeged.emmorph.yaml \
-						--gold-tag-field gold -i $(DIR)/tests/test.ner.emmorph | \
-						diff -sy --suppress-common-lines - $(DIR)/tests/test.ner.CRFsuite.train 2>&1 | head -n100)
-	@echo "$(green)Test OK$(sgr0)"
-	# most-informative-features
-	time (cd /tmp && python3 -m $(MODULE) most-informative-features --model=testMNP \
-						--config-file=configs/maxnp.szeged.emmorph.yaml -i $(DIR)/tests/test.maxnp.emmorph | \
-						diff -sy --suppress-common-lines - $(DIR)/tests/test.maxnp.mostInformativeFeatures 2>&1 | head -n100)
-	@echo "$(green)Test OK$(sgr0)"
-	time (cd /tmp && python3 -m $(MODULE) most-informative-features --model=testNER \
-						--config-file=configs/ner.szeged.emmorph.yaml -i $(DIR)/tests/test.ner.emmorph | \
-						diff -sy --suppress-common-lines - $(DIR)/tests/test.ner.mostInformativeFeatures 2>&1 | head -n100)
-	@echo "$(green)Test OK$(sgr0)"
-	# transmodel-train
-	time (cd /tmp && python3 -m $(MODULE) transmodel-train --model=testMNP --config-file=configs/maxnp.szeged.emmorph.yaml \
-						--gold-tag-field gold -i $(DIR)/tests/test.maxnp.emmorph 2>&1 | head -n100)
-						# --trans-model-order [2 or 3, default: 3]
-	@echo "$(green)Test OK$(sgr0)"
-	time (cd /tmp && python3 -m $(MODULE) transmodel-train --model=testNER --config-file=configs/ner.szeged.emmorph.yaml \
-						--gold-tag-field gold -i $(DIR)/tests/test.ner.emmorph 2>&1 | head -n100)
-						# --trans-model-order [2 or 3, default: 3]
-	@echo "$(green)Test OK$(sgr0)"
-
-test-eval:
-	@echo "Running eval tests..."
-	# tag
-	time (cd /tmp && python3 -m $(MODULE) tag --model=models/maxnp.szeged.emmorph \
-						--config-file=configs/maxnp.szeged.emmorph.yaml --label-tag-field NP-BIO \
-						-i $(DIR)/tests/test.maxnp.emmorph | \
-						diff -sy --suppress-common-lines - $(DIR)/tests/test.maxnp.tag 2>&1 | head -n100)
-	@echo "$(green)Test OK$(sgr0)"
-	time (cd /tmp && python3 -m $(MODULE) tag --model=models/ner.szeged.emmorph --config-file=configs/ner.szeged.emmorph.yaml \
-						--label-tag-field NER-BIO -i $(DIR)/tests/test.ner.emmorph | \
-						diff -sy --suppress-common-lines - $(DIR)/tests/test.ner.tag 2>&1 | head -n100)
-	@echo "$(green)Test OK$(sgr0)"
-	# tag, featurize (for crfsuite)
-	time (cd /tmp && python3 -m $(MODULE) tag-featurize --model=models/maxnp.szeged.emmorph \
-						--config-file=configs/maxnp.szeged.emmorph.yaml -i $(DIR)/tests/test.maxnp.emmorph | \
-						diff -sy --suppress-common-lines - $(DIR)/tests/test.maxnp.CRFsuite.tag 2>&1 | head -n100)
-	@echo "$(green)Test OK$(sgr0)"
-	time (cd /tmp && python3 -m $(MODULE) tag-featurize --model=models/ner.szeged.emmorph \
-						--config-file=configs/ner.szeged.emmorph.yaml -i $(DIR)/tests/test.ner.emmorph | \
-						diff -sy --suppress-common-lines - $(DIR)/tests/test.ner.CRFsuite.tag 2>&1 | head -n100)
-	@echo "$(green)Test OK$(sgr0)"
-	# tag FeatureWeights
-	time (cd /tmp && python3 -m $(MODULE) print-weights -w 100 --model=models/maxnp.szeged.emmorph \
-						--config-file=configs/maxnp.szeged.emmorph.yaml | \
-						diff -sy --suppress-common-lines - $(DIR)/tests/test.maxnp.modelWeights 2>&1 | head -n100)
-	@echo "$(green)Test OK$(sgr0)"
-	time (cd /tmp && python3 -m $(MODULE) print-weights -w 100 --model=models/ner.szeged.emmorph \
-						--config-file=configs/ner.szeged.emmorph.yaml | \
-						diff -sy --suppress-common-lines - $(DIR)/tests/test.ner.modelWeights 2>&1 | head -n100)
-	@echo "$(green)Test OK$(sgr0)"
-
-test: test-train test-eval
-
-install-user-test: install-user test
-	@echo "$(green)The test was completed successfully!$(sgr0)"
-
-check-version:
+test:
+	@echo "Running tests..."
+	$(SHELL) $(CURDIR)/tests/test.sh $(VENVPYTHON) $(MODULE) $(CURDIR)
+	@echo "$(GREEN)The test was completed successfully!$(NOCOLOR)"
 	@echo "Comparing GIT TAG (\"$(TRAVIS_TAG)\") with pacakge version (\"v$(OLDVER)\")..."
-	 @[[ "$(TRAVIS_TAG)" == "v$(OLDVER)" || "$(TRAVIS_TAG)" == "" ]] && \
-	  echo "$(green)OK!$(sgr0)" || \
-	  (echo "$(red)Versions do not match!$(sgr0)" && exit 1)
-
-ci-test: install-user-test check-version
+	@[[ "$(TRAVIS_TAG)" == "v$(OLDVER)" || "$(TRAVIS_TAG)" == "" ]] && \
+	  echo "$(GREEN)OK!$(NOCOLOR)" || \
+	  (echo "$(RED)Versions do not match!$(NOCOLOR)"; exit 1)
+.PHONY: test
 
 uninstall:
 	@echo "Uninstalling..."
-	pip3 uninstall -y $(MODULE)
+	@[[ ! -d $(VENVDIR) || -z $$($(VENVPIP) list | grep -w $(MODULE)) ]] || $(VENVPIP) uninstall -y $(MODULE)
+	@echo "$(GREEN)The package was uninstalled successfully!$(NOCOLOR)"
+.PHONY: uninstall
 
-install-user-test-uninstall: install-user-test uninstall
-
-clean: # clean-extra
-	rm -rf dist/ build/ $(MODULE).egg-info/
-
-clean-build: clean build
+clean: --clean-extra-deps
+	@rm -rf $(VENVDIR) dist/ build/ $(MODULE).egg-info/
+.PHONY: clean
 
 # Do actual release with new version. Originally from: https://github.com/mittelholcz/contextfun
 release-major:
 	@make -s __release NEWVER=$(NEWMAJORVER)
 .PHONY: release-major
 
-
 release-minor:
 	@make -s __release NEWVER=$(NEWMINORVER)
 .PHONY: release-minor
-
 
 release-patch:
 	@make -s __release NEWVER=$(NEWPATCHVER)
 .PHONY: release-patch
 
-
 __release:
-	@if [[ -z "$(NEWVER)" ]] ; then \
-		echo 'Do not call this target!' ; \
-		echo 'Use "release-major", "release-minor" or "release-patch"!' ; \
-		exit 1 ; \
-		fi
-	@if [[ $$(git status --porcelain) ]] ; then \
-		echo 'Working dir is dirty!' ; \
-		exit 1 ; \
-		fi
+	@[[ ! -z "$(NEWVER)" ]] || \
+		(echo -e "$(RED)Do not call this target!\nUse 'release-major', 'release-minor' or 'release-patch'!$(NOCOLOR)"; \
+		 exit 1)
+	@[[ -z $$(git status --porcelain) ]] || (echo "$(RED)Working dir is dirty!$(NOCOLOR)"; exit 1)
 	@echo "NEW VERSION: $(NEWVER)"
-	@make clean uninstall install-user-test-uninstall
+	# Clean install, test and tidy up
+	@make clean uninstall install test uninstall clean
 	@sed -i -r "s/__version__ = '$(OLDVER)'/__version__ = '$(NEWVER)'/" $(MODULE)/version.py
-	@make check-version
 	@git add $(MODULE)/version.py
 	@git commit -m "Release $(NEWVER)"
 	@git tag -a "v$(NEWVER)" -m "Release $(NEWVER)"
