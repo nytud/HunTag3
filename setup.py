@@ -20,7 +20,7 @@ with open('README.md') as fh:
 
 setuptools.setup(
     name='huntag',
-    # Get version without actually importing the module
+    # Get version without actually importing the module (else we need the dependencies installed)
     version=getattr(import_pyhton_file('version', 'huntag/version.py'), '__version__'),
     author='dlazesz',  # Will warn about missing e-mail
     description='HunTag3 - A sequential tagger for NLP combining the Scikit-learn/LinearRegressionClassifier'
