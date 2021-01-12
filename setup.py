@@ -40,7 +40,7 @@ setuptools.setup(
     install_requires=['xtsv>=1.0.0,<2.0.0',
                       'pyyaml',
                       'numpy',
-                      'scipy==1.3.3',
+                      'scipy',
                       'joblib',
                       'scikit-learn==0.21.2',
                       ],
