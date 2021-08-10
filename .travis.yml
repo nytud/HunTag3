@@ -1,10 +1,10 @@
 language: python
-dist: bionic
+dist: focal
 # When we need JDK also
 # jdk: openjdk11
 sudo: true
 python:
-  - '3.6'
+  - '3.8'
 install:
   # Install packages with APT
   # - make install-dep-packages
