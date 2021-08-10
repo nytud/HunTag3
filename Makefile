@@ -62,7 +62,6 @@ venv:
 	@$(VENVPIP) install wheel
 	@$(VENVPIP) install -r requirements-dev.txt
 	@echo "$(GREEN)Virtualenv is succesfully created!$(NOCOLOR)"
-.PHONY: venv
 
 build: install-dep-packages venv __extra-deps
 	@echo "Building package..."

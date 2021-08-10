@@ -9,7 +9,6 @@ created by the getFeatureSet function in __main__.py.
 import sys
 
 from . import features
-from .argparser import valid_file
 
 
 class Feature:
@@ -81,7 +80,7 @@ class Lexicon:
         self.end_parts = set()
         self.mid_parts = set()
         self.start_parts = set()
-        with open(valid_file(input_file), encoding='UTF-8') as fh:
+        with open(input_file, encoding='UTF-8') as fh:
             for line in fh:
                 phrase = line.strip()
                 self.phrase_list.add(phrase)

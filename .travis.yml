@@ -22,7 +22,7 @@ deploy:
     file_glob: true
     file: dist/*
     on:
-        repo: dlt-rilmta/HunTag3
+        repo: nytud/HunTag3
         branch: master
         tags: true
         condition: $TRAVIS_TAG =~ ^v[0-9]+\.[0-9]+\.[0-9]+$

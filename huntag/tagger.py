@@ -5,10 +5,9 @@ import sys
 import joblib
 from scipy.sparse import csr_matrix
 
-from .tools import BookKeeper, featurize_sentence, use_featurized_sentence, bind_features_to_indices, \
-    load_options_and_features
+from .tools import BookKeeper, featurize_sentence, use_featurized_sentence, bind_features_to_indices
 from .transmodel import TransModel
-from .argparser import valid_file
+from .argparser import valid_file, load_options_and_features
 
 
 class Tagger:
@@ -91,8 +90,7 @@ class Tagger:
                   format(target_fields_len), file=sys.stderr, flush=True)
             sys.exit(1)
         self._tag_field = field_names[self.target_fields[0]]
-        return bind_features_to_indices(self.features, {k: v for k, v in field_names.items()
-                                                        if k != self._tag_field and v != self._tag_field})
+        return bind_features_to_indices(self.features, self._tag_field, field_names)
 
     def process_sentence(self, sen, features_bound_to_column_ids):
         sen_feats = self._featurize_sentence_fun(sen, features_bound_to_column_ids)

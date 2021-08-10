@@ -2,9 +2,14 @@
 # -*- coding: utf-8, vim: expandtab:ts=4 -*-
 
 import sys
-from argparse import ArgumentTypeError, ArgumentParser
 from os import mkdir
+from argparse import ArgumentTypeError, ArgumentParser
 from os.path import isdir, isfile, abspath, dirname, join
+
+import yaml
+import numpy as np
+
+from huntag.feature import Feature
 
 
 def valid_dir(input_dir):
@@ -110,3 +115,97 @@ def parse_args(parser=ArgumentParser()):
         sys.exit(1)
 
     return options
+
+
+data_sizes = {'rows': 'Q', 'rows_np': np.uint64,         # Really big...
+              'cols': 'Q', 'cols_np': np.uint64,         # ...enough for indices
+              'data': 'B', 'data_np': np.uint8,          # Currently data = {0, 1}
+              'labels': 'H', 'labels_np': np.uint16,     # Currently labels > 256...
+              'sent_end': 'Q', 'sent_end_np': np.uint64  # Sentence Ends in rowIndex
+              }                                          # ...for safety
+
+
+def load_options_and_features(opts, source_fields, target_fields):
+    # Load default options
+    options = {'data_sizes': data_sizes, 'task': 'tag', 'inp_featurized': False,
+               'model_filename': '{0}{1}'.format(opts['model_name'], '.model'),
+               'featcounter_filename': '{0}{1}'.format(opts['model_name'], '.featureNumbers.gz'),
+               'labelcounter_filename': '{0}{1}'.format(opts['model_name'], '.labelNumbers.gz'),
+               'transmodel_filename': '{0}{1}'.format(opts['model_name'], '.transmodel')}
+
+    options.update(opts)  # Update defaults with supplied options
+
+    # Load features
+    if options['inp_featurized']:  # Use with featurized input or raw input
+        features = None
+    elif 'features' not in options:  # Load features
+        features = get_featureset_yaml(options['cfg_file'])
+    else:
+        features = options['features']  # Or feed loaded features!
+
+    # Field names for e-magyar TSV
+    if source_fields is None:
+        source_fields = set()
+    if target_fields is None:
+        target_fields = []
+
+    source_fields = source_fields
+    target_fields = target_fields
+
+    source_fields = source_fields.union({field for feat in features.values() for field in feat.fields})
+    return features, source_fields, target_fields, options
+
+
+def load_yaml(cfg_file):
+    try:
+        with open(cfg_file, encoding='UTF-8') as fh:
+            lines = fh.readlines()
+    except FileNotFoundError:
+        print('Error: Config file ({0}) not found!'.format(cfg_file), file=sys.stderr)
+        sys.exit(1)
+
+    try:
+        start = lines.index('%YAML 1.1\n')
+    except ValueError:
+        print('Error in config file: No document start marker found!', file=sys.stderr)
+        sys.exit(1)
+    rev = lines[start:]
+    rev.reverse()
+    try:
+        end = rev.index('...\n')*(-1)
+    except ValueError:
+        print('Error in config file: No document end marker found!', file=sys.stderr)
+        sys.exit(1)
+    if end == 0:
+        lines = lines[start:]
+    else:
+        lines = lines[start:end]
+
+    return yaml.load(''.join(lines), Loader=yaml.SafeLoader)
+
+
+def get_featureset_yaml(cfg_file):
+    features = {}
+    default_radius = -1
+    default_cutoff = 1
+    cfg = load_yaml(cfg_file)
+
+    if 'default' in cfg:
+        default_cutoff = cfg['default'].get('cutoff', default_cutoff)
+        default_radius = cfg['default'].get('radius', default_radius)
+
+    for feat in cfg['features']:
+        options = feat.get('options', {})
+
+        fields = feat['fields'].split(',')
+
+        radius = feat.get('radius', default_radius)
+        cutoff = feat.get('cutoff', default_cutoff)
+        name = feat['name']
+
+        if feat['type'] == 'lex':  # Fix path for lexicon files if needed
+            feat['action_name'] = valid_file(feat['action_name'])
+
+        features[name] = Feature(feat['type'], name, feat['action_name'], fields, radius, cutoff, options)
+
+    return features

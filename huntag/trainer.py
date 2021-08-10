@@ -17,9 +17,8 @@ from sklearn.linear_model import LogisticRegression
 # from sklearn.svm import SVC
 # from sklearn.multiclass import OneVsRestClassifier
 
-from .tools import BookKeeper, featurize_sentence, use_featurized_sentence, bind_features_to_indices, \
-    load_options_and_features
-from .argparser import valid_file
+from .tools import BookKeeper, featurize_sentence, use_featurized_sentence, bind_features_to_indices
+from .argparser import valid_file, load_options_and_features
 
 
 class Trainer:
@@ -84,7 +83,7 @@ class Trainer:
             self._feat_filter = lambda token_feats: [feat for feat in token_feats if feat in used_feats]
             self._tag_field = 0  # Always the first field!
 
-    def save(self):
+    def save(self):  # TODO drop joblib when bumping to Python 3.8 and piclke protocol=5
         print('saving model...', end='', file=sys.stderr, flush=True)
         joblib.dump(self._model, '{0}'.format(self._model_file_name), compress=3)
         print('done\nsaving feature and label lists...', end='', file=sys.stderr, flush=True)
@@ -199,8 +198,7 @@ class Trainer:
 
     def prepare_fields(self, field_names):
         self._tag_field = field_names.get(self._tag_field_name)  # Bind tag field separately as it has no feature
-        return bind_features_to_indices(self.features, {k: v for k, v in field_names.items()
-                                                        if k != self._tag_field and v != self._tag_field})
+        return bind_features_to_indices(self.features, self._tag_field, field_names)
 
     def process_sentence(self, sen, features):
         """
