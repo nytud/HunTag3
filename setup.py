@@ -42,7 +42,7 @@ setuptools.setup(
                       'numpy',
                       'scipy',
                       'joblib',
-                      'scikit-learn==0.21.2',
+                      'scikit-learn==0.24.2',
                       ],
     include_package_data=True,
     entry_points={
